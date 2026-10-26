@@ -536,7 +536,7 @@
       },
       "status": "moved",
       "verified": "pixels-identical",
-      "notes": "polyhymnia packages/homepage-art/catalog.json; output/imagegen png is 1410x1116; delivered cropped lossless webp is 1367x1000; the png is the uncropped generation, decide which is the master; prefix stripped from \"illuminated-acanthus-floral-frame\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+      "notes": "polyhymnia packages/homepage-art/catalog.json; output/imagegen png is 1410x1116; delivered cropped lossless webp is 1367x1000; the png is the uncropped generation, decide which is the master; prefix stripped from \"illuminated-acanthus-floral-frame\"; wave 1 (set); split in review into title-ivy-open (left half, bounds 134,75 539x733 of the source) and title-ivy-close (right half, bounds 1143,329 519x312); the old opening/closing bounds are no longer needed"
     },
     {
       "old": {
@@ -555,7 +555,7 @@
       },
       "status": "moved",
       "verified": "pixels-identical",
-      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-frame-growth-bottom-left\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-frame-growth-bottom-left\"; wave 1 (set); split in review into title-ivy-open (left half, bounds 134,75 539x733 of the source) and title-ivy-close (right half, bounds 1143,329 519x312); the old opening/closing bounds are no longer needed"
     },
     {
       "old": {
@@ -574,7 +574,7 @@
       },
       "status": "moved",
       "verified": "pixels-identical",
-      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-frame-growth-bottom-right\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-frame-growth-bottom-right\"; wave 1 (set); split in review into title-ivy-open (left half, bounds 134,75 539x733 of the source) and title-ivy-close (right half, bounds 1143,329 519x312); the old opening/closing bounds are no longer needed"
     },
     {
       "old": {
@@ -593,7 +593,7 @@
       },
       "status": "moved",
       "verified": "pixels-identical",
-      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-frame-growth-top-left\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-frame-growth-top-left\"; wave 1 (set); split in review into title-ivy-open (left half, bounds 134,75 539x733 of the source) and title-ivy-close (right half, bounds 1143,329 519x312); the old opening/closing bounds are no longer needed"
     },
     {
       "old": {
@@ -612,7 +612,7 @@
       },
       "status": "moved",
       "verified": "pixels-identical",
-      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-frame-growth-top-right\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-frame-growth-top-right\"; wave 1 (set); split in review into title-ivy-open (left half, bounds 134,75 539x733 of the source) and title-ivy-close (right half, bounds 1143,329 519x312); the old opening/closing bounds are no longer needed"
     },
     {
       "old": {
@@ -688,7 +688,7 @@
       },
       "status": "moved",
       "verified": "pixels-identical",
-      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-inward-growth-bottom-left\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-inward-growth-bottom-left\"; wave 1 (set); split in review into title-ivy-open (left half, bounds 134,75 539x733 of the source) and title-ivy-close (right half, bounds 1143,329 519x312); the old opening/closing bounds are no longer needed"
     },
     {
       "old": {
@@ -707,7 +707,7 @@
       },
       "status": "moved",
       "verified": "pixels-identical",
-      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-inward-growth-bottom-right\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-inward-growth-bottom-right\"; wave 1 (set); split in review into title-ivy-open (left half, bounds 134,75 539x733 of the source) and title-ivy-close (right half, bounds 1143,329 519x312); the old opening/closing bounds are no longer needed"
     },
     {
       "old": {
@@ -726,7 +726,7 @@
       },
       "status": "moved",
       "verified": "pixels-identical",
-      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-inward-growth-top-left\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-inward-growth-top-left\"; wave 1 (set); split in review into title-ivy-open (left half, bounds 134,75 539x733 of the source) and title-ivy-close (right half, bounds 1143,329 519x312); the old opening/closing bounds are no longer needed"
     },
     {
       "old": {
@@ -745,7 +745,7 @@
       },
       "status": "moved",
       "verified": "pixels-identical",
-      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-inward-growth-top-right\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-inward-growth-top-right\"; wave 1 (set); split in review into title-ivy-open (left half, bounds 134,75 539x733 of the source) and title-ivy-close (right half, bounds 1143,329 519x312); the old opening/closing bounds are no longer needed"
     },
     {
       "old": {
@@ -783,7 +783,7 @@
       },
       "status": "moved",
       "verified": "pixels-identical",
-      "notes": "polyhymnia packages/homepage-art/catalog.json; no png in output/imagegen; lossless webp from packages/homepage-art is the only master; prefix stripped from \"illuminated-acanthus-module-sprig\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+      "notes": "polyhymnia packages/homepage-art/catalog.json; no png in output/imagegen; lossless webp from packages/homepage-art is the only master; prefix stripped from \"illuminated-acanthus-module-sprig\"; wave 1 (set); split in review into title-ivy-open (left half, bounds 134,75 539x733 of the source) and title-ivy-close (right half, bounds 1143,329 519x312); the old opening/closing bounds are no longer needed"
     },
     {
       "old": {
@@ -802,7 +802,7 @@
       },
       "status": "moved",
       "verified": "pixels-identical",
-      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-ornate-inner-frame\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-ornate-inner-frame\"; wave 1 (set); split in review into title-ivy-open (left half, bounds 134,75 539x733 of the source) and title-ivy-close (right half, bounds 1143,329 519x312); the old opening/closing bounds are no longer needed"
     },
     {
       "old": {
@@ -840,7 +840,7 @@
       },
       "status": "moved",
       "verified": "pixels-identical",
-      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-saltarello-lower-finished\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-saltarello-lower-finished\"; wave 1 (set); split in review into title-ivy-open (left half, bounds 134,75 539x733 of the source) and title-ivy-close (right half, bounds 1143,329 519x312); the old opening/closing bounds are no longer needed"
     },
     {
       "old": {
@@ -859,7 +859,7 @@
       },
       "status": "moved",
       "verified": "pixels-identical",
-      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-saltarello-lower-simple\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-saltarello-lower-simple\"; wave 1 (set); split in review into title-ivy-open (left half, bounds 134,75 539x733 of the source) and title-ivy-close (right half, bounds 1143,329 519x312); the old opening/closing bounds are no longer needed"
     },
     {
       "old": {
@@ -878,7 +878,7 @@
       },
       "status": "moved",
       "verified": "pixels-identical",
-      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-saltarello-lower\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-saltarello-lower\"; wave 1 (set); split in review into title-ivy-open (left half, bounds 134,75 539x733 of the source) and title-ivy-close (right half, bounds 1143,329 519x312); the old opening/closing bounds are no longer needed"
     },
     {
       "old": {
@@ -897,7 +897,7 @@
       },
       "status": "moved",
       "verified": "pixels-identical",
-      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-saltarello-upper-finished\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-saltarello-upper-finished\"; wave 1 (set); split in review into title-ivy-open (left half, bounds 134,75 539x733 of the source) and title-ivy-close (right half, bounds 1143,329 519x312); the old opening/closing bounds are no longer needed"
     },
     {
       "old": {
@@ -916,7 +916,7 @@
       },
       "status": "moved",
       "verified": "pixels-identical",
-      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-saltarello-upper-simple\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-saltarello-upper-simple\"; wave 1 (set); split in review into title-ivy-open (left half, bounds 134,75 539x733 of the source) and title-ivy-close (right half, bounds 1143,329 519x312); the old opening/closing bounds are no longer needed"
     },
     {
       "old": {
@@ -935,7 +935,7 @@
       },
       "status": "moved",
       "verified": "pixels-identical",
-      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-saltarello-upper\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-saltarello-upper\"; wave 1 (set); split in review into title-ivy-open (left half, bounds 134,75 539x733 of the source) and title-ivy-close (right half, bounds 1143,329 519x312); the old opening/closing bounds are no longer needed"
     },
     {
       "old": {
@@ -984,7 +984,7 @@
         "masterSha256": "440f4068a8d384a0db985f7de833960313729ea2c256db0755129596346b5884"
       },
       "new": {
-        "id": "illuminated-acanthus/title-ivy",
+        "id": "illuminated-acanthus/title-ivy-open",
         "set": "illuminated-acanthus",
         "package": "@ranx729/ducktape-assets-illuminated-acanthus",
         "version": null,
@@ -992,7 +992,7 @@
       },
       "status": "moved",
       "verified": "pixels-identical",
-      "notes": "polyhymnia packages/homepage-art/catalog.json; no png in output/imagegen; lossless webp from packages/homepage-art is the only master; prefix stripped from \"illuminated-acanthus-title-ivy\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+      "notes": "polyhymnia packages/homepage-art/catalog.json; no png in output/imagegen; lossless webp from packages/homepage-art is the only master; prefix stripped from \"illuminated-acanthus-title-ivy\"; wave 1 (set); split in review into title-ivy-open (left half, bounds 134,75 539x733 of the source) and title-ivy-close (right half, bounds 1143,329 519x312); the old opening/closing bounds are no longer needed"
     },
     {
       "old": {
@@ -1296,7 +1296,7 @@
       },
       "status": "moved",
       "verified": "pixels-identical",
-      "notes": "PNG extracted from data URI in polyhymnia-logo-acanthus.svg (no standalone PNG on disk); descriptor 1254x1254; sha256 matches descriptor; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+      "notes": "PNG extracted from data URI in polyhymnia-logo-acanthus.svg (no standalone PNG on disk); descriptor 1254x1254; sha256 matches descriptor; wave 1 (set); split in review into title-ivy-open (left half, bounds 134,75 539x733 of the source) and title-ivy-close (right half, bounds 1143,329 519x312); the old opening/closing bounds are no longer needed"
     },
     {
       "old": {

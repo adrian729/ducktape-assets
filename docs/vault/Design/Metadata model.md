@@ -54,7 +54,7 @@ region: Flanders
 style: illuminated manuscript
 
 # structural: how it is organised and related
-group: 194v                              # folio, plate or theme inside the set; replaces the old nested sets
+group: 194v                              # folio, plate, series or theme inside the set; replaces the old nested sets. Never a type: that is `type`
 render:
   image: {}                              # image | tile {axis, period} | frame {corner, slice}
 components: {}                           # for example corner: { master: corner.png, description: … }

@@ -3181,11 +3181,11 @@ entries:
     notes: "prefix stripped from \"illuminated-acanthus-tailpiece\"; wave 1 (set)"
   - old: "illuminated-acanthus-title-ivy"
     set: "illuminated-acanthus"
-    id: "illuminated-acanthus/title-ivy"
+    id: "illuminated-acanthus/title-ivy-open"
     group: null
     wave: 1
     status: moved
-    notes: "polyhymnia packages/homepage-art/catalog.json; no png in output/imagegen; lossless webp from packages/homepage-art is the only master; prefix stripped from \"illuminated-acanthus-title-ivy\"; wave 1 (set)"
+    notes: "polyhymnia packages/homepage-art/catalog.json; no png in output/imagegen; lossless webp from packages/homepage-art is the only master; prefix stripped from \"illuminated-acanthus-title-ivy\"; wave 1 (set); split in review into title-ivy-open and title-ivy-close"
   - old: "illuminated-acanthus-vertical-sprig"
     set: "illuminated-acanthus"
     id: "illuminated-acanthus/vertical-sprig"

@@ -10,7 +10,7 @@
 #      passkey once; npmjs.com then offers "skip 2FA for 5 minutes", accept it so the rest of the loop runs unattended).
 #   3. For each: `npm trust github ...` binding the name to adrian729/ducktape-assets, workflow publish.yml, environment
 #      release, with publish allowed (configs created after 2026-09-03 default to stage-only without --allow-publish).
-#   4. Triggers the publisher workflow, which you then approve on the run page (the trust config expires in 2 days if unused).
+#   4. Triggers the publisher workflow (the trust config expires in 2 days if unused). No approval step since 2026-10-26.
 #
 # Flags of `npm trust` were taken from the npm docs on 2026-10-26; if the command rejects them, run `npm help trust` and
 # adjust the two lines marked ADJUST. Nothing here is destructive: placeholders are 0.0.0 and are superseded by the first
@@ -31,9 +31,10 @@ else
   # Every package name a plan would publish for the registered sets, plus the index package.
   while IFS= read -r id; do
     names+=("$SCOPE/ducktape-assets-$id" "$SCOPE/ducktape-assets-$id-masters")
-  done < <(node -e 'const y=require("yaml"),fs=require("fs");for(const s of y.parse(fs.readFileSync("sets.yaml","utf8")).sets)console.log(s.id)' 2>/dev/null || node --prefix tools -e 'const y=require("./tools/node_modules/yaml"),fs=require("fs");for(const s of y.parse(fs.readFileSync("sets.yaml","utf8")).sets)console.log(s.id)')
+  done < <(node -e 'const y=require(process.cwd()+"/tools/node_modules/yaml"),fs=require("fs");for(const s of y.parse(fs.readFileSync("sets.yaml","utf8")).sets)if(s.status==="active")console.log(s.id)')
   names+=("$SCOPE/ducktape-assets")
 fi
+[[ ${#names[@]} -ge 1 && -n "${names[0]}" ]] || { echo "could not list package names from sets.yaml (run from the repository root, with tools/node_modules installed)"; exit 1; }
 
 echo "logged in as: $(npm whoami)"
 echo "packages: ${names[*]}"
@@ -43,8 +44,7 @@ missing=()
 for n in "${names[@]}"; do
   if npm view "$n" version >/dev/null 2>&1; then echo "exists: $n"; else missing+=("$n"); fi
 done
-echo "to bootstrap: ${#missing[@]}"
-[[ ${#missing[@]} -eq 0 ]] && { echo "nothing to do"; exit 0; }
+echo "placeholders to publish: ${#missing[@]}"
 
 if [[ "${1:-}" == "--test-stage" ]]; then
   # Phase 0 unknown: does `npm stage publish` create a placeholder for a brand-new name? Record the answer in Open questions.
@@ -64,12 +64,15 @@ for n in "${missing[@]}"; do
   sleep 2
 done
 
-for n in "${missing[@]}"; do
+# Trust every name, not only the new ones: a name that already exists may still lack its trust config (an earlier run
+# that stopped early, or a placeholder published by hand). npm refuses a duplicate config, which is harmless here.
+for n in "${names[@]}"; do
   echo "trusting $n"
-  npm trust github "$n" --repo "$REPO" --file "$WORKFLOW" --env "$ENVIRONMENT" --allow-publish --yes   # ADJUST if npm rejects the flags
+  npm trust github "$n" --repo "$REPO" --file "$WORKFLOW" --env "$ENVIRONMENT" --allow-publish --yes \
+    || echo "  (trust config not created for $n: it probably exists already; check with: npm trust list $n)"
   sleep 2
 done
 
 echo
-echo "Trust configs expire in 2 days if unused. Triggering the publisher now; approve it on the run page:"
+echo "Trust configs expire in 2 days if unused. Triggering the publisher now (no approval step since 2026-10-26):"
 gh workflow run publish.yml --repo "$REPO" && gh run list --repo "$REPO" --workflow publish.yml --limit 1

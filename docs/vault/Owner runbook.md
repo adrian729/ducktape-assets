@@ -15,7 +15,7 @@ Deployment review requests only exist while an environment has required reviewer
 
 ## Once per batch of new package names: npm (passkey needed)
 
-`scripts/owner-npm-bootstrap.sh` does the whole sitting: checks who is logged in, publishes a 0.0.0 placeholder for every missing name (first publish asks for the passkey, then accept "skip 2FA for 5 minutes"), registers trusted publishing for each name bound to this repository, `publish.yml` and the `release` environment, and triggers the publisher. Wave 1 needs seven names. Run `./scripts/owner-npm-bootstrap.sh --test-stage` first if you want the Phase 0 answer on staged publishing for new names; it costs one throwaway name.
+`scripts/owner-npm-bootstrap.sh` does the whole sitting: checks who is logged in, publishes a 0.0.0 placeholder for every missing name (first publish asks for the passkey, then accept "skip 2FA for 5 minutes"), registers trusted publishing for every name bound to this repository, `publish.yml` and the `release` environment (an existing config is reported and skipped), and triggers the publisher. Wave 1 needs seven names. The first run on 2026-10-26 listed only the index package because of a bug in the set listing (fixed the same night); the index placeholder it published is fine and stays. Rerun the script for the six set package names. Run `./scripts/owner-npm-bootstrap.sh --test-stage` first if you want the Phase 0 answer on staged publishing for new names; it costs one throwaway name.
 
 If `npm trust` rejects the flags, `npm help trust` shows the current syntax; the two lines are marked ADJUST in the script.
 
