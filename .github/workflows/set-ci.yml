@@ -1,8 +1,14 @@
-# Reusable workflow called by every set repository's ci.yml. Validates metadata, builds into a temp dir, enforces the size guard,
-# and uploads a contact-sheet preview as an artifact on pull requests. No publishing, no id-token.
+# Reusable workflow called by every set repository's ci.yml. Validates metadata, builds into a temp dir (drafts included,
+# for the preview), enforces the size guard, and uploads a contact-sheet preview as an artifact on pull requests.
+# No publishing, no id-token. The tooling is checked out from this repository at `tools_ref`, so nothing is needed from npm.
 name: set-ci
 on:
   workflow_call:
+    inputs:
+      tools_ref:
+        description: "Ref of adrian729/ducktape-assets to take the tooling and schemas from"
+        type: string
+        default: main
 permissions:
   contents: read
   pull-requests: write
@@ -11,21 +17,23 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with: { node-version: 24 }
-      - name: Install tooling (pinned)
-        run: npm install --no-save @ranx729/ducktape-assets-tools@${TOOLS_VERSION}
-        env: { TOOLS_VERSION: "0.0.0" }   # replaced by the tag this workflow is called at; see publish.yml for how tags are cut
-      - name: Validate
-        run: npx ducktape-assets-tools validate .
-      - name: Restore build cache
-        uses: actions/cache@v4
+      - name: Check out the tooling
+        uses: actions/checkout@v4
         with:
-          path: .ducktape-cache
-          key: build-${{ runner.os }}-${{ hashFiles('assets/**', 'set.yaml') }}
-          restore-keys: build-${{ runner.os }}-
-      - name: Build and preview
-        run: npx ducktape-assets-tools build . --out .ducktape-out --preview --include-drafts
+          repository: adrian729/ducktape-assets
+          ref: ${{ inputs.tools_ref }}
+          path: .ducktape
+          sparse-checkout: |
+            tools
+            schemas
+      - uses: actions/setup-node@v4
+        with: { node-version: 24, cache: npm, cache-dependency-path: .ducktape/tools/package-lock.json }
+      - run: npm ci
+        working-directory: .ducktape/tools
+      - name: Validate
+        run: node .ducktape/tools/src/cli.mjs validate .
+      - name: Build and preview (drafts included)
+        run: node .ducktape/tools/src/cli.mjs build . --out .ducktape-out --preview --include-drafts --version 0.0.0
       - name: Upload preview
         if: github.event_name == 'pull_request'
         uses: actions/upload-artifact@v4
@@ -43,7 +51,8 @@ jobs:
             const n = Object.keys(m.assets).length;
             const bytes = Object.values(m.assets).flatMap(a => [...(a.sources.webp||[]), ...(a.sources.avif||[])]).reduce((s,f)=>s+f.bytes,0);
             const avif = Object.values(m.assets).filter(a => a.sources.avif?.length).length;
-            console.log(`### Build preview\n\n${n} assets, ${(bytes/1e6).toFixed(1)} MB of delivery files, AVIF kept for ${avif}/${n}. Download the "preview" artifact for the contact sheet.`);
+            const drafts = (m.drafts||[]).length;
+            console.log(`### Build preview\n\n${n} assets (${drafts} drafts), ${(bytes/1e6).toFixed(1)} MB of delivery files, AVIF kept for ${avif}/${n}. Download the "preview" artifact for the contact sheet.`);
           ' > comment.md
           gh pr comment ${{ github.event.pull_request.number }} --body-file comment.md
         env: { GH_TOKEN: "${{ github.token }}" }

@@ -1,5 +1,8 @@
 # Registry of sets the publisher knows about. One entry per set repository.
 # id: set id (= package suffix). repo: GitHub owner/name; defaults to adrian729/ducktape-assets-<id>, stated only for exceptions.
 # status: active | frozen | archived. added: date registered.
-# Empty until wave 1 creates the first set repositories (see docs/vault/Design/Roadmap.md).
-sets: []
+# A set whose assets are all drafts is registered but excluded from every plan until something is approved.
+sets:
+  - { id: illuminated-acanthus, status: active, added: 2026-10-26 }
+  - { id: medieval-cutouts, status: active, added: 2026-10-26 }
+  - { id: walters-w102, status: active, added: 2026-10-26 }

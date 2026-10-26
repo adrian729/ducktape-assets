@@ -40,4 +40,5 @@ Start with [[Ducktape Assets]] (the owner's brief), then [[Design/Architecture]]
 
 ## Open
 
+- [[Owner runbook]]: the few things only the owner does, with the command or page for each.
 - [[Open questions]]: what the owner decides, what Phase 0 verifies.
