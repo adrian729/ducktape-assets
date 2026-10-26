@@ -29,12 +29,14 @@ if [[ "${1:-}" == "--test-stage" ]]; then
   names=("$SCOPE/ducktape-assets-zz-stage-test")
 else
   # Every package name a plan would publish for the registered sets, plus the index package.
+  # sets.yaml lists one flow-style entry per line: `  - { id: <set>, status: active, ... }`. Parsed with sed so that this
+  # script needs nothing installed.
   while IFS= read -r id; do
-    names+=("$SCOPE/ducktape-assets-$id" "$SCOPE/ducktape-assets-$id-masters")
-  done < <(node -e 'const y=require(process.cwd()+"/tools/node_modules/yaml"),fs=require("fs");for(const s of y.parse(fs.readFileSync("sets.yaml","utf8")).sets)if(s.status==="active")console.log(s.id)')
+    [[ -n "$id" ]] && names+=("$SCOPE/ducktape-assets-$id" "$SCOPE/ducktape-assets-$id-masters")
+  done < <(sed -n -E 's/^[[:space:]]*-[[:space:]]*\{[[:space:]]*id:[[:space:]]*([A-Za-z0-9-]+),[[:space:]]*status:[[:space:]]*active.*/\1/p' sets.yaml)
+  [[ ${#names[@]} -ge 2 ]] || { echo "no active set found in sets.yaml; refusing to continue (run from the repository root)"; exit 1; }
   names+=("$SCOPE/ducktape-assets")
 fi
-[[ ${#names[@]} -ge 1 && -n "${names[0]}" ]] || { echo "could not list package names from sets.yaml (run from the repository root, with tools/node_modules installed)"; exit 1; }
 
 echo "logged in as: $(npm whoami)"
 echo "packages: ${names[*]}"
