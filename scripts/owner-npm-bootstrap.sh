@@ -62,7 +62,9 @@ for n in "${missing[@]}"; do
   printf '{"name":"%s","version":"0.0.0","description":"Placeholder; the first real release is published by %s","license":"MIT","repository":{"type":"git","url":"git+https://github.com/%s.git"},"publishConfig":{"access":"public"}}\n' "$n" "$REPO" "$REPO" > "$d/package.json"
   printf '# %s\n\nPlaceholder. See https://github.com/%s\n' "$n" "$REPO" > "$d/README.md"
   echo "publishing placeholder $n"
-  (cd "$d" && npm publish --access public)
+  # The public registry view can lag minutes behind a fresh publish, so a name published moments ago may still look
+  # missing above; npm then answers "cannot publish over the previously published versions: 0.0.0", which means it exists.
+  (cd "$d" && npm publish --access public) || echo "  (placeholder already published for $n; continuing)"
   sleep 2
 done
 
