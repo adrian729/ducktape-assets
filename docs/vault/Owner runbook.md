@@ -5,13 +5,13 @@ The short list of things only the owner can do, with the exact command or page f
 ## Done on 2026-10-26 by an agent with the owner's `gh` session
 
 - Main repository created and pushed: https://github.com/adrian729/ducktape-assets (public, `main`, CI green).
-- `release` environment created with `adrian729` as required reviewer, self-review allowed, deployments from `main` only.
+- `release` environment created, deployments from `main` only. The required reviewer was removed by the owner the same day.
 - Tag `v0` on the main repository, which the set repositories' `ci.yml` pins for the reusable workflow. The reusable workflow checks the tooling out of this repository, so nothing has to exist on npm for set CI to run.
 - The three wave 1 set repositories created and pushed with their draft metadata: `ducktape-assets-illuminated-acanthus`, `ducktape-assets-medieval-cutouts`, `ducktape-assets-walters-w102`. Registered in `sets.yaml`. Drafts never publish, so registering them is safe.
 
-## Once: GitHub notification emails
+## Once: GitHub notification emails (no longer needed)
 
-Settings → Notifications → "Actions" → untick email for deployment review requests. The approve button is on the run page; no email is needed.
+Deployment review requests only exist while an environment has required reviewers. Since the reviewer was removed on 2026-10-26, GitHub sends none. If the gate is ever restored, the toggle is at https://github.com/settings/notifications under "System" → "Actions".
 
 ## Once per batch of new package names: npm (passkey needed)
 
@@ -19,9 +19,9 @@ Settings → Notifications → "Actions" → untick email for deployment review 
 
 If `npm trust` rejects the flags, `npm help trust` shows the current syntax; the two lines are marked ADJUST in the script.
 
-## Every publish: one click
+## Every publish: none
 
-Open the run under Actions → publish, read the summary table, click Review deployments → Approve. Nothing publishes without it. Drafts are never in the table.
+The owner removed the required reviewer on 2026-10-26, so a dispatch of `publish.yml` publishes without a click. The run summary table is the record. Drafts are never in it. To restore the gate: Settings → Environments → release → Required reviewers.
 
 ## Before the first publish: the metadata review
 

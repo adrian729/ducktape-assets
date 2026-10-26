@@ -40,7 +40,7 @@ publish (environment: release, required reviewer = owner; permissions id-token: 
   dispatch the gallery repo's deploy
 ```
 
-The owner opens the run, reads the summary table, approves. If a set repo is broken (validation fails in the plan job), the plan excludes it and says why; the rest still publishes.
+Owner decision 2026-10-26, after the repositories went live: the required reviewer was removed from the `release` environment so agents can publish without waiting. The manual dispatch is now the only "go"; the environment still exists because the npm trust configurations are bound to it. The plan table in the run summary remains the record of what went out. (Original design: the owner opens the run, reads the summary table, approves.) If a set repo is broken (validation fails in the plan job), the plan excludes it and says why; the rest still publishes.
 
 Why the publisher lives in the main repo and not in each set repo: trusted publishing binds a package to a repo plus a workflow filename plus an environment, and environment approval is per job. Publishing from each set repo would mean one approval per set per batch. Publishing everything from one job in one repo means one approval. The set repos stay secret-free because public repos can be cloned with no token at all.
 

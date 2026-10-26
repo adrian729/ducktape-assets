@@ -19,10 +19,10 @@ All nine owner decisions are closed as of 2026-10-26. New since the dry run, nee
 
 ## Needs the owner next (state at the end of 2026-10-26)
 
-1. Commit the main repository and push it to `adrian729/ducktape-assets` (public), then create the `release` environment with yourself as required reviewer and turn off deployment-review emails.
-2. Create the three wave 1 set repositories on GitHub (`tools new-set --github`, or push `tmp/wave1/*` as they are) once their metadata review is done.
-3. The metadata review itself: the 80 imported records are drafts (`status: draft`, `review: pending`); an agent rewrites them against the model, you spot-check the preview contact sheets, assets flip to `approved`. Drafts never publish.
-4. npm, in one sitting: test staged publishing with a throwaway name, then `tools bootstrap` for the seven wave 1 package names (one passkey tap), then dispatch the publisher and approve once.
+1. ~~Commit and push the main repository; create the `release` environment.~~ Done 2026-10-26 by an agent with the owner's `gh` session. The owner then removed the required reviewer, so no deployment-review emails exist and no approve click is needed.
+2. ~~Create the three wave 1 set repositories on GitHub.~~ Done 2026-10-26, drafts pushed, CI green.
+3. The metadata review: in progress by agents on 2026-10-26 (one per set, from the built previews). Assets flip to `approved` in those commits; the owner spot-checks whenever convenient. Drafts never publish.
+4. npm, in one sitting: `scripts/owner-npm-bootstrap.sh` (placeholders for the seven wave 1 names plus trust configs, one passkey tap), which ends by dispatching the publisher. See [[Owner runbook]].
 5. Optional, later: the Cloudflare drill for the fallback host, and the single-object-holding rule for wave 2.
 
 ## To verify in Phase 0
