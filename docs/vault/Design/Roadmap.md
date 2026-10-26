@@ -15,7 +15,7 @@ Done locally on 2026-10-26, results in [[Investigation/Importer dry run]] and [[
 Needs the owner's account, batched into one sitting:
 
 - Test `npm stage publish` for a brand-new name from CI, and `npm trust` bulk registration in one 2FA window with two throwaway names. Record the result in [[Open questions]].
-- Repeat the determinism check on two GitHub runners once the main repo exists.
+- ~~Repeat the determinism check on a GitHub runner.~~ Done 2026-10-26: runner and laptop hashes identical for the W.102 set.
 - Confirm jsDelivr's `Content-Type` for AVIF on the first published test package (WebP, JSON, `immutable` and CORS are already verified).
 
 ## Phase 1: schemas and tooling (built locally 2026-10-26, nothing on GitHub or npm yet)

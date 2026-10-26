@@ -29,7 +29,7 @@ All nine owner decisions are closed as of 2026-10-26. New since the dry run, nee
 
 - Whether `npm stage publish` creates a placeholder for a brand-new package name from CI (conflicting sources).
 - Whether a single `npm trust` 2FA window really covers about 80 packages at our pace.
-- Byte-determinism of `sharp` output across two GitHub runners with the same pinned version (verified on one machine only). The design does not depend on it, but it tells us whether `contentHash` can be trusted for cross-run comparison.
+- ~~Byte-determinism of `sharp` output across machines.~~ Verified 2026-10-26: the GitHub `ubuntu-24.04` runner and the laptop produced the same `contentHash` for the Walters W.102 set (60 files, WebP and AVIF, `sharp.concurrency(1)`). The design still does not depend on it, but `contentHash` can be compared across runs.
 - The AVIF-versus-WebP decision rule (keep AVIF when at least 15 % smaller at the top rung) on twenty real transparent borders and ornaments from the collection, not just on painted scenes.
 - Build time per asset on a free runner with the chosen effort values, to size the migration build and confirm the cache strategy.
 - The GitHub Actions artifact quota for public repos (500 MB is the documented Free figure).

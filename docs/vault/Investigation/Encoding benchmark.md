@@ -44,6 +44,7 @@ Decision 2026-10-26: lossy WebP uses effort 4 at every rung (first 512 px and ab
 - Two full builds on one machine: 608 of 608 files byte-identical, across lossy WebP, AVIF and lossless WebP.
 - sharp's default `concurrency()` on glibc Linux without jemalloc is 1 thread, which is what both runs used.
 - With `concurrency(8)` versus 1: 30 of 89 AVIF files differ; every WebP file is identical. libaom's multi-threaded path changes bytes.
+- Cross-machine, same day: the first set CI run on a GitHub `ubuntu-24.04` runner produced the same `contentHash` as the laptop for the W.102 set (60 files incl. AVIF), with the pinned sharp build from the lockfile.
 - Consequence: the build pins `sharp.concurrency(1)` and records it in the manifest's `tooling` block; parallelism comes from building several assets at once, not from threads. The inputs-hash gate stays the publish decision; `contentHash` remains integrity only.
 
 ## Masters package
