@@ -2964,11 +2964,11 @@ entries:
     notes: ""
   - old: "illuminated-acanthus-corner"
     set: "illuminated-acanthus"
-    id: "illuminated-acanthus/corner"
+    id: "illuminated-acanthus/corner-top-left"
     group: null
     wave: 1
     status: moved
-    notes: "prefix stripped from \"illuminated-acanthus-corner\"; wave 1 (allow, polyhymnia)"
+    notes: "prefix stripped from \"illuminated-acanthus-corner\", renamed to corner-top-left in review; wave 1 (allow, polyhymnia)"
   - old: "illuminated-acanthus-corner-bottom-left"
     set: "illuminated-acanthus"
     id: "illuminated-acanthus/corner-bottom-left"
@@ -8326,7 +8326,7 @@ entries:
     notes: "wave 1 (allow, elder-scrolls)"
   - old: "white-animal-bagpiper"
     set: "medieval-cutouts"
-    id: "medieval-cutouts/white-animal-bagpiper"
+    id: "medieval-cutouts/cat-bagpiper"
     group: null
     wave: 2
     status: moved

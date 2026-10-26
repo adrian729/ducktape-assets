@@ -452,7 +452,7 @@
         "masterSha256": "3fccef2495b7406f25856f249464b88bfe52b4705348f387211ff40375b47a6f"
       },
       "new": {
-        "id": "illuminated-acanthus/corner",
+        "id": "illuminated-acanthus/corner-top-left",
         "set": "illuminated-acanthus",
         "package": "@ranx729/ducktape-assets-illuminated-acanthus",
         "version": null,
@@ -1497,7 +1497,7 @@
         "masterSha256": "48db8fdf6076f5f561c307a886c4997b1db7f0fbf1e69694ae122cc406f84cdb"
       },
       "new": {
-        "id": "medieval-cutouts/white-animal-bagpiper",
+        "id": "medieval-cutouts/cat-bagpiper",
         "set": "medieval-cutouts",
         "package": "@ranx729/ducktape-assets-medieval-cutouts",
         "version": null,
