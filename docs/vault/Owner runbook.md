@@ -23,9 +23,9 @@ If `npm trust` rejects the flags, `npm help trust` shows the current syntax; the
 
 The owner removed the required reviewer on 2026-10-26, so a dispatch of `publish.yml` publishes without a click. The run summary table is the record. Drafts are never in it. To restore the gate: Settings → Environments → release → Required reviewers.
 
-## Before the first publish: the metadata review
+## Before the first publish: the metadata review (done 2026-10-26)
 
-The 80 wave 1 records are drafts. An agent rewrites each against [[Design/Metadata model]], you look at the preview contact sheet in the PR (artifact "preview") and a sample of records, merge, and the assets flip to `approved` in that PR. A set with no approved asset is excluded from every plan.
+All 80 wave 1 records are reviewed, approved and pushed to the set repos. Spot-check whenever convenient: each set repo's README lists every asset with its title, and the CI run's "preview" artifact is the contact sheet. Ids become permanent at the first publish; the reviewers' remaining naming suggestions are listed in [[Design/Migration]]. Decide them before running the npm bootstrap, or accept the ids as they are.
 
 ## Later, optional
 

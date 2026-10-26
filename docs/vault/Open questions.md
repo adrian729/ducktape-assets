@@ -21,7 +21,7 @@ All nine owner decisions are closed as of 2026-10-26. New since the dry run, nee
 
 1. ~~Commit and push the main repository; create the `release` environment.~~ Done 2026-10-26 by an agent with the owner's `gh` session. The owner then removed the required reviewer, so no deployment-review emails exist and no approve click is needed.
 2. ~~Create the three wave 1 set repositories on GitHub.~~ Done 2026-10-26, drafts pushed, CI green.
-3. The metadata review: in progress by agents on 2026-10-26 (one per set, from the built previews). Assets flip to `approved` in those commits; the owner spot-checks whenever convenient. Drafts never publish.
+3. ~~The metadata review.~~ Done 2026-10-26: all 80 records approved and pushed, vocabulary rebuilt, two ids renamed; see [[Design/Migration]] for the reviewers' open flags (`title-ivy` split, bunny/rabbit naming, grid ids). Ids become permanent at the first publish, so decide those before running the bootstrap, or accept them.
 4. npm, in one sitting: `scripts/owner-npm-bootstrap.sh` (placeholders for the seven wave 1 names plus trust configs, one passkey tap), which ends by dispatching the publisher. See [[Owner runbook]].
 5. Optional, later: the Cloudflare drill for the fallback host, and the single-object-holding rule for wave 2.
 
