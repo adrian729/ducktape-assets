@@ -1,0 +1,14 @@
+# Replace every value. See https://github.com/adrian729/ducktape-assets/blob/main/schemas/set.schema.json
+id: my-set
+title: My set
+summary: One sentence saying what this set contains and where it comes from.
+kind: authored                 # authored | historical | imported
+author: adrian729
+maintainer: https://github.com/adrian729/ducktape-assets/issues
+license:
+  artwork: CC-BY-4.0
+  notes: Attribution to adrian729.
+period: ""
+region: ""
+style: ""
+tags: []

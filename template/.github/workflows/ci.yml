@@ -1,0 +1,12 @@
+# Validate and preview on every PR and push. Never publishes; publishing happens from the main repository.
+name: ci
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+  pull-requests: write
+jobs:
+  set:
+    uses: adrian729/ducktape-assets/.github/workflows/set-ci.yml@v0   # pinned tag of the tooling; bumped by tooling PRs

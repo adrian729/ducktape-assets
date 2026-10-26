@@ -1,0 +1,6294 @@
+{
+ "versions": {
+  "aom": "3.15.1",
+  "archive": "3.8.9",
+  "cairo": "1.18.6",
+  "cgif": "0.5.4",
+  "exif": "0.6.26",
+  "expat": "2.8.5",
+  "ffi": "3.8.0",
+  "fontconfig": "2.18.3",
+  "freetype": "2.14.3",
+  "fribidi": "1.0.17",
+  "glib": "2.90.0",
+  "harfbuzz": "14.5.0",
+  "heif": "1.23.5",
+  "highway": "1.4.0",
+  "imagequant": "2.4.1",
+  "lcms": "2.19.1",
+  "mozjpeg": "0826579",
+  "pango": "1.58.2",
+  "pixman": "0.46.4",
+  "png": "1.6.58",
+  "proxy-libintl": "0.5",
+  "rsvg": "2.63.2",
+  "tiff": "4.7.2",
+  "uhdr": "2.0.2",
+  "vips": "8.18.7",
+  "webp": "1.6.0",
+  "xml2": "2.15.4",
+  "zlib-ng": "2.3.3",
+  "sharp": "0.35.5"
+ },
+ "concurrency": 1,
+ "totalSec": 1874.9166762840468,
+ "results": [
+  {
+   "name": "gold-quatrefoil-vine",
+   "group": "border",
+   "master": {
+    "width": 1024,
+    "height": 384,
+    "pngBytes": 60337
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024
+   ],
+   "top": 1024,
+   "totalSec": 12.521226346027106,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "gold-quatrefoil-vine-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 384,
+     "bytes": 20012,
+     "sec": 2.329298294847831,
+     "sha256": "c6df5a194e9f8b35a7c77ee646c091a687e394e51f40b4d4ae601fbad04c1e98"
+    },
+    {
+     "file": "gold-quatrefoil-vine-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 384,
+     "bytes": 15585,
+     "sec": 0.7411341238766909,
+     "sha256": "0cd61cf80db9a7659bb54700fd6f7dcdfe3e22e14daa2db37c452d35a82bada3"
+    },
+    {
+     "file": "gold-quatrefoil-vine-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 24,
+     "bytes": 1318,
+     "sec": 0.03787380619905889,
+     "sha256": "4193787fd2d2128a7ddc5ea13a47f99bd675ecc9212b19fba50cee4bd01d1937"
+    },
+    {
+     "file": "gold-quatrefoil-vine-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 36,
+     "bytes": 2250,
+     "sec": 0.09011882706545293,
+     "sha256": "b93f6971c89ef9507539aab8ba87700177065d206eb123db958caf3a7804c75e"
+    },
+    {
+     "file": "gold-quatrefoil-vine-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 48,
+     "bytes": 2776,
+     "sec": 0.15331673808395863,
+     "sha256": "21c0edfd09a9531e2fd4e0c8c77c35a3db616893ec6196029ee232d3f51f70fe"
+    },
+    {
+     "file": "gold-quatrefoil-vine-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 72,
+     "bytes": 4286,
+     "sec": 0.3940375251695514,
+     "sha256": "838927547754e7e47211893fd1ff9a2adb7cda9972036645e7a558ce4a5815ee"
+    },
+    {
+     "file": "gold-quatrefoil-vine-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 96,
+     "bytes": 5978,
+     "sec": 0.5969246220774949,
+     "sha256": "eb5667f2943f00f14283f9afd4137a1fbdb22d908bfbdda40ce58219d5e7dcf3"
+    },
+    {
+     "file": "gold-quatrefoil-vine-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 144,
+     "bytes": 9482,
+     "sec": 1.09647511318326,
+     "sha256": "de092f85ae8d6a200b35bd83b6f35f9facf3483205637446c5cfa0f1c856c030"
+    },
+    {
+     "file": "gold-quatrefoil-vine-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 192,
+     "bytes": 13110,
+     "sec": 1.7859295019879937,
+     "sha256": "e5565e5dfa3e09585c27f2d0620e70f75da1db96f2c550727409fba241dd26aa"
+    },
+    {
+     "file": "gold-quatrefoil-vine-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 288,
+     "bytes": 20266,
+     "sec": 3.287570129847154,
+     "sha256": "5abe8aaeb1f7445d09502bf42e390ac23177e44b404b5417e167f76a1308a088"
+    },
+    {
+     "file": "gold-quatrefoil-vine-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 24,
+     "bytes": 1515,
+     "sec": 0.03899154206737876,
+     "sha256": "61f2ac0d95650c779749efbd60942162c80d58bc20f0102dd4d1552496777114"
+    },
+    {
+     "file": "gold-quatrefoil-vine-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 36,
+     "bytes": 2100,
+     "sec": 0.0730424770154059,
+     "sha256": "63729ab551d678e8d78d7c8059189ee7ad08e3c43b8f0bd7008517bdd237025b"
+    },
+    {
+     "file": "gold-quatrefoil-vine-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 48,
+     "bytes": 3166,
+     "sec": 0.17443178105168045,
+     "sha256": "7ea5a429ec4c1d9b03117d9553512a97316f87ad2ff8614f78e6649a16c7ca68"
+    },
+    {
+     "file": "gold-quatrefoil-vine-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 72,
+     "bytes": 3614,
+     "sec": 0.1881535709835589,
+     "sha256": "b4a4d7f8adf2d6dade9ae69aa6e2ba50c3194142ea24317984ccba8d435f793e"
+    },
+    {
+     "file": "gold-quatrefoil-vine-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 96,
+     "bytes": 5679,
+     "sec": 0.45194213511422276,
+     "sha256": "df982a51739943762caaedb2375c448a1390804443a2af09e1cfeee0ad79aeb9"
+    },
+    {
+     "file": "gold-quatrefoil-vine-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 144,
+     "bytes": 8353,
+     "sec": 0.21538775600492954,
+     "sha256": "176e1e2a15a90d36520ade7fed5570e0e5974a5c577c77199e9aa22ec44a4318"
+    },
+    {
+     "file": "gold-quatrefoil-vine-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 192,
+     "bytes": 10835,
+     "sec": 0.2992676910944283,
+     "sha256": "c24b31c4d076b72fda1d655f79792b89eaab247639b25198c4b5bcc78ce505db"
+    },
+    {
+     "file": "gold-quatrefoil-vine-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 288,
+     "bytes": 16661,
+     "sec": 0.5318011010531336,
+     "sha256": "c0a3de440d74c7db7d8b7e27b7054af5c7c25781b11a75141041977c2f972a03"
+    },
+    {
+     "file": "gold-quatrefoil-vine-1024-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 1024,
+     "height": 384,
+     "bytes": 16430,
+     "sec": 0.02970796311274171,
+     "sha256": "05003fd457fe417b5f69755ab2ae002b9816d2eb33f40bc14c16a8732d9079a9"
+    }
+   ]
+  },
+  {
+   "name": "red-berry-vine",
+   "group": "border",
+   "master": {
+    "width": 1024,
+    "height": 384,
+    "pngBytes": 43008
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024
+   ],
+   "top": 1024,
+   "totalSec": 14.513700438896194,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "red-berry-vine-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 384,
+     "bytes": 15556,
+     "sec": 2.7919946471229196,
+     "sha256": "758a41e8fc6e9f2e153e28e984c48826459464f18b5e867fbafbf601d8595f57"
+    },
+    {
+     "file": "red-berry-vine-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 384,
+     "bytes": 14557,
+     "sec": 0.8134279008954763,
+     "sha256": "e453d114656fc485790e3ffda11a1a2790121315712ad9b4bd42b73c4b8488e0"
+    },
+    {
+     "file": "red-berry-vine-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 24,
+     "bytes": 1256,
+     "sec": 0.04233776987530291,
+     "sha256": "d1ac6b2d05f6cc52e49543118531dec52d5eeda00294880e954196d94a9a9d8e"
+    },
+    {
+     "file": "red-berry-vine-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 36,
+     "bytes": 1902,
+     "sec": 0.09180335002020001,
+     "sha256": "1093f5c3e9457c999e86a452888f349499e2a3a0df05b364135ecf4fe48672c9"
+    },
+    {
+     "file": "red-berry-vine-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 48,
+     "bytes": 2584,
+     "sec": 0.18709925515577197,
+     "sha256": "69fffc1f5574220e532df3f1eb29aaf9fe45e6d90ba499ad2b182904e0d6af46"
+    },
+    {
+     "file": "red-berry-vine-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 72,
+     "bytes": 4004,
+     "sec": 0.48081324994564056,
+     "sha256": "a1bfffcbe91ef94d87e3184af803352111eca23fec19d32b5623a47af0647fd5"
+    },
+    {
+     "file": "red-berry-vine-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 96,
+     "bytes": 5648,
+     "sec": 0.7821586050558835,
+     "sha256": "6d75c28a4da59dfa5eb1554e6ad3da40ecd94b933f7cec30fe23ca18dbc3fdeb"
+    },
+    {
+     "file": "red-berry-vine-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 144,
+     "bytes": 9222,
+     "sec": 1.2959745489060879,
+     "sha256": "4796798420ab4f87175ca607e54931b24f4830a1499749ddba32028a9bd9375f"
+    },
+    {
+     "file": "red-berry-vine-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 192,
+     "bytes": 12294,
+     "sec": 1.9936906748916954,
+     "sha256": "17ff289534e19c8ef0307f81a1b89241f53a91e74572655a2b2e1ab9f279a1bf"
+    },
+    {
+     "file": "red-berry-vine-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 288,
+     "bytes": 19514,
+     "sec": 3.7051885339897126,
+     "sha256": "2bd1e94e97d16346c403a8427d7a9197cc1129b74a4030070a2830ed6462c887"
+    },
+    {
+     "file": "red-berry-vine-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 24,
+     "bytes": 1419,
+     "sec": 0.03593876492232084,
+     "sha256": "525a3acf3f24444c1d01619b39cd5be898595fd6069c4407b6ea602d50c35b4f"
+    },
+    {
+     "file": "red-berry-vine-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 36,
+     "bytes": 2007,
+     "sec": 0.10598607105202973,
+     "sha256": "025aa0cd649127f9096b9c5da2d0d2d83ad18f95f24cbbe0d8eccec322eafab1"
+    },
+    {
+     "file": "red-berry-vine-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 48,
+     "bytes": 2606,
+     "sec": 0.15597690711729228,
+     "sha256": "9ee7e88ce43c8a5a159616e428690e89a1a936b9c25d02e04f1abbd5cc54d61e"
+    },
+    {
+     "file": "red-berry-vine-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 72,
+     "bytes": 3759,
+     "sec": 0.32699648500420153,
+     "sha256": "21eeab6a591ad197cbdbb26986457ea73c492cd3a0593b19ed8bc7cfde2e607c"
+    },
+    {
+     "file": "red-berry-vine-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 96,
+     "bytes": 5343,
+     "sec": 0.47255815216340125,
+     "sha256": "ce636649b01717becb31496b6ca7ef4ab048a18de158bf0ca5a9188865494efd"
+    },
+    {
+     "file": "red-berry-vine-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 144,
+     "bytes": 8615,
+     "sec": 0.2356157300528139,
+     "sha256": "4e1336ef2f74a48a5beb519ab4a424b25fab7dc0b9da597bb351ce39bcd92518"
+    },
+    {
+     "file": "red-berry-vine-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 192,
+     "bytes": 11458,
+     "sec": 0.3871540669351816,
+     "sha256": "9eec921746c16b7dfbd9b41931819ee9fb38e2698a5de81dd4c9585d98a1ec17"
+    },
+    {
+     "file": "red-berry-vine-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 288,
+     "bytes": 16215,
+     "sec": 0.5688490411266685,
+     "sha256": "9da242495f8fbb04dd460afa96a1ac9557fbcd1fcf8d937006e9e85a3de2f914"
+    },
+    {
+     "file": "red-berry-vine-1024-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 1024,
+     "height": 384,
+     "bytes": 11828,
+     "sec": 0.03579832403920591,
+     "sha256": "d4b9ebf7268c241afa59e57b4073d7545d82e1e6d1eeb81baf380c4b14c9d5ac"
+    }
+   ]
+  },
+  {
+   "name": "rosselli-foliate-border",
+   "group": "border",
+   "master": {
+    "width": 274,
+    "height": 438,
+    "pngBytes": 309999
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    274
+   ],
+   "top": 274,
+   "totalSec": 34.64334471290931,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "rosselli-foliate-border-274.webp",
+     "kind": "webp",
+     "width": 274,
+     "height": 438,
+     "bytes": 93040,
+     "sec": 10.47318832599558,
+     "sha256": "0c3113607bb4ef92fb2c18ed0f9f2cda9c9d3ebe5df8e086f34145cb2a816a1b"
+    },
+    {
+     "file": "rosselli-foliate-border-274.avif",
+     "kind": "avif",
+     "width": 274,
+     "height": 438,
+     "bytes": 48234,
+     "sec": 1.0572232480626553,
+     "sha256": "f09a25595020b9114f39cc704667a84a5d4507a4fc0e3b84382b121e9a65e686"
+    },
+    {
+     "file": "rosselli-foliate-border-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 102,
+     "bytes": 8362,
+     "sec": 0.7028899609576911,
+     "sha256": "0931738b49a824da89e61a778311b03fb8ac5999770aa0f2ea0223ef44a53578"
+    },
+    {
+     "file": "rosselli-foliate-border-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 153,
+     "bytes": 16764,
+     "sec": 1.3220438219141215,
+     "sha256": "9060d682153207ce8310750623787897c622f630fa7758381462aa039cc596b7"
+    },
+    {
+     "file": "rosselli-foliate-border-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 205,
+     "bytes": 27336,
+     "sec": 2.1438966998830438,
+     "sha256": "d68ba3731852d1cc1ebb74565599b196f4e6a4ec139c1b6419609404014e277e"
+    },
+    {
+     "file": "rosselli-foliate-border-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 307,
+     "bytes": 54146,
+     "sec": 4.686712992144749,
+     "sha256": "6abcb5f2e17c76e2f5cf712633871cbd145ac1d7211c19ededb2e79daa82aece"
+    },
+    {
+     "file": "rosselli-foliate-border-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 409,
+     "bytes": 86494,
+     "sec": 9.210827314062044,
+     "sha256": "7f6a5e30486375df23ec79e46a631d701363a24edb90f35a38d5d888bba51a80"
+    },
+    {
+     "file": "rosselli-foliate-border-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 102,
+     "bytes": 5944,
+     "sec": 0.1487069029826671,
+     "sha256": "8a0168699a9ad7778559167e19b2e07258697a3f33533fc94a83728bfec9c4b3"
+    },
+    {
+     "file": "rosselli-foliate-border-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 153,
+     "bytes": 11151,
+     "sec": 0.3338090400211513,
+     "sha256": "1ebf9938c2a3b5cfc679f19aa3f4839dc8a4113765553390a5fa74f5a39da18a"
+    },
+    {
+     "file": "rosselli-foliate-border-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 205,
+     "bytes": 17261,
+     "sec": 0.5081880739890039,
+     "sha256": "8bd5dabe34405325ed96eb934afb7423587ad9121b3ecc5b1a12d1c957b8ef8d"
+    },
+    {
+     "file": "rosselli-foliate-border-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 307,
+     "bytes": 31089,
+     "sec": 1.4482702647801489,
+     "sha256": "7b1358ebb2d58f1a03603d9ea5da80ce4678d63a0d2e43c3350f413be200f5b7"
+    },
+    {
+     "file": "rosselli-foliate-border-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 409,
+     "bytes": 45750,
+     "sec": 1.9520878470502794,
+     "sha256": "f61cb7418537637e62cc6bd7576752a47e117e22d6f77ac3f8bb8eac95c07572"
+    },
+    {
+     "file": "rosselli-foliate-border-274-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 274,
+     "height": 438,
+     "bytes": 213544,
+     "sec": 0.6519047569017857,
+     "sha256": "72dabe56a56c05853753d84c3cb951194a0ad69d16028eeaac1ef178153d49e0"
+    }
+   ]
+  },
+  {
+   "name": "white-curling-vine-on-blue-repeat",
+   "group": "border",
+   "master": {
+    "width": 310,
+    "height": 111,
+    "pngBytes": 65227
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    310
+   ],
+   "top": 310,
+   "totalSec": 3.6205213379580528,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "white-curling-vine-on-blue-repeat-310.webp",
+     "kind": "webp",
+     "width": 310,
+     "height": 111,
+     "bytes": 7866,
+     "sec": 0.9135753300506622,
+     "sha256": "8bd93555df6523a53139bf4281c65eccc45df4f98428a5e9ba85bc873212eac9"
+    },
+    {
+     "file": "white-curling-vine-on-blue-repeat-310.avif",
+     "kind": "avif",
+     "width": 310,
+     "height": 111,
+     "bytes": 6183,
+     "sec": 0.2264278680086136,
+     "sha256": "1b780b86eb1220b290d50755ad46ed2905aa2dace8ab4d6083d6b199b1327edb"
+    },
+    {
+     "file": "white-curling-vine-on-blue-repeat-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 23,
+     "bytes": 1170,
+     "sec": 0.03234327910467982,
+     "sha256": "00a85c5b88a1194ade2c8ed3e3cd06f9f66af68633bd6b0f4d6b001a15c82678"
+    },
+    {
+     "file": "white-curling-vine-on-blue-repeat-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 34,
+     "bytes": 2160,
+     "sec": 0.08292701793834567,
+     "sha256": "0fe684c4bdbb0bf88eb2d4d435f58336c7aeda9174be689c7f7bc74b4c79e6be"
+    },
+    {
+     "file": "white-curling-vine-on-blue-repeat-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 46,
+     "bytes": 2986,
+     "sec": 0.12130183610133827,
+     "sha256": "bc25cf454383031a247d68750e353290471a0d2386de204ee821bb854da292f3"
+    },
+    {
+     "file": "white-curling-vine-on-blue-repeat-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 69,
+     "bytes": 5506,
+     "sec": 0.3538584019988775,
+     "sha256": "1824ef7a88ad7bdb5f9bf93435bc4e494ff7dac70b65b9af54b070b56eb61ff6"
+    },
+    {
+     "file": "white-curling-vine-on-blue-repeat-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 92,
+     "bytes": 7776,
+     "sec": 0.6329965880140662,
+     "sha256": "4e80103b8afd3dbfc57d3513f8bfd0ae650a3fe9f8dfe80e6d42a0b85e8dea6f"
+    },
+    {
+     "file": "white-curling-vine-on-blue-repeat-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 23,
+     "bytes": 1040,
+     "sec": 0.038254705956205726,
+     "sha256": "a4fa674de4902626604f052dad5c62b6ab2c90a44adc25d9696602b654341361"
+    },
+    {
+     "file": "white-curling-vine-on-blue-repeat-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 34,
+     "bytes": 1665,
+     "sec": 0.0947355309035629,
+     "sha256": "a171ad1faee055ad15def8b5fcaf4a4cb69d6eea116be0fb6aa3bf8f373ef82f"
+    },
+    {
+     "file": "white-curling-vine-on-blue-repeat-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 46,
+     "bytes": 2139,
+     "sec": 0.17308859596960247,
+     "sha256": "2500686a9abe3bc5aec57a387de475956d138641deaf7d77ea017a661053f7e7"
+    },
+    {
+     "file": "white-curling-vine-on-blue-repeat-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 69,
+     "bytes": 3635,
+     "sec": 0.28976228390820324,
+     "sha256": "34b5376468996a50d5b636d425272e870f25c9071be56d728478ea106e05d84c"
+    },
+    {
+     "file": "white-curling-vine-on-blue-repeat-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 92,
+     "bytes": 5449,
+     "sec": 0.5073897528927773,
+     "sha256": "40cc72d37063a5399aac923a69a7c823a76e1b5aa6481f9be51bd8f5b11151c5"
+    },
+    {
+     "file": "white-curling-vine-on-blue-repeat-310-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 310,
+     "height": 111,
+     "bytes": 46274,
+     "sec": 0.15095752105116844,
+     "sha256": "71361d9e58ad9c66d61918291f74859b7e844a75ad38d4d3b2bee66e608a4d1f"
+    }
+   ]
+  },
+  {
+   "name": "upright-palmettes-and-four-lobed-scroll-cycle",
+   "group": "border",
+   "master": {
+    "width": 451,
+    "height": 184,
+    "pngBytes": 63497
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    451
+   ],
+   "top": 451,
+   "totalSec": 24.52965315594338,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "upright-palmettes-and-four-lobed-scroll-cycle-451.webp",
+     "kind": "webp",
+     "width": 451,
+     "height": 184,
+     "bytes": 40072,
+     "sec": 9.242163954069838,
+     "sha256": "4f12176a80e4cef78ad00bd320ece89cc3e3cca46125822909293f741667ff96"
+    },
+    {
+     "file": "upright-palmettes-and-four-lobed-scroll-cycle-451.avif",
+     "kind": "avif",
+     "width": 451,
+     "height": 184,
+     "bytes": 23041,
+     "sec": 0.2793681949842721,
+     "sha256": "0ec03b8cc1c4c954169a6dbadb54c9b84678489d6ded0df85aa6db7821111354"
+    },
+    {
+     "file": "upright-palmettes-and-four-lobed-scroll-cycle-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 26,
+     "bytes": 2058,
+     "sec": 0.044512195978313684,
+     "sha256": "d57e393438dd0f19e1202cc95581267180c7ce75543ed4e9429f33c7d7fd27f8"
+    },
+    {
+     "file": "upright-palmettes-and-four-lobed-scroll-cycle-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 39,
+     "bytes": 4502,
+     "sec": 0.2882050790358335,
+     "sha256": "c024a8c5fc4ee67c69603c4f25f2e7b305823994a822dc69c554d0baee8d7ef0"
+    },
+    {
+     "file": "upright-palmettes-and-four-lobed-scroll-cycle-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 52,
+     "bytes": 7630,
+     "sec": 0.872413223143667,
+     "sha256": "de32491ef79589be6eed0549337e4e59bbe525feb32e4b418a6ff434a403387f"
+    },
+    {
+     "file": "upright-palmettes-and-four-lobed-scroll-cycle-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 78,
+     "bytes": 15568,
+     "sec": 1.4929591319523752,
+     "sha256": "1a6ee68e36e681f5fb274b7fb5e63f3c2f448ea24c1ea6eddc31ec5827405761"
+    },
+    {
+     "file": "upright-palmettes-and-four-lobed-scroll-cycle-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 104,
+     "bytes": 25664,
+     "sec": 2.1166613339446485,
+     "sha256": "c1ddb79e4a93dbe6e5e06d5ecf8a26e6b2829c08611de4e20f527e4436450551"
+    },
+    {
+     "file": "upright-palmettes-and-four-lobed-scroll-cycle-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 157,
+     "bytes": 49514,
+     "sec": 8.06191851804033,
+     "sha256": "bdb844bdbb3b473c80b8f8542b987c7ee8e0e7b1caeefd999cc70ff2745aab8a"
+    },
+    {
+     "file": "upright-palmettes-and-four-lobed-scroll-cycle-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 26,
+     "bytes": 1681,
+     "sec": 0.04994840198196471,
+     "sha256": "2d280acef595ff0f5748674b53c663bab3a94933d4bb9a7adf6413484d4b7572"
+    },
+    {
+     "file": "upright-palmettes-and-four-lobed-scroll-cycle-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 39,
+     "bytes": 3298,
+     "sec": 0.1290820511057973,
+     "sha256": "454100e1ca6b88878a6281a73d9d6bff79b7a43cc0740c83359fdf5e9bcb8c16"
+    },
+    {
+     "file": "upright-palmettes-and-four-lobed-scroll-cycle-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 52,
+     "bytes": 5700,
+     "sec": 0.2058960108552128,
+     "sha256": "3a5f598c4d0e40e57312235b0defabe841a68a3d5082187ecf80915567a55d2e"
+    },
+    {
+     "file": "upright-palmettes-and-four-lobed-scroll-cycle-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 78,
+     "bytes": 9311,
+     "sec": 0.43494511488825083,
+     "sha256": "e1d3a85d5fbb9f70cfe2188c9b136cd87075090c558230e03c33b27973239a33"
+    },
+    {
+     "file": "upright-palmettes-and-four-lobed-scroll-cycle-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 104,
+     "bytes": 13840,
+     "sec": 0.8644056229386479,
+     "sha256": "7ed767f127016f3c6ef4c013d7ea98b45868f0eec4141b28813b481b430dd3b1"
+    },
+    {
+     "file": "upright-palmettes-and-four-lobed-scroll-cycle-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 157,
+     "bytes": 25680,
+     "sec": 0.4222559221088886,
+     "sha256": "208184eec378a70c5dccecb4139eefb1174f20af89a2a7c6be3458fc5461f62e"
+    },
+    {
+     "file": "upright-palmettes-and-four-lobed-scroll-cycle-451-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 451,
+     "height": 184,
+     "bytes": 40068,
+     "sec": 0.0213535709772259,
+     "sha256": "dcf20973ad9f8c3425220bb7d20b07ae9cd8f4b48643cc8f7c0cbf07bd603a7f"
+    }
+   ]
+  },
+  {
+   "name": "gray-red-blue-lobed-leaves-in-gold-medallions-cycle",
+   "group": "border",
+   "master": {
+    "width": 1949,
+    "height": 682,
+    "pngBytes": 2088148
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024,
+    1536,
+    1949
+   ],
+   "top": 1949,
+   "totalSec": 21.691313609015197,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "gray-red-blue-lobed-leaves-in-gold-medallions-cycle-1949.webp",
+     "kind": "webp",
+     "width": 1949,
+     "height": 682,
+     "bytes": 109664,
+     "sec": 1.1404128400608897,
+     "sha256": "36a543396f871b89c007e5c7aae70fdab2ac61dedf7acba10a4557b589a4443d"
+    },
+    {
+     "file": "gray-red-blue-lobed-leaves-in-gold-medallions-cycle-1949.avif",
+     "kind": "avif",
+     "width": 1949,
+     "height": 682,
+     "bytes": 97009,
+     "sec": 5.469880832824856,
+     "sha256": "f2c7c749bf3e38a94af0cee0903168ad6331299644233148818901d395deabac"
+    },
+    {
+     "file": "gray-red-blue-lobed-leaves-in-gold-medallions-cycle-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 22,
+     "bytes": 860,
+     "sec": 0.013072104891762137,
+     "sha256": "7413b8b73f55b88dc1d923568ccb81eabb6b1bb48bed94190571d43a14fbab46"
+    },
+    {
+     "file": "gray-red-blue-lobed-leaves-in-gold-medallions-cycle-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 34,
+     "bytes": 1324,
+     "sec": 0.02082831389270723,
+     "sha256": "95d4d35342c5e4e9f15410d68a231dd5ed62b1deb0243ca1e1c468b8b4921b08"
+    },
+    {
+     "file": "gray-red-blue-lobed-leaves-in-gold-medallions-cycle-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 45,
+     "bytes": 2212,
+     "sec": 0.027563828974962234,
+     "sha256": "b45ec4c121cb0968e6eac4703c731dd6e409956a7c1f7a2bd7dd39831277cc1c"
+    },
+    {
+     "file": "gray-red-blue-lobed-leaves-in-gold-medallions-cycle-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 67,
+     "bytes": 3546,
+     "sec": 0.05099587910808623,
+     "sha256": "b60bed308c4c3b7abdd678cab8c7bddd73675402c862329f94907511990aba7c"
+    },
+    {
+     "file": "gray-red-blue-lobed-leaves-in-gold-medallions-cycle-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 90,
+     "bytes": 5514,
+     "sec": 0.09452515305019915,
+     "sha256": "91f2e389169a3e6b01cbda603f8b5101ebc41d5ede999dd1f47f498550f02ba8"
+    },
+    {
+     "file": "gray-red-blue-lobed-leaves-in-gold-medallions-cycle-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 134,
+     "bytes": 9988,
+     "sec": 0.19372477591969073,
+     "sha256": "d13d663abb9ea040e8c20363fa40ad5d865b27377bc211394689c5bb78af6a38"
+    },
+    {
+     "file": "gray-red-blue-lobed-leaves-in-gold-medallions-cycle-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 179,
+     "bytes": 15632,
+     "sec": 0.3774395741056651,
+     "sha256": "70dfd40bf1d8b4efe1a878e636256b67dbf2f96c8b6af77ade69be2b836909a8"
+    },
+    {
+     "file": "gray-red-blue-lobed-leaves-in-gold-medallions-cycle-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 269,
+     "bytes": 30122,
+     "sec": 0.8261244848836213,
+     "sha256": "ec1137c3d6c6dce5f6b4a584d0f6b68b3489eba3eb86e85c1358c455b0053b93"
+    },
+    {
+     "file": "gray-red-blue-lobed-leaves-in-gold-medallions-cycle-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 358,
+     "bytes": 43604,
+     "sec": 0.7856472770217806,
+     "sha256": "a175903617611154b01b7a95502dba0c38b86892f84cff34a64d1bb74e48ce95"
+    },
+    {
+     "file": "gray-red-blue-lobed-leaves-in-gold-medallions-cycle-1536.webp",
+     "kind": "webp",
+     "width": 1536,
+     "height": 537,
+     "bytes": 79138,
+     "sec": 1.1046451821457595,
+     "sha256": "6ca7ba6c76b5cd86e2b64a7f1a673e9b49f0ba4d95cfd12ec31a27e41cd04fe0"
+    },
+    {
+     "file": "gray-red-blue-lobed-leaves-in-gold-medallions-cycle-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 22,
+     "bytes": 1090,
+     "sec": 0.06626648316159844,
+     "sha256": "874baa0b997128684525c9f0eacedd47d1bd196a482dc220b0bf1ce90ff2055e"
+    },
+    {
+     "file": "gray-red-blue-lobed-leaves-in-gold-medallions-cycle-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 34,
+     "bytes": 1400,
+     "sec": 0.11047661397606134,
+     "sha256": "971fd493f81ffca81ac61ae4d02a6db8de657cac79419c94f26f8ba7aea7a2af"
+    },
+    {
+     "file": "gray-red-blue-lobed-leaves-in-gold-medallions-cycle-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 45,
+     "bytes": 2010,
+     "sec": 0.18845578306354582,
+     "sha256": "a737e27b6834c829ef0105f66b9f65043e187c9ad438fc9102f9df70db28f9ec"
+    },
+    {
+     "file": "gray-red-blue-lobed-leaves-in-gold-medallions-cycle-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 67,
+     "bytes": 2978,
+     "sec": 0.27242003311403096,
+     "sha256": "dc3a41f59bde0832be3e6b2a298d6ff4eff2e0a7d9606c664f5093ced45cd503"
+    },
+    {
+     "file": "gray-red-blue-lobed-leaves-in-gold-medallions-cycle-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 90,
+     "bytes": 4862,
+     "sec": 0.4518094789236784,
+     "sha256": "a5f08f32cefd50563ae7fa951bffd9fa2c6152477760b51d1c9c167f8f5000cd"
+    },
+    {
+     "file": "gray-red-blue-lobed-leaves-in-gold-medallions-cycle-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 134,
+     "bytes": 7777,
+     "sec": 0.42284560296684504,
+     "sha256": "bc989e94bfda3736ccc275f4d06b682a548665738088e776d0772ee0019886b7"
+    },
+    {
+     "file": "gray-red-blue-lobed-leaves-in-gold-medallions-cycle-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 179,
+     "bytes": 13029,
+     "sec": 0.7583570869173855,
+     "sha256": "4971585cf674a777b91101e340012d842acc19e0fe67024ecd7ede236df826ea"
+    },
+    {
+     "file": "gray-red-blue-lobed-leaves-in-gold-medallions-cycle-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 269,
+     "bytes": 25530,
+     "sec": 1.3780354869086295,
+     "sha256": "60d9a0bc3132b94703292ad64e62c5ffbead0d66c0e9ab99998514305302dc4c"
+    },
+    {
+     "file": "gray-red-blue-lobed-leaves-in-gold-medallions-cycle-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 358,
+     "bytes": 38982,
+     "sec": 2.2901128500234336,
+     "sha256": "020330f80794f021f6b4295f9d4a043abad4e4fa02422f911235ef8ee8f00746"
+    },
+    {
+     "file": "gray-red-blue-lobed-leaves-in-gold-medallions-cycle-1536.avif",
+     "kind": "avif",
+     "width": 1536,
+     "height": 537,
+     "bytes": 70114,
+     "sec": 4.756270362064242,
+     "sha256": "bc9551f4f9dec7c4b72c926dfd3ac10e1767d5d8993f203d45de71849cf78a9a"
+    },
+    {
+     "file": "gray-red-blue-lobed-leaves-in-gold-medallions-cycle-1949-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 1949,
+     "height": 682,
+     "bytes": 1649480,
+     "sec": 0.884386267978698,
+     "sha256": "feecbf8173365321a132b2e8935aefd5de4255d2bbb86cff0c49c11e1f46489c"
+    }
+   ]
+  },
+  {
+   "name": "opposed-blue-red-leaves-with-gray-interlace-cycle",
+   "group": "border",
+   "master": {
+    "width": 604,
+    "height": 2618,
+    "pngBytes": 2126526
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    604
+   ],
+   "top": 604,
+   "totalSec": 29.469181719934568,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "opposed-blue-red-leaves-with-gray-interlace-cycle-604.webp",
+     "kind": "webp",
+     "width": 604,
+     "height": 2618,
+     "bytes": 79868,
+     "sec": 1.3835826609283686,
+     "sha256": "102eaf7cfaba7ca89c4c034c14449b1136d64c917a43ff6dcaaca401d594176c"
+    },
+    {
+     "file": "opposed-blue-red-leaves-with-gray-interlace-cycle-604.avif",
+     "kind": "avif",
+     "width": 604,
+     "height": 2618,
+     "bytes": 82448,
+     "sec": 5.7493151819799095,
+     "sha256": "1798af6ba927624afc9076014e3144bd5fecc3596770b66d623d60a68dbe4bc7"
+    },
+    {
+     "file": "opposed-blue-red-leaves-with-gray-interlace-cycle-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 277,
+     "bytes": 4506,
+     "sec": 0.08717657090164721,
+     "sha256": "e3037c3ac84bcea26cc0158453e8641f98a13ce02a9102d38a60295cf8df6072"
+    },
+    {
+     "file": "opposed-blue-red-leaves-with-gray-interlace-cycle-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 416,
+     "bytes": 7418,
+     "sec": 0.17891879798844457,
+     "sha256": "93fdf5f4ce91493b7e400d67b639e193a80d9c2b1ad6021fc1ad18b10e58df8d"
+    },
+    {
+     "file": "opposed-blue-red-leaves-with-gray-interlace-cycle-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 555,
+     "bytes": 10250,
+     "sec": 0.30027617514133453,
+     "sha256": "50ff75af6e09bf44568d5b5544ba05ad39d5b298a051dd78df885970516d21d0"
+    },
+    {
+     "file": "opposed-blue-red-leaves-with-gray-interlace-cycle-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 832,
+     "bytes": 17888,
+     "sec": 0.5632695970125496,
+     "sha256": "7fa80350034a68e579cbf1f158cda6e5c81ed6d8a3fd2b27f28889223cf242ff"
+    },
+    {
+     "file": "opposed-blue-red-leaves-with-gray-interlace-cycle-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 1110,
+     "bytes": 27740,
+     "sec": 0.683792294934392,
+     "sha256": "07a16496deac701d8b5d8bfc8559be6309b1bb9e5bce9458283511e47914f9e4"
+    },
+    {
+     "file": "opposed-blue-red-leaves-with-gray-interlace-cycle-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 1664,
+     "bytes": 47266,
+     "sec": 0.9782647779211402,
+     "sha256": "48cb5ff38a159b0464e0f24c99ca8ce0c565d3a7b9d784de86d6e77226d0afbc"
+    },
+    {
+     "file": "opposed-blue-red-leaves-with-gray-interlace-cycle-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 2219,
+     "bytes": 67420,
+     "sec": 1.1094437788706273,
+     "sha256": "dbae39a1273592c7f957827128dde87d536fae02bf6ad3e2cb5b881828b58004"
+    },
+    {
+     "file": "opposed-blue-red-leaves-with-gray-interlace-cycle-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 277,
+     "bytes": 3409,
+     "sec": 0.3695652079768479,
+     "sha256": "92cd860cba2c949bcf595fdb458679a064f09b5e8b8cc6f31ceb5a2199ca9deb"
+    },
+    {
+     "file": "opposed-blue-red-leaves-with-gray-interlace-cycle-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 416,
+     "bytes": 6539,
+     "sec": 1.0247729909606278,
+     "sha256": "02b788d58f87fdeec78bc1041a3c4376f005db2727c0bbe41cc8710958ec1710"
+    },
+    {
+     "file": "opposed-blue-red-leaves-with-gray-interlace-cycle-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 555,
+     "bytes": 8517,
+     "sec": 1.3894863780587912,
+     "sha256": "46fb5d4a1eabfe2427b61da4c73795d089f02e75dfa2a273e6e679f66740b001"
+    },
+    {
+     "file": "opposed-blue-red-leaves-with-gray-interlace-cycle-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 832,
+     "bytes": 15766,
+     "sec": 2.7814093278720975,
+     "sha256": "63658440323dbb1cb3e92c0c9f2d5412922d1df17a0efbd702b3405366bb2109"
+    },
+    {
+     "file": "opposed-blue-red-leaves-with-gray-interlace-cycle-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 1110,
+     "bytes": 24066,
+     "sec": 3.829783163033426,
+     "sha256": "c9edf907081e2221191c4a242e924f7fcfb83ae1cab60574ad74638f4294b5bc"
+    },
+    {
+     "file": "opposed-blue-red-leaves-with-gray-interlace-cycle-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 1664,
+     "bytes": 44573,
+     "sec": 3.4552834930364043,
+     "sha256": "78964ec31fa0731f85ef793005bf4d28659f8e77a2bc241837d1202130062a88"
+    },
+    {
+     "file": "opposed-blue-red-leaves-with-gray-interlace-cycle-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 2219,
+     "bytes": 63608,
+     "sec": 4.341941540827975,
+     "sha256": "b8e253b772da1e852cbbc6ac217783e1d9d7e2ea1ad35d3604c0f245d1d56c89"
+    },
+    {
+     "file": "opposed-blue-red-leaves-with-gray-interlace-cycle-604-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 604,
+     "height": 2618,
+     "bytes": 1662352,
+     "sec": 1.2367706950753927,
+     "sha256": "1a8f44aff665122afdb63fc8c7e32feb4fc143671028d77ee47eb3eb648e30d9"
+    }
+   ]
+  },
+  {
+   "name": "white-foliate-wave-on-blue",
+   "group": "border",
+   "master": {
+    "width": 359,
+    "height": 155,
+    "pngBytes": 95968
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    359
+   ],
+   "top": 359,
+   "totalSec": 2.2112441430799663,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "white-foliate-wave-on-blue-359.webp",
+     "kind": "webp",
+     "width": 359,
+     "height": 155,
+     "bytes": 5558,
+     "sec": 0.20524998707696795,
+     "sha256": "ba25666fdbf96f4f54016107d661ac7ef1af0bdae360ec7c2349cb6c348a4631"
+    },
+    {
+     "file": "white-foliate-wave-on-blue-359.avif",
+     "kind": "avif",
+     "width": 359,
+     "height": 155,
+     "bytes": 5409,
+     "sec": 0.3314422268886119,
+     "sha256": "fee3c9539b35f990700240cd5dfbadca00b9e78a80d023dde64c3ec5110aa344"
+    },
+    {
+     "file": "white-foliate-wave-on-blue-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 28,
+     "bytes": 616,
+     "sec": 0.010789514984935522,
+     "sha256": "e02ee349f17671588b8bc9ab79412d882a49ca0441822fdd95d91f62a466f221"
+    },
+    {
+     "file": "white-foliate-wave-on-blue-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 41,
+     "bytes": 918,
+     "sec": 0.01672521699219942,
+     "sha256": "dfbcdc4f325ef6b58e2cea712c80dab465ec72dbc5dfd87d0882c4a6e8efe75a"
+    },
+    {
+     "file": "white-foliate-wave-on-blue-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 55,
+     "bytes": 1332,
+     "sec": 0.026591816917061806,
+     "sha256": "1a8d0ae500d74080b96c8c11ee5736ff49c8d7bf4de1185e664b92bdd8fdf4c2"
+    },
+    {
+     "file": "white-foliate-wave-on-blue-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 83,
+     "bytes": 2540,
+     "sec": 0.057946423068642616,
+     "sha256": "8c02d269e870522663d498c95d8fb33b6971f5cc96e838ea3d95f49d9eea41a3"
+    },
+    {
+     "file": "white-foliate-wave-on-blue-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 111,
+     "bytes": 3724,
+     "sec": 0.1013743900693953,
+     "sha256": "dcb4398d29073f891d32942949f2a092a21c8d11b4793e7fd89e80c1dcec36c4"
+    },
+    {
+     "file": "white-foliate-wave-on-blue-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 28,
+     "bytes": 798,
+     "sec": 0.042431925190612674,
+     "sha256": "a2b98a7f37534fae138f8008c13bfc4d1572d946e1f327ec12c88e87691c3fb5"
+    },
+    {
+     "file": "white-foliate-wave-on-blue-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 41,
+     "bytes": 1077,
+     "sec": 0.09527866006828845,
+     "sha256": "7890e3358a22940a6f2fe223cc725ae2321cddacf6aa456d563a6c9d8e546c28"
+    },
+    {
+     "file": "white-foliate-wave-on-blue-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 55,
+     "bytes": 1312,
+     "sec": 0.2098598019219935,
+     "sha256": "bec4121d995088f64f1f2e14cbba24f93f6e1192235e4aa98532b5503c4075cc"
+    },
+    {
+     "file": "white-foliate-wave-on-blue-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 83,
+     "bytes": 2293,
+     "sec": 0.35120449494570494,
+     "sha256": "88f11ce218b56939fea000319bf922fa678ca1aee38ca390c14d2a65b9c6a415"
+    },
+    {
+     "file": "white-foliate-wave-on-blue-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 111,
+     "bytes": 3200,
+     "sec": 0.5834553870372474,
+     "sha256": "084fb9137e61a4c80e328acb05961190eaae94024a1aac63cdd2be6fc77a124b"
+    },
+    {
+     "file": "white-foliate-wave-on-blue-359-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 359,
+     "height": 155,
+     "bytes": 78996,
+     "sec": 0.17625977215357125,
+     "sha256": "44f3850366fd71245c16505e956c59b8e949948f9a5fce8899712992ae129b02"
+    }
+   ]
+  },
+  {
+   "name": "ivy-manuscript-frame",
+   "group": "border",
+   "master": {
+    "width": 1536,
+    "height": 1024,
+    "pngBytes": 784702
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024,
+    1536
+   ],
+   "top": 1536,
+   "totalSec": 45.77653791802004,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "ivy-manuscript-frame-1536.webp",
+     "kind": "webp",
+     "width": 1536,
+     "height": 1024,
+     "bytes": 197262,
+     "sec": 10.679678931832314,
+     "sha256": "e6fbb2127d2118e761819058b57899debc5de6b83a24cef31c6296a2b7018bf4"
+    },
+    {
+     "file": "ivy-manuscript-frame-1536.avif",
+     "kind": "avif",
+     "width": 1536,
+     "height": 1024,
+     "bytes": 67823,
+     "sec": 2.8372680430766195,
+     "sha256": "4ea08a4921efb640715c4f30cde7d64199c3d2101400f6d4d03dde256e655d6e"
+    },
+    {
+     "file": "ivy-manuscript-frame-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 43,
+     "bytes": 1170,
+     "sec": 0.10916877677664161,
+     "sha256": "68f86205ffb79647799e64b6c456e8a380b8d1fa3aae04af81cb2f532df1ade2"
+    },
+    {
+     "file": "ivy-manuscript-frame-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 64,
+     "bytes": 2210,
+     "sec": 0.3361900490708649,
+     "sha256": "ff711ffedee07666f3e56fb3cf51cda5a969af841d2821e1bae8af95362a5708"
+    },
+    {
+     "file": "ivy-manuscript-frame-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 85,
+     "bytes": 3460,
+     "sec": 0.7052224101498723,
+     "sha256": "90d1822fe06f9f1a7ccd54ef369e42a0514239bc37f1239a805349b0f356a774"
+    },
+    {
+     "file": "ivy-manuscript-frame-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 128,
+     "bytes": 6632,
+     "sec": 1.3180054661352187,
+     "sha256": "b7ae4d8efadd83317655056120abfac02cd476f5a0497a0a17e0a05febb34df5"
+    },
+    {
+     "file": "ivy-manuscript-frame-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 171,
+     "bytes": 10190,
+     "sec": 1.9896517291199416,
+     "sha256": "3045d8f8e1b99050849454dae7182db9d3b21c77fc92eb8987f937bba3ff8b50"
+    },
+    {
+     "file": "ivy-manuscript-frame-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 256,
+     "bytes": 19736,
+     "sec": 4.419177279109135,
+     "sha256": "b6996a0d5f667da9b99b2911201a9d14835815558c6449f1fa556208f4ef6bb7"
+    },
+    {
+     "file": "ivy-manuscript-frame-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 341,
+     "bytes": 30364,
+     "sec": 5.72157810209319,
+     "sha256": "9e9737943f2aa24545ba4da9aa8992b90522b7ef2c45c04bd1e180a5f85833d7"
+    },
+    {
+     "file": "ivy-manuscript-frame-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 512,
+     "bytes": 58790,
+     "sec": 8.135202877921984,
+     "sha256": "c0e3bf6d32b0170b5b7d5fe5da70edafd14b250643053803228085fcda792fbd"
+    },
+    {
+     "file": "ivy-manuscript-frame-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 683,
+     "bytes": 96122,
+     "sec": 6.877375544980168,
+     "sha256": "cfa2d0e0aa35eca836169c1a53943e75ca376b5ad623bb3e78fc3cdb681b4797"
+    },
+    {
+     "file": "ivy-manuscript-frame-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 43,
+     "bytes": 932,
+     "sec": 0.0348489151801914,
+     "sha256": "9fd3fa8521dca113e098c6eb59277d0c1ce4697a5fa781d5251893d7df2e43bf"
+    },
+    {
+     "file": "ivy-manuscript-frame-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 64,
+     "bytes": 1482,
+     "sec": 0.04371798294596374,
+     "sha256": "217741864ec8bce5584f97ee8e8464dcb03a8f856cd67bcfb535a43d50aef885"
+    },
+    {
+     "file": "ivy-manuscript-frame-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 85,
+     "bytes": 2141,
+     "sec": 0.06953336903825402,
+     "sha256": "bc083604b207982f9e230ec530162a5abc5ce073f271f79e5c1b492960d2e38d"
+    },
+    {
+     "file": "ivy-manuscript-frame-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 128,
+     "bytes": 3846,
+     "sec": 0.12748964596539736,
+     "sha256": "26c18b54c47070a0537ac67a0f5e03bca5323001b79f1de5238fa496de278a33"
+    },
+    {
+     "file": "ivy-manuscript-frame-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 171,
+     "bytes": 5785,
+     "sec": 0.33274189103394747,
+     "sha256": "96f34812fe86785ee03450f13a41f5acff5586057d21d251de309f169fee856d"
+    },
+    {
+     "file": "ivy-manuscript-frame-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 256,
+     "bytes": 10963,
+     "sec": 0.18716204399242997,
+     "sha256": "f0720b06913c64b168e634bf1340c61c39149ed784d08576c2e1f4a9182b6fb7"
+    },
+    {
+     "file": "ivy-manuscript-frame-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 341,
+     "bytes": 16223,
+     "sec": 0.28558856109157205,
+     "sha256": "dbb3ed9e1837b24cfad8d0254bf3824c6a91de95f210427c09dc0a3313baff77"
+    },
+    {
+     "file": "ivy-manuscript-frame-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 512,
+     "bytes": 27569,
+     "sec": 0.595475445035845,
+     "sha256": "42df944030c8083686bb06c83a2d3818c037aecaa767a6a1ca4feaffbfa8dae7"
+    },
+    {
+     "file": "ivy-manuscript-frame-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 683,
+     "bytes": 39772,
+     "sec": 0.8046520811039954,
+     "sha256": "1e56eca0d4958f2ac5a4c562266b4b4065295101c7748c76e8dda708d007d8b2"
+    },
+    {
+     "file": "ivy-manuscript-frame-1536-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 1536,
+     "height": 1024,
+     "bytes": 315426,
+     "sec": 0.16088622296229005,
+     "sha256": "2996d4958262fd3a7d2f82f920337174ba728e8cb805d9c5a9f16c60880dfbbe"
+    }
+   ]
+  },
+  {
+   "name": "hoefnagel-strapwork-frame",
+   "group": "border",
+   "master": {
+    "width": 1420,
+    "height": 1058,
+    "pngBytes": 2769350
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024,
+    1420
+   ],
+   "top": 1420,
+   "totalSec": 113.48674137005582,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "hoefnagel-strapwork-frame-1420.webp",
+     "kind": "webp",
+     "width": 1420,
+     "height": 1058,
+     "bytes": 738816,
+     "sec": 25.119721927214414,
+     "sha256": "d274fa9243cd421d46eff97e7a9694a59b4c594697f622880bc6b008f40ee9ad"
+    },
+    {
+     "file": "hoefnagel-strapwork-frame-1420.avif",
+     "kind": "avif",
+     "width": 1420,
+     "height": 1058,
+     "bytes": 367510,
+     "sec": 11.694739032071084,
+     "sha256": "b423fe485231aa510aae34fad78023bd0197a85d96c82dcb129d0b0c8efccdde"
+    },
+    {
+     "file": "hoefnagel-strapwork-frame-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 48,
+     "bytes": 3416,
+     "sec": 0.24691722099669278,
+     "sha256": "8f6bf06c301f75ab94420b6eb6bd547b71b57c449601a9b8d47bd191c8207914"
+    },
+    {
+     "file": "hoefnagel-strapwork-frame-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 72,
+     "bytes": 6676,
+     "sec": 0.6353966030292213,
+     "sha256": "d43b80c5031146e9a5512daa2dcd2e706f68f8783e322c6990dfea9802348a9c"
+    },
+    {
+     "file": "hoefnagel-strapwork-frame-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 95,
+     "bytes": 10598,
+     "sec": 1.0517840299289674,
+     "sha256": "28ca9769678f34f9abb80d6482a10f45c313f22dea8a7d5fe2a11c64be2eff2e"
+    },
+    {
+     "file": "hoefnagel-strapwork-frame-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 143,
+     "bytes": 21186,
+     "sec": 2.386539967963472,
+     "sha256": "8ca259a2f7a8787ee8dfb87063c603df291fdec11a86c80ccf3151906ac47b79"
+    },
+    {
+     "file": "hoefnagel-strapwork-frame-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 191,
+     "bytes": 36016,
+     "sec": 3.9626083818729967,
+     "sha256": "3dccc5c2260a6010113a8828232b54f1edc30b47cb3f09284c901bf02149bf10"
+    },
+    {
+     "file": "hoefnagel-strapwork-frame-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 286,
+     "bytes": 73074,
+     "sec": 9.999597239075229,
+     "sha256": "fac0233b98b2dbebc0c2d6024e047ccc1d46caafdf75f526471f57de03c6aa82"
+    },
+    {
+     "file": "hoefnagel-strapwork-frame-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 381,
+     "bytes": 122886,
+     "sec": 8.378616218920797,
+     "sha256": "3c0f8460e0d62d2e9a20276356fcd2342a0222636f720e8e37e8908888ceba7d"
+    },
+    {
+     "file": "hoefnagel-strapwork-frame-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 572,
+     "bytes": 255668,
+     "sec": 16.960108067141846,
+     "sha256": "be0c7b29f6cbfa8ce1174dd04f2fc4c7bb1251222e8b8e98b7633d3da7988452"
+    },
+    {
+     "file": "hoefnagel-strapwork-frame-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 763,
+     "bytes": 428490,
+     "sec": 13.7136472070124,
+     "sha256": "f9c459d9ca1d4c2467f64621e747cbb8d821f0842fc73de03f7fd44bb437fe09"
+    },
+    {
+     "file": "hoefnagel-strapwork-frame-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 48,
+     "bytes": 2374,
+     "sec": 0.14496487495489419,
+     "sha256": "0f955e3f09eb00a87f03c970419bb02f1ecc3e3cec936aaae5888d58a89cd15f"
+    },
+    {
+     "file": "hoefnagel-strapwork-frame-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 72,
+     "bytes": 4153,
+     "sec": 0.22578848293051124,
+     "sha256": "08e8c85e22cb6ed282a2efc1e79f56aaa4666e583d15c75c1e7e4622597c82a4"
+    },
+    {
+     "file": "hoefnagel-strapwork-frame-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 95,
+     "bytes": 6571,
+     "sec": 0.3695780460257083,
+     "sha256": "98826b72c01d25ebcbbcfe1c3300d5c7dc66995f5162120fe8424558209ba8c5"
+    },
+    {
+     "file": "hoefnagel-strapwork-frame-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 143,
+     "bytes": 13164,
+     "sec": 0.6075562390033156,
+     "sha256": "84c3e923f9d95add2a3fc9c4bcec55c1d2cce5302ac713870917552b7cbcbd23"
+    },
+    {
+     "file": "hoefnagel-strapwork-frame-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 191,
+     "bytes": 22032,
+     "sec": 1.2362400079146028,
+     "sha256": "3a96dd9adfd0ebd8fd17da727e18b04cb783eacc5dbc2e7c06fdfe4bd69f91a4"
+    },
+    {
+     "file": "hoefnagel-strapwork-frame-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 286,
+     "bytes": 45497,
+     "sec": 1.1247048310469836,
+     "sha256": "8ed1b2ad010fc855b970a6ab1bcf18cbdcf07dd533deb74ac340ae075e0d4adb"
+    },
+    {
+     "file": "hoefnagel-strapwork-frame-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 381,
+     "bytes": 74823,
+     "sec": 2.0611805408261716,
+     "sha256": "f6f24125fef6dd8f8c0ad93e20ea011ccdc2af2b3f4d76824fd595c13969262e"
+    },
+    {
+     "file": "hoefnagel-strapwork-frame-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 572,
+     "bytes": 150756,
+     "sec": 4.142547948984429,
+     "sha256": "8b7263e1860a1348f31d70f2c03219e03d51ac10ece43093a85e994430624c7e"
+    },
+    {
+     "file": "hoefnagel-strapwork-frame-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 763,
+     "bytes": 233070,
+     "sec": 7.28216034010984,
+     "sha256": "63543ce14a5c196359ae0988832f9c7d7d0506f2d3f433007b58bbe6bbd0fcf0"
+    },
+    {
+     "file": "hoefnagel-strapwork-frame-1420-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 1420,
+     "height": 1058,
+     "bytes": 2053368,
+     "sec": 2.1313482308760285,
+     "sha256": "eb213676ec8337fe636aa6343575cc7b47ef04bb1aaabb087b5e7245e58d562d"
+    }
+   ]
+  },
+  {
+   "name": "isabella-gold-floral-frame",
+   "group": "border",
+   "master": {
+    "width": 909,
+    "height": 1418,
+    "pngBytes": 1882426
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    909
+   ],
+   "top": 909,
+   "totalSec": 61.372888597194105,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "isabella-gold-floral-frame-909.webp",
+     "kind": "webp",
+     "width": 909,
+     "height": 1418,
+     "bytes": 265814,
+     "sec": 6.88340841489844,
+     "sha256": "be5b4e926fbadeec2771fc9e6b8bdf2b9ba7c5b790e758ee22fd42fc0666756a"
+    },
+    {
+     "file": "isabella-gold-floral-frame-909.avif",
+     "kind": "avif",
+     "width": 909,
+     "height": 1418,
+     "bytes": 167494,
+     "sec": 7.7135213788133115,
+     "sha256": "ddeef03c8c0e6ffbb1e0d0cb717a24766f054b5503b04a4762359aaff60e63e1"
+    },
+    {
+     "file": "isabella-gold-floral-frame-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 100,
+     "bytes": 3460,
+     "sec": 0.24948048684746027,
+     "sha256": "6251b879a9606a06ca98a309f478c00a5a8f65e4e5ead8b8c0f6ff07ddc0b9cc"
+    },
+    {
+     "file": "isabella-gold-floral-frame-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 150,
+     "bytes": 5938,
+     "sec": 0.5362803239841014,
+     "sha256": "eb0b7542bba95482eae3cb8714358ccaf8c08eccd8f8f2f4b875869c1ad43d5e"
+    },
+    {
+     "file": "isabella-gold-floral-frame-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 200,
+     "bytes": 9548,
+     "sec": 0.9561080110725015,
+     "sha256": "7893b254d833470f8f0c9b2901f0c12d82df5a0bc44587b1dc654dc422124075"
+    },
+    {
+     "file": "isabella-gold-floral-frame-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 300,
+     "bytes": 18152,
+     "sec": 1.9196546860039234,
+     "sha256": "84d33494523b7b7a6f58d4bf7b99195400777bb4a07847045550c3d9491a5a2f"
+    },
+    {
+     "file": "isabella-gold-floral-frame-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 399,
+     "bytes": 29940,
+     "sec": 3.7335316261742264,
+     "sha256": "0c13a34b3f8fd2913fda225c7e2e3e65f93e8b131dbfb30f3c6303d2eb90f9a0"
+    },
+    {
+     "file": "isabella-gold-floral-frame-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 599,
+     "bytes": 60042,
+     "sec": 7.552170207025483,
+     "sha256": "53af8d5ac2774a56987e330dc66aa0a6a35c65bfde60e05fd5459caf75488866"
+    },
+    {
+     "file": "isabella-gold-floral-frame-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 799,
+     "bytes": 101202,
+     "sec": 5.129886074922979,
+     "sha256": "95d5cc167f928402f3ba3bbda57b946e21c7b4cc016efe6e0cdd93f214d22221"
+    },
+    {
+     "file": "isabella-gold-floral-frame-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 1198,
+     "bytes": 202458,
+     "sec": 9.339957580901682,
+     "sha256": "bfd26f07869111a4f7682f3cd59c59d2ebc3aef456285293ac156090198ab6f2"
+    },
+    {
+     "file": "isabella-gold-floral-frame-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 100,
+     "bytes": 2473,
+     "sec": 0.1545200680848211,
+     "sha256": "1e8b24f1d0ca81bfa96682ddd82946ba6e98a68628050b0daa09cef3e4f266c2"
+    },
+    {
+     "file": "isabella-gold-floral-frame-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 150,
+     "bytes": 4240,
+     "sec": 0.3989797530230135,
+     "sha256": "374dd2f9c8a8e01422be83fb4b23d0aa7af6616db3bc0c925115e3ec377c3291"
+    },
+    {
+     "file": "isabella-gold-floral-frame-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 200,
+     "bytes": 5956,
+     "sec": 0.508096860954538,
+     "sha256": "1e9da03932d9b2b5863a97b6b9230d18848340371bea0fb3165088c714d45c9f"
+    },
+    {
+     "file": "isabella-gold-floral-frame-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 300,
+     "bytes": 11779,
+     "sec": 1.1766746297944337,
+     "sha256": "1f293b92cf930d214efd8a7b66a0c579cfffc60d0ebbd62fc75ef7f7e1f70d5e"
+    },
+    {
+     "file": "isabella-gold-floral-frame-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 399,
+     "bytes": 18451,
+     "sec": 1.9617439000867307,
+     "sha256": "00a42c4c5f94e61f13adb836aa4b65a8cd09243047866afb645d718e2a563809"
+    },
+    {
+     "file": "isabella-gold-floral-frame-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 599,
+     "bytes": 37475,
+     "sec": 1.9593284069560468,
+     "sha256": "905ae805a1ca6822e15cec02d4d53367b8be1cc0d2316c3ae1667a7d648e8bf8"
+    },
+    {
+     "file": "isabella-gold-floral-frame-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 799,
+     "bytes": 64171,
+     "sec": 2.926520491950214,
+     "sha256": "8669820cba360c00ef6a021a016453f74478bbdfe2a82661b0f7226340a761e6"
+    },
+    {
+     "file": "isabella-gold-floral-frame-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 1198,
+     "bytes": 127118,
+     "sec": 6.727885872125626,
+     "sha256": "a5ab66b0536159e1174fb9b31c6faededa83cbe0691f361c0d63297fb8c96a9c"
+    },
+    {
+     "file": "isabella-gold-floral-frame-909-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 909,
+     "height": 1418,
+     "bytes": 1396204,
+     "sec": 1.5371971970889717,
+     "sha256": "04a4b39cc9aa635144fd67258cd207d609c318628d8f21cd31104cf2d00cdf9c"
+    }
+   ]
+  },
+  {
+   "name": "palmette-scroll-printer-frame",
+   "group": "border",
+   "master": {
+    "width": 2164,
+    "height": 1762,
+    "pngBytes": 1008128
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024,
+    1536,
+    2048
+   ],
+   "top": 2048,
+   "totalSec": 112.81934426398948,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "palmette-scroll-printer-frame-2048.webp",
+     "kind": "webp",
+     "width": 2048,
+     "height": 1668,
+     "bytes": 822330,
+     "sec": 16.84367167786695,
+     "sha256": "6306974dfe9f79c81e36f1b64e93702efbc9bf5fc2493c76422b1d6ac7129296"
+    },
+    {
+     "file": "palmette-scroll-printer-frame-2048.avif",
+     "kind": "avif",
+     "width": 2048,
+     "height": 1668,
+     "bytes": 396527,
+     "sec": 11.52178836800158,
+     "sha256": "7bf86dd479bfe5f1d224ed80dba59c8c7eb72e6b1888de49862ab5d41e1f8335"
+    },
+    {
+     "file": "palmette-scroll-printer-frame-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 52,
+     "bytes": 1626,
+     "sec": 0.1715968339703977,
+     "sha256": "137c6cade488999fa2fcdf61ccd59dab2e1acf6f050924e46316e7ef89c5a596"
+    },
+    {
+     "file": "palmette-scroll-printer-frame-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 78,
+     "bytes": 3492,
+     "sec": 0.5423869430087507,
+     "sha256": "34af9eb83630a13b474469dad3cd7a4299c36fdcd0c1305fa74bd4b4d08a70f8"
+    },
+    {
+     "file": "palmette-scroll-printer-frame-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 104,
+     "bytes": 6060,
+     "sec": 1.1184429998975247,
+     "sha256": "3b97a62441a446046c90ea328dad911be8ffd06786a6254977e7e86c9822a41e"
+    },
+    {
+     "file": "palmette-scroll-printer-frame-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 156,
+     "bytes": 12286,
+     "sec": 1.838297703070566,
+     "sha256": "a4ceab1e4d86524ea7b578540af10971282df0a89c8909162c154a80a6161e88"
+    },
+    {
+     "file": "palmette-scroll-printer-frame-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 208,
+     "bytes": 20614,
+     "sec": 2.9390495470725,
+     "sha256": "1a65023f9c0852687239d8c193f680a182bff798d2ecbbaf4b882d12f6e4c35e"
+    },
+    {
+     "file": "palmette-scroll-printer-frame-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 313,
+     "bytes": 42540,
+     "sec": 8.398267979966477,
+     "sha256": "1bb07d59d9b56a9a681f0baff59cd81da0dda7c29229b31b5f246d0599fd1ccf"
+    },
+    {
+     "file": "palmette-scroll-printer-frame-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 417,
+     "bytes": 73346,
+     "sec": 8.16818082309328,
+     "sha256": "accbd807924165159af7cc07808f5660fa233f0a3198e95b21f2d4ae9ae410e6"
+    },
+    {
+     "file": "palmette-scroll-printer-frame-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 625,
+     "bytes": 150658,
+     "sec": 13.638392073102295,
+     "sha256": "22cd07ce23b63eb1aab26032b25a17ae1c70a1436719f9f8c8ead7853e3a11f0"
+    },
+    {
+     "file": "palmette-scroll-printer-frame-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 834,
+     "bytes": 251530,
+     "sec": 10.092680636094883,
+     "sha256": "6ec36c8ed2bda58faa6acc40f25793d0acec5482f41900f4d3479532e5351cbf"
+    },
+    {
+     "file": "palmette-scroll-printer-frame-1536.webp",
+     "kind": "webp",
+     "width": 1536,
+     "height": 1251,
+     "bytes": 507880,
+     "sec": 19.89819754404016,
+     "sha256": "685e718423f4dc454a6e570e2aa6a298a861078240491ec245eaa0f2a5a06576"
+    },
+    {
+     "file": "palmette-scroll-printer-frame-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 52,
+     "bytes": 1155,
+     "sec": 0.10512992506846786,
+     "sha256": "2437242b079eb1d43929377dbbea439316dcf9a4a50b6e6a5200817838b956de"
+    },
+    {
+     "file": "palmette-scroll-printer-frame-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 78,
+     "bytes": 2161,
+     "sec": 0.15673231799155474,
+     "sha256": "06cc53ce6387c98a727712a1cece6cf757a1d2e3d7b825fb60686bae54e9956f"
+    },
+    {
+     "file": "palmette-scroll-printer-frame-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 104,
+     "bytes": 3415,
+     "sec": 0.26380856009200215,
+     "sha256": "b144d414059ae322269b36c72d1f13484c335e08dc20203769ed4bc61e4ad0e6"
+    },
+    {
+     "file": "palmette-scroll-printer-frame-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 156,
+     "bytes": 7425,
+     "sec": 0.6115489499643445,
+     "sha256": "7c802074f5150cf54f747fcc49a8e7e6e9ae8a1588cd7b77bf06ab9f9f465cc1"
+    },
+    {
+     "file": "palmette-scroll-printer-frame-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 208,
+     "bytes": 12916,
+     "sec": 0.7539876219816506,
+     "sha256": "c3b7b0f1c8111e7e7a237f9549daec1456339338821c64aa96fad308b4a82694"
+    },
+    {
+     "file": "palmette-scroll-printer-frame-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 313,
+     "bytes": 27607,
+     "sec": 0.5052502360194921,
+     "sha256": "cb1ae1f78c7917128a1353c8b4c3b294a34c0c6756b67e4ee4b4497774d3716f"
+    },
+    {
+     "file": "palmette-scroll-printer-frame-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 417,
+     "bytes": 46642,
+     "sec": 0.8910814200062305,
+     "sha256": "a92a5b8a98ea94b7e68726af6ec2913e11e291b75ea2de6df8c5fcbbe0df7e43"
+    },
+    {
+     "file": "palmette-scroll-printer-frame-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 625,
+     "bytes": 89623,
+     "sec": 2.0010262860450894,
+     "sha256": "398374c9256c1e3bd3083299e279c24edc0fe143ab3e4e806f252191b9b44dc6"
+    },
+    {
+     "file": "palmette-scroll-printer-frame-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 834,
+     "bytes": 138597,
+     "sec": 3.2968192668631673,
+     "sha256": "45d9a94c660face31329340f6320b448ae769b801715bc589cd8a7fbb346a522"
+    },
+    {
+     "file": "palmette-scroll-printer-frame-1536.avif",
+     "kind": "avif",
+     "width": 1536,
+     "height": 1251,
+     "bytes": 253266,
+     "sec": 8.574201504001394,
+     "sha256": "eeeb2a37e34ab9b9307c6a2d9f951a3fbfb99ab1b8435f477f4dc198e8d0daa7"
+    },
+    {
+     "file": "palmette-scroll-printer-frame-2048-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 2048,
+     "height": 1668,
+     "bytes": 1062868,
+     "sec": 0.4778599131386727,
+     "sha256": "23b90d4e3bb5f3d231d4f13f8ad16f4ca1697377a502a5b0c883f2c074fba626"
+    }
+   ]
+  },
+  {
+   "name": "ivy-corner",
+   "group": "border",
+   "master": {
+    "width": 1254,
+    "height": 1254,
+    "pngBytes": 267736
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024,
+    1254
+   ],
+   "top": 1254,
+   "totalSec": 51.426506797084585,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "ivy-corner-1254.webp",
+     "kind": "webp",
+     "width": 1254,
+     "height": 1254,
+     "bytes": 135386,
+     "sec": 9.040588354924694,
+     "sha256": "106fced515273b93c656b4ca93fd4b0053e31f757aaf37f1c568c89e449ffa14"
+    },
+    {
+     "file": "ivy-corner-1254.avif",
+     "kind": "avif",
+     "width": 1254,
+     "height": 1254,
+     "bytes": 41147,
+     "sec": 1.883501823991537,
+     "sha256": "47a05af81422dfd687b2fd56a4aaa34c1564a4695a9df5e48ddf83a746ea5fab"
+    },
+    {
+     "file": "ivy-corner-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 64,
+     "bytes": 1292,
+     "sec": 0.18433954007923603,
+     "sha256": "5aebc90b16dd69f9a1fe1dfcd7b0368f67081cc0a5af55f4bf8bfb1eeef50e99"
+    },
+    {
+     "file": "ivy-corner-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 96,
+     "bytes": 2402,
+     "sec": 0.47361745894886553,
+     "sha256": "ef82f491c7ed0d6c02f3e644a7665ff34b3fc0c2184b5ac47f7bee8bd95945b8"
+    },
+    {
+     "file": "ivy-corner-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 128,
+     "bytes": 3814,
+     "sec": 0.893456008983776,
+     "sha256": "ac4c4934c042c0a98788324f2826bd0addbb483a573502fec57ed44ec2a603c3"
+    },
+    {
+     "file": "ivy-corner-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 192,
+     "bytes": 7066,
+     "sec": 1.5971303179394454,
+     "sha256": "6776646ef336edeff6a37a2c05269b3083af8bfa1cef5f6f0e209d4225b6621d"
+    },
+    {
+     "file": "ivy-corner-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 256,
+     "bytes": 10900,
+     "sec": 2.4715873340610415,
+     "sha256": "62ee8bff1778d89affcb6678b564bf0890123e8d605b834955112e04f095bb26"
+    },
+    {
+     "file": "ivy-corner-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 384,
+     "bytes": 19754,
+     "sec": 5.76704340800643,
+     "sha256": "d5354b8c088dce2ad26d9cfe63b0d1a772bb3afebacf818d2dc21d821d29cdae"
+    },
+    {
+     "file": "ivy-corner-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 512,
+     "bytes": 30872,
+     "sec": 7.242682778974995,
+     "sha256": "b4e6a71e7e85f32e3ac120830081a3336e0f99ed2401d069e9434e84c0b80620"
+    },
+    {
+     "file": "ivy-corner-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 768,
+     "bytes": 59702,
+     "sec": 9.76159464311786,
+     "sha256": "3e2dadfd832ab9143817810b05cbead0693d57b02bdccae98be86960d5ff8336"
+    },
+    {
+     "file": "ivy-corner-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 1024,
+     "bytes": 96322,
+     "sec": 8.855567252961919,
+     "sha256": "2332af58486a931c81d86b31c5873917f5e399127bdf2d38a9ba1ff0b062d3c6"
+    },
+    {
+     "file": "ivy-corner-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 64,
+     "bytes": 1079,
+     "sec": 0.0504480660893023,
+     "sha256": "ea8d39e69b5a9197501ae2022a4808ca5506608676fdf4ee12b444c0b417583e"
+    },
+    {
+     "file": "ivy-corner-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 96,
+     "bytes": 1767,
+     "sec": 0.08120816294103861,
+     "sha256": "8668d8ae43d39b8fe86deac8cbdcd7fb0b8eca7fe71c9397143a45f25bcc7016"
+    },
+    {
+     "file": "ivy-corner-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 128,
+     "bytes": 2511,
+     "sec": 0.17367185885086656,
+     "sha256": "b693ff34da80652fb7d90100a59032362ad501345ece0e8946cf96ee8f64f8a4"
+    },
+    {
+     "file": "ivy-corner-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 192,
+     "bytes": 4402,
+     "sec": 0.24773262604139745,
+     "sha256": "b4653b3563634f6e9220e531c6b9f7396068014e4c8e165a9444e1f410e1ffc4"
+    },
+    {
+     "file": "ivy-corner-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 256,
+     "bytes": 6380,
+     "sec": 0.19210072187706828,
+     "sha256": "7cf36f29f072dcc9a472f66d43fd7845ae819a91b4acade7ab6f297a9769a9db"
+    },
+    {
+     "file": "ivy-corner-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 384,
+     "bytes": 10989,
+     "sec": 0.20881516113877296,
+     "sha256": "94696e82b9859fb6a898aa227af6758fa3d01aaee7203cd14bddb31da88a533e"
+    },
+    {
+     "file": "ivy-corner-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 512,
+     "bytes": 15513,
+     "sec": 0.34710296895354986,
+     "sha256": "9dbe79c42e10b5c482557de14e9a3ee9c5512fe8f82745a76606dd6b50a9c6ea"
+    },
+    {
+     "file": "ivy-corner-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 768,
+     "bytes": 24868,
+     "sec": 0.6957677020691335,
+     "sha256": "247ea4019791c56c6a8d2e98b69fcea0b0779450a7a001adb711eb71069bd34a"
+    },
+    {
+     "file": "ivy-corner-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 1024,
+     "bytes": 33163,
+     "sec": 1.1258273201528937,
+     "sha256": "6cc2139dea6fcbe474e22e86ee9796de5cae3faafd95aaabfc89409461207cdb"
+    },
+    {
+     "file": "ivy-corner-1254-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 1254,
+     "height": 1254,
+     "bytes": 168428,
+     "sec": 0.12646931200288236,
+     "sha256": "5760a1311eaafcb54b2d58f3405dd44004640c0c76d6abaed89fb0df172bcca0"
+    }
+   ]
+  },
+  {
+   "name": "illuminated-acanthus-corner",
+   "group": "border",
+   "master": {
+    "width": 1266,
+    "height": 1243,
+    "pngBytes": 979245
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024,
+    1266
+   ],
+   "top": 1266,
+   "totalSec": 59.32332872017287,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "illuminated-acanthus-corner-1266.webp",
+     "kind": "webp",
+     "width": 1266,
+     "height": 1243,
+     "bytes": 209738,
+     "sec": 7.6034559779800475,
+     "sha256": "56654e8f727ee62b5d415c7ddc077dcd6e8306d9add6cfb0c8896bac7b5d2240"
+    },
+    {
+     "file": "illuminated-acanthus-corner-1266.avif",
+     "kind": "avif",
+     "width": 1266,
+     "height": 1243,
+     "bytes": 102010,
+     "sec": 5.791022143093869,
+     "sha256": "a84d6fff15037bb110bb132ef364be00fda1bdd3471791ebb8fa4bd441502b03"
+    },
+    {
+     "file": "illuminated-acanthus-corner-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 63,
+     "bytes": 2582,
+     "sec": 0.2065792919602245,
+     "sha256": "f186e8fad79ee15f53951ac9e34851af6fba9107e053dce22acd0e7c091e0180"
+    },
+    {
+     "file": "illuminated-acanthus-corner-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 94,
+     "bytes": 4414,
+     "sec": 0.5201227490324527,
+     "sha256": "682103aacdd9182696d4cd9f25564e2a3c3d9ad8c8a7f17d1659f0120aa80a8f"
+    },
+    {
+     "file": "illuminated-acanthus-corner-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 126,
+     "bytes": 6504,
+     "sec": 0.8263694879133254,
+     "sha256": "223048a49093858d9c9265db81d667630019ec40728f60aeb358aa781b1bb5dd"
+    },
+    {
+     "file": "illuminated-acanthus-corner-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 189,
+     "bytes": 10846,
+     "sec": 1.5238841099198908,
+     "sha256": "22f31a995c387fee82d106e70ecf9136405b11ed9639d4ddd262e376ebf4bdf8"
+    },
+    {
+     "file": "illuminated-acanthus-corner-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 251,
+     "bytes": 16580,
+     "sec": 3.1208724069874734,
+     "sha256": "44386cbc7f17298c72fc9aa643b3a5cf67917097cf1297d0ee80fb43b000534d"
+    },
+    {
+     "file": "illuminated-acanthus-corner-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 377,
+     "bytes": 29780,
+     "sec": 5.6383067411370575,
+     "sha256": "69d15ba02d2719416d8b7a283cb74eb122dc6fabea4cf18aeaef12f24fb478c3"
+    },
+    {
+     "file": "illuminated-acanthus-corner-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 503,
+     "bytes": 46294,
+     "sec": 6.91990900808014,
+     "sha256": "75a7dcc3182e60854e4f395c1455405cb1e83138325618edd21d531b1e291922"
+    },
+    {
+     "file": "illuminated-acanthus-corner-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 754,
+     "bytes": 92796,
+     "sec": 6.974777180003002,
+     "sha256": "f21748048c24642f37ffd60badccf6f75ad8d2327e0d8656ada21b52259e4c6c"
+    },
+    {
+     "file": "illuminated-acanthus-corner-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 1005,
+     "bytes": 151454,
+     "sec": 8.707188863772899,
+     "sha256": "04118be8e8f6b88c8da01f2cf5fe38ecccfa1b5aead8e70d2450ce595ca74075"
+    },
+    {
+     "file": "illuminated-acanthus-corner-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 63,
+     "bytes": 2125,
+     "sec": 0.143374317092821,
+     "sha256": "cf6654992b6b2badda09cd5204519d420b46455512694dc0bbcd17a2fdd97ef1"
+    },
+    {
+     "file": "illuminated-acanthus-corner-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 94,
+     "bytes": 3107,
+     "sec": 0.1785068919416517,
+     "sha256": "eac06b8e648626c2760aed828735a3084f39bfc30feae9fd255e44921edb673b"
+    },
+    {
+     "file": "illuminated-acanthus-corner-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 126,
+     "bytes": 4287,
+     "sec": 0.2288673419971019,
+     "sha256": "94a3dfe039e85e569cfc9f712102955674e6a74c2f6e0bece1852172e256525f"
+    },
+    {
+     "file": "illuminated-acanthus-corner-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 189,
+     "bytes": 6245,
+     "sec": 0.487772346008569,
+     "sha256": "aaa90182d4b10d66d3f97b8fdfb94e09b10e4b0468336e85ce99fac67e0075cd"
+    },
+    {
+     "file": "illuminated-acanthus-corner-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 251,
+     "bytes": 9969,
+     "sec": 0.7979054930619895,
+     "sha256": "898e323df6019c326f4b69d2f102c680bb4b8a35a23d18bf7bd5a0f50cf5f25c"
+    },
+    {
+     "file": "illuminated-acanthus-corner-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 377,
+     "bytes": 16366,
+     "sec": 0.6229543099179864,
+     "sha256": "b3b81d445dee2ab1e4b691f0a69daf1bbf2a5f5aac10881ad27c8b6d95fda2ff"
+    },
+    {
+     "file": "illuminated-acanthus-corner-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 503,
+     "bytes": 26234,
+     "sec": 0.9728307840414345,
+     "sha256": "9287d6e955861eb78ec593415729f5711e1ecb79064be3771d23a5321a7f9ce4"
+    },
+    {
+     "file": "illuminated-acanthus-corner-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 754,
+     "bytes": 49276,
+     "sec": 2.570312160998583,
+     "sha256": "54fa220bd153110462371ef35627083ab97a6af0594fc996f2739103ca2a894f"
+    },
+    {
+     "file": "illuminated-acanthus-corner-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 1005,
+     "bytes": 76461,
+     "sec": 4.045922171091661,
+     "sha256": "11441975858805b401146768a51812dd3137315de1ec64d2e7a258e69c4956f5"
+    },
+    {
+     "file": "illuminated-acanthus-corner-1266-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 1266,
+     "height": 1243,
+     "bytes": 720070,
+     "sec": 1.4351699599064887,
+     "sha256": "17f181e66c147e8361faecfdcde857413e62fb7d063fdfc99f5a9e070f4984a3"
+    }
+   ]
+  },
+  {
+   "name": "oak-leaf-corner-flourish",
+   "group": "border",
+   "master": {
+    "width": 1091,
+    "height": 1386,
+    "pngBytes": 2176776
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024,
+    1091
+   ],
+   "top": 1091,
+   "totalSec": 105.02657715999521,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "oak-leaf-corner-flourish-1091.webp",
+     "kind": "webp",
+     "width": 1091,
+     "height": 1386,
+     "bytes": 468456,
+     "sec": 16.792930789059028,
+     "sha256": "b1ae176bb15c1325ff3b396a68c4b66d5fbbe4f12035ac22b4218d3404791834"
+    },
+    {
+     "file": "oak-leaf-corner-flourish-1091.avif",
+     "kind": "avif",
+     "width": 1091,
+     "height": 1386,
+     "bytes": 248911,
+     "sec": 8.207631647121161,
+     "sha256": "edb6f4e35dbdf6fe1e6504d2eb9143e1cfbd5f51e8871709648eb11d8124ad06"
+    },
+    {
+     "file": "oak-leaf-corner-flourish-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 81,
+     "bytes": 4776,
+     "sec": 0.438030470861122,
+     "sha256": "9a52d9ea5447199667bc3d9e7391e0507c8eb0179d7ed282833925efbc74f485"
+    },
+    {
+     "file": "oak-leaf-corner-flourish-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 122,
+     "bytes": 9518,
+     "sec": 1.0350429688114673,
+     "sha256": "f9b65a169c1e72ccb3f05656de8ba25eacc69d82115d3c8d24f0853b1e802dd8"
+    },
+    {
+     "file": "oak-leaf-corner-flourish-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 163,
+     "bytes": 15126,
+     "sec": 1.5412947051227093,
+     "sha256": "a30a9e2bbbbeb0b305f269371ae2a33eeb781e340ec9e7ec13dbd4f27e744933"
+    },
+    {
+     "file": "oak-leaf-corner-flourish-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 244,
+     "bytes": 28330,
+     "sec": 3.021950002061203,
+     "sha256": "5787ff1b967339a7ad86e6ba0e17b84fdd46f1d5d64f9f07c75680e631a7a985"
+    },
+    {
+     "file": "oak-leaf-corner-flourish-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 325,
+     "bytes": 44300,
+     "sec": 7.364432629197836,
+     "sha256": "d37af75ed7c3343d9b9934d6af975b64936ea7db2842bb4a8f1b902fad6e7da9"
+    },
+    {
+     "file": "oak-leaf-corner-flourish-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 488,
+     "bytes": 82658,
+     "sec": 7.814926371909678,
+     "sha256": "7a78bf9c42e85e132b50ac71cd072c96e945883615c4fbaaeb760518b7fc49cf"
+    },
+    {
+     "file": "oak-leaf-corner-flourish-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 650,
+     "bytes": 130946,
+     "sec": 8.853161921026185,
+     "sha256": "f363e7c1cfda01403bf749174a8788a5e9c960ae099ab0e70918c4beaab1243b"
+    },
+    {
+     "file": "oak-leaf-corner-flourish-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 976,
+     "bytes": 261676,
+     "sec": 10.544590499950573,
+     "sha256": "a5fc099bdcc40e8e2ce4e60972d4815df43b672ebf35df55ab434bc1f6f05775"
+    },
+    {
+     "file": "oak-leaf-corner-flourish-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 1301,
+     "bytes": 429428,
+     "sec": 16.168225957080722,
+     "sha256": "ac88f14cfa3a0f6a0bb515eb24712263a592ed6a6c2b951403bcd37b3aeb2a57"
+    },
+    {
+     "file": "oak-leaf-corner-flourish-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 81,
+     "bytes": 3851,
+     "sec": 0.16066562198102474,
+     "sha256": "ac385482ca6931af4c2ef3c99289eaa9c67c91380854b8ad846e87699422f66e"
+    },
+    {
+     "file": "oak-leaf-corner-flourish-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 122,
+     "bytes": 6586,
+     "sec": 0.5813862329814583,
+     "sha256": "1a8a7a33753dec5f0d7ee4e0cdc985cef52b0d6f5c8dc2ff3c1ef9a051710ac3"
+    },
+    {
+     "file": "oak-leaf-corner-flourish-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 163,
+     "bytes": 10616,
+     "sec": 0.4759436841122806,
+     "sha256": "6cfba49700c1d012a3c08fadb481b6382a54b9626fcb25fadad17b720fca3f05"
+    },
+    {
+     "file": "oak-leaf-corner-flourish-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 244,
+     "bytes": 18653,
+     "sec": 0.9165939360391349,
+     "sha256": "c4e4e3711ff0d55a183f685b4329c7132932f0456eff8d188b2eee56febe940a"
+    },
+    {
+     "file": "oak-leaf-corner-flourish-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 325,
+     "bytes": 27539,
+     "sec": 1.448109685909003,
+     "sha256": "4934bcb71056266bb148c6899120da75868b2f5de2864afca887832ce1650303"
+    },
+    {
+     "file": "oak-leaf-corner-flourish-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 488,
+     "bytes": 49423,
+     "sec": 1.4560961071401834,
+     "sha256": "0483749d3bd9b21f5e331a4e9f91b6f8ec2bedfcf7109b35bfc2807b4868e652"
+    },
+    {
+     "file": "oak-leaf-corner-flourish-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 650,
+     "bytes": 76441,
+     "sec": 2.6848798249848187,
+     "sha256": "837c7c1acbf7f72d2dd489dcf447da2df30ba1cc52f3df8c28c0a45242348806"
+    },
+    {
+     "file": "oak-leaf-corner-flourish-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 976,
+     "bytes": 149753,
+     "sec": 5.547506419941783,
+     "sha256": "e84e2bdceb3725ad8d0a1e81fb6259e48928e5cef925165cd7ebd350a650d513"
+    },
+    {
+     "file": "oak-leaf-corner-flourish-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 1301,
+     "bytes": 224687,
+     "sec": 8.43373247096315,
+     "sha256": "e7ed1034621535627d342548194a7f66666dd5d81963d43d7539cd3cf6ef7ef6"
+    },
+    {
+     "file": "oak-leaf-corner-flourish-1091-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 1091,
+     "height": 1386,
+     "bytes": 1412042,
+     "sec": 1.5289565320126712,
+     "sha256": "84e3a03f27c7dfe48d61b02cd4367a24d63173726b1f7452bc114750e2321c80"
+    }
+   ]
+  },
+  {
+   "name": "illuminated-acanthus-corner-top-right",
+   "group": "border",
+   "master": {
+    "width": 1312,
+    "height": 1199,
+    "pngBytes": 1085477
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024,
+    1312
+   ],
+   "top": 1312,
+   "totalSec": 69.3847341418732,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "illuminated-acanthus-corner-top-right-1312.webp",
+     "kind": "webp",
+     "width": 1312,
+     "height": 1199,
+     "bytes": 246508,
+     "sec": 9.581619115080684,
+     "sha256": "3ff54cf0967139b875eb56681e3c9ba65fc9cd1221b75bd2b5f39dab75bf2a0c"
+    },
+    {
+     "file": "illuminated-acanthus-corner-top-right-1312.avif",
+     "kind": "avif",
+     "width": 1312,
+     "height": 1199,
+     "bytes": 112227,
+     "sec": 5.050747405970469,
+     "sha256": "d886ddacd2e5cb8a8906850d67b752cabf9b5a220dc6461ba4d8fc4927e00965"
+    },
+    {
+     "file": "illuminated-acanthus-corner-top-right-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 58,
+     "bytes": 2612,
+     "sec": 0.17554204794578254,
+     "sha256": "ee63d7fa45f8dbec950b7f9849d6b37cc2ff3795e6238347ddc45b64355eaecd"
+    },
+    {
+     "file": "illuminated-acanthus-corner-top-right-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 88,
+     "bytes": 4650,
+     "sec": 0.5888517438434064,
+     "sha256": "42e35176880a3ac070d3771b534249fdfbfccb6888f01a4ff054e16d18d60b92"
+    },
+    {
+     "file": "illuminated-acanthus-corner-top-right-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 117,
+     "bytes": 7150,
+     "sec": 1.0578926380258054,
+     "sha256": "27835fec78fe99ed3ff334471e5d9e1154d05956a740eae9952b556302e15f09"
+    },
+    {
+     "file": "illuminated-acanthus-corner-top-right-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 175,
+     "bytes": 12366,
+     "sec": 1.5953834981191903,
+     "sha256": "b8361dab03f994b4b778ff8c170beac7acd5ddecd71d7baaae6a358e922e5a70"
+    },
+    {
+     "file": "illuminated-acanthus-corner-top-right-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 234,
+     "bytes": 19152,
+     "sec": 2.727593766991049,
+     "sha256": "da80838661da00d78f8062fce044c4f075ff71adbcc014451e83a3db3e42e958"
+    },
+    {
+     "file": "illuminated-acanthus-corner-top-right-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 351,
+     "bytes": 35254,
+     "sec": 5.867361980024725,
+     "sha256": "656808f241080b6918ef353a2eada5c02ab46b0173f9c64a2942d623a1f7ed77"
+    },
+    {
+     "file": "illuminated-acanthus-corner-top-right-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 468,
+     "bytes": 54946,
+     "sec": 8.80492014507763,
+     "sha256": "148280cb74f35ffc29a035476837f62ad027dedd6c14d0d63b59ca90ad080e55"
+    },
+    {
+     "file": "illuminated-acanthus-corner-top-right-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 702,
+     "bytes": 105510,
+     "sec": 11.51995377195999,
+     "sha256": "e05c0fcf5a2f1ceca1849d473a1557aa4c0f8f16f3dfa80f313e763d83316820"
+    },
+    {
+     "file": "illuminated-acanthus-corner-top-right-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 936,
+     "bytes": 170402,
+     "sec": 9.604233189951628,
+     "sha256": "a7834180c1aa8158b27630e03809b34cb82896edaf0cfdaec98ce943192d4102"
+    },
+    {
+     "file": "illuminated-acanthus-corner-top-right-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 58,
+     "bytes": 2233,
+     "sec": 0.19511433807201684,
+     "sha256": "369256c8a5cd84c6b250a9f2a3bddee1ac172ce62438b85aa77bf39d138a4003"
+    },
+    {
+     "file": "illuminated-acanthus-corner-top-right-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 88,
+     "bytes": 3573,
+     "sec": 0.22347163897939026,
+     "sha256": "0048af4cf2c158be09d7e9c98ce0ffe7b2cfe3befa5df7e102cc5fccd4135522"
+    },
+    {
+     "file": "illuminated-acanthus-corner-top-right-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 117,
+     "bytes": 4784,
+     "sec": 0.30716445320285857,
+     "sha256": "5f064a63422df061d83afd47996cb27870e58f95004feb426519ec8dd3d7ef94"
+    },
+    {
+     "file": "illuminated-acanthus-corner-top-right-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 175,
+     "bytes": 7381,
+     "sec": 0.8146147830411792,
+     "sha256": "7360fef5067111363bd11619cde5001dcf098ba669abddcd2e90f17643a7421a"
+    },
+    {
+     "file": "illuminated-acanthus-corner-top-right-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 234,
+     "bytes": 11428,
+     "sec": 0.9903969571460038,
+     "sha256": "86a733e8c182130fa38f243f0e53d65cec5c3069c4cc14a2de4589e6017c2ec3"
+    },
+    {
+     "file": "illuminated-acanthus-corner-top-right-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 351,
+     "bytes": 20879,
+     "sec": 0.8010958870872855,
+     "sha256": "38a2b55e7b8851b518dd316414c7a7f54af39f9144a46ee2d947e86026eea8b6"
+    },
+    {
+     "file": "illuminated-acanthus-corner-top-right-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 468,
+     "bytes": 30852,
+     "sec": 1.2769258809275925,
+     "sha256": "79d9bdf49df25122b03dd43d5b64c90a01d18686274b0869bd477d1797c52134"
+    },
+    {
+     "file": "illuminated-acanthus-corner-top-right-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 702,
+     "bytes": 57054,
+     "sec": 2.2494671349413693,
+     "sha256": "9c0dfa11c5d7c08fc9f756fa4532f781df4d907fb882c73cf785a5acbf9eae4d"
+    },
+    {
+     "file": "illuminated-acanthus-corner-top-right-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 936,
+     "bytes": 82950,
+     "sec": 4.610658810008317,
+     "sha256": "340562b95ef9fc5da4802978a91092a944c1327e15e7224ae216cd1d5aa31d99"
+    },
+    {
+     "file": "illuminated-acanthus-corner-top-right-1312-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 1312,
+     "height": 1199,
+     "bytes": 794218,
+     "sec": 1.3338581069838256,
+     "sha256": "3bc17cb9fc648b5aa311429863fd59fc30dcb80d941e56b93f4c6f0417e9df6d"
+    }
+   ]
+  },
+  {
+   "name": "briar-divider",
+   "group": "border",
+   "master": {
+    "width": 2172,
+    "height": 724,
+    "pngBytes": 393542
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024,
+    1536,
+    2048
+   ],
+   "top": 2048,
+   "totalSec": 38.83238258888014,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "briar-divider-2048.webp",
+     "kind": "webp",
+     "width": 2048,
+     "height": 683,
+     "bytes": 135064,
+     "sec": 6.599555851193145,
+     "sha256": "4cfae8cc1b870e04c0b9a42734451e44fe6ea727b957edfa441fa208d4462dba"
+    },
+    {
+     "file": "briar-divider-2048.avif",
+     "kind": "avif",
+     "width": 2048,
+     "height": 683,
+     "bytes": 55234,
+     "sec": 3.6157010460738093,
+     "sha256": "70a092027e89c43b9e749a8c79464a9370b4d0ce69dbaa3c71d175778327dd26"
+    },
+    {
+     "file": "briar-divider-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 21,
+     "bytes": 570,
+     "sec": 0.04164928593672812,
+     "sha256": "a11f0dfa46adcb3a737f5cd82fdd7bb0c0d0777c35e3ca816b2ae39d880152c2"
+    },
+    {
+     "file": "briar-divider-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 32,
+     "bytes": 972,
+     "sec": 0.0668724540155381,
+     "sha256": "188559f726856adfafa238fc47db7b16b5190678b6b2a48b2f4e7dad70c42651"
+    },
+    {
+     "file": "briar-divider-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 43,
+     "bytes": 1480,
+     "sec": 0.12911947211250663,
+     "sha256": "4085ac8b3d0e0c02f647eca71964bc0aa1eb15dcc421deafa74cc0f82c066bb2"
+    },
+    {
+     "file": "briar-divider-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 64,
+     "bytes": 2732,
+     "sec": 0.661691936198622,
+     "sha256": "03a5f4bf347858a081a3a7b54df98aa012e7491f7c418732fbafcfec98d1ae08"
+    },
+    {
+     "file": "briar-divider-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 85,
+     "bytes": 4496,
+     "sec": 1.1778748440556228,
+     "sha256": "78d095e34f326eafa6a649e962603b126872d6e3ed61d89948bd84140c7abef6"
+    },
+    {
+     "file": "briar-divider-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 128,
+     "bytes": 8736,
+     "sec": 1.8198662258218974,
+     "sha256": "35323a7efb628deef227664c41eb099ba61d25ea6646f02a3cb8bca314808909"
+    },
+    {
+     "file": "briar-divider-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 171,
+     "bytes": 13950,
+     "sec": 3.190357337007299,
+     "sha256": "837f8d3745f931e933a06da9f5ac0dd023958fc3f4efb67e86bc88473bd5d172"
+    },
+    {
+     "file": "briar-divider-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 256,
+     "bytes": 26484,
+     "sec": 4.426074326038361,
+     "sha256": "3fcfb348e54a5264666bbf5078488cb4d57beb5b102b2b0091d4457eed4afb59"
+    },
+    {
+     "file": "briar-divider-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 341,
+     "bytes": 42266,
+     "sec": 3.902119481936097,
+     "sha256": "58602199be8bd1c2524bd35a52eb9bcbc894727e6d27d4f5f221b6dd9c13b0df"
+    },
+    {
+     "file": "briar-divider-1536.webp",
+     "kind": "webp",
+     "width": 1536,
+     "height": 512,
+     "bytes": 81686,
+     "sec": 7.2374419460538775,
+     "sha256": "53b3e2a6f7b193f2dba86d13afd82cac3fc8137dfc634ac15a7795a750342058"
+    },
+    {
+     "file": "briar-divider-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 21,
+     "bytes": 705,
+     "sec": 0.0717532760463655,
+     "sha256": "ba7d1bf1023970cfad98f59e93d841a32349d9ccd2260cfce403a77dca97464b"
+    },
+    {
+     "file": "briar-divider-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 32,
+     "bytes": 978,
+     "sec": 0.10450502880848944,
+     "sha256": "e09f105a7278eb93fa10a79d8607070dfc03ae78dc297b729b08493f2db68182"
+    },
+    {
+     "file": "briar-divider-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 43,
+     "bytes": 1349,
+     "sec": 0.1632819331716746,
+     "sha256": "00bac9541e1f53f315d12f45d495e6bbf1a1673bb8b997df5a9b1411d25f04ab"
+    },
+    {
+     "file": "briar-divider-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 64,
+     "bytes": 2251,
+     "sec": 0.254649783950299,
+     "sha256": "099a0f0e12bf6f09c0d649c720e48fafe3c4447ba110310786b29a4eee9b71b7"
+    },
+    {
+     "file": "briar-divider-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 85,
+     "bytes": 3509,
+     "sec": 0.5283872240688652,
+     "sha256": "01c9f364845c2b5940d66db5c5a7370d7cbdbeb968912e7da15d4317cd5ad0fe"
+    },
+    {
+     "file": "briar-divider-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 128,
+     "bytes": 6823,
+     "sec": 0.255245512817055,
+     "sha256": "72d17e9c8744cbff53fced727791ff09d0a849c12e07972254ab35490b94a797"
+    },
+    {
+     "file": "briar-divider-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 171,
+     "bytes": 9941,
+     "sec": 0.3756441040895879,
+     "sha256": "d4c329f4e0c240d5f780e7a79996f8f68b937ae3a79f4f0c59a57e0b1d657399"
+    },
+    {
+     "file": "briar-divider-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 256,
+     "bytes": 16714,
+     "sec": 0.6202192399650812,
+     "sha256": "7905916a94095cc92d5b834ad073ff915c143ea46747b1acf479a88228b4494b"
+    },
+    {
+     "file": "briar-divider-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 341,
+     "bytes": 23944,
+     "sec": 1.1605090340599418,
+     "sha256": "5c48e3cfae50b405166a7ef73f9f05a9ed272c30f556f5a937b776bdc19e3582"
+    },
+    {
+     "file": "briar-divider-1536.avif",
+     "kind": "avif",
+     "width": 1536,
+     "height": 512,
+     "bytes": 39113,
+     "sec": 2.287562587996945,
+     "sha256": "14f94a4b773e52c36aab872e827425f1cfbdd227d979813306854b61301512c0"
+    },
+    {
+     "file": "briar-divider-2048-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 2048,
+     "height": 683,
+     "bytes": 241896,
+     "sec": 0.13522215583361685,
+     "sha256": "abac3af6b52a756cffd87f3952509d5b0b4a1b81550fc81d53413d2b8dd9b230"
+    }
+   ]
+  },
+  {
+   "name": "gold-lozenge-divider-center",
+   "group": "border",
+   "master": {
+    "width": 1536,
+    "height": 1024,
+    "pngBytes": 1270248
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024,
+    1536
+   ],
+   "top": 1536,
+   "totalSec": 35.095914914039895,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "gold-lozenge-divider-center-1536.webp",
+     "kind": "webp",
+     "width": 1536,
+     "height": 1024,
+     "bytes": 114826,
+     "sec": 5.560213251039386,
+     "sha256": "5899c118a59d0274afed4c42c336d91075bc37a162388f861e31c61bb5ae160c"
+    },
+    {
+     "file": "gold-lozenge-divider-center-1536.avif",
+     "kind": "avif",
+     "width": 1536,
+     "height": 1024,
+     "bytes": 59649,
+     "sec": 4.541736518032849,
+     "sha256": "af8095d46f2e7648ca9d1d0d3057d62ee66a7e0029d7060f6ae3a60a51b4eeb5"
+    },
+    {
+     "file": "gold-lozenge-divider-center-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 43,
+     "bytes": 1444,
+     "sec": 0.07772689196281135,
+     "sha256": "4f4372faa3c449a32fdaf42521e41f9bac7ea435829af09381f2bbb4c285bf60"
+    },
+    {
+     "file": "gold-lozenge-divider-center-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 64,
+     "bytes": 2198,
+     "sec": 0.25541259604506195,
+     "sha256": "67799f77e6d76f3df203881df9c5dbdda9c8c29d43585406a805babaf5025496"
+    },
+    {
+     "file": "gold-lozenge-divider-center-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 85,
+     "bytes": 2938,
+     "sec": 0.3113573028240353,
+     "sha256": "c1351bf475915f3ecfa51c53ad65345afa8b7c43da7f93680c4846ddb7ec1fef"
+    },
+    {
+     "file": "gold-lozenge-divider-center-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 128,
+     "bytes": 4916,
+     "sec": 0.9355286310892552,
+     "sha256": "4a1de4add077e4d01359aefe32e4a9a674bd8cc45c16010922353ed336b67389"
+    },
+    {
+     "file": "gold-lozenge-divider-center-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 171,
+     "bytes": 6914,
+     "sec": 1.435329623054713,
+     "sha256": "e5e45785f4f42a3226a5cdf81f5dac270ff5142be6911acb54859d0cf6b95764"
+    },
+    {
+     "file": "gold-lozenge-divider-center-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 256,
+     "bytes": 12336,
+     "sec": 2.9089345370884985,
+     "sha256": "fa77eec19ae6c993c859ce62a2bb144137acb62f8c86adb2a424fae25a32464c"
+    },
+    {
+     "file": "gold-lozenge-divider-center-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 341,
+     "bytes": 18846,
+     "sec": 4.340153046883643,
+     "sha256": "e7a08467b0e91e6aa3b85f91d518d8bbf953a3dc3dd25aee2bbedb8d162e88b8"
+    },
+    {
+     "file": "gold-lozenge-divider-center-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 512,
+     "bytes": 36260,
+     "sec": 3.684943287167698,
+     "sha256": "9f1ea71e90c63cba70941f7bc13ca52211f34d30a4434f3cb06452f31597478d"
+    },
+    {
+     "file": "gold-lozenge-divider-center-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 683,
+     "bytes": 61374,
+     "sec": 5.5922668618150055,
+     "sha256": "d1b63334c0cc39208702f2d30b7a7d8f0b185ecf82914a11365977949c90e423"
+    },
+    {
+     "file": "gold-lozenge-divider-center-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 43,
+     "bytes": 1468,
+     "sec": 0.11315841716714203,
+     "sha256": "00adb90fc2dfd8c38f4fcfc13e1dc4385772b0ae7bb12e0e9e26ad1aadecca6d"
+    },
+    {
+     "file": "gold-lozenge-divider-center-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 64,
+     "bytes": 1855,
+     "sec": 0.18871783511713147,
+     "sha256": "019ea2e429d4da70526d96929ec79d2ae0b1046f4334b3ae657a49a0136b5e3e"
+    },
+    {
+     "file": "gold-lozenge-divider-center-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 85,
+     "bytes": 2133,
+     "sec": 0.1402523040305823,
+     "sha256": "197c17c2123350f010a3cefe6714a56f2a9763816cd8a8799c745e2840ec4d63"
+    },
+    {
+     "file": "gold-lozenge-divider-center-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 128,
+     "bytes": 3350,
+     "sec": 0.29947655787691474,
+     "sha256": "ded0889c522b96347e43c3fcfa93f4e26b98e7e1842a66f5a12de1b8ad12e159"
+    },
+    {
+     "file": "gold-lozenge-divider-center-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 171,
+     "bytes": 4657,
+     "sec": 0.3878055748064071,
+     "sha256": "a36411e6df2e366d2cb071bd0e2cb7b4c2eb8169f9e36c8672863b6c6d8d16ac"
+    },
+    {
+     "file": "gold-lozenge-divider-center-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 256,
+     "bytes": 7739,
+     "sec": 0.37797967600636184,
+     "sha256": "dc0460a1fc7319055210efe57ac1e18e8a62cbc8a3672144cfc5ce8797380624"
+    },
+    {
+     "file": "gold-lozenge-divider-center-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 341,
+     "bytes": 10920,
+     "sec": 0.5741698408965021,
+     "sha256": "7f81c3b8e1480d48cdda02d4e3238d9a91ebf9d6b684f5dc1e854a8a345cfa46"
+    },
+    {
+     "file": "gold-lozenge-divider-center-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 512,
+     "bytes": 21752,
+     "sec": 0.8914053419139236,
+     "sha256": "0474070e1702558371ec982f1d12e33915580b0df79ab9016d5d88f441100b5d"
+    },
+    {
+     "file": "gold-lozenge-divider-center-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 683,
+     "bytes": 33249,
+     "sec": 1.435368264093995,
+     "sha256": "12a69e8248912d7ecc4c19f55ace880150aae5de383c8d98c26256026b97e77f"
+    },
+    {
+     "file": "gold-lozenge-divider-center-1536-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 1536,
+     "height": 1024,
+     "bytes": 438316,
+     "sec": 1.0377244148403406,
+     "sha256": "e802bcfb254f7cf0a9bdf1228ab39c351f809b87603d2a8e0c3b22df14df9222"
+    }
+   ]
+  },
+  {
+   "name": "gold-cinquefoil-divider-end",
+   "group": "border",
+   "master": {
+    "width": 1536,
+    "height": 1024,
+    "pngBytes": 1111079
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024,
+    1536
+   ],
+   "top": 1536,
+   "totalSec": 32.21171408612281,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "gold-cinquefoil-divider-end-1536.webp",
+     "kind": "webp",
+     "width": 1536,
+     "height": 1024,
+     "bytes": 91692,
+     "sec": 5.5775578080210835,
+     "sha256": "991984d6d4149c7c2b94a5e442509ba8f7acde080403aea7f43e18745bcd03aa"
+    },
+    {
+     "file": "gold-cinquefoil-divider-end-1536.avif",
+     "kind": "avif",
+     "width": 1536,
+     "height": 1024,
+     "bytes": 47614,
+     "sec": 3.874920924892649,
+     "sha256": "b05710371b1ad06a8b490ea2bbc5f687948b44d2a3549b12c73becd34d8225b2"
+    },
+    {
+     "file": "gold-cinquefoil-divider-end-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 43,
+     "bytes": 1118,
+     "sec": 0.06911042984575033,
+     "sha256": "6886d57a8fc90b57e522140925df2543785a21d278d2bf1354908b7e807f61dc"
+    },
+    {
+     "file": "gold-cinquefoil-divider-end-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 64,
+     "bytes": 1596,
+     "sec": 0.13587972312234342,
+     "sha256": "0402547e305c79ab96041a8d2727614fc5f35693852bb3d8d69e45386c7e445e"
+    },
+    {
+     "file": "gold-cinquefoil-divider-end-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 85,
+     "bytes": 2284,
+     "sec": 0.23221190506592393,
+     "sha256": "d4bd8a995f672cafcd994387a786227d5c05dcff65e79ec3cce7396112fe8e01"
+    },
+    {
+     "file": "gold-cinquefoil-divider-end-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 128,
+     "bytes": 3520,
+     "sec": 0.6003077018540353,
+     "sha256": "e0a0ff70f093bb8095c2ae258270111b0bd25351fa9f579eff05cf7f8108d8fc"
+    },
+    {
+     "file": "gold-cinquefoil-divider-end-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 171,
+     "bytes": 5006,
+     "sec": 1.2334994168486446,
+     "sha256": "20c2c649b53954c3810dccbe32db3ea1e255a9a2707bba434da47e92d517663e"
+    },
+    {
+     "file": "gold-cinquefoil-divider-end-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 256,
+     "bytes": 8804,
+     "sec": 2.163176469039172,
+     "sha256": "15b95771410b9563b2b73fc2ca80ef6d90eea842243393c5d64230f3a3148f5f"
+    },
+    {
+     "file": "gold-cinquefoil-divider-end-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 341,
+     "bytes": 13578,
+     "sec": 4.3766559639479965,
+     "sha256": "ffefdab5cf1f2e2452c0bda7d9a15db3d83b4cef1602dc015fe0480e56fc9032"
+    },
+    {
+     "file": "gold-cinquefoil-divider-end-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 512,
+     "bytes": 27168,
+     "sec": 4.204807699890807,
+     "sha256": "193754beeedbbcdd741ad2b6c29714021f0ea558cffb7da0c031696b931cfe3a"
+    },
+    {
+     "file": "gold-cinquefoil-divider-end-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 683,
+     "bytes": 46990,
+     "sec": 4.601205388084054,
+     "sha256": "73856c82d0059037eda758de8c6788afd6a0bb5202f675a4298778ac4a533d0a"
+    },
+    {
+     "file": "gold-cinquefoil-divider-end-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 43,
+     "bytes": 1212,
+     "sec": 0.1110509189311415,
+     "sha256": "89105aa3b82996a281c3b10a514898c97ba981d3e9ffe7750b8b3779830f8556"
+    },
+    {
+     "file": "gold-cinquefoil-divider-end-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 64,
+     "bytes": 1376,
+     "sec": 0.10979494405910373,
+     "sha256": "f2546e90f413abe8a54af24b896c4e618c9c280e4b11223da72783827f9579ea"
+    },
+    {
+     "file": "gold-cinquefoil-divider-end-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 85,
+     "bytes": 1712,
+     "sec": 0.12277672695927322,
+     "sha256": "f9dc97d81559a0cb2994fd5fcf8b2085e1e61bd4bbf42cf6521645de117a23f7"
+    },
+    {
+     "file": "gold-cinquefoil-divider-end-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 128,
+     "bytes": 2536,
+     "sec": 0.32871807808987796,
+     "sha256": "1269d8c77be0855c495c7a6106d4705aecf26224031d7e28caf809f0ac5d7b42"
+    },
+    {
+     "file": "gold-cinquefoil-divider-end-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 171,
+     "bytes": 3182,
+     "sec": 0.3217952798586339,
+     "sha256": "ed806b7d341fbfcf07abd8a24851aa41cd4c5f6e4c5d5d9b84d78ae8ad9e1021"
+    },
+    {
+     "file": "gold-cinquefoil-divider-end-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 256,
+     "bytes": 5391,
+     "sec": 0.28754120506346226,
+     "sha256": "c789b3306901781f0323158c571be365503d194ecb04b5c85fc60e1a43dffb43"
+    },
+    {
+     "file": "gold-cinquefoil-divider-end-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 341,
+     "bytes": 7911,
+     "sec": 0.5958419879898429,
+     "sha256": "93f0314635ddb71536a98a3734d577fa9d4fa437cc3366eb8831fe161e2de13e"
+    },
+    {
+     "file": "gold-cinquefoil-divider-end-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 512,
+     "bytes": 16231,
+     "sec": 0.7947420300915837,
+     "sha256": "5e8f6ad844f5a400541228fcd1c3bbcbad01fc8f320c263e9334ad94a5429a22"
+    },
+    {
+     "file": "gold-cinquefoil-divider-end-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 683,
+     "bytes": 25389,
+     "sec": 1.1934546870179474,
+     "sha256": "4bf16c9a46c5d107deb71374d18d0dd62ab62bbaeee5f3ea0b25c27121176f17"
+    },
+    {
+     "file": "gold-cinquefoil-divider-end-1536-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 1536,
+     "height": 1024,
+     "bytes": 365556,
+     "sec": 1.2699881559237838,
+     "sha256": "feb76b415dc48d324a40215067c95f19ca4b3277032a2a1c24631004eeae24ce"
+    }
+   ]
+  },
+  {
+   "name": "illuminated-acanthus-divider-center",
+   "group": "border",
+   "master": {
+    "width": 1774,
+    "height": 887,
+    "pngBytes": 1793989
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024,
+    1536,
+    1774
+   ],
+   "top": 1774,
+   "totalSec": 81.5824914299883,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "illuminated-acanthus-divider-center-1774.webp",
+     "kind": "webp",
+     "width": 1774,
+     "height": 887,
+     "bytes": 323286,
+     "sec": 14.712143355049193,
+     "sha256": "8f4d4eddd3724f5c160e76f67459c3b87c78c9b446fae75826b85a6215919c8d"
+    },
+    {
+     "file": "illuminated-acanthus-divider-center-1774.avif",
+     "kind": "avif",
+     "width": 1774,
+     "height": 887,
+     "bytes": 150837,
+     "sec": 7.108599784085527,
+     "sha256": "37ef516b68bbff6d3cc68778b42ac18a58f896cb6863d160f7b5c8a2768ae68a"
+    },
+    {
+     "file": "illuminated-acanthus-divider-center-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 32,
+     "bytes": 2320,
+     "sec": 0.11054507899098098,
+     "sha256": "d3d9fe11087c50bd26eb0b47f6589368464818aca49da5d2545a525bf9b1a88d"
+    },
+    {
+     "file": "illuminated-acanthus-divider-center-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 48,
+     "bytes": 3872,
+     "sec": 0.3463291530497372,
+     "sha256": "3bfebd4e92dffeab9d27b7ae0395722b3138407d1cf320c4b24e3dd5fa2a4d18"
+    },
+    {
+     "file": "illuminated-acanthus-divider-center-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 64,
+     "bytes": 5750,
+     "sec": 0.6231851270422339,
+     "sha256": "8878196099aba0a6b5910eb03095203eb813f1021f44db52e99ef9413ae719ba"
+    },
+    {
+     "file": "illuminated-acanthus-divider-center-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 96,
+     "bytes": 9652,
+     "sec": 1.1419013000559062,
+     "sha256": "a9714b256d8a9421dec87ac303af15b143355a1506fc7f97d80eaebcc135f3b0"
+    },
+    {
+     "file": "illuminated-acanthus-divider-center-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 128,
+     "bytes": 14332,
+     "sec": 2.687374884961173,
+     "sha256": "517ecbfa7d4dffdc53b979c9b06f865ccabd4008676f870909a67a71cfb68c3b"
+    },
+    {
+     "file": "illuminated-acanthus-divider-center-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 192,
+     "bytes": 25942,
+     "sec": 4.037122762063518,
+     "sha256": "8aba9046e0d26eb6ee63091aeb6a3ca1ff3c2fcff48382aa11fa298b6e985d40"
+    },
+    {
+     "file": "illuminated-acanthus-divider-center-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 256,
+     "bytes": 40872,
+     "sec": 7.18127382802777,
+     "sha256": "9c0f2f7003e54a5bbb8822d67e309c856ad8539bb5983a040f5a659240a26904"
+    },
+    {
+     "file": "illuminated-acanthus-divider-center-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 384,
+     "bytes": 79122,
+     "sec": 7.047631683060899,
+     "sha256": "b00c109d7f443205b14f9af330bad90835696cbaae6a7af4aab83042befdb9fe"
+    },
+    {
+     "file": "illuminated-acanthus-divider-center-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 512,
+     "bytes": 130596,
+     "sec": 10.557404693914577,
+     "sha256": "d4fd5e0c96da20c8f45565396886dc9a79f087983d06dfbc8c5cc26b655be9be"
+    },
+    {
+     "file": "illuminated-acanthus-divider-center-1536.webp",
+     "kind": "webp",
+     "width": 1536,
+     "height": 768,
+     "bytes": 260464,
+     "sec": 10.156902058050036,
+     "sha256": "b89f5b1e914dccfb90bb1a7ca7418415adaff7458dc9cdd8a662b46bf5d99ae7"
+    },
+    {
+     "file": "illuminated-acanthus-divider-center-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 32,
+     "bytes": 1923,
+     "sec": 0.10654531605541706,
+     "sha256": "0d098eda2ead2b8919aaef659fa6977c0b0784bc9eb4c054f179c96f900144dd"
+    },
+    {
+     "file": "illuminated-acanthus-divider-center-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 48,
+     "bytes": 3453,
+     "sec": 0.2581852120347321,
+     "sha256": "bc1646c63847d3f46c6a34190d415bb0b11eb7c0ebfae5ad655947c24cfe33a7"
+    },
+    {
+     "file": "illuminated-acanthus-divider-center-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 64,
+     "bytes": 3756,
+     "sec": 0.1921820710413158,
+     "sha256": "700226b9606f2ff562251e19211c90b5f5433f15715b7787641ad713da75364f"
+    },
+    {
+     "file": "illuminated-acanthus-divider-center-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 96,
+     "bytes": 6197,
+     "sec": 0.6189919048920274,
+     "sha256": "fdde3b50c83da239c7c208ac59906fa7939877d5b5db9cea95057cfbe3a84b10"
+    },
+    {
+     "file": "illuminated-acanthus-divider-center-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 128,
+     "bytes": 8181,
+     "sec": 0.7617551339790225,
+     "sha256": "99e4438d12b2432c0e1e6c169a08328e69190348a58423aac571fea6297b506a"
+    },
+    {
+     "file": "illuminated-acanthus-divider-center-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 192,
+     "bytes": 15035,
+     "sec": 0.6227750980760902,
+     "sha256": "15046e54ad8c1d3b975010477a28840aaf5c49c7f8eb9cbd2206dc15a7a5d6b7"
+    },
+    {
+     "file": "illuminated-acanthus-divider-center-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 256,
+     "bytes": 22842,
+     "sec": 1.1747364201582968,
+     "sha256": "e6e0b9e2cc85e8f066f45feaecf66398a726c3fea67bf610c51e6fee270c1a68"
+    },
+    {
+     "file": "illuminated-acanthus-divider-center-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 384,
+     "bytes": 42644,
+     "sec": 1.8160913279280066,
+     "sha256": "ebd90bf899f26ece7df89367a3c13456b1d08a80bc0ffbd35fea1aa6243d0178"
+    },
+    {
+     "file": "illuminated-acanthus-divider-center-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 512,
+     "bytes": 69332,
+     "sec": 2.8082251788582653,
+     "sha256": "e3d683b03b84ebf7d3ae5419552e6c2004f3fb4a593ae15991c1f664c731bdf7"
+    },
+    {
+     "file": "illuminated-acanthus-divider-center-1536.avif",
+     "kind": "avif",
+     "width": 1536,
+     "height": 768,
+     "bytes": 124011,
+     "sec": 5.629105769796297,
+     "sha256": "8c72491f95c49eed67618509726ae64a6b43a442355e5c45229fe2dd19436e80"
+    },
+    {
+     "file": "illuminated-acanthus-divider-center-1774-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 1774,
+     "height": 887,
+     "bytes": 1257336,
+     "sec": 1.8733669822104275,
+     "sha256": "440e171163ad7b96ffa189dbf085113634f068cfb3f326a0b6883ca6fddca0c3"
+    }
+   ]
+  },
+  {
+   "name": "complete-circular-wind-diagram-with-twelve-profile-heads",
+   "group": "illustration",
+   "master": {
+    "width": 5422,
+    "height": 5503,
+    "pngBytes": 27277259
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024,
+    1536,
+    2048
+   ],
+   "top": 2048,
+   "totalSec": 207.82115662191063,
+   "avifSkipped": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024,
+    1536
+   ],
+   "files": [
+    {
+     "file": "complete-circular-wind-diagram-with-twelve-profile-heads-2048.webp",
+     "kind": "webp",
+     "width": 2048,
+     "height": 2079,
+     "bytes": 1470188,
+     "sec": 31.769293332006782,
+     "sha256": "ccde2d4e038dba60a25c47eab8186d784dd1311563a5200336b0ed905cd3c9a9"
+    },
+    {
+     "file": "complete-circular-wind-diagram-with-twelve-profile-heads-2048.avif",
+     "kind": "avif",
+     "width": 2048,
+     "height": 2079,
+     "bytes": 820609,
+     "sec": 30.225210113916546,
+     "sha256": "f0a331fc86d1b268fea54a679180f1b2030453563f79305281e780a338b1e426"
+    },
+    {
+     "file": "complete-circular-wind-diagram-with-twelve-profile-heads-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 65,
+     "bytes": 5270,
+     "sec": 0.7035611921455711,
+     "sha256": "9ca36459485eddacbc54e5cbdd80aa97ad3722cc86600902312e857b9d89660a"
+    },
+    {
+     "file": "complete-circular-wind-diagram-with-twelve-profile-heads-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 97,
+     "bytes": 10666,
+     "sec": 1.4141821418888867,
+     "sha256": "12ed0ad879c3a5eaa087da39043b99ed45eff3b93ec6726d1cc5f9c2e99445dc"
+    },
+    {
+     "file": "complete-circular-wind-diagram-with-twelve-profile-heads-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 130,
+     "bytes": 17312,
+     "sec": 2.006997680058703,
+     "sha256": "13de1c4cf759930fa5a3a5f614f54f394d8bff48be12b72dff81ce1ef5f3591d"
+    },
+    {
+     "file": "complete-circular-wind-diagram-with-twelve-profile-heads-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 195,
+     "bytes": 34512,
+     "sec": 2.3110671499744058,
+     "sha256": "983200cb7e6cee782d078e0a12bf89e57f7eaecb21e89575c00ba4714f1d2534"
+    },
+    {
+     "file": "complete-circular-wind-diagram-with-twelve-profile-heads-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 260,
+     "bytes": 55346,
+     "sec": 4.4949298079591244,
+     "sha256": "54a4b026d7b10b2a245b71189902df6d4506b2b7dbc0be05a3790c7aec6bc104"
+    },
+    {
+     "file": "complete-circular-wind-diagram-with-twelve-profile-heads-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 390,
+     "bytes": 108840,
+     "sec": 10.910661929054186,
+     "sha256": "ffd82670ee1a939604553fa6d3ea7360675e5d453b6d8a3e4561e21b511fbaa8"
+    },
+    {
+     "file": "complete-circular-wind-diagram-with-twelve-profile-heads-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 520,
+     "bytes": 176068,
+     "sec": 7.633303867187351,
+     "sha256": "f0f0f18ec43c2f3d679cf9bc42d27ef9b88cc62f176ee190263bd6ab08d66ec7"
+    },
+    {
+     "file": "complete-circular-wind-diagram-with-twelve-profile-heads-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 779,
+     "bytes": 336916,
+     "sec": 41.42360471189022,
+     "sha256": "f29566209a3620f49557c4f5a038340eff2dcf7b01b5d59b40cea022b3d5c134"
+    },
+    {
+     "file": "complete-circular-wind-diagram-with-twelve-profile-heads-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 1039,
+     "bytes": 538012,
+     "sec": 17.061534131178632,
+     "sha256": "554ef103d49c4e58d752670ce617d6fd5c8df953a259ecf8f97f271f06f412f1"
+    },
+    {
+     "file": "complete-circular-wind-diagram-with-twelve-profile-heads-1536.webp",
+     "kind": "webp",
+     "width": 1536,
+     "height": 1559,
+     "bytes": 977726,
+     "sec": 52.69110552105121,
+     "sha256": "c4dae98ca1fa3de50e190eeb87c5e20fea10068c227316b339e0f91d5e821ed9"
+    },
+    {
+     "file": "complete-circular-wind-diagram-with-twelve-profile-heads-2048-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 2048,
+     "height": 2079,
+     "bytes": 4218046,
+     "sec": 5.159355369862169,
+     "sha256": "809117e618d55332c19d838881b3446beb7b256e81743e08a31cc0270e098109"
+    }
+   ]
+  },
+  {
+   "name": "complete-apostle-city-scene-with-blue-vine-frame",
+   "group": "illustration",
+   "master": {
+    "width": 3769,
+    "height": 3137,
+    "pngBytes": 17137537
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024,
+    1536,
+    2048
+   ],
+   "top": 2048,
+   "totalSec": 110.84671844309196,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "complete-apostle-city-scene-with-blue-vine-frame-2048.webp",
+     "kind": "webp",
+     "width": 2048,
+     "height": 1705,
+     "bytes": 664020,
+     "sec": 12.424971838947386,
+     "sha256": "50c9c68168e95e2539946c9034d1e49bd7dd02723f73524a26359358a6d15794"
+    },
+    {
+     "file": "complete-apostle-city-scene-with-blue-vine-frame-2048.avif",
+     "kind": "avif",
+     "width": 2048,
+     "height": 1705,
+     "bytes": 454453,
+     "sec": 23.412748294882476,
+     "sha256": "0ff96ce9d00433857167850c23a6f41e1c8432a89dde9fb98d548d8561635376"
+    },
+    {
+     "file": "complete-apostle-city-scene-with-blue-vine-frame-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 53,
+     "bytes": 1988,
+     "sec": 0.2190524199977517,
+     "sha256": "0359b0e732c946a37a830eb5919f830d3c89bbb70eef8671fea22abbf2ba3170"
+    },
+    {
+     "file": "complete-apostle-city-scene-with-blue-vine-frame-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 80,
+     "bytes": 3728,
+     "sec": 0.42683453601785004,
+     "sha256": "1a5d4f8cb2d0207e95df863d53b95db542e476eb1b8fdf009c3e3ebe6cde28df"
+    },
+    {
+     "file": "complete-apostle-city-scene-with-blue-vine-frame-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 107,
+     "bytes": 5580,
+     "sec": 0.8334565330296755,
+     "sha256": "2c9aa8bfab6e912fb3d869dc9adc104adf2c6f35a83c68e689a4352a18a44d66"
+    },
+    {
+     "file": "complete-apostle-city-scene-with-blue-vine-frame-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 160,
+     "bytes": 11226,
+     "sec": 1.1139533598907292,
+     "sha256": "46ec6382abea5a02ad87fd45fcc93fd847bc8062678b7f6283cf063cac62527d"
+    },
+    {
+     "file": "complete-apostle-city-scene-with-blue-vine-frame-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 213,
+     "bytes": 17728,
+     "sec": 1.7942884541116655,
+     "sha256": "1644137e6516345872a2cc6c02960b50df548a825ececf61dbdbbc4515447d8a"
+    },
+    {
+     "file": "complete-apostle-city-scene-with-blue-vine-frame-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 320,
+     "bytes": 35200,
+     "sec": 5.004432067973539,
+     "sha256": "1c2056a0ee322c242a8f68421c1729c039c7e8fa19487643d8ca260ac2ef90c4"
+    },
+    {
+     "file": "complete-apostle-city-scene-with-blue-vine-frame-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 426,
+     "bytes": 58634,
+     "sec": 7.673861591145396,
+     "sha256": "c17f307d3df93f1bd0e9929984484613c6cd581aaa16f189a658debd938584d4"
+    },
+    {
+     "file": "complete-apostle-city-scene-with-blue-vine-frame-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 639,
+     "bytes": 120088,
+     "sec": 4.646401670994237,
+     "sha256": "2533b6e7dbfdba33c52e68cc034791a578f340bed7cbd39b5de7101bbbd1523e"
+    },
+    {
+     "file": "complete-apostle-city-scene-with-blue-vine-frame-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 852,
+     "bytes": 205848,
+     "sec": 8.871440049028024,
+     "sha256": "afd0cd5672bcf9fc0499b42a2048c1ed6c182d9a6144e3745a30975eb809fa7e"
+    },
+    {
+     "file": "complete-apostle-city-scene-with-blue-vine-frame-1536.webp",
+     "kind": "webp",
+     "width": 1536,
+     "height": 1278,
+     "bytes": 411938,
+     "sec": 6.988391276914626,
+     "sha256": "69939e5ee274b9204fdf415cb2a6b6b9280842d822545bd9bfcffcd98f078d78"
+    },
+    {
+     "file": "complete-apostle-city-scene-with-blue-vine-frame-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 53,
+     "bytes": 1665,
+     "sec": 0.16761074610985816,
+     "sha256": "9029f18a5ee3c32870a57c693cb28abbab8920ee6b9c87d2043ff0b02d02cf7a"
+    },
+    {
+     "file": "complete-apostle-city-scene-with-blue-vine-frame-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 80,
+     "bytes": 2861,
+     "sec": 0.35458812583237886,
+     "sha256": "74714dfa86db090f5b909d1d27da4c6d7e097da7cc06affc13bc6ecc43598a31"
+    },
+    {
+     "file": "complete-apostle-city-scene-with-blue-vine-frame-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 107,
+     "bytes": 4334,
+     "sec": 0.517721142154187,
+     "sha256": "9ecdd17af82653512976c7a576e2977c7c06ef1f0941240371e800204a1310d0"
+    },
+    {
+     "file": "complete-apostle-city-scene-with-blue-vine-frame-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 160,
+     "bytes": 8075,
+     "sec": 0.9040493089705706,
+     "sha256": "b197efcc06a07fe43ea87df400067444b28d3213658e9ac140c97fbea677de48"
+    },
+    {
+     "file": "complete-apostle-city-scene-with-blue-vine-frame-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 213,
+     "bytes": 12961,
+     "sec": 1.6556263179518282,
+     "sha256": "2b2a9af7a76a29faa14a28f7f332ef61ad44c34cbd0b36e62dd5a5ea1db8ab5d"
+    },
+    {
+     "file": "complete-apostle-city-scene-with-blue-vine-frame-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 320,
+     "bytes": 26860,
+     "sec": 1.302244104910642,
+     "sha256": "997abd6a9b28788171ee98089122e6b5c2f05c1e7544266c7ecb412fd91ad8c5"
+    },
+    {
+     "file": "complete-apostle-city-scene-with-blue-vine-frame-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 426,
+     "bytes": 42984,
+     "sec": 1.9663995241280645,
+     "sha256": "2c5da87a628680c495978725dd8e3dbbd5582d6b1ab50dec1c5049e21e0a53cc"
+    },
+    {
+     "file": "complete-apostle-city-scene-with-blue-vine-frame-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 639,
+     "bytes": 86790,
+     "sec": 4.8925132979638875,
+     "sha256": "6d9821ab2824984f397acb51bb887f646109e5484f283997bb3025fb24be6c1a"
+    },
+    {
+     "file": "complete-apostle-city-scene-with-blue-vine-frame-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 852,
+     "bytes": 144857,
+     "sec": 6.649008309934288,
+     "sha256": "56ce483c019d5c8320ca9e9e04319536290516f759df9ba16954cdee2e492342"
+    },
+    {
+     "file": "complete-apostle-city-scene-with-blue-vine-frame-1536.avif",
+     "kind": "avif",
+     "width": 1536,
+     "height": 1278,
+     "bytes": 284132,
+     "sec": 13.528330872999504,
+     "sha256": "73761ae093553d63afd889cbb25c109b8d66cdb15b07268b8e366c74fcbe4500"
+    },
+    {
+     "file": "complete-apostle-city-scene-with-blue-vine-frame-2048-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 2048,
+     "height": 1705,
+     "bytes": 3954844,
+     "sec": 5.481030385941267,
+     "sha256": "d9424c6e13f898cb94a94d731a6fbc004b444db0ed9494b0d75efda74ff6a0ac"
+    }
+   ]
+  },
+  {
+   "name": "three-couples-in-garden-under-painted-arcade",
+   "group": "illustration",
+   "master": {
+    "width": 3310,
+    "height": 981,
+    "pngBytes": 6285624
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024,
+    1536,
+    2048
+   ],
+   "top": 2048,
+   "totalSec": 54.02231186022982,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "three-couples-in-garden-under-painted-arcade-2048.webp",
+     "kind": "webp",
+     "width": 2048,
+     "height": 607,
+     "bytes": 269506,
+     "sec": 4.224700788035989,
+     "sha256": "fb65bea79b63f0cb9f1d5185b8cd2d507755025db1d338af90416432c2da161c"
+    },
+    {
+     "file": "three-couples-in-garden-under-painted-arcade-2048.avif",
+     "kind": "avif",
+     "width": 2048,
+     "height": 607,
+     "bytes": 198046,
+     "sec": 10.911725807003677,
+     "sha256": "f3c86075249a88c0e247ad6742edae2d4050957c6509ce1ebb953dfd57f69886"
+    },
+    {
+     "file": "three-couples-in-garden-under-painted-arcade-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 19,
+     "bytes": 1038,
+     "sec": 0.05397605383768678,
+     "sha256": "f2b55b27cf6ba5cfdf79e9808cca40eed8b6f621d83885bc859a7e4595252c25"
+    },
+    {
+     "file": "three-couples-in-garden-under-painted-arcade-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 28,
+     "bytes": 1702,
+     "sec": 0.11230634711682796,
+     "sha256": "947e281926d60dea1c2cd97186dfa029bba7ac85aa915d7d02033298e755fc5f"
+    },
+    {
+     "file": "three-couples-in-garden-under-painted-arcade-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 38,
+     "bytes": 2782,
+     "sec": 0.22965497081167996,
+     "sha256": "a1f403bfa95aeffcdd126e797b9c58390a0c4d26d623aca6f6ba40630f48c47c"
+    },
+    {
+     "file": "three-couples-in-garden-under-painted-arcade-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 57,
+     "bytes": 5082,
+     "sec": 0.46282522194087505,
+     "sha256": "c32628ded6ae63761345cf5767b629ce73371fd0871aa7ee3dde8210f0ba1a6c"
+    },
+    {
+     "file": "three-couples-in-garden-under-painted-arcade-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 76,
+     "bytes": 8220,
+     "sec": 0.7403591119218618,
+     "sha256": "7b7f9954996f6e5ded71965fb568bb606a14463f7fef91d9db93a2558c4c075f"
+    },
+    {
+     "file": "three-couples-in-garden-under-painted-arcade-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 114,
+     "bytes": 16346,
+     "sec": 1.5125702021177858,
+     "sha256": "ee52106a634d7c3b872917dfcd463e3bbf5c189a9e06df75bc44a7f9f88affd0"
+    },
+    {
+     "file": "three-couples-in-garden-under-painted-arcade-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 152,
+     "bytes": 27582,
+     "sec": 2.3661694030743092,
+     "sha256": "44bd6d112d713f7f9d574090ed6f5d894e0a7602e5e0c59ce2cfa282e6223782"
+    },
+    {
+     "file": "three-couples-in-garden-under-painted-arcade-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 228,
+     "bytes": 52670,
+     "sec": 4.7733474359847605,
+     "sha256": "14f8a981c01e8005de63450adfc4df7b8df73de3d0d166c988c37a3fc1ed52a0"
+    },
+    {
+     "file": "three-couples-in-garden-under-painted-arcade-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 303,
+     "bytes": 87882,
+     "sec": 3.3929945731069893,
+     "sha256": "2364ea6420ac1ecb60d3de544c8dfaf0d841b72ec126f3662c6e8a9967d591d1"
+    },
+    {
+     "file": "three-couples-in-garden-under-painted-arcade-1536.webp",
+     "kind": "webp",
+     "width": 1536,
+     "height": 455,
+     "bytes": 168526,
+     "sec": 8.385500006144866,
+     "sha256": "d11f57ac363f8180689d405532a2a50abf34337f277bc329e5f530d51399fa3b"
+    },
+    {
+     "file": "three-couples-in-garden-under-painted-arcade-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 19,
+     "bytes": 1046,
+     "sec": 0.09262601006776094,
+     "sha256": "1578459737bee8301ff6afadfa2ae9f49544f8b84cf031c97fc6c19fefd429b1"
+    },
+    {
+     "file": "three-couples-in-garden-under-painted-arcade-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 28,
+     "bytes": 1644,
+     "sec": 0.1455725859850645,
+     "sha256": "faf661e80a7b651d936f128e0d2571b605642d18cb98b72f14c70aeaf5035b68"
+    },
+    {
+     "file": "three-couples-in-garden-under-painted-arcade-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 38,
+     "bytes": 2128,
+     "sec": 0.2418732731603086,
+     "sha256": "ddd1780b9a81e405fa7bb33b095698e8730b994d8ce7dee640ae531b08dfa432"
+    },
+    {
+     "file": "three-couples-in-garden-under-painted-arcade-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 57,
+     "bytes": 3753,
+     "sec": 0.4039986787829548,
+     "sha256": "6472fd39cac8f2c75b858af58e6b641ff6ce85529fc8a55fcfc4b1b2860e82a2"
+    },
+    {
+     "file": "three-couples-in-garden-under-painted-arcade-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 76,
+     "bytes": 5933,
+     "sec": 0.6710066250525415,
+     "sha256": "f7d7f563528e8a6c7983e5f324e5287d25312a7aea1b53011503f672ce2ce75d"
+    },
+    {
+     "file": "three-couples-in-garden-under-painted-arcade-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 114,
+     "bytes": 11798,
+     "sec": 0.8281920889858156,
+     "sha256": "c7fd3d5d4cea62faf11ed6016f3fe9dd42ea528f08dc05b05acc92ba0531a6f1"
+    },
+    {
+     "file": "three-couples-in-garden-under-painted-arcade-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 152,
+     "bytes": 19194,
+     "sec": 0.9432244938798249,
+     "sha256": "5eb38d4eca4278ecebae0f395e6324c29f4592b2770af16538f327f834b751c4"
+    },
+    {
+     "file": "three-couples-in-garden-under-painted-arcade-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 228,
+     "bytes": 37665,
+     "sec": 1.8882043459452689,
+     "sha256": "3faac9e53198e7fed9bd7b8e26c3aa1a4c5dd85d32b73ffc94e1cc1a98f668f2"
+    },
+    {
+     "file": "three-couples-in-garden-under-painted-arcade-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 303,
+     "bytes": 60849,
+     "sec": 3.0860219460446388,
+     "sha256": "bc52fe39b07c9a376f0bac53930cd17f2c5537e9968ce9c85cc2d1ac5a44b259"
+    },
+    {
+     "file": "three-couples-in-garden-under-painted-arcade-1536.avif",
+     "kind": "avif",
+     "width": 1536,
+     "height": 455,
+     "bytes": 119238,
+     "sec": 6.48778569418937,
+     "sha256": "63ed1f900d7fc9e8b90a2c51235713fefde2908af54db7820bb2fdb5881ebe24"
+    },
+    {
+     "file": "three-couples-in-garden-under-painted-arcade-2048-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 2048,
+     "height": 607,
+     "bytes": 1773638,
+     "sec": 2.0564894618000835,
+     "sha256": "38eb1ce4482dd9e2b44053f730a24fdeb2ae0cecf5bb52efdaaf1c0e58491db0"
+    }
+   ]
+  },
+  {
+   "name": "crocodile",
+   "group": "illustration",
+   "master": {
+    "width": 3286,
+    "height": 1360,
+    "pngBytes": 3923043
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024,
+    1536,
+    2048
+   ],
+   "top": 2048,
+   "totalSec": 57.33621086203493,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "crocodile-2048.webp",
+     "kind": "webp",
+     "width": 2048,
+     "height": 848,
+     "bytes": 243946,
+     "sec": 7.700279087992385,
+     "sha256": "633508003f8c8d0ca2dddda725f025bb3aba78768ab6d30b949ceccaed4f3043"
+    },
+    {
+     "file": "crocodile-2048.avif",
+     "kind": "avif",
+     "width": 2048,
+     "height": 848,
+     "bytes": 159872,
+     "sec": 6.753240579972044,
+     "sha256": "29d5fd684bb3798c73b91c2b712619de59c8b6e4033424db335da42a08e6d684"
+    },
+    {
+     "file": "crocodile-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 26,
+     "bytes": 1712,
+     "sec": 0.10761568509042263,
+     "sha256": "faeaeec3c86b4709aea0c59ea4adaece27ba2e37a76ea4c2699791ae03eefd9d"
+    },
+    {
+     "file": "crocodile-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 40,
+     "bytes": 2820,
+     "sec": 0.23242814489640296,
+     "sha256": "04cb94a08e20365cbc804591f0f916f0975854303c22f8616bfd475f98868baa"
+    },
+    {
+     "file": "crocodile-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 53,
+     "bytes": 4006,
+     "sec": 0.4436496349517256,
+     "sha256": "e74025ce342a98f0f7ae6476b57e29bbd4dda4d0f456003099a8ed11c57233c0"
+    },
+    {
+     "file": "crocodile-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 79,
+     "bytes": 6802,
+     "sec": 0.8728919760324061,
+     "sha256": "e31299131dcdae48dcc3e8f3e0e45bd4a2f4dfe6f1f4ba696af45f5601708d29"
+    },
+    {
+     "file": "crocodile-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 106,
+     "bytes": 10266,
+     "sec": 1.293083936907351,
+     "sha256": "c1b2cde5aee7e3942ee11c5ab4582e255e6ced399c171903740d64a3f10624c6"
+    },
+    {
+     "file": "crocodile-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 159,
+     "bytes": 18608,
+     "sec": 2.3524019790347666,
+     "sha256": "f144f537a785efa05d8141dd2f86e898d419d99e6380bb82563867efbbae8a67"
+    },
+    {
+     "file": "crocodile-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 212,
+     "bytes": 29620,
+     "sec": 3.6290377548430115,
+     "sha256": "22349d74524f92531e0fbc9ea93d4fc22a0677cbacc4d11e6c9fa63a4c05f453"
+    },
+    {
+     "file": "crocodile-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 318,
+     "bytes": 56910,
+     "sec": 6.878198883030564,
+     "sha256": "aa392be70fbcd5804906d9add38e43efdd4fe13dec7941422dbb344cfe8e6b69"
+    },
+    {
+     "file": "crocodile-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 424,
+     "bytes": 89974,
+     "sec": 4.691422545816749,
+     "sha256": "5cf66aad4f5962cc7d05600cdc7c83e3dadf7807471c189616bb959c19295f73"
+    },
+    {
+     "file": "crocodile-1536.webp",
+     "kind": "webp",
+     "width": 1536,
+     "height": 636,
+     "bytes": 164104,
+     "sec": 8.081676912028342,
+     "sha256": "81953fd0f54c6c20648ba5bf8618bb3a9ab0c5b948f66e287a915faa01cf3d2a"
+    },
+    {
+     "file": "crocodile-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 26,
+     "bytes": 1485,
+     "sec": 0.10441653989255428,
+     "sha256": "bfdbb9c538984372b82ecf1adf0626be99d5091ec824eb70ff12d72e86138ce5"
+    },
+    {
+     "file": "crocodile-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 40,
+     "bytes": 2095,
+     "sec": 0.3052415940910578,
+     "sha256": "39510fee57928f7d280c0936ae48b41f01cd9b6afb94982e4f16ed7f35579ea6"
+    },
+    {
+     "file": "crocodile-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 53,
+     "bytes": 2837,
+     "sec": 0.3518308480270207,
+     "sha256": "6054bba9c454a8f59f8d36d98b177572fc3501d0191d9f224ec198f967711748"
+    },
+    {
+     "file": "crocodile-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 79,
+     "bytes": 4710,
+     "sec": 0.4644615249708295,
+     "sha256": "1271a25aa68160a657f51114f833f42bc95ea8f87a021ca009121b517ddf0f3d"
+    },
+    {
+     "file": "crocodile-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 106,
+     "bytes": 7129,
+     "sec": 0.674969419138506,
+     "sha256": "c16b022336870548ebe9cf443702257ae765ff6287a3eeb2fa54681d2a8f09ed"
+    },
+    {
+     "file": "crocodile-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 159,
+     "bytes": 12741,
+     "sec": 0.6673496009316295,
+     "sha256": "350f18251fc651804ec29a24f75abe9ee09203ee7a3b0c4583706e8fbcf894eb"
+    },
+    {
+     "file": "crocodile-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 212,
+     "bytes": 20350,
+     "sec": 0.7053985178936273,
+     "sha256": "c101014ab97ab1110b3c6c3b74f075f00c61eaf3688591d2decbfbca91519e70"
+    },
+    {
+     "file": "crocodile-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 318,
+     "bytes": 39836,
+     "sec": 1.3618986231740564,
+     "sha256": "e86e3bca951202586edfcbbe258e53f5d85b1b542d96bed682f190ec83847648"
+    },
+    {
+     "file": "crocodile-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 424,
+     "bytes": 61519,
+     "sec": 3.2025226310361177,
+     "sha256": "e3a70f56d5e1a290376e543dae70a07aca92c579114a5c7a536e114bae872222"
+    },
+    {
+     "file": "crocodile-1536.avif",
+     "kind": "avif",
+     "width": 1536,
+     "height": 636,
+     "bytes": 108434,
+     "sec": 4.07430908200331,
+     "sha256": "447d5c5a8d082c40348043ae2ecf4dd3fe2e41879c4d70145490a919f6e4f283"
+    },
+    {
+     "file": "crocodile-2048-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 2048,
+     "height": 848,
+     "bytes": 1021790,
+     "sec": 2.3782748898956925,
+     "sha256": "9106dde400aad120bc70cbfadbb8baad511f495f9ac2db5cda8e05c07f9deb12"
+    }
+   ]
+  },
+  {
+   "name": "courting-landscape-with-trees-flock-and-distant-town",
+   "group": "illustration",
+   "master": {
+    "width": 3214,
+    "height": 601,
+    "pngBytes": 1035988
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024,
+    1536,
+    2048
+   ],
+   "top": 2048,
+   "totalSec": 119.92137473705225,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "courting-landscape-with-trees-flock-and-distant-town-2048.webp",
+     "kind": "webp",
+     "width": 2048,
+     "height": 383,
+     "bytes": 471492,
+     "sec": 20.46104979980737,
+     "sha256": "e89cf8aa79d7b192d0f7fc408c7dada0999d626ee168b42b5819a9eb6b8f9222"
+    },
+    {
+     "file": "courting-landscape-with-trees-flock-and-distant-town-2048.avif",
+     "kind": "avif",
+     "width": 2048,
+     "height": 383,
+     "bytes": 250121,
+     "sec": 5.699815463041887,
+     "sha256": "f21acf9ad5dd96c83e2e345f78b36ae52d2cf9ef26455bb694ee8262d422985f"
+    },
+    {
+     "file": "courting-landscape-with-trees-flock-and-distant-town-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 12,
+     "bytes": 1044,
+     "sec": 0.04613320389762521,
+     "sha256": "00808e835fb21da9662732fc4b23a3c8e6032bd69d8c8f4c3dd75004c1215531"
+    },
+    {
+     "file": "courting-landscape-with-trees-flock-and-distant-town-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 18,
+     "bytes": 2152,
+     "sec": 0.13324991497211158,
+     "sha256": "1cfdb9ee1f684026da3510d6358343af4de8dc0ef371f357e116647875052242"
+    },
+    {
+     "file": "courting-landscape-with-trees-flock-and-distant-town-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 24,
+     "bytes": 3594,
+     "sec": 0.24925230001099408,
+     "sha256": "7fd89986d8cf70ac5517a4e1638b5dc2304331822399ff80f95a2162f38d70de"
+    },
+    {
+     "file": "courting-landscape-with-trees-flock-and-distant-town-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 36,
+     "bytes": 7406,
+     "sec": 1.2417903831228614,
+     "sha256": "f1f03225fac65c444604a925f1682351b5e0dca1a6b2428ca6f1fea6c1463fc1"
+    },
+    {
+     "file": "courting-landscape-with-trees-flock-and-distant-town-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 48,
+     "bytes": 12006,
+     "sec": 1.5327486449386925,
+     "sha256": "0c07e4b5bc16e2c2373dcd069dc978755c41802ef03931c6fb3840f9eaaee16b"
+    },
+    {
+     "file": "courting-landscape-with-trees-flock-and-distant-town-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 72,
+     "bytes": 25106,
+     "sec": 3.17184080183506,
+     "sha256": "27245947573bf0f9d44f84e03b636e6426c5b4276ee6a72694e323f483a480be"
+    },
+    {
+     "file": "courting-landscape-with-trees-flock-and-distant-town-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 96,
+     "bytes": 40160,
+     "sec": 6.544407467823476,
+     "sha256": "9cde1ba4cc8e83625c7e2ce527818d689965de4f200ca94c1345e1a72e8f7b6e"
+    },
+    {
+     "file": "courting-landscape-with-trees-flock-and-distant-town-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 144,
+     "bytes": 85664,
+     "sec": 19.449047822970897,
+     "sha256": "663c7ac63f09bd0489639cfd7a40bd220e495cf9864ad40a09c5c8e1b9598889"
+    },
+    {
+     "file": "courting-landscape-with-trees-flock-and-distant-town-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 191,
+     "bytes": 140552,
+     "sec": 17.98152643512003,
+     "sha256": "b3d1d4acd1cc5f58cab80511c972b97025b9ebcd8fd3bb90e110decdad7f37a8"
+    },
+    {
+     "file": "courting-landscape-with-trees-flock-and-distant-town-1536.webp",
+     "kind": "webp",
+     "width": 1536,
+     "height": 287,
+     "bytes": 284388,
+     "sec": 32.84453397686593,
+     "sha256": "880a8b4db9f2b4a30a9f5da1ed3c759d648a76fae9d7f25d0cc87f669ae1f9c7"
+    },
+    {
+     "file": "courting-landscape-with-trees-flock-and-distant-town-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 12,
+     "bytes": 1025,
+     "sec": 0.058724177069962025,
+     "sha256": "59cefe8d09d9d2a7c327bc51c48e0414a57100e3dcd2f5caddce5c9734114379"
+    },
+    {
+     "file": "courting-landscape-with-trees-flock-and-distant-town-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 18,
+     "bytes": 1649,
+     "sec": 0.16634351387619972,
+     "sha256": "4a2df6711133afc765ab3ebc8ca10545bcd6fc1226f37ec449e432bef0a3e576"
+    },
+    {
+     "file": "courting-landscape-with-trees-flock-and-distant-town-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 24,
+     "bytes": 2151,
+     "sec": 0.22470901487395167,
+     "sha256": "22b910f829815b6f0c434f7cc3da7ea4ae1a9c76c1fc557b0cd331df6df2bd38"
+    },
+    {
+     "file": "courting-landscape-with-trees-flock-and-distant-town-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 36,
+     "bytes": 4354,
+     "sec": 0.4017016252037138,
+     "sha256": "86eac82f1abb56b25dc09ff9f4c3f64f51c0ef9b80860b9cd657159e8cf267bf"
+    },
+    {
+     "file": "courting-landscape-with-trees-flock-and-distant-town-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 48,
+     "bytes": 6464,
+     "sec": 0.5790727089624852,
+     "sha256": "b64dd4d784a4ffdf5e23935f489e8e95d3c8dee73db5f4ef4133f11154fbb44e"
+    },
+    {
+     "file": "courting-landscape-with-trees-flock-and-distant-town-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 72,
+     "bytes": 13758,
+     "sec": 0.3637878089211881,
+     "sha256": "d40e7234b0d43c3523d504c36ea09b4b3ccb509407a87fbdbf0d7f8502438afe"
+    },
+    {
+     "file": "courting-landscape-with-trees-flock-and-distant-town-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 96,
+     "bytes": 22003,
+     "sec": 0.7884890371933579,
+     "sha256": "236c8e981441d3899ad67ac5040429711f32ff812ed4f71ba9537053839bac68"
+    },
+    {
+     "file": "courting-landscape-with-trees-flock-and-distant-town-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 144,
+     "bytes": 48242,
+     "sec": 1.279459185898304,
+     "sha256": "b1936dc939c7dc4e43026aed569f93982e88fc23ca2008af83aaaa6912c8e900"
+    },
+    {
+     "file": "courting-landscape-with-trees-flock-and-distant-town-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 191,
+     "bytes": 78694,
+     "sec": 2.156655330909416,
+     "sha256": "9d1f1df03feb3dc41f506f4586db55b2016fe39bbac4b64ddf232ae5637d5a47"
+    },
+    {
+     "file": "courting-landscape-with-trees-flock-and-distant-town-1536.avif",
+     "kind": "avif",
+     "width": 1536,
+     "height": 287,
+     "bytes": 156692,
+     "sec": 4.256215713918209,
+     "sha256": "aca778b06aa13c9dddee1c2a1b06bfe820d42806646538189bbd93b4ad269a3e"
+    },
+    {
+     "file": "courting-landscape-with-trees-flock-and-distant-town-2048-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 2048,
+     "height": 383,
+     "bytes": 551528,
+     "sec": 0.2812743841204792,
+     "sha256": "9feaf1ea77233c3d1600d0450f65f35ad01f1ec5e823748ffe519fba5c1ddbf8"
+    }
+   ]
+  },
+  {
+   "name": "elephant",
+   "group": "illustration",
+   "master": {
+    "width": 2916,
+    "height": 2102,
+    "pngBytes": 7667026
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024,
+    1536,
+    2048
+   ],
+   "top": 2048,
+   "totalSec": 85.45735814515501,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "elephant-2048.webp",
+     "kind": "webp",
+     "width": 2048,
+     "height": 1476,
+     "bytes": 517458,
+     "sec": 8.80333962989971,
+     "sha256": "5600c28fdccec5b8d589b203bd10eca4bf06db35f75db69a261f33bc74f51874"
+    },
+    {
+     "file": "elephant-2048.avif",
+     "kind": "avif",
+     "width": 2048,
+     "height": 1476,
+     "bytes": 310467,
+     "sec": 16.141702336957678,
+     "sha256": "8c9b45fa79d51aa752a8aba17493479cfc3bbaacdcbcacb2c0bf9dc24eb1398c"
+    },
+    {
+     "file": "elephant-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 46,
+     "bytes": 2498,
+     "sec": 0.18997563002631068,
+     "sha256": "57bfe0ec5609d0014b73468e2e55988a823ae103ff978b4c6418a5015c8f0d37"
+    },
+    {
+     "file": "elephant-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 69,
+     "bytes": 4272,
+     "sec": 0.4419382121413946,
+     "sha256": "99728f0ef4ec079257db96bd3122cb4b5a2a88afaeb051c5e87f2e4285f5ec80"
+    },
+    {
+     "file": "elephant-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 92,
+     "bytes": 6182,
+     "sec": 0.8596290810965002,
+     "sha256": "788480325cb9dd16a8bef315bd586108f49cabff463a5ae2c19a86bf73e2747b"
+    },
+    {
+     "file": "elephant-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 138,
+     "bytes": 10862,
+     "sec": 1.2358299889601767,
+     "sha256": "2e1e80efb158584fb514266919257211091f993c600a866a9993d638960bb1eb"
+    },
+    {
+     "file": "elephant-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 185,
+     "bytes": 16094,
+     "sec": 1.918386987177655,
+     "sha256": "46b2939f47b7d727574edd4683377ad226587b4732784e25ad4f56171facea9a"
+    },
+    {
+     "file": "elephant-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 277,
+     "bytes": 29740,
+     "sec": 4.609686388866976,
+     "sha256": "2e7d7be43545c9d03b0651f7ecdebba1f1874a92fc63a79759a16a8962ca9674"
+    },
+    {
+     "file": "elephant-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 369,
+     "bytes": 48888,
+     "sec": 6.078324924921617,
+     "sha256": "278d9046c1e0c368690a2169b9e31058f4aa7f029b0533324a4db75b97cc13b3"
+    },
+    {
+     "file": "elephant-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 554,
+     "bytes": 104562,
+     "sec": 5.2203605531249195,
+     "sha256": "f10dc0112aa5a336e8748844aa3253812006b0a3ca224f76ad1ff8d5e9beb19f"
+    },
+    {
+     "file": "elephant-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 738,
+     "bytes": 174754,
+     "sec": 6.774396426975727,
+     "sha256": "aab95f59cc7886eb967cbe9b00130905362c4b0232cd798d375c8923e6a2ba44"
+    },
+    {
+     "file": "elephant-1536.webp",
+     "kind": "webp",
+     "width": 1536,
+     "height": 1107,
+     "bytes": 339954,
+     "sec": 5.7326107691042125,
+     "sha256": "22cc967ae6ad717d535bc3601792049914002241b03abda8ef3f20a9d793260b"
+    },
+    {
+     "file": "elephant-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 46,
+     "bytes": 1911,
+     "sec": 0.14766730484552681,
+     "sha256": "88ab5881848d5a49f4b51da0101c03e11f106b7cb4e1d82e51636e5832fea9f9"
+    },
+    {
+     "file": "elephant-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 69,
+     "bytes": 3040,
+     "sec": 0.3563957251608372,
+     "sha256": "064e65141897c1f40423e161be54fd39c23e4ee194e4625640dec01a390b4a28"
+    },
+    {
+     "file": "elephant-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 92,
+     "bytes": 4231,
+     "sec": 0.37008226895704865,
+     "sha256": "cea2ef08a0a8c2b44dc5c54f3c2aa92333bfa5ab1d357d07814ff6b81fd7dce2"
+    },
+    {
+     "file": "elephant-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 138,
+     "bytes": 7096,
+     "sec": 0.6683776010759175,
+     "sha256": "7efe762ae27218da59144bc732ec236cb90c5ce2a9a8b93580cc623f5b001518"
+    },
+    {
+     "file": "elephant-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 185,
+     "bytes": 10437,
+     "sec": 1.1656566229648888,
+     "sha256": "2c676a1ea3bc68f5699bf05a1fd3e6a31f960e2b1bea126ef4f61efc59d20b98"
+    },
+    {
+     "file": "elephant-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 277,
+     "bytes": 20405,
+     "sec": 1.022572980960831,
+     "sha256": "eb2ee5ac0b057d736725d26896f45581ccbf6f7a3fb37d190abcbe6e90e49784"
+    },
+    {
+     "file": "elephant-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 369,
+     "bytes": 33978,
+     "sec": 1.7206796519458294,
+     "sha256": "12f61dea0ab8b1c81398e88a1842c55cea0191999a4d2acb6d5790954fc4588d"
+    },
+    {
+     "file": "elephant-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 554,
+     "bytes": 69414,
+     "sec": 2.795902227051556,
+     "sha256": "a2ba5d64a2ec4ee73d712b1f34a803333dc37a09af1b7e3b054e9f4fc14c0607"
+    },
+    {
+     "file": "elephant-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 738,
+     "bytes": 109763,
+     "sec": 6.4418907249346375,
+     "sha256": "63090b869da4755c4d96136b38d58034aedbc20fb09d44be03610b7a7c307669"
+    },
+    {
+     "file": "elephant-1536.avif",
+     "kind": "avif",
+     "width": 1536,
+     "height": 1107,
+     "bytes": 205880,
+     "sec": 8.953964626882225,
+     "sha256": "08e2c1d047d5781b2d2860a2a99b0833d6dcb6f7ff1cd7a6eff916ff27f14516"
+    },
+    {
+     "file": "elephant-2048-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 2048,
+     "height": 1476,
+     "bytes": 2826090,
+     "sec": 3.7945442581549287,
+     "sha256": "e00df5e8a93a947ee919e04f45528f935169c9e342d4937992d13ec9e073cd64"
+    }
+   ]
+  },
+  {
+   "name": "beaver",
+   "group": "illustration",
+   "master": {
+    "width": 2824,
+    "height": 1154,
+    "pngBytes": 4063030
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024,
+    1536,
+    2048
+   ],
+   "top": 2048,
+   "totalSec": 56.66607172600925,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "beaver-2048.webp",
+     "kind": "webp",
+     "width": 2048,
+     "height": 837,
+     "bytes": 331560,
+     "sec": 4.663467340171337,
+     "sha256": "bf0a622ee10268989ca4fc8fbb80b69eba8ce692915bc49eac14486acd058f5a"
+    },
+    {
+     "file": "beaver-2048.avif",
+     "kind": "avif",
+     "width": 2048,
+     "height": 837,
+     "bytes": 204301,
+     "sec": 12.456017803866416,
+     "sha256": "c861800b54767afaf513a3e15d987ad91d18dfaa03f022b9e14ac5434b740ee0"
+    },
+    {
+     "file": "beaver-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 26,
+     "bytes": 1612,
+     "sec": 0.10381874488666654,
+     "sha256": "b95fdfc625e9a06d4b89d6dec3009c3a30f29ce077fe4f38fe383c5f8315d47d"
+    },
+    {
+     "file": "beaver-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 39,
+     "bytes": 2624,
+     "sec": 0.18980863178148866,
+     "sha256": "d1e5a67639f440d1834c20f9b33c15715894041fd54db2851682012c9f86f4cf"
+    },
+    {
+     "file": "beaver-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 52,
+     "bytes": 3786,
+     "sec": 0.35804679384455085,
+     "sha256": "b6f487e2230757bfa9f153e8b24c0e0a221b314966da5569c813f0acb9e66fae"
+    },
+    {
+     "file": "beaver-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 78,
+     "bytes": 6660,
+     "sec": 1.0916717818472534,
+     "sha256": "e1b19386c8e137b0b93ef8d0c3dd0bd7a94d9b9a9224b2236c3c98cf4d0f6b71"
+    },
+    {
+     "file": "beaver-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 105,
+     "bytes": 10180,
+     "sec": 1.2084502920042723,
+     "sha256": "3dda8933e52ad812dd6085041a6d0fc685bbe3ae7f4d8f013311055956b1a813"
+    },
+    {
+     "file": "beaver-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 157,
+     "bytes": 20036,
+     "sec": 2.2191942408680916,
+     "sha256": "9b117b358dc52d671eab78878901fe188da41ba5f933238ca498996ea671d3e2"
+    },
+    {
+     "file": "beaver-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 209,
+     "bytes": 32982,
+     "sec": 4.356267713941634,
+     "sha256": "3d1c5f0e4df712056ee1f0f08ca8e38f7a438fa2d229e3cf652088d6c9952dac"
+    },
+    {
+     "file": "beaver-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 314,
+     "bytes": 68672,
+     "sec": 3.247412635013461,
+     "sha256": "87b582c448632fcf1cfe6f777aaf9ee0555c9c23f01143fe546808bad795a729"
+    },
+    {
+     "file": "beaver-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 418,
+     "bytes": 113428,
+     "sec": 2.2844594640191644,
+     "sha256": "bd0b74bf998b2c548ed6e8cc9a448bb6cb655b4dbda0da591fed4800d9eae33f"
+    },
+    {
+     "file": "beaver-1536.webp",
+     "kind": "webp",
+     "width": 1536,
+     "height": 628,
+     "bytes": 217870,
+     "sec": 7.841182763921097,
+     "sha256": "8b716a4ff59dd17965e63745beb320b6f933f96a36c8cbe3dae4b528a2a27a6e"
+    },
+    {
+     "file": "beaver-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 26,
+     "bytes": 1376,
+     "sec": 0.09513045498169959,
+     "sha256": "ca4cbf1aa60bdfe4ae75f4878c9a607a0f62944567f5850565df3e235426e9f4"
+    },
+    {
+     "file": "beaver-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 39,
+     "bytes": 2056,
+     "sec": 0.22478921711444855,
+     "sha256": "1110a40545c4cf00f02f7dfc9cfddd509471444df8242f4279b708260d9155a7"
+    },
+    {
+     "file": "beaver-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 52,
+     "bytes": 2598,
+     "sec": 0.27713528112508357,
+     "sha256": "0b333116935239bb069778a7daa37224a01b887732e2c11d39373da4a0813cfa"
+    },
+    {
+     "file": "beaver-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 78,
+     "bytes": 4595,
+     "sec": 0.4783201031386852,
+     "sha256": "ea17f21b209e4c81f87a7f83aede94119ed926e6e31b8aa6c63c3410ac50a6eb"
+    },
+    {
+     "file": "beaver-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 105,
+     "bytes": 7578,
+     "sec": 0.9593398838769644,
+     "sha256": "19edba0bc48191c62442eb502ee4868f55f312aaf05f60ccb324dd229f7740be"
+    },
+    {
+     "file": "beaver-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 157,
+     "bytes": 14417,
+     "sec": 0.6418647679965943,
+     "sha256": "79a9d37909ea687952cb6c884c66eef087fdf1b59c34c113b673a58080be550e"
+    },
+    {
+     "file": "beaver-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 209,
+     "bytes": 22542,
+     "sec": 0.9804218439385295,
+     "sha256": "fddf2ed59e43ea75d504dd55a5ace9050a7ff095bba7e115ad8ce25219279830"
+    },
+    {
+     "file": "beaver-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 314,
+     "bytes": 45940,
+     "sec": 1.8348778721410781,
+     "sha256": "ebe526a4c04d041bb4bb06c9a7a0857088105661921e03877d9c598d175b52a5"
+    },
+    {
+     "file": "beaver-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 418,
+     "bytes": 73326,
+     "sec": 2.996314300922677,
+     "sha256": "24d3883fa331c44e1a7e9d88bc0ce2a5f8fbd0ad1ea5c06e245172c0d5648187"
+    },
+    {
+     "file": "beaver-1536.avif",
+     "kind": "avif",
+     "width": 1536,
+     "height": 628,
+     "bytes": 136506,
+     "sec": 5.958906624931842,
+     "sha256": "b05c034e0b1376819e8b74ebf8fe1c5722e3c4ec65685421dc6c65374cd4cb06"
+    },
+    {
+     "file": "beaver-2048-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 2048,
+     "height": 837,
+     "bytes": 1517576,
+     "sec": 2.1895508531015366,
+     "sha256": "07927694801d158e327eb95f3e7d00dc0b9559b7dcce23213565e416129343b2"
+    }
+   ]
+  },
+  {
+   "name": "armored-rhinoceros",
+   "group": "illustration",
+   "master": {
+    "width": 2762,
+    "height": 1922,
+    "pngBytes": 8188499
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024,
+    1536,
+    2048
+   ],
+   "top": 2048,
+   "totalSec": 84.35833883611485,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "armored-rhinoceros-2048.webp",
+     "kind": "webp",
+     "width": 2048,
+     "height": 1425,
+     "bytes": 653646,
+     "sec": 9.120082006091252,
+     "sha256": "c58cdf7ab73e2f14bc1aec1e7a69c07c3ba76fc5e174fe472cc79a6b6fe94cd3"
+    },
+    {
+     "file": "armored-rhinoceros-2048.avif",
+     "kind": "avif",
+     "width": 2048,
+     "height": 1425,
+     "bytes": 416074,
+     "sec": 16.80218902695924,
+     "sha256": "c55c096796ce0feaf365c49fb1b2994b3c0a502bc67530b5d382a83ecce5e40c"
+    },
+    {
+     "file": "armored-rhinoceros-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 45,
+     "bytes": 2262,
+     "sec": 0.16523440787568688,
+     "sha256": "5007aeebcfedecfdd670a3ec15e7b97adf647e498a29ef9f7380d44c7b71ce1a"
+    },
+    {
+     "file": "armored-rhinoceros-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 67,
+     "bytes": 4144,
+     "sec": 0.39510786114260554,
+     "sha256": "537ad4d8e29da388ab15816230685c1a9061c13214cf1764fb48bf46a00ab41b"
+    },
+    {
+     "file": "armored-rhinoceros-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 89,
+     "bytes": 6266,
+     "sec": 0.7149814181029797,
+     "sha256": "d0ad0b547177f0e5698896e1e635cc4e99655fccebd44d1ae7baec51afb29ad8"
+    },
+    {
+     "file": "armored-rhinoceros-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 134,
+     "bytes": 11874,
+     "sec": 1.273224813863635,
+     "sha256": "734922405380dd921c422664cf2eeaa3edec034bc2736e2fee2c9ba7b48441de"
+    },
+    {
+     "file": "armored-rhinoceros-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 178,
+     "bytes": 19178,
+     "sec": 1.9249137970618904,
+     "sha256": "7e43cdaae767916655721654cc6a5559437e566b9f94390a956e070fe0289da6"
+    },
+    {
+     "file": "armored-rhinoceros-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 267,
+     "bytes": 38916,
+     "sec": 3.5679076809901744,
+     "sha256": "c82c4894258c48cff3bfbc034957a8a0e0f7348a32340ae537eef31c600d5864"
+    },
+    {
+     "file": "armored-rhinoceros-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 356,
+     "bytes": 66292,
+     "sec": 5.176934962859377,
+     "sha256": "906c20fa14c04c50a06a9e975d50ed663e1d54c3fbf231f2a9e4ddbf5fe1a8d9"
+    },
+    {
+     "file": "armored-rhinoceros-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 534,
+     "bytes": 139746,
+     "sec": 4.483941826038063,
+     "sha256": "88f9b8de3911caaeb580fc18366e08107bf327c1e822da112d181519eb1d4aad"
+    },
+    {
+     "file": "armored-rhinoceros-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 713,
+     "bytes": 231492,
+     "sec": 4.061257936991751,
+     "sha256": "3ad1f4ba1f02936823294cfa8a297bf02cbdcec2dd11ee962d50bf4e6385d5ba"
+    },
+    {
+     "file": "armored-rhinoceros-1536.webp",
+     "kind": "webp",
+     "width": 1536,
+     "height": 1069,
+     "bytes": 435772,
+     "sec": 6.806022681994364,
+     "sha256": "d11a8f9ff24f23ca8208b75746126a4ec4633b29f549b328e44c7002d65379ee"
+    },
+    {
+     "file": "armored-rhinoceros-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 45,
+     "bytes": 1852,
+     "sec": 0.1824644070584327,
+     "sha256": "56fd2b65ec88c19d5c97ea77c2b43d4a2f8f8c968c3bc2971a37510207c25867"
+    },
+    {
+     "file": "armored-rhinoceros-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 67,
+     "bytes": 2967,
+     "sec": 0.26811183197423816,
+     "sha256": "15cf29c87b140915be9e978ef6096974d287ed72960e1ff11aaa4a9990c3d0cd"
+    },
+    {
+     "file": "armored-rhinoceros-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 89,
+     "bytes": 4510,
+     "sec": 0.5665365220047534,
+     "sha256": "b79258f3e1cd5946eec1c8dfc2dad4987beff49e37cac7f5ba56e9f54329c95e"
+    },
+    {
+     "file": "armored-rhinoceros-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 134,
+     "bytes": 8004,
+     "sec": 0.7590825848747045,
+     "sha256": "262eda04d524abb39058f538d9daaf5e8f9e488bc95fc97eacfac6d147eb41bf"
+    },
+    {
+     "file": "armored-rhinoceros-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 178,
+     "bytes": 13252,
+     "sec": 1.2094028720166534,
+     "sha256": "118211b60e0213943ee8fd180a8b8b99f029097e931d93762b76f75b301cef10"
+    },
+    {
+     "file": "armored-rhinoceros-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 267,
+     "bytes": 26567,
+     "sec": 0.9911177780013531,
+     "sha256": "7ca125ba583d776f6538b2a0c4b4355ddd7f4d26b14584922e1fba0206541bcd"
+    },
+    {
+     "file": "armored-rhinoceros-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 356,
+     "bytes": 45002,
+     "sec": 1.9359419310931116,
+     "sha256": "6d5d61db019db1ae8fb8ac65f7c70c51d1cdfa3cec17b353f7274eac37a61571"
+    },
+    {
+     "file": "armored-rhinoceros-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 534,
+     "bytes": 97576,
+     "sec": 2.8855294808745384,
+     "sha256": "5eb5e59b54007bd3203ad7e1adf3657f9c6b2564ff5eed71f7d501668e474820"
+    },
+    {
+     "file": "armored-rhinoceros-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 713,
+     "bytes": 157901,
+     "sec": 4.636296975193545,
+     "sha256": "8551c8dc11f72f99890960e118cdee9cf8b287cf973a094ccd822fb6449eb320"
+    },
+    {
+     "file": "armored-rhinoceros-1536.avif",
+     "kind": "avif",
+     "width": 1536,
+     "height": 1069,
+     "bytes": 285409,
+     "sec": 11.260798016097397,
+     "sha256": "b1ef4a6afdec75cb9875e427946e9818ef7e07d59dd6bd6e2cccba5b7c54b73c"
+    },
+    {
+     "file": "armored-rhinoceros-2048-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 2048,
+     "height": 1425,
+     "bytes": 2884894,
+     "sec": 5.156730704009533,
+     "sha256": "6aae1133ab039844df6b5683b9c7d7fda9f525d45f4a61b1b858470a4ff7b0d7"
+    }
+   ]
+  },
+  {
+   "name": "hairy-hunter-and-diving-bird-in-columned-pond-scene",
+   "group": "illustration",
+   "master": {
+    "width": 2702,
+    "height": 909,
+    "pngBytes": 3051402
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024,
+    1536,
+    2048
+   ],
+   "top": 2048,
+   "totalSec": 56.12796371080913,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "hairy-hunter-and-diving-bird-in-columned-pond-scene-2048.webp",
+     "kind": "webp",
+     "width": 2048,
+     "height": 689,
+     "bytes": 161642,
+     "sec": 4.449751885840669,
+     "sha256": "aefb67b21ca8ff652989ab80f578985c126a42e37eb2766ced265ef8fe290b8d"
+    },
+    {
+     "file": "hairy-hunter-and-diving-bird-in-columned-pond-scene-2048.avif",
+     "kind": "avif",
+     "width": 2048,
+     "height": 689,
+     "bytes": 124506,
+     "sec": 7.735050926916301,
+     "sha256": "2bf5cc639cf412706e66a9eab1888aff78661a6c28d3de9d617884f2ed706183"
+    },
+    {
+     "file": "hairy-hunter-and-diving-bird-in-columned-pond-scene-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 22,
+     "bytes": 1040,
+     "sec": 0.05570877017453313,
+     "sha256": "91e241fa1f24f3383aa67eb2a943b01f616428c67441275dc758e6eb3ddeadca"
+    },
+    {
+     "file": "hairy-hunter-and-diving-bird-in-columned-pond-scene-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 32,
+     "bytes": 1888,
+     "sec": 0.08979208907112479,
+     "sha256": "4595d12ba0473bbab4e9eb4d4614c43d3977a7665379b3cd88029eaed0ef8a5d"
+    },
+    {
+     "file": "hairy-hunter-and-diving-bird-in-columned-pond-scene-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 43,
+     "bytes": 3076,
+     "sec": 0.18337214994244277,
+     "sha256": "b18f66211765fa8c2c0007015d022ffdf89b13633fce35c2187fa4258b1d8446"
+    },
+    {
+     "file": "hairy-hunter-and-diving-bird-in-columned-pond-scene-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 65,
+     "bytes": 5844,
+     "sec": 0.4207214720081538,
+     "sha256": "d5f6c9c47e368b9d5c8acc73554d719ae5c5c7c3cb1dec0bdf11cb0fad4c02ba"
+    },
+    {
+     "file": "hairy-hunter-and-diving-bird-in-columned-pond-scene-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 86,
+     "bytes": 9320,
+     "sec": 0.7906325981020927,
+     "sha256": "dac2144b208bb4497333180bd8949f4925be8575a874375a3bbbf4b6514a7f71"
+    },
+    {
+     "file": "hairy-hunter-and-diving-bird-in-columned-pond-scene-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 129,
+     "bytes": 16870,
+     "sec": 1.54564412496984,
+     "sha256": "ae0fbceba3aa9ee8f1500e973c9e839c5f2081f283690c577eea4069d61a1f53"
+    },
+    {
+     "file": "hairy-hunter-and-diving-bird-in-columned-pond-scene-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 172,
+     "bytes": 26092,
+     "sec": 2.5619482949841768,
+     "sha256": "bba95fdab44a7e6990613095b781b5e6aab4990f32009ec6f9bf572a48c00ee0"
+    },
+    {
+     "file": "hairy-hunter-and-diving-bird-in-columned-pond-scene-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 258,
+     "bytes": 46500,
+     "sec": 5.23457356588915,
+     "sha256": "7cc00d23c30b8ab8942e4b2b94a52b98e4642acf5962a3c2e42783d01cf78c01"
+    },
+    {
+     "file": "hairy-hunter-and-diving-bird-in-columned-pond-scene-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 344,
+     "bytes": 67556,
+     "sec": 3.8716070828959346,
+     "sha256": "983497466492ec16721f9d3ab4bc0cb377e00be08098d9dfbcd5ceec14da0c31"
+    },
+    {
+     "file": "hairy-hunter-and-diving-bird-in-columned-pond-scene-1536.webp",
+     "kind": "webp",
+     "width": 1536,
+     "height": 517,
+     "bytes": 113608,
+     "sec": 7.625966022023931,
+     "sha256": "bae83b104aaa6fb48ada90e4612581b2b76b27c27b96910031d82d32068fcc0f"
+    },
+    {
+     "file": "hairy-hunter-and-diving-bird-in-columned-pond-scene-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 22,
+     "bytes": 980,
+     "sec": 0.11757968598976731,
+     "sha256": "75c3521d9beec4b5e76ada8a008699b4800e510fb09d3f511f1ae5f15c0b7e18"
+    },
+    {
+     "file": "hairy-hunter-and-diving-bird-in-columned-pond-scene-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 32,
+     "bytes": 1472,
+     "sec": 0.19471464795060456,
+     "sha256": "782d5a1973bc73ccf3a2984fdea3bae1b4996470ae696b68951eef3a65a3d695"
+    },
+    {
+     "file": "hairy-hunter-and-diving-bird-in-columned-pond-scene-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 43,
+     "bytes": 2427,
+     "sec": 0.21831137989647686,
+     "sha256": "ec824069a57bee0a93716beb0ee4842ad4e839389cbe536fb0113a4db3da394d"
+    },
+    {
+     "file": "hairy-hunter-and-diving-bird-in-columned-pond-scene-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 65,
+     "bytes": 3920,
+     "sec": 0.5871358970180154,
+     "sha256": "41cb6871c008c804a3f1f284e24fd82b6b1aec4b2c52c25b1d93dc10bf50c22f"
+    },
+    {
+     "file": "hairy-hunter-and-diving-bird-in-columned-pond-scene-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 86,
+     "bytes": 6562,
+     "sec": 0.8154047050047666,
+     "sha256": "32da9b9dd13ec4fed2fde19e2f396b6fb17fb1097023f011546385624640af8b"
+    },
+    {
+     "file": "hairy-hunter-and-diving-bird-in-columned-pond-scene-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 129,
+     "bytes": 11380,
+     "sec": 0.817781801102683,
+     "sha256": "8283b7bd9317df32d3f4280b6ef281c409e9c39e3bad23cd4e9a1394a30880a7"
+    },
+    {
+     "file": "hairy-hunter-and-diving-bird-in-columned-pond-scene-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 172,
+     "bytes": 18853,
+     "sec": 1.3970481150317937,
+     "sha256": "418e79c1fba78cea4c9da0ff7bd9681cf1bbcd55a1991a0ba39a8a864f3db24f"
+    },
+    {
+     "file": "hairy-hunter-and-diving-bird-in-columned-pond-scene-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 258,
+     "bytes": 34385,
+     "sec": 2.6385881970636547,
+     "sha256": "8d0395e9c26da27d00e3038eb2d5d68cb35b8da3da1f5bf2f0cb0b393b19cd57"
+    },
+    {
+     "file": "hairy-hunter-and-diving-bird-in-columned-pond-scene-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 344,
+     "bytes": 51680,
+     "sec": 3.8530282808933407,
+     "sha256": "a318f4943ad5c3ae2e912b2b3ab2ab1c568cab73bd23bccf43964f95059d15bb"
+    },
+    {
+     "file": "hairy-hunter-and-diving-bird-in-columned-pond-scene-1536.avif",
+     "kind": "avif",
+     "width": 1536,
+     "height": 517,
+     "bytes": 86941,
+     "sec": 8.139492524089292,
+     "sha256": "53e9688544b4fc932beedd2cbb41487fc0a1eaf777a153bf361afc0494183a76"
+    },
+    {
+     "file": "hairy-hunter-and-diving-bird-in-columned-pond-scene-2048-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 2048,
+     "height": 689,
+     "bytes": 1365546,
+     "sec": 2.7751170231495053,
+     "sha256": "c03c109e6b24f90cfe1c41173d7cf203ee7dfb72744fa7f34e7d9be8c606511e"
+    }
+   ]
+  },
+  {
+   "name": "horse",
+   "group": "illustration",
+   "master": {
+    "width": 2651,
+    "height": 2390,
+    "pngBytes": 5885617
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024,
+    1536,
+    2048
+   ],
+   "top": 2048,
+   "totalSec": 90.20796589693055,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "horse-2048.webp",
+     "kind": "webp",
+     "width": 2048,
+     "height": 1846,
+     "bytes": 496926,
+     "sec": 5.495198403019458,
+     "sha256": "232048f09e316b1dd010b9b2d523dd40cb090ffd7d417a282654ea947c571249"
+    },
+    {
+     "file": "horse-2048.avif",
+     "kind": "avif",
+     "width": 2048,
+     "height": 1846,
+     "bytes": 310756,
+     "sec": 15.877860202919692,
+     "sha256": "768a748dab482e6228fced9ac9ddd27eb55bcd6673c6f5ec7cc1f8a732dffcaa"
+    },
+    {
+     "file": "horse-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 58,
+     "bytes": 2718,
+     "sec": 0.2670381939969957,
+     "sha256": "7adf3aacbf7eaafdea52dcff8a9748a9d01fe29330668b02aadb0145312a7682"
+    },
+    {
+     "file": "horse-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 87,
+     "bytes": 4486,
+     "sec": 0.5354877589270473,
+     "sha256": "2b4f6797ed71a1863335f9401f37d6bcf9fe59dceac33e09a9b0f4c94862253a"
+    },
+    {
+     "file": "horse-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 115,
+     "bytes": 6354,
+     "sec": 0.8492288109846413,
+     "sha256": "bd5ff03e5e67f7e69adcd8f05a8de7f8c30581b2e02a87de8a5f0c986717d9b4"
+    },
+    {
+     "file": "horse-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 173,
+     "bytes": 10904,
+     "sec": 1.5371414970140904,
+     "sha256": "017434d4267a5d9a5256e30beb7765baf9c74d8154e6a18dda121339569165b0"
+    },
+    {
+     "file": "horse-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 231,
+     "bytes": 16342,
+     "sec": 2.7145640291273594,
+     "sha256": "74ff8c5605b648389feb9a8fee88d727fdc38b5544e624d9c05052f7523f0dae"
+    },
+    {
+     "file": "horse-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 346,
+     "bytes": 30310,
+     "sec": 4.43568612402305,
+     "sha256": "ced0d415cf68c310888720a2b919c5b2e74abe681524a57d9cccc2e92b98cfed"
+    },
+    {
+     "file": "horse-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 462,
+     "bytes": 49852,
+     "sec": 6.512813497101888,
+     "sha256": "c7fbccacccc4faf96c4038489695de00af0bf2e358e7198b087337def2d2708b"
+    },
+    {
+     "file": "horse-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 692,
+     "bytes": 103426,
+     "sec": 7.6302575001027435,
+     "sha256": "5a6f4ae64f344293a8c093240b12b6ac6abbff60c7ddcb295f59474c22604bb0"
+    },
+    {
+     "file": "horse-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 923,
+     "bytes": 170756,
+     "sec": 8.681768443901092,
+     "sha256": "f15eae8f6202e806f35a4d40e847a7ae509aa4fe1c2c4620567ff3f196f45e40"
+    },
+    {
+     "file": "horse-1536.webp",
+     "kind": "webp",
+     "width": 1536,
+     "height": 1385,
+     "bytes": 329944,
+     "sec": 9.889531973050907,
+     "sha256": "45a4dfb277f291ea4d8ff7c0c1fae222b507b9877d08fd62fbde98484f599dda"
+    },
+    {
+     "file": "horse-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 58,
+     "bytes": 2030,
+     "sec": 0.2983491709455848,
+     "sha256": "aa444ccf13592ac9847d24ce855314a152911af15676666f6c7d049d3622346c"
+    },
+    {
+     "file": "horse-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 87,
+     "bytes": 3089,
+     "sec": 0.38953379914164543,
+     "sha256": "8f80b8a1e3e2ff9cf8d69672fb91e81783a6e2be216d1ae0b3fbd2af5000dce0"
+    },
+    {
+     "file": "horse-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 115,
+     "bytes": 4266,
+     "sec": 0.4832194009795785,
+     "sha256": "571996f42296b34ff7beb91c12585709dcb71e7e62305e054e097f058b65d55a"
+    },
+    {
+     "file": "horse-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 173,
+     "bytes": 7262,
+     "sec": 0.7427691819611937,
+     "sha256": "8a2e25a93fdb0f02dd5763527fc5c294af74e5c3367b9d46d87d40423784481b"
+    },
+    {
+     "file": "horse-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 231,
+     "bytes": 11086,
+     "sec": 1.1004338630009443,
+     "sha256": "7ae06d11f82d993f1ca0a195710283f899072f628eadd996f22db29fded680d8"
+    },
+    {
+     "file": "horse-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 346,
+     "bytes": 20955,
+     "sec": 0.8553386928979307,
+     "sha256": "9de775c310bbf00d61df29ac7c8e158f11f8ab4f51ca0f907fe150ce725891dc"
+    },
+    {
+     "file": "horse-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 462,
+     "bytes": 34420,
+     "sec": 1.3603989258408546,
+     "sha256": "b886d2aee2461cda2845ec9a5712a52ce37ddd1934bb2d7c1e08ac5bd7265edd"
+    },
+    {
+     "file": "horse-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 692,
+     "bytes": 67735,
+     "sec": 2.5725403800606728,
+     "sha256": "0c308721f7800e41f6a6d131b7bb291a5abef449a50b5da8233756d4b82f3bbe"
+    },
+    {
+     "file": "horse-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 923,
+     "bytes": 109800,
+     "sec": 4.571724289096892,
+     "sha256": "525287009ba72357ecfcecab3bc9134b5b5aa0ef0a136fc14192907d0bef326c"
+    },
+    {
+     "file": "horse-1536.avif",
+     "kind": "avif",
+     "width": 1536,
+     "height": 1385,
+     "bytes": 207032,
+     "sec": 9.17158182989806,
+     "sha256": "409743b6bfac0b0605e3cbadb9f46696251bfa9ee19df649dc97675b120ad7d5"
+    },
+    {
+     "file": "horse-2048-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 2048,
+     "height": 1846,
+     "bytes": 2391704,
+     "sec": 4.221229359973222,
+     "sha256": "49cb4e214b648430849c1e43d45abd50a4c6db81713caafe1e6ddc562b92a842"
+    }
+   ]
+  }
+ ]
+}

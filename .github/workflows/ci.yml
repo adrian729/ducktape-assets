@@ -1,0 +1,21 @@
+# Main repository CI: tooling tests and schema checks.
+name: ci
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  tools:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 24, cache: npm, cache-dependency-path: tools/package-lock.json }
+      - run: npm ci
+        working-directory: tools
+      - run: npm test
+        working-directory: tools
+      - name: Schemas parse and the vocabularies are lists
+        run: node -e 'for (const f of ["set","asset","manifest"]) JSON.parse(require("fs").readFileSync(`schemas/${f}.schema.json`,"utf8")); console.log("ok")'

@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/adrian729/ducktape-assets/schemas/set.schema.json",
+  "title": "Ducktape Assets set",
+  "description": "Authored description of one set: one repository, one licence story, one version line. Lives at the root of the set repository as set.yaml. Measurable facts are never typed here; the build generates them into manifest.json.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "title", "summary", "kind", "author", "license"],
+  "properties": {
+    "id": {
+      "description": "Set identifier. Equals the repository suffix and the package suffix. Permanent.",
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "maxLength": 48,
+      "not": {
+        "anyOf": [
+          { "enum": ["gallery", "template", "tools", "index", "masters"] },
+          { "pattern": "(^|-)part[0-9]+$" }
+        ]
+      }
+    },
+    "title": { "description": "Human title of the set.", "type": "string", "minLength": 1, "maxLength": 120 },
+    "summary": { "description": "One sentence saying what the set contains and where it comes from. Shown in the index README and the gallery.", "type": "string", "minLength": 1, "maxLength": 300 },
+    "kind": {
+      "description": "authored: made by the author (including AI-assisted work). historical: extracted from a documented source object; every asset needs provenance. imported: legacy material whose origin was not recorded; provenance may be null.",
+      "enum": ["authored", "historical", "imported"]
+    },
+    "author": { "description": "Account responsible for the set. Agents act on its behalf.", "type": "string", "minLength": 1 },
+    "maintainer": { "description": "Where to reach the maintainer: a URL (issue tracker) or an email.", "type": "string", "minLength": 1 },
+    "license": {
+      "description": "Artwork licence for every asset of the set unless an asset overrides it.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["artwork"],
+      "properties": {
+        "artwork": { "description": "SPDX identifier (CC0-1.0, CC-BY-4.0, …) or a custom identifier defined in LICENSES.md.", "type": "string", "minLength": 1 },
+        "notes": { "description": "Attribution line or any condition a consumer must know.", "type": "string" }
+      }
+    },
+    "period": { "description": "Coverage: period of the artwork, for example '14th century'. Inherited by assets.", "type": "string" },
+    "region": { "description": "Coverage: region of origin, for example 'Flanders'. Inherited by assets.", "type": "string" },
+    "style": { "description": "Coverage: style or medium, for example 'illuminated manuscript'. Inherited by assets.", "type": "string" },
+    "origin": {
+      "description": "Set-level provenance. Historical sets name the holding institution and object; authored sets name the method and the reference sets.",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "institution": { "type": "string" },
+        "object_identifier": { "type": "string" },
+        "object_title": { "type": "string" },
+        "record_url": { "type": "string", "format": "uri" },
+        "method": { "$ref": "#/$defs/method" },
+        "references": { "description": "Other set ids used as visual references.", "type": "array", "items": { "type": "string" }, "uniqueItems": true }
+      }
+    },
+    "created": { "description": "Date the set was started, YYYY-MM-DD.", "type": "string", "format": "date" },
+    "tags": { "description": "Free tags for the set as a whole.", "type": "array", "items": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" }, "uniqueItems": true }
+  },
+  "allOf": [
+    {
+      "if": { "properties": { "kind": { "const": "historical" } } },
+      "then": { "required": ["origin"], "properties": { "origin": { "type": "object", "required": ["institution", "object_identifier"] } } }
+    }
+  ],
+  "$defs": {
+    "method": {
+      "description": "How the artwork was produced from its source.",
+      "enum": [
+        "native-source-extraction",
+        "native-ink-extraction",
+        "native-source-repeat",
+        "ai-assisted-extraction",
+        "ai-assisted-source-mask",
+        "mixed-source-extraction",
+        "independent-ai-interpretation",
+        "reference-guided-ai-generation",
+        "hand-drawn",
+        "hand-vector"
+      ]
+    }
+  }
+}

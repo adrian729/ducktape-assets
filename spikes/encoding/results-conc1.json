@@ -1,0 +1,960 @@
+{
+ "versions": {
+  "aom": "3.15.1",
+  "archive": "3.8.9",
+  "cairo": "1.18.6",
+  "cgif": "0.5.4",
+  "exif": "0.6.26",
+  "expat": "2.8.5",
+  "ffi": "3.8.0",
+  "fontconfig": "2.18.3",
+  "freetype": "2.14.3",
+  "fribidi": "1.0.17",
+  "glib": "2.90.0",
+  "harfbuzz": "14.5.0",
+  "heif": "1.23.5",
+  "highway": "1.4.0",
+  "imagequant": "2.4.1",
+  "lcms": "2.19.1",
+  "mozjpeg": "0826579",
+  "pango": "1.58.2",
+  "pixman": "0.46.4",
+  "png": "1.6.58",
+  "proxy-libintl": "0.5",
+  "rsvg": "2.63.2",
+  "tiff": "4.7.2",
+  "uhdr": "2.0.2",
+  "vips": "8.18.7",
+  "webp": "1.6.0",
+  "xml2": "2.15.4",
+  "zlib-ng": "2.3.3",
+  "sharp": "0.35.5"
+ },
+ "concurrency": 1,
+ "totalSec": 134.8905827770941,
+ "results": [
+  {
+   "name": "rosselli-foliate-border",
+   "group": "border",
+   "master": {
+    "width": 274,
+    "height": 438,
+    "pngBytes": 309999
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    274
+   ],
+   "top": 274,
+   "totalSec": 31.896062705200166,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "rosselli-foliate-border-274.webp",
+     "kind": "webp",
+     "width": 274,
+     "height": 438,
+     "bytes": 93040,
+     "sec": 9.029365462018177,
+     "sha256": "0c3113607bb4ef92fb2c18ed0f9f2cda9c9d3ebe5df8e086f34145cb2a816a1b"
+    },
+    {
+     "file": "rosselli-foliate-border-274.avif",
+     "kind": "avif",
+     "width": 274,
+     "height": 438,
+     "bytes": 48234,
+     "sec": 0.907710239989683,
+     "sha256": "f09a25595020b9114f39cc704667a84a5d4507a4fc0e3b84382b121e9a65e686"
+    },
+    {
+     "file": "rosselli-foliate-border-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 102,
+     "bytes": 8362,
+     "sec": 0.7121412528213114,
+     "sha256": "0931738b49a824da89e61a778311b03fb8ac5999770aa0f2ea0223ef44a53578"
+    },
+    {
+     "file": "rosselli-foliate-border-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 153,
+     "bytes": 16764,
+     "sec": 0.9620872919913381,
+     "sha256": "9060d682153207ce8310750623787897c622f630fa7758381462aa039cc596b7"
+    },
+    {
+     "file": "rosselli-foliate-border-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 205,
+     "bytes": 27336,
+     "sec": 1.6642764480784535,
+     "sha256": "d68ba3731852d1cc1ebb74565599b196f4e6a4ec139c1b6419609404014e277e"
+    },
+    {
+     "file": "rosselli-foliate-border-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 307,
+     "bytes": 54146,
+     "sec": 3.71742277382873,
+     "sha256": "6abcb5f2e17c76e2f5cf712633871cbd145ac1d7211c19ededb2e79daa82aece"
+    },
+    {
+     "file": "rosselli-foliate-border-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 409,
+     "bytes": 86494,
+     "sec": 9.60483972192742,
+     "sha256": "7f6a5e30486375df23ec79e46a631d701363a24edb90f35a38d5d888bba51a80"
+    },
+    {
+     "file": "rosselli-foliate-border-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 102,
+     "bytes": 5944,
+     "sec": 0.1790189661551267,
+     "sha256": "8a0168699a9ad7778559167e19b2e07258697a3f33533fc94a83728bfec9c4b3"
+    },
+    {
+     "file": "rosselli-foliate-border-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 153,
+     "bytes": 11151,
+     "sec": 0.32420844305306673,
+     "sha256": "1ebf9938c2a3b5cfc679f19aa3f4839dc8a4113765553390a5fa74f5a39da18a"
+    },
+    {
+     "file": "rosselli-foliate-border-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 205,
+     "bytes": 17261,
+     "sec": 0.5980159139726311,
+     "sha256": "8bd5dabe34405325ed96eb934afb7423587ad9121b3ecc5b1a12d1c957b8ef8d"
+    },
+    {
+     "file": "rosselli-foliate-border-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 307,
+     "bytes": 31089,
+     "sec": 1.3944327749777585,
+     "sha256": "7b1358ebb2d58f1a03603d9ea5da80ce4678d63a0d2e43c3350f413be200f5b7"
+    },
+    {
+     "file": "rosselli-foliate-border-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 409,
+     "bytes": 45750,
+     "sec": 2.0798042621463537,
+     "sha256": "f61cb7418537637e62cc6bd7576752a47e117e22d6f77ac3f8bb8eac95c07572"
+    },
+    {
+     "file": "rosselli-foliate-border-274-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 274,
+     "height": 438,
+     "bytes": 213544,
+     "sec": 0.7174388240091503,
+     "sha256": "72dabe56a56c05853753d84c3cb951194a0ad69d16028eeaac1ef178153d49e0"
+    }
+   ]
+  },
+  {
+   "name": "ivy-corner",
+   "group": "border",
+   "master": {
+    "width": 1254,
+    "height": 1254,
+    "pngBytes": 267736
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024
+   ],
+   "top": 1024,
+   "totalSec": 31.132138626184314,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "ivy-corner-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 1024,
+     "bytes": 96322,
+     "sec": 7.653979715891182,
+     "sha256": "2332af58486a931c81d86b31c5873917f5e399127bdf2d38a9ba1ff0b062d3c6"
+    },
+    {
+     "file": "ivy-corner-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 1024,
+     "bytes": 33163,
+     "sec": 0.8393515618517995,
+     "sha256": "6cc2139dea6fcbe474e22e86ee9796de5cae3faafd95aaabfc89409461207cdb"
+    },
+    {
+     "file": "ivy-corner-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 64,
+     "bytes": 1292,
+     "sec": 0.12527271988801658,
+     "sha256": "5aebc90b16dd69f9a1fe1dfcd7b0368f67081cc0a5af55f4bf8bfb1eeef50e99"
+    },
+    {
+     "file": "ivy-corner-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 96,
+     "bytes": 2402,
+     "sec": 0.39188349805772305,
+     "sha256": "ef82f491c7ed0d6c02f3e644a7665ff34b3fc0c2184b5ac47f7bee8bd95945b8"
+    },
+    {
+     "file": "ivy-corner-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 128,
+     "bytes": 3814,
+     "sec": 0.8314877129159868,
+     "sha256": "ac4c4934c042c0a98788324f2826bd0addbb483a573502fec57ed44ec2a603c3"
+    },
+    {
+     "file": "ivy-corner-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 192,
+     "bytes": 7066,
+     "sec": 1.269110772991553,
+     "sha256": "6776646ef336edeff6a37a2c05269b3083af8bfa1cef5f6f0e209d4225b6621d"
+    },
+    {
+     "file": "ivy-corner-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 256,
+     "bytes": 10900,
+     "sec": 1.7752419989556074,
+     "sha256": "62ee8bff1778d89affcb6678b564bf0890123e8d605b834955112e04f095bb26"
+    },
+    {
+     "file": "ivy-corner-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 384,
+     "bytes": 19754,
+     "sec": 5.240386851131916,
+     "sha256": "d5354b8c088dce2ad26d9cfe63b0d1a772bb3afebacf818d2dc21d821d29cdae"
+    },
+    {
+     "file": "ivy-corner-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 512,
+     "bytes": 30872,
+     "sec": 5.102068649139255,
+     "sha256": "b4e6a71e7e85f32e3ac120830081a3336e0f99ed2401d069e9434e84c0b80620"
+    },
+    {
+     "file": "ivy-corner-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 768,
+     "bytes": 59702,
+     "sec": 6.2569849640131,
+     "sha256": "3e2dadfd832ab9143817810b05cbead0693d57b02bdccae98be86960d5ff8336"
+    },
+    {
+     "file": "ivy-corner-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 64,
+     "bytes": 1079,
+     "sec": 0.033595418091863394,
+     "sha256": "ea8d39e69b5a9197501ae2022a4808ca5506608676fdf4ee12b444c0b417583e"
+    },
+    {
+     "file": "ivy-corner-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 96,
+     "bytes": 1767,
+     "sec": 0.041394495172426105,
+     "sha256": "8668d8ae43d39b8fe86deac8cbdcd7fb0b8eca7fe71c9397143a45f25bcc7016"
+    },
+    {
+     "file": "ivy-corner-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 128,
+     "bytes": 2511,
+     "sec": 0.09348614607006311,
+     "sha256": "b693ff34da80652fb7d90100a59032362ad501345ece0e8946cf96ee8f64f8a4"
+    },
+    {
+     "file": "ivy-corner-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 192,
+     "bytes": 4402,
+     "sec": 0.18478097184561193,
+     "sha256": "b4653b3563634f6e9220e531c6b9f7396068014e4c8e165a9444e1f410e1ffc4"
+    },
+    {
+     "file": "ivy-corner-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 256,
+     "bytes": 6380,
+     "sec": 0.14886370720341802,
+     "sha256": "7cf36f29f072dcc9a472f66d43fd7845ae819a91b4acade7ab6f297a9769a9db"
+    },
+    {
+     "file": "ivy-corner-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 384,
+     "bytes": 10989,
+     "sec": 0.15891160885803401,
+     "sha256": "94696e82b9859fb6a898aa227af6758fa3d01aaee7203cd14bddb31da88a533e"
+    },
+    {
+     "file": "ivy-corner-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 512,
+     "bytes": 15513,
+     "sec": 0.27513570711016655,
+     "sha256": "9dbe79c42e10b5c482557de14e9a3ee9c5512fe8f82745a76606dd6b50a9c6ea"
+    },
+    {
+     "file": "ivy-corner-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 768,
+     "bytes": 24868,
+     "sec": 0.6108312250580639,
+     "sha256": "247ea4019791c56c6a8d2e98b69fcea0b0779450a7a001adb711eb71069bd34a"
+    },
+    {
+     "file": "ivy-corner-1254-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 1254,
+     "height": 1254,
+     "bytes": 168428,
+     "sec": 0.09468595194630325,
+     "sha256": "5760a1311eaafcb54b2d58f3405dd44004640c0c76d6abaed89fb0df172bcca0"
+    }
+   ]
+  },
+  {
+   "name": "briar-divider",
+   "group": "border",
+   "master": {
+    "width": 2172,
+    "height": 724,
+    "pngBytes": 393542
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024
+   ],
+   "top": 1024,
+   "totalSec": 14.066697454079986,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "briar-divider-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 341,
+     "bytes": 42266,
+     "sec": 2.959302574163303,
+     "sha256": "58602199be8bd1c2524bd35a52eb9bcbc894727e6d27d4f5f221b6dd9c13b0df"
+    },
+    {
+     "file": "briar-divider-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 341,
+     "bytes": 23944,
+     "sec": 0.637399174971506,
+     "sha256": "5c48e3cfae50b405166a7ef73f9f05a9ed272c30f556f5a937b776bdc19e3582"
+    },
+    {
+     "file": "briar-divider-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 21,
+     "bytes": 570,
+     "sec": 0.021090576192364097,
+     "sha256": "a11f0dfa46adcb3a737f5cd82fdd7bb0c0d0777c35e3ca816b2ae39d880152c2"
+    },
+    {
+     "file": "briar-divider-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 32,
+     "bytes": 972,
+     "sec": 0.036057168152183294,
+     "sha256": "188559f726856adfafa238fc47db7b16b5190678b6b2a48b2f4e7dad70c42651"
+    },
+    {
+     "file": "briar-divider-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 43,
+     "bytes": 1480,
+     "sec": 0.08127277088351548,
+     "sha256": "4085ac8b3d0e0c02f647eca71964bc0aa1eb15dcc421deafa74cc0f82c066bb2"
+    },
+    {
+     "file": "briar-divider-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 64,
+     "bytes": 2732,
+     "sec": 0.4483444020152092,
+     "sha256": "03a5f4bf347858a081a3a7b54df98aa012e7491f7c418732fbafcfec98d1ae08"
+    },
+    {
+     "file": "briar-divider-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 85,
+     "bytes": 4496,
+     "sec": 0.8186235439497977,
+     "sha256": "78d095e34f326eafa6a649e962603b126872d6e3ed61d89948bd84140c7abef6"
+    },
+    {
+     "file": "briar-divider-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 128,
+     "bytes": 8736,
+     "sec": 1.3647536151111126,
+     "sha256": "35323a7efb628deef227664c41eb099ba61d25ea6646f02a3cb8bca314808909"
+    },
+    {
+     "file": "briar-divider-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 171,
+     "bytes": 13950,
+     "sec": 2.260348714888096,
+     "sha256": "837f8d3745f931e933a06da9f5ac0dd023958fc3f4efb67e86bc88473bd5d172"
+    },
+    {
+     "file": "briar-divider-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 256,
+     "bytes": 26484,
+     "sec": 3.8693560471292585,
+     "sha256": "3fcfb348e54a5264666bbf5078488cb4d57beb5b102b2b0091d4457eed4afb59"
+    },
+    {
+     "file": "briar-divider-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 21,
+     "bytes": 705,
+     "sec": 0.04339548386633396,
+     "sha256": "ba7d1bf1023970cfad98f59e93d841a32349d9ccd2260cfce403a77dca97464b"
+    },
+    {
+     "file": "briar-divider-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 32,
+     "bytes": 978,
+     "sec": 0.0609447481110692,
+     "sha256": "e09f105a7278eb93fa10a79d8607070dfc03ae78dc297b729b08493f2db68182"
+    },
+    {
+     "file": "briar-divider-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 43,
+     "bytes": 1349,
+     "sec": 0.10228460421785712,
+     "sha256": "00bac9541e1f53f315d12f45d495e6bbf1a1673bb8b997df5a9b1411d25f04ab"
+    },
+    {
+     "file": "briar-divider-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 64,
+     "bytes": 2251,
+     "sec": 0.1842538968194276,
+     "sha256": "099a0f0e12bf6f09c0d649c720e48fafe3c4447ba110310786b29a4eee9b71b7"
+    },
+    {
+     "file": "briar-divider-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 85,
+     "bytes": 3509,
+     "sec": 0.29973180894739926,
+     "sha256": "01c9f364845c2b5940d66db5c5a7370d7cbdbeb968912e7da15d4317cd5ad0fe"
+    },
+    {
+     "file": "briar-divider-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 128,
+     "bytes": 6823,
+     "sec": 0.15659783501178026,
+     "sha256": "72d17e9c8744cbff53fced727791ff09d0a849c12e07972254ab35490b94a797"
+    },
+    {
+     "file": "briar-divider-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 171,
+     "bytes": 9941,
+     "sec": 0.2281857819762081,
+     "sha256": "d4c329f4e0c240d5f780e7a79996f8f68b937ae3a79f4f0c59a57e0b1d657399"
+    },
+    {
+     "file": "briar-divider-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 256,
+     "bytes": 16714,
+     "sec": 0.39672382990829647,
+     "sha256": "7905916a94095cc92d5b834ad073ff915c143ea46747b1acf479a88228b4494b"
+    },
+    {
+     "file": "briar-divider-2048-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 2048,
+     "height": 683,
+     "bytes": 241896,
+     "sec": 0.09378060279414058,
+     "sha256": "abac3af6b52a756cffd87f3952509d5b0b4a1b81550fc81d53413d2b8dd9b230"
+    }
+   ]
+  },
+  {
+   "name": "crocodile",
+   "group": "illustration",
+   "master": {
+    "width": 3286,
+    "height": 1360,
+    "pngBytes": 3923043
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024
+   ],
+   "top": 1024,
+   "totalSec": 21.822959082201123,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "crocodile-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 424,
+     "bytes": 89974,
+     "sec": 3.2741506539750844,
+     "sha256": "5cf66aad4f5962cc7d05600cdc7c83e3dadf7807471c189616bb959c19295f73"
+    },
+    {
+     "file": "crocodile-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 424,
+     "bytes": 61519,
+     "sec": 1.5627938429825008,
+     "sha256": "e3a70f56d5e1a290376e543dae70a07aca92c579114a5c7a536e114bae872222"
+    },
+    {
+     "file": "crocodile-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 26,
+     "bytes": 1712,
+     "sec": 0.08053783001378179,
+     "sha256": "faeaeec3c86b4709aea0c59ea4adaece27ba2e37a76ea4c2699791ae03eefd9d"
+    },
+    {
+     "file": "crocodile-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 40,
+     "bytes": 2820,
+     "sec": 0.17270841798745096,
+     "sha256": "04cb94a08e20365cbc804591f0f916f0975854303c22f8616bfd475f98868baa"
+    },
+    {
+     "file": "crocodile-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 53,
+     "bytes": 4006,
+     "sec": 0.3283979401458055,
+     "sha256": "e74025ce342a98f0f7ae6476b57e29bbd4dda4d0f456003099a8ed11c57233c0"
+    },
+    {
+     "file": "crocodile-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 79,
+     "bytes": 6802,
+     "sec": 0.6401455919258296,
+     "sha256": "e31299131dcdae48dcc3e8f3e0e45bd4a2f4dfe6f1f4ba696af45f5601708d29"
+    },
+    {
+     "file": "crocodile-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 106,
+     "bytes": 10266,
+     "sec": 0.957740985089913,
+     "sha256": "c1b2cde5aee7e3942ee11c5ab4582e255e6ced399c171903740d64a3f10624c6"
+    },
+    {
+     "file": "crocodile-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 159,
+     "bytes": 18608,
+     "sec": 1.7194065540097654,
+     "sha256": "f144f537a785efa05d8141dd2f86e898d419d99e6380bb82563867efbbae8a67"
+    },
+    {
+     "file": "crocodile-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 212,
+     "bytes": 29620,
+     "sec": 3.4432571241632104,
+     "sha256": "22349d74524f92531e0fbc9ea93d4fc22a0677cbacc4d11e6c9fa63a4c05f453"
+    },
+    {
+     "file": "crocodile-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 318,
+     "bytes": 56910,
+     "sec": 4.783982053864747,
+     "sha256": "aa392be70fbcd5804906d9add38e43efdd4fe13dec7941422dbb344cfe8e6b69"
+    },
+    {
+     "file": "crocodile-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 26,
+     "bytes": 1485,
+     "sec": 0.0614079509396106,
+     "sha256": "bfdbb9c538984372b82ecf1adf0626be99d5091ec824eb70ff12d72e86138ce5"
+    },
+    {
+     "file": "crocodile-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 40,
+     "bytes": 2095,
+     "sec": 0.13995333714410663,
+     "sha256": "39510fee57928f7d280c0936ae48b41f01cd9b6afb94982e4f16ed7f35579ea6"
+    },
+    {
+     "file": "crocodile-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 53,
+     "bytes": 2837,
+     "sec": 0.18712396011687815,
+     "sha256": "6054bba9c454a8f59f8d36d98b177572fc3501d0191d9f224ec198f967711748"
+    },
+    {
+     "file": "crocodile-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 79,
+     "bytes": 4710,
+     "sec": 0.2773439639713615,
+     "sha256": "1271a25aa68160a657f51114f833f42bc95ea8f87a021ca009121b517ddf0f3d"
+    },
+    {
+     "file": "crocodile-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 106,
+     "bytes": 7129,
+     "sec": 0.5802058139815927,
+     "sha256": "c16b022336870548ebe9cf443702257ae765ff6287a3eeb2fa54681d2a8f09ed"
+    },
+    {
+     "file": "crocodile-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 159,
+     "bytes": 12741,
+     "sec": 0.32728485809639096,
+     "sha256": "350f18251fc651804ec29a24f75abe9ee09203ee7a3b0c4583706e8fbcf894eb"
+    },
+    {
+     "file": "crocodile-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 212,
+     "bytes": 20350,
+     "sec": 0.6300540980882943,
+     "sha256": "c101014ab97ab1110b3c6c3b74f075f00c61eaf3688591d2decbfbca91519e70"
+    },
+    {
+     "file": "crocodile-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 318,
+     "bytes": 39836,
+     "sec": 1.1453315550461411,
+     "sha256": "e86e3bca951202586edfcbbe258e53f5d85b1b542d96bed682f190ec83847648"
+    },
+    {
+     "file": "crocodile-2048-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 2048,
+     "height": 848,
+     "bytes": 1021790,
+     "sec": 1.5056405018549412,
+     "sha256": "9106dde400aad120bc70cbfadbb8baad511f495f9ac2db5cda8e05c07f9deb12"
+    }
+   ]
+  },
+  {
+   "name": "horse",
+   "group": "illustration",
+   "master": {
+    "width": 2651,
+    "height": 2390,
+    "pngBytes": 5885617
+   },
+   "widths": [
+    64,
+    96,
+    128,
+    192,
+    256,
+    384,
+    512,
+    768,
+    1024
+   ],
+   "top": 1024,
+   "totalSec": 35.759576378855854,
+   "avifSkipped": [],
+   "files": [
+    {
+     "file": "horse-1024.webp",
+     "kind": "webp",
+     "width": 1024,
+     "height": 923,
+     "bytes": 170756,
+     "sec": 5.838642884045839,
+     "sha256": "f15eae8f6202e806f35a4d40e847a7ae509aa4fe1c2c4620567ff3f196f45e40"
+    },
+    {
+     "file": "horse-1024.avif",
+     "kind": "avif",
+     "width": 1024,
+     "height": 923,
+     "bytes": 109800,
+     "sec": 3.876913671148941,
+     "sha256": "525287009ba72357ecfcecab3bc9134b5b5aa0ef0a136fc14192907d0bef326c"
+    },
+    {
+     "file": "horse-64.webp",
+     "kind": "webp",
+     "width": 64,
+     "height": 58,
+     "bytes": 2718,
+     "sec": 0.19560160185210407,
+     "sha256": "7adf3aacbf7eaafdea52dcff8a9748a9d01fe29330668b02aadb0145312a7682"
+    },
+    {
+     "file": "horse-96.webp",
+     "kind": "webp",
+     "width": 96,
+     "height": 87,
+     "bytes": 4486,
+     "sec": 0.4010668690316379,
+     "sha256": "2b4f6797ed71a1863335f9401f37d6bcf9fe59dceac33e09a9b0f4c94862253a"
+    },
+    {
+     "file": "horse-128.webp",
+     "kind": "webp",
+     "width": 128,
+     "height": 115,
+     "bytes": 6354,
+     "sec": 0.6632882878184319,
+     "sha256": "bd5ff03e5e67f7e69adcd8f05a8de7f8c30581b2e02a87de8a5f0c986717d9b4"
+    },
+    {
+     "file": "horse-192.webp",
+     "kind": "webp",
+     "width": 192,
+     "height": 173,
+     "bytes": 10904,
+     "sec": 1.1983690150082111,
+     "sha256": "017434d4267a5d9a5256e30beb7765baf9c74d8154e6a18dda121339569165b0"
+    },
+    {
+     "file": "horse-256.webp",
+     "kind": "webp",
+     "width": 256,
+     "height": 231,
+     "bytes": 16342,
+     "sec": 1.8605445860885084,
+     "sha256": "74ff8c5605b648389feb9a8fee88d727fdc38b5544e624d9c05052f7523f0dae"
+    },
+    {
+     "file": "horse-384.webp",
+     "kind": "webp",
+     "width": 384,
+     "height": 346,
+     "bytes": 30310,
+     "sec": 3.5146301360800862,
+     "sha256": "ced0d415cf68c310888720a2b919c5b2e74abe681524a57d9cccc2e92b98cfed"
+    },
+    {
+     "file": "horse-512.webp",
+     "kind": "webp",
+     "width": 512,
+     "height": 462,
+     "bytes": 49852,
+     "sec": 4.947330210125074,
+     "sha256": "c7fbccacccc4faf96c4038489695de00af0bf2e358e7198b087337def2d2708b"
+    },
+    {
+     "file": "horse-768.webp",
+     "kind": "webp",
+     "width": 768,
+     "height": 692,
+     "bytes": 103426,
+     "sec": 4.231660024030134,
+     "sha256": "5a6f4ae64f344293a8c093240b12b6ac6abbff60c7ddcb295f59474c22604bb0"
+    },
+    {
+     "file": "horse-64.avif",
+     "kind": "avif",
+     "width": 64,
+     "height": 58,
+     "bytes": 2030,
+     "sec": 0.16903024609200656,
+     "sha256": "aa444ccf13592ac9847d24ce855314a152911af15676666f6c7d049d3622346c"
+    },
+    {
+     "file": "horse-96.avif",
+     "kind": "avif",
+     "width": 96,
+     "height": 87,
+     "bytes": 3089,
+     "sec": 0.2012743300292641,
+     "sha256": "8f80b8a1e3e2ff9cf8d69672fb91e81783a6e2be216d1ae0b3fbd2af5000dce0"
+    },
+    {
+     "file": "horse-128.avif",
+     "kind": "avif",
+     "width": 128,
+     "height": 115,
+     "bytes": 4266,
+     "sec": 0.3128482310567051,
+     "sha256": "571996f42296b34ff7beb91c12585709dcb71e7e62305e054e097f058b65d55a"
+    },
+    {
+     "file": "horse-192.avif",
+     "kind": "avif",
+     "width": 192,
+     "height": 173,
+     "bytes": 7262,
+     "sec": 0.5955022489652038,
+     "sha256": "8a2e25a93fdb0f02dd5763527fc5c294af74e5c3367b9d46d87d40423784481b"
+    },
+    {
+     "file": "horse-256.avif",
+     "kind": "avif",
+     "width": 256,
+     "height": 231,
+     "bytes": 11086,
+     "sec": 0.8418604210019112,
+     "sha256": "7ae06d11f82d993f1ca0a195710283f899072f628eadd996f22db29fded680d8"
+    },
+    {
+     "file": "horse-384.avif",
+     "kind": "avif",
+     "width": 384,
+     "height": 346,
+     "bytes": 20955,
+     "sec": 0.6258377518970519,
+     "sha256": "9de775c310bbf00d61df29ac7c8e158f11f8ab4f51ca0f907fe150ce725891dc"
+    },
+    {
+     "file": "horse-512.avif",
+     "kind": "avif",
+     "width": 512,
+     "height": 462,
+     "bytes": 34420,
+     "sec": 1.0781429610215127,
+     "sha256": "b886d2aee2461cda2845ec9a5712a52ce37ddd1934bb2d7c1e08ac5bd7265edd"
+    },
+    {
+     "file": "horse-768.avif",
+     "kind": "avif",
+     "width": 768,
+     "height": 692,
+     "bytes": 67735,
+     "sec": 2.031520198099315,
+     "sha256": "0c308721f7800e41f6a6d131b7bb291a5abef449a50b5da8233756d4b82f3bbe"
+    },
+    {
+     "file": "horse-2048-lossless.webp",
+     "kind": "webp-lossless",
+     "width": 2048,
+     "height": 1846,
+     "bytes": 2391704,
+     "sec": 3.168465983821079,
+     "sha256": "49cb4e214b648430849c1e43d45abd50a4c6db81713caafe1e6ddc562b92a842"
+    }
+   ]
+  }
+ ]
+}

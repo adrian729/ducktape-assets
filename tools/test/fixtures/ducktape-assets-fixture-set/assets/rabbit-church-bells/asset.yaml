@@ -1,0 +1,25 @@
+id: rabbit-church-bells
+title: Rabbit ringing church bells
+description: A grey rabbit in a red tunic pulls two bell ropes in a marginal scene, facing left, on a transparent background.
+type: illustration
+categories: [animals, music]
+subjects: [rabbit, bells]
+colors: [gray, red, gold]
+facing: left
+view: side
+composition: single-figure
+group: 194v
+render: { image: {} }
+related:
+  - { asset: fixture-set/stepped-ribbon, role: companion }
+usage_notes: [Complete scene; keep proportions.]
+display_width: [200, 400]
+status: approved
+created: 2026-11-02
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_identifier: W.82
+  image_rights: CC0-1.0
+license: null

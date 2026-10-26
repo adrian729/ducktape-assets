@@ -1,0 +1,12 @@
+id: fixture-set
+title: Fixture set
+summary: A two-asset set used only by the tooling tests.
+kind: historical
+author: adrian729
+maintainer: https://github.com/adrian729/ducktape-assets/issues
+license: { artwork: CC0-1.0 }
+period: 14th century
+region: Flanders
+style: illuminated manuscript
+origin: { institution: Walters Art Museum, object_identifier: W.82 }
+tags: [fixture]

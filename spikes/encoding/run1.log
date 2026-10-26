@@ -1,0 +1,62 @@
+[border] gold-quatrefoil-vine 1024x384 png=60337 rungs=64,96,128,192,256,384,512,768,1024
+   total 12.5s
+[border] red-berry-vine 1024x384 png=43008 rungs=64,96,128,192,256,384,512,768,1024
+   total 14.5s
+[border] rosselli-foliate-border 274x438 png=309999 rungs=64,96,128,192,256,274
+   total 34.6s
+[border] white-curling-vine-on-blue-repeat 310x111 png=65227 rungs=64,96,128,192,256,310
+   total 3.6s
+[border] upright-palmettes-and-four-lobed-scroll-cycle 451x184 png=63497 rungs=64,96,128,192,256,384,451
+   total 24.5s
+[border] gray-red-blue-lobed-leaves-in-gold-medallions-cycle 1949x682 png=2088148 rungs=64,96,128,192,256,384,512,768,1024,1536,1949
+   total 21.7s
+[border] opposed-blue-red-leaves-with-gray-interlace-cycle 604x2618 png=2126526 rungs=64,96,128,192,256,384,512,604
+   total 29.5s
+[border] white-foliate-wave-on-blue 359x155 png=95968 rungs=64,96,128,192,256,359
+   total 2.2s
+[border] ivy-manuscript-frame 1536x1024 png=784702 rungs=64,96,128,192,256,384,512,768,1024,1536
+   total 45.8s
+[border] hoefnagel-strapwork-frame 1420x1058 png=2769350 rungs=64,96,128,192,256,384,512,768,1024,1420
+   total 113.5s
+[border] isabella-gold-floral-frame 909x1418 png=1882426 rungs=64,96,128,192,256,384,512,768,909
+   total 61.4s
+[border] palmette-scroll-printer-frame 2164x1762 png=1008128 rungs=64,96,128,192,256,384,512,768,1024,1536,2048
+   total 112.8s
+[border] ivy-corner 1254x1254 png=267736 rungs=64,96,128,192,256,384,512,768,1024,1254
+   total 51.4s
+[border] illuminated-acanthus-corner 1266x1243 png=979245 rungs=64,96,128,192,256,384,512,768,1024,1266
+   total 59.3s
+[border] oak-leaf-corner-flourish 1091x1386 png=2176776 rungs=64,96,128,192,256,384,512,768,1024,1091
+   total 105.0s
+[border] illuminated-acanthus-corner-top-right 1312x1199 png=1085477 rungs=64,96,128,192,256,384,512,768,1024,1312
+   total 69.4s
+[border] briar-divider 2172x724 png=393542 rungs=64,96,128,192,256,384,512,768,1024,1536,2048
+   total 38.8s
+[border] gold-lozenge-divider-center 1536x1024 png=1270248 rungs=64,96,128,192,256,384,512,768,1024,1536
+   total 35.1s
+[border] gold-cinquefoil-divider-end 1536x1024 png=1111079 rungs=64,96,128,192,256,384,512,768,1024,1536
+   total 32.2s
+[border] illuminated-acanthus-divider-center 1774x887 png=1793989 rungs=64,96,128,192,256,384,512,768,1024,1536,1774
+   total 81.6s
+[illustration] complete-circular-wind-diagram-with-twelve-profile-heads 5422x5503 png=27277259 rungs=64,96,128,192,256,384,512,768,1024,1536,2048
+   total 207.8s SKIPPED AVIF 64,96,128,192,256,384,512,768,1024,1536
+[illustration] complete-apostle-city-scene-with-blue-vine-frame 3769x3137 png=17137537 rungs=64,96,128,192,256,384,512,768,1024,1536,2048
+   total 110.8s
+[illustration] three-couples-in-garden-under-painted-arcade 3310x981 png=6285624 rungs=64,96,128,192,256,384,512,768,1024,1536,2048
+   total 54.0s
+[illustration] crocodile 3286x1360 png=3923043 rungs=64,96,128,192,256,384,512,768,1024,1536,2048
+   total 57.3s
+[illustration] courting-landscape-with-trees-flock-and-distant-town 3214x601 png=1035988 rungs=64,96,128,192,256,384,512,768,1024,1536,2048
+   total 119.9s
+[illustration] elephant 2916x2102 png=7667026 rungs=64,96,128,192,256,384,512,768,1024,1536,2048
+   total 85.5s
+[illustration] beaver 2824x1154 png=4063030 rungs=64,96,128,192,256,384,512,768,1024,1536,2048
+   total 56.7s
+[illustration] armored-rhinoceros 2762x1922 png=8188499 rungs=64,96,128,192,256,384,512,768,1024,1536,2048
+   total 84.4s
+[illustration] hairy-hunter-and-diving-bird-in-columned-pond-scene 2702x909 png=3051402 rungs=64,96,128,192,256,384,512,768,1024,1536,2048
+   total 56.1s
+[illustration] horse 2651x2390 png=5885617 rungs=64,96,128,192,256,384,512,768,1024,1536,2048
+   total 90.2s
+done 1874.9s
+node bench.mjs out/run1 results-run1.json  1872.69s user 2.42s system 100% cpu 31:15.04 total

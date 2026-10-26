@@ -1,0 +1,3 @@
+# Search local working notes even though Git excludes them.
+!/tmp/
+!/tmp/**

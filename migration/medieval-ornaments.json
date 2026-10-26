@@ -1,0 +1,1530 @@
+{
+  "schema": 1,
+  "source": {
+    "runtime": "@ranx729/medieval-ornaments",
+    "runtimeVersion": "0.12.0",
+    "catalog": "images.json@efe40e4"
+  },
+  "entries": [
+    {
+      "old": {
+        "name": "anafiles",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/anafiles.png",
+        "masterSha256": "d0a6f6b04500a772ea2a4dd98caccdd6264ca3325c0a869fc60febc42dd9f603"
+      },
+      "new": {
+        "id": "medieval-cutouts/anafiles",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "wave 1 (allow, polyhymnia)"
+    },
+    {
+      "old": {
+        "name": "animal-choir-landscape",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/animal-choir-landscape.png",
+        "masterSha256": "533314305600a900fc5f287b8776f12a5d968d5c36a594fc1ce45ccd5a8c469c"
+      },
+      "new": {
+        "id": "medieval-cutouts/animal-choir-landscape",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "wave 1 (allow, polyhymnia)"
+    },
+    {
+      "old": {
+        "name": "animal-musicians-ensemble",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/animal-musicians-ensemble.png",
+        "masterSha256": "1fc42afde12f159fe69614c9577c3a62b6e084904273ee9b3674763ded745c17"
+      },
+      "new": {
+        "id": "medieval-cutouts/animal-musicians-ensemble",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "wave 1 (allow, polyhymnia)"
+    },
+    {
+      "old": {
+        "name": "bird-wind-player",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/bird-wind-player.png",
+        "masterSha256": "9946916ace678672aeeada86b9c64c90121bafcc9629d6d69215601066052713"
+      },
+      "new": {
+        "id": "medieval-cutouts/bird-wind-player",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "boar-lute-player",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/boar-lute-player.png",
+        "masterSha256": "5c77ba66f9c833ade22f0c71dbb4d2d49850f6c24b89b08a124a3d67dd29e5ba"
+      },
+      "new": {
+        "id": "medieval-cutouts/boar-lute-player",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "bunny-harp",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/bunny-harp.png",
+        "masterSha256": "cd3eab8538c8ac52ca0108703be6964d732e480b61ce065059ebf573c86d4f0f"
+      },
+      "new": {
+        "id": "medieval-cutouts/bunny-harp",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "bunny-trumpet",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/bunny-trumpet.png",
+        "masterSha256": "154d3fd4136e67329dafe6c0637683f0a518e9b410381a2312299e3992b6cb91"
+      },
+      "new": {
+        "id": "medieval-cutouts/bunny-trumpet",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "wave 1 (allow, polyhymnia)"
+    },
+    {
+      "old": {
+        "name": "canine-fiddle-player",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/canine-fiddle-player.png",
+        "masterSha256": "39c74aef51269ee361dd90c54c1d29f7fd698ff7de0a31e0858fec2c0a3e693a"
+      },
+      "new": {
+        "id": "medieval-cutouts/canine-fiddle-player",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "cat-reading-book",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/cat-reading-book.png",
+        "masterSha256": "9ddc267cdf6f4683ff1678bbf87ed0eac8c3ebf5597b10bca8c678dc9b75c98c"
+      },
+      "new": {
+        "id": "medieval-cutouts/cat-reading-book",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "wave 1 (allow, polyhymnia)"
+    },
+    {
+      "old": {
+        "name": "creature-in-gold-shape",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/creature-in-gold-shape.png",
+        "masterSha256": "77e39e156300ef49c96fef20b67b7d98b01909b9a76437c0f7f1439e1b307c5d"
+      },
+      "new": {
+        "id": "medieval-cutouts/creature-in-gold-shape",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "crowned-cat",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/crowned-cat.png",
+        "masterSha256": "82c391e6ee57f96e58c9658ed19bd89d6c51088596ecdc2305d9d1fbdc0d1f51"
+      },
+      "new": {
+        "id": "medieval-cutouts/crowned-cat",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "curled-cat",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/curled-cat.png",
+        "masterSha256": "f2cf77ec86b2edb5e854b37436c6a13ab0db61a138a158b183c81f64930df3a2"
+      },
+      "new": {
+        "id": "medieval-cutouts/curled-cat",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "donkey-organist",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/donkey-organist.png",
+        "masterSha256": "5666ef316b70e1a8554420a66f9a1981d5323273de7ee26422a010b9d778dd7f"
+      },
+      "new": {
+        "id": "medieval-cutouts/donkey-organist",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "wave 1 (allow, polyhymnia)"
+    },
+    {
+      "old": {
+        "name": "donkey-rooster-lute-player",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/donkey-rooster-lute-player.png",
+        "masterSha256": "bb3875e1cba7303f8162ded72c6b7c0a67f31203e475478969500bd234d625c9"
+      },
+      "new": {
+        "id": "medieval-cutouts/donkey-rooster-lute-player",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "fish-with-arms",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/fish-with-arms.png",
+        "masterSha256": "ec290a9ddfa3af0aeb4472b76ba9fd7214f8396e9e81f36efd85b69ac995d234"
+      },
+      "new": {
+        "id": "medieval-cutouts/fish-with-arms",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "flying-pig",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/flying-pig.png",
+        "masterSha256": "ec32de42ffab8e4c1113b813573795680bf9c682f6f221eb54c928bb64e3eff1"
+      },
+      "new": {
+        "id": "medieval-cutouts/flying-pig",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "wave 1 (allow, elder-scrolls)"
+    },
+    {
+      "old": {
+        "name": "frog",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/frog.png",
+        "masterSha256": "21a83ff5e437a6249f279fa8c0e8447bec4595000d83003b72140f06d2f8ce8f"
+      },
+      "new": {
+        "id": "medieval-cutouts/frog",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "funny-faced-lying-cat",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/funny-faced-lying-cat.png",
+        "masterSha256": "91556f10f6ca2615f1735acfdd56dac3571e0ee13ee2dd2373462f437411f37a"
+      },
+      "new": {
+        "id": "medieval-cutouts/funny-faced-lying-cat",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "hooded-bagpiper",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/hooded-bagpiper.png",
+        "masterSha256": "017623cdf62d550d8ce3b20feea7e9484d3e91a751de31cb0e5bb7a1d9cd3639"
+      },
+      "new": {
+        "id": "medieval-cutouts/hooded-bagpiper",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "hooded-harp-player",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/hooded-harp-player.png",
+        "masterSha256": "588e0f79e94dc80bf16030d969e7aa4186dd9bd7dc20c3ecb604e2124d8d8af0"
+      },
+      "new": {
+        "id": "medieval-cutouts/hooded-harp-player",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-corner-bottom-left",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/illuminated-acanthus-corner-bottom-left.png",
+        "masterSha256": "f59a62c6117094d660fcf626b5aa6968cba326dcde58f977e9f2fe792a3648ee"
+      },
+      "new": {
+        "id": "illuminated-acanthus/corner-bottom-left",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "prefix stripped from \"illuminated-acanthus-corner-bottom-left\"; wave 1 (allow, polyhymnia)"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-corner-bottom-right",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/illuminated-acanthus-corner-bottom-right.png",
+        "masterSha256": "b9d4bfd49f703ef8da6a72022b824a2777d194164f4621399883b0f0ce397d20"
+      },
+      "new": {
+        "id": "illuminated-acanthus/corner-bottom-right",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "prefix stripped from \"illuminated-acanthus-corner-bottom-right\"; wave 1 (allow, polyhymnia)"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-corner-top-right",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/illuminated-acanthus-corner-top-right.png",
+        "masterSha256": "ae9df8cb540c2d463d0c3ef0c91ff205353019f58304b882cd4cbf4456de8256"
+      },
+      "new": {
+        "id": "illuminated-acanthus/corner-top-right",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "prefix stripped from \"illuminated-acanthus-corner-top-right\"; wave 1 (allow, polyhymnia)"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-corner",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/illuminated-acanthus-corner.png",
+        "masterSha256": "3fccef2495b7406f25856f249464b88bfe52b4705348f387211ff40375b47a6f"
+      },
+      "new": {
+        "id": "illuminated-acanthus/corner",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "prefix stripped from \"illuminated-acanthus-corner\"; wave 1 (allow, polyhymnia)"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-divider-center",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-010",
+        "version": "0.1.2",
+        "path": "png/illuminated-acanthus-divider-center.png",
+        "masterSha256": "0b03e7b3763d3d1fc86dce9481e37e53c80019e55f6a998f1f20e9b38a63d74a"
+      },
+      "new": {
+        "id": "illuminated-acanthus/divider-center",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "prefix stripped from \"illuminated-acanthus-divider-center\"; wave 1 (allow, polyhymnia)"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-divider-end",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-010",
+        "version": "0.1.2",
+        "path": "png/illuminated-acanthus-divider-end.png",
+        "masterSha256": "257a07046d072910be67e0d5ed962c2867905d267466ed4f6d0b53933baa6550"
+      },
+      "new": {
+        "id": "illuminated-acanthus/divider-end",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "prefix stripped from \"illuminated-acanthus-divider-end\"; wave 1 (allow, polyhymnia)"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-divider-start",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-010",
+        "version": "0.1.2",
+        "path": "png/illuminated-acanthus-divider-start.png",
+        "masterSha256": "719fd5688ffb1bdf9b33a354d8d362a0bd4d57bd46af78dd00b5d37bfb4de0dd"
+      },
+      "new": {
+        "id": "illuminated-acanthus/divider-start",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "prefix stripped from \"illuminated-acanthus-divider-start\"; wave 1 (allow, polyhymnia)"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-floral-frame",
+        "package": "@ranx729/medieval-ornaments-assets-polyhymnia",
+        "version": "0.0.0",
+        "path": "output/imagegen/illuminated-acanthus-floral-frame.png",
+        "masterSha256": "542b0cadebd786d25ccc1d47880e0d3bfb4d5e185263384d892ada4ac2716963"
+      },
+      "new": {
+        "id": "illuminated-acanthus/floral-frame",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "polyhymnia packages/homepage-art/catalog.json; output/imagegen png is 1410x1116; delivered cropped lossless webp is 1367x1000; the png is the uncropped generation, decide which is the master; prefix stripped from \"illuminated-acanthus-floral-frame\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-frame-growth-bottom-left",
+        "package": "@ranx729/medieval-ornaments-assets-polyhymnia",
+        "version": "0.0.0",
+        "path": "output/imagegen/illuminated-acanthus-frame-growth-bottom-left.png",
+        "masterSha256": "d56968b496f13610801c5edaf0663ba68574cba1395e104f81334992dd640223"
+      },
+      "new": {
+        "id": "illuminated-acanthus/frame-growth-bottom-left",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-frame-growth-bottom-left\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-frame-growth-bottom-right",
+        "package": "@ranx729/medieval-ornaments-assets-polyhymnia",
+        "version": "0.0.0",
+        "path": "output/imagegen/illuminated-acanthus-frame-growth-bottom-right.png",
+        "masterSha256": "579d6deb9efc0d7b9b501210f6e5f33540e33c110f2c378a7c177e97f072abfa"
+      },
+      "new": {
+        "id": "illuminated-acanthus/frame-growth-bottom-right",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-frame-growth-bottom-right\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-frame-growth-top-left",
+        "package": "@ranx729/medieval-ornaments-assets-polyhymnia",
+        "version": "0.0.0",
+        "path": "output/imagegen/illuminated-acanthus-frame-growth-top-left.png",
+        "masterSha256": "5911401c1a975c954999a1a47be93c65e045f6b158a681d38bb586e40e1d6f8b"
+      },
+      "new": {
+        "id": "illuminated-acanthus/frame-growth-top-left",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-frame-growth-top-left\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-frame-growth-top-right",
+        "package": "@ranx729/medieval-ornaments-assets-polyhymnia",
+        "version": "0.0.0",
+        "path": "output/imagegen/illuminated-acanthus-frame-growth-top-right.png",
+        "masterSha256": "18c198a5f645a78fb5b4298c2ce993b95145cbd9932a943b61c4fd7fe287fa99"
+      },
+      "new": {
+        "id": "illuminated-acanthus/frame-growth-top-right",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-frame-growth-top-right\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-frame",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/illuminated-acanthus-frame.png",
+        "masterSha256": "9730a1373ff85f88def604756c297d1fa1fe8097b0b87bc60a6b802dba65d319"
+      },
+      "new": {
+        "id": "illuminated-acanthus/frame",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "prefix stripped from \"illuminated-acanthus-frame\"; wave 1 (set)"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-headpiece",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/illuminated-acanthus-headpiece.png",
+        "masterSha256": "83c6fc9a6318ee1061604b85b2c05ba3c0fc1f7392a6d9a9b413112d53e6ffbb"
+      },
+      "new": {
+        "id": "illuminated-acanthus/headpiece",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "prefix stripped from \"illuminated-acanthus-headpiece\"; wave 1 (allow, polyhymnia)"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-horizontal-flourish",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-010",
+        "version": "0.1.2",
+        "path": "png/illuminated-acanthus-horizontal-flourish.png",
+        "masterSha256": "957ca7099a78197c00a2bc0f683c4d8c65cbe600e88db749ab3523bf7119e722"
+      },
+      "new": {
+        "id": "illuminated-acanthus/horizontal-flourish",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "prefix stripped from \"illuminated-acanthus-horizontal-flourish\"; wave 1 (allow, polyhymnia)"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-inward-growth-bottom-left",
+        "package": "@ranx729/medieval-ornaments-assets-polyhymnia",
+        "version": "0.0.0",
+        "path": "output/imagegen/illuminated-acanthus-inward-growth-bottom-left.png",
+        "masterSha256": "ffa442cc8dc35d06bf965cc1054391ae19acdad5c875e8a75e9c0564930e09e6"
+      },
+      "new": {
+        "id": "illuminated-acanthus/inward-growth-bottom-left",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-inward-growth-bottom-left\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-inward-growth-bottom-right",
+        "package": "@ranx729/medieval-ornaments-assets-polyhymnia",
+        "version": "0.0.0",
+        "path": "output/imagegen/illuminated-acanthus-inward-growth-bottom-right.png",
+        "masterSha256": "9021f8d484a1fbb840772cd1f90cc6080ba6e95a3a2fc190cb69d0ec9f019614"
+      },
+      "new": {
+        "id": "illuminated-acanthus/inward-growth-bottom-right",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-inward-growth-bottom-right\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-inward-growth-top-left",
+        "package": "@ranx729/medieval-ornaments-assets-polyhymnia",
+        "version": "0.0.0",
+        "path": "output/imagegen/illuminated-acanthus-inward-growth-top-left.png",
+        "masterSha256": "7547131cb76f8b96cfc17c2bae9e1a880366e61f0ab9d0476527d4f58b5f82d9"
+      },
+      "new": {
+        "id": "illuminated-acanthus/inward-growth-top-left",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-inward-growth-top-left\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-inward-growth-top-right",
+        "package": "@ranx729/medieval-ornaments-assets-polyhymnia",
+        "version": "0.0.0",
+        "path": "output/imagegen/illuminated-acanthus-inward-growth-top-right.png",
+        "masterSha256": "c8807f5ac62129b7c4da3b27f7040c7062c0aa6801407c5827aed166de87d0b4"
+      },
+      "new": {
+        "id": "illuminated-acanthus/inward-growth-top-right",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-inward-growth-top-right\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-leaf-sprig",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-010",
+        "version": "0.1.2",
+        "path": "png/illuminated-acanthus-leaf-sprig.png",
+        "masterSha256": "c9dc73c1b421eee8fdce617c069bb59e716137c473e060ef9f9e7c69d3a1f94c"
+      },
+      "new": {
+        "id": "illuminated-acanthus/leaf-sprig",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "prefix stripped from \"illuminated-acanthus-leaf-sprig\"; wave 1 (set)"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-module-sprig",
+        "package": "@ranx729/medieval-ornaments-assets-polyhymnia",
+        "version": "0.0.0",
+        "path": "packages/homepage-art/webp/illuminated-acanthus-module-sprig.webp",
+        "masterSha256": "5ddee1fa25b074359198954bbbb06f987e4c9e11da90ac0ef8f6ebd3d1213faf"
+      },
+      "new": {
+        "id": "illuminated-acanthus/module-sprig",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "polyhymnia packages/homepage-art/catalog.json; no png in output/imagegen; lossless webp from packages/homepage-art is the only master; prefix stripped from \"illuminated-acanthus-module-sprig\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-ornate-inner-frame",
+        "package": "@ranx729/medieval-ornaments-assets-polyhymnia",
+        "version": "0.0.0",
+        "path": "output/imagegen/illuminated-acanthus-ornate-inner-frame.png",
+        "masterSha256": "147010bc7e6046859e9c885389063cda366247cec707f76b171e222ee91b5112"
+      },
+      "new": {
+        "id": "illuminated-acanthus/ornate-inner-frame",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-ornate-inner-frame\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-rosette",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-010",
+        "version": "0.1.2",
+        "path": "png/illuminated-acanthus-rosette.png",
+        "masterSha256": "ef2ed4e8ff1b0435e06be41703b51d5a8a16254c39d31196230d4f790293d559"
+      },
+      "new": {
+        "id": "illuminated-acanthus/rosette",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "prefix stripped from \"illuminated-acanthus-rosette\"; wave 1 (allow, polyhymnia)"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-saltarello-lower-finished",
+        "package": "@ranx729/medieval-ornaments-assets-polyhymnia",
+        "version": "0.0.0",
+        "path": "output/imagegen/illuminated-acanthus-saltarello-lower-finished.png",
+        "masterSha256": "08b1f6e22c1044b9d9582236ba533b2b53563f1e30cba20afc91f2ea48aaf51b"
+      },
+      "new": {
+        "id": "illuminated-acanthus/saltarello-lower-finished",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-saltarello-lower-finished\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-saltarello-lower-simple",
+        "package": "@ranx729/medieval-ornaments-assets-polyhymnia",
+        "version": "0.0.0",
+        "path": "output/imagegen/illuminated-acanthus-saltarello-lower-simple.png",
+        "masterSha256": "ccd7d454ffe285b5b0a74180ec0d4beed9b735bfbe8dff2764852827bf455d27"
+      },
+      "new": {
+        "id": "illuminated-acanthus/saltarello-lower-simple",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-saltarello-lower-simple\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-saltarello-lower",
+        "package": "@ranx729/medieval-ornaments-assets-polyhymnia",
+        "version": "0.0.0",
+        "path": "output/imagegen/illuminated-acanthus-saltarello-lower.png",
+        "masterSha256": "ee11efb3361712d96dfd2cd3d3f414d2db1aeb7a03e041a7de31afe3169f6c91"
+      },
+      "new": {
+        "id": "illuminated-acanthus/saltarello-lower",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-saltarello-lower\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-saltarello-upper-finished",
+        "package": "@ranx729/medieval-ornaments-assets-polyhymnia",
+        "version": "0.0.0",
+        "path": "output/imagegen/illuminated-acanthus-saltarello-upper-finished.png",
+        "masterSha256": "ccc545279dd8d3e8956de347cb8df31dddaf66c351befb9053c70b1d76431fed"
+      },
+      "new": {
+        "id": "illuminated-acanthus/saltarello-upper-finished",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-saltarello-upper-finished\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-saltarello-upper-simple",
+        "package": "@ranx729/medieval-ornaments-assets-polyhymnia",
+        "version": "0.0.0",
+        "path": "output/imagegen/illuminated-acanthus-saltarello-upper-simple.png",
+        "masterSha256": "4104f616bc7749d7a3d3820259777d38334643207ef93dc65f9cab4893daf32a"
+      },
+      "new": {
+        "id": "illuminated-acanthus/saltarello-upper-simple",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-saltarello-upper-simple\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-saltarello-upper",
+        "package": "@ranx729/medieval-ornaments-assets-polyhymnia",
+        "version": "0.0.0",
+        "path": "output/imagegen/illuminated-acanthus-saltarello-upper.png",
+        "masterSha256": "9594d933220c147a2003ebaede4a9591404c869db8d122edd0c2aa97683d2777"
+      },
+      "new": {
+        "id": "illuminated-acanthus/saltarello-upper",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "polyhymnia packages/homepage-art/catalog.json; prefix stripped from \"illuminated-acanthus-saltarello-upper\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-section-fleuron",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-010",
+        "version": "0.1.2",
+        "path": "png/illuminated-acanthus-section-fleuron.png",
+        "masterSha256": "1072e9d598c5dacdf256a68bd5d2c082da86c424483ec1c8c2fffbf1f90632f9"
+      },
+      "new": {
+        "id": "illuminated-acanthus/section-fleuron",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "prefix stripped from \"illuminated-acanthus-section-fleuron\"; wave 1 (allow, polyhymnia)"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-tailpiece",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/illuminated-acanthus-tailpiece.png",
+        "masterSha256": "e50ade4e62b8bb74217f85172931f859b51103d53b119214b722693315e0ec19"
+      },
+      "new": {
+        "id": "illuminated-acanthus/tailpiece",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "prefix stripped from \"illuminated-acanthus-tailpiece\"; wave 1 (set)"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-title-ivy",
+        "package": "@ranx729/medieval-ornaments-assets-polyhymnia",
+        "version": "0.0.0",
+        "path": "packages/homepage-art/webp/illuminated-acanthus-title-ivy.webp",
+        "masterSha256": "440f4068a8d384a0db985f7de833960313729ea2c256db0755129596346b5884"
+      },
+      "new": {
+        "id": "illuminated-acanthus/title-ivy",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "polyhymnia packages/homepage-art/catalog.json; no png in output/imagegen; lossless webp from packages/homepage-art is the only master; prefix stripped from \"illuminated-acanthus-title-ivy\"; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+    },
+    {
+      "old": {
+        "name": "illuminated-acanthus-vertical-sprig",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-010",
+        "version": "0.1.2",
+        "path": "png/illuminated-acanthus-vertical-sprig.png",
+        "masterSha256": "10dd352b88e829b3077e1eb0d36cc37d6b5eebfec87ea9ba2acb1093f4259f42"
+      },
+      "new": {
+        "id": "illuminated-acanthus/vertical-sprig",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "prefix stripped from \"illuminated-acanthus-vertical-sprig\"; wave 1 (set)"
+    },
+    {
+      "old": {
+        "name": "lizard-lute-player",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/lizard-lute-player.png",
+        "masterSha256": "b61ae1ea4dbffa3d52f2c1444c233a9952e17bc647515cb7e76c76c7c7c6555f"
+      },
+      "new": {
+        "id": "medieval-cutouts/lizard-lute-player",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "musician-r1-c1-organ-player",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/musician-r1-c1-organ-player.png",
+        "masterSha256": "78d2476ca5fb52380d1fdd5028db424fce958d9738d24613e4d82141d1cf6446"
+      },
+      "new": {
+        "id": "medieval-cutouts/musician-r1-c1-organ-player",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "musician-r1-c2-shawm-player",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/musician-r1-c2-shawm-player.png",
+        "masterSha256": "227e4c8b0211cdb8244ab223a7bce0d6514705c3c498b3cb48e4969945f15370"
+      },
+      "new": {
+        "id": "medieval-cutouts/musician-r1-c2-shawm-player",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "musician-r1-c3-horn-player",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/musician-r1-c3-horn-player.png",
+        "masterSha256": "b3e87255aca66bff4232239c9047091a659f353575360cae8a593d3a84ae7e6a"
+      },
+      "new": {
+        "id": "medieval-cutouts/musician-r1-c3-horn-player",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "musician-r1-c4-horn-player",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/musician-r1-c4-horn-player.png",
+        "masterSha256": "c6ab36381c5a92ce645846d552c4466c23cd0b509d398f9c13b76950de15eece"
+      },
+      "new": {
+        "id": "medieval-cutouts/musician-r1-c4-horn-player",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "musician-r2-c1-bagpiper",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/musician-r2-c1-bagpiper.png",
+        "masterSha256": "db027776505ab16888426d6657acfb3c80788e09e3bb1bf3671886328720e3ac"
+      },
+      "new": {
+        "id": "medieval-cutouts/musician-r2-c1-bagpiper",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "musician-r2-c2-bagpiper",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/musician-r2-c2-bagpiper.png",
+        "masterSha256": "30d7a40fb7469231af8fc2535352258c76256a01c8e0c176abb215d5a081c93e"
+      },
+      "new": {
+        "id": "medieval-cutouts/musician-r2-c2-bagpiper",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "musician-r2-c3-horn-player",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/musician-r2-c3-horn-player.png",
+        "masterSha256": "f9918f8d7b69b3e0660c40bb1ac9f36719cdaafa3e7dde4bf731cce71b5d84aa"
+      },
+      "new": {
+        "id": "medieval-cutouts/musician-r2-c3-horn-player",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "musician-r2-c4-psaltery-player",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/musician-r2-c4-psaltery-player.png",
+        "masterSha256": "87635205e1ba514e3462751bd90c38582efda8c42ceda293aa8004ba280cf01b"
+      },
+      "new": {
+        "id": "medieval-cutouts/musician-r2-c4-psaltery-player",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "musician-r3-c1-bagpiper",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/musician-r3-c1-bagpiper.png",
+        "masterSha256": "8b85a8364e80f532b8a894d8a8ed16e4ce7bb33a960beebf26d8d8084e1b95bd"
+      },
+      "new": {
+        "id": "medieval-cutouts/musician-r3-c1-bagpiper",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "musician-r3-c2-lute-player",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/musician-r3-c2-lute-player.png",
+        "masterSha256": "c6af805c572dbc3f4a70194930d574ea12275a105a41ff5e1434b6cd8aa11eb6"
+      },
+      "new": {
+        "id": "medieval-cutouts/musician-r3-c2-lute-player",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "musician-r3-c3-lute-player",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/musician-r3-c3-lute-player.png",
+        "masterSha256": "1a6dee4f659ba0f794fa90960be710798e3a606fdb4dac1fd1a585b5249b8560"
+      },
+      "new": {
+        "id": "medieval-cutouts/musician-r3-c3-lute-player",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "musician-r3-c4-pipe-player",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/musician-r3-c4-pipe-player.png",
+        "masterSha256": "b7d884c511d853078873443a8ac680e4ce4f7316f8475f5846ba2078633096d5"
+      },
+      "new": {
+        "id": "medieval-cutouts/musician-r3-c4-pipe-player",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "musicians-and-dancers",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/musicians-and-dancers.png",
+        "masterSha256": "557d179711fd82645fbd9c59dd74a8b0c12cadea034ba3667e59a4e383862f6e"
+      },
+      "new": {
+        "id": "medieval-cutouts/musicians-and-dancers",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "wave 1 (allow, polyhymnia)"
+    },
+    {
+      "old": {
+        "name": "polyhymnia-logo-acanthus",
+        "package": "@ranx729/medieval-ornaments-assets-polyhymnia",
+        "version": "0.0.0",
+        "path": "src/assets/logo/polyhymnia-logo-acanthus.svg#data-uri",
+        "masterSha256": "7ecb5dcb309dbaf4875476d55ff1d31100dc2abe6e50e8eb005f5889a74f4c80"
+      },
+      "new": {
+        "id": "illuminated-acanthus/polyhymnia-logo-acanthus",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "PNG extracted from data URI in polyhymnia-logo-acanthus.svg (no standalone PNG on disk); descriptor 1254x1254; sha256 matches descriptor; wave 1 (set); metadata drafted from the polyhymnia catalog and the id only; review fully"
+    },
+    {
+      "old": {
+        "name": "polyhymnia",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/polyhymnia.png",
+        "masterSha256": "a05e90a85595bdf82155f83e9ef672d14f971cf4a89d5d5de61d9df99d4d1d6c"
+      },
+      "new": {
+        "id": "illuminated-acanthus/polyhymnia",
+        "set": "illuminated-acanthus",
+        "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "style test: acanthus; wave 1 (allow, polyhymnia)"
+    },
+    {
+      "old": {
+        "name": "rabbit-bagpiper",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/rabbit-bagpiper.png",
+        "masterSha256": "90ed9d9842f72187417fd2c627c820b2dfc4bcd111370a06109c20bf2711a34b"
+      },
+      "new": {
+        "id": "medieval-cutouts/rabbit-bagpiper",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "rabbit-reading-book",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/rabbit-reading-book.png",
+        "masterSha256": "4eaa304c74e076f77f983c8c012e85b7330f62df3424748158038152eaf366c1"
+      },
+      "new": {
+        "id": "medieval-cutouts/rabbit-reading-book",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "wave 1 (allow, elder-scrolls)"
+    },
+    {
+      "old": {
+        "name": "seated-rabbit",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/seated-rabbit.png",
+        "masterSha256": "a48866e44eb0372e518163b850e939025d43c1509d1bde787d933f137c984167"
+      },
+      "new": {
+        "id": "medieval-cutouts/seated-rabbit",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "snail",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/snail.png",
+        "masterSha256": "30cbfe5c14767da285c33f5ef2ea5f6b2200658cd2fb90e35d10b2d63a9aa5b9"
+      },
+      "new": {
+        "id": "medieval-cutouts/snail",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "wave 1 (allow, elder-scrolls)"
+    },
+    {
+      "old": {
+        "name": "walters-centaur-archer",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/walters-centaur-archer.png",
+        "masterSha256": "a09de23ddbefa20d1c3a7f19b15ee7e2049f977e81aed9a8e0989f1713631d17"
+      },
+      "new": {
+        "id": "walters-w102/centaur-archer",
+        "set": "walters-w102",
+        "package": "@ranx729/ducktape-assets-walters-w102",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-walters-w102-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "prefix stripped from \"walters-centaur-archer\""
+    },
+    {
+      "old": {
+        "name": "walters-elephant-castle",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/walters-elephant-castle.png",
+        "masterSha256": "d43ccfb2764fedffb924418fe9eeee13c7f8ad15add0dd9e0c20246102cd3a78"
+      },
+      "new": {
+        "id": "walters-w102/elephant-castle",
+        "set": "walters-w102",
+        "package": "@ranx729/ducktape-assets-walters-w102",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-walters-w102-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "prefix stripped from \"walters-elephant-castle\""
+    },
+    {
+      "old": {
+        "name": "walters-horse-flute-drum",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/walters-horse-flute-drum.png",
+        "masterSha256": "a8073018c73664bed7580272dac5be3750ea9a11148aa3616bc24004cc24535f"
+      },
+      "new": {
+        "id": "walters-w102/horse-flute-drum",
+        "set": "walters-w102",
+        "package": "@ranx729/ducktape-assets-walters-w102",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-walters-w102-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "prefix stripped from \"walters-horse-flute-drum\"; wave 1 (allow, polyhymnia)"
+    },
+    {
+      "old": {
+        "name": "walters-rabbit-church-bells",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/walters-rabbit-church-bells.png",
+        "masterSha256": "a7155c3d583e3e5beba0f0e801de8ac385e1089240479a3f9a1a9e4fa633c038"
+      },
+      "new": {
+        "id": "walters-w102/rabbit-church-bells",
+        "set": "walters-w102",
+        "package": "@ranx729/ducktape-assets-walters-w102",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-walters-w102-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "prefix stripped from \"walters-rabbit-church-bells\""
+    },
+    {
+      "old": {
+        "name": "weird-dog",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/weird-dog.png",
+        "masterSha256": "4a5c2a654d70594d37ec83d31c798da304124ca461fdf417ababd9aee2049d58"
+      },
+      "new": {
+        "id": "medieval-cutouts/weird-dog",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "wave 1 (allow, elder-scrolls)"
+    },
+    {
+      "old": {
+        "name": "white-animal-bagpiper",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/white-animal-bagpiper.png",
+        "masterSha256": "48db8fdf6076f5f561c307a886c4997b1db7f0fbf1e69694ae122cc406f84cdb"
+      },
+      "new": {
+        "id": "medieval-cutouts/white-animal-bagpiper",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "winged-rabbit",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
+        "version": "0.2.0",
+        "path": "png/winged-rabbit.png",
+        "masterSha256": "86a4b6531d3fc2fa278659b9ce593d0eae0bc7226c402db733f17a84d7515899"
+      },
+      "new": {
+        "id": "medieval-cutouts/winged-rabbit",
+        "set": "medieval-cutouts",
+        "package": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    }
+  ]
+}

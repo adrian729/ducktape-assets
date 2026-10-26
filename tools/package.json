@@ -1,0 +1,35 @@
+{
+  "name": "@ranx729/ducktape-assets-tools",
+  "version": "0.0.0",
+  "description": "CLI for the Ducktape Assets library: validate, build, preview, plan, publish, import, copy.",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "ducktape-assets-tools": "./src/cli.mjs"
+  },
+  "files": [
+    "src",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node --test 'test/**/*.test.mjs'"
+  },
+  "engines": {
+    "node": ">=22.14"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrian729/ducktape-assets.git",
+    "directory": "tools"
+  },
+  "dependencies": {
+    "ajv": "^8.20.0",
+    "ajv-formats": "^3.0.1",
+    "sharp": "^0.35.5",
+    "thumbhash": "^0.1.1",
+    "yaml": "^2.9.1"
+  }
+}

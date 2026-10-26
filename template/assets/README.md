@@ -1,0 +1,1 @@
+One directory per asset: `assets/<id>/asset.yaml` plus its master (`master.png`, `master.webp` lossless, or `master.svg` hand-made) and any component masters named in `asset.yaml`. Generated files never live here.

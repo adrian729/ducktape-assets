@@ -1,0 +1,18 @@
+id: stepped-ribbon
+title: Stepped ribbon border
+description: A repeating gold and blue stepped ribbon strip with a matching mitred corner, on a transparent background.
+type: border
+categories: [ribbons, geometric]
+subjects: [ribbon]
+colors: [gold, blue]
+facing: none
+composition: repeat-tile
+render:
+  tile: { axis: x, period: 1 }
+  frame: { corner: corner, slice: 33.3 }
+components:
+  corner: { master: corner.png, description: Mitred corner matching the tile. }
+status: approved
+created: 2026-11-02
+master: tile.png
+provenance: { method: native-source-repeat, institution: Walters Art Museum, object_identifier: W.82 }

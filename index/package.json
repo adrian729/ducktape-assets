@@ -1,0 +1,45 @@
+{
+  "name": "@ranx729/ducktape-assets",
+  "version": "0.0.0",
+  "description": "Index, catalog and build-time resolver for the Ducktape Assets library. Metadata only, no images.",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    ".": "./src/resolver.mjs",
+    "./copy": "./src/copy.mjs",
+    "./generate": "./src/generate.mjs",
+    "./node": "./src/node.mjs",
+    "./index.json": "./index.json",
+    "./catalog.json": "./catalog.json",
+    "./sets/*.json": "./sets/*.json",
+    "./schemas/*.json": "./schemas/*.json",
+    "./package.json": "./package.json"
+  },
+  "bin": {
+    "ducktape-assets": "./bin/ducktape-assets.mjs"
+  },
+  "files": [
+    "src",
+    "bin",
+    "schemas",
+    "sets",
+    "index.json",
+    "catalog.json",
+    "README.md",
+    "AGENTS.md"
+  ],
+  "scripts": {
+    "test": "node --test 'test/**/*.test.mjs'"
+  },
+  "engines": {
+    "node": ">=22.14"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrian729/ducktape-assets.git",
+    "directory": "index"
+  }
+}

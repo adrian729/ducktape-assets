@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/adrian729/ducktape-assets/index/schemas/index.schema.json",
+  "title": "Ducktape Assets index",
+  "description": "index.json of the index package: the pinned version, packages and CDN bases of every set. The resolver and the copy command read it; the host is only the cdn base.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema", "generatedAt", "sets"],
+  "properties": {
+    "schema": { "const": 1 },
+    "generatedAt": { "type": "string", "format": "date-time" },
+    "sets": {
+      "type": "object",
+      "propertyNames": { "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+      "additionalProperties": { "$ref": "#/$defs/set" }
+    }
+  },
+  "$defs": {
+    "set": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["version", "package", "parts", "mastersPackage", "mastersParts", "cdn", "mastersCdn", "assets", "license", "contentHash", "status"],
+      "properties": {
+        "version": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$" },
+        "package": { "type": "string", "description": "Delivery package, first volume." },
+        "parts": { "type": "array", "items": { "type": "string" }, "description": "Additional delivery volume packages, in order." },
+        "mastersPackage": { "type": "string" },
+        "mastersParts": { "type": "array", "items": { "type": "string" } },
+        "cdn": { "type": "string", "pattern": "/$", "description": "Base URL of the first delivery package at this exact version, ending in a slash. Volume packages are derived from it." },
+        "mastersCdn": { "type": "string", "pattern": "/$" },
+        "assets": { "type": "integer", "minimum": 0, "description": "Number of assets in the manifest." },
+        "license": { "type": "object", "required": ["artwork"], "additionalProperties": false, "properties": { "artwork": { "type": "string" } } },
+        "contentHash": { "type": "string", "pattern": "^sha256:[0-9a-f]{64}$" },
+        "status": { "enum": ["active", "frozen", "archived"] }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+# Fixed filtering list for asset.yaml `categories`. Grows by PR. Revisit after wave 1.
+- animals
+- botanical
+- fantasy
+- floral
+- geometric
+- humans
+- hybrids
+- knotwork
+- music
+- reading
+- ribbons
+- royalty
+- scrollwork

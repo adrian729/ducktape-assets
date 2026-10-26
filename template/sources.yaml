@@ -1,0 +1,3 @@
+# Cold-storage inputs (scans, AI outputs, traces) attached to GitHub Releases of this repository, with hashes.
+# Managed by `ducktape-assets-tools sources add`. Not needed to build.
+sources: []

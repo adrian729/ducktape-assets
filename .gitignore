@@ -1,0 +1,15 @@
+# Obsidian's per-machine state
+docs/vault/.obsidian/workspace.json
+docs/vault/.obsidian/workspace-mobile.json
+
+# Local working notes (todos, plans)
+/tmp/
+
+# Node
+node_modules/
+
+# Spike outputs (throwaway code stays, its generated images do not)
+/spikes/*/out*/
+/spikes/*/*.png
+/spikes/*/*.webp
+/spikes/*/*.avif
