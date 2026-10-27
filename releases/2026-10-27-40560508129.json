@@ -1,0 +1,218 @@
+{
+  "schema": 1,
+  "runId": "40560508129",
+  "dryRun": false,
+  "actor": "adrian729",
+  "startedAt": "2026-10-27T18:39:04.139Z",
+  "finishedAt": "2026-10-27T18:40:04.183Z",
+  "planGeneratedAt": "2026-10-27T18:30:02.501Z",
+  "packages": [
+    {
+      "name": "@ranx729/ducktape-assets-illuminated-acanthus",
+      "version": "2.0.2",
+      "set": "illuminated-acanthus",
+      "kind": "delivery",
+      "inputsHash": "sha256:27157d8c1d091ef9fe9e84e9222088d855fa4c99f5cc178b405cfdc65660e56e",
+      "contentHash": "sha256:a7a943d0ee38ad8981251f4e6b723f69a5638417b682595a863563941510a81c",
+      "bytes": 39130724,
+      "result": "published",
+      "at": "2026-10-27T18:39:15.340Z"
+    },
+    {
+      "name": "@ranx729/ducktape-assets-illuminated-acanthus-masters",
+      "version": "2.0.2",
+      "set": "illuminated-acanthus",
+      "kind": "masters",
+      "inputsHash": "sha256:27157d8c1d091ef9fe9e84e9222088d855fa4c99f5cc178b405cfdc65660e56e",
+      "contentHash": "sha256:a7a943d0ee38ad8981251f4e6b723f69a5638417b682595a863563941510a81c",
+      "bytes": 33953142,
+      "result": "published",
+      "at": "2026-10-27T18:39:26.421Z"
+    },
+    {
+      "name": "@ranx729/ducktape-assets-medieval-cutouts",
+      "version": "1.0.2",
+      "set": "medieval-cutouts",
+      "kind": "delivery",
+      "inputsHash": "sha256:b2eb0a10d371af02d2ee07aac1f3d7c845cf45d55124eb01718535cb3607201f",
+      "contentHash": "sha256:3a32da2486e69bf5ce5152ce0105f383428d78c74ff75a96f82b7fdbdb13e4f2",
+      "bytes": 43007343,
+      "result": "published",
+      "at": "2026-10-27T18:39:37.637Z"
+    },
+    {
+      "name": "@ranx729/ducktape-assets-medieval-cutouts-masters",
+      "version": "1.0.2",
+      "set": "medieval-cutouts",
+      "kind": "masters",
+      "inputsHash": "sha256:b2eb0a10d371af02d2ee07aac1f3d7c845cf45d55124eb01718535cb3607201f",
+      "contentHash": "sha256:3a32da2486e69bf5ce5152ce0105f383428d78c74ff75a96f82b7fdbdb13e4f2",
+      "bytes": 43267526,
+      "result": "published",
+      "at": "2026-10-27T18:39:48.589Z"
+    },
+    {
+      "name": "@ranx729/ducktape-assets-walters-w102",
+      "version": "1.0.2",
+      "set": "walters-w102",
+      "kind": "delivery",
+      "inputsHash": "sha256:6a5c69cc4fa64c07754faefdf125f54bb9730d226ba767e6457c220575877109",
+      "contentHash": "sha256:af3a33a4e36be1b741107aef88b7abcd613fb23e5d951f334e97f1c8176b8947",
+      "bytes": 1602287,
+      "result": "published",
+      "at": "2026-10-27T18:39:53.995Z"
+    },
+    {
+      "name": "@ranx729/ducktape-assets-walters-w102-masters",
+      "version": "1.0.2",
+      "set": "walters-w102",
+      "kind": "masters",
+      "inputsHash": "sha256:6a5c69cc4fa64c07754faefdf125f54bb9730d226ba767e6457c220575877109",
+      "contentHash": "sha256:af3a33a4e36be1b741107aef88b7abcd613fb23e5d951f334e97f1c8176b8947",
+      "bytes": 1418310,
+      "result": "published",
+      "at": "2026-10-27T18:39:58.947Z"
+    },
+    {
+      "name": "@ranx729/ducktape-assets",
+      "version": "1.3.0",
+      "set": null,
+      "kind": "index",
+      "inputsHash": "sha256:58ed2f623a8983619c1c3375ab2efec42c240d6df3df9fa3df00aea1e47cdfd2",
+      "contentHash": "sha256:f1146522ee375be2f6b1edb0ff39f7aaa96325769f70ddcd74d2316e7c0c9011",
+      "bytes": null,
+      "result": "published",
+      "at": "2026-10-27T18:40:04.183Z"
+    }
+  ],
+  "sets": [
+    {
+      "set": "illuminated-acanthus",
+      "current": "2.0.1",
+      "next": "2.0.2",
+      "bump": "patch",
+      "commit": "fe48d17b2e354e6a48e0844b7ffd6f3a86f1eaae",
+      "inputsHash": "sha256:27157d8c1d091ef9fe9e84e9222088d855fa4c99f5cc178b405cfdc65660e56e",
+      "contentHash": "sha256:a7a943d0ee38ad8981251f4e6b723f69a5638417b682595a863563941510a81c",
+      "added": 0,
+      "changed": 0,
+      "removed": 0
+    },
+    {
+      "set": "medieval-cutouts",
+      "current": "1.0.1",
+      "next": "1.0.2",
+      "bump": "patch",
+      "commit": "8fb75e423fb0af8485df2cf25e989e9ede959a11",
+      "inputsHash": "sha256:b2eb0a10d371af02d2ee07aac1f3d7c845cf45d55124eb01718535cb3607201f",
+      "contentHash": "sha256:3a32da2486e69bf5ce5152ce0105f383428d78c74ff75a96f82b7fdbdb13e4f2",
+      "added": 0,
+      "changed": 0,
+      "removed": 0
+    },
+    {
+      "set": "walters-w102",
+      "current": "1.0.1",
+      "next": "1.0.2",
+      "bump": "patch",
+      "commit": "9178eff7206ba6c9ef2f6fa8a159294d78604731",
+      "inputsHash": "sha256:6a5c69cc4fa64c07754faefdf125f54bb9730d226ba767e6457c220575877109",
+      "contentHash": "sha256:af3a33a4e36be1b741107aef88b7abcd613fb23e5d951f334e97f1c8176b8947",
+      "added": 0,
+      "changed": 4,
+      "removed": 0
+    }
+  ],
+  "index": {
+    "name": "@ranx729/ducktape-assets",
+    "version": "1.3.0",
+    "previous": "1.2.0",
+    "pins": {
+      "illuminated-acanthus": "2.0.2",
+      "medieval-cutouts": "1.0.2",
+      "walters-w102": "1.0.2"
+    },
+    "inputsHash": "sha256:58ed2f623a8983619c1c3375ab2efec42c240d6df3df9fa3df00aea1e47cdfd2",
+    "contentHash": "sha256:f1146522ee375be2f6b1edb0ff39f7aaa96325769f70ddcd74d2316e7c0c9011",
+    "result": "published",
+    "at": "2026-10-27T18:40:04.183Z"
+  },
+  "error": null,
+  "cdn": {
+    "checkedAt": "2026-10-27T18:51:41.623Z",
+    "ok": true,
+    "level": null,
+    "results": [
+      {
+        "name": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": "2.0.2",
+        "kind": "delivery",
+        "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-illuminated-acanthus@2.0.2/manifest.json",
+        "attempts": 6,
+        "http": 200,
+        "result": "ok",
+        "detail": ""
+      },
+      {
+        "name": "@ranx729/ducktape-assets-illuminated-acanthus-masters",
+        "version": "2.0.2",
+        "kind": "masters",
+        "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-illuminated-acanthus-masters@2.0.2/package.json",
+        "attempts": 13,
+        "http": 200,
+        "result": "ok",
+        "detail": ""
+      },
+      {
+        "name": "@ranx729/ducktape-assets-medieval-cutouts",
+        "version": "1.0.2",
+        "kind": "delivery",
+        "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-medieval-cutouts@1.0.2/manifest.json",
+        "attempts": 24,
+        "http": 200,
+        "result": "ok",
+        "detail": ""
+      },
+      {
+        "name": "@ranx729/ducktape-assets-medieval-cutouts-masters",
+        "version": "1.0.2",
+        "kind": "masters",
+        "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-medieval-cutouts-masters@1.0.2/package.json",
+        "attempts": 4,
+        "http": 200,
+        "result": "ok",
+        "detail": ""
+      },
+      {
+        "name": "@ranx729/ducktape-assets-walters-w102",
+        "version": "1.0.2",
+        "kind": "delivery",
+        "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-walters-w102@1.0.2/manifest.json",
+        "attempts": 4,
+        "http": 200,
+        "result": "ok",
+        "detail": ""
+      },
+      {
+        "name": "@ranx729/ducktape-assets-walters-w102-masters",
+        "version": "1.0.2",
+        "kind": "masters",
+        "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-walters-w102-masters@1.0.2/package.json",
+        "attempts": 5,
+        "http": 200,
+        "result": "ok",
+        "detail": ""
+      },
+      {
+        "name": "@ranx729/ducktape-assets",
+        "version": "1.3.0",
+        "kind": "index",
+        "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets@1.3.0/package.json",
+        "attempts": 4,
+        "http": 200,
+        "result": "ok",
+        "detail": ""
+      }
+    ]
+  }
+}

@@ -8464,11 +8464,11 @@
       "width": 1360
     }
   },
-  "attribution": "adrian729 (CC-BY-4.0)",
-  "builtAt": "2026-10-27T17:25:39.281Z",
-  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-medieval-cutouts@1.0.1/",
+  "attribution": "adrian729",
+  "builtAt": "2026-10-27T18:34:01.083Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-medieval-cutouts@1.0.2/",
   "contentHash": "sha256:3a32da2486e69bf5ce5152ce0105f383428d78c74ff75a96f82b7fdbdb13e4f2",
-  "inputsHash": "sha256:9e4447e480e5b10368de2952cf3a8427e21e6cc2bbfe56ffe4acaa2f3f9a0fa5",
+  "inputsHash": "sha256:b2eb0a10d371af02d2ee07aac1f3d7c845cf45d55124eb01718535cb3607201f",
   "kind": "imported",
   "license": {
     "artwork": "CC-BY-4.0",
@@ -8487,7 +8487,7 @@
     "concurrency": 1,
     "libvips": "8.18.7",
     "sharp": "0.35.5",
-    "tools": "0.1.0"
+    "tools": "0.2.0"
   },
-  "version": "1.0.1"
+  "version": "1.0.2"
 }

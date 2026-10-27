@@ -1,6 +1,7 @@
 {
   "assets": {
     "centaur-archer": {
+      "attribution": "Walters Art Museum W.102, fol. 82v",
       "categories": [
         "hybrids",
         "fantasy",
@@ -195,6 +196,7 @@
       "width": 720
     },
     "elephant-castle": {
+      "attribution": "Walters Art Museum W.102, fol. 28r",
       "categories": [
         "animals",
         "humans",
@@ -364,6 +366,7 @@
       "width": 270
     },
     "horse-flute-drum": {
+      "attribution": "Walters Art Museum W.102, fol. 74v",
       "categories": [
         "animals",
         "music",
@@ -518,6 +521,7 @@
       "width": 236
     },
     "rabbit-church-bells": {
+      "attribution": "Walters Art Museum W.102, fol. 81r",
       "categories": [
         "animals",
         "music",
@@ -730,11 +734,11 @@
       "width": 823
     }
   },
-  "attribution": "Walters Art Museum W.102 (CC0-1.0)",
-  "builtAt": "2026-10-27T17:29:52.282Z",
-  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-walters-w102@1.0.1/",
+  "attribution": "Walters Art Museum W.102",
+  "builtAt": "2026-10-27T18:38:16.005Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-walters-w102@1.0.2/",
   "contentHash": "sha256:af3a33a4e36be1b741107aef88b7abcd613fb23e5d951f334e97f1c8176b8947",
-  "inputsHash": "sha256:905f4894698885139731e88e2e830b4795ddc673ab95c960e7f12cd45e787e86",
+  "inputsHash": "sha256:6a5c69cc4fa64c07754faefdf125f54bb9730d226ba767e6457c220575877109",
   "kind": "historical",
   "license": {
     "artwork": "CC0-1.0",
@@ -753,7 +757,7 @@
     "concurrency": 1,
     "libvips": "8.18.7",
     "sharp": "0.35.5",
-    "tools": "0.1.0"
+    "tools": "0.2.0"
   },
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
