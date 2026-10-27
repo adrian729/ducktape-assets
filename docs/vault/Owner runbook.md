@@ -27,6 +27,10 @@ The owner removed the required reviewer on 2026-10-26, so a dispatch of `publish
 
 All 80 wave 1 records are reviewed, approved and pushed to the set repos. Spot-check whenever convenient: each set repo's README lists every asset with its title, and the CI run's "preview" artifact is the contact sheet. Ids become permanent at the first publish; the reviewers' remaining naming suggestions are listed in [[Design/Migration]]. Decide them before running the npm bootstrap, or accept the ids as they are.
 
+## Now: push the two migrated apps
+
+Agents committed the migrations locally on `main` in `~/projects/elder-scrolls` (two commits) and `~/projects/polyhymnia/polyhymnia-ear-training` (two commits, masters committed as `homepage-art` was). Review the diffs if you like, then `git push` each. Nothing in the library depends on it.
+
 ## Later, optional
 
 - Cloudflare drill for the fallback host ([[Design/CDN contingency]]): free account, one API token, one dry deployment, token deleted.
