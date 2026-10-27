@@ -21,6 +21,9 @@ test('image(): rung selection at width 320 for dpr 2 and 3, src, part2 URLs', as
   assert.deepEqual([two.width, two.height, two.alt, two.resolutionLimited], [1024, 1100, '', false]);
   assert.equal(two.license.artwork, 'CC0');
   assert.equal(two.attribution, 'Walters Art Museum, W.102');
+  assert.equal(two.set, 'walters-w102');
+  assert.match(two.package, /ducktape-assets-walters-w102$/);
+  assert.ok(two.src.includes(`@${two.version}/`));
 
   const three = await a.image(ID, { width: 320, dpr: 3 });
   // 320 x 3 = 960: avif goes up to its 1024 rung, webp has none above 768 and stops there (never upscale)
@@ -94,7 +97,9 @@ test('url(): base override ignores the package; masters and parts resolve from t
   assert.equal(img.src, '/assets/walters-w102/webp/rabbit-church-bells-256.webp');
   // pin overrides one set's version
   const pinned = R({ pin: { 'walters-w102': '1.0.1' } });
-  assert.match((await pinned.image(ID, { width: 128 })).src, /ducktape-assets-walters-w102@1\.0\.1\/webp\/rabbit-church-bells-256\.webp$/);
+  const pinnedImg = await pinned.image(ID, { width: 128 });
+  assert.match(pinnedImg.src, /ducktape-assets-walters-w102@1\.0\.1\/webp\/rabbit-church-bells-256\.webp$/);
+  assert.equal(pinnedImg.version, '1.0.1');
 });
 
 test('local(): copied paths', async () => {

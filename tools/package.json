@@ -1,6 +1,6 @@
 {
   "name": "@ranx729/ducktape-assets-tools",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "CLI for the Ducktape Assets library: validate, build, preview, plan, publish, import, copy.",
   "license": "MIT",
   "type": "module",

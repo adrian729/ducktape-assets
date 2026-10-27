@@ -115,6 +115,11 @@ export function createResolver({ index, base, formats = ['avif', 'webp'], pin = 
     }
     if (!fallback) throw new Error(`${id}: none of the formats ${formats.join(', ')} is available`);
     const out = {
+      // Where the bytes come from, for scripts that record what they used: the set, its first package and the version
+      // the URLs point at (a pin overrides the index). Files in a volume part carry their own `package`.
+      set: setId,
+      package: entry.package,
+      version: pin[setId] ?? entry.version,
       src: urlOf(entry, fallback.src, setId),
       srcset: sources[sources.length - 1].srcset,
       sources,

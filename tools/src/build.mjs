@@ -178,6 +178,15 @@ async function buildAsset(ctx, dir, asset) {
 
 // ---- the inputs hash (the publish gate) ----
 
+// "<institution> <object_identifier>" for a holding, or null when the record names no institution.
+const holdingCredit = (p) => (p?.institution ? `${p.institution}${p.object_identifier ? ` ${p.object_identifier}` : ''}` : null);
+
+function setAttribution(set, assets) {
+  if (set.origin?.institution) return holdingCredit(set.origin);
+  if (set.kind !== 'historical') return set.author;
+  return [...new Set(assets.map(({ asset }) => asset.provenance?.institution).filter(Boolean))].sort().join(', ');
+}
+
 export async function toolingInfo() {
   const toolsVersion = JSON.parse(await readFile(path.join(here, '..', 'package.json'), 'utf8')).version;
   return { tools: toolsVersion, sharp: sharp.versions.sharp, libvips: sharp.versions.vips, concurrency: sharp.concurrency() };
@@ -295,17 +304,23 @@ export async function buildSet(repoDir, outDir, options = {}) {
     ...(packages.masters.length ? { mastersParts: packages.masters.map((n) => `${pkg}-masters-${n}`) } : {}),
     cdn: `https://cdn.jsdelivr.net/npm/${pkg}@${version}/`,
     license: { artwork: set.license.artwork, ...(set.license.notes ? { notes: set.license.notes } : {}) },
-    // One line a consumer may show. Historical sets credit the institution and object; authored and imported sets credit
-    // the author (CC-BY needs a name, and "origin unrecorded" imports are attributed to the author by owner decision).
-    attribution: set.origin?.institution
-      ? `${set.origin.institution}${set.origin.object_identifier ? ` ${set.origin.object_identifier}` : ''} (${set.license.artwork})`
-      : `${set.author} (${set.license.artwork})`,
+    // The bare credit a consumer may show; the licence is a separate field, never part of this string. Historical sets
+    // credit the holding institution and object; a set spanning several holdings (an artist's loose prints) lists the
+    // institutions and every asset carries its own credit; authored and imported sets credit the author (CC-BY needs a
+    // name, and "origin unrecorded" imports are attributed to the author by owner decision).
+    attribution: setAttribution(set, assets),
     ...(set.period ? { period: set.period } : {}), ...(set.region ? { region: set.region } : {}), ...(set.style ? { style: set.style } : {}),
     ...(drafts.length ? { drafts } : {}),
     inputsHash,
     tooling,
     builtAt,
-    assets: Object.fromEntries(assets.map(({ asset }) => [asset.id, built.get(asset.id)]).sort(([a], [b]) => (a < b ? -1 : 1))),
+    assets: Object.fromEntries(assets.map(({ asset }) => {
+      const entry = built.get(asset.id);
+      // An asset credits its own holding only when that differs from the set's line (sets spanning several holdings).
+      const credit = holdingCredit(asset.provenance);
+      if (credit && credit !== setAttribution(set, assets)) entry.attribution = credit;
+      return [asset.id, entry];
+    }).sort(([a], [b]) => (a < b ? -1 : 1))),
   };
 
   // contentHash: sorted output paths and bytes (integrity only, never the publish gate).

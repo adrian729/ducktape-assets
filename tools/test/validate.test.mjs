@@ -25,6 +25,20 @@ test('the fixture set is valid', async () => {
   assert.deepEqual(problems, []);
 });
 
+test('a historical set without a set-level holding needs institution and object on every asset', async () => {
+  await withVocab(['rabbit', 'bells', 'ribbon']);
+  const dir = await mkdtemp(path.join(tmpdir(), 'ducktape-assets-fixture-set-'));
+  const copy = path.join(dir, 'ducktape-assets-fixture-set');
+  await cp(fixture, copy, { recursive: true });
+  const setFile = path.join(copy, 'set.yaml');
+  await writeFile(setFile, (await readFile(setFile, 'utf8')).replace('origin: { institution: Walters Art Museum, object_identifier: W.82 }', 'origin: {}'));
+  assert.deepEqual(await validateSet(copy), [], 'every fixture asset names its own holding');
+  const f = path.join(copy, 'assets', 'stepped-ribbon', 'asset.yaml');
+  await writeFile(f, (await readFile(f, 'utf8')).replace(', object_identifier: W.82', ''));
+  const messages = (await validateSet(copy)).map((p) => p.message);
+  assert.ok(messages.some((m) => m.includes('provenance.object_identifier is required')), messages.join('\n'));
+});
+
 test('unknown subject, missing master and bad related are reported', async () => {
   await withVocab(['rabbit', 'ribbon']);
   const dir = await mkdtemp(path.join(tmpdir(), 'ducktape-assets-fixture-set-'));

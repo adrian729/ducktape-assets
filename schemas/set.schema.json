@@ -41,7 +41,7 @@
     "region": { "description": "Coverage: region of origin, for example 'Flanders'. Inherited by assets.", "type": "string" },
     "style": { "description": "Coverage: style or medium, for example 'illuminated manuscript'. Inherited by assets.", "type": "string" },
     "origin": {
-      "description": "Set-level provenance. Historical sets name the holding institution and object; authored sets name the method and the reference sets.",
+      "description": "Set-level provenance. A historical set made from one object names the holding institution and object; a historical set spanning several holdings (an artist's loose prints) names neither and every asset's provenance does; authored sets name the method and the reference sets.",
       "type": "object",
       "additionalProperties": false,
       "properties": {
@@ -59,7 +59,7 @@
   "allOf": [
     {
       "if": { "properties": { "kind": { "const": "historical" } } },
-      "then": { "required": ["origin"], "properties": { "origin": { "type": "object", "required": ["institution", "object_identifier"] } } }
+      "then": { "required": ["origin"], "properties": { "origin": { "type": "object", "dependentRequired": { "institution": ["object_identifier"], "object_identifier": ["institution"] } } } }
     }
   ],
   "$defs": {

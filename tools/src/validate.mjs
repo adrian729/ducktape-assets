@@ -57,6 +57,10 @@ export async function validateSet(repoDir) {
     }
 
     if (set?.kind === 'historical' && !asset.provenance) problem(where, 'provenance is required in a historical set');
+    // Every historical asset must resolve a holding: its own provenance or the set's origin names institution and object.
+    if (set?.kind === 'historical' && asset.provenance && !(set.origin?.institution && set.origin?.object_identifier)) {
+      for (const k of ['institution', 'object_identifier']) if (!asset.provenance[k]) problem(where, `provenance.${k} is required when the set's origin does not name the holding object`);
+    }
     if (asset.provenance === null && set?.kind !== 'imported') problem(where, 'provenance: null is allowed only in sets of kind imported');
     if (asset.status === 'approved' && asset.review === 'pending') problem(where, 'approved asset still has review: pending');
 
