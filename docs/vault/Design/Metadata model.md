@@ -56,7 +56,7 @@ style: illuminated manuscript
 # structural: how it is organised and related
 group: 194v                              # folio, plate, series or theme inside the set; replaces the old nested sets. Never a type: that is `type`
 render:
-  image: {}                              # image | tile {axis, period} | frame {corner, slice}
+  image: {}                              # image | tile {axis, period} | frame {corner, slice} or frame {slice_px} for a ready-made complete frame
 components: {}                           # for example corner: { master: corner.png, description: … }
 related:
   - { asset: walters-w102/rabbit-organist, role: companion }
@@ -192,7 +192,7 @@ Notes:
 - `sources` holds the variant ladder per format, ascending by width, never exceeding the master. The resolver builds `srcset` straight from it.
 - `thumbhash` (about 25 bytes, base64) gives an instant blurred placeholder with the correct aspect ratio and transparency. Blurhash does not encode alpha; ThumbHash does, which matters for this art.
 - `palette` is measured, `colors` is authored. Both are kept because they answer different questions.
-- Frames carry `components.corner` and a generated `atlas` entry under `render.frame` with `slice` and its own `sources`.
+- Composed frames carry `components.corner` and a generated `atlas` entry under `render.frame` with `slice` and its own `sources`. Ready-made frames (`slice_px`, added 2026-10-27) use their image ladder as the atlas and get per-side percentages plus `slicePx`.
 - Tiles carry a generated `rotated` entry so a vertical use of a horizontal strip needs no runtime rotation.
 - `inputsHash` is the publish gate: identical inputs, no rebuild and no publish. `contentHash` and per-file `sha256` are for integrity checks. See [[Image pipeline]].
 - `sources` lists only the formats that were actually built for this asset; AVIF is omitted when it did not beat WebP by at least 15 %.

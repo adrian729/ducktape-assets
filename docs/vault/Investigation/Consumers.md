@@ -53,6 +53,17 @@ Migrated by an agent in one sitting against `@ranx729/ducktape-assets@1.0.0`: re
 - Wiring the resolver in Node took three steps. `createNodeResolver()` in `@ranx729/ducktape-assets/node` does it in one, offline. The generated README and AGENTS carry the recipe, including the `dpr: 1` trick for an exact 1x or 2x pick.
 - Still open, minor: `license` is an object on the resolver and a string in the catalog; no SPDX URL; descriptions sometimes end with layout notes that read oddly as alt text; `status` differs in wording between assets and sets.
 
+## Acceptance test: polyhymnia on the new library (2026-10-27)
+
+Migrated by an agent against `@ranx729/ducktape-assets@1.0.0`: one `ducktape.json` with 31 ids and `masters: true`, the copy command fetched 31 masters in 12 s (idempotent on rerun), `packages/homepage-art` and seven old packages deleted, generator rewritten to read `ducktape.manifest.json`, typecheck, 90 tests and the build pass. Findings, and what changed in the library because of them:
+
+- The floral frame had no slice geometry and its master was the uncropped generation with a haze margin; the app kept the old crop and 146 px slice in its own selection file. Now: the master is the 1367 by 1000 crop (visibly identical to what the app shipped), `render.frame.slice_px: 146` is authored, the build records per-side percentages, the resolver's `frame()` emits the four-value CSS slice. Needs a republish.
+- `ducktape.manifest.json` carried no type, transparency or render data. Now it does, plus the capped master's size so coordinates can say what they refer to.
+- `masters: true` also copied every ladder rung unless an undocumented `formats: []` was added. Now it copies only the master unless formats, widths or max are given.
+- The migration map had the title-ivy split sentence on every polyhymnia entry (a careless replace). Repaired.
+- Kept in the app, by design: the title ivy text anchors (where the rule meets the piece, the safe half-height) are layout decisions of one page, not properties of the artwork. The old `uses` field has no equivalent beyond `type` and `render`; nothing needed it.
+- Untested still: composed frame atlases and rotated tiles on real assets (no wave 1 asset has them).
+
 ## Migration inputs
 
 Every name below must appear in the migration map. The polyhymnia local names stay stable, so migrating that app means editing only `package` and `design` per entry in `scripts/ornament-selection.json`.

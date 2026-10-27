@@ -52,7 +52,7 @@ export async function validateSet(repoDir) {
       if (typeof f !== 'string') continue;
       if (!(await exists(path.join(assetsDir, dir, f)))) problem(where, `${field} file "${f}" not found`);
     }
-    if (asset.render?.frame && !asset.components?.[asset.render.frame.corner]) {
+    if (asset.render?.frame?.corner && !asset.components?.[asset.render.frame.corner]) {
       problem(where, `render.frame.corner "${asset.render.frame.corner}" is not a component`);
     }
 

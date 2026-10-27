@@ -156,7 +156,15 @@ async function buildAsset(ctx, dir, asset) {
     });
     render.tile = { axis: asset.render.tile.axis, period: asset.render.tile.period ?? 1, rotated: rotated.ladder };
   }
-  if (asset.render.frame) {
+  if (asset.render.frame?.slice_px) {
+    // A ready-made complete frame: the image ladder is the atlas. The slice is uniform in master pixels, so the
+    // percentages differ per axis; they are recorded as CSS expects them (top right bottom left).
+    const px = asset.render.frame.slice_px;
+    if (px * 2 >= Math.min(main.width, main.height)) refuse(`render.frame.slice_px ${px} is not smaller than half of the master (${main.width}x${main.height})`);
+    const pct = (n) => Math.round((px * 10000) / n) / 100;
+    const v = pct(main.height), h = pct(main.width);
+    render.frame = { slice: { top: v, right: h, bottom: v, left: h }, slicePx: px, atlas: primary.ladder };
+  } else if (asset.render.frame) {
     const { corner, slice } = asset.render.frame;
     if (!components[corner]) refuse(`render.frame.corner "${corner}" is not a component`);
     const axis = asset.render.tile?.axis ?? (main.width >= main.height ? 'x' : 'y');

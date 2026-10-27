@@ -5,67 +5,245 @@
   "description": "Authored description of one asset, at assets/<id>/asset.yaml in a set repository. Three groups of fields: descriptive (find it and understand it), structural (how it is organised and related), administrative (manage, access, preserve). Sizes, hashes, palettes and placeholders are never typed here; the build measures them.",
   "type": "object",
   "additionalProperties": false,
-  "required": ["id", "title", "description", "type", "categories", "subjects", "colors", "facing", "composition", "render", "status", "created", "master"],
+  "required": [
+    "id",
+    "title",
+    "description",
+    "type",
+    "categories",
+    "subjects",
+    "colors",
+    "facing",
+    "composition",
+    "render",
+    "status",
+    "created",
+    "master"
+  ],
   "properties": {
-    "id": { "description": "Asset identifier, unique inside the set. The full id is <set>/<id>. Permanent.", "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$", "maxLength": 48 },
-    "title": { "description": "Short human title.", "type": "string", "minLength": 1, "maxLength": 120 },
-    "description": { "description": "One or two plain sentences for people and agents: what is depicted, in which direction, on what background.", "type": "string", "minLength": 20, "maxLength": 600 },
+    "id": {
+      "description": "Asset identifier, unique inside the set. The full id is <set>/<id>. Permanent.",
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "maxLength": 48
+    },
+    "title": {
+      "description": "Short human title.",
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 120
+    },
+    "description": {
+      "description": "One or two plain sentences for people and agents: what is depicted, in which direction, on what background.",
+      "type": "string",
+      "minLength": 20,
+      "maxLength": 600
+    },
     "type": {
       "description": "What the asset is. border: repeating strip. frame: complete non-repeating frame. corner: corner piece. divider: complete horizontal or vertical piece. ornament: fleuron, headpiece, flourish, rosette, sprig. initial: decorated letter. illustration: figure, scene, creature. texture: seamless background. icon: small symbol. banner: scroll or ribbon meant to carry text.",
-      "enum": ["border", "frame", "corner", "divider", "ornament", "initial", "illustration", "texture", "icon", "banner"]
+      "enum": [
+        "border",
+        "frame",
+        "corner",
+        "divider",
+        "ornament",
+        "initial",
+        "illustration",
+        "texture",
+        "icon",
+        "banner"
+      ]
     },
-    "categories": { "description": "Fixed filtering list, see schemas/vocab/categories.yaml.", "type": "array", "minItems": 1, "items": { "type": "string" }, "uniqueItems": true },
-    "subjects": { "description": "Free tags from the shared vocabulary (schemas/vocab/subjects.yaml); new tags are added by PR.", "type": "array", "minItems": 1, "items": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" }, "uniqueItems": true },
-    "colors": { "description": "Dominant colours as a person sees them, from schemas/vocab/colors.yaml. The measured palette is generated separately.", "type": "array", "minItems": 1, "items": { "type": "string" }, "uniqueItems": true },
+    "categories": {
+      "description": "Fixed filtering list, see schemas/vocab/categories.yaml.",
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "subjects": {
+      "description": "Free tags from the shared vocabulary (schemas/vocab/subjects.yaml); new tags are added by PR.",
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+      },
+      "uniqueItems": true
+    },
+    "colors": {
+      "description": "Dominant colours as a person sees them, from schemas/vocab/colors.yaml. The measured palette is generated separately.",
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
     "facing": {
       "description": "Where the subject's front or head points in the image plane. viewer: toward the viewer. away: away from the viewer. none: no direction (symmetric ornaments, top views without direction).",
-      "enum": ["left", "right", "up", "down", "viewer", "away", "mixed", "none"]
+      "enum": [
+        "left",
+        "right",
+        "up",
+        "down",
+        "viewer",
+        "away",
+        "mixed",
+        "none"
+      ]
     },
-    "view": { "description": "Optional camera angle.", "enum": ["side", "front", "top", "three-quarter"] },
-    "composition": { "enum": ["single-ornament", "standalone", "repeat-tile", "single-figure", "multiple-figures", "framed-scene"] },
-    "period": { "description": "Overrides the set's period.", "type": "string" },
-    "region": { "description": "Overrides the set's region.", "type": "string" },
-    "style": { "description": "Overrides the set's style.", "type": "string" },
-
-    "group": { "description": "Sub-grouping inside the set: a folio ('194v'), a plate, a theme. Replaces nested sets.", "type": ["string", "null"], "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "view": {
+      "description": "Optional camera angle.",
+      "enum": [
+        "side",
+        "front",
+        "top",
+        "three-quarter"
+      ]
+    },
+    "composition": {
+      "enum": [
+        "single-ornament",
+        "standalone",
+        "repeat-tile",
+        "single-figure",
+        "multiple-figures",
+        "framed-scene"
+      ]
+    },
+    "period": {
+      "description": "Overrides the set's period.",
+      "type": "string"
+    },
+    "region": {
+      "description": "Overrides the set's region.",
+      "type": "string"
+    },
+    "style": {
+      "description": "Overrides the set's style.",
+      "type": "string"
+    },
+    "group": {
+      "description": "Sub-grouping inside the set: a folio ('194v'), a plate, a theme. Replaces nested sets.",
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
     "render": {
       "description": "How the asset may be used. image: place as is. tile: repeat along an axis. frame: CSS border-image from a generated nine-slice atlas.",
       "type": "object",
       "additionalProperties": false,
       "minProperties": 1,
       "properties": {
-        "image": { "type": "object", "additionalProperties": false },
+        "image": {
+          "type": "object",
+          "additionalProperties": false
+        },
         "tile": {
           "type": "object",
           "additionalProperties": false,
-          "required": ["axis"],
+          "required": [
+            "axis"
+          ],
           "properties": {
-            "axis": { "description": "Axis along which the master repeats.", "enum": ["x", "y"] },
-            "period": { "description": "Repeat length in multiples of the tile's own length. Usually 1.", "type": "number", "exclusiveMinimum": 0, "default": 1 }
+            "axis": {
+              "description": "Axis along which the master repeats.",
+              "enum": [
+                "x",
+                "y"
+              ]
+            },
+            "period": {
+              "description": "Repeat length in multiples of the tile's own length. Usually 1.",
+              "type": "number",
+              "exclusiveMinimum": 0,
+              "default": 1
+            }
           }
         },
         "frame": {
           "type": "object",
           "additionalProperties": false,
-          "required": ["corner", "slice"],
           "properties": {
-            "corner": { "description": "Component id of the matching corner used to build the atlas.", "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
-            "slice": { "description": "border-image slice percentage for the generated atlas.", "type": "number", "exclusiveMinimum": 0, "maximum": 50 }
-          }
+            "corner": {
+              "description": "Component id of the matching corner used to build the atlas (composed frames only).",
+              "type": "string",
+              "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+            },
+            "slice": {
+              "description": "border-image slice percentage for the composed atlas (composed frames only).",
+              "type": "number",
+              "exclusiveMinimum": 0,
+              "maximum": 50
+            },
+            "slice_px": {
+              "description": "Ready-made frames: the slice width in master pixels, the same on all four sides. The build records per-side percentages and per-rung pixels.",
+              "type": "integer",
+              "minimum": 1
+            }
+          },
+          "description": "CSS border-image. Either a composed nine-slice atlas (corner + slice, built from the tile master and a corner component) or a ready-made complete frame image used as its own atlas (slice_px: the uniform slice width in master pixels).",
+          "oneOf": [
+            {
+              "type": "object",
+              "required": [
+                "corner",
+                "slice"
+              ],
+              "not": {
+                "required": [
+                  "slice_px"
+                ]
+              }
+            },
+            {
+              "type": "object",
+              "required": [
+                "slice_px"
+              ],
+              "not": {
+                "anyOf": [
+                  {
+                    "required": [
+                      "corner"
+                    ]
+                  },
+                  {
+                    "required": [
+                      "slice"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
         }
       }
     },
     "components": {
       "description": "Additional hand-made masters belonging to this asset (a corner, a bar). Generated derivatives are never listed.",
       "type": "object",
-      "propertyNames": { "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+      "propertyNames": {
+        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+      },
       "additionalProperties": {
         "type": "object",
         "additionalProperties": false,
-        "required": ["master"],
+        "required": [
+          "master"
+        ],
         "properties": {
-          "master": { "$ref": "#/$defs/masterFile" },
-          "description": { "type": "string" }
+          "master": {
+            "$ref": "#/$defs/masterFile"
+          },
+          "description": {
+            "type": "string"
+          }
         }
       }
     },
@@ -74,63 +252,211 @@
       "items": {
         "type": "object",
         "additionalProperties": false,
-        "required": ["asset", "role"],
+        "required": [
+          "asset",
+          "role"
+        ],
         "properties": {
-          "asset": { "description": "Full id <set>/<asset>.", "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*/[a-z0-9]+(-[a-z0-9]+)*$" },
-          "role": { "enum": ["companion", "variant", "corner-of", "replaces", "replaced-by", "source-of", "derived-from"] }
+          "asset": {
+            "description": "Full id <set>/<asset>.",
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*/[a-z0-9]+(-[a-z0-9]+)*$"
+          },
+          "role": {
+            "enum": [
+              "companion",
+              "variant",
+              "corner-of",
+              "replaces",
+              "replaced-by",
+              "source-of",
+              "derived-from"
+            ]
+          }
         }
       }
     },
-    "usage_notes": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+    "usage_notes": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
     "display_width": {
       "description": "Recommended CSS width range in pixels, [min, max].",
-      "type": "array", "minItems": 2, "maxItems": 2, "items": { "type": "integer", "minimum": 1 }
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 2,
+      "items": {
+        "type": "integer",
+        "minimum": 1
+      }
     },
-
-    "status": { "description": "draft: built and previewable, not published. approved: published. deprecated: still published, hidden by default, points at its replacement.", "enum": ["draft", "approved", "deprecated"] },
-    "review": { "description": "pending: imported draft awaiting review. done: reviewed against the model.", "enum": ["pending", "done"] },
-    "created": { "type": "string", "format": "date" },
-    "deprecated_by": { "description": "Full id of the replacement when status is deprecated.", "type": ["string", "null"], "pattern": "^[a-z0-9]+(-[a-z0-9]+)*/[a-z0-9]+(-[a-z0-9]+)*$" },
-    "quality": { "description": "Known limitation of this asset, in one sentence.", "type": "string" },
-    "master": { "$ref": "#/$defs/masterFile" },
+    "status": {
+      "description": "draft: built and previewable, not published. approved: published. deprecated: still published, hidden by default, points at its replacement.",
+      "enum": [
+        "draft",
+        "approved",
+        "deprecated"
+      ]
+    },
+    "review": {
+      "description": "pending: imported draft awaiting review. done: reviewed against the model.",
+      "enum": [
+        "pending",
+        "done"
+      ]
+    },
+    "created": {
+      "type": "string",
+      "format": "date"
+    },
+    "deprecated_by": {
+      "description": "Full id of the replacement when status is deprecated.",
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*/[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "quality": {
+      "description": "Known limitation of this asset, in one sentence.",
+      "type": "string"
+    },
+    "master": {
+      "$ref": "#/$defs/masterFile"
+    },
     "provenance": {
       "description": "Where the artwork comes from. Required when the set kind is historical. null is allowed only when the set kind is imported and means 'origin unrecorded'.",
       "oneOf": [
-        { "type": "null" },
+        {
+          "type": "null"
+        },
         {
           "type": "object",
           "additionalProperties": false,
-          "required": ["method"],
+          "required": [
+            "method"
+          ],
           "properties": {
-            "method": { "$ref": "set.schema.json#/$defs/method" },
-            "institution": { "type": "string" },
-            "object_title": { "type": "string" },
-            "object_identifier": { "type": "string" },
-            "object_dimensions": { "description": "Physical size of the original as the institution records it, for example '150 × 105 mm'.", "type": "string" },
-            "date": { "type": "string" },
-            "artist": { "type": ["string", "null"] },
-            "record_url": { "type": "string", "format": "uri" },
-            "image_url": { "type": "string", "format": "uri" },
-            "image_rights": { "description": "SPDX id when clearly stated by the institution (CC0-1.0, PDM), otherwise the rights text verbatim in rights_text.", "type": "string" },
-            "rights_text": { "type": "string" },
-            "rights_url": { "type": "string", "format": "uri" },
-            "source_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
-            "references": { "type": "array", "items": { "type": "string" } },
-            "audit": { "description": "Relative path to the audit record under provenance/ in the set repo.", "type": "string" }
+            "method": {
+              "$ref": "set.schema.json#/$defs/method"
+            },
+            "institution": {
+              "type": "string"
+            },
+            "object_title": {
+              "type": "string"
+            },
+            "object_identifier": {
+              "type": "string"
+            },
+            "object_dimensions": {
+              "description": "Physical size of the original as the institution records it, for example '150 × 105 mm'.",
+              "type": "string"
+            },
+            "date": {
+              "type": "string"
+            },
+            "artist": {
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            "record_url": {
+              "type": "string",
+              "format": "uri"
+            },
+            "image_url": {
+              "type": "string",
+              "format": "uri"
+            },
+            "image_rights": {
+              "description": "SPDX id when clearly stated by the institution (CC0-1.0, PDM), otherwise the rights text verbatim in rights_text.",
+              "type": "string"
+            },
+            "rights_text": {
+              "type": "string"
+            },
+            "rights_url": {
+              "type": "string",
+              "format": "uri"
+            },
+            "source_sha256": {
+              "type": "string",
+              "pattern": "^[0-9a-f]{64}$"
+            },
+            "references": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "audit": {
+              "description": "Relative path to the audit record under provenance/ in the set repo.",
+              "type": "string"
+            }
           }
         }
       ]
     },
-    "license": { "description": "null inherits the set licence; otherwise an SPDX or custom identifier.", "type": ["string", "null"] }
+    "license": {
+      "description": "null inherits the set licence; otherwise an SPDX or custom identifier.",
+      "type": [
+        "string",
+        "null"
+      ]
+    }
   },
   "allOf": [
     {
-      "if": { "properties": { "status": { "const": "deprecated" } }, "required": ["status"] },
-      "then": { "required": ["deprecated_by"], "properties": { "deprecated_by": { "type": "string" } } }
+      "if": {
+        "properties": {
+          "status": {
+            "const": "deprecated"
+          }
+        },
+        "required": [
+          "status"
+        ]
+      },
+      "then": {
+        "required": [
+          "deprecated_by"
+        ],
+        "properties": {
+          "deprecated_by": {
+            "type": "string"
+          }
+        }
+      }
     },
     {
-      "if": { "properties": { "render": { "type": "object", "required": ["frame"] } } },
-      "then": { "required": ["components"] }
+      "if": {
+        "properties": {
+          "render": {
+            "type": "object",
+            "required": [
+              "frame"
+            ],
+            "properties": {
+              "frame": {
+                "type": "object",
+                "required": [
+                  "corner"
+                ]
+              }
+            }
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "components"
+        ]
+      }
     }
   ],
   "$defs": {

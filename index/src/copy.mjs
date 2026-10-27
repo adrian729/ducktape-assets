@@ -51,11 +51,25 @@ function chooseLadder(ladder, spec) {
 
 /** What to copy for one asset, grouped by role. Masters come from the masters package. */
 export function chooseFiles(asset, assetId, spec) {
-  const roles = { sources: chooseLadder(asset.sources, spec) };
-  if (asset.render?.tile?.rotated) roles.rotated = chooseLadder(asset.render.tile.rotated, spec);
-  if (asset.render?.frame?.atlas) roles.atlas = chooseLadder(asset.render.frame.atlas, spec);
+  // `masters: true` alone means "I encode my own images": only the master is copied. Add formats, widths or max to
+  // get ladder files as well.
+  const wantsLadder = !spec.masters || spec.formats || spec.widths || spec.max;
+  const ladderSpec = wantsLadder ? spec : { ...spec, formats: [] };
+  const roles = { sources: chooseLadder(asset.sources, ladderSpec) };
+  if (asset.render?.tile?.rotated) roles.rotated = chooseLadder(asset.render.tile.rotated, ladderSpec);
+  if (asset.render?.frame?.atlas) roles.atlas = chooseLadder(asset.render.frame.atlas, ladderSpec);
   if (spec.masters) roles.master = { package: 'masters', ...(asset.master ?? { path: `masters/${assetId}.webp` }) };
   return roles;
+}
+
+/** The authored geometry of an asset without the generated ladders: what a build script needs to place it. */
+function geometryOf(asset) {
+  const r = asset.render ?? {};
+  const out = {};
+  if (r.image) out.image = {};
+  if (r.tile) out.tile = { axis: r.tile.axis, period: r.tile.period ?? 1 };
+  if (r.frame) out.frame = { slice: r.frame.slice, ...(r.frame.slicePx ? { slicePx: r.frame.slicePx } : {}), ...(r.frame.corner ? { corner: r.frame.corner } : {}) };
+  return out;
 }
 
 /**
@@ -88,14 +102,21 @@ export async function copy({ config, out, index, base, log = () => {} }) {
       if (v.path) files[role] = place(v);
       else files[role] = Object.fromEntries(Object.entries(v).map(([fmt, f]) => [fmt, Array.isArray(f) ? f.map(place) : place(f)]));
     }
+    const master = asset.master ?? null;
     summary[spec.id] = {
       set: setId,
       version: entry.version,
       title: asset.title,
       description: asset.description,
+      type: asset.type,
       width: asset.width,
       height: asset.height,
+      // The master may be capped below the native size; coordinates measured on it must say so.
+      ...(master ? { master: { width: master.w, height: master.h } } : {}),
+      transparent: asset.transparent ?? null,
       thumbhash: asset.thumbhash,
+      render: geometryOf(asset),
+      ...(asset.components ? { components: Object.fromEntries(Object.entries(asset.components).map(([k, c]) => [k, { width: c.width, height: c.height, ...(c.description ? { description: c.description } : {}) }])) } : {}),
       license: asset.license ?? manifest.license.artwork,
       attribution: asset.attribution ?? manifest.attribution ?? '',
       files,

@@ -113,3 +113,22 @@ test('image(): file and files carry path, bytes and sha256 of the chosen rungs',
   assert.deepEqual(img.files.map((f) => `${f.format}:${f.width}`), ['avif:384', 'avif:768', 'webp:384', 'webp:768']);
   assert.ok(img.files.every((f) => f.url && f.path && f.sha256));
 });
+
+// Ready-made frames record four percentages (a uniform pixel slice is a different share of width and height);
+// the CSS value must carry all four and the coverage maths must use the width share.
+test('frame(): a ready-made frame with per-side slice percentages', async () => {
+  const idx = structuredClone(index);
+  const a = R({ index: idx, loadManifest: async (setId, ctx) => {
+    const m = structuredClone(await loadManifest(setId, ctx));
+    if (setId === 'numbered-plate') {
+      const s = m.assets['stepped-ribbon'];
+      s.render.frame = { slice: { top: 14.6, right: 10.68, bottom: 14.6, left: 10.68 }, slicePx: 146, atlas: s.sources };
+    }
+    return m;
+  } });
+  const fr = await a.frame('numbered-plate/stepped-ribbon', { thickness: 20, dpr: [1] });
+  assert.equal(fr.sliceCss, '14.6% 10.68% 14.6% 10.68%');
+  assert.match(fr.css, /border-image: image-set\(.*\) 14\.6% 10\.68% 14\.6% 10\.68% round;/);
+  // 20 css px must be covered by 10.68 % of the atlas width: 20 / 0.1068 = 187 px, so the 192 rung
+  assert.match(fr.atlasSrcset, /stepped-ribbon-192\.\w+ 192w$/);
+});

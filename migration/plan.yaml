@@ -3017,7 +3017,7 @@ entries:
     group: null
     wave: 1
     status: moved
-    notes: "polyhymnia packages/homepage-art/catalog.json; output/imagegen png is 1410x1116; delivered cropped lossless webp is 1367x1000; the png is the uncropped generation, decide which is the master; prefix stripped from \"illuminated-acanthus-floral-frame\"; wave 1 (set)"
+    notes: "polyhymnia packages/homepage-art/catalog.json; output/imagegen png is 1410x1116; delivered cropped lossless webp is 1367x1000; master decided 2026-10-27: the 1367x1000 crop (the uncropped png carries a faint haze margin); slice 146 px recorded as render.frame.slice_px; prefix stripped from \"illuminated-acanthus-floral-frame\"; wave 1 (set)"
   - old: "illuminated-acanthus-frame"
     set: "illuminated-acanthus"
     id: "illuminated-acanthus/frame"

@@ -206,13 +206,17 @@ export function createResolver({ index, base, formats = ['avif', 'webp'], pin = 
     const { setId, entry, asset } = await get(id);
     const f = asset.render?.frame;
     if (!f) throw new Error(`${id} has no render.frame`);
+    // Composed atlases record one percentage; ready-made frames record four (top right bottom left) because a uniform
+    // pixel slice is a different share of the width and of the height. The CSS value and the coverage maths follow.
     const slice = f.slice;
+    const sliceCss = typeof slice === 'number' ? `${slice}%` : `${slice.top}% ${slice.right}% ${slice.bottom}% ${slice.left}%`;
+    const sliceW = typeof slice === 'number' ? slice : slice.left; // share of the atlas width that must cover `thickness`
     const atlas = f.atlas;
     const dprs = dprList(d ?? dpr, [1, 2, 3]);
     const smallest = Object.values(atlas).find(Array.isArray)?.[0];
-    thickness ??= smallest ? Math.round((smallest.w * slice) / 100) : 16;
-    // the slice region (slice% of the atlas) must map onto `thickness` css px at density x
-    const need = (x) => (thickness * x * 100) / slice;
+    thickness ??= smallest ? Math.round((smallest.w * sliceW) / 100) : 16;
+    // the slice region (sliceW% of the atlas width) must map onto `thickness` css px at density x
+    const need = (x) => (thickness * x * 100) / sliceW;
     let value;
     if (atlas.svg) value = cssUrl(urlOf(entry, atlas.svg, setId));
     else value = imageSet(entry, setId, atlas, 'w', thickness, dprs, need).set;
@@ -223,8 +227,8 @@ export function createResolver({ index, base, formats = ['avif', 'webp'], pin = 
           .map((r) => `${urlOf(entry, r, setId)} ${r.w}w`)
           .join(', ')
       : '';
-    const css = [`border-style: solid;`, `border-width: ${thickness}px;`, `border-image: ${value} ${slice}% round;`].join('\n');
-    return { css, slice, atlasSrcset };
+    const css = [`border-style: solid;`, `border-width: ${thickness}px;`, `border-image: ${value} ${sliceCss} round;`].join('\n');
+    return { css, slice, sliceCss, atlasSrcset };
   }
 
   /** Paths of the files the copy command writes for an asset (all rungs), for flows that import local files. */
