@@ -100,19 +100,28 @@ export function createResolver({ index, base, formats = ['avif', 'webp'], pin = 
     const { setId, entry, asset } = ctx;
     const maxDpr = maxOf(d ?? dpr, 3);
     const sources = [];
+    const files = [];
+    const fileOf = (fmt, r) => ({ format: fmt, url: urlOf(entry, r, setId), path: r.path, width: r.w, height: r.h, bytes: r.bytes, sha256: r.sha256, ...(r.package ? { package: r.package } : {}) });
     let fallback;
+    let fallbackFmt;
     for (const fmt of formats) {
       const ladder = asset.sources?.[fmt];
       if (!Array.isArray(ladder) || !ladder.length) continue;
       const sel = selectRungs(ladder, width, { maxDpr });
       sources.push({ type: mime(fmt), srcset: sel.rungs.map((r) => `${urlOf(entry, r, setId)} ${r.w}w`).join(', ') });
+      files.push(...sel.rungs.map((r) => fileOf(fmt, r)));
       fallback = sel;
+      fallbackFmt = fmt;
     }
     if (!fallback) throw new Error(`${id}: none of the formats ${formats.join(', ')} is available`);
     const out = {
       src: urlOf(entry, fallback.src, setId),
       srcset: sources[sources.length - 1].srcset,
       sources,
+      // The chosen files with their bytes and sha256, for build scripts that record or verify what they reference.
+      // `file` is the one behind `src`; `files` lists every rung of every format in the srcsets.
+      file: fileOf(fallbackFmt, fallback.src),
+      files,
       sizes: sizes ?? (width ? `${width}px` : '100vw'),
       width: asset.width,
       height: asset.height,

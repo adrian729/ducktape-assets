@@ -287,7 +287,11 @@ export async function buildSet(repoDir, outDir, options = {}) {
     ...(packages.masters.length ? { mastersParts: packages.masters.map((n) => `${pkg}-masters-${n}`) } : {}),
     cdn: `https://cdn.jsdelivr.net/npm/${pkg}@${version}/`,
     license: { artwork: set.license.artwork, ...(set.license.notes ? { notes: set.license.notes } : {}) },
-    ...(set.origin?.institution ? { attribution: `${set.origin.institution}${set.origin.object_identifier ? ` ${set.origin.object_identifier}` : ''} (${set.license.artwork})` } : {}),
+    // One line a consumer may show. Historical sets credit the institution and object; authored and imported sets credit
+    // the author (CC-BY needs a name, and "origin unrecorded" imports are attributed to the author by owner decision).
+    attribution: set.origin?.institution
+      ? `${set.origin.institution}${set.origin.object_identifier ? ` ${set.origin.object_identifier}` : ''} (${set.license.artwork})`
+      : `${set.author} (${set.license.artwork})`,
     ...(set.period ? { period: set.period } : {}), ...(set.region ? { region: set.region } : {}), ...(set.style ? { style: set.style } : {}),
     ...(drafts.length ? { drafts } : {}),
     inputsHash,

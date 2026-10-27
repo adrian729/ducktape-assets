@@ -102,3 +102,14 @@ test('local(): copied paths', async () => {
   assert.equal(l.files.sources.webp[0].path, 'src/assets/ducktape/numbered-plate/webp/stepped-ribbon-96.webp');
   assert.equal(l.files.master, 'src/assets/ducktape/numbered-plate/masters/stepped-ribbon.webp');
 });
+
+// Build scripts record what they reference: every rung in the srcsets with its bytes and hash, and the file behind src.
+test('image(): file and files carry path, bytes and sha256 of the chosen rungs', async () => {
+  const a = R();
+  const img = await a.image(ID, { width: 320, dpr: 2 });
+  assert.equal(img.file.url, img.src);
+  assert.equal(img.file.format, 'webp');
+  assert.deepEqual([img.file.width, typeof img.file.bytes, img.file.sha256.length], [768, 'number', 64]);
+  assert.deepEqual(img.files.map((f) => `${f.format}:${f.width}`), ['avif:384', 'avif:768', 'webp:384', 'webp:768']);
+  assert.ok(img.files.every((f) => f.url && f.path && f.sha256));
+});

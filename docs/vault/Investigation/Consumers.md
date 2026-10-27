@@ -44,6 +44,15 @@ Conclusions for the new design:
 3. Both consumers built the same machinery twice (manifest reading, variant selection, hash verification). That machinery belongs in the library's build-time helper, not in the browser.
 4. The 404-after-publish and moving-package pains come from publishing many packages under exact pins. Grouping by set and publishing immutable content-addressed versions removes most of it.
 
+## Acceptance test: elder-scrolls on the new library (2026-10-27)
+
+Migrated by an agent in one sitting against `@ranx729/ducktape-assets@1.0.0`: resolver in Node from the shipped index, no bytes downloaded, `sources.json` kept its shape plus licence and attribution fields, build and tests pass, all eight referenced CDN files hash-match. Findings, and what changed in the library because of them:
+
+- Attribution was empty for authored and imported sets: the build only derived it from an institution. Now `author (licence)` when there is no institution. Needs a republish of the three sets.
+- Build scripts had to rediscover the file behind `src` to get its bytes and sha256. `image()` now returns `file` and `files`.
+- Wiring the resolver in Node took three steps. `createNodeResolver()` in `@ranx729/ducktape-assets/node` does it in one, offline. The generated README and AGENTS carry the recipe, including the `dpr: 1` trick for an exact 1x or 2x pick.
+- Still open, minor: `license` is an object on the resolver and a string in the catalog; no SPDX URL; descriptions sometimes end with layout notes that read oddly as alt text; `status` differs in wording between assets and sets.
+
 ## Migration inputs
 
 Every name below must appear in the migration map. The polyhymnia local names stay stable, so migrating that app means editing only `package` and `design` per entry in `scripts/ornament-selection.json`.

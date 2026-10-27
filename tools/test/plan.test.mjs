@@ -59,6 +59,14 @@ before(async () => {
   await writeFile(setsFile, YAML.stringify({ sets: [{ id: 'fixture-set', repo, status: 'active', added: '2026-11-02' }] }));
   indexDir = path.join(work, 'index');
   await cp(path.resolve(here, '../../index'), indexDir, { recursive: true, filter: (s) => !s.includes('node_modules') && !s.includes(`${path.sep}test`) });
+  // The repository's index/ holds the published library; these tests start from an index that has never published.
+  await rm(path.join(indexDir, 'sets'), { recursive: true, force: true });
+  await writeFile(path.join(indexDir, 'index.json'), JSON.stringify({ schema: 1, generatedAt: '2026-11-01T00:00:00.000Z', sets: {} }, null, 2) + '\n');
+  await writeFile(path.join(indexDir, 'catalog.json'), JSON.stringify({ schema: 1, generatedAt: '2026-11-01T00:00:00.000Z', assets: [] }, null, 2) + '\n');
+  const indexPkg = JSON.parse(await readFile(path.join(indexDir, 'package.json'), 'utf8'));
+  indexPkg.version = '0.0.0';
+  delete indexPkg.ducktape;
+  await writeFile(path.join(indexDir, 'package.json'), JSON.stringify(indexPkg, null, 2) + '\n');
   registry = new FakeRegistry();
   cacheA = path.join(work, 'cache-a');
   recordDir = path.join(work, 'releases');
