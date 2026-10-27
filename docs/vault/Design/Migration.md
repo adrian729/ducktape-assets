@@ -46,7 +46,7 @@ Historical sources:
 - `walters-w148` (31r, 52r): 5
 - `cma-1524-psalter` (groups per leaf: 1999-136-a/b, 2011-67-a/b, 2006-15-a/b): 77; the dry run estimates 39 MB delivery and 64 MB masters, so no `-part2` is needed. `cma-2011-65` (4) stays its own set as in the old catalog.
 - `walters-w102` (groups per folio, incl. 74v `horse-flute-drum` and 81r `rabbit-church-bells`): 4
-- `fitzwilliam-ms1-2005`: 1 (candidate for the single-object rule below)
+- `fitzwilliam-ms1-2005`: 1 (a single leaf: its own set by the object rule)
 - `cma-2014-22` Shepherds Annunciation: 16
 - `cma-1950-154` Greek Psalter: 7
 - `cma-2005-206` Office of the Dead (a, b): 15
@@ -57,13 +57,13 @@ Historical sources:
 - `cma-1963-256`: 6 (unassigned today, reference `cleveland-1963-256-80-b`)
 - `met-livre-nouveau-de-fleurs` (425823, 425840, 425800, one print series; the earlier `met-flower-friezes` entry was the same 46 designs): 46
 - `met-latomus-lace`: 18
-- `met-hopfer-friezes`: 10
-- `met-du-cerceau` (387622 bird canopies, 338721 birdcage grotesques): 13
+- ~~`met-hopfer-friezes`: 10~~ → `hopfer-prints` (12, loose-print rule of 2026-10-27)
+- ~~`met-du-cerceau` (387622 bird canopies, 338721 birdcage grotesques): 13~~ → `du-cerceau-prints` (16 rows including components; groups by accession)
 - `met-schoen-modelbuch` (681251, 681253, 681256, 680571, 680623): 22
-- `met-acanthus-prints` (364800 putti medallions, 377606 cupid seasons): 5, or fold into `met-du-cerceau` if they are the same print room theme; decide on the dry run
+- ~~`met-acanthus-prints` (364800 putti medallions, 377606 cupid seasons): 5~~ → `lucas-van-leyden-prints` (3) and `della-bella-prints` (2)
 - `met-356741`: 8 (unassigned today)
 - `mkg-de-bry-alphabet`: 11
-- `nga-ornament-prints` (3305, 3513, 3375): 8
+- ~~`nga-ornament-prints` (3305, 3513, 3375): 8~~ → dissolved into `meckenem-prints` (4), `schongauer-prints` (6) and `aldegrever-prints` (22), which also take the former triage rows; the other artist sets are `beham-prints` (8), `solis-prints` (3), `zoan-andrea-prints` (2), `giancarli-prints`, `christollien-prints` and `master-w-with-the-key-prints` (1 each), plus the single-leaf sets `cma-1999-127` and `cma-2001-79`
 - `openn-lewis-e-m` (groups per shelfmark 012-002, 012-019, 013-004, 013-005, 017-007, 023-019, 028-026-027, 031-029, 067-003): 35
 - `gessner-historiae-animalium` (incl. e-rara lion): 18
 - `fuchs-1542-herbal`: 7
@@ -81,9 +81,9 @@ Legacy imports without provenance (decided 2026-10-26: published with `provenanc
 - `medieval-cutouts`: 41
 - `numbered-plate` (the 38 designs cut from one supplied ornament sheet): 38
 - `floral-vector-borders` (six hand-made SVG border styles): 6
-- `supplied-sheets` (groups blue-sheet, painted-sheet, five-painted-panels, stencil-sheet, tall-floral-sheet): 24
+- `supplied-sheets` (groups blue-sheet, painted-sheet, five-painted-panels, stencil-sheet, tall-floral-sheet, drawn-vector-sheet): 26
 
-That is 39 sets and 78 packages before triage. The dry run put 47 single-object holdings in triage (7 Cleveland, 10 Met, 10 MKG, 17 NGA, 2 vector-sheet pieces). Proposed rule, for the owner to confirm before wave 2: single-object holdings go into one set per institution (`cma-leaves`, `met-prints`, `mkg-prints`, `nga-prints`) with `group` = the object and full per-asset provenance; accession-prefix matches (15 NGA with 1943.3, 2 Met with 2012.136) fold into `nga-ornament-prints` and `met-hopfer-friezes`; the two vector-sheet pieces join `supplied-sheets`.
+That was 39 sets and 78 packages before triage. The dry run put 47 single-object holdings in triage (7 Cleveland, 10 Met, 10 MKG, 17 NGA, 2 vector-sheet pieces). Decided 2026-10-27 (loose-print rule, [[Design/Repository layout]]): loose prints go into `<artist>-prints` across institutions with `group` = holding accession and a per-asset credit; the two Cleveland leaves are single-leaf sets by the object rule; the two drawn pieces join `supplied-sheets` (26). With the four Met and NGA print sets dissolved into artist sets the plan has 50 sets and 100 packages and no triage rows, see [[Investigation/Importer dry run]].
 
 ## Id rewriting rules
 

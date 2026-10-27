@@ -33,7 +33,9 @@ origin: { institution: Walters Art Museum, object_identifier: W.102 }
 tags: [marginalia, animals, book-of-hours]
 ```
 
-`maintainer`, `period`, `region` and `style` were added on 2026-10-26. An authored set carries `origin: { method: reference-guided-ai-generation, references: [walters-w102] }` instead of an institution, and a `license.notes` line for attribution.
+`maintainer`, `period`, `region` and `style` were added on 2026-10-26. An authored set carries `origin: { method: reference-guided-ai-generation, references: [walters-w102] }` instead of an institution, and a `license.notes` line for attribution. A historical set that spans several holdings (an artist's loose prints, see [[Design/Repository layout]]) carries `origin: {}` and every asset names `institution` and `object_identifier` in its provenance; the validator refuses one that does not, and the schema allows institution and object identifier at set level only together.
+
+The build writes `attribution` into the manifest as the bare credit, never with the licence: `Walters Art Museum W.102` for a set from one object, the sorted institutions for a set spanning holdings, the author for authored and imported sets. An asset gets its own `attribution` only when its holding differs from the set's line. The licence is the separate `license` field (SPDX id). Since tooling 0.2.0, 2026-10-27.
 
 ### `assets/<asset-id>/asset.yaml` (one per asset)
 

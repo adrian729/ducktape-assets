@@ -25,7 +25,8 @@ The npm scope stays `@ranx729` and repos stay under `adrian729`, decided 2026-10
 
 A set is a curated group of assets that share an origin and belong together visually. The grouping rule, applied in this order:
 
-1. **One historical source object = one set**: a manuscript (Walters W.82), a printed book (Gessner, Fuchs), a print series (Hopfer friezes), a single leaf when it is the only thing from that holding. Folios or plates inside it are `group` on the asset.
+1. **One historical source object = one set**: a manuscript (Walters W.82), a printed book (Gessner, Fuchs), a titled print series or model book (Livre nouveau de fleurs, Schoen's Modelbuch, de Bry's alphabet), a single leaf when it is the only thing from that holding (`cma-1999-127`). Folios or plates inside it are `group` on the asset.
+   - **Loose prints go by artist, not by holding** (decided 2026-10-27): an engraving is an edition, so the impression an institution happens to own is not the work. A single-sheet ornament print that belongs to no titled series goes into `<artist>-prints` (`aldegrever-prints`, `hopfer-prints`, `master-w-with-the-key-prints`) across institutions, with `group` = the holding object's accession and full provenance on every asset; the set's `origin` names no institution and the manifest credits each asset with its own holding. The rule is decidable from the asset alone, so nothing ever moves when more sheets arrive, and a set of one print is acceptable. Never a per-institution catch-all.
 2. **One authored or AI campaign = one set**: the illuminated acanthus pieces, the shaggy bestiary.
 3. **One imported legacy collection = one set** at import time (the 41 medieval-cutouts, the 38 numbered-plate designs, the 6 floral SVG border styles), which may be split later by curation with migration records.
 4. A set is a curation decision, not a size decision. A set that outgrows one npm package is still one set, one repo, one manifest, one version: the publisher splits its files across **volume packages** (below). Splitting a set into two sets is done only when the curation calls for it (`walters-w82-marginalia`, `walters-w82-initials`), never by counter and never just to fit a limit.
@@ -40,7 +41,7 @@ The package size guard (warn at 100 MB, fail at 120 MB unpacked, see [[Image pip
 - With the 2048 cap and the format rule a typical asset ladder is under 1 MB, so a set needs roughly 150 assets before it needs a second part. One to three of the planned sets will.
 - Asking jsDelivr for a raised limit stays optional and is never relied on.
 
-Historical set ids use `<institution-short>-<object-id>` (`walters-w82`, `cma-1524-psalter`, `met-425823`, `openn-lewis-e-m-013`). Authored sets use a descriptive name. The initial list of sets for the migration is in [[Migration]].
+Historical set ids use `<institution-short>-<object-id>` (`walters-w82`, `cma-1524-psalter`, `met-425823`, `openn-lewis-e-m-013`), or `<artist>-prints` for an artist's loose prints. Authored sets use a descriptive name. The initial list of sets for the migration is in [[Migration]].
 
 ## Set repository layout
 
