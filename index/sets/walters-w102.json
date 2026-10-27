@@ -731,10 +731,10 @@
     }
   },
   "attribution": "Walters Art Museum W.102 (CC0-1.0)",
-  "builtAt": "2026-10-26T21:27:25.852Z",
-  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-walters-w102@1.0.0/",
+  "builtAt": "2026-10-27T17:29:52.282Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-walters-w102@1.0.1/",
   "contentHash": "sha256:af3a33a4e36be1b741107aef88b7abcd613fb23e5d951f334e97f1c8176b8947",
-  "inputsHash": "sha256:6964d3470d257e16969ea721e238f8040a64e6ab9e1692237a1429f1c38564bc",
+  "inputsHash": "sha256:905f4894698885139731e88e2e830b4795ddc673ab95c960e7f12cd45e787e86",
   "kind": "historical",
   "license": {
     "artwork": "CC0-1.0",
@@ -753,7 +753,7 @@
     "concurrency": 1,
     "libvips": "8.18.7",
     "sharp": "0.35.5",
-    "tools": "0.0.0"
+    "tools": "0.1.0"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }

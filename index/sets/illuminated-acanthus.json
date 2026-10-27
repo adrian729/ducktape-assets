@@ -8174,10 +8174,10 @@
     }
   },
   "attribution": "adrian729 (CC-BY-4.0)",
-  "builtAt": "2026-10-27T17:07:49.118Z",
-  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-illuminated-acanthus@2.0.0/",
+  "builtAt": "2026-10-27T17:21:45.641Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-illuminated-acanthus@2.0.1/",
   "contentHash": "sha256:a7a943d0ee38ad8981251f4e6b723f69a5638417b682595a863563941510a81c",
-  "inputsHash": "sha256:d948d8c1a8cba53b2941c84c6fcc368e950daa7dba43fdc2841237cf24f19023",
+  "inputsHash": "sha256:3509f2f03a0670dc5581e2543b8d4b250ed12aa35578e0b90a682a1e32224a7f",
   "kind": "authored",
   "license": {
     "artwork": "CC-BY-4.0",
@@ -8196,7 +8196,7 @@
     "concurrency": 1,
     "libvips": "8.18.7",
     "sharp": "0.35.5",
-    "tools": "0.0.0"
+    "tools": "0.1.0"
   },
-  "version": "2.0.0"
+  "version": "2.0.1"
 }
