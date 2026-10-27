@@ -1,20 +1,20 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-26T21:29:18.072Z",
+  "generatedAt": "2026-10-27T17:12:31.916Z",
   "sets": {
     "illuminated-acanthus": {
-      "version": "1.0.0",
+      "version": "2.0.0",
       "package": "@ranx729/ducktape-assets-illuminated-acanthus",
       "parts": [],
       "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters",
       "mastersParts": [],
-      "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-illuminated-acanthus@1.0.0/",
-      "mastersCdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-illuminated-acanthus-masters@1.0.0/",
+      "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-illuminated-acanthus@2.0.0/",
+      "mastersCdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-illuminated-acanthus-masters@2.0.0/",
       "assets": 36,
       "license": {
         "artwork": "CC-BY-4.0"
       },
-      "contentHash": "sha256:bebadbe305ae62fddfc9fb389b058748e74e6fac15f70014cddbb0fa71cb17f9",
+      "contentHash": "sha256:a7a943d0ee38ad8981251f4e6b723f69a5638417b682595a863563941510a81c",
       "status": "active"
     },
     "medieval-cutouts": {

@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "runId": "40547559404",
+  "dryRun": false,
+  "actor": "adrian729",
+  "startedAt": "2026-10-27T17:12:13.626Z",
+  "finishedAt": "2026-10-27T17:12:36.979Z",
+  "planGeneratedAt": "2026-10-27T17:07:45.564Z",
+  "packages": [
+    {
+      "name": "@ranx729/ducktape-assets-illuminated-acanthus",
+      "version": "2.0.0",
+      "set": "illuminated-acanthus",
+      "kind": "delivery",
+      "inputsHash": "sha256:d948d8c1a8cba53b2941c84c6fcc368e950daa7dba43fdc2841237cf24f19023",
+      "contentHash": "sha256:a7a943d0ee38ad8981251f4e6b723f69a5638417b682595a863563941510a81c",
+      "bytes": 39130724,
+      "result": "published",
+      "at": "2026-10-27T17:12:23.327Z"
+    },
+    {
+      "name": "@ranx729/ducktape-assets-illuminated-acanthus-masters",
+      "version": "2.0.0",
+      "set": "illuminated-acanthus",
+      "kind": "masters",
+      "inputsHash": "sha256:d948d8c1a8cba53b2941c84c6fcc368e950daa7dba43fdc2841237cf24f19023",
+      "contentHash": "sha256:a7a943d0ee38ad8981251f4e6b723f69a5638417b682595a863563941510a81c",
+      "bytes": 33953142,
+      "result": "published",
+      "at": "2026-10-27T17:12:31.908Z"
+    },
+    {
+      "name": "@ranx729/ducktape-assets",
+      "version": "1.1.0",
+      "set": null,
+      "kind": "index",
+      "inputsHash": "sha256:43ed276ca6ec7cc9615e54be5531d25f194c7f273616f26c09216e4df3ab617f",
+      "contentHash": "sha256:63c692b5bd87c81fadb195c40e0f4e0e3fa55dc1a826a8a8d50fda35ceb0f341",
+      "bytes": null,
+      "result": "published",
+      "at": "2026-10-27T17:12:36.979Z"
+    }
+  ],
+  "sets": [
+    {
+      "set": "illuminated-acanthus",
+      "current": "1.0.0",
+      "next": "2.0.0",
+      "bump": "major",
+      "commit": "fe48d17b2e354e6a48e0844b7ffd6f3a86f1eaae",
+      "inputsHash": "sha256:d948d8c1a8cba53b2941c84c6fcc368e950daa7dba43fdc2841237cf24f19023",
+      "contentHash": "sha256:a7a943d0ee38ad8981251f4e6b723f69a5638417b682595a863563941510a81c",
+      "added": 0,
+      "changed": 1,
+      "removed": 0
+    }
+  ],
+  "index": {
+    "name": "@ranx729/ducktape-assets",
+    "version": "1.1.0",
+    "previous": "1.0.0",
+    "pins": {
+      "illuminated-acanthus": "2.0.0",
+      "medieval-cutouts": "1.0.0",
+      "walters-w102": "1.0.0"
+    },
+    "inputsHash": "sha256:43ed276ca6ec7cc9615e54be5531d25f194c7f273616f26c09216e4df3ab617f",
+    "contentHash": "sha256:63c692b5bd87c81fadb195c40e0f4e0e3fa55dc1a826a8a8d50fda35ceb0f341",
+    "result": "published",
+    "at": "2026-10-27T17:12:36.979Z"
+  },
+  "error": null,
+  "cdn": {
+    "checkedAt": "2026-10-27T17:19:42.096Z",
+    "ok": true,
+    "level": null,
+    "results": [
+      {
+        "name": "@ranx729/ducktape-assets-illuminated-acanthus",
+        "version": "2.0.0",
+        "kind": "delivery",
+        "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-illuminated-acanthus@2.0.0/manifest.json",
+        "attempts": 6,
+        "http": 200,
+        "result": "ok",
+        "detail": ""
+      },
+      {
+        "name": "@ranx729/ducktape-assets-illuminated-acanthus-masters",
+        "version": "2.0.0",
+        "kind": "masters",
+        "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-illuminated-acanthus-masters@2.0.0/package.json",
+        "attempts": 15,
+        "http": 200,
+        "result": "ok",
+        "detail": ""
+      },
+      {
+        "name": "@ranx729/ducktape-assets",
+        "version": "1.1.0",
+        "kind": "index",
+        "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets@1.1.0/package.json",
+        "attempts": 9,
+        "http": 200,
+        "result": "ok",
+        "detail": ""
+      }
+    ]
+  }
+}

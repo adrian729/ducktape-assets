@@ -1611,25 +1611,25 @@
       ],
       "encoding": {
         "avif": true,
-        "avifTopBytes": 148169,
-        "webpTopBytes": 279722
+        "avifTopBytes": 130229,
+        "webpTopBytes": 253534
       },
       "facing": "none",
       "group": "floral-border",
-      "height": 1116,
+      "height": 1000,
       "master": {
-        "bytes": 1235832,
-        "h": 1116,
+        "bytes": 1207266,
+        "h": 1000,
         "path": "masters/floral-frame.webp",
-        "sha256": "5cc6313a4f033119312ad550e22a5ea18273072a11e92d9a9a88850c6aed7fba",
-        "w": 1410
+        "sha256": "5a77b95402e616d528f845b93101afe239aee8cb21a79154f4733af8cc7c297f",
+        "w": 1367
       },
       "palette": [
-        "#9c6d35",
-        "#b75e2f",
-        "#bf7e3d",
-        "#7b6934",
-        "#636661"
+        "#bf7c3c",
+        "#956731",
+        "#b95e30",
+        "#63655b",
+        "#9a743e"
       ],
       "related": [
         {
@@ -1638,152 +1638,307 @@
         }
       ],
       "render": {
+        "frame": {
+          "atlas": {
+            "avif": [
+              {
+                "bytes": 1266,
+                "h": 47,
+                "path": "avif/floral-frame-64.avif",
+                "sha256": "c72f1029d3833b35d60254852e6257a043b24c9a75ac91eecfd396a5e5af43b7",
+                "w": 64
+              },
+              {
+                "bytes": 2051,
+                "h": 70,
+                "path": "avif/floral-frame-96.avif",
+                "sha256": "2bcefa81cc582bb986977cc8941de86f9bc6197e2563a737a2ad868a3347ebc3",
+                "w": 96
+              },
+              {
+                "bytes": 3351,
+                "h": 94,
+                "path": "avif/floral-frame-128.avif",
+                "sha256": "afd8bede3261bd6dcadae68c8633aa039a3e4181e1b76685fba3243f398a1b2f",
+                "w": 128
+              },
+              {
+                "bytes": 5052,
+                "h": 140,
+                "path": "avif/floral-frame-192.avif",
+                "sha256": "3eea02e31baf0c0059abf160f4a39e8bb5bf2abfc3fa426393820dec13eaeb42",
+                "w": 192
+              },
+              {
+                "bytes": 6463,
+                "h": 187,
+                "path": "avif/floral-frame-256.avif",
+                "sha256": "9ed5eff121b2ee01a8bd0618862ae7fbc87f2a2def0d4f6c51618831445198f0",
+                "w": 256
+              },
+              {
+                "bytes": 14881,
+                "h": 281,
+                "path": "avif/floral-frame-384.avif",
+                "sha256": "b47dea3d0c356555b3f31ba4979163c708f0d99e97cb4130976a78b3c2b98ffd",
+                "w": 384
+              },
+              {
+                "bytes": 22279,
+                "h": 375,
+                "path": "avif/floral-frame-512.avif",
+                "sha256": "46a428b802180a9ae46501d80ba536d4b1d39661ba30ca7903c422fa74867806",
+                "w": 512
+              },
+              {
+                "bytes": 47230,
+                "h": 562,
+                "path": "avif/floral-frame-768.avif",
+                "sha256": "c05fba96991132f3c998f5720acc0286c58287b0d2708272fb32108474b71b0c",
+                "w": 768
+              },
+              {
+                "bytes": 77165,
+                "h": 749,
+                "path": "avif/floral-frame-1024.avif",
+                "sha256": "fc62c1b0da3651d995583d4e953641b96ebb8489da9b4eb95ca5231bb5b3d7ca",
+                "w": 1024
+              },
+              {
+                "bytes": 130229,
+                "h": 1000,
+                "path": "avif/floral-frame-1367.avif",
+                "sha256": "ecfc4fc9e19bdbf1547743c34c7004e34882b30f1f0f6b901d945e606fd7990a",
+                "w": 1367
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 1450,
+                "h": 47,
+                "path": "webp/floral-frame-64.webp",
+                "sha256": "cf65baff36575006905dbd4d2d3c1c0bf5a0205c26744c4e19f5ac1e298cac6b",
+                "w": 64
+              },
+              {
+                "bytes": 2536,
+                "h": 70,
+                "path": "webp/floral-frame-96.webp",
+                "sha256": "4aea33bd0ec4a2e46bfcc87eb0c980343edae525585df734703921d2c51773d7",
+                "w": 96
+              },
+              {
+                "bytes": 3774,
+                "h": 94,
+                "path": "webp/floral-frame-128.webp",
+                "sha256": "138e726aa0837da22de393d01707a5d72f412ebe66fbd15633c36100e07b06a5",
+                "w": 128
+              },
+              {
+                "bytes": 7500,
+                "h": 140,
+                "path": "webp/floral-frame-192.webp",
+                "sha256": "d35a388cf3a933858b2a384daee118f25b550415f47d382a3fff3b2c2b8e92ad",
+                "w": 192
+              },
+              {
+                "bytes": 11794,
+                "h": 187,
+                "path": "webp/floral-frame-256.webp",
+                "sha256": "0bf57533e9aa36654c21c88bcb5bcc2e80bdd759deb8743a211ba5ba99a8a626",
+                "w": 256
+              },
+              {
+                "bytes": 24018,
+                "h": 281,
+                "path": "webp/floral-frame-384.webp",
+                "sha256": "9b3c131e3b52a6afba33d73d2ac0cd01a7409bd2aa6dda4606d4b9de8dafe4ba",
+                "w": 384
+              },
+              {
+                "bytes": 40394,
+                "h": 375,
+                "path": "webp/floral-frame-512.webp",
+                "sha256": "a1dfc972b693b9044f3ef8a5f474b4748d591eded2352728f42131b7ab875b9b",
+                "w": 512
+              },
+              {
+                "bytes": 86810,
+                "h": 562,
+                "path": "webp/floral-frame-768.webp",
+                "sha256": "8b145b35855340bd7832ecd6678bb80e66881107615fdf3ab52056d0d5372007",
+                "w": 768
+              },
+              {
+                "bytes": 149138,
+                "h": 749,
+                "path": "webp/floral-frame-1024.webp",
+                "sha256": "d7df608371aa5c2867fe9865476fc0b298df1e879eab26ea1d829d80dfe7c38f",
+                "w": 1024
+              },
+              {
+                "bytes": 253534,
+                "h": 1000,
+                "path": "webp/floral-frame-1367.webp",
+                "sha256": "6b5ab7b0e09d23ca755215b129ce5db77eec3276a746e02bf16f3daef73a78aa",
+                "w": 1367
+              }
+            ]
+          },
+          "slice": {
+            "bottom": 14.6,
+            "left": 10.68,
+            "right": 10.68,
+            "top": 14.6
+          },
+          "slicePx": 146
+        },
         "image": {}
       },
       "resolutionLimited": false,
       "sources": {
         "avif": [
           {
-            "bytes": 1196,
-            "h": 51,
+            "bytes": 1266,
+            "h": 47,
             "path": "avif/floral-frame-64.avif",
-            "sha256": "e394e268b08dc1ccf1a14db73150b087c31b64b9f186702293e45ee60e2958de",
+            "sha256": "c72f1029d3833b35d60254852e6257a043b24c9a75ac91eecfd396a5e5af43b7",
             "w": 64
           },
           {
-            "bytes": 2108,
-            "h": 76,
+            "bytes": 2051,
+            "h": 70,
             "path": "avif/floral-frame-96.avif",
-            "sha256": "44f5a4d95f3081e99089cbe9483dc7140e1d75c72a78b167e9e698fc47fb5d0d",
+            "sha256": "2bcefa81cc582bb986977cc8941de86f9bc6197e2563a737a2ad868a3347ebc3",
             "w": 96
           },
           {
-            "bytes": 2663,
-            "h": 101,
+            "bytes": 3351,
+            "h": 94,
             "path": "avif/floral-frame-128.avif",
-            "sha256": "9d1505ec3c3a15adb84011f375e8d192e9a26025a240d2ce7e155e6e04db3c9d",
+            "sha256": "afd8bede3261bd6dcadae68c8633aa039a3e4181e1b76685fba3243f398a1b2f",
             "w": 128
           },
           {
-            "bytes": 5010,
-            "h": 152,
+            "bytes": 5052,
+            "h": 140,
             "path": "avif/floral-frame-192.avif",
-            "sha256": "f898ae2a5e2a933ca1ad196859e300312dbbd8d43a31cf786caf7874d68eb486",
+            "sha256": "3eea02e31baf0c0059abf160f4a39e8bb5bf2abfc3fa426393820dec13eaeb42",
             "w": 192
           },
           {
-            "bytes": 7089,
-            "h": 203,
+            "bytes": 6463,
+            "h": 187,
             "path": "avif/floral-frame-256.avif",
-            "sha256": "f4889c1ae70adc8cfa87dda8cc6b4b9b7d42c45ca92176bd187cf64e90467633",
+            "sha256": "9ed5eff121b2ee01a8bd0618862ae7fbc87f2a2def0d4f6c51618831445198f0",
             "w": 256
           },
           {
-            "bytes": 14220,
-            "h": 304,
+            "bytes": 14881,
+            "h": 281,
             "path": "avif/floral-frame-384.avif",
-            "sha256": "2ecef8073fc78d81a0cf705b1d1209a6ba2c2bccc0266e025e5fe20326b53c10",
+            "sha256": "b47dea3d0c356555b3f31ba4979163c708f0d99e97cb4130976a78b3c2b98ffd",
             "w": 384
           },
           {
-            "bytes": 23156,
-            "h": 405,
+            "bytes": 22279,
+            "h": 375,
             "path": "avif/floral-frame-512.avif",
-            "sha256": "30df44c9fd7a21ee90df0461f3b0d026868218a508e7656fe86b721230e83805",
+            "sha256": "46a428b802180a9ae46501d80ba536d4b1d39661ba30ca7903c422fa74867806",
             "w": 512
           },
           {
-            "bytes": 50568,
-            "h": 608,
+            "bytes": 47230,
+            "h": 562,
             "path": "avif/floral-frame-768.avif",
-            "sha256": "53b1778521f01300715412e8ea1bddcbcd3fb13fc7b45875e4955ab8c5ae670a",
+            "sha256": "c05fba96991132f3c998f5720acc0286c58287b0d2708272fb32108474b71b0c",
             "w": 768
           },
           {
-            "bytes": 84514,
-            "h": 810,
+            "bytes": 77165,
+            "h": 749,
             "path": "avif/floral-frame-1024.avif",
-            "sha256": "7a9390dcd9961858c4974ca5a805f5ffbe64921ba465683fb974fa8babdbbff1",
+            "sha256": "fc62c1b0da3651d995583d4e953641b96ebb8489da9b4eb95ca5231bb5b3d7ca",
             "w": 1024
           },
           {
-            "bytes": 148169,
-            "h": 1116,
-            "path": "avif/floral-frame-1410.avif",
-            "sha256": "e68a4d67db501870d9b6b4e06be867bc1610898f278dcf0383146b582fb752c2",
-            "w": 1410
+            "bytes": 130229,
+            "h": 1000,
+            "path": "avif/floral-frame-1367.avif",
+            "sha256": "ecfc4fc9e19bdbf1547743c34c7004e34882b30f1f0f6b901d945e606fd7990a",
+            "w": 1367
           }
         ],
         "webp": [
           {
-            "bytes": 1492,
-            "h": 51,
+            "bytes": 1450,
+            "h": 47,
             "path": "webp/floral-frame-64.webp",
-            "sha256": "45f38ef29fa0ff8c8f33abe71a1311a32ddf2e6d4ffe25045d59693ee4e13932",
+            "sha256": "cf65baff36575006905dbd4d2d3c1c0bf5a0205c26744c4e19f5ac1e298cac6b",
             "w": 64
           },
           {
-            "bytes": 2686,
-            "h": 76,
+            "bytes": 2536,
+            "h": 70,
             "path": "webp/floral-frame-96.webp",
-            "sha256": "5e7d0493ca601593c989159c298530abce57532c6d83e16d276316ecac50588b",
+            "sha256": "4aea33bd0ec4a2e46bfcc87eb0c980343edae525585df734703921d2c51773d7",
             "w": 96
           },
           {
-            "bytes": 4380,
-            "h": 101,
+            "bytes": 3774,
+            "h": 94,
             "path": "webp/floral-frame-128.webp",
-            "sha256": "c50ddd8eecb7e78e15b5afe67fb972a848f3ef63d1c87e44330c50c8820d8a5b",
+            "sha256": "138e726aa0837da22de393d01707a5d72f412ebe66fbd15633c36100e07b06a5",
             "w": 128
           },
           {
-            "bytes": 8190,
-            "h": 152,
+            "bytes": 7500,
+            "h": 140,
             "path": "webp/floral-frame-192.webp",
-            "sha256": "43dfe77f2ac12fc88ee61119b3343bf3d2f0e57226b69e72156f949d8b321ac9",
+            "sha256": "d35a388cf3a933858b2a384daee118f25b550415f47d382a3fff3b2c2b8e92ad",
             "w": 192
           },
           {
-            "bytes": 12868,
-            "h": 203,
+            "bytes": 11794,
+            "h": 187,
             "path": "webp/floral-frame-256.webp",
-            "sha256": "21b00a1923ef6834e4e0b3126521e850fd577a27fb1959fec03a62639bd05091",
+            "sha256": "0bf57533e9aa36654c21c88bcb5bcc2e80bdd759deb8743a211ba5ba99a8a626",
             "w": 256
           },
           {
-            "bytes": 26314,
-            "h": 304,
+            "bytes": 24018,
+            "h": 281,
             "path": "webp/floral-frame-384.webp",
-            "sha256": "c5a80fe6c4225a6d0dba44fc02cd15907cf023352b8cdc9eded148d0a196cdf7",
+            "sha256": "9b3c131e3b52a6afba33d73d2ac0cd01a7409bd2aa6dda4606d4b9de8dafe4ba",
             "w": 384
           },
           {
-            "bytes": 40684,
-            "h": 405,
+            "bytes": 40394,
+            "h": 375,
             "path": "webp/floral-frame-512.webp",
-            "sha256": "927274a7121f26818677cc1df28c6e62864e837c105b9e1a8085c7e8f3ebe811",
+            "sha256": "a1dfc972b693b9044f3ef8a5f474b4748d591eded2352728f42131b7ab875b9b",
             "w": 512
           },
           {
-            "bytes": 89362,
-            "h": 608,
+            "bytes": 86810,
+            "h": 562,
             "path": "webp/floral-frame-768.webp",
-            "sha256": "b1b7cc09245a42fefb017c1e1b665998a48dcafcefd8f7dad4d05a3d87e3d623",
+            "sha256": "8b145b35855340bd7832ecd6678bb80e66881107615fdf3ab52056d0d5372007",
             "w": 768
           },
           {
-            "bytes": 158952,
-            "h": 810,
+            "bytes": 149138,
+            "h": 749,
             "path": "webp/floral-frame-1024.webp",
-            "sha256": "9d4e5b21550399f88b48407f8e10ba54fa24512c9c6ec7a7c9b89a407a68342a",
+            "sha256": "d7df608371aa5c2867fe9865476fc0b298df1e879eab26ea1d829d80dfe7c38f",
             "w": 1024
           },
           {
-            "bytes": 279722,
-            "h": 1116,
-            "path": "webp/floral-frame-1410.webp",
-            "sha256": "015641c6d31296f6d6d6571b91b32b1eff09305b072436a31356a6635af3e39e",
-            "w": 1410
+            "bytes": 253534,
+            "h": 1000,
+            "path": "webp/floral-frame-1367.webp",
+            "sha256": "6b5ab7b0e09d23ca755215b129ce5db77eec3276a746e02bf16f3daef73a78aa",
+            "w": 1367
           }
         ]
       },
@@ -1796,16 +1951,16 @@
         "scroll",
         "rule"
       ],
-      "thumbhash": "W2qCBIAmqepogmBUavt1w092fox4+Eh4CA==",
+      "thumbhash": "W2qCBIA2V7logGAxW/p1o0+HjYx4+Gh4DA==",
       "title": "Floral frame",
       "transparent": true,
       "type": "frame",
       "usage_notes": [
-        "Fixed complete frame; scale it proportionally as one image and place content in the transparent opening.",
-        "Not sliced for border-image: the four corners are drawn individually and the sides are not repeat tiles.",
+        "Complete frame for CSS border-image: the build records the slice (146 px on the master, 10.68 % of the width and 14.6 % of the height) and the resolver's frame() returns the rule; the opening is transparent.",
+        "Also fine as one proportionally scaled image with content in the opening.",
         "ornate-inner-frame and the frame-growth corners share its palette."
       ],
-      "width": 1410
+      "width": 1367
     },
     "frame": {
       "categories": [
@@ -8018,10 +8173,11 @@
       "width": 1024
     }
   },
-  "builtAt": "2026-10-26T21:20:12.484Z",
-  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-illuminated-acanthus@1.0.0/",
-  "contentHash": "sha256:bebadbe305ae62fddfc9fb389b058748e74e6fac15f70014cddbb0fa71cb17f9",
-  "inputsHash": "sha256:d789bf56ba6da164610a69f7f508b1611b4ac725619797594e10e3432d3bddff",
+  "attribution": "adrian729 (CC-BY-4.0)",
+  "builtAt": "2026-10-27T17:07:49.118Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-illuminated-acanthus@2.0.0/",
+  "contentHash": "sha256:a7a943d0ee38ad8981251f4e6b723f69a5638417b682595a863563941510a81c",
+  "inputsHash": "sha256:d948d8c1a8cba53b2941c84c6fcc368e950daa7dba43fdc2841237cf24f19023",
   "kind": "authored",
   "license": {
     "artwork": "CC-BY-4.0",
@@ -8042,5 +8198,5 @@
     "sharp": "0.35.5",
     "tools": "0.0.0"
   },
-  "version": "1.0.0"
+  "version": "2.0.0"
 }
