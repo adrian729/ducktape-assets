@@ -1,7 +1,7 @@
 # The single publisher. Manual dispatch only (no schedule, no emails). Two jobs:
 #   plan:    no secrets, no id-token. Clones every registered set repo, computes inputsHash per set, compares with npm,
 #            builds what changed, writes the table to the run summary, outputs the list of packages to publish.
-#   publish: environment "release" (required reviewer = owner, one approval per run). Rebuilds the changed sets from the
+#   publish: environment "release" (no required reviewer since 2026-10-26; the dispatch is the "go"). Rebuilds the changed sets from the
 #            same cache, publishes with trusted publishing (OIDC), index package last, verifies on jsDelivr, commits a release record.
 # Every trust configuration on npm is bound to: repo adrian729/ducktape-assets, workflow publish.yml, environment release.
 name: publish
@@ -68,15 +68,26 @@ jobs:
           restore-keys: publish-${{ runner.os }}-
       - name: Publish everything in the plan (idempotent; "already published" is success)
         run: node tools/src/cli.mjs publish --plan plan.json --cache .ducktape-cache --record releases/
+      # npm's public replication can lag many minutes behind a publish (seen 2026-10-26), and jsDelivr reads from it:
+      # wait up to 15 minutes. The record and the regenerated index/ are committed whatever the outcome, so a slow CDN
+      # never loses what was published; the job still fails afterwards if the CDN did not confirm.
       - name: Verify on jsDelivr and record
-        run: node tools/src/cli.mjs check-cdn --plan plan.json --record releases/
-      - name: Commit release record
+        id: verify
+        continue-on-error: true
+        run: node tools/src/cli.mjs check-cdn --plan plan.json --record releases/ --retries 30 --delay 30
+      - name: Commit release record and index
+        if: ${{ always() && steps.verify.conclusion != 'skipped' }}
         run: |
           git config user.name "ducktape-assets publisher"
           git config user.email "noreply@github.com"
           git add releases/ index/
           git commit -m "Release record for run ${{ github.run_id }}" || echo "nothing to commit"
           git push
+      - name: Fail if the CDN did not confirm
+        if: ${{ steps.verify.outcome == 'failure' }}
+        run: |
+          echo "jsDelivr did not serve every package within the retry window; rerun locally: node tools/src/cli.mjs check-cdn --record releases/"
+          exit 1
       - name: Deploy to the fallback CDN (only when armed; see docs/vault/Design/CDN contingency.md)
         if: ${{ vars.CDN_PROVIDER == 'cloudflare' }}
         run: node tools/src/cli.mjs deploy-cdn --plan plan.json

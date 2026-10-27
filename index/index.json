@@ -1,5 +1,51 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-26T00:00:00.000Z",
-  "sets": {}
+  "generatedAt": "2026-10-26T21:29:18.072Z",
+  "sets": {
+    "illuminated-acanthus": {
+      "version": "1.0.0",
+      "package": "@ranx729/ducktape-assets-illuminated-acanthus",
+      "parts": [],
+      "mastersPackage": "@ranx729/ducktape-assets-illuminated-acanthus-masters",
+      "mastersParts": [],
+      "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-illuminated-acanthus@1.0.0/",
+      "mastersCdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-illuminated-acanthus-masters@1.0.0/",
+      "assets": 36,
+      "license": {
+        "artwork": "CC-BY-4.0"
+      },
+      "contentHash": "sha256:bebadbe305ae62fddfc9fb389b058748e74e6fac15f70014cddbb0fa71cb17f9",
+      "status": "active"
+    },
+    "medieval-cutouts": {
+      "version": "1.0.0",
+      "package": "@ranx729/ducktape-assets-medieval-cutouts",
+      "parts": [],
+      "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters",
+      "mastersParts": [],
+      "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-medieval-cutouts@1.0.0/",
+      "mastersCdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-medieval-cutouts-masters@1.0.0/",
+      "assets": 41,
+      "license": {
+        "artwork": "CC-BY-4.0"
+      },
+      "contentHash": "sha256:3a32da2486e69bf5ce5152ce0105f383428d78c74ff75a96f82b7fdbdb13e4f2",
+      "status": "active"
+    },
+    "walters-w102": {
+      "version": "1.0.0",
+      "package": "@ranx729/ducktape-assets-walters-w102",
+      "parts": [],
+      "mastersPackage": "@ranx729/ducktape-assets-walters-w102-masters",
+      "mastersParts": [],
+      "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-walters-w102@1.0.0/",
+      "mastersCdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-walters-w102-masters@1.0.0/",
+      "assets": 4,
+      "license": {
+        "artwork": "CC0-1.0"
+      },
+      "contentHash": "sha256:af3a33a4e36be1b741107aef88b7abcd613fb23e5d951f334e97f1c8176b8947",
+      "status": "active"
+    }
+  }
 }

@@ -1,0 +1,759 @@
+{
+  "assets": {
+    "centaur-archer": {
+      "categories": [
+        "hybrids",
+        "fantasy",
+        "animals",
+        "humans"
+      ],
+      "colors": [
+        "blue",
+        "pink",
+        "red",
+        "black"
+      ],
+      "composition": "single-figure",
+      "description": "A galloping centaur with a pale human torso, a white coif and a blue dappled horse body draws a red bow, aiming its arrow up and to the right, on a transparent background. The whole figure moves to the right in strict profile.",
+      "display_width": [
+        160,
+        480
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 57847,
+        "webpTopBytes": 111642
+      },
+      "facing": "right",
+      "group": "82v",
+      "height": 646,
+      "master": {
+        "bytes": 373318,
+        "h": 646,
+        "path": "masters/centaur-archer.webp",
+        "sha256": "2f084bf0e5ae1796e7e9be8d504ac9362609c4e03fe76e3234a773b352247164",
+        "w": 720
+      },
+      "palette": [
+        "#374651",
+        "#ceae98",
+        "#595759",
+        "#8d5851",
+        "#918a84"
+      ],
+      "provenance": {
+        "date": "ca. 1300",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://live.staticflickr.com/8023/7699241118_60ac2881e4_b.jpg",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.102, fol. 82v",
+        "object_title": "Centaur firing an arrow",
+        "record_url": "https://art.thewalters.org/object/W.102.82V/",
+        "rights_url": "https://art.thewalters.org/object/W.102.82V/",
+        "source_sha256": "4f3c9f7909682439c1ad1cd159ba76134e0f4312a851224390ae2750859ef442"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2374,
+            "h": 57,
+            "path": "avif/centaur-archer-64.avif",
+            "sha256": "142cb3f143083012d6f367390f0307667119d8142400bcfe4f6fb9c001659d44",
+            "w": 64
+          },
+          {
+            "bytes": 3608,
+            "h": 86,
+            "path": "avif/centaur-archer-96.avif",
+            "sha256": "8e835e4f719090d1c80f07218bdd23cf4b45c77a18fd80aebd9471a52047a4f3",
+            "w": 96
+          },
+          {
+            "bytes": 5177,
+            "h": 115,
+            "path": "avif/centaur-archer-128.avif",
+            "sha256": "b2a725a63057308c630053f31f421d872042c0b5c92b5adc6b5b7b4f28b66841",
+            "w": 128
+          },
+          {
+            "bytes": 8723,
+            "h": 172,
+            "path": "avif/centaur-archer-192.avif",
+            "sha256": "4631849407b279931c184c4b7cd9d755c8e950c65dc135cb0c913d23d95f552f",
+            "w": 192
+          },
+          {
+            "bytes": 12479,
+            "h": 230,
+            "path": "avif/centaur-archer-256.avif",
+            "sha256": "33a7c2e86f10ced4e443548fd28b0af38c34b502f63950b5539693119000ff43",
+            "w": 256
+          },
+          {
+            "bytes": 23032,
+            "h": 345,
+            "path": "avif/centaur-archer-384.avif",
+            "sha256": "a49b96fd933925ea80fcb21d2ce50883dd03f0c37333150abb2d17e2fde53f6f",
+            "w": 384
+          },
+          {
+            "bytes": 34602,
+            "h": 459,
+            "path": "avif/centaur-archer-512.avif",
+            "sha256": "4672b6df8b68e6c0830642406deb49f6b52649b5d32cf2bbe307a134dfd1273e",
+            "w": 512
+          },
+          {
+            "bytes": 57847,
+            "h": 646,
+            "path": "avif/centaur-archer-720.avif",
+            "sha256": "3def0e4f58b0be4e0b01840ac7b58fb77ebeb48138ec67a9e4a2c782f0b08cc8",
+            "w": 720
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3242,
+            "h": 57,
+            "path": "webp/centaur-archer-64.webp",
+            "sha256": "25c96630a210bffa547a3cd43374c80600046adb9e348f9d420d42eccdcd8ec7",
+            "w": 64
+          },
+          {
+            "bytes": 5752,
+            "h": 86,
+            "path": "webp/centaur-archer-96.webp",
+            "sha256": "31ae902bd7db36624624e48de2cdfe778cb1f7af41311c8203710f9aba76b1ee",
+            "w": 96
+          },
+          {
+            "bytes": 8832,
+            "h": 115,
+            "path": "webp/centaur-archer-128.webp",
+            "sha256": "fb733abee1f3ca0f258873bf387d6fc441da9b9153266a7eeea116247491c628",
+            "w": 128
+          },
+          {
+            "bytes": 15456,
+            "h": 172,
+            "path": "webp/centaur-archer-192.webp",
+            "sha256": "5c0105c10c60273ed96c36cf74303823a0cf6a2efd1d72981715e401fc1e3747",
+            "w": 192
+          },
+          {
+            "bytes": 23602,
+            "h": 230,
+            "path": "webp/centaur-archer-256.webp",
+            "sha256": "1270c12880b2222e53f69648d7fd33a4c6ad43ac7f61924729300682c9f5411a",
+            "w": 256
+          },
+          {
+            "bytes": 41902,
+            "h": 345,
+            "path": "webp/centaur-archer-384.webp",
+            "sha256": "d99f4635150e637ebc239c6cd30c222ed22da6bb6ff32df855fe6380e704a839",
+            "w": 384
+          },
+          {
+            "bytes": 66560,
+            "h": 459,
+            "path": "webp/centaur-archer-512.webp",
+            "sha256": "79f3b2ba929c9d60cd2f7073564a6fdb78d6baca04ec8c6e1508d696675ca783",
+            "w": 512
+          },
+          {
+            "bytes": 111642,
+            "h": 646,
+            "path": "webp/centaur-archer-720.webp",
+            "sha256": "7e6881d61d508cf50622762d8267d35370e65d0851c09414230ae484467f4476",
+            "w": 720
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "centaur",
+        "archer",
+        "bow",
+        "arrow",
+        "horse",
+        "marginalia"
+      ],
+      "thumbhash": "GAiGDYIWr1SdeUMGdZufqPiYLRW1dlDpFg==",
+      "title": "Centaur drawing a bow",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The figure runs to the right; it sits naturally at the left of a heading or along a bottom margin pointing into the text."
+      ],
+      "view": "side",
+      "width": 720
+    },
+    "elephant-castle": {
+      "categories": [
+        "animals",
+        "humans",
+        "botanical"
+      ],
+      "colors": [
+        "orange",
+        "blue",
+        "red",
+        "cream",
+        "white"
+      ],
+      "composition": "framed-scene",
+      "description": "An orange elephant walks to the right carrying a cream stone castle with a red crenellated parapet and a blue domed turret; a hooded man in blue leans out of the castle at the left and a second small figure peers over the battlements at the right. The scene sits on its original opaque panel, red with white vine scroll above and blue with white tendrils below, with a brown ornamental terminal at the upper left; only the area outside the panel is transparent.",
+      "display_width": [
+        120,
+        270
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 12986,
+        "webpTopBytes": 24274
+      },
+      "facing": "right",
+      "group": "28r",
+      "height": 205,
+      "master": {
+        "bytes": 81152,
+        "h": 205,
+        "path": "masters/elephant-castle.webp",
+        "sha256": "9a76f0e6ef6d9e7a82e5d64fc65191ffdc70b9ebbd22f4c062c7c46b1092d3b9",
+        "w": 270
+      },
+      "palette": [
+        "#674940",
+        "#ab4c21",
+        "#30344f",
+        "#936253",
+        "#b3a48f"
+      ],
+      "provenance": {
+        "date": "ca. 1300",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://live.staticflickr.com/8013/7650320442_11fe46635b_b.jpg",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.102, fol. 28r",
+        "object_title": "Elephant and castle",
+        "record_url": "https://art.thewalters.org/object/W.102.28R/",
+        "rights_url": "https://art.thewalters.org/object/W.102.28R/",
+        "source_sha256": "65f8a85603442f192063a8b6298def18ca577d635c955fd4b97c611d590a0ae2"
+      },
+      "quality": "The master is only 270 px wide and the painting is soft; detail does not survive enlargement beyond its native size.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1680,
+            "h": 49,
+            "path": "avif/elephant-castle-64.avif",
+            "sha256": "6788d14b3bd1f87facfc1979bc3d7d57c8a7fcf3d45812251e26d60419794e78",
+            "w": 64
+          },
+          {
+            "bytes": 3149,
+            "h": 73,
+            "path": "avif/elephant-castle-96.avif",
+            "sha256": "f5483f8d59273235b84d25f956d9fce5fc31ea99affa22a324b76017f7136a75",
+            "w": 96
+          },
+          {
+            "bytes": 4272,
+            "h": 97,
+            "path": "avif/elephant-castle-128.avif",
+            "sha256": "677ec564e72f4dc79c1e310af035ec1a73155ad590db5fdc9ac64ad172e53047",
+            "w": 128
+          },
+          {
+            "bytes": 7776,
+            "h": 146,
+            "path": "avif/elephant-castle-192.avif",
+            "sha256": "3dc7cd7243b58d76cd432b57032b2baceb2e766e061d73e385bf938f2954d050",
+            "w": 192
+          },
+          {
+            "bytes": 11075,
+            "h": 194,
+            "path": "avif/elephant-castle-256.avif",
+            "sha256": "97cbb33f61995a544eeac5c58b06da0ded3f330e1e58e917f0aa1a9358b83833",
+            "w": 256
+          },
+          {
+            "bytes": 12986,
+            "h": 205,
+            "path": "avif/elephant-castle-270.avif",
+            "sha256": "01d5ee62b34e99b9a5fa2e2bf8b5788a13f44f2b1c181972eccce5ec0a38eb20",
+            "w": 270
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2668,
+            "h": 49,
+            "path": "webp/elephant-castle-64.webp",
+            "sha256": "912263a4a3e896fcbc964fd6f3dc691e1c15b22e82dbaedb386f3621342418cd",
+            "w": 64
+          },
+          {
+            "bytes": 4958,
+            "h": 73,
+            "path": "webp/elephant-castle-96.webp",
+            "sha256": "a6c731e41c150b4b8f8ddad9b2a4321338a36cae9160a78e6d5a5fa276ad923d",
+            "w": 96
+          },
+          {
+            "bytes": 7558,
+            "h": 97,
+            "path": "webp/elephant-castle-128.webp",
+            "sha256": "4da666984f516ed2ecee6c959101b8d9788d9eee024b147eb3216725ab62435d",
+            "w": 128
+          },
+          {
+            "bytes": 14286,
+            "h": 146,
+            "path": "webp/elephant-castle-192.webp",
+            "sha256": "ee201c1235bdc62fd2f24d9aaa62f0e83c87916be5e856be193f7f05b6f092b8",
+            "w": 192
+          },
+          {
+            "bytes": 22360,
+            "h": 194,
+            "path": "webp/elephant-castle-256.webp",
+            "sha256": "c7a9fd7a4e9c6122fe9c502dbaf706a57fca4174910627ffa0ae3c14ff2792a9",
+            "w": 256
+          },
+          {
+            "bytes": 24274,
+            "h": 205,
+            "path": "webp/elephant-castle-270.webp",
+            "sha256": "3468cff73a85cd6f13d4391399fe88d4ab37b7a73b9542e03e70814b8bb0d409",
+            "w": 270
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "elephant",
+        "castle",
+        "howdah",
+        "rider",
+        "tower",
+        "architecture",
+        "vine",
+        "marginalia"
+      ],
+      "thumbhash": "10iGDII6Jql/hIArWFcJlZCwkGR4aJeGBQ==",
+      "title": "Elephant carrying a castle",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The painted panel is part of the asset; place it as a self-contained picture rather than as a cut-out figure."
+      ],
+      "view": "side",
+      "width": 270
+    },
+    "horse-flute-drum": {
+      "categories": [
+        "animals",
+        "music",
+        "fantasy"
+      ],
+      "colors": [
+        "blue",
+        "red",
+        "cream",
+        "black"
+      ],
+      "composition": "single-figure",
+      "description": "A blue dappled horse stands upright on its hind legs, facing right in profile, blowing a three-hole pipe held in one hand while beating a red-rimmed tabor drum, slung from a red strap over its shoulder, with a curved stick in the other hand. Transparent background.",
+      "display_width": [
+        100,
+        236
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 18425,
+        "webpTopBytes": 33354
+      },
+      "facing": "right",
+      "group": "74v",
+      "height": 400,
+      "master": {
+        "bytes": 95004,
+        "h": 400,
+        "path": "masters/horse-flute-drum.webp",
+        "sha256": "03636e2da301231334997ee506e526ce6b45a9340a987d991895eb170b208066",
+        "w": 236
+      },
+      "palette": [
+        "#365970",
+        "#323e46",
+        "#5f5051",
+        "#bfad8e",
+        "#647a82"
+      ],
+      "provenance": {
+        "date": "ca. 1300",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://pdr-assets.b-cdn.net/collections/music-in-the-margins-the-funeral-of-reynard-the-fox-13th-century/35897180625_74c08433b2_o.jpg",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.102, fol. 74v",
+        "object_title": "Horse playing a flute and drum",
+        "record_url": "https://art.thewalters.org/object/W.102.74V/",
+        "rights_url": "https://art.thewalters.org/object/W.102.74V/",
+        "source_sha256": "91c4d324065db3ef13d6ca547f7e62d4231010db5b04d614d6435c432caf51f5"
+      },
+      "quality": "The master is only 236 px wide; the painting is soft and detail does not survive enlargement beyond its native size.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3365,
+            "h": 108,
+            "path": "avif/horse-flute-drum-64.avif",
+            "sha256": "0ef8c215dc2acc2a0432a81ffa2722069a24c33446cad91eef92d47618959ab0",
+            "w": 64
+          },
+          {
+            "bytes": 4923,
+            "h": 163,
+            "path": "avif/horse-flute-drum-96.avif",
+            "sha256": "576c3451f22d63800417d1266d6c8e1469c95fd8fe0c8eb373a86c5706a9e645",
+            "w": 96
+          },
+          {
+            "bytes": 7500,
+            "h": 217,
+            "path": "avif/horse-flute-drum-128.avif",
+            "sha256": "a74cb08633736f24211a9641bb56c533e3c037889cbcb5f66615fe74906a1e6c",
+            "w": 128
+          },
+          {
+            "bytes": 13446,
+            "h": 325,
+            "path": "avif/horse-flute-drum-192.avif",
+            "sha256": "1ef9d6f2ee7dace7602396b28a058633cc55b99b9340eabe7f324885ba28fb98",
+            "w": 192
+          },
+          {
+            "bytes": 18425,
+            "h": 400,
+            "path": "avif/horse-flute-drum-236.avif",
+            "sha256": "5bf15c64d9a5b1d10705c24a67cda9bd4b4b16813b58fbe2af14d8c95cf5f4a7",
+            "w": 236
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4936,
+            "h": 108,
+            "path": "webp/horse-flute-drum-64.webp",
+            "sha256": "4d321b66b0702e4b89f3330a04795f9c1e6b225fd15d2c41c55e33befe3c318e",
+            "w": 64
+          },
+          {
+            "bytes": 8858,
+            "h": 163,
+            "path": "webp/horse-flute-drum-96.webp",
+            "sha256": "f477f5b3aef6067fe1a7e1568717a449f6d9224b15beff4a7883caad2884c7c2",
+            "w": 96
+          },
+          {
+            "bytes": 13446,
+            "h": 217,
+            "path": "webp/horse-flute-drum-128.webp",
+            "sha256": "6ae85063f5af05c846bad0e47236cc8fc43cd1d19a92757519117fa7b95d2f39",
+            "w": 128
+          },
+          {
+            "bytes": 24790,
+            "h": 325,
+            "path": "webp/horse-flute-drum-192.webp",
+            "sha256": "040807231c7f14fd29b4ced6e60527225f92861afbc9dc317693a26ff7ec372f",
+            "w": 192
+          },
+          {
+            "bytes": 33354,
+            "h": 400,
+            "path": "webp/horse-flute-drum-236.webp",
+            "sha256": "8456f3fcfd00bb44ce904bea0a42686cfff356be81a2945f61c883fb3e8eb42c",
+            "w": 236
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "horse",
+        "musician",
+        "pipe",
+        "tabor",
+        "drum",
+        "pipe-and-tabor",
+        "wind-instrument",
+        "marginalia"
+      ],
+      "thumbhash": "l+eBCwImkD+odGXQPg/98wiETHZXiUo=",
+      "title": "Horse playing pipe and tabor",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Tall narrow figure suited to a side margin; it faces right, so place it to the left of the text it accompanies."
+      ],
+      "view": "side",
+      "width": 236
+    },
+    "rabbit-church-bells": {
+      "categories": [
+        "animals",
+        "music",
+        "fantasy"
+      ],
+      "colors": [
+        "cream",
+        "brown",
+        "blue",
+        "black",
+        "red"
+      ],
+      "composition": "single-figure",
+      "description": "A brown rabbit stands on its hind legs at the left, facing right, and pulls two red twisted bell ropes that hang from the arched doorway of a cream stone church. The church has a blue chevron-tiled roof, a square belfry with two bells, a dark quatrefoil rose window and a tower with a gold cross at the right; the background is transparent.",
+      "display_width": [
+        200,
+        600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 102859,
+        "webpTopBytes": 207878
+      },
+      "facing": "right",
+      "group": "81r",
+      "height": 960,
+      "master": {
+        "bytes": 868836,
+        "h": 960,
+        "path": "masters/rabbit-church-bells.webp",
+        "sha256": "a654a8b587f14d2307bfe35fc06cfafb047986e7596d9a852c1d73c847bc95c4",
+        "w": 823
+      },
+      "palette": [
+        "#354356",
+        "#e2c69a",
+        "#362626",
+        "#866b59",
+        "#b9a282"
+      ],
+      "provenance": {
+        "date": "ca. 1300",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://live.staticflickr.com/8014/7699243818_f188d31fba_b.jpg",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.102, fol. 81r",
+        "object_title": "Rabbit tolling church bells",
+        "record_url": "https://art.thewalters.org/object/W.102.81R/",
+        "rights_url": "https://art.thewalters.org/object/W.102.81R/",
+        "source_sha256": "c329b6f3255b2ec40ac8868a1ceee0f0fc3e1a1797facc2b8b3e5064a61e41cb"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2283,
+            "h": 75,
+            "path": "avif/rabbit-church-bells-64.avif",
+            "sha256": "21549eb12956fa7f22152091a3ee5e167602324e6fa78043951b38687aca5b3a",
+            "w": 64
+          },
+          {
+            "bytes": 3646,
+            "h": 112,
+            "path": "avif/rabbit-church-bells-96.avif",
+            "sha256": "0d5c5625ba1b9f804bcd8377d1d4ab62ef05b3bb99a93b63ce71882385e79d96",
+            "w": 96
+          },
+          {
+            "bytes": 5225,
+            "h": 149,
+            "path": "avif/rabbit-church-bells-128.avif",
+            "sha256": "f37a18ba1a8a2d496c9fb45ba5852f246751c36a2d70260a7a726bff3130d4fd",
+            "w": 128
+          },
+          {
+            "bytes": 10084,
+            "h": 224,
+            "path": "avif/rabbit-church-bells-192.avif",
+            "sha256": "282296136a80b18ebbeb063da1a66447f45fe06b7153dae88b7236fb6fadcef9",
+            "w": 192
+          },
+          {
+            "bytes": 14972,
+            "h": 299,
+            "path": "avif/rabbit-church-bells-256.avif",
+            "sha256": "1a0975c485bbbc2a5eeae088d49fc55de342d25e0722066cb2041bb8d65f650b",
+            "w": 256
+          },
+          {
+            "bytes": 29098,
+            "h": 448,
+            "path": "avif/rabbit-church-bells-384.avif",
+            "sha256": "2b05c2631230fb3cd5879d21adc03076c3239f0c8fd7b86690daa875f46417fe",
+            "w": 384
+          },
+          {
+            "bytes": 47078,
+            "h": 597,
+            "path": "avif/rabbit-church-bells-512.avif",
+            "sha256": "9b4f507ff8ebedec5389db6d8cd1e1850e4fb702afa2cd461ee5d4a55f2fdb1b",
+            "w": 512
+          },
+          {
+            "bytes": 90243,
+            "h": 896,
+            "path": "avif/rabbit-church-bells-768.avif",
+            "sha256": "1bee89c7c15f828961eaaf8d32ae8950dae1fbd3c0a3a54fda414c56061d7522",
+            "w": 768
+          },
+          {
+            "bytes": 102859,
+            "h": 960,
+            "path": "avif/rabbit-church-bells-823.avif",
+            "sha256": "8b4e70dc85ddc57abf025d24e8471d43596bb2f58e90efeacf37d5d0059b93f6",
+            "w": 823
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3926,
+            "h": 75,
+            "path": "webp/rabbit-church-bells-64.webp",
+            "sha256": "84efc0f7bd4c27847820f0d4f31294edbf40475d7ad52c451fffdbb1d805c9c5",
+            "w": 64
+          },
+          {
+            "bytes": 6756,
+            "h": 112,
+            "path": "webp/rabbit-church-bells-96.webp",
+            "sha256": "e53690af998ee292576f38826e86affb286eb539bcf304fb1bf94a98020653ab",
+            "w": 96
+          },
+          {
+            "bytes": 11088,
+            "h": 149,
+            "path": "webp/rabbit-church-bells-128.webp",
+            "sha256": "48744412dd54a7a1ade4383072fb7c07ccdcce80075270f10e3bcab6eb8c90cd",
+            "w": 128
+          },
+          {
+            "bytes": 19510,
+            "h": 224,
+            "path": "webp/rabbit-church-bells-192.webp",
+            "sha256": "0c9a155736804f0ae41754f8a019f3f463383b1b72368d72e27c9a2b8be58b00",
+            "w": 192
+          },
+          {
+            "bytes": 31342,
+            "h": 299,
+            "path": "webp/rabbit-church-bells-256.webp",
+            "sha256": "2b20193813e6dfca9beb8f684bc14dd545eb9a469ba6c1cbae069fcd3e0afcb9",
+            "w": 256
+          },
+          {
+            "bytes": 59298,
+            "h": 448,
+            "path": "webp/rabbit-church-bells-384.webp",
+            "sha256": "e62f5e13f3255a47c416a6204a34b4d620aaf106f94d6d83c9b2bf68b15eba6a",
+            "w": 384
+          },
+          {
+            "bytes": 95612,
+            "h": 597,
+            "path": "webp/rabbit-church-bells-512.webp",
+            "sha256": "da4c367de57edc0f9003cd97424f45e6838e6b99b1dc0e139df764dc4dff6a64",
+            "w": 512
+          },
+          {
+            "bytes": 186474,
+            "h": 896,
+            "path": "webp/rabbit-church-bells-768.webp",
+            "sha256": "98953fb34dd2189ef29b403d40d7e362e30910f9ad4426d91f503025d1bf8a8d",
+            "w": 768
+          },
+          {
+            "bytes": 207878,
+            "h": 960,
+            "path": "webp/rabbit-church-bells-823.webp",
+            "sha256": "1c107c78d02e62509e1eba9184208e512de7bfacf1f6e89bd965d12b0519e00f",
+            "w": 823
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "rabbit",
+        "hare",
+        "church",
+        "bells",
+        "rope",
+        "tower",
+        "rose-window",
+        "cross",
+        "architecture",
+        "marginalia"
+      ],
+      "thumbhash": "mxiGFAIpUQrLpnZpZgmZqXBIYyV5BZqIBQ==",
+      "title": "Rabbit ringing church bells",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The rabbit faces into the church, so keep the whole group together; it reads well as a bottom-margin or corner scene."
+      ],
+      "view": "side",
+      "width": 823
+    }
+  },
+  "attribution": "Walters Art Museum W.102 (CC0-1.0)",
+  "builtAt": "2026-10-26T21:27:25.852Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-walters-w102@1.0.0/",
+  "contentHash": "sha256:af3a33a4e36be1b741107aef88b7abcd613fb23e5d951f334e97f1c8176b8947",
+  "inputsHash": "sha256:6964d3470d257e16969ea721e238f8040a64e6ab9e1692237a1429f1c38564bc",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from CC0 source objects; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-walters-w102-masters",
+  "package": "@ranx729/ducktape-assets-walters-w102",
+  "period": "ca. 1300",
+  "region": "Flanders",
+  "schema": 1,
+  "set": "walters-w102",
+  "style": "illuminated manuscript",
+  "summary": "Marginal creatures and scenes from Walters Art Museum W.102, a Flemish book of hours of around 1300 whose margins are filled with animal musicians, hybrids and small architectural vignettes.",
+  "title": "Walters W.102 marginalia",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.0.0"
+  },
+  "version": "1.0.0"
+}
