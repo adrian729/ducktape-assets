@@ -66,6 +66,10 @@ The tooling package and the index package publish from the same `publish.yml`. T
 - "Published" is recorded only when npm has it and jsDelivr serves the manifest with the expected hash. The release record lists both checks. No weekly warming job.
 - Registry eventual consistency (ETARGET and CDN 404 minutes after publish) is handled by publishing the index package last and by the gallery deploy waiting on the verification step.
 
+## First publish, what actually happened (2026-10-26)
+
+Run 40403447326 published all seven wave 1 packages at 1.0.0 through trusted publishing on the first try. What did not go as designed: npm's public registry view lagged several minutes behind the publish (packages visible to the owner's token, 404 anonymously), so the bootstrap script's "exists" check misjudged a rerun, and the job's jsDelivr verification gave up after six tries in one minute and the run was marked failed before its release record and regenerated `index/` were committed. Fixes: the script tolerates "cannot publish over 0.0.0"; the verification waits up to fifteen minutes; the record and `index/` are committed whatever the verification says, with a separate failing step afterwards. The first record was reconstructed from the plan artifact and the job log. Side observation: npm now creates a `0.0.0-stage` version by itself on the first publish of a new name.
+
 ## Release records
 
 `releases/<date>-<run-id>.json` in the main repo: what was published, versions, hashes, sizes, the approver and timestamps. Machine-readable, appended by the publish job, replaces the hand-written QA log of the old library. A short generated `CHANGELOG.md` per set repo is written from the same data.

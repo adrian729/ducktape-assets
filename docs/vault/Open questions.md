@@ -22,13 +22,13 @@ All nine owner decisions are closed as of 2026-10-26. New since the dry run, nee
 1. ~~Commit and push the main repository; create the `release` environment.~~ Done 2026-10-26 by an agent with the owner's `gh` session. The owner then removed the required reviewer, so no deployment-review emails exist and no approve click is needed.
 2. ~~Create the three wave 1 set repositories on GitHub.~~ Done 2026-10-26, drafts pushed, CI green.
 3. ~~The metadata review and the structure pass.~~ Done 2026-10-26: 81 records approved and pushed (title-ivy split in two), vocabulary rebuilt, groups set by series or theme, two ids renamed; see [[Design/Migration]]. Only cosmetic id questions remain (bunny/rabbit, grid ids); ids become permanent at the first publish.
-4. npm, in one sitting: `scripts/owner-npm-bootstrap.sh` (placeholders for the seven wave 1 names plus trust configs, one passkey tap), which ends by dispatching the publisher. See [[Owner runbook]].
+4. ~~npm, in one sitting.~~ Done 2026-10-26: seven names bootstrapped, publisher run, all seven packages at 1.0.0 and verified on jsDelivr. Lesson recorded in [[Design/Automation and publishing]]: npm's public replication lagged minutes behind the publish, so both the script's "exists" check and the CDN verification need patience.
 5. Optional, later: the Cloudflare drill for the fallback host, and the single-object-holding rule for wave 2.
 
 ## To verify in Phase 0
 
-- Whether `npm stage publish` creates a placeholder for a brand-new package name from CI (conflicting sources).
-- Whether a single `npm trust` 2FA window really covers about 80 packages at our pace.
+- ~~Whether `npm stage publish` creates a placeholder for a brand-new package name from CI.~~ Not tested as such, but observed 2026-10-26: on the first `npm publish` of a new name, npm itself creates a `0.0.0-stage` version ("Temporary package placeholder for staged publishing") a minute before the real one. It stays in the version list, `latest` is unaffected. Our own `0.0.0` placeholder remains the way to create names, since trusted publishing cannot create a package.
+- ~~Whether a single `npm trust` 2FA window really covers about 80 packages at our pace.~~ Seven names (placeholder plus trust each, 2 s apart) went through in one window on 2026-10-26 without a second prompt; 80 remains an extrapolation.
 - ~~Byte-determinism of `sharp` output across machines.~~ Verified 2026-10-26: the GitHub `ubuntu-24.04` runner and the laptop produced the same `contentHash` for the Walters W.102 set (60 files, WebP and AVIF, `sharp.concurrency(1)`). The design still does not depend on it, but `contentHash` can be compared across runs.
 - The AVIF-versus-WebP decision rule (keep AVIF when at least 15 % smaller at the top rung) on twenty real transparent borders and ornaments from the collection, not just on painted scenes.
 - Build time per asset on a free runner with the chosen effort values, to size the migration build and confirm the cache strategy.
