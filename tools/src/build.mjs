@@ -107,7 +107,8 @@ async function buildAsset(ctx, dir, asset) {
   if (asset.render?.tile) {
     const { axis } = asset.render.tile;
     const along = axis === 'x' ? main.width : main.height, across = axis === 'x' ? main.height : main.width;
-    if (along / across < 1.5) refuse(`render.tile axis ${axis} but the master is ${main.width}x${main.height} (length/thickness ${(along / across).toFixed(2)} < 1.5); it is probably not a strip`);
+    // A square swatch is a legitimate repeat unit (cma-1950-154's 70 px leaf band); only an axis along the shorter side is a mistake.
+    if (along / across < 1) refuse(`render.tile axis ${axis} but the master is ${main.width}x${main.height}: the axis runs along the shorter side, so it is the wrong axis`);
   }
 
   const out = {};

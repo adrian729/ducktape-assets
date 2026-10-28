@@ -8,6 +8,64 @@
   "entries": [
     {
       "old": {
+        "name": "abrotonum-foemina",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-005",
+        "version": "0.1.1",
+        "path": "png/abrotonum-foemina.png",
+        "masterSha256": "2864a37d6282403b072608f653edf67598437a0374f19e60d74f4ed2d3a0db81"
+      },
+      "new": {
+        "id": "fuchs-1542-herbal/abrotonum-foemina",
+        "set": "fuchs-1542-herbal",
+        "package": "@ranx729/ducktape-assets-fuchs-1542-herbal",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-fuchs-1542-herbal-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "png is the master; traced svg dropped (see #svg entry)"
+    },
+    {
+      "old": {
+        "name": "abrotonum-foemina",
+        "component": "svg"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "auto-traced SVG of the raster master; no delivery value"
+    },
+    {
+      "old": {
+        "name": "alsine-media",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-005",
+        "version": "0.1.1",
+        "path": "png/alsine-media.png",
+        "masterSha256": "f8d0aebe17dc2ecfcbbb74cb65f2da152cdd24c2ed45bc7127ff9f4ac03c5cbd"
+      },
+      "new": {
+        "id": "fuchs-1542-herbal/alsine-media",
+        "set": "fuchs-1542-herbal",
+        "package": "@ranx729/ducktape-assets-fuchs-1542-herbal",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-fuchs-1542-herbal-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "png is the master; traced svg dropped (see #svg entry)"
+    },
+    {
+      "old": {
+        "name": "alsine-media",
+        "component": "svg"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "auto-traced SVG of the raster master; no delivery value"
+    },
+    {
+      "old": {
         "name": "anafiles",
         "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
         "version": "0.2.0",
@@ -24,6 +82,35 @@
       "status": "moved",
       "verified": "pixels-identical",
       "notes": "wave 1 (allow, polyhymnia)"
+    },
+    {
+      "old": {
+        "name": "anagallis-mas",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-005",
+        "version": "0.1.1",
+        "path": "png/anagallis-mas.png",
+        "masterSha256": "d5b91c8307bb164a12119edfd4bebb862840e6f30fe2353d7818d19a009ae62c"
+      },
+      "new": {
+        "id": "fuchs-1542-herbal/anagallis-mas",
+        "set": "fuchs-1542-herbal",
+        "package": "@ranx729/ducktape-assets-fuchs-1542-herbal",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-fuchs-1542-herbal-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "png is the master; traced svg dropped (see #svg entry)"
+    },
+    {
+      "old": {
+        "name": "anagallis-mas",
+        "component": "svg"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "auto-traced SVG of the raster master; no delivery value"
     },
     {
       "old": {
@@ -65,6 +152,102 @@
     },
     {
       "old": {
+        "name": "animals-in-finite-leafy-frieze",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-007",
+        "version": "0.1.1",
+        "path": "png/animals-in-finite-leafy-frieze.png",
+        "masterSha256": "06dfa34fc0bf2e7cf97c1ed7546829b8f97b4c7cd9b1a5947ec9e933859557e5"
+      },
+      "new": {
+        "id": "solis-prints/animal-frieze",
+        "set": "solis-prints",
+        "package": "@ranx729/ducktape-assets-solis-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-solis-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Virgil Solis: artist set, group = holding object (Museum für Kunst und Gewerbe Hamburg O1911.604)"
+    },
+    {
+      "old": {
+        "name": "armored-rhinoceros",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-009",
+        "version": "0.1.1",
+        "path": "png/armored-rhinoceros.png",
+        "masterSha256": "75313241f39dd9d98429a58bf42fea9c307f42ff25b0d7491a87d7b6d88579d2"
+      },
+      "new": {
+        "id": "gessner-historiae-animalium/armored-rhinoceros",
+        "set": "gessner-historiae-animalium",
+        "package": "@ranx729/ducktape-assets-gessner-historiae-animalium",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-gessner-historiae-animalium-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "png is the master; traced svg dropped (see #svg entry)"
+    },
+    {
+      "old": {
+        "name": "armored-rhinoceros",
+        "component": "svg"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "auto-traced SVG of the raster master; no delivery value"
+    },
+    {
+      "old": {
+        "name": "bearded-winged-masks-with-curled-leaf-scroll",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-006",
+        "version": "0.1.1",
+        "path": "png/bearded-winged-masks-with-curled-leaf-scroll.png",
+        "masterSha256": "b998e35232fb0ffdb517a735d6b59b81192f24c8fc585fa5bbdae1424d1413c7"
+      },
+      "new": {
+        "id": "hopfer-prints/bearded-winged-masks-with-curled-leaf-scroll",
+        "set": "hopfer-prints",
+        "package": "@ranx729/ducktape-assets-hopfer-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-hopfer-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "moved from met-hopfer-friezes by the loose-print rule (2026-10-27): loose print by Daniel Hopfer: artist set, group = holding object (Metropolitan Museum of Art 2012.136.734)"
+    },
+    {
+      "old": {
+        "name": "beaver",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-006",
+        "version": "0.1.1",
+        "path": "png/beaver.png",
+        "masterSha256": "a4300c8907eb12e55a6706d322440271c4aa2bc5bc606702207297e374e84a35"
+      },
+      "new": {
+        "id": "gessner-historiae-animalium/beaver",
+        "set": "gessner-historiae-animalium",
+        "package": "@ranx729/ducktape-assets-gessner-historiae-animalium",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-gessner-historiae-animalium-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "png is the master; traced svg dropped (see #svg entry)"
+    },
+    {
+      "old": {
+        "name": "beaver",
+        "component": "svg"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "auto-traced SVG of the raster master; no delivery value"
+    },
+    {
+      "old": {
         "name": "bird-wind-player",
         "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
         "version": "0.2.0",
@@ -84,6 +267,25 @@
     },
     {
       "old": {
+        "name": "birds-on-flowering-scroll-frieze",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-007",
+        "version": "0.1.1",
+        "path": "png/birds-on-flowering-scroll-frieze.png",
+        "masterSha256": "98015801d2ea2e78327aaa836671c97dab22ab44dfb3001fde6f3e0ceb4f4985"
+      },
+      "new": {
+        "id": "solis-prints/bird-frieze",
+        "set": "solis-prints",
+        "package": "@ranx729/ducktape-assets-solis-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-solis-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Virgil Solis: artist set, group = holding object (Museum für Kunst und Gewerbe Hamburg O1911.605)"
+    },
+    {
+      "old": {
         "name": "boar-lute-player",
         "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
         "version": "0.2.0",
@@ -100,6 +302,35 @@
       "status": "moved",
       "verified": "pixels-identical",
       "notes": ""
+    },
+    {
+      "old": {
+        "name": "branching-elk-antler",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-007",
+        "version": "0.1.1",
+        "path": "png/branching-elk-antler.png",
+        "masterSha256": "04c38ce30ee8f910a5e7b78b0d67e6f350c76e368b9a015c863600ac000dcbd8"
+      },
+      "new": {
+        "id": "gessner-historiae-animalium/elk-antler",
+        "set": "gessner-historiae-animalium",
+        "package": "@ranx729/ducktape-assets-gessner-historiae-animalium",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-gessner-historiae-animalium-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "png is the master; traced svg dropped (see #svg entry)"
+    },
+    {
+      "old": {
+        "name": "branching-elk-antler",
+        "component": "svg"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "auto-traced SVG of the raster master; no delivery value"
     },
     {
       "old": {
@@ -179,6 +410,83 @@
     },
     {
       "old": {
+        "name": "cat",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-006",
+        "version": "0.1.1",
+        "path": "png/cat.png",
+        "masterSha256": "9857beae9ad88259962a2a31943a37ad021ce9e84aa0625a5895eebd8f4ecc44"
+      },
+      "new": {
+        "id": "gessner-historiae-animalium/cat",
+        "set": "gessner-historiae-animalium",
+        "package": "@ranx729/ducktape-assets-gessner-historiae-animalium",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-gessner-historiae-animalium-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "png is the master; traced svg dropped (see #svg entry)"
+    },
+    {
+      "old": {
+        "name": "cat",
+        "component": "svg"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "auto-traced SVG of the raster master; no delivery value"
+    },
+    {
+      "old": {
+        "name": "chamaemelum-eranthemon",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-005",
+        "version": "0.1.1",
+        "path": "png/chamaemelum-eranthemon.png",
+        "masterSha256": "e8360b8c206cd4c593cc2f0bc625388927dc4e17800f7f8154c2ef3467e9ed83"
+      },
+      "new": {
+        "id": "fuchs-1542-herbal/chamaemelum-eranthemon",
+        "set": "fuchs-1542-herbal",
+        "package": "@ranx729/ducktape-assets-fuchs-1542-herbal",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-fuchs-1542-herbal-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "png is the master; traced svg dropped (see #svg entry)"
+    },
+    {
+      "old": {
+        "name": "chamaemelum-eranthemon",
+        "component": "svg"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "auto-traced SVG of the raster master; no delivery value"
+    },
+    {
+      "old": {
+        "name": "complete-apostle-city-scene-with-blue-vine-frame",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/complete-apostle-city-scene-with-blue-vine-frame.png",
+        "masterSha256": "e3571f03e544f70d649b593baeebda1633cf723b5bff85d8b093d79443caf895"
+      },
+      "new": {
+        "id": "cma-1950-154/apostle-city-miniature",
+        "set": "cma-1950-154",
+        "package": "@ranx729/ducktape-assets-cma-1950-154",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-cma-1950-154-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
         "name": "creature-in-gold-shape",
         "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
         "version": "0.2.0",
@@ -191,6 +499,54 @@
         "package": "@ranx729/ducktape-assets-medieval-cutouts",
         "version": null,
         "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "crocodile",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-006",
+        "version": "0.1.1",
+        "path": "png/crocodile.png",
+        "masterSha256": "d1cf43cc87d910f04da6c175c3247ac4c66ecbef0d0ffcbf453a6606d3f06b56"
+      },
+      "new": {
+        "id": "gessner-historiae-animalium/crocodile",
+        "set": "gessner-historiae-animalium",
+        "package": "@ranx729/ducktape-assets-gessner-historiae-animalium",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-gessner-historiae-animalium-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "png is the master; traced svg dropped (see #svg entry)"
+    },
+    {
+      "old": {
+        "name": "crocodile",
+        "component": "svg"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "auto-traced SVG of the raster master; no delivery value"
+    },
+    {
+      "old": {
+        "name": "crossed-weapons-with-tied-ribbon",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-009",
+        "version": "0.1.1",
+        "path": "png/crossed-weapons-with-tied-ribbon.png",
+        "masterSha256": "484afcb5783cfc04bc545c4e3b1b3f7846b7b2a45d9bddf5cbf6545c5316635a"
+      },
+      "new": {
+        "id": "mkg-de-bry-alphabet/crossed-weapons-trophy",
+        "set": "mkg-de-bry-alphabet",
+        "package": "@ranx729/ducktape-assets-mkg-de-bry-alphabet",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-mkg-de-bry-alphabet-masters"
       },
       "status": "moved",
       "verified": "pixels-identical",
@@ -236,6 +592,44 @@
     },
     {
       "old": {
+        "name": "curling-leaf-ornament",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-007",
+        "version": "0.1.1",
+        "path": "png/curling-leaf-ornament.png",
+        "masterSha256": "c56a9d5ffc951e2589ef3c831d9db5ebf076e3df4d8f39c52b9c00d9c09675db"
+      },
+      "new": {
+        "id": "schongauer-prints/curling-leaf-ornament",
+        "set": "schongauer-prints",
+        "package": "@ranx729/ducktape-assets-schongauer-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-schongauer-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Martin Schongauer: artist set, group = holding object (National Gallery of Art, Washington 1943.3.92)"
+    },
+    {
+      "old": {
+        "name": "curling-thistle-ornament",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-007",
+        "version": "0.1.1",
+        "path": "png/curling-thistle-ornament.png",
+        "masterSha256": "9d33261bb2f729c0d877e4897a60ea7b89200cffdd49a9ecb42ea870d226e23e"
+      },
+      "new": {
+        "id": "schongauer-prints/curling-thistle-ornament",
+        "set": "schongauer-prints",
+        "package": "@ranx729/ducktape-assets-schongauer-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-schongauer-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Martin Schongauer: artist set, group = holding object (National Gallery of Art, Washington 1943.3.91)"
+    },
+    {
+      "old": {
         "name": "donkey-organist",
         "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
         "version": "0.2.0",
@@ -274,6 +668,92 @@
     },
     {
       "old": {
+        "name": "dragon-head-scroll-with-long-bearded-mask",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-006",
+        "version": "0.1.1",
+        "path": "png/dragon-head-scroll-with-long-bearded-mask.png",
+        "masterSha256": "27f4465f8e121a68d662e4f05f4fbb163e7f90761029118738fbdceec5649093"
+      },
+      "new": {
+        "id": "hopfer-prints/scroll-with-horned-bearded-mask",
+        "set": "hopfer-prints",
+        "package": "@ranx729/ducktape-assets-hopfer-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-hopfer-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "moved from met-hopfer-friezes by the loose-print rule (2026-10-27): loose print by Daniel Hopfer: artist set, group = holding object (Metropolitan Museum of Art 2012.136.734)"
+    },
+    {
+      "old": {
+        "name": "elephant",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-007",
+        "version": "0.1.1",
+        "path": "png/elephant.png",
+        "masterSha256": "62a9540bb3649eccf1873c29579a505ca9e4c46e544b5f148b8ff58e31c5a619"
+      },
+      "new": {
+        "id": "gessner-historiae-animalium/elephant",
+        "set": "gessner-historiae-animalium",
+        "package": "@ranx729/ducktape-assets-gessner-historiae-animalium",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-gessner-historiae-animalium-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "png is the master; traced svg dropped (see #svg entry)"
+    },
+    {
+      "old": {
+        "name": "elephant",
+        "component": "svg"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "auto-traced SVG of the raster master; no delivery value"
+    },
+    {
+      "old": {
+        "name": "finite-blue-vine-and-red-gold-miniature-frame",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-002",
+        "version": "0.1.1",
+        "path": "png/finite-blue-vine-and-red-gold-miniature-frame.png",
+        "masterSha256": "ca9942194db4c50934fbaa700587a2d84408ab39ba9b06f3a77e2998d8c6f011"
+      },
+      "new": {
+        "id": "cma-1950-154/blue-vine-frame",
+        "set": "cma-1950-154",
+        "package": "@ranx729/ducktape-assets-cma-1950-154",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-cma-1950-154-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "finite-interlaced-arabesque-cartouche",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-007",
+        "version": "0.1.1",
+        "path": "png/finite-interlaced-arabesque-cartouche.png",
+        "masterSha256": "48d9e196d2aac10da9c2bbae3991725bf105c56b9d212b8a84a22de761bbe0b4"
+      },
+      "new": {
+        "id": "solis-prints/arabesque-cartouche",
+        "set": "solis-prints",
+        "package": "@ranx729/ducktape-assets-solis-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-solis-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Virgil Solis: artist set, group = holding object (Metropolitan Museum of Art 33.70.39)"
+    },
+    {
+      "old": {
         "name": "fish-with-arms",
         "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
         "version": "0.2.0",
@@ -286,6 +766,25 @@
         "package": "@ranx729/ducktape-assets-medieval-cutouts",
         "version": null,
         "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "flower-bouquet-from-decorated-initial",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-009",
+        "version": "0.1.1",
+        "path": "png/flower-bouquet-from-decorated-initial.png",
+        "masterSha256": "1644581ea44f370f857ce5fddcf3401e06a12f7391abc4387c7da8e83ef1c963"
+      },
+      "new": {
+        "id": "mkg-de-bry-alphabet/flower-bouquet-from-decorated-initial",
+        "set": "mkg-de-bry-alphabet",
+        "package": "@ranx729/ducktape-assets-mkg-de-bry-alphabet",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-mkg-de-bry-alphabet-masters"
       },
       "status": "moved",
       "verified": "pixels-identical",
@@ -309,6 +808,35 @@
       "status": "moved",
       "verified": "pixels-identical",
       "notes": "wave 1 (allow, elder-scrolls)"
+    },
+    {
+      "old": {
+        "name": "fox",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-007",
+        "version": "0.1.1",
+        "path": "png/fox.png",
+        "masterSha256": "0be3c308f19650d41742fe10269a8fd6f321c17c79d1bbfebf41ddf8b701fd78"
+      },
+      "new": {
+        "id": "gessner-historiae-animalium/fox",
+        "set": "gessner-historiae-animalium",
+        "package": "@ranx729/ducktape-assets-gessner-historiae-animalium",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-gessner-historiae-animalium-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "png is the master; traced svg dropped (see #svg entry)"
+    },
+    {
+      "old": {
+        "name": "fox",
+        "component": "svg"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "auto-traced SVG of the raster master; no delivery value"
     },
     {
       "old": {
@@ -343,6 +871,282 @@
         "package": "@ranx729/ducktape-assets-medieval-cutouts",
         "version": null,
         "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "gold-s-shaped-leaf-on-red-repeat",
+        "package": "@ranx729/medieval-ornaments-assets-borders-004",
+        "version": "0.1.2",
+        "path": "png/gold-s-shaped-leaf-on-red-repeat.png",
+        "masterSha256": "21ee9b1a6672803009e6b23f0fd7fe048bcadae7356b11c7e16417b695ebcdd9"
+      },
+      "new": {
+        "id": "cma-1950-154/gold-s-shaped-leaf-on-red-repeat",
+        "set": "cma-1950-154",
+        "package": "@ranx729/ducktape-assets-cma-1950-154",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-cma-1950-154-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "gold-s-shaped-leaf-on-red-repeat",
+        "component": "bar",
+        "package": "@ranx729/medieval-ornaments-assets-borders-004",
+        "version": "0.1.2",
+        "path": "png/gold-s-shaped-leaf-on-red-repeat-bar.png",
+        "masterSha256": "b8f536dae7a35ab31133e8053a215cbd13401f733b25b48e8f1eba39f16bc96d"
+      },
+      "new": {
+        "id": "cma-1950-154/gold-s-shaped-leaf-on-red-repeat#bar",
+        "set": "cma-1950-154",
+        "package": "@ranx729/ducktape-assets-cma-1950-154",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-cma-1950-154-masters"
+      },
+      "status": "merged",
+      "verified": "pixels-identical",
+      "notes": "true master component, folded into the asset as component bar"
+    },
+    {
+      "old": {
+        "name": "gold-s-shaped-leaf-on-red-repeat",
+        "component": "rotated_bar"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "generated rotation of bar"
+    },
+    {
+      "old": {
+        "name": "gold-s-shaped-leaf-on-red-repeat",
+        "component": "rotated_tile"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "generated rotated tile; geometry goes to render.tile"
+    },
+    {
+      "old": {
+        "name": "grape-and-lobed-leaf-scroll-with-central-tie",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-006",
+        "version": "0.1.1",
+        "path": "png/grape-and-lobed-leaf-scroll-with-central-tie.png",
+        "masterSha256": "fea6732bf6a3a14dc498919ca403198e85efdbff1e36aebd81be96c8a3769373"
+      },
+      "new": {
+        "id": "hopfer-prints/grape-and-lobed-leaf-scroll-with-central-tie",
+        "set": "hopfer-prints",
+        "package": "@ranx729/ducktape-assets-hopfer-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-hopfer-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "moved from met-hopfer-friezes by the loose-print rule (2026-10-27): loose print by Daniel Hopfer: artist set, group = holding object (Metropolitan Museum of Art 2012.136.734)"
+    },
+    {
+      "old": {
+        "name": "grape-bunch-with-leaves",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-005",
+        "version": "0.1.1",
+        "path": "png/grape-bunch-with-leaves.png",
+        "masterSha256": "ac7be019b604226218979b5a6dc15c01ca6a61838d9d07240db095fcf97661c9"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "pixels-identical",
+      "notes": "near-duplicate crop of hanging-grapes-with-two-broad-leaves (now grapes), differing by the branch stub; dropped after review"
+    },
+    {
+      "old": {
+        "name": "grape-bunch-with-leaves",
+        "component": "svg"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "auto-traced SVG of the raster master; no delivery value"
+    },
+    {
+      "old": {
+        "name": "haloed-man-gesturing-in-blue-and-green-robes",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/haloed-man-gesturing-in-blue-and-green-robes.png",
+        "masterSha256": "536ab153530bebb1f8b24f420db835208eca0d0ca4d0e92ad91913646a980008"
+      },
+      "new": {
+        "id": "cma-1950-154/small-figure-pointing-right",
+        "set": "cma-1950-154",
+        "package": "@ranx729/ducktape-assets-cma-1950-154",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-cma-1950-154-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "haloed-man-in-blue-and-orange-robes",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/haloed-man-in-blue-and-orange-robes.png",
+        "masterSha256": "fb870902d823eda7b7c049192f442e035f7cbf23ba5f4ae512620c8dd218df8d"
+      },
+      "new": {
+        "id": "cma-1950-154/small-figure-facing-left",
+        "set": "cma-1950-154",
+        "package": "@ranx729/ducktape-assets-cma-1950-154",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-cma-1950-154-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "hanging-grapes-with-two-broad-leaves",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-008",
+        "version": "0.1.1",
+        "path": "png/hanging-grapes-with-two-broad-leaves.png",
+        "masterSha256": "906594918bd3d3f005cdb3f0b32abda9b7c1c2811d0e07b03a8de52e829f77db"
+      },
+      "new": {
+        "id": "gessner-historiae-animalium/grapes",
+        "set": "gessner-historiae-animalium",
+        "package": "@ranx729/ducktape-assets-gessner-historiae-animalium",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-gessner-historiae-animalium-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "hanging-pear-with-short-curved-stem",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-008",
+        "version": "0.1.1",
+        "path": "png/hanging-pear-with-short-curved-stem.png",
+        "masterSha256": "e1e7d537df3fc319d0f933944246eaa4485f5626d652bf48638f1ea5b07bead9"
+      },
+      "new": {
+        "id": "gessner-historiae-animalium/pear",
+        "set": "gessner-historiae-animalium",
+        "package": "@ranx729/ducktape-assets-gessner-historiae-animalium",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-gessner-historiae-animalium-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "hanging-pear",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-005",
+        "version": "0.1.1",
+        "path": "png/hanging-pear.png",
+        "masterSha256": "e99a0d880bbd3259d27d17343770c1069127f5095f3645dfbe605d6792879e57"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "pixels-identical",
+      "notes": "near-duplicate crop of hanging-pear-with-short-curved-stem (now pear), differing by the stalk; dropped after review"
+    },
+    {
+      "old": {
+        "name": "hanging-pear",
+        "component": "svg"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "auto-traced SVG of the raster master; no delivery value"
+    },
+    {
+      "old": {
+        "name": "hoefnagel-cut-apple",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/hoefnagel-cut-apple.png",
+        "masterSha256": "387e1d1931ae5d08ea561bf21207f798c0b7b7de6e38bf1bda5edb94e441442e"
+      },
+      "new": {
+        "id": "getty-ms20/cut-apple",
+        "set": "getty-ms20",
+        "package": "@ranx729/ducktape-assets-getty-ms20",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-getty-ms20-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "hoefnagel-rose-lower",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/hoefnagel-rose-lower.png",
+        "masterSha256": "6d8a194553b2ffc17c833d8681673d7d340a90bfa6e5a979b348b5becaf38359"
+      },
+      "new": {
+        "id": "getty-ms20/closed-rosebud",
+        "set": "getty-ms20",
+        "package": "@ranx729/ducktape-assets-getty-ms20",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-getty-ms20-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "hoefnagel-rose-upper",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/hoefnagel-rose-upper.png",
+        "masterSha256": "814238cc9e6b7eaa0eb468b28094bde449fffa63090e775a5de23108f9803625"
+      },
+      "new": {
+        "id": "getty-ms20/opening-rosebud",
+        "set": "getty-ms20",
+        "package": "@ranx729/ducktape-assets-getty-ms20",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-getty-ms20-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "hoefnagel-strapwork-frame",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/hoefnagel-strapwork-frame.png",
+        "masterSha256": "b930bdf13c6dbb3f577fd8577198ae472f76afb323fcba4a667bb972b10dceda"
+      },
+      "new": {
+        "id": "getty-ms20/strapwork-frame",
+        "set": "getty-ms20",
+        "package": "@ranx729/ducktape-assets-getty-ms20",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-getty-ms20-masters"
       },
       "status": "moved",
       "verified": "pixels-identical",
@@ -385,6 +1189,73 @@
       "status": "moved",
       "verified": "pixels-identical",
       "notes": ""
+    },
+    {
+      "old": {
+        "name": "hopfer-thistle-panel",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/hopfer-thistle-panel.png",
+        "masterSha256": "7f7c6c14c7eefb07491bb7297e1eae25ae54f075e9bfebc7ba8f083c89fe1a11"
+      },
+      "new": {
+        "id": "hopfer-prints/thistle-panel",
+        "set": "hopfer-prints",
+        "package": "@ranx729/ducktape-assets-hopfer-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-hopfer-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Daniel Hopfer: artist set, group = holding object (Metropolitan Museum of Art 24.68.2); prefix stripped from \"hopfer-thistle-panel\""
+    },
+    {
+      "old": {
+        "name": "horned-dragon-with-flowering-scroll",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-006",
+        "version": "0.1.1",
+        "path": "png/horned-dragon-with-flowering-scroll.png",
+        "masterSha256": "0dbe63846fe015bccca017668425df49a9f4a73fd703981a6b28c379c4373bee"
+      },
+      "new": {
+        "id": "hopfer-prints/horned-dragon-with-flowering-scroll",
+        "set": "hopfer-prints",
+        "package": "@ranx729/ducktape-assets-hopfer-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-hopfer-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "moved from met-hopfer-friezes by the loose-print rule (2026-10-27): loose print by Daniel Hopfer: artist set, group = holding object (Metropolitan Museum of Art 2012.136.734)"
+    },
+    {
+      "old": {
+        "name": "horse",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-008",
+        "version": "0.1.1",
+        "path": "png/horse.png",
+        "masterSha256": "58dbf456a7957847c7933645feea8f97b987c97af56de1713dfb7416db5b89dd"
+      },
+      "new": {
+        "id": "gessner-historiae-animalium/horse",
+        "set": "gessner-historiae-animalium",
+        "package": "@ranx729/ducktape-assets-gessner-historiae-animalium",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-gessner-historiae-animalium-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "png is the master; traced svg dropped (see #svg entry)"
+    },
+    {
+      "old": {
+        "name": "horse",
+        "component": "svg"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "auto-traced SVG of the raster master; no delivery value"
     },
     {
       "old": {
@@ -1015,6 +1886,168 @@
     },
     {
       "old": {
+        "name": "intertwined-hop-vine-and-lobed-leaf-scroll",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-007",
+        "version": "0.1.1",
+        "path": "png/intertwined-hop-vine-and-lobed-leaf-scroll.png",
+        "masterSha256": "d2f09c412a8e9f98d329f4a039497bd5cfebcc00a327fb0cdf10efef8152b57b"
+      },
+      "new": {
+        "id": "schongauer-prints/hop-vine-scroll",
+        "set": "schongauer-prints",
+        "package": "@ranx729/ducktape-assets-schongauer-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-schongauer-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Martin Schongauer: artist set, group = holding object (National Gallery of Art, Washington 1943.3.90)"
+    },
+    {
+      "old": {
+        "name": "isabella-blue-cornflower",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/isabella-blue-cornflower.png",
+        "masterSha256": "04fdf2d7a9e9e2e5cbbe3d966682f0fb8ecd20bb32eb147f31d30363b77d69e2"
+      },
+      "new": {
+        "id": "cma-1963-256/blue-cornflower",
+        "set": "cma-1963-256",
+        "package": "@ranx729/ducktape-assets-cma-1963-256",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-cma-1963-256-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "isabella-gold-floral-frame",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/isabella-gold-floral-frame.png",
+        "masterSha256": "de67566bd374be32eb7a1479fe6e8cca62291b371d57b8b2bdb0627e801d1214"
+      },
+      "new": {
+        "id": "cma-1963-256/gold-floral-frame",
+        "set": "cma-1963-256",
+        "package": "@ranx729/ducktape-assets-cma-1963-256",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-cma-1963-256-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "isabella-gray-butterfly",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/isabella-gray-butterfly.png",
+        "masterSha256": "8bc8005d19f2a056e94f7f22270ce75d99a48c13da5a25006be76a7a47b5d05d"
+      },
+      "new": {
+        "id": "cma-1963-256/gray-butterfly",
+        "set": "cma-1963-256",
+        "package": "@ranx729/ducktape-assets-cma-1963-256",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-cma-1963-256-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "isabella-orange-butterfly",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/isabella-orange-butterfly.png",
+        "masterSha256": "dd225e28adc966d870ce0205dd9efa0c361e213d88267c7f80ce3964c9df3fce"
+      },
+      "new": {
+        "id": "cma-1963-256/orange-butterfly",
+        "set": "cma-1963-256",
+        "package": "@ranx729/ducktape-assets-cma-1963-256",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-cma-1963-256-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "isabella-pink-rose",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/isabella-pink-rose.png",
+        "masterSha256": "e2f887179a5e1e823293213ecd4fab53bd204c2b9321f64ed4e61a9ff8794985"
+      },
+      "new": {
+        "id": "cma-1963-256/crimson-rose",
+        "set": "cma-1963-256",
+        "package": "@ranx729/ducktape-assets-cma-1963-256",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-cma-1963-256-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "isabella-small-bird",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/isabella-small-bird.png",
+        "masterSha256": "4a541dca35328d64f48601c8fa06fe5521062faa783212b918f77d07de72dcfc"
+      },
+      "new": {
+        "id": "cma-1963-256/small-bird",
+        "set": "cma-1963-256",
+        "package": "@ranx729/ducktape-assets-cma-1963-256",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-cma-1963-256-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "lion",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-008",
+        "version": "0.1.1",
+        "path": "png/lion.png",
+        "masterSha256": "122c165def05530ecc3c5c22358238606202565e1c8687f9a3d4f6df6a0712ae"
+      },
+      "new": {
+        "id": "gessner-historiae-animalium/lion",
+        "set": "gessner-historiae-animalium",
+        "package": "@ranx729/ducktape-assets-gessner-historiae-animalium",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-gessner-historiae-animalium-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "png is the master; traced svg dropped (see #svg entry)"
+    },
+    {
+      "old": {
+        "name": "lion",
+        "component": "svg"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "auto-traced SVG of the raster master; no delivery value"
+    },
+    {
+      "old": {
         "name": "lizard-lute-player",
         "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
         "version": "0.2.0",
@@ -1027,6 +2060,63 @@
         "package": "@ranx729/ducktape-assets-medieval-cutouts",
         "version": null,
         "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "lower-flying-day-bird",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-009",
+        "version": "0.1.1",
+        "path": "png/lower-flying-day-bird.png",
+        "masterSha256": "71fe631cad3568ded103dde3f8f978c3c29b95dd1a9f24450994dde09b0cfc6b"
+      },
+      "new": {
+        "id": "schongauer-prints/lower-flying-day-bird",
+        "set": "schongauer-prints",
+        "package": "@ranx729/ducktape-assets-schongauer-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-schongauer-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "moved from nga-ornament-prints by the loose-print rule (2026-10-27): loose print by Martin Schongauer: artist set, group = holding object (National Gallery of Art, Washington 1943.3.93)"
+    },
+    {
+      "old": {
+        "name": "lower-grotesque-face-mask",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-007",
+        "version": "0.1.1",
+        "path": "png/lower-grotesque-face-mask.png",
+        "masterSha256": "831b5223720a09356679497f4f72b27a28db761ba277a0ed6c12b21bb384c778"
+      },
+      "new": {
+        "id": "mkg-de-bry-alphabet/small-face-mask",
+        "set": "mkg-de-bry-alphabet",
+        "package": "@ranx729/ducktape-assets-mkg-de-bry-alphabet",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-mkg-de-bry-alphabet-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "lower-right-foliate-trophy-with-tied-ribbon",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-007",
+        "version": "0.1.1",
+        "path": "png/lower-right-foliate-trophy-with-tied-ribbon.png",
+        "masterSha256": "f15ccd8a04d31b8791bc97acdc71ec0e95853e23fefc590ae959ac7013957d46"
+      },
+      "new": {
+        "id": "mkg-de-bry-alphabet/foliate-trophy",
+        "set": "mkg-de-bry-alphabet",
+        "package": "@ranx729/ducktape-assets-mkg-de-bry-alphabet",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-mkg-de-bry-alphabet-masters"
       },
       "status": "moved",
       "verified": "pixels-identical",
@@ -1281,6 +2371,168 @@
     },
     {
       "old": {
+        "name": "owl-and-perching-birds-in-leafy-scroll",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-007",
+        "version": "0.1.1",
+        "path": "png/owl-and-perching-birds-in-leafy-scroll.png",
+        "masterSha256": "2d36797c00e838e637e378de0445eec9711793f2fd17356d27179083fcd93ebe"
+      },
+      "new": {
+        "id": "schongauer-prints/owl-and-perching-birds-in-leafy-scroll",
+        "set": "schongauer-prints",
+        "package": "@ranx729/ducktape-assets-schongauer-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-schongauer-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "moved from nga-ornament-prints by the loose-print rule (2026-10-27): loose print by Martin Schongauer: artist set, group = holding object (National Gallery of Art, Washington 1943.3.93)"
+    },
+    {
+      "old": {
+        "name": "paired-bearded-heads-with-horns-and-flowers",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-006",
+        "version": "0.1.1",
+        "path": "png/paired-bearded-heads-with-horns-and-flowers.png",
+        "masterSha256": "4a00f5280cef860423512f1e1603f80b023e306442fed02b10e3362eedf78b90"
+      },
+      "new": {
+        "id": "hopfer-prints/paired-bearded-heads-with-horns-and-flowers",
+        "set": "hopfer-prints",
+        "package": "@ranx729/ducktape-assets-hopfer-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-hopfer-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "moved from met-hopfer-friezes by the loose-print rule (2026-10-27): loose print by Daniel Hopfer: artist set, group = holding object (Metropolitan Museum of Art 2012.136.734)"
+    },
+    {
+      "old": {
+        "name": "paired-bulbous-pendants-with-curling-stems",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-007",
+        "version": "0.1.1",
+        "path": "png/paired-bulbous-pendants-with-curling-stems.png",
+        "masterSha256": "e56e8620168f5d9ab5ef729b0c2094d9ed259695e10551205f2212d1a23ec554"
+      },
+      "new": {
+        "id": "mkg-de-bry-alphabet/hanging-fruit-with-gourd",
+        "set": "mkg-de-bry-alphabet",
+        "package": "@ranx729/ducktape-assets-mkg-de-bry-alphabet",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-mkg-de-bry-alphabet-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "paired-horned-creatures-and-twin-flower-scroll",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-006",
+        "version": "0.1.1",
+        "path": "png/paired-horned-creatures-and-twin-flower-scroll.png",
+        "masterSha256": "3a60eab572b869a50fdb075f233936510758ee0c9b1f302635208b08bf5c20fb"
+      },
+      "new": {
+        "id": "hopfer-prints/paired-horned-creatures-and-twin-flower-scroll",
+        "set": "hopfer-prints",
+        "package": "@ranx729/ducktape-assets-hopfer-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-hopfer-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "moved from met-hopfer-friezes by the loose-print rule (2026-10-27): loose print by Daniel Hopfer: artist set, group = holding object (Metropolitan Museum of Art 2012.136.734)"
+    },
+    {
+      "old": {
+        "name": "paired-human-headed-birds-with-tied-scroll",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-006",
+        "version": "0.1.1",
+        "path": "png/paired-human-headed-birds-with-tied-scroll.png",
+        "masterSha256": "8a1aba9b76981760f3da4617affe2265d4b283ccdb327c2b1cd1f1c35f3a7dd3"
+      },
+      "new": {
+        "id": "hopfer-prints/paired-human-headed-birds-with-tied-scroll",
+        "set": "hopfer-prints",
+        "package": "@ranx729/ducktape-assets-hopfer-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-hopfer-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "moved from met-hopfer-friezes by the loose-print rule (2026-10-27): loose print by Daniel Hopfer: artist set, group = holding object (Metropolitan Museum of Art 2012.136.734)"
+    },
+    {
+      "old": {
+        "name": "paired-winged-beasts-with-central-face",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-006",
+        "version": "0.1.1",
+        "path": "png/paired-winged-beasts-with-central-face.png",
+        "masterSha256": "fe57ec2606b7751c63bd7201994cc1e482a40c605e6f23eb32aa815fdb1da6d8"
+      },
+      "new": {
+        "id": "hopfer-prints/paired-winged-beasts-with-central-face",
+        "set": "hopfer-prints",
+        "package": "@ranx729/ducktape-assets-hopfer-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-hopfer-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "moved from met-hopfer-friezes by the loose-print rule (2026-10-27): loose print by Daniel Hopfer: artist set, group = holding object (Metropolitan Museum of Art 2012.136.734)"
+    },
+    {
+      "old": {
+        "name": "paired-winged-putti-holding-bowl-in-scroll",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-006",
+        "version": "0.1.1",
+        "path": "png/paired-winged-putti-holding-bowl-in-scroll.png",
+        "masterSha256": "ca73bf2b3acd25eba69249609831817783cfcda7e7370837fe8729f7c58a9dee"
+      },
+      "new": {
+        "id": "hopfer-prints/paired-winged-putti-holding-bowl-in-scroll",
+        "set": "hopfer-prints",
+        "package": "@ranx729/ducktape-assets-hopfer-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-hopfer-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "moved from met-hopfer-friezes by the loose-print rule (2026-10-27): loose print by Daniel Hopfer: artist set, group = holding object (Metropolitan Museum of Art 2012.136.734)"
+    },
+    {
+      "old": {
+        "name": "plantago-maior",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-005",
+        "version": "0.1.1",
+        "path": "png/plantago-maior.png",
+        "masterSha256": "ccdcd0b724c5ceb4e901565ea3dad48263bc37924477d3dff02e9163bbb2f4ea"
+      },
+      "new": {
+        "id": "fuchs-1542-herbal/plantago-maior",
+        "set": "fuchs-1542-herbal",
+        "package": "@ranx729/ducktape-assets-fuchs-1542-herbal",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-fuchs-1542-herbal-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "png is the master; traced svg dropped (see #svg entry)"
+    },
+    {
+      "old": {
+        "name": "plantago-maior",
+        "component": "svg"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "auto-traced SVG of the raster master; no delivery value"
+    },
+    {
+      "old": {
         "name": "polyhymnia-logo-acanthus",
         "package": "@ranx729/medieval-ornaments-assets-polyhymnia",
         "version": "0.0.0",
@@ -1357,6 +2609,277 @@
     },
     {
       "old": {
+        "name": "rosselli-foliate-border",
+        "package": "@ranx729/medieval-ornaments-assets-borders-001",
+        "version": "0.2.0",
+        "path": "png/rosselli-foliate-border.png",
+        "masterSha256": "dacccbf24899b99e20cc5b111e3550a593f582b76d7fcd9e75ac955561a31fd2"
+      },
+      "new": {
+        "id": "met-356741/foliate-tile",
+        "set": "met-356741",
+        "package": "@ranx729/ducktape-assets-met-356741",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-met-356741-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "rosselli-foliate-border",
+        "component": "border_image"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "generated border-image atlas; geometry goes to render.frame"
+    },
+    {
+      "old": {
+        "name": "rosselli-foliate-border",
+        "component": "corner",
+        "package": "@ranx729/medieval-ornaments-assets-borders-001",
+        "version": "0.2.0",
+        "path": "png/rosselli-foliate-border-corner.png",
+        "masterSha256": "f2c81aea523b620f67c2363afeb277c9cdbb236dc15f9d18af41dcc208ec968f"
+      },
+      "new": {
+        "id": "met-356741/foliate-tile#corner",
+        "set": "met-356741",
+        "package": "@ranx729/ducktape-assets-met-356741",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-met-356741-masters"
+      },
+      "status": "merged",
+      "verified": "pixels-identical",
+      "notes": "true master component, folded into the asset as component corner"
+    },
+    {
+      "old": {
+        "name": "rosselli-foliate-border",
+        "component": "reference_crop"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "generated reference crop"
+    },
+    {
+      "old": {
+        "name": "rosselli-foliate-border",
+        "component": "rotated_tile"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "generated rotated tile; geometry goes to render.tile"
+    },
+    {
+      "old": {
+        "name": "rosselli-foliate-strip",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/rosselli-foliate-strip.png",
+        "masterSha256": "8ce25187da18d22697aa1e2755656bd7c8d703767290bab8ea9e2a0f43fe6227"
+      },
+      "new": {
+        "id": "met-356741/foliate-strip",
+        "set": "met-356741",
+        "package": "@ranx729/ducktape-assets-met-356741",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-met-356741-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "rosselli-mask-border",
+        "package": "@ranx729/medieval-ornaments-assets-borders-001",
+        "version": "0.2.0",
+        "path": "png/rosselli-mask-border.png",
+        "masterSha256": "18ce1397588ce886ed1e5ba315859ef77632550f460d710965a64d1e5c7b0c1b"
+      },
+      "new": {
+        "id": "met-356741/mask-tile",
+        "set": "met-356741",
+        "package": "@ranx729/ducktape-assets-met-356741",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-met-356741-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "rosselli-mask-border",
+        "component": "border_image"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "generated border-image atlas; geometry goes to render.frame"
+    },
+    {
+      "old": {
+        "name": "rosselli-mask-border",
+        "component": "corner",
+        "package": "@ranx729/medieval-ornaments-assets-borders-001",
+        "version": "0.2.0",
+        "path": "png/rosselli-mask-border-corner.png",
+        "masterSha256": "85863f0b6e9427fc359682484a622109c3b9cd0013fa25281af7d022ba6d5573"
+      },
+      "new": {
+        "id": "met-356741/mask-tile#corner",
+        "set": "met-356741",
+        "package": "@ranx729/ducktape-assets-met-356741",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-met-356741-masters"
+      },
+      "status": "merged",
+      "verified": "pixels-identical",
+      "notes": "true master component, folded into the asset as component corner"
+    },
+    {
+      "old": {
+        "name": "rosselli-mask-border",
+        "component": "reference_crop"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "generated reference crop"
+    },
+    {
+      "old": {
+        "name": "rosselli-mask-border",
+        "component": "rotated_tile"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "generated rotated tile; geometry goes to render.tile"
+    },
+    {
+      "old": {
+        "name": "rosselli-mask-strip",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/rosselli-mask-strip.png",
+        "masterSha256": "2ace92ae671cf7dd2aadc02ad2c096e129e9dec97ab40e4995025b854bddd515"
+      },
+      "new": {
+        "id": "met-356741/mask-strip",
+        "set": "met-356741",
+        "package": "@ranx729/ducktape-assets-met-356741",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-met-356741-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "rosselli-roundel-bottom",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/rosselli-roundel-bottom.png",
+        "masterSha256": "6388923a5280f774258aa972aa0b7ea01cbc3d980a77ac2acc30dfc887adb19b"
+      },
+      "new": {
+        "id": "met-356741/roundel-bottom",
+        "set": "met-356741",
+        "package": "@ranx729/ducktape-assets-met-356741",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-met-356741-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "rosselli-roundel-second",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/rosselli-roundel-second.png",
+        "masterSha256": "27de29ab99ae458a3fff47fb80f233411341a6dc69a6a796212cb31978bf6baf"
+      },
+      "new": {
+        "id": "met-356741/roundel-second",
+        "set": "met-356741",
+        "package": "@ranx729/ducktape-assets-met-356741",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-met-356741-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "rosselli-roundel-third",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/rosselli-roundel-third.png",
+        "masterSha256": "ff7929cf942131f764839597e26abe721f5bac0b990ca6e8e14923ac3a297e6b"
+      },
+      "new": {
+        "id": "met-356741/roundel-third",
+        "set": "met-356741",
+        "package": "@ranx729/ducktape-assets-met-356741",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-met-356741-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "rosselli-roundel-top",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/rosselli-roundel-top.png",
+        "masterSha256": "6dc04988797e62a30406820cbdfeb25dc45c98deef766d810806e465a2e26e22"
+      },
+      "new": {
+        "id": "met-356741/roundel-top",
+        "set": "met-356741",
+        "package": "@ranx729/ducktape-assets-met-356741",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-met-356741-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "seated-man-pulling-looped-cord",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-009",
+        "version": "0.1.1",
+        "path": "png/seated-man-pulling-looped-cord.png",
+        "masterSha256": "3678b9489d8b7cedd92387e8522e681218b2083c3b4021f462394e5bd0a0f10a"
+      },
+      "new": {
+        "id": "mkg-de-bry-alphabet/seated-man-pulling-looped-cord",
+        "set": "mkg-de-bry-alphabet",
+        "package": "@ranx729/ducktape-assets-mkg-de-bry-alphabet",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-mkg-de-bry-alphabet-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
         "name": "seated-rabbit",
         "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
         "version": "0.2.0",
@@ -1369,6 +2892,83 @@
         "package": "@ranx729/ducktape-assets-medieval-cutouts",
         "version": null,
         "mastersPackage": "@ranx729/ducktape-assets-medieval-cutouts-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "sedum-maius",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-005",
+        "version": "0.1.1",
+        "path": "png/sedum-maius.png",
+        "masterSha256": "750411bd653d2498989ac7d1a73e46773bc97df9d9e6518d14229a736492889d"
+      },
+      "new": {
+        "id": "fuchs-1542-herbal/sedum-maius",
+        "set": "fuchs-1542-herbal",
+        "package": "@ranx729/ducktape-assets-fuchs-1542-herbal",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-fuchs-1542-herbal-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "png is the master; traced svg dropped (see #svg entry)"
+    },
+    {
+      "old": {
+        "name": "sedum-maius",
+        "component": "svg"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "auto-traced SVG of the raster master; no delivery value"
+    },
+    {
+      "old": {
+        "name": "seriphium-absinthium",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-005",
+        "version": "0.1.1",
+        "path": "png/seriphium-absinthium.png",
+        "masterSha256": "aa97396384c0fc4cb0d4df1e3269bc21acf76ffaeadb76e310af27f8fd16a33b"
+      },
+      "new": {
+        "id": "fuchs-1542-herbal/seriphium-absinthium",
+        "set": "fuchs-1542-herbal",
+        "package": "@ranx729/ducktape-assets-fuchs-1542-herbal",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-fuchs-1542-herbal-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "png is the master; traced svg dropped (see #svg entry)"
+    },
+    {
+      "old": {
+        "name": "seriphium-absinthium",
+        "component": "svg"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "auto-traced SVG of the raster master; no delivery value"
+    },
+    {
+      "old": {
+        "name": "small-bird-flying-left",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-009",
+        "version": "0.1.1",
+        "path": "png/small-bird-flying-left.png",
+        "masterSha256": "f338e32fe8f643e7315f3ff1e4191c4b209595711b8082c52728a0024dec052b"
+      },
+      "new": {
+        "id": "mkg-de-bry-alphabet/small-bird-flying-left",
+        "set": "mkg-de-bry-alphabet",
+        "package": "@ranx729/ducktape-assets-mkg-de-bry-alphabet",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-mkg-de-bry-alphabet-masters"
       },
       "status": "moved",
       "verified": "pixels-identical",
@@ -1392,6 +2992,120 @@
       "status": "moved",
       "verified": "pixels-identical",
       "notes": "wave 1 (allow, elder-scrolls)"
+    },
+    {
+      "old": {
+        "name": "standing-apostle-with-rolled-scroll",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/standing-apostle-with-rolled-scroll.png",
+        "masterSha256": "3ff8df981817a3525ecfed18491233abf9abdb8ab65b78de4b4011f2a9dd370b"
+      },
+      "new": {
+        "id": "cma-1950-154/standing-apostle-with-rolled-scroll",
+        "set": "cma-1950-154",
+        "package": "@ranx729/ducktape-assets-cma-1950-154",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-cma-1950-154-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "sunburst-rays-with-open-center",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-007",
+        "version": "0.1.1",
+        "path": "png/sunburst-rays-with-open-center.png",
+        "masterSha256": "f4cc5b4be42512e03222e6e5a5b0f7f5451b130ff4efdd588ab178b92c717830"
+      },
+      "new": {
+        "id": "mkg-de-bry-alphabet/sunburst-rays-with-open-center",
+        "set": "mkg-de-bry-alphabet",
+        "package": "@ranx729/ducktape-assets-mkg-de-bry-alphabet",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-mkg-de-bry-alphabet-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "tall-grotesque-candelabrum-with-paired-satyrs",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-006",
+        "version": "0.1.1",
+        "path": "png/tall-grotesque-candelabrum-with-paired-satyrs.png",
+        "masterSha256": "b9b9a1d6d85ae415646826b98c628be02e5759889a461b7039acf0574fee490e"
+      },
+      "new": {
+        "id": "hopfer-prints/tall-grotesque-candelabrum-with-paired-satyrs",
+        "set": "hopfer-prints",
+        "package": "@ranx729/ducktape-assets-hopfer-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-hopfer-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Daniel Hopfer: artist set, group = holding object (Metropolitan Museum of Art 2012.136.735)"
+    },
+    {
+      "old": {
+        "name": "upper-flying-day-bird",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-009",
+        "version": "0.1.1",
+        "path": "png/upper-flying-day-bird.png",
+        "masterSha256": "967b723d82e41acabe9ccbe656efbcbbc26d8576f94c0a5edf18fa861a5f38d2"
+      },
+      "new": {
+        "id": "schongauer-prints/upper-flying-day-bird",
+        "set": "schongauer-prints",
+        "package": "@ranx729/ducktape-assets-schongauer-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-schongauer-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "moved from nga-ornament-prints by the loose-print rule (2026-10-27): loose print by Martin Schongauer: artist set, group = holding object (National Gallery of Art, Washington 1943.3.93)"
+    },
+    {
+      "old": {
+        "name": "upper-grotesque-face-mask",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-007",
+        "version": "0.1.1",
+        "path": "png/upper-grotesque-face-mask.png",
+        "masterSha256": "2dfde59efa347fa26c0a275b6fd65ede9ea9e67a564d9dc41cee2eb9c26c9705"
+      },
+      "new": {
+        "id": "mkg-de-bry-alphabet/lion-mask-with-ring",
+        "set": "mkg-de-bry-alphabet",
+        "package": "@ranx729/ducktape-assets-mkg-de-bry-alphabet",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-mkg-de-bry-alphabet-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "urn-with-tall-curling-plume",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-007",
+        "version": "0.1.1",
+        "path": "png/urn-with-tall-curling-plume.png",
+        "masterSha256": "a9badc0ad3e43fa17187957473a0a4e144fbca21e51dc34f420044eed099dd28"
+      },
+      "new": {
+        "id": "mkg-de-bry-alphabet/urn-with-tall-curling-plume",
+        "set": "mkg-de-bry-alphabet",
+        "package": "@ranx729/ducktape-assets-mkg-de-bry-alphabet",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-mkg-de-bry-alphabet-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
     },
     {
       "old": {
@@ -1506,6 +3220,103 @@
       "status": "moved",
       "verified": "pixels-identical",
       "notes": ""
+    },
+    {
+      "old": {
+        "name": "white-curling-vine-on-blue-repeat",
+        "package": "@ranx729/medieval-ornaments-assets-borders-004",
+        "version": "0.1.2",
+        "path": "png/white-curling-vine-on-blue-repeat.png",
+        "masterSha256": "87ac2ad25fed9f54d2a955ce32373d90e0f57f9c9a86dc61e42d032b660c7cfb"
+      },
+      "new": {
+        "id": "cma-1950-154/white-curling-vine-on-blue-repeat",
+        "set": "cma-1950-154",
+        "package": "@ranx729/ducktape-assets-cma-1950-154",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-cma-1950-154-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "white-curling-vine-on-blue-repeat",
+        "component": "bar",
+        "package": "@ranx729/medieval-ornaments-assets-borders-004",
+        "version": "0.1.2",
+        "path": "png/white-curling-vine-on-blue-repeat-bar.png",
+        "masterSha256": "4f7a41b74aca7f84634f8e4968a133e54cdd12e71b9e21858d80fcd25af12f68"
+      },
+      "new": {
+        "id": "cma-1950-154/white-curling-vine-on-blue-repeat#bar",
+        "set": "cma-1950-154",
+        "package": "@ranx729/ducktape-assets-cma-1950-154",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-cma-1950-154-masters"
+      },
+      "status": "merged",
+      "verified": "pixels-identical",
+      "notes": "true master component, folded into the asset as component bar"
+    },
+    {
+      "old": {
+        "name": "white-curling-vine-on-blue-repeat",
+        "component": "rotated_bar"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "generated rotation of bar"
+    },
+    {
+      "old": {
+        "name": "white-curling-vine-on-blue-repeat",
+        "component": "rotated_tile"
+      },
+      "new": null,
+      "status": "dropped",
+      "verified": "n/a",
+      "notes": "generated rotated tile; geometry goes to render.tile"
+    },
+    {
+      "old": {
+        "name": "winged-putto-with-contacted-animal-headed-finial",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-009",
+        "version": "0.1.1",
+        "path": "png/winged-putto-with-contacted-animal-headed-finial.png",
+        "masterSha256": "2fb4724d1d196b60705a272b33b15f26acae8da58d5d9573ebb0ba622cb584f0"
+      },
+      "new": {
+        "id": "mkg-de-bry-alphabet/putto-holding-strap-end",
+        "set": "mkg-de-bry-alphabet",
+        "package": "@ranx729/ducktape-assets-mkg-de-bry-alphabet",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-mkg-de-bry-alphabet-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": ""
+    },
+    {
+      "old": {
+        "name": "winged-putto-with-shield-and-braided-scroll",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-006",
+        "version": "0.1.1",
+        "path": "png/winged-putto-with-shield-and-braided-scroll.png",
+        "masterSha256": "3f1f1d6e11296369a7599b036d9c2d4b3a2047615de6cb9a58df199d44f57810"
+      },
+      "new": {
+        "id": "hopfer-prints/winged-putto-with-shield-and-braided-scroll",
+        "set": "hopfer-prints",
+        "package": "@ranx729/ducktape-assets-hopfer-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-hopfer-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "moved from met-hopfer-friezes by the loose-print rule (2026-10-27): loose print by Daniel Hopfer: artist set, group = holding object (Metropolitan Museum of Art 2012.136.734)"
     },
     {
       "old": {

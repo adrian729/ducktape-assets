@@ -185,11 +185,11 @@ entries:
     notes: "wave 1 (allow, polyhymnia)"
   - old: "animals-in-finite-leafy-frieze"
     set: "solis-prints"
-    id: "solis-prints/animals-in-finite-leafy-frieze"
+    id: "solis-prints/animal-frieze"
     group: "o1911-604"
     wave: 2
     status: moved
-    notes: "loose print by Virgil Solis: artist set, group = holding object (Museum für Kunst und Gewerbe Hamburg O1911.604)"
+    notes: "loose print by Virgil Solis: artist set, group = holding object (Museum für Kunst und Gewerbe Hamburg O1911.604); id \"animals-in-finite-leafy-frieze\" renamed to \"animal-frieze\" after review"
   - old: "announcing-angel-with-clouds-and-curled-blank-scroll"
     set: "cma-2014-22"
     id: null
@@ -353,11 +353,11 @@ entries:
     notes: ""
   - old: "birds-on-flowering-scroll-frieze"
     set: "solis-prints"
-    id: "solis-prints/birds-on-flowering-scroll-frieze"
+    id: "solis-prints/bird-frieze"
     group: "o1911-605"
     wave: 2
     status: moved
-    notes: "loose print by Virgil Solis: artist set, group = holding object (Museum für Kunst und Gewerbe Hamburg O1911.605)"
+    notes: "loose print by Virgil Solis: artist set, group = holding object (Museum für Kunst und Gewerbe Hamburg O1911.605); id \"birds-on-flowering-scroll-frieze\" renamed to \"bird-frieze\" after review"
   - old: "black-horned-devil"
     set: "cma-2005-206"
     id: "cma-2005-206/black-horned-devil"
@@ -1109,11 +1109,11 @@ entries:
     notes: "generated rotated tile; geometry goes to render.tile"
   - old: "branching-elk-antler"
     set: "gessner-historiae-animalium"
-    id: "gessner-historiae-animalium/branching-elk-antler"
+    id: "gessner-historiae-animalium/elk-antler"
     group: null
     wave: 2
     status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    notes: "png is the master; traced svg dropped (see #svg entry); id \"branching-elk-antler\" renamed to \"elk-antler\" after review"
   - old: "branching-elk-antler#svg"
     set: "gessner-historiae-animalium"
     id: null
@@ -1298,11 +1298,11 @@ entries:
     notes: "id candidate \"complete-annunciation-to-the-shepherds-with-angel-and-night-landscape\" is 69 chars (> 48); shorten by hand"
   - old: "complete-apostle-city-scene-with-blue-vine-frame"
     set: "cma-1950-154"
-    id: "cma-1950-154/complete-apostle-city-scene-with-blue-vine-frame"
+    id: "cma-1950-154/apostle-city-miniature"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"complete-apostle-city-scene-with-blue-vine-frame\" renamed to \"apostle-city-miniature\" after review"
   - old: "complete-circular-wind-diagram-with-twelve-profile-heads"
     set: "walters-w73"
     id: null
@@ -1438,11 +1438,11 @@ entries:
     notes: ""
   - old: "crossed-weapons-with-tied-ribbon"
     set: "mkg-de-bry-alphabet"
-    id: "mkg-de-bry-alphabet/crossed-weapons-with-tied-ribbon"
+    id: "mkg-de-bry-alphabet/crossed-weapons-trophy"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"crossed-weapons-with-tied-ribbon\" renamed to \"crossed-weapons-trophy\" after review"
   - old: "crouching-ape-with-outstretched-hands"
     set: "walters-w82"
     id: "walters-w82/crouching-ape-with-outstretched-hands"
@@ -1648,11 +1648,11 @@ entries:
     notes: ""
   - old: "dragon-head-scroll-with-long-bearded-mask"
     set: "hopfer-prints"
-    id: "hopfer-prints/dragon-head-scroll-with-long-bearded-mask"
+    id: "hopfer-prints/scroll-with-horned-bearded-mask"
     group: "2012-136-734"
     wave: 2
     status: moved
-    notes: "moved from met-hopfer-friezes by the loose-print rule (2026-10-27): loose print by Daniel Hopfer: artist set, group = holding object (Metropolitan Museum of Art 2012.136.734)"
+    notes: "moved from met-hopfer-friezes by the loose-print rule (2026-10-27): loose print by Daniel Hopfer: artist set, group = holding object (Metropolitan Museum of Art 2012.136.734); id \"dragon-head-scroll-with-long-bearded-mask\" renamed to \"scroll-with-horned-bearded-mask\" after review"
   - old: "drooping-flower-whorl-beneath-long-crown-leaves"
     set: "met-livre-nouveau-de-fleurs"
     id: "met-livre-nouveau-de-fleurs/drooping-flower-whorl-beneath-long-crown-leaves"
@@ -1816,11 +1816,11 @@ entries:
     notes: "id candidate \"finite-blue-rose-white-foliate-waves-and-gold-roundels\" is 54 chars (> 48); shorten by hand"
   - old: "finite-blue-vine-and-red-gold-miniature-frame"
     set: "cma-1950-154"
-    id: "cma-1950-154/finite-blue-vine-and-red-gold-miniature-frame"
+    id: "cma-1950-154/blue-vine-frame"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"finite-blue-vine-and-red-gold-miniature-frame\" renamed to \"blue-vine-frame\" after review"
   - old: "finite-four-white-loops-on-blue"
     set: "walters-w82"
     id: "walters-w82/finite-four-white-loops-on-blue"
@@ -1886,11 +1886,11 @@ entries:
     notes: ""
   - old: "finite-interlaced-arabesque-cartouche"
     set: "solis-prints"
-    id: "solis-prints/finite-interlaced-arabesque-cartouche"
+    id: "solis-prints/arabesque-cartouche"
     group: "33-70-39"
     wave: 2
     status: moved
-    notes: "loose print by Virgil Solis: artist set, group = holding object (Metropolitan Museum of Art 33.70.39)"
+    notes: "loose print by Virgil Solis: artist set, group = holding object (Metropolitan Museum of Art 33.70.39); id \"finite-interlaced-arabesque-cartouche\" renamed to \"arabesque-cartouche\" after review"
   - old: "finite-paired-gold-roundels-and-foliate-white-wave-on-rose-blue"
     set: "walters-w82"
     id: null
@@ -2383,11 +2383,11 @@ entries:
     notes: ""
   - old: "gold-s-shaped-leaf-on-red-repeat#bar"
     set: "cma-1950-154"
-    id: "cma-1950-154/gold-s-shaped-leaf-on-red-repeat#bar"
+    id: null
     group: null
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component bar"
+    status: dropped
+    notes: "true master component, folded into the asset as component bar; generated derivative (the master repeated five times), not a component; dropped after review"
   - old: "gold-s-shaped-leaf-on-red-repeat#rotated_bar"
     set: "cma-1950-154"
     id: null
@@ -2446,11 +2446,11 @@ entries:
     notes: "moved from met-hopfer-friezes by the loose-print rule (2026-10-27): loose print by Daniel Hopfer: artist set, group = holding object (Metropolitan Museum of Art 2012.136.734)"
   - old: "grape-bunch-with-leaves"
     set: "gessner-historiae-animalium"
-    id: "gessner-historiae-animalium/grape-bunch-with-leaves"
+    id: null
     group: "lion-627095"
     wave: 2
-    status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    status: dropped
+    notes: "png is the master; traced svg dropped (see #svg entry); near-duplicate crop of hanging-grapes-with-two-broad-leaves (now grapes), differing by the branch stub; dropped after review"
   - old: "grape-bunch-with-leaves#svg"
     set: "gessner-historiae-animalium"
     id: null
@@ -2691,39 +2691,39 @@ entries:
     notes: ""
   - old: "haloed-man-gesturing-in-blue-and-green-robes"
     set: "cma-1950-154"
-    id: "cma-1950-154/haloed-man-gesturing-in-blue-and-green-robes"
+    id: "cma-1950-154/small-figure-pointing-right"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"haloed-man-gesturing-in-blue-and-green-robes\" renamed to \"small-figure-pointing-right\" after review"
   - old: "haloed-man-in-blue-and-orange-robes"
     set: "cma-1950-154"
-    id: "cma-1950-154/haloed-man-in-blue-and-orange-robes"
+    id: "cma-1950-154/small-figure-facing-left"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"haloed-man-in-blue-and-orange-robes\" renamed to \"small-figure-facing-left\" after review"
   - old: "hanging-grapes-with-two-broad-leaves"
     set: "gessner-historiae-animalium"
-    id: "gessner-historiae-animalium/hanging-grapes-with-two-broad-leaves"
+    id: "gessner-historiae-animalium/grapes"
     group: "lion-627095"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"hanging-grapes-with-two-broad-leaves\" renamed to \"grapes\" after review"
   - old: "hanging-pear"
     set: "gessner-historiae-animalium"
-    id: "gessner-historiae-animalium/hanging-pear"
+    id: null
     group: "lion-627095"
     wave: 2
-    status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    status: dropped
+    notes: "png is the master; traced svg dropped (see #svg entry); near-duplicate crop of hanging-pear-with-short-curved-stem (now pear), differing by the stalk; dropped after review"
   - old: "hanging-pear-with-short-curved-stem"
     set: "gessner-historiae-animalium"
-    id: "gessner-historiae-animalium/hanging-pear-with-short-curved-stem"
+    id: "gessner-historiae-animalium/pear"
     group: "lion-627095"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"hanging-pear-with-short-curved-stem\" renamed to \"pear\" after review"
   - old: "hanging-pear#svg"
     set: "gessner-historiae-animalium"
     id: null
@@ -2754,32 +2754,32 @@ entries:
     notes: ""
   - old: "hoefnagel-cut-apple"
     set: "getty-ms20"
-    id: "getty-ms20/hoefnagel-cut-apple"
+    id: "getty-ms20/cut-apple"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"hoefnagel-cut-apple\" renamed to \"cut-apple\" after review"
   - old: "hoefnagel-rose-lower"
     set: "getty-ms20"
-    id: "getty-ms20/hoefnagel-rose-lower"
+    id: "getty-ms20/closed-rosebud"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"hoefnagel-rose-lower\" renamed to \"closed-rosebud\" after review"
   - old: "hoefnagel-rose-upper"
     set: "getty-ms20"
-    id: "getty-ms20/hoefnagel-rose-upper"
+    id: "getty-ms20/opening-rosebud"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"hoefnagel-rose-upper\" renamed to \"opening-rosebud\" after review"
   - old: "hoefnagel-strapwork-frame"
     set: "getty-ms20"
-    id: "getty-ms20/hoefnagel-strapwork-frame"
+    id: "getty-ms20/strapwork-frame"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"hoefnagel-strapwork-frame\" renamed to \"strapwork-frame\" after review"
   - old: "hooded-bagpiper"
     set: "medieval-cutouts"
     id: "medieval-cutouts/hooded-bagpiper"
@@ -3370,11 +3370,11 @@ entries:
     notes: "generated rotated tile; geometry goes to render.tile"
   - old: "intertwined-hop-vine-and-lobed-leaf-scroll"
     set: "schongauer-prints"
-    id: "schongauer-prints/intertwined-hop-vine-and-lobed-leaf-scroll"
+    id: "schongauer-prints/hop-vine-scroll"
     group: "1943-3-90"
     wave: 2
     status: moved
-    notes: "loose print by Martin Schongauer: artist set, group = holding object (National Gallery of Art, Washington 1943.3.90)"
+    notes: "loose print by Martin Schongauer: artist set, group = holding object (National Gallery of Art, Washington 1943.3.90); id \"intertwined-hop-vine-and-lobed-leaf-scroll\" renamed to \"hop-vine-scroll\" after review"
   - old: "inverted-lattice-floral-triangle"
     set: "met-latomus-lace"
     id: "met-latomus-lace/inverted-lattice-floral-triangle"
@@ -3384,46 +3384,46 @@ entries:
     notes: ""
   - old: "isabella-blue-cornflower"
     set: "cma-1963-256"
-    id: "cma-1963-256/isabella-blue-cornflower"
+    id: "cma-1963-256/blue-cornflower"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"isabella-blue-cornflower\" renamed to \"blue-cornflower\" after review"
   - old: "isabella-gold-floral-frame"
     set: "cma-1963-256"
-    id: "cma-1963-256/isabella-gold-floral-frame"
+    id: "cma-1963-256/gold-floral-frame"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"isabella-gold-floral-frame\" renamed to \"gold-floral-frame\" after review"
   - old: "isabella-gray-butterfly"
     set: "cma-1963-256"
-    id: "cma-1963-256/isabella-gray-butterfly"
+    id: "cma-1963-256/gray-butterfly"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"isabella-gray-butterfly\" renamed to \"gray-butterfly\" after review"
   - old: "isabella-orange-butterfly"
     set: "cma-1963-256"
-    id: "cma-1963-256/isabella-orange-butterfly"
+    id: "cma-1963-256/orange-butterfly"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"isabella-orange-butterfly\" renamed to \"orange-butterfly\" after review"
   - old: "isabella-pink-rose"
     set: "cma-1963-256"
-    id: "cma-1963-256/isabella-pink-rose"
+    id: "cma-1963-256/crimson-rose"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"isabella-pink-rose\" renamed to \"crimson-rose\" after review"
   - old: "isabella-small-bird"
     set: "cma-1963-256"
-    id: "cma-1963-256/isabella-small-bird"
+    id: "cma-1963-256/small-bird"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"isabella-small-bird\" renamed to \"small-bird\" after review"
   - old: "ivy-corner"
     set: "authored-ornaments"
     id: "authored-ornaments/ivy-corner"
@@ -3902,11 +3902,11 @@ entries:
     notes: "id candidate \"lower-gold-rod-with-red-blue-and-gold-foliate-branch-walters-w171-74r\" is 69 chars (> 48); shorten by hand"
   - old: "lower-grotesque-face-mask"
     set: "mkg-de-bry-alphabet"
-    id: "mkg-de-bry-alphabet/lower-grotesque-face-mask"
+    id: "mkg-de-bry-alphabet/small-face-mask"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"lower-grotesque-face-mask\" renamed to \"small-face-mask\" after review"
   - old: "lower-left-gold-and-pink-rod-with-ivy-flourish-walters-w171-10r"
     set: "walters-w171"
     id: null
@@ -3965,11 +3965,11 @@ entries:
     notes: ""
   - old: "lower-right-foliate-trophy-with-tied-ribbon"
     set: "mkg-de-bry-alphabet"
-    id: "mkg-de-bry-alphabet/lower-right-foliate-trophy-with-tied-ribbon"
+    id: "mkg-de-bry-alphabet/foliate-trophy"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"lower-right-foliate-trophy-with-tied-ribbon\" renamed to \"foliate-trophy\" after review"
   - old: "lower-right-green-leaf-branch-with-blue-flowers"
     set: "cma-2014-22"
     id: "cma-2014-22/lower-right-green-leaf-branch-with-blue-flowers"
@@ -4483,11 +4483,11 @@ entries:
     notes: "moved from met-hopfer-friezes by the loose-print rule (2026-10-27): loose print by Daniel Hopfer: artist set, group = holding object (Metropolitan Museum of Art 2012.136.734)"
   - old: "paired-bulbous-pendants-with-curling-stems"
     set: "mkg-de-bry-alphabet"
-    id: "mkg-de-bry-alphabet/paired-bulbous-pendants-with-curling-stems"
+    id: "mkg-de-bry-alphabet/hanging-fruit-with-gourd"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"paired-bulbous-pendants-with-curling-stems\" renamed to \"hanging-fruit-with-gourd\" after review"
   - old: "paired-horned-creatures-and-twin-flower-scroll"
     set: "hopfer-prints"
     id: "hopfer-prints/paired-horned-creatures-and-twin-flower-scroll"
@@ -6765,11 +6765,11 @@ entries:
     notes: "id candidate \"rose-fan-flower-with-small-red-bud-and-green-leaves\" is 51 chars (> 48); shorten by hand"
   - old: "rosselli-foliate-border"
     set: "met-356741"
-    id: "met-356741/rosselli-foliate-border"
+    id: "met-356741/foliate-tile"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"rosselli-foliate-border\" renamed to \"foliate-tile\" after review"
   - old: "rosselli-foliate-border#border_image"
     set: "met-356741"
     id: null
@@ -6779,11 +6779,11 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "rosselli-foliate-border#corner"
     set: "met-356741"
-    id: "met-356741/rosselli-foliate-border#corner"
+    id: "met-356741/foliate-tile#corner"
     group: null
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner"
+    notes: "true master component, folded into the asset as component corner; id \"rosselli-foliate-border\" renamed to \"foliate-tile\" after review"
   - old: "rosselli-foliate-border#reference_crop"
     set: "met-356741"
     id: null
@@ -6800,18 +6800,18 @@ entries:
     notes: "generated rotated tile; geometry goes to render.tile"
   - old: "rosselli-foliate-strip"
     set: "met-356741"
-    id: "met-356741/rosselli-foliate-strip"
+    id: "met-356741/foliate-strip"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"rosselli-foliate-strip\" renamed to \"foliate-strip\" after review"
   - old: "rosselli-mask-border"
     set: "met-356741"
-    id: "met-356741/rosselli-mask-border"
+    id: "met-356741/mask-tile"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"rosselli-mask-border\" renamed to \"mask-tile\" after review"
   - old: "rosselli-mask-border#border_image"
     set: "met-356741"
     id: null
@@ -6821,11 +6821,11 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "rosselli-mask-border#corner"
     set: "met-356741"
-    id: "met-356741/rosselli-mask-border#corner"
+    id: "met-356741/mask-tile#corner"
     group: null
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner"
+    notes: "true master component, folded into the asset as component corner; id \"rosselli-mask-border\" renamed to \"mask-tile\" after review"
   - old: "rosselli-mask-border#reference_crop"
     set: "met-356741"
     id: null
@@ -6842,39 +6842,39 @@ entries:
     notes: "generated rotated tile; geometry goes to render.tile"
   - old: "rosselli-mask-strip"
     set: "met-356741"
-    id: "met-356741/rosselli-mask-strip"
+    id: "met-356741/mask-strip"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"rosselli-mask-strip\" renamed to \"mask-strip\" after review"
   - old: "rosselli-roundel-bottom"
     set: "met-356741"
-    id: "met-356741/rosselli-roundel-bottom"
+    id: "met-356741/roundel-bottom"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"rosselli-roundel-bottom\" renamed to \"roundel-bottom\" after review"
   - old: "rosselli-roundel-second"
     set: "met-356741"
-    id: "met-356741/rosselli-roundel-second"
+    id: "met-356741/roundel-second"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"rosselli-roundel-second\" renamed to \"roundel-second\" after review"
   - old: "rosselli-roundel-third"
     set: "met-356741"
-    id: "met-356741/rosselli-roundel-third"
+    id: "met-356741/roundel-third"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"rosselli-roundel-third\" renamed to \"roundel-third\" after review"
   - old: "rosselli-roundel-top"
     set: "met-356741"
-    id: "met-356741/rosselli-roundel-top"
+    id: "met-356741/roundel-top"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"rosselli-roundel-top\" renamed to \"roundel-top\" after review"
   - old: "running-long-snouted-quadruped-with-curled-tail"
     set: "walters-w82"
     id: "walters-w82/running-long-snouted-quadruped-with-curled-tail"
@@ -8011,11 +8011,11 @@ entries:
     notes: "id candidate \"upper-gold-rod-with-red-blue-and-gold-foliate-branch-walters-w171-74r\" is 69 chars (> 48); shorten by hand"
   - old: "upper-grotesque-face-mask"
     set: "mkg-de-bry-alphabet"
-    id: "mkg-de-bry-alphabet/upper-grotesque-face-mask"
+    id: "mkg-de-bry-alphabet/lion-mask-with-ring"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"upper-grotesque-face-mask\" renamed to \"lion-mask-with-ring\" after review"
   - old: "upper-hooded-head-on-bent-gold-rod"
     set: "walters-w88"
     id: "walters-w88/upper-hooded-head-on-bent-gold-rod"
@@ -8466,11 +8466,11 @@ entries:
     notes: ""
   - old: "white-curling-vine-on-blue-repeat#bar"
     set: "cma-1950-154"
-    id: "cma-1950-154/white-curling-vine-on-blue-repeat#bar"
+    id: null
     group: null
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component bar"
+    status: dropped
+    notes: "true master component, folded into the asset as component bar; generated derivative (the master repeated five times), not a component; dropped after review"
   - old: "white-curling-vine-on-blue-repeat#rotated_bar"
     set: "cma-1950-154"
     id: null
@@ -8984,11 +8984,11 @@ entries:
     notes: ""
   - old: "winged-putto-with-contacted-animal-headed-finial"
     set: "mkg-de-bry-alphabet"
-    id: "mkg-de-bry-alphabet/winged-putto-with-contacted-animal-headed-finial"
+    id: "mkg-de-bry-alphabet/putto-holding-strap-end"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"winged-putto-with-contacted-animal-headed-finial\" renamed to \"putto-holding-strap-end\" after review"
   - old: "winged-putto-with-shield-and-braided-scroll"
     set: "hopfer-prints"
     id: "hopfer-prints/winged-putto-with-shield-and-braided-scroll"
