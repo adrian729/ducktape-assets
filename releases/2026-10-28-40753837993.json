@@ -397,8 +397,8 @@
   },
   "error": null,
   "cdn": {
-    "checkedAt": "2026-10-28T19:54:35.555Z",
-    "ok": false,
+    "checkedAt": "2026-10-28T19:55:48.974Z",
+    "ok": true,
     "level": null,
     "results": [
       {
@@ -406,7 +406,7 @@
         "version": "1.0.0",
         "kind": "delivery",
         "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-aldegrever-prints@1.0.0/manifest.json",
-        "attempts": 19,
+        "attempts": 1,
         "http": 200,
         "result": "ok",
         "detail": ""
@@ -516,7 +516,7 @@
         "version": "1.0.0",
         "kind": "masters",
         "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-giancarli-prints-masters@1.0.0/package.json",
-        "attempts": 3,
+        "attempts": 1,
         "http": 200,
         "result": "ok",
         "detail": ""
@@ -526,7 +526,7 @@
         "version": "1.0.0",
         "kind": "delivery",
         "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-lucas-van-leyden-prints@1.0.0/manifest.json",
-        "attempts": 4,
+        "attempts": 1,
         "http": 200,
         "result": "ok",
         "detail": ""
@@ -536,7 +536,7 @@
         "version": "1.0.0",
         "kind": "masters",
         "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-lucas-van-leyden-prints-masters@1.0.0/package.json",
-        "attempts": 2,
+        "attempts": 1,
         "http": 200,
         "result": "ok",
         "detail": ""
@@ -546,7 +546,7 @@
         "version": "1.0.0",
         "kind": "delivery",
         "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-master-w-with-the-key-prints@1.0.0/manifest.json",
-        "attempts": 2,
+        "attempts": 1,
         "http": 200,
         "result": "ok",
         "detail": ""
@@ -556,7 +556,7 @@
         "version": "1.0.0",
         "kind": "masters",
         "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-master-w-with-the-key-prints-masters@1.0.0/package.json",
-        "attempts": 2,
+        "attempts": 1,
         "http": 200,
         "result": "ok",
         "detail": ""
@@ -566,17 +566,17 @@
         "version": "1.0.0",
         "kind": "delivery",
         "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-meckenem-prints@1.0.0/manifest.json",
-        "attempts": 30,
-        "result": "http-404",
-        "http": 404,
-        "detail": "HTTP 404"
+        "attempts": 1,
+        "http": 200,
+        "result": "ok",
+        "detail": ""
       },
       {
         "name": "@ranx729/ducktape-assets-meckenem-prints-masters",
         "version": "1.0.0",
         "kind": "masters",
         "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-meckenem-prints-masters@1.0.0/package.json",
-        "attempts": 5,
+        "attempts": 1,
         "http": 200,
         "result": "ok",
         "detail": ""
@@ -586,7 +586,7 @@
         "version": "1.0.0",
         "kind": "delivery",
         "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-zoan-andrea-prints@1.0.0/manifest.json",
-        "attempts": 5,
+        "attempts": 1,
         "http": 200,
         "result": "ok",
         "detail": ""
@@ -596,7 +596,7 @@
         "version": "1.0.0",
         "kind": "masters",
         "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-zoan-andrea-prints-masters@1.0.0/package.json",
-        "attempts": 5,
+        "attempts": 1,
         "http": 200,
         "result": "ok",
         "detail": ""
@@ -606,7 +606,7 @@
         "version": "1.5.0",
         "kind": "index",
         "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets@1.5.0/package.json",
-        "attempts": 7,
+        "attempts": 1,
         "http": 200,
         "result": "ok",
         "detail": ""
