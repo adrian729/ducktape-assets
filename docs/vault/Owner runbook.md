@@ -13,6 +13,10 @@ The short list of things only the owner can do, with the exact command or page f
 
 Deployment review requests only exist while an environment has required reviewers. Since the reviewer was removed on 2026-10-26, GitHub sends none. If the gate is ever restored, the toggle is at https://github.com/settings/notifications under "System" → "Actions".
 
+## Once per batch of new set repositories: GitHub (the agent cannot create public repos)
+
+An agent prepares the batch under `tmp/wave<n>/` (import, review, local commit on `main`) and stops. The owner runs `scripts/owner-create-batch-repos.sh tmp/wave<n>`, which creates `adrian729/ducktape-assets-<set>` for each directory and pushes it. The agent then commits `sets.yaml`, watches the set CI runs, and hands over to the npm step below. Order matters: the registry is pushed only after the repositories exist, and the npm script dispatches the publisher at its end, so it runs last.
+
 ## Once per batch of new package names: npm (passkey needed)
 
 `scripts/owner-npm-bootstrap.sh` does the whole sitting: checks who is logged in, publishes a 0.0.0 placeholder for every missing name (first publish asks for the passkey, then accept "skip 2FA for 5 minutes"), registers trusted publishing for every name bound to this repository, `publish.yml` and the `release` environment (an existing config is reported and skipped), and triggers the publisher. Wave 1 needs seven names. The first run on 2026-10-26 listed only the index package because of a bug in the set listing (fixed the same night); the index placeholder it published is fine and stays. Rerun the script for the six set package names. Run `./scripts/owner-npm-bootstrap.sh --test-stage` first if you want the Phase 0 answer on staged publishing for new names; it costs one throwaway name.
