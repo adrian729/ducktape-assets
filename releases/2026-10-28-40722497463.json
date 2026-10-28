@@ -387,8 +387,8 @@
   },
   "error": null,
   "cdn": {
-    "checkedAt": "2026-10-28T16:37:58.722Z",
-    "ok": false,
+    "checkedAt": "2026-10-28T16:47:04.632Z",
+    "ok": true,
     "level": null,
     "results": [
       {
@@ -436,10 +436,10 @@
         "version": "1.0.0",
         "kind": "delivery",
         "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-fuchs-1542-herbal@1.0.0/manifest.json",
-        "attempts": 30,
-        "result": "http-404",
-        "http": 404,
-        "detail": "HTTP 404"
+        "attempts": 1,
+        "http": 200,
+        "result": "ok",
+        "detail": ""
       },
       {
         "name": "@ranx729/ducktape-assets-fuchs-1542-herbal-masters",
@@ -466,7 +466,7 @@
         "version": "1.0.0",
         "kind": "masters",
         "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-gessner-historiae-animalium-masters@1.0.0/package.json",
-        "attempts": 2,
+        "attempts": 1,
         "http": 200,
         "result": "ok",
         "detail": ""
@@ -496,7 +496,7 @@
         "version": "1.0.0",
         "kind": "delivery",
         "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-hopfer-prints@1.0.0/manifest.json",
-        "attempts": 20,
+        "attempts": 1,
         "http": 200,
         "result": "ok",
         "detail": ""
@@ -506,7 +506,7 @@
         "version": "1.0.0",
         "kind": "masters",
         "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-hopfer-prints-masters@1.0.0/package.json",
-        "attempts": 2,
+        "attempts": 1,
         "http": 200,
         "result": "ok",
         "detail": ""
@@ -516,7 +516,7 @@
         "version": "1.0.0",
         "kind": "delivery",
         "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-met-356741@1.0.0/manifest.json",
-        "attempts": 5,
+        "attempts": 1,
         "http": 200,
         "result": "ok",
         "detail": ""
@@ -526,7 +526,7 @@
         "version": "1.0.0",
         "kind": "masters",
         "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-met-356741-masters@1.0.0/package.json",
-        "attempts": 5,
+        "attempts": 1,
         "http": 200,
         "result": "ok",
         "detail": ""
@@ -536,7 +536,7 @@
         "version": "1.0.0",
         "kind": "delivery",
         "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-mkg-de-bry-alphabet@1.0.0/manifest.json",
-        "attempts": 9,
+        "attempts": 1,
         "http": 200,
         "result": "ok",
         "detail": ""
@@ -546,7 +546,7 @@
         "version": "1.0.0",
         "kind": "masters",
         "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-mkg-de-bry-alphabet-masters@1.0.0/package.json",
-        "attempts": 4,
+        "attempts": 1,
         "http": 200,
         "result": "ok",
         "detail": ""
@@ -556,7 +556,7 @@
         "version": "1.0.0",
         "kind": "delivery",
         "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-schongauer-prints@1.0.0/manifest.json",
-        "attempts": 2,
+        "attempts": 1,
         "http": 200,
         "result": "ok",
         "detail": ""
@@ -566,7 +566,7 @@
         "version": "1.0.0",
         "kind": "masters",
         "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-schongauer-prints-masters@1.0.0/package.json",
-        "attempts": 4,
+        "attempts": 1,
         "http": 200,
         "result": "ok",
         "detail": ""
@@ -576,7 +576,7 @@
         "version": "1.0.0",
         "kind": "delivery",
         "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-solis-prints@1.0.0/manifest.json",
-        "attempts": 7,
+        "attempts": 1,
         "http": 200,
         "result": "ok",
         "detail": ""
@@ -596,7 +596,7 @@
         "version": "1.4.0",
         "kind": "index",
         "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets@1.4.0/package.json",
-        "attempts": 2,
+        "attempts": 1,
         "http": 200,
         "result": "ok",
         "detail": ""
