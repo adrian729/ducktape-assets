@@ -38,7 +38,8 @@ else
   names+=("$SCOPE/ducktape-assets")
 fi
 
-echo "logged in as: $(npm whoami)"
+me=$(npm whoami 2>/dev/null) || { echo "not logged in to npm (npm whoami failed); run 'npm login' first, then rerun this script"; exit 1; }
+echo "logged in as: $me"
 echo "packages: ${names[*]}"
 echo
 

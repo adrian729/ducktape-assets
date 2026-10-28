@@ -33,7 +33,10 @@ export async function registerSet(registryPath, id, today) {
   let sets = doc.get('sets');
   if (!sets || !YAML.isSeq(sets)) { doc.set('sets', doc.createNode([])); sets = doc.get('sets'); }
   if (sets.items.some((i) => (i.get ? i.get('id') : i.id) === id)) throw new Error(`set "${id}" is already registered in ${registryPath}`);
-  sets.add(doc.createNode({ id, status: 'active', added: today }));
+  // One flow-style entry per line: scripts/owner-npm-bootstrap.sh lists active sets with a sed over exactly this form.
+  const node = doc.createNode({ id, status: 'active', added: today });
+  node.flow = true;
+  sets.add(node);
   sets.flow = false;
   await writeFile(registryPath, String(doc));
 }
