@@ -69,9 +69,12 @@ for n in "${missing[@]}"; do
   # missing above; npm then answers "cannot publish over the previously published versions: 0.0.0", which means it exists.
   # Every other failure stops the script: an EOTP here means the passkey prompt could not be answered, which happens when
   # the script runs without a terminal (for example through an assistant that backgrounds long commands).
-  out=$(cd "$d" && npm publish --access public 2>&1) && echo "$out" | tail -2 || {
-    if grep -q "cannot publish over" <<< "$out"; then echo "  (placeholder already published for $n; continuing)";
-    else echo "$out" | tail -12; echo; echo "publish of $n failed; nothing was dispatched. Run this script in an interactive terminal (the passkey prompt must be answered), then rerun."; exit 1; fi; }
+  # `script` keeps npm on a pseudo-terminal (capturing its output with $(...) makes npm print the auth URL and give up
+  # instead of opening the browser and waiting) while recording the output so the "already published" case can be told apart.
+  log="$d/publish.log"
+  if (cd "$d" && script -qefc "npm publish --access public" "$log"); then :
+  elif grep -q "cannot publish over" "$log"; then echo "  (placeholder already published for $n; continuing)"
+  else echo; echo "publish of $n failed; nothing was dispatched. Answer the passkey prompt when it appears (the script needs a real terminal), then rerun."; exit 1; fi
   sleep 2
 done
 
@@ -80,9 +83,10 @@ done
 trust_failed=0
 for n in "${names[@]}"; do
   echo "trusting $n"
-  out=$(npm trust github "$n" --repo "$REPO" --file "$WORKFLOW" --env "$ENVIRONMENT" --allow-publish --yes 2>&1) && echo "$out" | tail -1 || {
-    if grep -qE "E409|already exists" <<< "$out"; then echo "  (trust config exists already for $n)";
-    else echo "$out" | tail -6; echo "  trust config NOT created for $n"; trust_failed=$((trust_failed + 1)); fi; }
+  log="$PLACEHOLDER_DIR/trust-$(echo "$n" | tr '/@' '__').log"
+  if script -qefc "npm trust github '$n' --repo '$REPO' --file '$WORKFLOW' --env '$ENVIRONMENT' --allow-publish --yes" "$log"; then :
+  elif grep -qE "E409|already exists" "$log"; then echo "  (trust config exists already for $n)"
+  else echo "  trust config NOT created for $n"; trust_failed=$((trust_failed + 1)); fi
   sleep 2
 done
 if [[ $trust_failed -gt 0 ]]; then
