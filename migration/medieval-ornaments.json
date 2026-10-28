@@ -37,6 +37,120 @@
     },
     {
       "old": {
+        "name": "acanthus-double-medallion-with-two-winged-figures",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-006",
+        "version": "0.1.1",
+        "path": "png/acanthus-double-medallion-with-two-winged-figures.png",
+        "masterSha256": "dd028977601c2db27dfc226479881e14b30ba281712d31156996f22adea7c0bd"
+      },
+      "new": {
+        "id": "lucas-van-leyden-prints/acanthus-double-medallion-winged-figures",
+        "set": "lucas-van-leyden-prints",
+        "package": "@ranx729/ducktape-assets-lucas-van-leyden-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-lucas-van-leyden-prints-masters"
+      },
+      "status": "renamed",
+      "verified": "pixels-identical",
+      "notes": "id candidate \"acanthus-double-medallion-with-two-winged-figures\" is 49 chars (> 48); shorten by hand; moved from met-acanthus-prints by the loose-print rule (2026-10-27): loose print by Lucas van Leyden: artist set, group = holding object (Metropolitan Museum of Art 63.546.1); id shortened by hand (2026-10-28)"
+    },
+    {
+      "old": {
+        "name": "acanthus-panel-with-two-lovers-and-inhabiting-animals",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-008",
+        "version": "0.1.1",
+        "path": "png/acanthus-panel-with-two-lovers-and-inhabiting-animals.png",
+        "masterSha256": "d01799100ddc66a8055b4d938ac5b04966104a5cfb9f3bb17c5dff054a0e74b4"
+      },
+      "new": {
+        "id": "meckenem-prints/acanthus-panel-with-lovers-and-animals",
+        "set": "meckenem-prints",
+        "package": "@ranx729/ducktape-assets-meckenem-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-meckenem-prints-masters"
+      },
+      "status": "renamed",
+      "verified": "pixels-identical",
+      "notes": "loose print by Israhel van Meckenem: artist set, group = holding object (National Gallery of Art, Washington 1943.3.170); id candidate \"acanthus-panel-with-two-lovers-and-inhabiting-animals\" is 53 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
+    },
+    {
+      "old": {
+        "name": "acanthus-tailpiece",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/acanthus-tailpiece.png",
+        "masterSha256": "2510e547fddbdffa69b5da30e2e692655548a4acdb804bb3fcb327624541ffb9"
+      },
+      "new": {
+        "id": "authored-ornaments/acanthus-tailpiece",
+        "set": "authored-ornaments",
+        "package": "@ranx729/ducktape-assets-authored-ornaments",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-authored-ornaments-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "style test: none"
+    },
+    {
+      "old": {
+        "name": "acanthus-tree-of-jesse-with-crowned-figures",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-007",
+        "version": "0.1.1",
+        "path": "png/acanthus-tree-of-jesse-with-crowned-figures.png",
+        "masterSha256": "3488d6bab6a6607d0e9f5a04220d2283b182a8d02b589575a1cd9f2dbd280e84"
+      },
+      "new": {
+        "id": "meckenem-prints/acanthus-tree-of-jesse-with-crowned-figures",
+        "set": "meckenem-prints",
+        "package": "@ranx729/ducktape-assets-meckenem-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-meckenem-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Israhel van Meckenem: artist set, group = holding object (National Gallery of Art, Washington 1943.3.169)"
+    },
+    {
+      "old": {
+        "name": "acanthus-vase-between-two-female-chimeras",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-002",
+        "version": "0.1.1",
+        "path": "png/acanthus-vase-between-two-female-chimeras.png",
+        "masterSha256": "44a128a234b3091e5f5838cea4ddc3dfb8f60a0da3c5d3eafc5b30d18fe310f6"
+      },
+      "new": {
+        "id": "aldegrever-prints/acanthus-vase-between-two-female-chimeras",
+        "set": "aldegrever-prints",
+        "package": "@ranx729/ducktape-assets-aldegrever-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-aldegrever-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Heinrich Aldegrever: artist set, group = holding object (Cleveland Museum of Art 1946.250)"
+    },
+    {
+      "old": {
+        "name": "aldegrever-paired-tendrils",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/aldegrever-paired-tendrils.png",
+        "masterSha256": "c84d1122ecd730f15bb7039538fa54b2f90f4b37928f921526c38a51392f1293"
+      },
+      "new": {
+        "id": "aldegrever-prints/paired-tendrils",
+        "set": "aldegrever-prints",
+        "package": "@ranx729/ducktape-assets-aldegrever-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-aldegrever-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Heinrich Aldegrever: artist set, group = holding object (Metropolitan Museum of Art 26.105.2); prefix stripped from \"aldegrever-paired-tendrils\""
+    },
+    {
+      "old": {
         "name": "alsine-media",
         "package": "@ranx729/medieval-ornaments-assets-illustrations-005",
         "version": "0.1.1",
@@ -200,6 +314,44 @@
     },
     {
       "old": {
+        "name": "bearded-mask-with-eagle-and-paired-fauns",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-002",
+        "version": "0.1.1",
+        "path": "png/bearded-mask-with-eagle-and-paired-fauns.png",
+        "masterSha256": "98eca97fc4e34840de485320e33dd7d36cd2507451327311d38ff0ac32aba4a6"
+      },
+      "new": {
+        "id": "aldegrever-prints/bearded-mask-with-eagle-and-paired-fauns",
+        "set": "aldegrever-prints",
+        "package": "@ranx729/ducktape-assets-aldegrever-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-aldegrever-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Heinrich Aldegrever: artist set, group = holding object (Cleveland Museum of Art 1922.498)"
+    },
+    {
+      "old": {
+        "name": "bearded-mask-with-tritons-and-two-children",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-002",
+        "version": "0.1.1",
+        "path": "png/bearded-mask-with-tritons-and-two-children.png",
+        "masterSha256": "c191212507c04d1fc41b18c3337dbb1bf64dc55b805615016010272ea9c79df9"
+      },
+      "new": {
+        "id": "aldegrever-prints/bearded-mask-with-tritons-and-two-children",
+        "set": "aldegrever-prints",
+        "package": "@ranx729/ducktape-assets-aldegrever-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-aldegrever-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Heinrich Aldegrever: artist set, group = holding object (Cleveland Museum of Art 1922.495)"
+    },
+    {
+      "old": {
         "name": "bearded-winged-masks-with-curled-leaf-scroll",
         "package": "@ranx729/medieval-ornaments-assets-decorations-006",
         "version": "0.1.1",
@@ -334,6 +486,44 @@
     },
     {
       "old": {
+        "name": "branching-scroll-with-broad-lobed-leaves",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-007",
+        "version": "0.1.1",
+        "path": "png/branching-scroll-with-broad-lobed-leaves.png",
+        "masterSha256": "a88e1479d9c19ce1cb69676279e1104ee87a9216289eddd325859ba09eda3b0f"
+      },
+      "new": {
+        "id": "aldegrever-prints/branching-scroll-with-broad-lobed-leaves",
+        "set": "aldegrever-prints",
+        "package": "@ranx729/ducktape-assets-aldegrever-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-aldegrever-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Heinrich Aldegrever: artist set, group = holding object (Museum für Kunst und Gewerbe Hamburg O1912.85)"
+    },
+    {
+      "old": {
+        "name": "briar-divider",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/briar-divider.png",
+        "masterSha256": "daf46c56b885e7d0808dd86dab887049d31064c28c3980bf1cda2c3b03fb58e0"
+      },
+      "new": {
+        "id": "authored-ornaments/ivy-flower-divider",
+        "set": "authored-ornaments",
+        "package": "@ranx729/ducktape-assets-authored-ornaments",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-authored-ornaments-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "style test: none"
+    },
+    {
+      "old": {
         "name": "bunny-harp",
         "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
         "version": "0.2.0",
@@ -369,6 +559,25 @@
       "status": "moved",
       "verified": "pixels-identical",
       "notes": "wave 1 (allow, polyhymnia)"
+    },
+    {
+      "old": {
+        "name": "candelabra-supported-by-two-blindfolded-women",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-008",
+        "version": "0.1.1",
+        "path": "png/candelabra-supported-by-two-blindfolded-women.png",
+        "masterSha256": "b34296eb792d2cb7fdceeba8eed4676a0ff14e7da99fb8a3c0efb2994956bb4d"
+      },
+      "new": {
+        "id": "beham-prints/candelabrum-with-two-blindfolded-women",
+        "set": "beham-prints",
+        "package": "@ranx729/ducktape-assets-beham-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-beham-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Sebald Beham: artist set, group = holding object (National Gallery of Art, Washington 1943.3.1124)"
     },
     {
       "old": {
@@ -465,6 +674,63 @@
       "status": "dropped",
       "verified": "n/a",
       "notes": "auto-traced SVG of the raster master; no delivery value"
+    },
+    {
+      "old": {
+        "name": "child-gripping-wide-foliate-scroll",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-008",
+        "version": "0.1.1",
+        "path": "png/child-gripping-wide-foliate-scroll.png",
+        "masterSha256": "5a11d9f9a41683134c89c32964977de8be137930dc78d4809b642dd2c84860b9"
+      },
+      "new": {
+        "id": "aldegrever-prints/child-gripping-wide-foliate-scroll",
+        "set": "aldegrever-prints",
+        "package": "@ranx729/ducktape-assets-aldegrever-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-aldegrever-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Heinrich Aldegrever: artist set, group = holding object (National Gallery of Art, Washington 1943.3.306)"
+    },
+    {
+      "old": {
+        "name": "choirbook-and-ivy",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
+        "version": "0.1.2",
+        "path": "png/choirbook-and-ivy.png",
+        "masterSha256": "8380b0ff9c91b47e0f166360d4cd41b5d1a428a499977a828ad11b8df0938fbb"
+      },
+      "new": {
+        "id": "authored-ornaments/clasped-book-and-ivy",
+        "set": "authored-ornaments",
+        "package": "@ranx729/ducktape-assets-authored-ornaments",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-authored-ornaments-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "style test: none"
+    },
+    {
+      "old": {
+        "name": "circular-acanthus-and-grotesque-ornament",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-007",
+        "version": "0.1.1",
+        "path": "png/circular-acanthus-and-grotesque-ornament.png",
+        "masterSha256": "248cdc3719795487d16f597ff79f7d18583e5cabe27584ee579affb95231d48c"
+      },
+      "new": {
+        "id": "meckenem-prints/circular-acanthus-wreath",
+        "set": "meckenem-prints",
+        "package": "@ranx729/ducktape-assets-meckenem-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-meckenem-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "moved from nga-ornament-prints by the loose-print rule (2026-10-27): loose print by Israhel van Meckenem: artist set, group = holding object (National Gallery of Art, Washington 1943.3.163)"
     },
     {
       "old": {
@@ -570,6 +836,25 @@
       "status": "moved",
       "verified": "pixels-identical",
       "notes": ""
+    },
+    {
+      "old": {
+        "name": "cupid-subduing-two-lions-in-acanthus-scroll",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-006",
+        "version": "0.1.1",
+        "path": "png/cupid-subduing-two-lions-in-acanthus-scroll.png",
+        "masterSha256": "fc11193986b29b5ecea5d13985be1896ae9ae97020e93013c249d411d8510fca"
+      },
+      "new": {
+        "id": "della-bella-prints/cupid-subduing-two-lions-in-acanthus-scroll",
+        "set": "della-bella-prints",
+        "package": "@ranx729/ducktape-assets-della-bella-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-della-bella-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "moved from met-acanthus-prints by the loose-print rule (2026-10-27): loose print by Stefano della Bella: artist set, group = holding object (Metropolitan Museum of Art 1986.1180.647)"
     },
     {
       "old": {
@@ -754,6 +1039,25 @@
     },
     {
       "old": {
+        "name": "fish-and-flower-candelabrum-scroll",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-002",
+        "version": "0.1.1",
+        "path": "png/fish-and-flower-candelabrum-scroll.png",
+        "masterSha256": "4bc0eef1eb6ee06875d0a20ecba91cd4adb903aee0def73830463b866274cd3a"
+      },
+      "new": {
+        "id": "aldegrever-prints/fish-and-flower-candelabrum-scroll",
+        "set": "aldegrever-prints",
+        "package": "@ranx729/ducktape-assets-aldegrever-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-aldegrever-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Heinrich Aldegrever: artist set, group = holding object (Cleveland Museum of Art 1922.128)"
+    },
+    {
+      "old": {
         "name": "fish-with-arms",
         "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
         "version": "0.2.0",
@@ -792,6 +1096,25 @@
     },
     {
       "old": {
+        "name": "fluted-vase-with-horns-and-broad-leaf-scroll",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-008",
+        "version": "0.1.1",
+        "path": "png/fluted-vase-with-horns-and-broad-leaf-scroll.png",
+        "masterSha256": "663c6ef930966b7dd8812a5a9c574b1f11f108e29bbc54cf63ba87d1f086d04e"
+      },
+      "new": {
+        "id": "aldegrever-prints/fluted-vase-with-horns-and-broad-leaf-scroll",
+        "set": "aldegrever-prints",
+        "package": "@ranx729/ducktape-assets-aldegrever-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-aldegrever-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Heinrich Aldegrever: artist set, group = holding object (National Gallery of Art, Washington 1943.3.298)"
+    },
+    {
+      "old": {
         "name": "flying-pig",
         "package": "@ranx729/medieval-ornaments-assets-illustrations-001",
         "version": "0.2.0",
@@ -808,6 +1131,44 @@
       "status": "moved",
       "verified": "pixels-identical",
       "notes": "wave 1 (allow, elder-scrolls)"
+    },
+    {
+      "old": {
+        "name": "foliate-vine-with-hairy-grotesque-mask",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-008",
+        "version": "0.1.1",
+        "path": "png/foliate-vine-with-hairy-grotesque-mask.png",
+        "masterSha256": "419af92c53a00077c849fef5f8383469743ac32929071fcdb45aea0f0192d038"
+      },
+      "new": {
+        "id": "aldegrever-prints/leafy-stems-on-hairy-base",
+        "set": "aldegrever-prints",
+        "package": "@ranx729/ducktape-assets-aldegrever-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-aldegrever-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "moved from nga-ornament-prints by the loose-print rule (2026-10-27): loose print by Heinrich Aldegrever: artist set, group = holding object (National Gallery of Art, Washington 1943.3.301)"
+    },
+    {
+      "old": {
+        "name": "four-season-heads-in-acanthus-frieze",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-006",
+        "version": "0.1.1",
+        "path": "png/four-season-heads-in-acanthus-frieze.png",
+        "masterSha256": "aada27c86d1d0b59a2d857d9375ab5b92e1fb77db7b6b64e5db38eb32b7ed61a"
+      },
+      "new": {
+        "id": "della-bella-prints/four-season-heads-in-acanthus-frieze",
+        "set": "della-bella-prints",
+        "package": "@ranx729/ducktape-assets-della-bella-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-della-bella-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "moved from met-acanthus-prints by the loose-print rule (2026-10-27): loose print by Stefano della Bella: artist set, group = holding object (Metropolitan Museum of Art 1986.1180.647)"
     },
     {
       "old": {
@@ -875,6 +1236,82 @@
       "status": "moved",
       "verified": "pixels-identical",
       "notes": ""
+    },
+    {
+      "old": {
+        "name": "gold-cinquefoil-divider-center",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/gold-cinquefoil-divider-center.png",
+        "masterSha256": "82be9057156474751328de3e70248c64d626eaf47e8998eb5feb20f21cb5bdeb"
+      },
+      "new": {
+        "id": "authored-ornaments/gold-cinquefoil-divider-center",
+        "set": "authored-ornaments",
+        "package": "@ranx729/ducktape-assets-authored-ornaments",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-authored-ornaments-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "style test: none"
+    },
+    {
+      "old": {
+        "name": "gold-cinquefoil-divider-end",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/gold-cinquefoil-divider-end.png",
+        "masterSha256": "7586f6832b90b1806d69a6ed91f2a13dc6253471aedf27325f5fb5b8a4359388"
+      },
+      "new": {
+        "id": "authored-ornaments/gold-cinquefoil-divider-end",
+        "set": "authored-ornaments",
+        "package": "@ranx729/ducktape-assets-authored-ornaments",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-authored-ornaments-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "style test: none"
+    },
+    {
+      "old": {
+        "name": "gold-lozenge-divider-center",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/gold-lozenge-divider-center.png",
+        "masterSha256": "c669eff32bf0367eaa92c741483a8c9e868a3d76b81ebc94118dc2870ba7a07c"
+      },
+      "new": {
+        "id": "authored-ornaments/gold-lozenge-divider-center",
+        "set": "authored-ornaments",
+        "package": "@ranx729/ducktape-assets-authored-ornaments",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-authored-ornaments-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "style test: none"
+    },
+    {
+      "old": {
+        "name": "gold-lozenge-divider-end",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/gold-lozenge-divider-end.png",
+        "masterSha256": "1462f2f9658b18817b88b04ded48d3745d08d01ea58a5be056ec5c7d63d12c4b"
+      },
+      "new": {
+        "id": "authored-ornaments/gold-lozenge-divider-end",
+        "set": "authored-ornaments",
+        "package": "@ranx729/ducktape-assets-authored-ornaments",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-authored-ornaments-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "style test: none"
     },
     {
       "old": {
@@ -1227,6 +1664,44 @@
       "status": "moved",
       "verified": "pixels-identical",
       "notes": "moved from met-hopfer-friezes by the loose-print rule (2026-10-27): loose print by Daniel Hopfer: artist set, group = holding object (Metropolitan Museum of Art 2012.136.734)"
+    },
+    {
+      "old": {
+        "name": "horned-helmet-with-leafy-mantling-and-shield",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-009",
+        "version": "0.1.1",
+        "path": "png/horned-helmet-with-leafy-mantling-and-shield.png",
+        "masterSha256": "d1bd091fb3b85d233957a4b6be01251a013412ab900218cffb5d0e0db3bc2a16"
+      },
+      "new": {
+        "id": "beham-prints/horned-helmet-with-leafy-mantling-and-shield",
+        "set": "beham-prints",
+        "package": "@ranx729/ducktape-assets-beham-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-beham-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Sebald Beham: artist set, group = holding object (Museum für Kunst und Gewerbe Hamburg O1915.1)"
+    },
+    {
+      "old": {
+        "name": "horned-hybrids-and-bears-in-foliate-cartouche-frame",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-006",
+        "version": "0.1.1",
+        "path": "png/horned-hybrids-and-bears-in-foliate-cartouche-frame.png",
+        "masterSha256": "2275d2073c4296d6a06b1b4f5893740479b1faeceb89f8fbc4c2db4467dae6cb"
+      },
+      "new": {
+        "id": "giancarli-prints/horned-hybrids-and-bears-title-cartouche",
+        "set": "giancarli-prints",
+        "package": "@ranx729/ducktape-assets-giancarli-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-giancarli-prints-masters"
+      },
+      "status": "renamed",
+      "verified": "pixels-identical",
+      "notes": "loose print by Polifilo Giancarli: artist set, group = holding object (Metropolitan Museum of Art 49.20.13(1)); id candidate \"horned-hybrids-and-bears-in-foliate-cartouche-frame\" is 51 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
     },
     {
       "old": {
@@ -1886,6 +2361,25 @@
     },
     {
       "old": {
+        "name": "interacting-centaurs-and-riders-in-foliate-frieze",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-008",
+        "version": "0.1.1",
+        "path": "png/interacting-centaurs-and-riders-in-foliate-frieze.png",
+        "masterSha256": "01f14100fb23b726ad86cee9d42cd8f99e109bf545a2c11f1b236d11fb098a2a"
+      },
+      "new": {
+        "id": "beham-prints/centaurs-and-riders-foliate-frieze",
+        "set": "beham-prints",
+        "package": "@ranx729/ducktape-assets-beham-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-beham-prints-masters"
+      },
+      "status": "renamed",
+      "verified": "pixels-identical",
+      "notes": "loose print by Sebald Beham: artist set, group = holding object (National Gallery of Art, Washington 1943.3.1052); id candidate \"interacting-centaurs-and-riders-in-foliate-frieze\" is 49 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
+    },
+    {
+      "old": {
         "name": "intertwined-hop-vine-and-lobed-leaf-scroll",
         "package": "@ranx729/medieval-ornaments-assets-decorations-007",
         "version": "0.1.1",
@@ -2016,6 +2510,196 @@
       "status": "moved",
       "verified": "pixels-identical",
       "notes": ""
+    },
+    {
+      "old": {
+        "name": "ivy-corner-bottom-left",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/ivy-corner-bottom-left.png",
+        "masterSha256": "81d698940e4c13b980f62df92db14f59b3866b44a6cfe2db29709d118aef6818"
+      },
+      "new": {
+        "id": "authored-ornaments/ivy-corner-bottom-left",
+        "set": "authored-ornaments",
+        "package": "@ranx729/ducktape-assets-authored-ornaments",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-authored-ornaments-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "style test: none"
+    },
+    {
+      "old": {
+        "name": "ivy-corner-bottom-right",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/ivy-corner-bottom-right.png",
+        "masterSha256": "8bdf5a8fe64e8f85015a8b176ca3d9c368045fc6b19f6c0f4b4ae794da016f88"
+      },
+      "new": {
+        "id": "authored-ornaments/ivy-corner-bottom-right",
+        "set": "authored-ornaments",
+        "package": "@ranx729/ducktape-assets-authored-ornaments",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-authored-ornaments-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "style test: none"
+    },
+    {
+      "old": {
+        "name": "ivy-corner-top-right",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/ivy-corner-top-right.png",
+        "masterSha256": "be783fe7e9163f15cb05b7ae0dd35d7d3a79381f2c0ff78ba14159843c49215b"
+      },
+      "new": {
+        "id": "authored-ornaments/ivy-corner-top-right",
+        "set": "authored-ornaments",
+        "package": "@ranx729/ducktape-assets-authored-ornaments",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-authored-ornaments-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "style test: none"
+    },
+    {
+      "old": {
+        "name": "ivy-corner",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/ivy-corner.png",
+        "masterSha256": "8f228c30432871a6731a4f02741955e54ff65982aa38fe9f9aa53490100491b5"
+      },
+      "new": {
+        "id": "authored-ornaments/ivy-corner-top-left",
+        "set": "authored-ornaments",
+        "package": "@ranx729/ducktape-assets-authored-ornaments",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-authored-ornaments-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "style test: none"
+    },
+    {
+      "old": {
+        "name": "ivy-fleuron",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/ivy-fleuron.png",
+        "masterSha256": "8e7adb126abf2788fa48fbcf282b4a70c7ba92ea22bbf668b79c8c6589cd6788"
+      },
+      "new": {
+        "id": "authored-ornaments/ivy-fleuron",
+        "set": "authored-ornaments",
+        "package": "@ranx729/ducktape-assets-authored-ornaments",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-authored-ornaments-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "style test: none"
+    },
+    {
+      "old": {
+        "name": "ivy-line-filler",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/ivy-line-filler.png",
+        "masterSha256": "a462a49b544939ef94da7ad7ea04468ea4827200aef05bd665d8a23348b2e094"
+      },
+      "new": {
+        "id": "authored-ornaments/ivy-line-filler",
+        "set": "authored-ornaments",
+        "package": "@ranx729/ducktape-assets-authored-ornaments",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-authored-ornaments-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "style test: none"
+    },
+    {
+      "old": {
+        "name": "ivy-manuscript-frame",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/ivy-manuscript-frame.png",
+        "masterSha256": "267a4b30cfb9783e6a582c08f3246fa05357814ed921a07810b7c7ac9c8a9a29"
+      },
+      "new": {
+        "id": "authored-ornaments/ivy-manuscript-frame",
+        "set": "authored-ornaments",
+        "package": "@ranx729/ducktape-assets-authored-ornaments",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-authored-ornaments-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "style test: none"
+    },
+    {
+      "old": {
+        "name": "ivy-marginal-vine",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/ivy-marginal-vine.png",
+        "masterSha256": "0af9cdba9ba858916b1c9342d0afae2094b507778e01b1f29734a2f13b7681ec"
+      },
+      "new": {
+        "id": "authored-ornaments/ivy-marginal-vine",
+        "set": "authored-ornaments",
+        "package": "@ranx729/ducktape-assets-authored-ornaments",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-authored-ornaments-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "style test: none"
+    },
+    {
+      "old": {
+        "name": "large-bearded-mask-with-paired-leafy-heads",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-008",
+        "version": "0.1.1",
+        "path": "png/large-bearded-mask-with-paired-leafy-heads.png",
+        "masterSha256": "4ef510ce4f21a5b656996582d1964149bec4cfff5d3c9057bb4a2bd48a7cb2c0"
+      },
+      "new": {
+        "id": "beham-prints/large-bearded-mask-with-paired-leafy-heads",
+        "set": "beham-prints",
+        "package": "@ranx729/ducktape-assets-beham-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-beham-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Sebald Beham: artist set, group = holding object (National Gallery of Art, Washington 1941.2.6)"
+    },
+    {
+      "old": {
+        "name": "lion-shield-with-helmet-and-feathered-crest",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-009",
+        "version": "0.1.1",
+        "path": "png/lion-shield-with-helmet-and-feathered-crest.png",
+        "masterSha256": "7aab4c4ac6ff6cfe408caa365d63c9cfc2611dda257c20d8428ead44844567d0"
+      },
+      "new": {
+        "id": "beham-prints/lion-shield-with-helmet-and-feathered-crest",
+        "set": "beham-prints",
+        "package": "@ranx729/ducktape-assets-beham-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-beham-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Sebald Beham: artist set, group = holding object (Museum für Kunst und Gewerbe Hamburg O1906.118)"
     },
     {
       "old": {
@@ -2365,6 +3049,44 @@
     },
     {
       "old": {
+        "name": "oak-leaf-corner-flourish",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-002",
+        "version": "0.1.1",
+        "path": "png/oak-leaf-corner-flourish.png",
+        "masterSha256": "ff01ecd4b8192125a55fa1b01a408ad7fbcc5018787c3a66723fc8c29a6ed066"
+      },
+      "new": {
+        "id": "master-w-with-the-key-prints/oak-leaf-corner-flourish",
+        "set": "master-w-with-the-key-prints",
+        "package": "@ranx729/ducktape-assets-master-w-with-the-key-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-master-w-with-the-key-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Master W with the Key: artist set, group = holding object (Cleveland Museum of Art 1952.100)"
+    },
+    {
+      "old": {
+        "name": "ornate-double-cup-with-two-children",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-007",
+        "version": "0.1.1",
+        "path": "png/ornate-double-cup-with-two-children.png",
+        "masterSha256": "2593acce20c696f4857272b93adbc39eff7c7ad1195c7e87048aa56e6312d0ed"
+      },
+      "new": {
+        "id": "beham-prints/double-cup-with-two-putti",
+        "set": "beham-prints",
+        "package": "@ranx729/ducktape-assets-beham-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-beham-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Sebald Beham: artist set, group = holding object (Museum für Kunst und Gewerbe Hamburg O1919.19)"
+    },
+    {
+      "old": {
         "name": "owl-and-perching-birds-in-leafy-scroll",
         "package": "@ranx729/medieval-ornaments-assets-decorations-007",
         "version": "0.1.1",
@@ -2441,6 +3163,44 @@
     },
     {
       "old": {
+        "name": "paired-horns-griffins-and-children-in-candelabrum",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-007",
+        "version": "0.1.1",
+        "path": "png/paired-horns-griffins-and-children-in-candelabrum.png",
+        "masterSha256": "6d6021e4b2890b5644d1e813cea527ab266aa42be0b4474a656fb6a3987b59e1"
+      },
+      "new": {
+        "id": "aldegrever-prints/female-headed-beasts-candelabrum",
+        "set": "aldegrever-prints",
+        "package": "@ranx729/ducktape-assets-aldegrever-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-aldegrever-prints-masters"
+      },
+      "status": "renamed",
+      "verified": "pixels-identical",
+      "notes": "loose print by Heinrich Aldegrever: artist set, group = holding object (Museum für Kunst und Gewerbe Hamburg O2013.2); id candidate \"paired-horns-griffins-and-children-in-candelabrum\" is 49 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
+    },
+    {
+      "old": {
+        "name": "paired-horns-sprouting-broad-leafy-tendrils",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-007",
+        "version": "0.1.1",
+        "path": "png/paired-horns-sprouting-broad-leafy-tendrils.png",
+        "masterSha256": "92ec03db07f3416a8a6b233a9dc371a36761e7c5ba40b42a9eef4ff817cc9255"
+      },
+      "new": {
+        "id": "aldegrever-prints/paired-horns-sprouting-broad-leafy-tendrils",
+        "set": "aldegrever-prints",
+        "package": "@ranx729/ducktape-assets-aldegrever-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-aldegrever-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Heinrich Aldegrever: artist set, group = holding object (Metropolitan Museum of Art 27.23.74)"
+    },
+    {
+      "old": {
         "name": "paired-human-headed-birds-with-tied-scroll",
         "package": "@ranx729/medieval-ornaments-assets-decorations-006",
         "version": "0.1.1",
@@ -2495,6 +3255,25 @@
       "status": "moved",
       "verified": "pixels-identical",
       "notes": "moved from met-hopfer-friezes by the loose-print rule (2026-10-27): loose print by Daniel Hopfer: artist set, group = holding object (Metropolitan Museum of Art 2012.136.734)"
+    },
+    {
+      "old": {
+        "name": "palmette-with-paired-dolphin-heads-and-leaf-scroll",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-008",
+        "version": "0.1.1",
+        "path": "png/palmette-with-paired-dolphin-heads-and-leaf-scroll.png",
+        "masterSha256": "c16e5ba3b79307ac647c9acaf4e0746da876d2f20b24370d783e62703bddcecb"
+      },
+      "new": {
+        "id": "beham-prints/palmette-with-dolphin-heads-and-leaf-scroll",
+        "set": "beham-prints",
+        "package": "@ranx729/ducktape-assets-beham-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-beham-prints-masters"
+      },
+      "status": "renamed",
+      "verified": "pixels-identical",
+      "notes": "loose print by Sebald Beham: artist set, group = holding object (National Gallery of Art, Washington 1941.2.7); id candidate \"palmette-with-paired-dolphin-heads-and-leaf-scroll\" is 50 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
     },
     {
       "old": {
@@ -2600,6 +3379,25 @@
       "status": "moved",
       "verified": "pixels-identical",
       "notes": "wave 1 (allow, elder-scrolls)"
+    },
+    {
+      "old": {
+        "name": "rooster-shield-and-helmet-with-leafy-mantling",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-009",
+        "version": "0.1.1",
+        "path": "png/rooster-shield-and-helmet-with-leafy-mantling.png",
+        "masterSha256": "bafd1a8f06387ed8dfff58ae612dc4c8c1de52f1ae5330b0d35abc10072ec2ef"
+      },
+      "new": {
+        "id": "beham-prints/rooster-shield-and-helmet-with-leafy-mantling",
+        "set": "beham-prints",
+        "package": "@ranx729/ducktape-assets-beham-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-beham-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Sebald Beham: artist set, group = holding object (Museum für Kunst und Gewerbe Hamburg JB1891.590)"
     },
     {
       "old": {
@@ -2855,6 +3653,25 @@
     },
     {
       "old": {
+        "name": "seated-child-holding-tall-leafy-scroll",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-008",
+        "version": "0.1.1",
+        "path": "png/seated-child-holding-tall-leafy-scroll.png",
+        "masterSha256": "2fc76d230717bffe23589eb7794dbcdf07ebaa765e75656b434ba130bbd72e92"
+      },
+      "new": {
+        "id": "aldegrever-prints/seated-child-holding-tall-leafy-scroll",
+        "set": "aldegrever-prints",
+        "package": "@ranx729/ducktape-assets-aldegrever-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-aldegrever-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Heinrich Aldegrever: artist set, group = holding object (National Gallery of Art, Washington 1943.3.299)"
+    },
+    {
+      "old": {
         "name": "seated-man-pulling-looped-cord",
         "package": "@ranx729/medieval-ornaments-assets-illustrations-009",
         "version": "0.1.1",
@@ -2989,6 +3806,82 @@
     },
     {
       "old": {
+        "name": "soldier-profile-in-fruiting-dagger-sheath",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-006",
+        "version": "0.1.1",
+        "path": "png/soldier-profile-in-fruiting-dagger-sheath.png",
+        "masterSha256": "c443bb32fb087737dd7cdfdcf71d3af0a2db190ed2ab3f8651fc52d2927d60c1"
+      },
+      "new": {
+        "id": "aldegrever-prints/soldier-profile-in-fruiting-dagger-sheath",
+        "set": "aldegrever-prints",
+        "package": "@ranx729/ducktape-assets-aldegrever-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-aldegrever-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Heinrich Aldegrever: artist set, group = holding object (Metropolitan Museum of Art 32.123.2)"
+    },
+    {
+      "old": {
+        "name": "songbirds-headpiece",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-001",
+        "version": "0.1.5",
+        "path": "png/songbirds-headpiece.png",
+        "masterSha256": "0e71615cd18fe9d6d0a34086e82051cf5f284c7c5c922c828afdc2d28e2e2e11"
+      },
+      "new": {
+        "id": "authored-ornaments/songbirds-headpiece",
+        "set": "authored-ornaments",
+        "package": "@ranx729/ducktape-assets-authored-ornaments",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-authored-ornaments-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "style test: none"
+    },
+    {
+      "old": {
+        "name": "sphinxes-and-cornucopias-in-tall-candelabrum",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-006",
+        "version": "0.1.1",
+        "path": "png/sphinxes-and-cornucopias-in-tall-candelabrum.png",
+        "masterSha256": "8fb138127c6ba4bf13ac85967899f5df4628a9a2713e720d43e12456ec9e65dc"
+      },
+      "new": {
+        "id": "aldegrever-prints/sphinxes-and-cornucopias-in-tall-candelabrum",
+        "set": "aldegrever-prints",
+        "package": "@ranx729/ducktape-assets-aldegrever-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-aldegrever-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Heinrich Aldegrever: artist set, group = holding object (Metropolitan Museum of Art 27.23.79)"
+    },
+    {
+      "old": {
+        "name": "square-floral-ornament-with-circular-medallion",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-008",
+        "version": "0.1.1",
+        "path": "png/square-floral-ornament-with-circular-medallion.png",
+        "masterSha256": "9d02b1f9664d69af35aa67994c769d6d754c4e4bcbe137a7e3246ac2820dd1bc"
+      },
+      "new": {
+        "id": "christollien-prints/square-floral-ornament-with-circular-medallion",
+        "set": "christollien-prints",
+        "package": "@ranx729/ducktape-assets-christollien-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-christollien-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by M. Christollien: artist set, group = holding object (National Gallery of Art, Washington 1943.3.2790)"
+    },
+    {
+      "old": {
         "name": "standing-apostle-with-rolled-scroll",
         "package": "@ranx729/medieval-ornaments-assets-illustrations-002",
         "version": "0.1.2",
@@ -3005,6 +3898,25 @@
       "status": "moved",
       "verified": "pixels-identical",
       "notes": ""
+    },
+    {
+      "old": {
+        "name": "standing-contacting-couple-with-small-stem",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-010",
+        "version": "0.1.1",
+        "path": "png/standing-contacting-couple-with-small-stem.png",
+        "masterSha256": "75bc9c9412bf56d0beb7d4909c3031de5a083dc60b0cc25ce462b47122d45cb2"
+      },
+      "new": {
+        "id": "aldegrever-prints/nude-couple-standing",
+        "set": "aldegrever-prints",
+        "package": "@ranx729/ducktape-assets-aldegrever-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-aldegrever-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "moved from nga-ornament-prints by the loose-print rule (2026-10-27): loose print by Heinrich Aldegrever: artist set, group = holding object (National Gallery of Art, Washington 1943.3.301)"
     },
     {
       "old": {
@@ -3027,6 +3939,44 @@
     },
     {
       "old": {
+        "name": "tall-foliate-grotesque-with-female-and-animal-heads",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-008",
+        "version": "0.1.1",
+        "path": "png/tall-foliate-grotesque-with-female-and-animal-heads.png",
+        "masterSha256": "3cd738f957be841db146b7e7ffcf9ddf9db764eb04bfc778fad68010f28258d3"
+      },
+      "new": {
+        "id": "aldegrever-prints/tall-grotesque-with-female-and-animal-heads",
+        "set": "aldegrever-prints",
+        "package": "@ranx729/ducktape-assets-aldegrever-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-aldegrever-prints-masters"
+      },
+      "status": "renamed",
+      "verified": "pixels-identical",
+      "notes": "id candidate \"tall-foliate-grotesque-with-female-and-animal-heads\" is 51 chars (> 48); shorten by hand; moved from nga-ornament-prints by the loose-print rule (2026-10-27): loose print by Heinrich Aldegrever: artist set, group = holding object (National Gallery of Art, Washington 1943.3.301); id shortened by hand (2026-10-28)"
+    },
+    {
+      "old": {
+        "name": "tall-foliate-shaft-with-paired-masks-and-dolphins",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-008",
+        "version": "0.1.1",
+        "path": "png/tall-foliate-shaft-with-paired-masks-and-dolphins.png",
+        "masterSha256": "3d636e5c5cd375e2212c2ff8de432171a04a42eada172f5c67437127385627a7"
+      },
+      "new": {
+        "id": "aldegrever-prints/tall-shaft-with-masks-and-dolphins",
+        "set": "aldegrever-prints",
+        "package": "@ranx729/ducktape-assets-aldegrever-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-aldegrever-prints-masters"
+      },
+      "status": "renamed",
+      "verified": "pixels-identical",
+      "notes": "loose print by Heinrich Aldegrever: artist set, group = holding object (National Gallery of Art, Washington 1943.3.297); id candidate \"tall-foliate-shaft-with-paired-masks-and-dolphins\" is 49 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
+    },
+    {
+      "old": {
         "name": "tall-grotesque-candelabrum-with-paired-satyrs",
         "package": "@ranx729/medieval-ornaments-assets-decorations-006",
         "version": "0.1.1",
@@ -3043,6 +3993,120 @@
       "status": "moved",
       "verified": "pixels-identical",
       "notes": "loose print by Daniel Hopfer: artist set, group = holding object (Metropolitan Museum of Art 2012.136.735)"
+    },
+    {
+      "old": {
+        "name": "tall-leafy-shaft-with-horned-and-bearded-masks",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-008",
+        "version": "0.1.1",
+        "path": "png/tall-leafy-shaft-with-horned-and-bearded-masks.png",
+        "masterSha256": "80679cc22f86d77391770ccb1615679afb4726e7149ace8c65d8abd10e7fffd0"
+      },
+      "new": {
+        "id": "aldegrever-prints/leafy-shaft-with-bearded-and-lion-masks",
+        "set": "aldegrever-prints",
+        "package": "@ranx729/ducktape-assets-aldegrever-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-aldegrever-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Heinrich Aldegrever: artist set, group = holding object (National Gallery of Art, Washington 1943.3.312)"
+    },
+    {
+      "old": {
+        "name": "tall-satyr-with-violin-candelabrum",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-008",
+        "version": "0.1.1",
+        "path": "png/tall-satyr-with-violin-candelabrum.png",
+        "masterSha256": "7092595fb607ae1448ac157f91e0f66a5bee6b036fc02241ed6ecf9a99280938"
+      },
+      "new": {
+        "id": "zoan-andrea-prints/tall-satyr-with-violin-candelabrum",
+        "set": "zoan-andrea-prints",
+        "package": "@ranx729/ducktape-assets-zoan-andrea-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-zoan-andrea-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Zoan Andrea: artist set, group = holding object (National Gallery of Art, Washington 1943.3.449)"
+    },
+    {
+      "old": {
+        "name": "two-boys-with-connected-acanthus-scroll",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-006",
+        "version": "0.1.1",
+        "path": "png/two-boys-with-connected-acanthus-scroll.png",
+        "masterSha256": "d51b8ef721282926492e41dd0ba83105df185604ce6dd204d6a74038a913a572"
+      },
+      "new": {
+        "id": "aldegrever-prints/two-boys-with-vine-scroll",
+        "set": "aldegrever-prints",
+        "package": "@ranx729/ducktape-assets-aldegrever-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-aldegrever-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Heinrich Aldegrever: artist set, group = holding object (Metropolitan Museum of Art 27.23.78)"
+    },
+    {
+      "old": {
+        "name": "two-children-in-tall-fruiting-leaf-scroll",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-007",
+        "version": "0.1.1",
+        "path": "png/two-children-in-tall-fruiting-leaf-scroll.png",
+        "masterSha256": "66eebfb978da4984b28fc6cdfcdb819a8b7b415f84c1c4dd9c9bcae20990be5c"
+      },
+      "new": {
+        "id": "aldegrever-prints/two-children-in-tall-fruiting-leaf-scroll",
+        "set": "aldegrever-prints",
+        "package": "@ranx729/ducktape-assets-aldegrever-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-aldegrever-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Heinrich Aldegrever: artist set, group = holding object (Museum für Kunst und Gewerbe Hamburg O1907.751)"
+    },
+    {
+      "old": {
+        "name": "two-satyr-couples-on-foliate-candelabrum",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-006",
+        "version": "0.1.1",
+        "path": "png/two-satyr-couples-on-foliate-candelabrum.png",
+        "masterSha256": "aff0a5335e716a763da1b911e5590d7f55911c25c42d31f0c46f40a57822886e"
+      },
+      "new": {
+        "id": "aldegrever-prints/two-satyr-couples-on-foliate-candelabrum",
+        "set": "aldegrever-prints",
+        "package": "@ranx729/ducktape-assets-aldegrever-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-aldegrever-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Heinrich Aldegrever: artist set, group = holding object (Metropolitan Museum of Art 2012.136.787)"
+    },
+    {
+      "old": {
+        "name": "two-seated-musicians-with-shared-fountain",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-010",
+        "version": "0.1.1",
+        "path": "png/two-seated-musicians-with-shared-fountain.png",
+        "masterSha256": "b3ae65e3090c091b7f232a8430fd1800cb056fd1373436b33063048fd13e2f60"
+      },
+      "new": {
+        "id": "meckenem-prints/two-seated-musicians-with-shared-fountain",
+        "set": "meckenem-prints",
+        "package": "@ranx729/ducktape-assets-meckenem-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-meckenem-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "moved from nga-ornament-prints by the loose-print rule (2026-10-27): loose print by Israhel van Meckenem: artist set, group = holding object (National Gallery of Art, Washington 1943.3.163)"
     },
     {
       "old": {
@@ -3094,6 +4158,25 @@
       "status": "moved",
       "verified": "pixels-identical",
       "notes": ""
+    },
+    {
+      "old": {
+        "name": "urn-with-three-tiers-of-foliate-scrolls",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-007",
+        "version": "0.1.1",
+        "path": "png/urn-with-three-tiers-of-foliate-scrolls.png",
+        "masterSha256": "4a14687bb7ed32adb802822b32726a13f4eef69463f1d8b8555d000140efb256"
+      },
+      "new": {
+        "id": "aldegrever-prints/urn-with-three-tiers-of-foliate-scrolls",
+        "set": "aldegrever-prints",
+        "package": "@ranx729/ducktape-assets-aldegrever-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-aldegrever-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Heinrich Aldegrever: artist set, group = holding object (Museum für Kunst und Gewerbe Hamburg O1907.754)"
     },
     {
       "old": {
@@ -3170,6 +4253,25 @@
       "status": "moved",
       "verified": "pixels-identical",
       "notes": "prefix stripped from \"walters-rabbit-church-bells\""
+    },
+    {
+      "old": {
+        "name": "war-candelabrum-with-dragons-masks-and-weapons",
+        "package": "@ranx729/medieval-ornaments-assets-decorations-008",
+        "version": "0.1.1",
+        "path": "png/war-candelabrum-with-dragons-masks-and-weapons.png",
+        "masterSha256": "15a0bd33dca671c11122aa541d5be7d0ed18b7b6bca8d911edaceb1d975c4854"
+      },
+      "new": {
+        "id": "zoan-andrea-prints/war-candelabrum-with-dragons-masks-and-weapons",
+        "set": "zoan-andrea-prints",
+        "package": "@ranx729/ducktape-assets-zoan-andrea-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-zoan-andrea-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "loose print by Zoan Andrea: artist set, group = holding object (National Gallery of Art, Washington 1943.3.441)"
     },
     {
       "old": {
@@ -3267,6 +4369,44 @@
       "status": "dropped",
       "verified": "n/a",
       "notes": "generated rotated tile; geometry goes to render.tile"
+    },
+    {
+      "old": {
+        "name": "winged-child-with-bow-on-clouds",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-009",
+        "version": "0.1.1",
+        "path": "png/winged-child-with-bow-on-clouds.png",
+        "masterSha256": "db6c83661541166f01e0dd38aee8f36e5adc8cfe7739ab92c92e9295c38f55f0"
+      },
+      "new": {
+        "id": "lucas-van-leyden-prints/winged-child-with-bow-on-clouds",
+        "set": "lucas-van-leyden-prints",
+        "package": "@ranx729/ducktape-assets-lucas-van-leyden-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-lucas-van-leyden-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "moved from met-acanthus-prints by the loose-print rule (2026-10-27): loose print by Lucas van Leyden: artist set, group = holding object (Metropolitan Museum of Art 63.546.1)"
+    },
+    {
+      "old": {
+        "name": "winged-child-with-cross-on-clouds",
+        "package": "@ranx729/medieval-ornaments-assets-illustrations-009",
+        "version": "0.1.1",
+        "path": "png/winged-child-with-cross-on-clouds.png",
+        "masterSha256": "df342fe45c2feba8e4c3d54f3a48b1e1b87d9c9242ec431ebc7e625f2816e4ff"
+      },
+      "new": {
+        "id": "lucas-van-leyden-prints/winged-child-with-cross-on-clouds",
+        "set": "lucas-van-leyden-prints",
+        "package": "@ranx729/ducktape-assets-lucas-van-leyden-prints",
+        "version": null,
+        "mastersPackage": "@ranx729/ducktape-assets-lucas-van-leyden-prints-masters"
+      },
+      "status": "moved",
+      "verified": "pixels-identical",
+      "notes": "moved from met-acanthus-prints by the loose-print rule (2026-10-27): loose print by Lucas van Leyden: artist set, group = holding object (Metropolitan Museum of Art 63.546.1)"
     },
     {
       "old": {

@@ -16,3 +16,13 @@ sets:
   - { id: cma-1950-154, status: active, added: 2026-10-28 }
   - { id: cma-1963-256, status: active, added: 2026-10-28 }
   - { id: getty-ms20, status: active, added: 2026-10-28 }
+  - { id: aldegrever-prints, status: active, added: 2026-10-28 }
+  - { id: beham-prints, status: active, added: 2026-10-28 }
+  - { id: meckenem-prints, status: active, added: 2026-10-28 }
+  - { id: zoan-andrea-prints, status: active, added: 2026-10-28 }
+  - { id: della-bella-prints, status: active, added: 2026-10-28 }
+  - { id: lucas-van-leyden-prints, status: active, added: 2026-10-28 }
+  - { id: christollien-prints, status: active, added: 2026-10-28 }
+  - { id: giancarli-prints, status: active, added: 2026-10-28 }
+  - { id: master-w-with-the-key-prints, status: active, added: 2026-10-28 }
+  - { id: authored-ornaments, status: active, added: 2026-10-28 }

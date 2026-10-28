@@ -17,18 +17,18 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "acanthus-double-medallion-with-two-winged-figures"
     set: "lucas-van-leyden-prints"
-    id: null
+    id: "lucas-van-leyden-prints/acanthus-double-medallion-winged-figures"
     group: "63-546-1"
     wave: 2
     status: renamed
-    notes: "id candidate \"acanthus-double-medallion-with-two-winged-figures\" is 49 chars (> 48); shorten by hand; moved from met-acanthus-prints by the loose-print rule (2026-10-27): loose print by Lucas van Leyden: artist set, group = holding object (Metropolitan Museum of Art 63.546.1)"
+    notes: "id candidate \"acanthus-double-medallion-with-two-winged-figures\" is 49 chars (> 48); shorten by hand; moved from met-acanthus-prints by the loose-print rule (2026-10-27): loose print by Lucas van Leyden: artist set, group = holding object (Metropolitan Museum of Art 63.546.1); id shortened by hand (2026-10-28)"
   - old: "acanthus-panel-with-two-lovers-and-inhabiting-animals"
     set: "meckenem-prints"
-    id: null
+    id: "meckenem-prints/acanthus-panel-with-lovers-and-animals"
     group: "1943-3-170"
     wave: 2
     status: renamed
-    notes: "loose print by Israhel van Meckenem: artist set, group = holding object (National Gallery of Art, Washington 1943.3.170); id candidate \"acanthus-panel-with-two-lovers-and-inhabiting-animals\" is 53 chars (> 48); shorten by hand"
+    notes: "loose print by Israhel van Meckenem: artist set, group = holding object (National Gallery of Art, Washington 1943.3.170); id candidate \"acanthus-panel-with-two-lovers-and-inhabiting-animals\" is 53 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "acanthus-scroll-with-copper-vase-and-seated-wind-player"
     set: "cma-1524-psalter"
     id: null
@@ -1137,11 +1137,11 @@ entries:
     notes: ""
   - old: "briar-divider"
     set: "authored-ornaments"
-    id: "authored-ornaments/briar-divider"
+    id: "authored-ornaments/ivy-flower-divider"
     group: "black-penwork"
     wave: 2
     status: moved
-    notes: "style test: none"
+    notes: "style test: none; id \"briar-divider\" renamed to \"ivy-flower-divider\" after review"
   - old: "broad-green-leaf-scroll"
     set: "cma-1524-psalter"
     id: "cma-1524-psalter/broad-green-leaf-scroll"
@@ -1200,11 +1200,11 @@ entries:
     notes: ""
   - old: "candelabra-supported-by-two-blindfolded-women"
     set: "beham-prints"
-    id: "beham-prints/candelabra-supported-by-two-blindfolded-women"
+    id: "beham-prints/candelabrum-with-two-blindfolded-women"
     group: "1943-3-1124"
     wave: 2
     status: moved
-    notes: "loose print by Sebald Beham: artist set, group = holding object (National Gallery of Art, Washington 1943.3.1124)"
+    notes: "loose print by Sebald Beham: artist set, group = holding object (National Gallery of Art, Washington 1943.3.1124); id \"candelabra-supported-by-two-blindfolded-women\" renamed to \"candelabrum-with-two-blindfolded-women\" after review"
   - old: "canine-fiddle-player"
     set: "medieval-cutouts"
     id: "medieval-cutouts/canine-fiddle-player"
@@ -1263,11 +1263,11 @@ entries:
     notes: "loose print by Heinrich Aldegrever: artist set, group = holding object (National Gallery of Art, Washington 1943.3.306)"
   - old: "choirbook-and-ivy"
     set: "authored-ornaments"
-    id: "authored-ornaments/choirbook-and-ivy"
+    id: "authored-ornaments/clasped-book-and-ivy"
     group: "book"
     wave: 2
     status: moved
-    notes: "style test: none"
+    notes: "style test: none; id \"choirbook-and-ivy\" renamed to \"clasped-book-and-ivy\" after review"
   - old: "christ-carrying-cross-with-contacting-procession"
     set: "cma-1999-127"
     id: "cma-1999-127/christ-carrying-cross-with-contacting-procession"
@@ -1277,11 +1277,11 @@ entries:
     notes: "single leaf, own set by the object rule"
   - old: "circular-acanthus-and-grotesque-ornament"
     set: "meckenem-prints"
-    id: "meckenem-prints/circular-acanthus-and-grotesque-ornament"
+    id: "meckenem-prints/circular-acanthus-wreath"
     group: "1943-3-163"
     wave: 2
     status: moved
-    notes: "moved from nga-ornament-prints by the loose-print rule (2026-10-27): loose print by Israhel van Meckenem: artist set, group = holding object (National Gallery of Art, Washington 1943.3.163)"
+    notes: "moved from nga-ornament-prints by the loose-print rule (2026-10-27): loose print by Israhel van Meckenem: artist set, group = holding object (National Gallery of Art, Washington 1943.3.163); id \"circular-acanthus-and-grotesque-ornament\" renamed to \"circular-acanthus-wreath\" after review"
   - old: "clustered-small-flowers-with-long-sword-shaped-leaves"
     set: "met-livre-nouveau-de-fleurs"
     id: null
@@ -2082,11 +2082,11 @@ entries:
     notes: "moved from met-du-cerceau by the loose-print rule (2026-10-27): loose print by Jacques Androuet Du Cerceau: artist set, group = holding object (Metropolitan Museum of Art 49.95.321)"
   - old: "foliate-vine-with-hairy-grotesque-mask"
     set: "aldegrever-prints"
-    id: "aldegrever-prints/foliate-vine-with-hairy-grotesque-mask"
+    id: "aldegrever-prints/leafy-stems-on-hairy-base"
     group: "1943-3-301"
     wave: 2
     status: moved
-    notes: "moved from nga-ornament-prints by the loose-print rule (2026-10-27): loose print by Heinrich Aldegrever: artist set, group = holding object (National Gallery of Art, Washington 1943.3.301)"
+    notes: "moved from nga-ornament-prints by the loose-print rule (2026-10-27): loose print by Heinrich Aldegrever: artist set, group = holding object (National Gallery of Art, Washington 1943.3.301); id \"foliate-vine-with-hairy-grotesque-mask\" renamed to \"leafy-stems-on-hairy-base\" after review"
   - old: "foreground-grazing-animal-with-lowered-head"
     set: "met-livre-nouveau-de-fleurs"
     id: "met-livre-nouveau-de-fleurs/foreground-grazing-animal-with-lowered-head"
@@ -2908,11 +2908,11 @@ entries:
     notes: "loose print by Sebald Beham: artist set, group = holding object (Museum für Kunst und Gewerbe Hamburg O1915.1)"
   - old: "horned-hybrids-and-bears-in-foliate-cartouche-frame"
     set: "giancarli-prints"
-    id: null
+    id: "giancarli-prints/horned-hybrids-and-bears-title-cartouche"
     group: "49-20-13-1"
     wave: 2
     status: renamed
-    notes: "loose print by Polifilo Giancarli: artist set, group = holding object (Metropolitan Museum of Art 49.20.13(1)); id candidate \"horned-hybrids-and-bears-in-foliate-cartouche-frame\" is 51 chars (> 48); shorten by hand"
+    notes: "loose print by Polifilo Giancarli: artist set, group = holding object (Metropolitan Museum of Art 49.20.13(1)); id candidate \"horned-hybrids-and-bears-in-foliate-cartouche-frame\" is 51 chars (> 48); shorten by hand; id shortened by hand (2026-10-28); id \"horned-hybrids-and-bears-cartouche-frame\" renamed to \"horned-hybrids-and-bears-title-cartouche\" after review"
   - old: "horse"
     set: "gessner-historiae-animalium"
     id: "gessner-historiae-animalium/horse"
@@ -3202,11 +3202,11 @@ entries:
     notes: ""
   - old: "interacting-centaurs-and-riders-in-foliate-frieze"
     set: "beham-prints"
-    id: null
+    id: "beham-prints/centaurs-and-riders-foliate-frieze"
     group: "1943-3-1052"
     wave: 2
     status: renamed
-    notes: "loose print by Sebald Beham: artist set, group = holding object (National Gallery of Art, Washington 1943.3.1052); id candidate \"interacting-centaurs-and-riders-in-foliate-frieze\" is 49 chars (> 48); shorten by hand"
+    notes: "loose print by Sebald Beham: artist set, group = holding object (National Gallery of Art, Washington 1943.3.1052); id candidate \"interacting-centaurs-and-riders-in-foliate-frieze\" is 49 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "interlaced-blue-red-foliage"
     set: "openn-lewis-e-m"
     id: "openn-lewis-e-m/interlaced-blue-red-foliage"
@@ -3426,11 +3426,11 @@ entries:
     notes: "id \"isabella-small-bird\" renamed to \"small-bird\" after review"
   - old: "ivy-corner"
     set: "authored-ornaments"
-    id: "authored-ornaments/ivy-corner"
+    id: "authored-ornaments/ivy-corner-top-left"
     group: "black-penwork"
     wave: 2
     status: moved
-    notes: "style test: none"
+    notes: "style test: none; id \"ivy-corner\" renamed to \"ivy-corner-top-left\" after review"
   - old: "ivy-corner-bottom-left"
     set: "authored-ornaments"
     id: "authored-ornaments/ivy-corner-bottom-left"
@@ -4308,11 +4308,11 @@ entries:
     notes: ""
   - old: "ornate-double-cup-with-two-children"
     set: "beham-prints"
-    id: "beham-prints/ornate-double-cup-with-two-children"
+    id: "beham-prints/double-cup-with-two-putti"
     group: "o1919-19"
     wave: 2
     status: moved
-    notes: "loose print by Sebald Beham: artist set, group = holding object (Museum für Kunst und Gewerbe Hamburg O1919.19)"
+    notes: "loose print by Sebald Beham: artist set, group = holding object (Museum für Kunst und Gewerbe Hamburg O1919.19); id \"ornate-double-cup-with-two-children\" renamed to \"double-cup-with-two-putti\" after review"
   - old: "oval-blue-celestial-scene-with-gold-stars-and-crescent"
     set: "walters-w171"
     id: null
@@ -4497,11 +4497,11 @@ entries:
     notes: "moved from met-hopfer-friezes by the loose-print rule (2026-10-27): loose print by Daniel Hopfer: artist set, group = holding object (Metropolitan Museum of Art 2012.136.734)"
   - old: "paired-horns-griffins-and-children-in-candelabrum"
     set: "aldegrever-prints"
-    id: null
+    id: "aldegrever-prints/female-headed-beasts-candelabrum"
     group: "o2013-2"
     wave: 2
     status: renamed
-    notes: "loose print by Heinrich Aldegrever: artist set, group = holding object (Museum für Kunst und Gewerbe Hamburg O2013.2); id candidate \"paired-horns-griffins-and-children-in-candelabrum\" is 49 chars (> 48); shorten by hand"
+    notes: "loose print by Heinrich Aldegrever: artist set, group = holding object (Museum für Kunst und Gewerbe Hamburg O2013.2); id candidate \"paired-horns-griffins-and-children-in-candelabrum\" is 49 chars (> 48); shorten by hand; id shortened by hand (2026-10-28); id \"griffins-and-children-candelabrum\" renamed to \"female-headed-beasts-candelabrum\" after review"
   - old: "paired-horns-sprouting-broad-leafy-tendrils"
     set: "aldegrever-prints"
     id: "aldegrever-prints/paired-horns-sprouting-broad-leafy-tendrils"
@@ -4644,11 +4644,11 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "palmette-with-paired-dolphin-heads-and-leaf-scroll"
     set: "beham-prints"
-    id: null
+    id: "beham-prints/palmette-with-dolphin-heads-and-leaf-scroll"
     group: "1941-2-7"
     wave: 2
     status: renamed
-    notes: "loose print by Sebald Beham: artist set, group = holding object (National Gallery of Art, Washington 1941.2.7); id candidate \"palmette-with-paired-dolphin-heads-and-leaf-scroll\" is 50 chars (> 48); shorten by hand"
+    notes: "loose print by Sebald Beham: artist set, group = holding object (National Gallery of Art, Washington 1941.2.7); id candidate \"palmette-with-paired-dolphin-heads-and-leaf-scroll\" is 50 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "peasant-carrying-large-wicker-basket"
     set: "cma-1524-psalter"
     id: "cma-1524-psalter/peasant-carrying-large-wicker-basket"
@@ -7682,11 +7682,11 @@ entries:
     notes: ""
   - old: "standing-contacting-couple-with-small-stem"
     set: "aldegrever-prints"
-    id: "aldegrever-prints/standing-contacting-couple-with-small-stem"
+    id: "aldegrever-prints/nude-couple-standing"
     group: "1943-3-301"
     wave: 2
     status: moved
-    notes: "moved from nga-ornament-prints by the loose-print rule (2026-10-27): loose print by Heinrich Aldegrever: artist set, group = holding object (National Gallery of Art, Washington 1943.3.301)"
+    notes: "moved from nga-ornament-prints by the loose-print rule (2026-10-27): loose print by Heinrich Aldegrever: artist set, group = holding object (National Gallery of Art, Washington 1943.3.301); id \"standing-contacting-couple-with-small-stem\" renamed to \"nude-couple-standing\" after review"
   - old: "standing-robed-man-holding-long-tailed-bird-on-foliated-support"
     set: "walters-w82"
     id: null
@@ -7731,18 +7731,18 @@ entries:
     notes: ""
   - old: "tall-foliate-grotesque-with-female-and-animal-heads"
     set: "aldegrever-prints"
-    id: null
+    id: "aldegrever-prints/tall-grotesque-with-female-and-animal-heads"
     group: "1943-3-301"
     wave: 2
     status: renamed
-    notes: "id candidate \"tall-foliate-grotesque-with-female-and-animal-heads\" is 51 chars (> 48); shorten by hand; moved from nga-ornament-prints by the loose-print rule (2026-10-27): loose print by Heinrich Aldegrever: artist set, group = holding object (National Gallery of Art, Washington 1943.3.301)"
+    notes: "id candidate \"tall-foliate-grotesque-with-female-and-animal-heads\" is 51 chars (> 48); shorten by hand; moved from nga-ornament-prints by the loose-print rule (2026-10-27): loose print by Heinrich Aldegrever: artist set, group = holding object (National Gallery of Art, Washington 1943.3.301); id shortened by hand (2026-10-28)"
   - old: "tall-foliate-shaft-with-paired-masks-and-dolphins"
     set: "aldegrever-prints"
-    id: null
+    id: "aldegrever-prints/tall-shaft-with-masks-and-dolphins"
     group: "1943-3-297"
     wave: 2
     status: renamed
-    notes: "loose print by Heinrich Aldegrever: artist set, group = holding object (National Gallery of Art, Washington 1943.3.297); id candidate \"tall-foliate-shaft-with-paired-masks-and-dolphins\" is 49 chars (> 48); shorten by hand"
+    notes: "loose print by Heinrich Aldegrever: artist set, group = holding object (National Gallery of Art, Washington 1943.3.297); id candidate \"tall-foliate-shaft-with-paired-masks-and-dolphins\" is 49 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "tall-grotesque-candelabrum-with-paired-satyrs"
     set: "hopfer-prints"
     id: "hopfer-prints/tall-grotesque-candelabrum-with-paired-satyrs"
@@ -7759,11 +7759,11 @@ entries:
     notes: "moved from met-du-cerceau by the loose-print rule (2026-10-27): loose print by Jacques Androuet Du Cerceau: artist set, group = holding object (Metropolitan Museum of Art 49.95.321)"
   - old: "tall-leafy-shaft-with-horned-and-bearded-masks"
     set: "aldegrever-prints"
-    id: "aldegrever-prints/tall-leafy-shaft-with-horned-and-bearded-masks"
+    id: "aldegrever-prints/leafy-shaft-with-bearded-and-lion-masks"
     group: "1943-3-312"
     wave: 2
     status: moved
-    notes: "loose print by Heinrich Aldegrever: artist set, group = holding object (National Gallery of Art, Washington 1943.3.312)"
+    notes: "loose print by Heinrich Aldegrever: artist set, group = holding object (National Gallery of Art, Washington 1943.3.312); id \"tall-leafy-shaft-with-horned-and-bearded-masks\" renamed to \"leafy-shaft-with-bearded-and-lion-masks\" after review"
   - old: "tall-satyr-with-violin-candelabrum"
     set: "zoan-andrea-prints"
     id: "zoan-andrea-prints/tall-satyr-with-violin-candelabrum"
@@ -7871,11 +7871,11 @@ entries:
     notes: "id candidate \"tilted-rose-on-straight-stem-with-three-side-leaves\" is 51 chars (> 48); shorten by hand"
   - old: "two-boys-with-connected-acanthus-scroll"
     set: "aldegrever-prints"
-    id: "aldegrever-prints/two-boys-with-connected-acanthus-scroll"
+    id: "aldegrever-prints/two-boys-with-vine-scroll"
     group: "27-23-78"
     wave: 2
     status: moved
-    notes: "loose print by Heinrich Aldegrever: artist set, group = holding object (Metropolitan Museum of Art 27.23.78)"
+    notes: "loose print by Heinrich Aldegrever: artist set, group = holding object (Metropolitan Museum of Art 27.23.78); id \"two-boys-with-connected-acanthus-scroll\" renamed to \"two-boys-with-vine-scroll\" after review"
   - old: "two-children-in-tall-fruiting-leaf-scroll"
     set: "aldegrever-prints"
     id: "aldegrever-prints/two-children-in-tall-fruiting-leaf-scroll"
@@ -8286,16 +8286,16 @@ entries:
     set: "walters-w102"
     id: "walters-w102/centaur-archer"
     group: "82v"
-    wave: 2
+    wave: 1
     status: moved
-    notes: "prefix stripped from \"walters-centaur-archer\""
+    notes: "prefix stripped from \"walters-centaur-archer\"; imported whole with wave 1 (the set is in WAVE_SETS[1]); row corrected 2026-10-28"
   - old: "walters-elephant-castle"
     set: "walters-w102"
     id: "walters-w102/elephant-castle"
     group: "28r"
-    wave: 2
+    wave: 1
     status: moved
-    notes: "prefix stripped from \"walters-elephant-castle\""
+    notes: "prefix stripped from \"walters-elephant-castle\"; imported whole with wave 1 (the set is in WAVE_SETS[1]); row corrected 2026-10-28"
   - old: "walters-horse-flute-drum"
     set: "walters-w102"
     id: "walters-w102/horse-flute-drum"
@@ -8307,9 +8307,9 @@ entries:
     set: "walters-w102"
     id: "walters-w102/rabbit-church-bells"
     group: "81r"
-    wave: 2
+    wave: 1
     status: moved
-    notes: "prefix stripped from \"walters-rabbit-church-bells\""
+    notes: "prefix stripped from \"walters-rabbit-church-bells\"; imported whole with wave 1 (the set is in WAVE_SETS[1]); row corrected 2026-10-28"
   - old: "war-candelabrum-with-dragons-masks-and-weapons"
     set: "zoan-andrea-prints"
     id: "zoan-andrea-prints/war-candelabrum-with-dragons-masks-and-weapons"
