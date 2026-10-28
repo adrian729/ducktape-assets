@@ -6,3 +6,33 @@ sets:
   - { id: illuminated-acanthus, status: active, added: 2026-10-26 }
   - { id: medieval-cutouts, status: active, added: 2026-10-26 }
   - { id: walters-w102, status: active, added: 2026-10-26 }
+  - id: hopfer-prints
+    status: active
+    added: 2026-10-28
+  - id: schongauer-prints
+    status: active
+    added: 2026-10-28
+  - id: solis-prints
+    status: active
+    added: 2026-10-28
+  - id: fuchs-1542-herbal
+    status: active
+    added: 2026-10-28
+  - id: gessner-historiae-animalium
+    status: active
+    added: 2026-10-28
+  - id: mkg-de-bry-alphabet
+    status: active
+    added: 2026-10-28
+  - id: met-356741
+    status: active
+    added: 2026-10-28
+  - id: cma-1950-154
+    status: active
+    added: 2026-10-28
+  - id: cma-1963-256
+    status: active
+    added: 2026-10-28
+  - id: getty-ms20
+    status: active
+    added: 2026-10-28
