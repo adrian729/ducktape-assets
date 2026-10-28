@@ -50,7 +50,10 @@ export function createRegistry({ exec = run } = {}) {
       const r = await exec('npm', ['publish', '--access', 'public', ...(dryRun ? ['--dry-run'] : [])], { cwd: dir });
       if (r.error) {
         if (ALREADY_PUBLISHED.test(r.stdout + r.stderr)) return { status: 'already-published' };
-        throw new Error(`npm publish failed in ${dir}: ${(r.stderr || r.stdout).trim().slice(0, 800)}`);
+        // npm prints the whole tarball listing before the error, so report the error lines, not the head of the output.
+        const all = `${r.stdout}\n${r.stderr}`;
+        const errors = all.split('\n').filter((l) => /^npm (error|ERR!)/.test(l)).join('\n');
+        throw new Error(`npm publish failed in ${dir}: ${(errors || all.trim().slice(-800)).slice(0, 1600)}`);
       }
       return { status: dryRun ? 'dry-run' : 'published' };
     },
