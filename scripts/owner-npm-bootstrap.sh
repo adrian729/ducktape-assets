@@ -20,6 +20,13 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
+# Everything this script prints also lands in tmp/bootstrap-<timestamp>.log (ignored by git), so whoever runs it,
+# an agent can read what happened afterwards.
+mkdir -p tmp
+LOG="tmp/bootstrap-$(date +%Y%m%d-%H%M%S).log"
+exec > >(tee -a "$LOG") 2>&1
+echo "log: $LOG"
+
 SCOPE="@ranx729"
 REPO="adrian729/ducktape-assets"
 WORKFLOW="publish.yml"
