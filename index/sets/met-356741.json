@@ -1,0 +1,2192 @@
+{
+  "assets": {
+    "foliate-strip": {
+      "categories": [
+        "botanical",
+        "scrollwork",
+        "floral"
+      ],
+      "colors": [
+        "cream",
+        "tan",
+        "brown"
+      ],
+      "composition": "single-ornament",
+      "description": "The complete engraved vertical ornament from the left of the sheet, about five times taller than wide. A central stem carries three lily-like palmettes on banded knots, flanked at every level by mirrored acanthus leaves that curl outward into C-scrolls and small berry sprigs; a small finial closes the top and the lowest leaves close the bottom. Dark brown engraved lines over cream and tan interiors, the openings between the leaves and the surrounding sheet transparent.",
+      "display_width": [
+        60,
+        240
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 153258,
+        "webpTopBytes": 314694
+      },
+      "facing": "none",
+      "group": null,
+      "height": 1400,
+      "master": {
+        "bytes": 693510,
+        "h": 1400,
+        "path": "masters/foliate-strip.webp",
+        "sha256": "2c4efbf31f83f4783c39982721e10e31bb0850e9b14d5e11853f52e1e82e6d1e",
+        "w": 274
+      },
+      "palette": [
+        "#8a7862",
+        "#94826c",
+        "#9b8972",
+        "#a08e77",
+        "#a89680"
+      ],
+      "provenance": {
+        "artist": "Francesco Rosselli",
+        "date": "1490-1500",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP833949.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "29.16.3",
+        "object_title": "Sheet of border segments: vertical floral ornament, horizontal frieze, four corners",
+        "record_url": "https://www.metmuseum.org/art/collection/search/356741",
+        "rights_text": "Public Domain",
+        "rights_url": "https://www.metmuseum.org/art/collection/search/356741",
+        "source_sha256": "98d28d964a4d99da22c8195476ad3c632a032b850f3ee3efe3ef019515dd88f8"
+      },
+      "related": [
+        {
+          "asset": "met-356741/foliate-tile",
+          "role": "variant"
+        },
+        {
+          "asset": "met-356741/mask-strip",
+          "role": "companion"
+        },
+        {
+          "asset": "met-356741/roundel-top",
+          "role": "companion"
+        },
+        {
+          "asset": "met-356741/roundel-second",
+          "role": "companion"
+        },
+        {
+          "asset": "met-356741/roundel-third",
+          "role": "companion"
+        },
+        {
+          "asset": "met-356741/roundel-bottom",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 18084,
+            "h": 327,
+            "path": "avif/foliate-strip-64.avif",
+            "sha256": "e474a8b780c1fcb3a61fe040dcf36df4dff135beb745a251956934a86b8adaba",
+            "w": 64
+          },
+          {
+            "bytes": 34396,
+            "h": 491,
+            "path": "avif/foliate-strip-96.avif",
+            "sha256": "82f215ffce45878bbfe35da08bf372351c20e5a1cd6cf8b3b0375b41bfa337f9",
+            "w": 96
+          },
+          {
+            "bytes": 54281,
+            "h": 654,
+            "path": "avif/foliate-strip-128.avif",
+            "sha256": "da3a78ec3cf5808931dc1117797066dab7589b1ddde10f520205427db89f24d6",
+            "w": 128
+          },
+          {
+            "bytes": 98569,
+            "h": 981,
+            "path": "avif/foliate-strip-192.avif",
+            "sha256": "24342ffc1277eaefa70bf42b89881ddfe03caedb0c041979ffbf17289cb4f7dc",
+            "w": 192
+          },
+          {
+            "bytes": 145613,
+            "h": 1308,
+            "path": "avif/foliate-strip-256.avif",
+            "sha256": "6ebd33b8e733a5b5765ebc950f52f6303b35fff53e5d0bf9a1da39fb00bf82f5",
+            "w": 256
+          },
+          {
+            "bytes": 153258,
+            "h": 1400,
+            "path": "avif/foliate-strip-274.avif",
+            "sha256": "4d29cdbe3a49cd6c931fcd6958de9e0ae97102f71f45b14f0da4a6be63f0fcab",
+            "w": 274
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 25960,
+            "h": 327,
+            "path": "webp/foliate-strip-64.webp",
+            "sha256": "46a4e0c7715718d482498334c008e61a31b5417f6ef770378cf1af61fee62a75",
+            "w": 64
+          },
+          {
+            "bytes": 53824,
+            "h": 491,
+            "path": "webp/foliate-strip-96.webp",
+            "sha256": "83b8cb263d173f1759872e5838e0e702e79d2e7bac6748b1a6d1878644d7163d",
+            "w": 96
+          },
+          {
+            "bytes": 91224,
+            "h": 654,
+            "path": "webp/foliate-strip-128.webp",
+            "sha256": "eaa473fc06a6b3e3ccd0f3974f888ae9c2216783d7bce1fa7213fd70b27a8f4a",
+            "w": 128
+          },
+          {
+            "bytes": 181074,
+            "h": 981,
+            "path": "webp/foliate-strip-192.webp",
+            "sha256": "9403bd56077c55639bbb9ba0977ca74373bcf4abad30e778a1ba2041e51dade1",
+            "w": 192
+          },
+          {
+            "bytes": 292642,
+            "h": 1308,
+            "path": "webp/foliate-strip-256.webp",
+            "sha256": "3d0070655fc1636cc4ff9dca70ca6c65dc39268f060c420b98ef53e1f1bbeb16",
+            "w": 256
+          },
+          {
+            "bytes": 314694,
+            "h": 1400,
+            "path": "webp/foliate-strip-274.webp",
+            "sha256": "5a34a75fdcb07e0cd00d9739db4838a41006fba01e4ac84e2dc115747140ae0a",
+            "w": 274
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "acanthus",
+        "leaf",
+        "scroll",
+        "flower",
+        "berry",
+        "finial"
+      ],
+      "thumbhash": "3yiCAQAYPH8TeKgMc5sDqAhYd3eGeHg=",
+      "title": "Rosselli vertical foliate ornament",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Whole strip with its original end terminals; it does not repeat, so use rosselli-foliate-border for a tiled run.",
+        "The sheet pairs it as the vertical side of a page frame with the mask frieze running horizontally and a roundel in each corner."
+      ],
+      "width": 274
+    },
+    "foliate-tile": {
+      "categories": [
+        "botanical",
+        "scrollwork",
+        "floral"
+      ],
+      "colors": [
+        "cream",
+        "tan",
+        "brown"
+      ],
+      "components": {
+        "corner": {
+          "description": "Top-left mitred corner matching the border's end profile on its right and bottom edges, a modern AI-assisted adaptation of the sheet's foliage; the sheet itself has no corner piece.",
+          "encoding": {
+            "avif": true,
+            "avifTopBytes": 27276,
+            "webpTopBytes": 56170
+          },
+          "master": {
+            "bytes": 130860,
+            "h": 274,
+            "path": "masters/foliate-tile.corner.webp",
+            "sha256": "b602acc259db2dae863f49a2fed57f2bd0232854bc28532fffa06feba2bcd826",
+            "w": 274
+          },
+          "sources": {
+            "avif": [
+              {
+                "bytes": 3295,
+                "h": 64,
+                "path": "avif/foliate-tile.corner-64.avif",
+                "sha256": "4a4b2c68f14998f3979d5793f4ff6b4e3537759ae3ea259391dadf38842ed785",
+                "w": 64
+              },
+              {
+                "bytes": 5885,
+                "h": 96,
+                "path": "avif/foliate-tile.corner-96.avif",
+                "sha256": "07be48c6e5f498e2cbcae940b86f20dae207c017a2e7d0d3102a8793da4c48f8",
+                "w": 96
+              },
+              {
+                "bytes": 8821,
+                "h": 128,
+                "path": "avif/foliate-tile.corner-128.avif",
+                "sha256": "45c263bd154b76e6da246dc51fdf24f9a90cc6d9206061677795e55c807b6a23",
+                "w": 128
+              },
+              {
+                "bytes": 16001,
+                "h": 192,
+                "path": "avif/foliate-tile.corner-192.avif",
+                "sha256": "65f8e48db0221aa9fabc6d53a4ce96f66120c008eabb638cfb79bb7abf8da1e4",
+                "w": 192
+              },
+              {
+                "bytes": 24410,
+                "h": 256,
+                "path": "avif/foliate-tile.corner-256.avif",
+                "sha256": "0126cfe3989ec2ac45177832473ecec858d58f1d49a44636cf5b6a5b18ddb558",
+                "w": 256
+              },
+              {
+                "bytes": 27276,
+                "h": 274,
+                "path": "avif/foliate-tile.corner-274.avif",
+                "sha256": "2b636f83e1e0d64daa673138c0276e073005a6512ce499664add58212ae91fd9",
+                "w": 274
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 4722,
+                "h": 64,
+                "path": "webp/foliate-tile.corner-64.webp",
+                "sha256": "68e123754db2cff373d2d089bb31355009c6ea18fc022b5cc03419afbc7d484e",
+                "w": 64
+              },
+              {
+                "bytes": 9544,
+                "h": 96,
+                "path": "webp/foliate-tile.corner-96.webp",
+                "sha256": "4226c3190c9c14ffab1d7221dfb9a9346ef6bfa3403ec7c8fc4919e28d9fce08",
+                "w": 96
+              },
+              {
+                "bytes": 15662,
+                "h": 128,
+                "path": "webp/foliate-tile.corner-128.webp",
+                "sha256": "822c4918d70477f48eec5471d3e4b17b85c2615b5955b149a4447f32551b5ad9",
+                "w": 128
+              },
+              {
+                "bytes": 31202,
+                "h": 192,
+                "path": "webp/foliate-tile.corner-192.webp",
+                "sha256": "981148daee8cdd9831607750d28f121710067b4472bbaf70e72fc93d594a60b6",
+                "w": 192
+              },
+              {
+                "bytes": 50836,
+                "h": 256,
+                "path": "webp/foliate-tile.corner-256.webp",
+                "sha256": "9a8b3edb1465dd0494dbb2fba8e32a84d8bd475c207daa6e0a8863dd8c1ba962",
+                "w": 256
+              },
+              {
+                "bytes": 56170,
+                "h": 274,
+                "path": "webp/foliate-tile.corner-274.webp",
+                "sha256": "6f4547e448547582ee7d92d470cae260d90ea2d5c079a1db7461d4a5e245d7e6",
+                "w": 274
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "One repeat of the engraved vertical foliate ornament, cut so the top and bottom edges join seamlessly when stacked. A central lily-like palmette on a banded stem is flanked by mirrored acanthus leaves that curl outward into C-scrolls, with small berry sprigs at the two sides; dark brown engraved lines over cream and tan interiors, the openings between the leaves and the surrounding sheet transparent.",
+      "display_width": [
+        60,
+        200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 48234,
+        "webpTopBytes": 99310
+      },
+      "facing": "none",
+      "group": null,
+      "height": 438,
+      "master": {
+        "bytes": 214392,
+        "h": 438,
+        "path": "masters/foliate-tile.webp",
+        "sha256": "e76dffbd29700429f0fc449e645faccf6ec32d2b4a60da869a65b8abdc43e93e",
+        "w": 274
+      },
+      "palette": [
+        "#746450",
+        "#8b7962",
+        "#99876f",
+        "#a5937d",
+        "#b9a892"
+      ],
+      "provenance": {
+        "artist": "Francesco Rosselli",
+        "date": "1490-1500",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP833949.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "29.16.3",
+        "object_title": "Sheet of border segments: vertical floral ornament, horizontal frieze, four corners",
+        "record_url": "https://www.metmuseum.org/art/collection/search/356741",
+        "rights_text": "Public Domain",
+        "rights_url": "https://www.metmuseum.org/art/collection/search/356741",
+        "source_sha256": "98d28d964a4d99da22c8195476ad3c632a032b850f3ee3efe3ef019515dd88f8"
+      },
+      "related": [
+        {
+          "asset": "met-356741/foliate-strip",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "frame": {
+          "atlas": {
+            "avif": [
+              {
+                "bytes": 3963,
+                "h": 64,
+                "path": "frames/foliate-tile-atlas-64.avif",
+                "sha256": "304f7f0fb70e0fb644e7e4c5ae7a430ee83c90cff792843374ce802a4d5c0b4b",
+                "w": 64
+              },
+              {
+                "bytes": 7646,
+                "h": 96,
+                "path": "frames/foliate-tile-atlas-96.avif",
+                "sha256": "c9e8d7bbab87862245bff3865a05fd454ee5e47722697ca9c968753e0aa368f3",
+                "w": 96
+              },
+              {
+                "bytes": 12436,
+                "h": 128,
+                "path": "frames/foliate-tile-atlas-128.avif",
+                "sha256": "f61f3f7107b6ab3408d4f59cf536da31c8ffe5e04755da5c51187190c33c95c3",
+                "w": 128
+              },
+              {
+                "bytes": 24350,
+                "h": 192,
+                "path": "frames/foliate-tile-atlas-192.avif",
+                "sha256": "8322d61050b236c55f56fcb16b5f4395edb2c3dc7422a01c23283364e1991cb7",
+                "w": 192
+              },
+              {
+                "bytes": 39487,
+                "h": 256,
+                "path": "frames/foliate-tile-atlas-256.avif",
+                "sha256": "2e2335b2cf9cd58fd66ffc97c9e7f4453bec820ff96b012c061cdab0abedcc5e",
+                "w": 256
+              },
+              {
+                "bytes": 73043,
+                "h": 384,
+                "path": "frames/foliate-tile-atlas-384.avif",
+                "sha256": "1a8809ffaeb96af26f95b2bb55d09174b1145e0d3f95b5bafab613183c6cc561",
+                "w": 384
+              },
+              {
+                "bytes": 115067,
+                "h": 512,
+                "path": "frames/foliate-tile-atlas-512.avif",
+                "sha256": "c903f68083dcc5b91972a37102dae910206f1acea4cce2c5da82570df2056107",
+                "w": 512
+              },
+              {
+                "bytes": 210893,
+                "h": 768,
+                "path": "frames/foliate-tile-atlas-768.avif",
+                "sha256": "cd0203bc6364c1d809b1ec7ac7dc7804fcdb18ab40e286b11e548f2a7cb14d0d",
+                "w": 768
+              },
+              {
+                "bytes": 288783,
+                "h": 986,
+                "path": "frames/foliate-tile-atlas-986.avif",
+                "sha256": "6726a94e6e307242889c78440887198a3be1b49e2172f9c7e02607e9249b2263",
+                "w": 986
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 4994,
+                "h": 64,
+                "path": "frames/foliate-tile-atlas-64.webp",
+                "sha256": "f93c1709ba19bd6b4783a211aed5e3b79ea8e6c20a46e1f3e80f225ceb4b2e63",
+                "w": 64
+              },
+              {
+                "bytes": 10368,
+                "h": 96,
+                "path": "frames/foliate-tile-atlas-96.webp",
+                "sha256": "1dba1f62c2ca352239eb2e9b5afb7c5b9032dcef848d5d71c692fa6052e944d3",
+                "w": 96
+              },
+              {
+                "bytes": 17776,
+                "h": 128,
+                "path": "frames/foliate-tile-atlas-128.webp",
+                "sha256": "024647f5e061db2a5b313541b6e6c39406214e2b1fd84e46fe889aa3ba89dfd9",
+                "w": 128
+              },
+              {
+                "bytes": 36196,
+                "h": 192,
+                "path": "frames/foliate-tile-atlas-192.webp",
+                "sha256": "4f474283a7fe332ba560933efd878367f630e7060ed175b74bab1007e8b30c8b",
+                "w": 192
+              },
+              {
+                "bytes": 60334,
+                "h": 256,
+                "path": "frames/foliate-tile-atlas-256.webp",
+                "sha256": "4fa821b04145ac7662b9f85066e51cb841b390fb253a05124a05e47773d98cc6",
+                "w": 256
+              },
+              {
+                "bytes": 120078,
+                "h": 384,
+                "path": "frames/foliate-tile-atlas-384.webp",
+                "sha256": "30f8a17ea36a4008ee48fb0b867c9afe56805fb1c4b8eec610ec3cb7ab7d7925",
+                "w": 384
+              },
+              {
+                "bytes": 202672,
+                "h": 512,
+                "path": "frames/foliate-tile-atlas-512.webp",
+                "sha256": "247540e5c9215d16d35d1511ce861d6ac819bb21808282ace74232731a5d7377",
+                "w": 512
+              },
+              {
+                "bytes": 408150,
+                "h": 768,
+                "path": "frames/foliate-tile-atlas-768.webp",
+                "sha256": "ea411a5271f7df628430fb3ebe488322ea753e2a2fe0c1681275564ea3ce3481",
+                "w": 768
+              },
+              {
+                "bytes": 599620,
+                "h": 986,
+                "path": "frames/foliate-tile-atlas-986.webp",
+                "sha256": "1889c5808c143b24c205e14310b123a8fea9a05bcaa46ecdef067e4668bbfcbc",
+                "w": 986
+              }
+            ]
+          },
+          "corner": "corner",
+          "slice": 27.79
+        },
+        "image": {},
+        "tile": {
+          "axis": "y",
+          "period": 1,
+          "rotated": {
+            "avif": [
+              {
+                "bytes": 5933,
+                "h": 64,
+                "path": "tiles/foliate-tile-rotated-102.avif",
+                "sha256": "30af471683ee1ea4dda351f24ab83890cba13b9981e2430a36a4771b77b89125",
+                "w": 102
+              },
+              {
+                "bytes": 11001,
+                "h": 96,
+                "path": "tiles/foliate-tile-rotated-153.avif",
+                "sha256": "1fbff56a43596b97107da22140184f3b121be7f794a647059c341cc7f0018531",
+                "w": 153
+              },
+              {
+                "bytes": 17066,
+                "h": 128,
+                "path": "tiles/foliate-tile-rotated-205.avif",
+                "sha256": "1f51a568fa2cfbdd5c60737cb2e9a67c8b651d57b4f3b2c9b6af337129cc73f0",
+                "w": 205
+              },
+              {
+                "bytes": 30913,
+                "h": 192,
+                "path": "tiles/foliate-tile-rotated-307.avif",
+                "sha256": "3226dfb448e0f31a1dd4f25b0f1656cb6ab38d94c8cbbcc76661cf94d5906fbf",
+                "w": 307
+              },
+              {
+                "bytes": 45388,
+                "h": 256,
+                "path": "tiles/foliate-tile-rotated-409.avif",
+                "sha256": "e50f97676438f9ba2e6ff932856ba3c6b07d9783da1109b1b67f4361a27fe017",
+                "w": 409
+              },
+              {
+                "bytes": 48166,
+                "h": 274,
+                "path": "tiles/foliate-tile-rotated-438.avif",
+                "sha256": "cda8d7c3a483978d53ad5a0f94240a76ea5ad80d342b869f24a6e87d9bde6f28",
+                "w": 438
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 8318,
+                "h": 64,
+                "path": "tiles/foliate-tile-rotated-102.webp",
+                "sha256": "aff9efac7be8f3f9bf8510105149c9df43cbe050328bb27c92de9edf149271c3",
+                "w": 102
+              },
+              {
+                "bytes": 16930,
+                "h": 96,
+                "path": "tiles/foliate-tile-rotated-153.webp",
+                "sha256": "ead8983293c57bcbd54f29e496845d709b8e9a65f25c109de183f95598f1b70d",
+                "w": 153
+              },
+              {
+                "bytes": 28230,
+                "h": 128,
+                "path": "tiles/foliate-tile-rotated-205.webp",
+                "sha256": "8e916a084e72c86398dda7acf9d56ff220567218dc5e016d551e3dff6c17ed80",
+                "w": 205
+              },
+              {
+                "bytes": 56696,
+                "h": 192,
+                "path": "tiles/foliate-tile-rotated-307.webp",
+                "sha256": "e5f6ed5c3b2e432a2a8661f7d70822e2094702161ce93350f319778e113ca749",
+                "w": 307
+              },
+              {
+                "bytes": 91828,
+                "h": 256,
+                "path": "tiles/foliate-tile-rotated-409.webp",
+                "sha256": "9831ffe6f73f0f20d45e31c52ff8a930d1bbe34080fe7cc678600e36eb3a1a6c",
+                "w": 409
+              },
+              {
+                "bytes": 98094,
+                "h": 274,
+                "path": "tiles/foliate-tile-rotated-438.webp",
+                "sha256": "f7d7ae1d7775cd923a50741e910df3c96115eebac45b06c36f478ae9a00f127a",
+                "w": 438
+              }
+            ]
+          }
+        }
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 5944,
+            "h": 102,
+            "path": "avif/foliate-tile-64.avif",
+            "sha256": "8a0168699a9ad7778559167e19b2e07258697a3f33533fc94a83728bfec9c4b3",
+            "w": 64
+          },
+          {
+            "bytes": 11151,
+            "h": 153,
+            "path": "avif/foliate-tile-96.avif",
+            "sha256": "1ebf9938c2a3b5cfc679f19aa3f4839dc8a4113765553390a5fa74f5a39da18a",
+            "w": 96
+          },
+          {
+            "bytes": 17261,
+            "h": 205,
+            "path": "avif/foliate-tile-128.avif",
+            "sha256": "8bd5dabe34405325ed96eb934afb7423587ad9121b3ecc5b1a12d1c957b8ef8d",
+            "w": 128
+          },
+          {
+            "bytes": 31089,
+            "h": 307,
+            "path": "avif/foliate-tile-192.avif",
+            "sha256": "7b1358ebb2d58f1a03603d9ea5da80ce4678d63a0d2e43c3350f413be200f5b7",
+            "w": 192
+          },
+          {
+            "bytes": 45750,
+            "h": 409,
+            "path": "avif/foliate-tile-256.avif",
+            "sha256": "f61cb7418537637e62cc6bd7576752a47e117e22d6f77ac3f8bb8eac95c07572",
+            "w": 256
+          },
+          {
+            "bytes": 48234,
+            "h": 438,
+            "path": "avif/foliate-tile-274.avif",
+            "sha256": "f09a25595020b9114f39cc704667a84a5d4507a4fc0e3b84382b121e9a65e686",
+            "w": 274
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 8378,
+            "h": 102,
+            "path": "webp/foliate-tile-64.webp",
+            "sha256": "f16cc7a9264712f3e980027b6aeb47603a94b0a818e90bc97bcb04ac33486550",
+            "w": 64
+          },
+          {
+            "bytes": 17070,
+            "h": 153,
+            "path": "webp/foliate-tile-96.webp",
+            "sha256": "ca594cdcc781ff4542e5119dbec18d4d51ab9c90fe1e18887fab82ffc974d0f0",
+            "w": 96
+          },
+          {
+            "bytes": 28584,
+            "h": 205,
+            "path": "webp/foliate-tile-128.webp",
+            "sha256": "0cfa7b8c41d42dd6f8ad2ed3c697795449a31bbfa52764e61c4329375dc40fb8",
+            "w": 128
+          },
+          {
+            "bytes": 57120,
+            "h": 307,
+            "path": "webp/foliate-tile-192.webp",
+            "sha256": "3208ebf9fcb68d77e726f2fada950881f9fbc6251cedbef6779e6b85de34ed3b",
+            "w": 192
+          },
+          {
+            "bytes": 92094,
+            "h": 409,
+            "path": "webp/foliate-tile-256.webp",
+            "sha256": "6fee8f10ae73dac488df2e4713821edd7f0de9d473ba506b98ec633d93d18ce8",
+            "w": 256
+          },
+          {
+            "bytes": 99310,
+            "h": 438,
+            "path": "webp/foliate-tile-274.webp",
+            "sha256": "47a6cad6edd82d49c5176d58dcda76e97c977347b76d77ba905e9c485e6d59fe",
+            "w": 274
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "acanthus",
+        "leaf",
+        "scroll",
+        "flower",
+        "berry"
+      ],
+      "thumbhash": "3yiCAwAZConCN6Zca6CmCAdoeHeJaFc=",
+      "title": "Rosselli foliate border, one repeat",
+      "transparent": true,
+      "type": "border",
+      "usage_notes": [
+        "Cropped from rosselli-foliate-strip at one repeat (438 px of the 1400 px strip); interior pixels are unchanged and only a two-pixel collar at the join is averaged.",
+        "Repeats along its length; the build's rotated ladder gives the horizontal use.",
+        "The frame atlas composes this repeat with the corner component; use it with border-image and round fitting. The corner is not a recovered historical motif."
+      ],
+      "width": 274
+    },
+    "mask-strip": {
+      "categories": [
+        "botanical",
+        "scrollwork",
+        "humans"
+      ],
+      "colors": [
+        "cream",
+        "tan",
+        "brown"
+      ],
+      "composition": "single-ornament",
+      "description": "The complete engraved frieze from the right of the sheet, about five times longer than wide, stored upright as on the sheet so the masks lie on their side. Along its length four bearded masks in beaded crowns with plumes of acanthus leaves alternate with heart-shaped foliate cartouches and scrolling leaves, a fifth mask is cut off at the top end, and a chain of small rosettes runs along the right edge; both ends stop on cut foliage. Dark brown engraved lines over cream and tan interiors, the openings and the surrounding sheet transparent.",
+      "display_width": [
+        60,
+        240
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 140186,
+        "webpTopBytes": 284120
+      },
+      "facing": "none",
+      "group": null,
+      "height": 1400,
+      "master": {
+        "bytes": 685338,
+        "h": 1400,
+        "path": "masters/mask-strip.webp",
+        "sha256": "f247d8156569f587f653d3024e8c0c955ef5df63aa532bc1f4b3b362f4b73cc7",
+        "w": 270
+      },
+      "palette": [
+        "#ae997e",
+        "#9b876d",
+        "#a38f73",
+        "#8c795f",
+        "#958167"
+      ],
+      "provenance": {
+        "artist": "Francesco Rosselli",
+        "date": "1490-1500",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP833949.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "29.16.3",
+        "object_title": "Sheet of border segments: vertical floral ornament, horizontal frieze, four corners",
+        "record_url": "https://www.metmuseum.org/art/collection/search/356741",
+        "rights_text": "Public Domain",
+        "rights_url": "https://www.metmuseum.org/art/collection/search/356741",
+        "source_sha256": "98d28d964a4d99da22c8195476ad3c632a032b850f3ee3efe3ef019515dd88f8"
+      },
+      "related": [
+        {
+          "asset": "met-356741/mask-tile",
+          "role": "variant"
+        },
+        {
+          "asset": "met-356741/foliate-strip",
+          "role": "companion"
+        },
+        {
+          "asset": "met-356741/roundel-top",
+          "role": "companion"
+        },
+        {
+          "asset": "met-356741/roundel-second",
+          "role": "companion"
+        },
+        {
+          "asset": "met-356741/roundel-third",
+          "role": "companion"
+        },
+        {
+          "asset": "met-356741/roundel-bottom",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 15009,
+            "h": 332,
+            "path": "avif/mask-strip-64.avif",
+            "sha256": "49a6270655dec67af70bf22189e9ed9f2fcc8bd4128be62df3234fd1a864ab5a",
+            "w": 64
+          },
+          {
+            "bytes": 29174,
+            "h": 498,
+            "path": "avif/mask-strip-96.avif",
+            "sha256": "1a43be13738b9237390f26ebd5717b0dc8781f9d6435b0ff0d577ca3bbb75c8a",
+            "w": 96
+          },
+          {
+            "bytes": 46981,
+            "h": 664,
+            "path": "avif/mask-strip-128.avif",
+            "sha256": "571e4e251e2cdce33fa7e80eb306be0711b903ddfc258fe8fb1e05036060b477",
+            "w": 128
+          },
+          {
+            "bytes": 88641,
+            "h": 996,
+            "path": "avif/mask-strip-192.avif",
+            "sha256": "7bfb14ba692a0000c40bd0c7aeeb1a5ce141f23a9edc418cd0248a6eb992218f",
+            "w": 192
+          },
+          {
+            "bytes": 130436,
+            "h": 1327,
+            "path": "avif/mask-strip-256.avif",
+            "sha256": "a9d74a0bf816e6c548e93bf48912fdb8ccf1b9cc6df70c45a40d92e43e7849a0",
+            "w": 256
+          },
+          {
+            "bytes": 140186,
+            "h": 1400,
+            "path": "avif/mask-strip-270.avif",
+            "sha256": "01e6b1c8340d5fb22140aa5bb0bd544d135bc0fe61be43409425039430a4ff6f",
+            "w": 270
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 23296,
+            "h": 332,
+            "path": "webp/mask-strip-64.webp",
+            "sha256": "029bcaeaec0f461ed346c0df11d41b88a08b51ffc2fc9c3e9de3ad6e4f8c03ff",
+            "w": 64
+          },
+          {
+            "bytes": 48372,
+            "h": 498,
+            "path": "webp/mask-strip-96.webp",
+            "sha256": "8d00897796ae5bd07f34e0953cdefacd3d5d00e3ca797ee45c14dc120df4a679",
+            "w": 96
+          },
+          {
+            "bytes": 81550,
+            "h": 664,
+            "path": "webp/mask-strip-128.webp",
+            "sha256": "773241cddda8dd05ba49491482388c88b2ee70dfadbbc2fd8409a80d596a14bb",
+            "w": 128
+          },
+          {
+            "bytes": 165154,
+            "h": 996,
+            "path": "webp/mask-strip-192.webp",
+            "sha256": "d894e83fc533109a87f7b7b321fc80c26db0f147eaff4a1c26ba9ebd07b2bf4a",
+            "w": 192
+          },
+          {
+            "bytes": 265698,
+            "h": 1327,
+            "path": "webp/mask-strip-256.webp",
+            "sha256": "b091ca8b15e68b0eee71f0fcb292419672481979acc39be6e94f17fe2f18a3f7",
+            "w": 256
+          },
+          {
+            "bytes": 284120,
+            "h": 1400,
+            "path": "webp/mask-strip-270.webp",
+            "sha256": "f565d1136805a735e20fb6229ff3700423d51f3eb6bfbad1650b6a909af8f737",
+            "w": 270
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "mask",
+        "crown",
+        "acanthus",
+        "leaf",
+        "scroll",
+        "rosette"
+      ],
+      "thumbhash": "ISmCAQAaAIa3mqcfddYgqABYh3h3d3g=",
+      "title": "Rosselli mask frieze",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "The frieze is horizontal by design; rotate it 90 degrees clockwise to bring the masks upright with the rosette chain at the bottom edge.",
+        "Whole strip; its ends are not a seamless join, so use rosselli-mask-border for a tiled run.",
+        "The sheet pairs it as the horizontal side of a page frame with the vertical foliate ornament and a roundel in each corner."
+      ],
+      "width": 270
+    },
+    "mask-tile": {
+      "categories": [
+        "botanical",
+        "scrollwork",
+        "humans"
+      ],
+      "colors": [
+        "cream",
+        "tan",
+        "brown"
+      ],
+      "components": {
+        "corner": {
+          "description": "Top-left mitred corner matching the frieze's end profile on its right and bottom edges, a modern AI-assisted adaptation of the sheet's foliage and masks; the sheet itself has no corner piece.",
+          "encoding": {
+            "avif": true,
+            "avifTopBytes": 24349,
+            "webpTopBytes": 49714
+          },
+          "master": {
+            "bytes": 130682,
+            "h": 270,
+            "path": "masters/mask-tile.corner.webp",
+            "sha256": "f226e1dfbde231018a0207e2abbce5094d1da705e53a3626239a62093891160d",
+            "w": 270
+          },
+          "sources": {
+            "avif": [
+              {
+                "bytes": 2871,
+                "h": 64,
+                "path": "avif/mask-tile.corner-64.avif",
+                "sha256": "a6b7295337afd7081dbe0e9745dccf6fdc74f6a5505a40bb4ab80555c9bf9a95",
+                "w": 64
+              },
+              {
+                "bytes": 5515,
+                "h": 96,
+                "path": "avif/mask-tile.corner-96.avif",
+                "sha256": "53b86d482cbb2c02e2428dc8c12b16b569c3563d32f132b081806e587f04bc34",
+                "w": 96
+              },
+              {
+                "bytes": 8466,
+                "h": 128,
+                "path": "avif/mask-tile.corner-128.avif",
+                "sha256": "d0e2462a247538a77057084006775916deca2629368d48d744a73ee06212ea7e",
+                "w": 128
+              },
+              {
+                "bytes": 15599,
+                "h": 192,
+                "path": "avif/mask-tile.corner-192.avif",
+                "sha256": "4e1b84d90b957e808f0d0ce2faf462b479163fed89f85d9d01df232bd6ce57ce",
+                "w": 192
+              },
+              {
+                "bytes": 22478,
+                "h": 256,
+                "path": "avif/mask-tile.corner-256.avif",
+                "sha256": "b6763dc1575b3b6a9bb55adc59aa4db80acfaa4e2acef5a1b256f4aa4192acb2",
+                "w": 256
+              },
+              {
+                "bytes": 24349,
+                "h": 270,
+                "path": "avif/mask-tile.corner-270.avif",
+                "sha256": "08df208b066e6e9ec90115f8be6bf0e18426fc543d68213c9651c973a67bd555",
+                "w": 270
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 4276,
+                "h": 64,
+                "path": "webp/mask-tile.corner-64.webp",
+                "sha256": "c94261fe7fca0d76e8c779a1b07f6fcd1c46180b7729a47c29e93ab1e5163c41",
+                "w": 64
+              },
+              {
+                "bytes": 8746,
+                "h": 96,
+                "path": "webp/mask-tile.corner-96.webp",
+                "sha256": "2f8943aae16719f0cbfd7f99e5c3df27fe0de813d88bc8c9ee3bf53dd6236433",
+                "w": 96
+              },
+              {
+                "bytes": 14734,
+                "h": 128,
+                "path": "webp/mask-tile.corner-128.webp",
+                "sha256": "4a91af77ca622144ac0ad40f49972a332be0f60ecdb73e7956a734545fdf103f",
+                "w": 128
+              },
+              {
+                "bytes": 29554,
+                "h": 192,
+                "path": "webp/mask-tile.corner-192.webp",
+                "sha256": "ec4dbb5643b8e8d49fa9558ab768fb64e7ad4addd8ac0ea28b028d5befe48623",
+                "w": 192
+              },
+              {
+                "bytes": 46570,
+                "h": 256,
+                "path": "webp/mask-tile.corner-256.webp",
+                "sha256": "aaa3fd112943ff7ebe0b62713b25f716793c0e18a0255e284e8768f307d8f8d7",
+                "w": 256
+              },
+              {
+                "bytes": 49714,
+                "h": 270,
+                "path": "webp/mask-tile.corner-270.webp",
+                "sha256": "3c3970f53671f1263d33f46913ca420d77a904cf6f7b180b036b69949d665029",
+                "w": 270
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "One repeat of the engraved frieze of masks and foliage, cut so the ends join seamlessly when stacked. A bearded mask in a beaded crown with a plume of acanthus leaves fills the lower half and a heart-shaped foliate cartouche with scrolling leaves the upper half, with a chain of small rosettes along the right edge; dark brown engraved lines over cream and tan interiors, the openings and the surrounding sheet transparent. Stored upright as on the sheet, so the masks lie on their side; the frieze reads upright when run horizontally.",
+      "display_width": [
+        60,
+        200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 29796,
+        "webpTopBytes": 59612
+      },
+      "facing": "none",
+      "group": null,
+      "height": 290,
+      "master": {
+        "bytes": 140584,
+        "h": 290,
+        "path": "masters/mask-tile.webp",
+        "sha256": "1d30b1b33e38eebaef6503663c1879773758ccc6c612ff36e0e4cdb8efad61a9",
+        "w": 270
+      },
+      "palette": [
+        "#7c6b55",
+        "#927e64",
+        "#a48f73",
+        "#b39f84",
+        "#c9b498"
+      ],
+      "provenance": {
+        "artist": "Francesco Rosselli",
+        "date": "1490-1500",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP833949.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "29.16.3",
+        "object_title": "Sheet of border segments: vertical floral ornament, horizontal frieze, four corners",
+        "record_url": "https://www.metmuseum.org/art/collection/search/356741",
+        "rights_text": "Public Domain",
+        "rights_url": "https://www.metmuseum.org/art/collection/search/356741",
+        "source_sha256": "98d28d964a4d99da22c8195476ad3c632a032b850f3ee3efe3ef019515dd88f8"
+      },
+      "related": [
+        {
+          "asset": "met-356741/mask-strip",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "frame": {
+          "atlas": {
+            "avif": [
+              {
+                "bytes": 3376,
+                "h": 64,
+                "path": "frames/mask-tile-atlas-64.avif",
+                "sha256": "468c5860d6f3a93d3f9742e5912a75255ba0998a969107c6951576661f9ea342",
+                "w": 64
+              },
+              {
+                "bytes": 6486,
+                "h": 96,
+                "path": "frames/mask-tile-atlas-96.avif",
+                "sha256": "66f7590b5caff2604f4b19331b5eaadbc0eb7754821546f89506b2205a615765",
+                "w": 96
+              },
+              {
+                "bytes": 10451,
+                "h": 128,
+                "path": "frames/mask-tile-atlas-128.avif",
+                "sha256": "44d9a7fdf78b5eb6988cc505aa61a8fa7e0c07aa9947b5c986b20c513804bb09",
+                "w": 128
+              },
+              {
+                "bytes": 20836,
+                "h": 192,
+                "path": "frames/mask-tile-atlas-192.avif",
+                "sha256": "fffbdb0381e5409dda1590cf34d8a61267544a35d44b21e94f8540c659055418",
+                "w": 192
+              },
+              {
+                "bytes": 34282,
+                "h": 256,
+                "path": "frames/mask-tile-atlas-256.avif",
+                "sha256": "badf876671571cccdeea68339c11454875fde20d83778ac622be05a15cb8051c",
+                "w": 256
+              },
+              {
+                "bytes": 66768,
+                "h": 384,
+                "path": "frames/mask-tile-atlas-384.avif",
+                "sha256": "58fec245b2f8443eb3d9cff10c302543b7aa0df37b3b4089c116479e9b3efd68",
+                "w": 384
+              },
+              {
+                "bytes": 105882,
+                "h": 512,
+                "path": "frames/mask-tile-atlas-512.avif",
+                "sha256": "0752fbcd0993cfc304343377cadd6b882b32716be19c289073454eb2f41e618c",
+                "w": 512
+              },
+              {
+                "bytes": 187354,
+                "h": 768,
+                "path": "frames/mask-tile-atlas-768.avif",
+                "sha256": "c57302d2ea04badcc699c8ab8841d5736bcedd2fb16b5f638f86d5d9b3b6e3cc",
+                "w": 768
+              },
+              {
+                "bytes": 206948,
+                "h": 830,
+                "path": "frames/mask-tile-atlas-830.avif",
+                "sha256": "2808d37d73467c187e6fa08ffef8379a1079b965ec0542cb306ecb860f475cfd",
+                "w": 830
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 4850,
+                "h": 64,
+                "path": "frames/mask-tile-atlas-64.webp",
+                "sha256": "246466b70b00b6c5079336188b21c8e43472013316546e52b8f24cb46b545231",
+                "w": 64
+              },
+              {
+                "bytes": 9804,
+                "h": 96,
+                "path": "frames/mask-tile-atlas-96.webp",
+                "sha256": "773de112574ec70475e48d1beeb6595692ad190b07ab68796a468f6b81c1e522",
+                "w": 96
+              },
+              {
+                "bytes": 16522,
+                "h": 128,
+                "path": "frames/mask-tile-atlas-128.webp",
+                "sha256": "22a5e85ecdd34fe3133d17cd6cd66f6803e10259ffdbc157efbd37837373b4ab",
+                "w": 128
+              },
+              {
+                "bytes": 33202,
+                "h": 192,
+                "path": "frames/mask-tile-atlas-192.webp",
+                "sha256": "80fa80af506f22decefc9dd099640c9fe9addd5e89f0ae08f9598cfc6914c420",
+                "w": 192
+              },
+              {
+                "bytes": 56340,
+                "h": 256,
+                "path": "frames/mask-tile-atlas-256.webp",
+                "sha256": "27f50aacea2c6b3d5c620fd63862798f66c0eb34a5840d64d4d95e1a78976c4a",
+                "w": 256
+              },
+              {
+                "bytes": 116680,
+                "h": 384,
+                "path": "frames/mask-tile-atlas-384.webp",
+                "sha256": "a40505459950d65ad860846c06a20c13bd20e2913965d7e01e97cb8467843576",
+                "w": 384
+              },
+              {
+                "bytes": 192358,
+                "h": 512,
+                "path": "frames/mask-tile-atlas-512.webp",
+                "sha256": "b6b68083dae5b36f33f48f8ce54dc98e797059b84373717e8b8df12ff00db7f8",
+                "w": 512
+              },
+              {
+                "bytes": 377980,
+                "h": 768,
+                "path": "frames/mask-tile-atlas-768.webp",
+                "sha256": "810537e40ee1e833f51bd0ac1bc4d21463f8b4d4120d116ece83df03dba9c59e",
+                "w": 768
+              },
+              {
+                "bytes": 420292,
+                "h": 830,
+                "path": "frames/mask-tile-atlas-830.webp",
+                "sha256": "dfb0a456d00b733b1b40c44405c5eed9d28cfcf80e32f64e3cb31d102b242116",
+                "w": 830
+              }
+            ]
+          },
+          "corner": "corner",
+          "slice": 32.53
+        },
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3607,
+            "h": 69,
+            "path": "avif/mask-tile-64.avif",
+            "sha256": "9bcabb559f0178c55d8bb13068ec980f8de3084d006137f96cde6c65cd1ee632",
+            "w": 64
+          },
+          {
+            "bytes": 6486,
+            "h": 103,
+            "path": "avif/mask-tile-96.avif",
+            "sha256": "1ad6b6753d57bc6bd8a260438e8fef3339843b71e7f9af3de537898e7bd61a9f",
+            "w": 96
+          },
+          {
+            "bytes": 10111,
+            "h": 137,
+            "path": "avif/mask-tile-128.avif",
+            "sha256": "3a56612493cd099dc66a34a68c0819c5a45d6133506b633b9ce75b9dab8b2700",
+            "w": 128
+          },
+          {
+            "bytes": 18836,
+            "h": 206,
+            "path": "avif/mask-tile-192.avif",
+            "sha256": "a8d067637a1c13f6c6a2556a79c4896265e7e9c27965dcf653d2761061ce0671",
+            "w": 192
+          },
+          {
+            "bytes": 27692,
+            "h": 275,
+            "path": "avif/mask-tile-256.avif",
+            "sha256": "9f3d0d0324f934cd48a5928bfdbab3895d398d91165194bd411c2c3b6e6a1a79",
+            "w": 256
+          },
+          {
+            "bytes": 29796,
+            "h": 290,
+            "path": "avif/mask-tile-270.avif",
+            "sha256": "abba1fed6530780b96d9b4e339f0f832ac82404661da94e783aef839eb1fa187",
+            "w": 270
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 5078,
+            "h": 69,
+            "path": "webp/mask-tile-64.webp",
+            "sha256": "bf5f527f17e4229f7a27b143405e74d185b9a30b370a669294215739fa321a12",
+            "w": 64
+          },
+          {
+            "bytes": 10550,
+            "h": 103,
+            "path": "webp/mask-tile-96.webp",
+            "sha256": "9068945caa8450d4f8f19c7ac231730b016112b59e4dcf16e6a8c05b163a3d88",
+            "w": 96
+          },
+          {
+            "bytes": 17214,
+            "h": 137,
+            "path": "webp/mask-tile-128.webp",
+            "sha256": "8a3c940ed6583d1347c27f34bab7bd358f973d03caaeb2d26a6fa2c1cbe791e2",
+            "w": 128
+          },
+          {
+            "bytes": 34486,
+            "h": 206,
+            "path": "webp/mask-tile-192.webp",
+            "sha256": "0b2afe48e42cffa44f7bc8edac565ef9a2a064257a1e424f3b395f03da84e988",
+            "w": 192
+          },
+          {
+            "bytes": 56114,
+            "h": 275,
+            "path": "webp/mask-tile-256.webp",
+            "sha256": "f3ce37998c524a735200a8ac72ffde2129cc3eaa14650d47a330561138de216c",
+            "w": 256
+          },
+          {
+            "bytes": 59612,
+            "h": 290,
+            "path": "webp/mask-tile-270.webp",
+            "sha256": "9df5a1c9a2c6dc98fcbb479594b7dd1e8fdda065e966067c80542ce907f5d743",
+            "w": 270
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "mask",
+        "crown",
+        "acanthus",
+        "leaf",
+        "scroll",
+        "rosette"
+      ],
+      "thumbhash": "ISmCBQAqM39keZhHdgm6uZCLAkhlh4dYNw==",
+      "title": "Rosselli mask frieze, one repeat",
+      "transparent": true,
+      "type": "border",
+      "usage_notes": [
+        "Cropped from rosselli-mask-strip at one repeat (290 px of the 1400 px strip); interior pixels are unchanged and only a two-pixel collar at the join is averaged.",
+        "The repeat is barely longer than it is thick, so it is not declared as a tile; repeat it with background-repeat along the master's height, or use rosselli-mask-strip for a long run.",
+        "The frame atlas composes this repeat with the corner component; use it with border-image and round fitting. The corner is not a recovered historical motif."
+      ],
+      "width": 270
+    },
+    "roundel-bottom": {
+      "categories": [
+        "botanical",
+        "scrollwork",
+        "floral"
+      ],
+      "colors": [
+        "cream",
+        "tan",
+        "brown"
+      ],
+      "composition": "single-ornament",
+      "description": "The engraved roundel from the lowest of the sheet's four square corner panels, cut to the circle without the panel's ruled square. Inside an egg-and-dart rim a central rosette sits in a fluted boss ringed by a second thin circle; acanthus palmettes with a bud reach out to the four cardinal points, and shell fans with small scrolling leaves fill the four diagonals; dark brown engraved lines over cream and tan interiors, the openings and the surrounding sheet transparent.",
+      "display_width": [
+        120,
+        500
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 86219,
+        "webpTopBytes": 163368
+      },
+      "facing": "none",
+      "group": null,
+      "height": 603,
+      "master": {
+        "bytes": 481222,
+        "h": 603,
+        "path": "masters/roundel-bottom.webp",
+        "sha256": "ca92e1a6e0dda60184f62cf9e9ffa59b77948dbc115860ebe745fd912c04e2d3",
+        "w": 620
+      },
+      "palette": [
+        "#b8a78f",
+        "#a3937d",
+        "#ac9a84",
+        "#92826e",
+        "#9c8c77"
+      ],
+      "provenance": {
+        "artist": "Francesco Rosselli",
+        "date": "1490-1500",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP833949.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "29.16.3",
+        "object_title": "Sheet of border segments: vertical floral ornament, horizontal frieze, four corners",
+        "record_url": "https://www.metmuseum.org/art/collection/search/356741",
+        "rights_text": "Public Domain",
+        "rights_url": "https://www.metmuseum.org/art/collection/search/356741",
+        "source_sha256": "98d28d964a4d99da22c8195476ad3c632a032b850f3ee3efe3ef019515dd88f8"
+      },
+      "related": [
+        {
+          "asset": "met-356741/roundel-top",
+          "role": "variant"
+        },
+        {
+          "asset": "met-356741/roundel-second",
+          "role": "variant"
+        },
+        {
+          "asset": "met-356741/roundel-third",
+          "role": "variant"
+        },
+        {
+          "asset": "met-356741/foliate-strip",
+          "role": "companion"
+        },
+        {
+          "asset": "met-356741/mask-strip",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2917,
+            "h": 62,
+            "path": "avif/roundel-bottom-64.avif",
+            "sha256": "59e5fe07ac565b893497ec60e9a6c80af2e226f60066e9f329e93b13aac81898",
+            "w": 64
+          },
+          {
+            "bytes": 5028,
+            "h": 93,
+            "path": "avif/roundel-bottom-96.avif",
+            "sha256": "5813f2f892d2a578f80f05fec927b2037e9528b9e175ee4f2e7e56b11b7138b0",
+            "w": 96
+          },
+          {
+            "bytes": 7725,
+            "h": 124,
+            "path": "avif/roundel-bottom-128.avif",
+            "sha256": "150bfc4edbc5f5ff11857533a4db0048a1020d774ed5390952932fcb89443f1f",
+            "w": 128
+          },
+          {
+            "bytes": 14288,
+            "h": 187,
+            "path": "avif/roundel-bottom-192.avif",
+            "sha256": "6cfa3b01678095f52c400f6c6e08fdba762a6c3e8ec217af3a509e1cb76ddd23",
+            "w": 192
+          },
+          {
+            "bytes": 22681,
+            "h": 249,
+            "path": "avif/roundel-bottom-256.avif",
+            "sha256": "1f6181782c8485487ff7a0eb72dc3976d1e581acbc4da43bf9a560e6c67c02c7",
+            "w": 256
+          },
+          {
+            "bytes": 41358,
+            "h": 373,
+            "path": "avif/roundel-bottom-384.avif",
+            "sha256": "d288554bffc6313ff95242077897fa44a2f946b53b19d9bcb4491111e502875a",
+            "w": 384
+          },
+          {
+            "bytes": 63580,
+            "h": 498,
+            "path": "avif/roundel-bottom-512.avif",
+            "sha256": "dc82e26b857597e893d8163ddbac8f9e7f7ff0833952a825a560aad14defb38e",
+            "w": 512
+          },
+          {
+            "bytes": 86219,
+            "h": 603,
+            "path": "avif/roundel-bottom-620.avif",
+            "sha256": "267eaea7cac6bfb21f0b754a825185694dcfc930e30c1e8bd1f36e30d9e3aca9",
+            "w": 620
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4032,
+            "h": 62,
+            "path": "webp/roundel-bottom-64.webp",
+            "sha256": "e800a976f9e425394339676c7f9cb57feb07994b7af5cf13c393c6d91a76230f",
+            "w": 64
+          },
+          {
+            "bytes": 7822,
+            "h": 93,
+            "path": "webp/roundel-bottom-96.webp",
+            "sha256": "e432109a21676db9387fc6c896b4d470fe652164760ad0b2142be562a199416e",
+            "w": 96
+          },
+          {
+            "bytes": 12546,
+            "h": 124,
+            "path": "webp/roundel-bottom-128.webp",
+            "sha256": "9e8aca0f98d63f9a15c5c3251c474689771d746fe0792257711343e4074052f7",
+            "w": 128
+          },
+          {
+            "bytes": 24314,
+            "h": 187,
+            "path": "webp/roundel-bottom-192.webp",
+            "sha256": "438bb296435191282210ebfc8e461951098ff8ba464fef38026cd37e4bc55ab2",
+            "w": 192
+          },
+          {
+            "bytes": 39084,
+            "h": 249,
+            "path": "webp/roundel-bottom-256.webp",
+            "sha256": "d695a2e818cc2c9865558efb3e8819545c9454b89993afddc0da72cca9b30af5",
+            "w": 256
+          },
+          {
+            "bytes": 74486,
+            "h": 373,
+            "path": "webp/roundel-bottom-384.webp",
+            "sha256": "e7dcd997c5fe3d4a0829c78e4d12a4ea17364181739f542332d5d01b895c93a1",
+            "w": 384
+          },
+          {
+            "bytes": 119804,
+            "h": 498,
+            "path": "webp/roundel-bottom-512.webp",
+            "sha256": "5b7d3fad23ffec82b90e434e7a600066b748ad0e0fd5c0324c938d0a2e3af93f",
+            "w": 512
+          },
+          {
+            "bytes": 163368,
+            "h": 603,
+            "path": "webp/roundel-bottom-620.webp",
+            "sha256": "e2972584fb864cd62b3e577b24e0ab0285c1a6ac00748c09317320d62cc0bf2b",
+            "w": 620
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "medallion",
+        "rosette",
+        "acanthus",
+        "scroll",
+        "leaf"
+      ],
+      "thumbhash": "5CiCBYApi6Z5hXYIuPOjax/pCGd3d4CGZw==",
+      "title": "Rosselli roundel, palmettes and inner ring",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "One of the four corner roundels of the sheet's page-frame scheme; the four are interchangeable and read as a set at the corners of a frame made from the two strips.",
+        "Closest to rosselli-roundel-top, which lacks the inner ring."
+      ],
+      "width": 620
+    },
+    "roundel-second": {
+      "categories": [
+        "botanical",
+        "scrollwork",
+        "floral",
+        "humans"
+      ],
+      "colors": [
+        "cream",
+        "tan",
+        "brown"
+      ],
+      "composition": "single-ornament",
+      "description": "The engraved roundel from the second of the sheet's four square corner panels, cut to the circle without the panel's ruled square. Inside an egg-and-dart rim a central rosette sits in a fluted boss; at the four cardinal points a shell-topped cup holds a small human mask over paired C-scrolls, and tufts of acanthus leaves tied with a band fill the four diagonals; dark brown engraved lines over cream and tan interiors, the openings and the surrounding sheet transparent.",
+      "display_width": [
+        120,
+        500
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 94718,
+        "webpTopBytes": 173076
+      },
+      "facing": "none",
+      "group": null,
+      "height": 614,
+      "master": {
+        "bytes": 486680,
+        "h": 614,
+        "path": "masters/roundel-second.webp",
+        "sha256": "a744354516d8a91507c7fbd814bfcf15c8f41c15bfdd9847560a7d66977b4e37",
+        "w": 620
+      },
+      "palette": [
+        "#9f8f7b",
+        "#a89882",
+        "#918371",
+        "#beab92",
+        "#b19f88"
+      ],
+      "provenance": {
+        "artist": "Francesco Rosselli",
+        "date": "1490-1500",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP833949.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "29.16.3",
+        "object_title": "Sheet of border segments: vertical floral ornament, horizontal frieze, four corners",
+        "record_url": "https://www.metmuseum.org/art/collection/search/356741",
+        "rights_text": "Public Domain",
+        "rights_url": "https://www.metmuseum.org/art/collection/search/356741",
+        "source_sha256": "98d28d964a4d99da22c8195476ad3c632a032b850f3ee3efe3ef019515dd88f8"
+      },
+      "related": [
+        {
+          "asset": "met-356741/roundel-top",
+          "role": "variant"
+        },
+        {
+          "asset": "met-356741/roundel-third",
+          "role": "variant"
+        },
+        {
+          "asset": "met-356741/roundel-bottom",
+          "role": "variant"
+        },
+        {
+          "asset": "met-356741/foliate-strip",
+          "role": "companion"
+        },
+        {
+          "asset": "met-356741/mask-strip",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3033,
+            "h": 63,
+            "path": "avif/roundel-second-64.avif",
+            "sha256": "747ed0957e42962b84d0283212d48ccee48b0a55762eae29fa34353645be93db",
+            "w": 64
+          },
+          {
+            "bytes": 5519,
+            "h": 95,
+            "path": "avif/roundel-second-96.avif",
+            "sha256": "6120be5c078662edb82c9984437c5d41eaaad64660142c5e4f24c999b312d91d",
+            "w": 96
+          },
+          {
+            "bytes": 8502,
+            "h": 127,
+            "path": "avif/roundel-second-128.avif",
+            "sha256": "e4a3bc620cef39cf9c0fa4862c12d218d0a5a2e307885e9131bb4f0de811adc0",
+            "w": 128
+          },
+          {
+            "bytes": 15328,
+            "h": 190,
+            "path": "avif/roundel-second-192.avif",
+            "sha256": "83815196c427c1e96ac00de33c37df36e6ae6abc7138fd115ae50a24afd548ec",
+            "w": 192
+          },
+          {
+            "bytes": 24234,
+            "h": 254,
+            "path": "avif/roundel-second-256.avif",
+            "sha256": "b16c70cdc2b662d9bb5db276c9ede0869228a44ae0a4b3962b547e9124890988",
+            "w": 256
+          },
+          {
+            "bytes": 44700,
+            "h": 380,
+            "path": "avif/roundel-second-384.avif",
+            "sha256": "8bd16153827625f6fde0b86ee63f8455babccf07031576c4ab8d6381f8084a1d",
+            "w": 384
+          },
+          {
+            "bytes": 69554,
+            "h": 507,
+            "path": "avif/roundel-second-512.avif",
+            "sha256": "4ed0af9c291349fb230f4295d5ed0ef9f5f57fd6037965ece84bef13d55dad68",
+            "w": 512
+          },
+          {
+            "bytes": 94718,
+            "h": 614,
+            "path": "avif/roundel-second-620.avif",
+            "sha256": "1b61f598df6682bd18ae259774259eb796067e4f1fd22fd222632faef9a0cafa",
+            "w": 620
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4184,
+            "h": 63,
+            "path": "webp/roundel-second-64.webp",
+            "sha256": "4ff397d023523604cd93129cd8c66db88ef315e1788ef9620fe31a73427acd2c",
+            "w": 64
+          },
+          {
+            "bytes": 8376,
+            "h": 95,
+            "path": "webp/roundel-second-96.webp",
+            "sha256": "1c06675066cb4b1d8749b47f1c89ef5d671f225304aeab4c0202a48f8d06f4c2",
+            "w": 96
+          },
+          {
+            "bytes": 13188,
+            "h": 127,
+            "path": "webp/roundel-second-128.webp",
+            "sha256": "26387a0939902c83719ecfed016f057fe65e1557b538a872d7499df3e2d77577",
+            "w": 128
+          },
+          {
+            "bytes": 25614,
+            "h": 190,
+            "path": "webp/roundel-second-192.webp",
+            "sha256": "64b72c244c033716f5acbc873cde00c3f199ffe4b2b19690d75801a92e66126b",
+            "w": 192
+          },
+          {
+            "bytes": 41104,
+            "h": 254,
+            "path": "webp/roundel-second-256.webp",
+            "sha256": "d6395d2bf3726dccb7be39f454c686d367976cd6c00fc9a33ce217cac62326b1",
+            "w": 256
+          },
+          {
+            "bytes": 79406,
+            "h": 380,
+            "path": "webp/roundel-second-384.webp",
+            "sha256": "5207ca439d33d35541a071d3fdc80064295502177eba6cd9063d4d9ebf672216",
+            "w": 384
+          },
+          {
+            "bytes": 130128,
+            "h": 507,
+            "path": "webp/roundel-second-512.webp",
+            "sha256": "ebafdd38d0e780ac7607c05774da2c68be4cbfc6a45e282e5f654e94b4d2cc49",
+            "w": 512
+          },
+          {
+            "bytes": 173076,
+            "h": 614,
+            "path": "webp/roundel-second-620.webp",
+            "sha256": "f0cf77eba895a1f44b5f43a0e32a76ee028becca16f6869b2074c4083ccb8fca",
+            "w": 620
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "medallion",
+        "rosette",
+        "mask",
+        "acanthus",
+        "scroll",
+        "leaf"
+      ],
+      "thumbhash": "5BiCBYAp+mZohlcYiMCFC1zpB3d3h4B2eA==",
+      "title": "Rosselli roundel, masks and leaf tufts",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "One of the four corner roundels of the sheet's page-frame scheme; the four are interchangeable and read as a set at the corners of a frame made from the two strips."
+      ],
+      "width": 620
+    },
+    "roundel-third": {
+      "categories": [
+        "botanical",
+        "scrollwork",
+        "floral"
+      ],
+      "colors": [
+        "cream",
+        "tan",
+        "brown"
+      ],
+      "composition": "single-ornament",
+      "description": "The engraved roundel from the third of the sheet's four square corner panels, cut to the circle without the panel's ruled square. Inside an egg-and-dart rim a central rosette sits in a fluted boss; at the four cardinal points a fluted shell-topped cup with a small acanthus bud stands over paired C-scrolls, and tufts of acanthus leaves tied with a band fill the four diagonals; dark brown engraved lines over cream and tan interiors, the openings and the surrounding sheet transparent.",
+      "display_width": [
+        120,
+        500
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 95554,
+        "webpTopBytes": 180666
+      },
+      "facing": "none",
+      "group": null,
+      "height": 613,
+      "master": {
+        "bytes": 508420,
+        "h": 613,
+        "path": "masters/roundel-third.webp",
+        "sha256": "edd8c2f7a6968dce243edb0554fb27595a5f69a57cb73810903e334b099ee505",
+        "w": 620
+      },
+      "palette": [
+        "#bba78c",
+        "#a6937a",
+        "#ae9a81",
+        "#95846e",
+        "#9f8d75"
+      ],
+      "provenance": {
+        "artist": "Francesco Rosselli",
+        "date": "1490-1500",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP833949.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "29.16.3",
+        "object_title": "Sheet of border segments: vertical floral ornament, horizontal frieze, four corners",
+        "record_url": "https://www.metmuseum.org/art/collection/search/356741",
+        "rights_text": "Public Domain",
+        "rights_url": "https://www.metmuseum.org/art/collection/search/356741",
+        "source_sha256": "98d28d964a4d99da22c8195476ad3c632a032b850f3ee3efe3ef019515dd88f8"
+      },
+      "related": [
+        {
+          "asset": "met-356741/roundel-top",
+          "role": "variant"
+        },
+        {
+          "asset": "met-356741/roundel-second",
+          "role": "variant"
+        },
+        {
+          "asset": "met-356741/roundel-bottom",
+          "role": "variant"
+        },
+        {
+          "asset": "met-356741/foliate-strip",
+          "role": "companion"
+        },
+        {
+          "asset": "met-356741/mask-strip",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3037,
+            "h": 63,
+            "path": "avif/roundel-third-64.avif",
+            "sha256": "27369752436cd668d175b76533249e897a4d9dba26be59028043d8bc0e9c995d",
+            "w": 64
+          },
+          {
+            "bytes": 5538,
+            "h": 95,
+            "path": "avif/roundel-third-96.avif",
+            "sha256": "aa83405a29625ae3fd25f87ce8319e4ee11b002cda115042acbb2dfacfd2c017",
+            "w": 96
+          },
+          {
+            "bytes": 8631,
+            "h": 127,
+            "path": "avif/roundel-third-128.avif",
+            "sha256": "ff8240c239ab5ffc99d611db56c2ae801bca9cca3da95f38c7a71a78f2cceb4f",
+            "w": 128
+          },
+          {
+            "bytes": 15387,
+            "h": 190,
+            "path": "avif/roundel-third-192.avif",
+            "sha256": "495204751c114275b5023157209e8dd825258e9587be733f7e80d439fd1f7dda",
+            "w": 192
+          },
+          {
+            "bytes": 24018,
+            "h": 253,
+            "path": "avif/roundel-third-256.avif",
+            "sha256": "aec9042fa94bc8dfede60a6773db7935e6b8a7bab4e967c5a9218c81f1288d3e",
+            "w": 256
+          },
+          {
+            "bytes": 44708,
+            "h": 380,
+            "path": "avif/roundel-third-384.avif",
+            "sha256": "7441d0cf8bb51cdf48f9ef86a66dc46b2d47e66fe4294f75b7d0906936dd7a81",
+            "w": 384
+          },
+          {
+            "bytes": 69815,
+            "h": 506,
+            "path": "avif/roundel-third-512.avif",
+            "sha256": "f7887bb67f52108a006c18a76f107a5f3b2fa2ab8ec67395370661365c87b83d",
+            "w": 512
+          },
+          {
+            "bytes": 95554,
+            "h": 613,
+            "path": "avif/roundel-third-620.avif",
+            "sha256": "e522f32638eb8393ba59a685940608613028653f5b0eac313638bd9933332d1c",
+            "w": 620
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4190,
+            "h": 63,
+            "path": "webp/roundel-third-64.webp",
+            "sha256": "75d474fef24c32ec4365fef07bea55fc48df16002733b137897bf010de9090f4",
+            "w": 64
+          },
+          {
+            "bytes": 8278,
+            "h": 95,
+            "path": "webp/roundel-third-96.webp",
+            "sha256": "f7ac5426e71cc026bd982f68b154c37c119a69f94973e78d49af09dd74a88491",
+            "w": 96
+          },
+          {
+            "bytes": 13548,
+            "h": 127,
+            "path": "webp/roundel-third-128.webp",
+            "sha256": "403a0c7305a40eda1d372fab643408cbfa20d90268f68999ae2a2def6b0ddd82",
+            "w": 128
+          },
+          {
+            "bytes": 25472,
+            "h": 190,
+            "path": "webp/roundel-third-192.webp",
+            "sha256": "f71745a3603b23c586064e75bc20bfdc902e3e461774f162a955a9359e979832",
+            "w": 192
+          },
+          {
+            "bytes": 41018,
+            "h": 253,
+            "path": "webp/roundel-third-256.webp",
+            "sha256": "a747e560c76e1bbe97b6a52b4b479d1567fe06658660311eb4558ab6599d9848",
+            "w": 256
+          },
+          {
+            "bytes": 79966,
+            "h": 380,
+            "path": "webp/roundel-third-384.webp",
+            "sha256": "35a6531c67fe57de2a889b331dce55e7bc57ccca4ee67169cc292cdfc2a308aa",
+            "w": 384
+          },
+          {
+            "bytes": 131104,
+            "h": 506,
+            "path": "webp/roundel-third-512.webp",
+            "sha256": "ac4250474b137e51811404f2c960b933d317e57d6d58ae08ef0fdfb4b00ff9df",
+            "w": 512
+          },
+          {
+            "bytes": 180666,
+            "h": 613,
+            "path": "webp/roundel-third-620.webp",
+            "sha256": "4da800c4e66b9f27a25799c70ba0736c0504513c178466188f9a64b296591037",
+            "w": 620
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "medallion",
+        "rosette",
+        "acanthus",
+        "scroll",
+        "leaf"
+      ],
+      "thumbhash": "JCmCBYAp92RXhnk3efRXKT+WCHd3d3CFdw==",
+      "title": "Rosselli roundel, fluted cups and leaf tufts",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "One of the four corner roundels of the sheet's page-frame scheme; the four are interchangeable and read as a set at the corners of a frame made from the two strips.",
+        "Closest to rosselli-roundel-second, which has masks in the cardinal cups instead of buds."
+      ],
+      "width": 620
+    },
+    "roundel-top": {
+      "categories": [
+        "botanical",
+        "scrollwork",
+        "floral"
+      ],
+      "colors": [
+        "cream",
+        "tan",
+        "brown"
+      ],
+      "composition": "single-ornament",
+      "description": "The engraved roundel from the topmost of the sheet's four square corner panels, cut to the circle without the panel's ruled square. Inside an egg-and-dart rim a central rosette sits in a fluted boss, acanthus palmettes with a bud reach out to the four cardinal points, and shell fans flanked by C-scrolls fill the four diagonals; dark brown engraved lines over cream and tan interiors, the openings and the surrounding sheet transparent.",
+      "display_width": [
+        120,
+        500
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 102484,
+        "webpTopBytes": 188594
+      },
+      "facing": "none",
+      "group": null,
+      "height": 612,
+      "master": {
+        "bytes": 507656,
+        "h": 612,
+        "path": "masters/roundel-top.webp",
+        "sha256": "cc1a8fad76df6041457c55fcdac7b1b3e4e636a0805f94102fd7340b7cebdb0d",
+        "w": 620
+      },
+      "palette": [
+        "#93816b",
+        "#a08d77",
+        "#a9967e",
+        "#beaa90",
+        "#b19d85"
+      ],
+      "provenance": {
+        "artist": "Francesco Rosselli",
+        "date": "1490-1500",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP833949.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "29.16.3",
+        "object_title": "Sheet of border segments: vertical floral ornament, horizontal frieze, four corners",
+        "record_url": "https://www.metmuseum.org/art/collection/search/356741",
+        "rights_text": "Public Domain",
+        "rights_url": "https://www.metmuseum.org/art/collection/search/356741",
+        "source_sha256": "98d28d964a4d99da22c8195476ad3c632a032b850f3ee3efe3ef019515dd88f8"
+      },
+      "related": [
+        {
+          "asset": "met-356741/roundel-second",
+          "role": "variant"
+        },
+        {
+          "asset": "met-356741/roundel-third",
+          "role": "variant"
+        },
+        {
+          "asset": "met-356741/roundel-bottom",
+          "role": "variant"
+        },
+        {
+          "asset": "met-356741/foliate-strip",
+          "role": "companion"
+        },
+        {
+          "asset": "met-356741/mask-strip",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3252,
+            "h": 63,
+            "path": "avif/roundel-top-64.avif",
+            "sha256": "0bd668d2a575a30a0efc5fd2a1af6620a9152ee88f9fe39ded528f86a8b5ab26",
+            "w": 64
+          },
+          {
+            "bytes": 6159,
+            "h": 95,
+            "path": "avif/roundel-top-96.avif",
+            "sha256": "8cbd04247fef002fadc202ac0406576473b2ac18da31e69b160f5b7ad48cd42e",
+            "w": 96
+          },
+          {
+            "bytes": 9278,
+            "h": 126,
+            "path": "avif/roundel-top-128.avif",
+            "sha256": "d8f615884ab1e85190684b85fc0605cad8ba8112765dee65fe8680bcbfcd25ed",
+            "w": 128
+          },
+          {
+            "bytes": 16430,
+            "h": 190,
+            "path": "avif/roundel-top-192.avif",
+            "sha256": "9f445bf4d72003fbfeefcbc7c6418f0fa0113a84252efeab3e4e2b5ea2e80b1c",
+            "w": 192
+          },
+          {
+            "bytes": 25847,
+            "h": 253,
+            "path": "avif/roundel-top-256.avif",
+            "sha256": "5aa890200247b461d2816108cdf533e1351a7f629ebebace5dcfdaaf56fedf96",
+            "w": 256
+          },
+          {
+            "bytes": 48293,
+            "h": 379,
+            "path": "avif/roundel-top-384.avif",
+            "sha256": "3440595c939ba62f6faed0da9e0465cee58315b7bb6ea020d7a54b633bbbfa9d",
+            "w": 384
+          },
+          {
+            "bytes": 75884,
+            "h": 505,
+            "path": "avif/roundel-top-512.avif",
+            "sha256": "0194386051e2ac1e8d8f0bb71991b2bb686f839073ec1504f4485fbee40fedfc",
+            "w": 512
+          },
+          {
+            "bytes": 102484,
+            "h": 612,
+            "path": "avif/roundel-top-620.avif",
+            "sha256": "f18b4eb22f094dd8046c13fac79fa0d5ddaabffa8ef47ba31f343ef26c363e59",
+            "w": 620
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4406,
+            "h": 63,
+            "path": "webp/roundel-top-64.webp",
+            "sha256": "45f0d51b6ba633fc76ffa1d0fb090fb2b54425e72bd84d5c8db1f1d3be53ebc0",
+            "w": 64
+          },
+          {
+            "bytes": 8914,
+            "h": 95,
+            "path": "webp/roundel-top-96.webp",
+            "sha256": "31ceef01c33ea448673dd05fff592b3970a95e81bd7ec7181750a9d435c6627e",
+            "w": 96
+          },
+          {
+            "bytes": 14448,
+            "h": 126,
+            "path": "webp/roundel-top-128.webp",
+            "sha256": "eff44d2e8c5ae30e1ee8704efc60ef5c40471b8f9c08fb5d1d48f5a07abc8995",
+            "w": 128
+          },
+          {
+            "bytes": 27728,
+            "h": 190,
+            "path": "webp/roundel-top-192.webp",
+            "sha256": "04fe2f197214676b8f26e76f7cfbc5b7948463f9481eabdb7d8fa9e43d30d113",
+            "w": 192
+          },
+          {
+            "bytes": 43762,
+            "h": 253,
+            "path": "webp/roundel-top-256.webp",
+            "sha256": "9b1d6d7366c15012f0526a39a71ee39ee1960ea8085cc1e0e588871bc1b54019",
+            "w": 256
+          },
+          {
+            "bytes": 84744,
+            "h": 379,
+            "path": "webp/roundel-top-384.webp",
+            "sha256": "1ffbaf9b93d51694fbe061cb572724d7f6ecbbace13449bbd32161847b1a0590",
+            "w": 384
+          },
+          {
+            "bytes": 138482,
+            "h": 505,
+            "path": "webp/roundel-top-512.webp",
+            "sha256": "5f3a8e10538ca2c08b7bde734b5e1f6fd84e75b3d77316cfa7b709c587050f62",
+            "w": 512
+          },
+          {
+            "bytes": 188594,
+            "h": 612,
+            "path": "webp/roundel-top-620.webp",
+            "sha256": "caf933ee9e25ad69e787816c41c61372427772c0d1236fd32c97d0b3228a8738",
+            "w": 620
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "medallion",
+        "rosette",
+        "acanthus",
+        "scroll",
+        "leaf"
+      ],
+      "thumbhash": "IymCBYApaciKdnVK+PiHhD84B3h4eIB2eA==",
+      "title": "Rosselli roundel, palmettes and shells",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "One of the four corner roundels of the sheet's page-frame scheme; the four are interchangeable and read as a set at the corners of a frame made from the two strips."
+      ],
+      "width": 620
+    }
+  },
+  "attribution": "Metropolitan Museum of Art 29.16.3",
+  "builtAt": "2026-10-28T16:14:21.158Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-met-356741@1.0.0/",
+  "contentHash": "sha256:8c376fae0b9d41bf0291852c4722c0c408871c2b9b7b7de2420ab87d5a97ef63",
+  "inputsHash": "sha256:e2233c00b71a6a665c4613e5293b82b9ed68da2a5ac8ef43a96457d46c6a6b1c",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from a Metropolitan Museum of Art Open Access (CC0) image; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-met-356741-masters",
+  "package": "@ranx729/ducktape-assets-met-356741",
+  "period": "1490–1500",
+  "region": "Florence, Italy",
+  "schema": 1,
+  "set": "met-356741",
+  "style": "early Renaissance engraving",
+  "summary": "Border strips, corners and roundels cut from one engraved sheet of border segments by Francesco Rosselli (Florence, 1490–1500) in the Metropolitan Museum of Art, accession 29.16.3; the strips tile and the corners compose into frames.",
+  "title": "Rosselli border sheet",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

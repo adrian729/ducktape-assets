@@ -1,0 +1,2843 @@
+{
+  "assets": {
+    "bearded-winged-masks-with-curled-leaf-scroll": {
+      "attribution": "Metropolitan Museum of Art 2012.136.734",
+      "categories": [
+        "fantasy",
+        "scrollwork",
+        "botanical"
+      ],
+      "colors": [
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A horizontal etched frieze between double rules. At the left end a round bearded mask with feathered wings behind it faces left; at the right end a second winged bearded mask faces right. Between them run two large curled acanthus volutes, a folded leaf cup at the centre and two trumpet-shaped bell flowers hanging on stalks, all joined by one stem. Dark brown ink line work on a transparent background.",
+      "display_width": [
+        600,
+        1200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 180897,
+        "webpTopBytes": 377484
+      },
+      "facing": "mixed",
+      "group": "2012-136-734",
+      "height": 362,
+      "master": {
+        "bytes": 500114,
+        "h": 309,
+        "path": "masters/bearded-winged-masks-with-curled-leaf-scroll.webp",
+        "sha256": "0b4b3f45822b0df18ff8c51e60b44148ba31f0b48a4866c76de7e504ea1fbbf8",
+        "w": 2048
+      },
+      "palette": [
+        "#40382f",
+        "#3f372e",
+        "#3f372f",
+        "#3f382f"
+      ],
+      "provenance": {
+        "artist": "Daniel Hopfer",
+        "date": "ca. 1515",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP828584.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "2012.136.734",
+        "object_title": "Designs for Ten Decorative Friezes",
+        "record_url": "https://www.metmuseum.org/art/collection/search/399648",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "60fd4669a32dd1cc0c1acbe0e532bd8bc6db16e2c722c0a2f258ca8bc76df1cc"
+      },
+      "quality": "The rules are hand-printed and slightly uneven; short faint stretches of them were completed from neighbouring ink.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 898,
+            "h": 10,
+            "path": "avif/bearded-winged-masks-with-curled-leaf-scroll-64.avif",
+            "sha256": "954c9d0e42e49a978b822ba6f3db8d4a62fe2e0eeb8f2deb3c3a9226b9745fcf",
+            "w": 64
+          },
+          {
+            "bytes": 1280,
+            "h": 14,
+            "path": "avif/bearded-winged-masks-with-curled-leaf-scroll-96.avif",
+            "sha256": "b944041f79cda3b5b5b9e44387dc88d09da54d5bf792526996581ed7615952ca",
+            "w": 96
+          },
+          {
+            "bytes": 1903,
+            "h": 19,
+            "path": "avif/bearded-winged-masks-with-curled-leaf-scroll-128.avif",
+            "sha256": "844811dfd3e8ccaec4fe3e84864f0571b88f47e5649709af38ac73ac0c7b1137",
+            "w": 128
+          },
+          {
+            "bytes": 3609,
+            "h": 29,
+            "path": "avif/bearded-winged-masks-with-curled-leaf-scroll-192.avif",
+            "sha256": "e98d0742cbb2513079bfdac0810c2bcbf778e96110690cdf23c5509eae3915ca",
+            "w": 192
+          },
+          {
+            "bytes": 5918,
+            "h": 39,
+            "path": "avif/bearded-winged-masks-with-curled-leaf-scroll-256.avif",
+            "sha256": "29ec7bbe84df23b5cf426355add6ccf73a8c7fb39fc73dfde683e1ee6f47b078",
+            "w": 256
+          },
+          {
+            "bytes": 12077,
+            "h": 58,
+            "path": "avif/bearded-winged-masks-with-curled-leaf-scroll-384.avif",
+            "sha256": "791a029dfea160cb738574dab0d632a861427ed83fa97ec5a632afae00fe6788",
+            "w": 384
+          },
+          {
+            "bytes": 20585,
+            "h": 77,
+            "path": "avif/bearded-winged-masks-with-curled-leaf-scroll-512.avif",
+            "sha256": "55531193bb235dc5138c300a5774e8877a87461bfe97ce2dd0997605af391cf9",
+            "w": 512
+          },
+          {
+            "bytes": 40168,
+            "h": 116,
+            "path": "avif/bearded-winged-masks-with-curled-leaf-scroll-768.avif",
+            "sha256": "3ad4748207eb5a71e502eca0a981f27b4771abe1d5569484632b4ea402351e08",
+            "w": 768
+          },
+          {
+            "bytes": 64223,
+            "h": 155,
+            "path": "avif/bearded-winged-masks-with-curled-leaf-scroll-1024.avif",
+            "sha256": "60ec3cc0aa070f5c2181ab5058cdfeab6f22952671d1464b800bcbf8cba0e99b",
+            "w": 1024
+          },
+          {
+            "bytes": 118981,
+            "h": 232,
+            "path": "avif/bearded-winged-masks-with-curled-leaf-scroll-1536.avif",
+            "sha256": "eec77891b3a59a4f92e92198286b1f1e6016ef94686dd35a45c1758b23530b1d",
+            "w": 1536
+          },
+          {
+            "bytes": 180897,
+            "h": 309,
+            "path": "avif/bearded-winged-masks-with-curled-leaf-scroll-2048.avif",
+            "sha256": "8932268fc4999c455ffac958b23ef07bb8d0a79f2ae50a07955d07df534e16b9",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 794,
+            "h": 10,
+            "path": "webp/bearded-winged-masks-with-curled-leaf-scroll-64.webp",
+            "sha256": "92c654769ca7c7b5dfde2aac04e7c3ebbf47b121d7a491851f435a2d4e20b8a6",
+            "w": 64
+          },
+          {
+            "bytes": 1448,
+            "h": 14,
+            "path": "webp/bearded-winged-masks-with-curled-leaf-scroll-96.webp",
+            "sha256": "262b655b50866741cd82a3fa412b531ee9508b95de5f5427441e80eba2ebf8ae",
+            "w": 96
+          },
+          {
+            "bytes": 3038,
+            "h": 19,
+            "path": "webp/bearded-winged-masks-with-curled-leaf-scroll-128.webp",
+            "sha256": "6221be08ca61cdc752ffd9aa36dc493293091b298bbb898577920c7d1c031b59",
+            "w": 128
+          },
+          {
+            "bytes": 5676,
+            "h": 29,
+            "path": "webp/bearded-winged-masks-with-curled-leaf-scroll-192.webp",
+            "sha256": "dbfdf1c3dbe0953f9f743540448c539ecd571f3b895d87271358e3238140c5f9",
+            "w": 192
+          },
+          {
+            "bytes": 10312,
+            "h": 39,
+            "path": "webp/bearded-winged-masks-with-curled-leaf-scroll-256.webp",
+            "sha256": "defc7815689f2c4742355a48a1790be894d37992386d473ad0b953f482fcfae4",
+            "w": 256
+          },
+          {
+            "bytes": 21278,
+            "h": 58,
+            "path": "webp/bearded-winged-masks-with-curled-leaf-scroll-384.webp",
+            "sha256": "7817d128a67e21cfcb43df9039eb021674d98fcd573f12b85e593cce2d783eab",
+            "w": 384
+          },
+          {
+            "bytes": 35180,
+            "h": 77,
+            "path": "webp/bearded-winged-masks-with-curled-leaf-scroll-512.webp",
+            "sha256": "db293491060dc9b2627a6321e36f84eabe0d432e5759d73b5d4de71b92deb293",
+            "w": 512
+          },
+          {
+            "bytes": 72376,
+            "h": 116,
+            "path": "webp/bearded-winged-masks-with-curled-leaf-scroll-768.webp",
+            "sha256": "77d6853fda43a21135281a5798c001b662db010a42e55dcd1e266d803cca35c0",
+            "w": 768
+          },
+          {
+            "bytes": 119482,
+            "h": 155,
+            "path": "webp/bearded-winged-masks-with-curled-leaf-scroll-1024.webp",
+            "sha256": "2f0d1cf4eb33c291b3c8924b8aa5b1a2030de6330c26fe7dff42bb7fb7296cc6",
+            "w": 1024
+          },
+          {
+            "bytes": 234092,
+            "h": 232,
+            "path": "webp/bearded-winged-masks-with-curled-leaf-scroll-1536.webp",
+            "sha256": "cf1bbc9ce44159081961c93abe13dcf1cb1e068bdd466c647af460d474687572",
+            "w": 1536
+          },
+          {
+            "bytes": 377484,
+            "h": 309,
+            "path": "webp/bearded-winged-masks-with-curled-leaf-scroll-2048.webp",
+            "sha256": "85bded43c045bba48d579ef04c92c1104137a63ba04386d3f5e856e3a65cf549",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "frieze",
+        "mask",
+        "beard",
+        "wings",
+        "acanthus",
+        "leaf",
+        "flower",
+        "scroll",
+        "rule"
+      ],
+      "thumbhash": "ThiCAYAUiGeEiYBU4Kj3Z3d4h4iAlzc=",
+      "title": "Frieze with two winged bearded masks",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Complete band; the double rules above and below are part of the print, so crop inside them to use the masks and scroll alone.",
+        "Both ends terminate in a mask, so it does not repeat; use it once as a header or footer band."
+      ],
+      "width": 2398
+    },
+    "grape-and-lobed-leaf-scroll-with-central-tie": {
+      "attribution": "Metropolitan Museum of Art 2012.136.734",
+      "categories": [
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A horizontal etched frieze between double rules. A single vine stem runs the whole length and is knotted into a loop at the centre; along it hang four large lobed vine leaves, two bunches of grapes (one left of centre, one right of centre) and curling tendrils with small buds. Dark brown ink line work on a transparent background.",
+      "display_width": [
+        600,
+        1200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 181687,
+        "webpTopBytes": 367934
+      },
+      "facing": "none",
+      "group": "2012-136-734",
+      "height": 349,
+      "master": {
+        "bytes": 500814,
+        "h": 298,
+        "path": "masters/grape-and-lobed-leaf-scroll-with-central-tie.webp",
+        "sha256": "ff21c771b8f61299a85207ec67baaeba1c3afcdd7ed0494de985fd072edef538",
+        "w": 2048
+      },
+      "palette": [
+        "#3f382f",
+        "#40382e",
+        "#40382f",
+        "#3f372f",
+        "#3f372e"
+      ],
+      "provenance": {
+        "artist": "Daniel Hopfer",
+        "date": "ca. 1515",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP828584.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "2012.136.734",
+        "object_title": "Designs for Ten Decorative Friezes",
+        "record_url": "https://www.metmuseum.org/art/collection/search/399648",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "60fd4669a32dd1cc0c1acbe0e532bd8bc6db16e2c722c0a2f258ca8bc76df1cc"
+      },
+      "quality": "The rules are hand-printed and slightly uneven; short faint stretches of them were completed from neighbouring ink.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 840,
+            "h": 9,
+            "path": "avif/grape-and-lobed-leaf-scroll-with-central-tie-64.avif",
+            "sha256": "b25070dc7f16f6d8ec982261e0ef21cbbe4289f7a834c019e802f249e24d5725",
+            "w": 64
+          },
+          {
+            "bytes": 1286,
+            "h": 14,
+            "path": "avif/grape-and-lobed-leaf-scroll-with-central-tie-96.avif",
+            "sha256": "54e72621367b501645f6d165cf31217ffef7ee463a79bb6dc326c00e3c0aa256",
+            "w": 96
+          },
+          {
+            "bytes": 2045,
+            "h": 19,
+            "path": "avif/grape-and-lobed-leaf-scroll-with-central-tie-128.avif",
+            "sha256": "047a48d4726af7c42a5377e5b635175605d3126ac71cd2d8fea2813c7cbd1624",
+            "w": 128
+          },
+          {
+            "bytes": 3872,
+            "h": 28,
+            "path": "avif/grape-and-lobed-leaf-scroll-with-central-tie-192.avif",
+            "sha256": "b0cfaf98608d2760a698b179d795562abd4f217df95a44fd34a7804063c60b32",
+            "w": 192
+          },
+          {
+            "bytes": 6347,
+            "h": 37,
+            "path": "avif/grape-and-lobed-leaf-scroll-with-central-tie-256.avif",
+            "sha256": "ad9be10424a0a19e8289bd1c88ba7ec8c4df225a3c66e14b97b55088e6c42407",
+            "w": 256
+          },
+          {
+            "bytes": 12574,
+            "h": 56,
+            "path": "avif/grape-and-lobed-leaf-scroll-with-central-tie-384.avif",
+            "sha256": "3f75944a15346673701f6fa282d755d84b6fc2b691dec62e5e6691d46aa87e3c",
+            "w": 384
+          },
+          {
+            "bytes": 21422,
+            "h": 74,
+            "path": "avif/grape-and-lobed-leaf-scroll-with-central-tie-512.avif",
+            "sha256": "405e9fa87024ca46563c8fcd75142946bb0a3a3193124004d316d0445f70786b",
+            "w": 512
+          },
+          {
+            "bytes": 40562,
+            "h": 112,
+            "path": "avif/grape-and-lobed-leaf-scroll-with-central-tie-768.avif",
+            "sha256": "a4a2dccbf7a99b1d608fb48cf1f5fc32df7856af1e1a1a3fd729d31f02a20b50",
+            "w": 768
+          },
+          {
+            "bytes": 66156,
+            "h": 149,
+            "path": "avif/grape-and-lobed-leaf-scroll-with-central-tie-1024.avif",
+            "sha256": "7cb2dd5248e8f9062c13e4b9861fb8482e8e4c810d0df7b3a7cb7851f35d8f9f",
+            "w": 1024
+          },
+          {
+            "bytes": 118544,
+            "h": 223,
+            "path": "avif/grape-and-lobed-leaf-scroll-with-central-tie-1536.avif",
+            "sha256": "016976576ba9cfd6008f6228869d654969685aa3da4ca230ad317b12174259e6",
+            "w": 1536
+          },
+          {
+            "bytes": 181687,
+            "h": 298,
+            "path": "avif/grape-and-lobed-leaf-scroll-with-central-tie-2048.avif",
+            "sha256": "95b68821f08e50bbf27c14437ed030b56c2c9e5352a81f84689a7a3b3294d359",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 792,
+            "h": 9,
+            "path": "webp/grape-and-lobed-leaf-scroll-with-central-tie-64.webp",
+            "sha256": "75bd50430491da6a36be0f771c4e8b6b3619a5adac7225f0ea2924341edf73bc",
+            "w": 64
+          },
+          {
+            "bytes": 1640,
+            "h": 14,
+            "path": "webp/grape-and-lobed-leaf-scroll-with-central-tie-96.webp",
+            "sha256": "bec13e058d46685eb13168d19cdfdd5762823d24ed95fb46de987e05b812dd2a",
+            "w": 96
+          },
+          {
+            "bytes": 3220,
+            "h": 19,
+            "path": "webp/grape-and-lobed-leaf-scroll-with-central-tie-128.webp",
+            "sha256": "f93f35bc9076da6dc6b9f54925710b278e300e1ae2cf43a87d41176e1cb5a064",
+            "w": 128
+          },
+          {
+            "bytes": 6098,
+            "h": 28,
+            "path": "webp/grape-and-lobed-leaf-scroll-with-central-tie-192.webp",
+            "sha256": "c5b0a1ec76dd262f1135042f5f57749dfe77d747d9f2d0e1dab4d41dc04844c7",
+            "w": 192
+          },
+          {
+            "bytes": 9936,
+            "h": 37,
+            "path": "webp/grape-and-lobed-leaf-scroll-with-central-tie-256.webp",
+            "sha256": "35059a87477a405fe2a46c9af6b79f2693a11d8a7f306c2686493299da105b9c",
+            "w": 256
+          },
+          {
+            "bytes": 21530,
+            "h": 56,
+            "path": "webp/grape-and-lobed-leaf-scroll-with-central-tie-384.webp",
+            "sha256": "52b974dea1e561fc9ea1b54568adec3ffa9db79e243c3e93fefa82327a0486a7",
+            "w": 384
+          },
+          {
+            "bytes": 36110,
+            "h": 74,
+            "path": "webp/grape-and-lobed-leaf-scroll-with-central-tie-512.webp",
+            "sha256": "f0981ca1cbd11b63cfd186dd29764bb2b9fd4ed9cf22e4558a11add8f12c6b66",
+            "w": 512
+          },
+          {
+            "bytes": 73354,
+            "h": 112,
+            "path": "webp/grape-and-lobed-leaf-scroll-with-central-tie-768.webp",
+            "sha256": "5bcfab3317c9ac40ef27174fb964f809c83ef5edefd2935e6875f48bc0bdbc8e",
+            "w": 768
+          },
+          {
+            "bytes": 120736,
+            "h": 149,
+            "path": "webp/grape-and-lobed-leaf-scroll-with-central-tie-1024.webp",
+            "sha256": "c5158e2bbdf40681eef4b08d985d0c4cf8896cbbece0f608adbd709c4d60c775",
+            "w": 1024
+          },
+          {
+            "bytes": 235284,
+            "h": 223,
+            "path": "webp/grape-and-lobed-leaf-scroll-with-central-tie-1536.webp",
+            "sha256": "4ca253177146962eb878a0750b5b4ff50c181f893ca174016d85246c7505c910",
+            "w": 1536
+          },
+          {
+            "bytes": 367934,
+            "h": 298,
+            "path": "webp/grape-and-lobed-leaf-scroll-with-central-tie-2048.webp",
+            "sha256": "8429804074b0decba1ea13976cf3f15e53ec96e72589066fc4afe9346de010dd",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "frieze",
+        "vine",
+        "grape",
+        "leaf",
+        "bud",
+        "scroll",
+        "rule"
+      ],
+      "thumbhash": "TgiCAYAUVWh2iYBzD0KVBmdnd4iAiEc=",
+      "title": "Grapevine frieze with central knot",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Complete band; the double rules above and below are part of the print, so crop inside them to use the vine alone.",
+        "The only frieze of the sheet without a creature; the plainest choice for a text divider."
+      ],
+      "width": 2399
+    },
+    "horned-dragon-with-flowering-scroll": {
+      "attribution": "Metropolitan Museum of Art 2012.136.734",
+      "categories": [
+        "fantasy",
+        "scrollwork",
+        "botanical"
+      ],
+      "colors": [
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A horizontal etched frieze between double rules. A dragon fills the left half, facing left with open jaws, a long forked tongue, a curled horn and a small budding sprig in front of its snout; its feathered body has a raised wing and two clawed feet. Its tail flows right into a foliate scroll of acanthus volutes and leaf sprays ending in a small bud at the right end. Dark brown ink line work on a transparent background.",
+      "display_width": [
+        600,
+        1200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 192011,
+        "webpTopBytes": 382948
+      },
+      "facing": "left",
+      "group": "2012-136-734",
+      "height": 376,
+      "master": {
+        "bytes": 540078,
+        "h": 321,
+        "path": "masters/horned-dragon-with-flowering-scroll.webp",
+        "sha256": "0e0947a5887ccbc220b9d25eec5ff042b11157393cebdb048338804fd2505319",
+        "w": 2048
+      },
+      "palette": [
+        "#423a30",
+        "#423930",
+        "#423a2f",
+        "#413a30",
+        "#413a2f"
+      ],
+      "provenance": {
+        "artist": "Daniel Hopfer",
+        "date": "ca. 1515",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP828584.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "2012.136.734",
+        "object_title": "Designs for Ten Decorative Friezes",
+        "record_url": "https://www.metmuseum.org/art/collection/search/399648",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "60fd4669a32dd1cc0c1acbe0e532bd8bc6db16e2c722c0a2f258ca8bc76df1cc"
+      },
+      "quality": "The rules are hand-printed and slightly uneven; short faint stretches of them were completed from neighbouring ink.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 879,
+            "h": 10,
+            "path": "avif/horned-dragon-with-flowering-scroll-64.avif",
+            "sha256": "a58499b509c6ee32480a1d1bd9967e68a9fe899620f56df6be468d5f871e90d1",
+            "w": 64
+          },
+          {
+            "bytes": 1513,
+            "h": 15,
+            "path": "avif/horned-dragon-with-flowering-scroll-96.avif",
+            "sha256": "c3f248a5222ba372791aa7588d8a68c4d6069ffe9e679183c3055b0731f75372",
+            "w": 96
+          },
+          {
+            "bytes": 2275,
+            "h": 20,
+            "path": "avif/horned-dragon-with-flowering-scroll-128.avif",
+            "sha256": "ffd36c42baaae94ed7a877b6e6c67ce802b432bffbad93c933f01e7f7fe0fab5",
+            "w": 128
+          },
+          {
+            "bytes": 4082,
+            "h": 30,
+            "path": "avif/horned-dragon-with-flowering-scroll-192.avif",
+            "sha256": "f5be12394aef981c9083b23aa448dc3961e3c7221bdc54a7d61cae66260346f7",
+            "w": 192
+          },
+          {
+            "bytes": 6829,
+            "h": 40,
+            "path": "avif/horned-dragon-with-flowering-scroll-256.avif",
+            "sha256": "dcce95e866cffb39fec033b807bf478d500b05da60ae9e49a68a46334534f0e7",
+            "w": 256
+          },
+          {
+            "bytes": 13041,
+            "h": 60,
+            "path": "avif/horned-dragon-with-flowering-scroll-384.avif",
+            "sha256": "b0b62c010ffdb23a3a551e5ec0dd06b6a53ddb84c4621c7092b176e3166bad5d",
+            "w": 384
+          },
+          {
+            "bytes": 22771,
+            "h": 80,
+            "path": "avif/horned-dragon-with-flowering-scroll-512.avif",
+            "sha256": "390522a39c01141e36de042ee8437e9211da32b729aa7f7e0df77773e6770cac",
+            "w": 512
+          },
+          {
+            "bytes": 41385,
+            "h": 120,
+            "path": "avif/horned-dragon-with-flowering-scroll-768.avif",
+            "sha256": "2eef81a31dc7b225cecf0842c71f0b18827da726a4d5dd654e21dca35e6b9245",
+            "w": 768
+          },
+          {
+            "bytes": 68606,
+            "h": 160,
+            "path": "avif/horned-dragon-with-flowering-scroll-1024.avif",
+            "sha256": "ee15eb6c8e881fb23cdc5f4dc7497702f27280517a5a7e47a45a4773a483493d",
+            "w": 1024
+          },
+          {
+            "bytes": 122254,
+            "h": 241,
+            "path": "avif/horned-dragon-with-flowering-scroll-1536.avif",
+            "sha256": "349297ac4e04c763e6532c97a3e6da015a0900222a17fc4bea682fa5f864bcee",
+            "w": 1536
+          },
+          {
+            "bytes": 192011,
+            "h": 321,
+            "path": "avif/horned-dragon-with-flowering-scroll-2048.avif",
+            "sha256": "5678c549d5fde1357bd3d37edbba89c2910b8f68b5eff1a593956d46e6a6c2b0",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 784,
+            "h": 10,
+            "path": "webp/horned-dragon-with-flowering-scroll-64.webp",
+            "sha256": "54118919fef08d0be209dc0c42e941bf07a45356c2adc57f13e38d31e99d1b2a",
+            "w": 64
+          },
+          {
+            "bytes": 1810,
+            "h": 15,
+            "path": "webp/horned-dragon-with-flowering-scroll-96.webp",
+            "sha256": "293e805cf97bf4b7c2c416e3cebeac4608d9314eadf16f744c35c0f3d302ea0e",
+            "w": 96
+          },
+          {
+            "bytes": 3174,
+            "h": 20,
+            "path": "webp/horned-dragon-with-flowering-scroll-128.webp",
+            "sha256": "e450414b8a109d11a4a1c705ef802bc052fedadc7b321dc0ef71009cf10ede9e",
+            "w": 128
+          },
+          {
+            "bytes": 6756,
+            "h": 30,
+            "path": "webp/horned-dragon-with-flowering-scroll-192.webp",
+            "sha256": "e523ad5d9aa16a227233310b7be9129cf11678c66d26ae0f744257e3b2ea234a",
+            "w": 192
+          },
+          {
+            "bytes": 10802,
+            "h": 40,
+            "path": "webp/horned-dragon-with-flowering-scroll-256.webp",
+            "sha256": "184c8fff1852a74f795142b5f7f41160ad4caf0044a89ae24f27130de6b9e27d",
+            "w": 256
+          },
+          {
+            "bytes": 22576,
+            "h": 60,
+            "path": "webp/horned-dragon-with-flowering-scroll-384.webp",
+            "sha256": "7288f63b8bf0ab19736c704c8d35981a760ec595800f9d7f96bb9ef9ce933291",
+            "w": 384
+          },
+          {
+            "bytes": 38652,
+            "h": 80,
+            "path": "webp/horned-dragon-with-flowering-scroll-512.webp",
+            "sha256": "da74c56f834819c874aca2a07de7c71377d79fce827014ebae0165dbbe7c92bb",
+            "w": 512
+          },
+          {
+            "bytes": 76094,
+            "h": 120,
+            "path": "webp/horned-dragon-with-flowering-scroll-768.webp",
+            "sha256": "d274b6ed3fa3dbf93d6d0a8833713e200cbabf98f5732a2c6b966e8d717ae9c9",
+            "w": 768
+          },
+          {
+            "bytes": 124650,
+            "h": 160,
+            "path": "webp/horned-dragon-with-flowering-scroll-1024.webp",
+            "sha256": "800463e0f52a710085b5123b9e6cc0ddffe3aa835e9b954c928fc5d4b36f7729",
+            "w": 1024
+          },
+          {
+            "bytes": 245344,
+            "h": 241,
+            "path": "webp/horned-dragon-with-flowering-scroll-1536.webp",
+            "sha256": "bc8976fee5a073d6b0e5841f223edd49aec132203f13c1874c88ed8f15bdda7b",
+            "w": 1536
+          },
+          {
+            "bytes": 382948,
+            "h": 321,
+            "path": "webp/horned-dragon-with-flowering-scroll-2048.webp",
+            "sha256": "158c0557bfb3c7f1407b4a59b7a30637acb9bd076970bdff938e8464987ac5ba",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "frieze",
+        "dragon",
+        "horn",
+        "wings",
+        "acanthus",
+        "leaf",
+        "bud",
+        "scroll",
+        "rule"
+      ],
+      "thumbhash": "TgiCAYAUZkt1iLCaGYC8+FhndneAqFc=",
+      "title": "Frieze of a horned dragon with a flowering tail",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Complete band; the double rules above and below are part of the print, so crop inside them to use the dragon and scroll alone.",
+        "The dragon faces left; mirror the band for a right-facing use."
+      ],
+      "width": 2401
+    },
+    "paired-bearded-heads-with-horns-and-flowers": {
+      "attribution": "Metropolitan Museum of Art 2012.136.734",
+      "categories": [
+        "humans",
+        "scrollwork",
+        "floral"
+      ],
+      "colors": [
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A horizontal etched frieze between double rules. At the centre two bearded male heads in profile sit back to back, the left one facing left and the right one facing right; each beard flows into a trumpet-shaped horn. Vine stems with trefoil leaves and clover-like leaflets curl out from the heads to a five-petalled flower at each end. Dark brown ink line work on a transparent background.",
+      "display_width": [
+        600,
+        1200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 182093,
+        "webpTopBytes": 384334
+      },
+      "facing": "mixed",
+      "group": "2012-136-734",
+      "height": 357,
+      "master": {
+        "bytes": 519988,
+        "h": 305,
+        "path": "masters/paired-bearded-heads-with-horns-and-flowers.webp",
+        "sha256": "1a7d548bb3d1db7ef13d5a9a3cc13e9eba9aa2503def7f2df2e125a52b928433",
+        "w": 2048
+      },
+      "palette": [
+        "#3d372d",
+        "#3c372d",
+        "#3c362c",
+        "#3c362d",
+        "#3c372c"
+      ],
+      "provenance": {
+        "artist": "Daniel Hopfer",
+        "date": "ca. 1515",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP828584.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "2012.136.734",
+        "object_title": "Designs for Ten Decorative Friezes",
+        "record_url": "https://www.metmuseum.org/art/collection/search/399648",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "60fd4669a32dd1cc0c1acbe0e532bd8bc6db16e2c722c0a2f258ca8bc76df1cc"
+      },
+      "quality": "The rules are hand-printed and slightly uneven; short faint stretches of them were completed from neighbouring ink.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 974,
+            "h": 10,
+            "path": "avif/paired-bearded-heads-with-horns-and-flowers-64.avif",
+            "sha256": "bf3e7f11b1e5054af8d430ddcec084d35fe82e98099e81bf3e551616e38feb2a",
+            "w": 64
+          },
+          {
+            "bytes": 1490,
+            "h": 14,
+            "path": "avif/paired-bearded-heads-with-horns-and-flowers-96.avif",
+            "sha256": "0a5b829a8d1fb1e467d0cd3b232ad9c8729cc861f2be3ddaf1b43736faf05caa",
+            "w": 96
+          },
+          {
+            "bytes": 2111,
+            "h": 19,
+            "path": "avif/paired-bearded-heads-with-horns-and-flowers-128.avif",
+            "sha256": "a4358097e87a8a0e8b14322de32e9597a9bfe0ab400514dea11a447e16a2006e",
+            "w": 128
+          },
+          {
+            "bytes": 3987,
+            "h": 29,
+            "path": "avif/paired-bearded-heads-with-horns-and-flowers-192.avif",
+            "sha256": "2f39221b5d6a762c1559f56dbaa6b4e0e306a347e407338d2478426fcf0b0625",
+            "w": 192
+          },
+          {
+            "bytes": 6288,
+            "h": 38,
+            "path": "avif/paired-bearded-heads-with-horns-and-flowers-256.avif",
+            "sha256": "154817de26bea15e10fa6a4738d36a1ada104fa9f6943485adf89d2a3040bc96",
+            "w": 256
+          },
+          {
+            "bytes": 12450,
+            "h": 57,
+            "path": "avif/paired-bearded-heads-with-horns-and-flowers-384.avif",
+            "sha256": "55194034eab8a0e4e52e1c33ac54937da474d51654811d4f68a57a0a066aaec2",
+            "w": 384
+          },
+          {
+            "bytes": 21446,
+            "h": 76,
+            "path": "avif/paired-bearded-heads-with-horns-and-flowers-512.avif",
+            "sha256": "4db3819af31850acf72959684c56e2428e6c9a1f4d30e75dd9a079137dff16f2",
+            "w": 512
+          },
+          {
+            "bytes": 40412,
+            "h": 114,
+            "path": "avif/paired-bearded-heads-with-horns-and-flowers-768.avif",
+            "sha256": "f52cd78c21e4b4d91422fc96aec98c66e0731edaf4224f3e4617dd11ba398e41",
+            "w": 768
+          },
+          {
+            "bytes": 64184,
+            "h": 152,
+            "path": "avif/paired-bearded-heads-with-horns-and-flowers-1024.avif",
+            "sha256": "2e33a2bc09b43bddee25e225cf3b8a9c5451dea55936619b260998f8bab36136",
+            "w": 1024
+          },
+          {
+            "bytes": 116999,
+            "h": 229,
+            "path": "avif/paired-bearded-heads-with-horns-and-flowers-1536.avif",
+            "sha256": "c3fe3b5a211880ee59c059b240d7747d8703e7a7b1357719b929839b8f39bd35",
+            "w": 1536
+          },
+          {
+            "bytes": 182093,
+            "h": 305,
+            "path": "avif/paired-bearded-heads-with-horns-and-flowers-2048.avif",
+            "sha256": "aefd5ab5474e35132344805f1d4c30bd79721de4d2f01d34aa70f0d431ced61d",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 910,
+            "h": 10,
+            "path": "webp/paired-bearded-heads-with-horns-and-flowers-64.webp",
+            "sha256": "9c138bb9097f0d12757b24846165d1729eb8b205dedc1d70f3c0ede877319b70",
+            "w": 64
+          },
+          {
+            "bytes": 1678,
+            "h": 14,
+            "path": "webp/paired-bearded-heads-with-horns-and-flowers-96.webp",
+            "sha256": "54f633fbd6d572ccaea2dc6203b0bc87cfb7fda263d5cfd94c5c7913751ba0a1",
+            "w": 96
+          },
+          {
+            "bytes": 3310,
+            "h": 19,
+            "path": "webp/paired-bearded-heads-with-horns-and-flowers-128.webp",
+            "sha256": "1ad8847c78e3052eaa99bbd4eaa37c8ce7b2c257c9e5389461ed06bff3bfd318",
+            "w": 128
+          },
+          {
+            "bytes": 6864,
+            "h": 29,
+            "path": "webp/paired-bearded-heads-with-horns-and-flowers-192.webp",
+            "sha256": "5e3c40c4bafc1d2b954041c0778e2bbe618fd7da6e3bee5e5645d1b44b2859d6",
+            "w": 192
+          },
+          {
+            "bytes": 10380,
+            "h": 38,
+            "path": "webp/paired-bearded-heads-with-horns-and-flowers-256.webp",
+            "sha256": "6e67b62da6ae13be5fe9a85d887fa5c623b29969fb13796f87a0cc10901695c9",
+            "w": 256
+          },
+          {
+            "bytes": 21674,
+            "h": 57,
+            "path": "webp/paired-bearded-heads-with-horns-and-flowers-384.webp",
+            "sha256": "d38c6bbe285e8950c3c79e8a42a75dadcfe47c88611147a2b4e830b3ca4ff83a",
+            "w": 384
+          },
+          {
+            "bytes": 36192,
+            "h": 76,
+            "path": "webp/paired-bearded-heads-with-horns-and-flowers-512.webp",
+            "sha256": "70bdb3aeadd88a052b7decc88d9692996e669e05c6b1866e5aa39557679ce3fa",
+            "w": 512
+          },
+          {
+            "bytes": 72822,
+            "h": 114,
+            "path": "webp/paired-bearded-heads-with-horns-and-flowers-768.webp",
+            "sha256": "6f219cbe977648d9a5e84cca5dd2e2d93b083d3eb6202af7f02d64a468f057d8",
+            "w": 768
+          },
+          {
+            "bytes": 119912,
+            "h": 152,
+            "path": "webp/paired-bearded-heads-with-horns-and-flowers-1024.webp",
+            "sha256": "72fa305c00d251ba54064a123b6ebc92a799c57410e252dffbcc5b945fc719e5",
+            "w": 1024
+          },
+          {
+            "bytes": 233940,
+            "h": 229,
+            "path": "webp/paired-bearded-heads-with-horns-and-flowers-1536.webp",
+            "sha256": "14694304de0ad9f96abb794945ef44694904c5d837a5c69f91be41763cc8625f",
+            "w": 1536
+          },
+          {
+            "bytes": 384334,
+            "h": 305,
+            "path": "webp/paired-bearded-heads-with-horns-and-flowers-2048.webp",
+            "sha256": "12ab21163fdfd052a57b5f2ec48347fed92e387377e10a6e5fc5317e247f4a02",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "frieze",
+        "human",
+        "beard",
+        "horn",
+        "flower",
+        "leaf",
+        "scroll",
+        "rule"
+      ],
+      "thumbhash": "TQiCAYAVtETleaDfo5gHyndnh4iQlyc=",
+      "title": "Frieze with back-to-back bearded heads",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Complete band; the double rules above and below are part of the print, so crop inside them to use the heads and scroll alone.",
+        "Symmetrical about the paired heads, so it sits well centred under a title."
+      ],
+      "width": 2399
+    },
+    "paired-horned-creatures-and-twin-flower-scroll": {
+      "attribution": "Metropolitan Museum of Art 2012.136.734",
+      "categories": [
+        "fantasy",
+        "scrollwork",
+        "floral"
+      ],
+      "colors": [
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A horizontal etched frieze between double rules. Two scaly winged dragons with long curled horns and open mouths lie at the ends, the left one facing left and the right one facing right; their tails curl inward into scrolls that each hold a five-petalled flower, and a fleur-de-lis-shaped tie joins the two scrolls at the centre. Dark brown ink line work on a transparent background.",
+      "display_width": [
+        600,
+        1200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 201676,
+        "webpTopBytes": 408982
+      },
+      "facing": "mixed",
+      "group": "2012-136-734",
+      "height": 364,
+      "master": {
+        "bytes": 567364,
+        "h": 311,
+        "path": "masters/paired-horned-creatures-and-twin-flower-scroll.webp",
+        "sha256": "ca9a6b2d3d2cbc6fc22091637d275755f83f115f870d391e942ae273a56c03fd",
+        "w": 2048
+      },
+      "palette": [
+        "#3f382f",
+        "#3e382f",
+        "#3e372e",
+        "#3e372f",
+        "#3e382e"
+      ],
+      "provenance": {
+        "artist": "Daniel Hopfer",
+        "date": "ca. 1515",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP828584.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "2012.136.734",
+        "object_title": "Designs for Ten Decorative Friezes",
+        "record_url": "https://www.metmuseum.org/art/collection/search/399648",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "60fd4669a32dd1cc0c1acbe0e532bd8bc6db16e2c722c0a2f258ca8bc76df1cc"
+      },
+      "quality": "The rules are hand-printed and slightly uneven; short faint stretches of them were completed from neighbouring ink.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 916,
+            "h": 10,
+            "path": "avif/paired-horned-creatures-and-twin-flower-scroll-64.avif",
+            "sha256": "8b433564204ad8a98fca987929ae69126a1b8a817635a9f6dd32a270ccf35bb9",
+            "w": 64
+          },
+          {
+            "bytes": 1273,
+            "h": 15,
+            "path": "avif/paired-horned-creatures-and-twin-flower-scroll-96.avif",
+            "sha256": "bc62ff6d760c80de9943ee8aeb94238f6fc4fcaec0531ea339c3e60674a8679f",
+            "w": 96
+          },
+          {
+            "bytes": 2049,
+            "h": 19,
+            "path": "avif/paired-horned-creatures-and-twin-flower-scroll-128.avif",
+            "sha256": "e368bcc97b2523059f016bfd85a0a703292ddaa8250168e28fe87b441addf778",
+            "w": 128
+          },
+          {
+            "bytes": 3729,
+            "h": 29,
+            "path": "avif/paired-horned-creatures-and-twin-flower-scroll-192.avif",
+            "sha256": "9b1bd367dffc6a1ce479dc1e44380699b2bbc0467f09c2faf0c476ac2fe2c8fa",
+            "w": 192
+          },
+          {
+            "bytes": 6007,
+            "h": 39,
+            "path": "avif/paired-horned-creatures-and-twin-flower-scroll-256.avif",
+            "sha256": "f70e7381ae572816de33063eefd9c0e888c4c222ec667258e90e73f784c36ff4",
+            "w": 256
+          },
+          {
+            "bytes": 12392,
+            "h": 58,
+            "path": "avif/paired-horned-creatures-and-twin-flower-scroll-384.avif",
+            "sha256": "e28fd03fd7f59a7aa4a4f073c31cf3ffb354cf3d293d97c13c1b6b74b56df33b",
+            "w": 384
+          },
+          {
+            "bytes": 22140,
+            "h": 78,
+            "path": "avif/paired-horned-creatures-and-twin-flower-scroll-512.avif",
+            "sha256": "cbee1b16eb9c518f64d1ff31e68f0cf1f182b13ad45c3fd87032c163bafcee8b",
+            "w": 512
+          },
+          {
+            "bytes": 42337,
+            "h": 117,
+            "path": "avif/paired-horned-creatures-and-twin-flower-scroll-768.avif",
+            "sha256": "d8cd89e497b9156463d5797f7326331b6138a5636a8f287adc1e5e22958f09fc",
+            "w": 768
+          },
+          {
+            "bytes": 71087,
+            "h": 156,
+            "path": "avif/paired-horned-creatures-and-twin-flower-scroll-1024.avif",
+            "sha256": "76f976d71e91d2cb0364f7c699b4ed4879fb11a0b461d24f059a6de300a677d0",
+            "w": 1024
+          },
+          {
+            "bytes": 128658,
+            "h": 233,
+            "path": "avif/paired-horned-creatures-and-twin-flower-scroll-1536.avif",
+            "sha256": "a3bb136ab51d5a0aecebfb5ba2fd808e691d6c5289b7ee2af2486b209d60b267",
+            "w": 1536
+          },
+          {
+            "bytes": 201676,
+            "h": 311,
+            "path": "avif/paired-horned-creatures-and-twin-flower-scroll-2048.avif",
+            "sha256": "bc9e760374946c9811a0671085085687805828b1d9c3073e84e6b96620bccd49",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 860,
+            "h": 10,
+            "path": "webp/paired-horned-creatures-and-twin-flower-scroll-64.webp",
+            "sha256": "edc388c5f0221626707070e91ca6505e08cbb29b3f0a30014820e85e3bb3c67d",
+            "w": 64
+          },
+          {
+            "bytes": 1810,
+            "h": 15,
+            "path": "webp/paired-horned-creatures-and-twin-flower-scroll-96.webp",
+            "sha256": "3c0b7edc0263e8f445277d1309d1bdd007c45522561ef7b1ff3c87eaf6fe730f",
+            "w": 96
+          },
+          {
+            "bytes": 2854,
+            "h": 19,
+            "path": "webp/paired-horned-creatures-and-twin-flower-scroll-128.webp",
+            "sha256": "4d0fb5a8c5eabd76370ef7a8e74e52ccbec94997ce7786596494168e7cf8098b",
+            "w": 128
+          },
+          {
+            "bytes": 6354,
+            "h": 29,
+            "path": "webp/paired-horned-creatures-and-twin-flower-scroll-192.webp",
+            "sha256": "3b0be208311dc9e9cd0e9565190bda1b7221b6b009c8d9b62ed991335bd7a834",
+            "w": 192
+          },
+          {
+            "bytes": 10408,
+            "h": 39,
+            "path": "webp/paired-horned-creatures-and-twin-flower-scroll-256.webp",
+            "sha256": "2a6fced8bb38cbcb2845a203ef636c55d7b262de439b596f029184bcb726eb74",
+            "w": 256
+          },
+          {
+            "bytes": 21760,
+            "h": 58,
+            "path": "webp/paired-horned-creatures-and-twin-flower-scroll-384.webp",
+            "sha256": "9d34f21c9f8b4a5b36079dcf77b84442f4a6773b2e20db281598dc92cedb61bd",
+            "w": 384
+          },
+          {
+            "bytes": 37108,
+            "h": 78,
+            "path": "webp/paired-horned-creatures-and-twin-flower-scroll-512.webp",
+            "sha256": "dd0a842cd912c245f866f6785703f729158c811d18428d8af609a6786e820d7e",
+            "w": 512
+          },
+          {
+            "bytes": 76836,
+            "h": 117,
+            "path": "webp/paired-horned-creatures-and-twin-flower-scroll-768.webp",
+            "sha256": "2c8d7ba98abae1968861e2e52ab73625a32ca7a24d907ac96fbca21021ade1f3",
+            "w": 768
+          },
+          {
+            "bytes": 129478,
+            "h": 156,
+            "path": "webp/paired-horned-creatures-and-twin-flower-scroll-1024.webp",
+            "sha256": "2b2654c54bc3f5e6a594814e5d8d6d857becd3ce5599cc59a80f2c65372ef995",
+            "w": 1024
+          },
+          {
+            "bytes": 255958,
+            "h": 233,
+            "path": "webp/paired-horned-creatures-and-twin-flower-scroll-1536.webp",
+            "sha256": "4b010032c5ed285ab4fb2c8234a205248861729586a4dab7d6fc2550112788ca",
+            "w": 1536
+          },
+          {
+            "bytes": 408982,
+            "h": 311,
+            "path": "webp/paired-horned-creatures-and-twin-flower-scroll-2048.webp",
+            "sha256": "225faf4b5e24679d1c6a129d217d91c2cb59de32ea9d3c3da09dcc10b0b0e840",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "frieze",
+        "dragon",
+        "horn",
+        "wings",
+        "flower",
+        "scroll",
+        "rule"
+      ],
+      "thumbhash": "TgiCAYAVenqGh1D4h476MlhpdoZwmDc=",
+      "title": "Frieze with two horned dragons and twin flowers",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Complete band; the double rules above and below are part of the print, so crop inside them to use the dragons and flowers alone.",
+        "Symmetrical about the central tie, so it sits well centred under a title."
+      ],
+      "width": 2396
+    },
+    "paired-human-headed-birds-with-tied-scroll": {
+      "attribution": "Metropolitan Museum of Art 2012.136.734",
+      "categories": [
+        "fantasy",
+        "hybrids",
+        "scrollwork"
+      ],
+      "colors": [
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A horizontal etched frieze between double rules. Two winged creatures with curly-haired human heads, feathered bodies, clawed legs and long scaly tails lie at the ends, the left one facing left and the right one facing right. Their tails loop toward the centre, where two small crested dragon heads face a knotted tie topped by a fleur-de-lis. Dark brown ink line work on a transparent background.",
+      "display_width": [
+        600,
+        1200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 204428,
+        "webpTopBytes": 414720
+      },
+      "facing": "mixed",
+      "group": "2012-136-734",
+      "height": 378,
+      "master": {
+        "bytes": 560844,
+        "h": 323,
+        "path": "masters/paired-human-headed-birds-with-tied-scroll.webp",
+        "sha256": "6b1396817a68ece709547dba98710608306a086fd86c5cacbcd99d08e6a8225a",
+        "w": 2048
+      },
+      "palette": [
+        "#3f382e",
+        "#40382d",
+        "#40382e",
+        "#3f372d",
+        "#40372d"
+      ],
+      "provenance": {
+        "artist": "Daniel Hopfer",
+        "date": "ca. 1515",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP828584.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "2012.136.734",
+        "object_title": "Designs for Ten Decorative Friezes",
+        "record_url": "https://www.metmuseum.org/art/collection/search/399648",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "60fd4669a32dd1cc0c1acbe0e532bd8bc6db16e2c722c0a2f258ca8bc76df1cc"
+      },
+      "quality": "The rules are hand-printed and slightly uneven; short faint stretches of them were completed from neighbouring ink.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 888,
+            "h": 10,
+            "path": "avif/paired-human-headed-birds-with-tied-scroll-64.avif",
+            "sha256": "468ad6b624ca25dba3a11a5d32be6d95c54348118b64433d49a58c146510b54d",
+            "w": 64
+          },
+          {
+            "bytes": 1222,
+            "h": 15,
+            "path": "avif/paired-human-headed-birds-with-tied-scroll-96.avif",
+            "sha256": "8d998b75ad836ee6a22b3cc749ed64ec550062f1144a4f8ddfdac5aa0f5bd14f",
+            "w": 96
+          },
+          {
+            "bytes": 2085,
+            "h": 20,
+            "path": "avif/paired-human-headed-birds-with-tied-scroll-128.avif",
+            "sha256": "7f639786a4995ea0fc4f4861cdfebe39c1c99e683f15152a30b8cbc01451315c",
+            "w": 128
+          },
+          {
+            "bytes": 3895,
+            "h": 30,
+            "path": "avif/paired-human-headed-birds-with-tied-scroll-192.avif",
+            "sha256": "db51b96eca5206004dc1a5bc55dc8ab553c256b84536e340c5eb8f8dba52ea89",
+            "w": 192
+          },
+          {
+            "bytes": 6401,
+            "h": 40,
+            "path": "avif/paired-human-headed-birds-with-tied-scroll-256.avif",
+            "sha256": "24b54f7fc5ab0e3cb2afa6243b50b8dc095c7cc74cf745123e4ed9c7f11b2893",
+            "w": 256
+          },
+          {
+            "bytes": 13239,
+            "h": 61,
+            "path": "avif/paired-human-headed-birds-with-tied-scroll-384.avif",
+            "sha256": "d0a89d1e06ba035a5717e7255d0cc20c1d80cce706ff57c43ec521676167a2b2",
+            "w": 384
+          },
+          {
+            "bytes": 22815,
+            "h": 81,
+            "path": "avif/paired-human-headed-birds-with-tied-scroll-512.avif",
+            "sha256": "c4646130d6fe849d31741f9f59f22675532dbdb4447dee9d52402475f2b9f9ea",
+            "w": 512
+          },
+          {
+            "bytes": 45179,
+            "h": 121,
+            "path": "avif/paired-human-headed-birds-with-tied-scroll-768.avif",
+            "sha256": "b44fd09cdd3d5bbaf3ce5983ffaac09e77eaa991693854cd9a0e4b46da17d3b0",
+            "w": 768
+          },
+          {
+            "bytes": 72603,
+            "h": 161,
+            "path": "avif/paired-human-headed-birds-with-tied-scroll-1024.avif",
+            "sha256": "b9e2b1d189ce20baf1f3a4ff0d90bca0122846a0c6d73c390abda2f5bf0572b1",
+            "w": 1024
+          },
+          {
+            "bytes": 132330,
+            "h": 242,
+            "path": "avif/paired-human-headed-birds-with-tied-scroll-1536.avif",
+            "sha256": "d25643716d084672ad3826553e6d03122448b01a3220494e744d2f8bcd4fba7d",
+            "w": 1536
+          },
+          {
+            "bytes": 204428,
+            "h": 323,
+            "path": "avif/paired-human-headed-birds-with-tied-scroll-2048.avif",
+            "sha256": "3830a0ab10a7e5d77cb76bb124aaf847e10ac986f89f1b505cbc043bc7a465a6",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 786,
+            "h": 10,
+            "path": "webp/paired-human-headed-birds-with-tied-scroll-64.webp",
+            "sha256": "38d6c45a76af73fb7b37ab6b2266c4a3b2a5514fdf906448aae5e17ca6bcf364",
+            "w": 64
+          },
+          {
+            "bytes": 1848,
+            "h": 15,
+            "path": "webp/paired-human-headed-birds-with-tied-scroll-96.webp",
+            "sha256": "5f438aefd3786499522b09695c457cb1193dd4a9e964b45303b0b3e9690d6d95",
+            "w": 96
+          },
+          {
+            "bytes": 2764,
+            "h": 20,
+            "path": "webp/paired-human-headed-birds-with-tied-scroll-128.webp",
+            "sha256": "5667141c9e779fdac1d2f2764481ce93b38b26cc9c8220ef6367011e018c3cfc",
+            "w": 128
+          },
+          {
+            "bytes": 6582,
+            "h": 30,
+            "path": "webp/paired-human-headed-birds-with-tied-scroll-192.webp",
+            "sha256": "68735ddf88f605ddb3d64848e0482b33bf345c3a4075d95dc04c99de361c3b93",
+            "w": 192
+          },
+          {
+            "bytes": 10828,
+            "h": 40,
+            "path": "webp/paired-human-headed-birds-with-tied-scroll-256.webp",
+            "sha256": "f99b6550988a83aca80686aa779c145e7be804bb380c9237085175748bd2d1b4",
+            "w": 256
+          },
+          {
+            "bytes": 22614,
+            "h": 61,
+            "path": "webp/paired-human-headed-birds-with-tied-scroll-384.webp",
+            "sha256": "d9e7eb6ce3da10d9dd8354fc74a0e4ec2335a5811e3a3d5808f89e086ed0b8eb",
+            "w": 384
+          },
+          {
+            "bytes": 38396,
+            "h": 81,
+            "path": "webp/paired-human-headed-birds-with-tied-scroll-512.webp",
+            "sha256": "39c363060bf316387634402902891da2e3a71d29448687d764c35913f759e884",
+            "w": 512
+          },
+          {
+            "bytes": 78494,
+            "h": 121,
+            "path": "webp/paired-human-headed-birds-with-tied-scroll-768.webp",
+            "sha256": "f4aad523b5119f2f0374049717b9fe97b7e9d4b4f8b912f97d93e877447a4227",
+            "w": 768
+          },
+          {
+            "bytes": 129380,
+            "h": 161,
+            "path": "webp/paired-human-headed-birds-with-tied-scroll-1024.webp",
+            "sha256": "e8fd75063c6053832ec58bf840edd8aed34db3020ae01dd9cf8d42cfc01130c2",
+            "w": 1024
+          },
+          {
+            "bytes": 256634,
+            "h": 242,
+            "path": "webp/paired-human-headed-birds-with-tied-scroll-1536.webp",
+            "sha256": "5ec7080999ea2147dc4afaf216322b01bf7e9497c2821aaea8556cc88d8b0601",
+            "w": 1536
+          },
+          {
+            "bytes": 414720,
+            "h": 323,
+            "path": "webp/paired-human-headed-birds-with-tied-scroll-2048.webp",
+            "sha256": "0db13aa1313526247cf013a30b81aef848d4124a8def0ebe4db2f5ecd3fe1dfc",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "frieze",
+        "grotesque",
+        "human",
+        "bird-like-creature",
+        "wings",
+        "dragon",
+        "scroll",
+        "rule"
+      ],
+      "thumbhash": "TQiCAYAUPQtxl3JYGfC6CVlZdYiAmSc=",
+      "title": "Frieze with two human-headed winged creatures",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Complete band; the double rules above and below are part of the print, so crop inside them to use the creatures alone.",
+        "Symmetrical about the central tie, so it sits well centred under a title."
+      ],
+      "width": 2397
+    },
+    "paired-winged-beasts-with-central-face": {
+      "attribution": "Metropolitan Museum of Art 2012.136.734",
+      "categories": [
+        "fantasy",
+        "hybrids",
+        "scrollwork"
+      ],
+      "colors": [
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A horizontal etched frieze between double rules. A frontal human face with leafy hair sits at the centre between two feathered volutes. On each side a lean horned, dog-like winged beast runs outward, the left one facing left and the right one facing right with open mouth, and a small leafy sprig grows between each beast and the face. Dark brown ink line work on a transparent background.",
+      "display_width": [
+        600,
+        1200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 173542,
+        "webpTopBytes": 348396
+      },
+      "facing": "mixed",
+      "group": "2012-136-734",
+      "height": 377,
+      "master": {
+        "bytes": 487950,
+        "h": 322,
+        "path": "masters/paired-winged-beasts-with-central-face.webp",
+        "sha256": "45171d7db25ef9b182c6fc2b3f43eb875794402a3ceefea683d82a1355661269",
+        "w": 2048
+      },
+      "palette": [
+        "#41392f",
+        "#40382f",
+        "#40392f",
+        "#40382e",
+        "#40392e"
+      ],
+      "provenance": {
+        "artist": "Daniel Hopfer",
+        "date": "ca. 1515",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP828584.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "2012.136.734",
+        "object_title": "Designs for Ten Decorative Friezes",
+        "record_url": "https://www.metmuseum.org/art/collection/search/399648",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "60fd4669a32dd1cc0c1acbe0e532bd8bc6db16e2c722c0a2f258ca8bc76df1cc"
+      },
+      "quality": "The rules are hand-printed and slightly uneven; short faint stretches of them were completed from neighbouring ink.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 960,
+            "h": 10,
+            "path": "avif/paired-winged-beasts-with-central-face-64.avif",
+            "sha256": "e5ad09dd75f60a30e016d690460cdb31effdc2e673e9ceaafed6188b4cb50214",
+            "w": 64
+          },
+          {
+            "bytes": 1365,
+            "h": 15,
+            "path": "avif/paired-winged-beasts-with-central-face-96.avif",
+            "sha256": "17587669304bdd63a317998e94df3f365a0eb67beeeab4c8c128933d83006142",
+            "w": 96
+          },
+          {
+            "bytes": 1995,
+            "h": 20,
+            "path": "avif/paired-winged-beasts-with-central-face-128.avif",
+            "sha256": "f936b3e3a9e4917cd48ce4a69427c2d653ecd0fbefb511907b3d20e2a4f442ce",
+            "w": 128
+          },
+          {
+            "bytes": 3762,
+            "h": 30,
+            "path": "avif/paired-winged-beasts-with-central-face-192.avif",
+            "sha256": "f958314d0622608f4dec5a41ec59456052196f0b82ff4133d594813b50db7abb",
+            "w": 192
+          },
+          {
+            "bytes": 5780,
+            "h": 40,
+            "path": "avif/paired-winged-beasts-with-central-face-256.avif",
+            "sha256": "42caa211b21cdd3c044ec709475f0dc7848916f60f8ead4999c6b325dfd379e4",
+            "w": 256
+          },
+          {
+            "bytes": 11691,
+            "h": 60,
+            "path": "avif/paired-winged-beasts-with-central-face-384.avif",
+            "sha256": "c26a23b62f04483cc3e147d4be6c35ab102f94651093e8087c523a8ce6d4d06e",
+            "w": 384
+          },
+          {
+            "bytes": 19873,
+            "h": 81,
+            "path": "avif/paired-winged-beasts-with-central-face-512.avif",
+            "sha256": "f1987dd1b4aed3b183be7516e74f5ffc0ed85a7458b23d0d00a61b6cfc97e336",
+            "w": 512
+          },
+          {
+            "bytes": 39100,
+            "h": 121,
+            "path": "avif/paired-winged-beasts-with-central-face-768.avif",
+            "sha256": "8c059ced21e26e8fb4946f60eee98583d345d5b2bd7e3e90b9184c6e1d1218b3",
+            "w": 768
+          },
+          {
+            "bytes": 61577,
+            "h": 161,
+            "path": "avif/paired-winged-beasts-with-central-face-1024.avif",
+            "sha256": "d5a257baa26b4cac6c0b204e1e05f04f59a29c3ee8d375aba26fd95f1315eae4",
+            "w": 1024
+          },
+          {
+            "bytes": 112354,
+            "h": 242,
+            "path": "avif/paired-winged-beasts-with-central-face-1536.avif",
+            "sha256": "39941657d61239e4f009255f52c42ec0ac551bc2904159891f2611ee72c1d572",
+            "w": 1536
+          },
+          {
+            "bytes": 173542,
+            "h": 322,
+            "path": "avif/paired-winged-beasts-with-central-face-2048.avif",
+            "sha256": "f5059e10a3f88d617bc3cc7e5261f02f588b3e608fa9da861283561905dc9c4a",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 890,
+            "h": 10,
+            "path": "webp/paired-winged-beasts-with-central-face-64.webp",
+            "sha256": "a259304d35ecbbf1d2dd87dfd38120944a64e8c55e88537c0419b339d7ca4674",
+            "w": 64
+          },
+          {
+            "bytes": 1730,
+            "h": 15,
+            "path": "webp/paired-winged-beasts-with-central-face-96.webp",
+            "sha256": "439464c194d1a414e1978d8c862aab4fa52abd6ccb66918999fe0076489caf9c",
+            "w": 96
+          },
+          {
+            "bytes": 2714,
+            "h": 20,
+            "path": "webp/paired-winged-beasts-with-central-face-128.webp",
+            "sha256": "fe8be2cebc4c63db5806f4eb830985d6c9187df236574b9883bc18a547a96d1c",
+            "w": 128
+          },
+          {
+            "bytes": 5844,
+            "h": 30,
+            "path": "webp/paired-winged-beasts-with-central-face-192.webp",
+            "sha256": "1a47617a8af10018b5e1b1be8a3d2e603cdc247aa99047ee7d04b3d0508d2b3e",
+            "w": 192
+          },
+          {
+            "bytes": 9724,
+            "h": 40,
+            "path": "webp/paired-winged-beasts-with-central-face-256.webp",
+            "sha256": "78498230eac90850c6c9a9bdc10b8eb3876aea1e4f58eff4b675f38a7f79fc4c",
+            "w": 256
+          },
+          {
+            "bytes": 19918,
+            "h": 60,
+            "path": "webp/paired-winged-beasts-with-central-face-384.webp",
+            "sha256": "b9eed1fae93270cd54d65d7076fea70a40d882afa3a0e93c5c5e3df44ab94539",
+            "w": 384
+          },
+          {
+            "bytes": 34362,
+            "h": 81,
+            "path": "webp/paired-winged-beasts-with-central-face-512.webp",
+            "sha256": "09deff3971330667c5d3365cfe523342c3a9e7cd3549a9fd966295eb501d74cb",
+            "w": 512
+          },
+          {
+            "bytes": 69870,
+            "h": 121,
+            "path": "webp/paired-winged-beasts-with-central-face-768.webp",
+            "sha256": "450ec3dc310c92f7f493d6708b88cde76374a28a6125ab2e25cdd1ad89f6e62a",
+            "w": 768
+          },
+          {
+            "bytes": 114724,
+            "h": 161,
+            "path": "webp/paired-winged-beasts-with-central-face-1024.webp",
+            "sha256": "bea85dcf769c5f99fa59d28da49cc805da963cb93d5775f4a37089f7033b3ca9",
+            "w": 1024
+          },
+          {
+            "bytes": 224380,
+            "h": 242,
+            "path": "webp/paired-winged-beasts-with-central-face-1536.webp",
+            "sha256": "aedc44c6b3d0c09df37312705ffea78ad1529301c4cf17eb35cc62c216d44f02",
+            "w": 1536
+          },
+          {
+            "bytes": 348396,
+            "h": 322,
+            "path": "webp/paired-winged-beasts-with-central-face-2048.webp",
+            "sha256": "c30ea775ca0e6672d2b9f1b87362486ae5d1c28e3fb451b9823cb755a7da0479",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "frieze",
+        "grotesque",
+        "canine-like-creature",
+        "horn",
+        "wings",
+        "mask",
+        "human",
+        "leaf",
+        "rule"
+      ],
+      "thumbhash": "TgiCAYAUaGeFp5Bsb9UguFdYdYeAmVg=",
+      "title": "Frieze with two winged beasts and a central face",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Complete band; the double rules above and below are part of the print, so crop inside them to use the beasts and face alone.",
+        "Symmetrical about the central face, so it sits well centred under a title."
+      ],
+      "width": 2397
+    },
+    "paired-winged-putti-holding-bowl-in-scroll": {
+      "attribution": "Metropolitan Museum of Art 2012.136.734",
+      "categories": [
+        "humans",
+        "fantasy",
+        "scrollwork"
+      ],
+      "colors": [
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A horizontal etched frieze between double rules. Two winged putti face each other at the centre and together hold a shallow bowl from which leaves sprout; their lower bodies turn into feathered, scaly scrolls that run outward to the ends, where they finish in curled acanthus leaves, a tendril with buds at the left and a leafy terminal at the right. Dark brown ink line work on a transparent background.",
+      "display_width": [
+        600,
+        1200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 186059,
+        "webpTopBytes": 373914
+      },
+      "facing": "mixed",
+      "group": "2012-136-734",
+      "height": 386,
+      "master": {
+        "bytes": 499544,
+        "h": 330,
+        "path": "masters/paired-winged-putti-holding-bowl-in-scroll.webp",
+        "sha256": "92407eb2656303768f282d15af50bcf18c5ed3f1299722cdad2e847e61107fca",
+        "w": 2048
+      },
+      "palette": [
+        "#42392e",
+        "#42392f",
+        "#41382e",
+        "#41392e",
+        "#41392f"
+      ],
+      "provenance": {
+        "artist": "Daniel Hopfer",
+        "date": "ca. 1515",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP828584.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "2012.136.734",
+        "object_title": "Designs for Ten Decorative Friezes",
+        "record_url": "https://www.metmuseum.org/art/collection/search/399648",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "60fd4669a32dd1cc0c1acbe0e532bd8bc6db16e2c722c0a2f258ca8bc76df1cc"
+      },
+      "quality": "The rules are hand-printed and slightly uneven; short faint stretches of them were completed from neighbouring ink.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 767,
+            "h": 10,
+            "path": "avif/paired-winged-putti-holding-bowl-in-scroll-64.avif",
+            "sha256": "fcbad506c121785c57e31b27e08cef7935101e3df5ab47a84cb66ca13bbf5144",
+            "w": 64
+          },
+          {
+            "bytes": 1300,
+            "h": 15,
+            "path": "avif/paired-winged-putti-holding-bowl-in-scroll-96.avif",
+            "sha256": "da89db76540578d81d5e357df0f8799b2840de03ec7bbfdbb37d535ea17037eb",
+            "w": 96
+          },
+          {
+            "bytes": 1920,
+            "h": 21,
+            "path": "avif/paired-winged-putti-holding-bowl-in-scroll-128.avif",
+            "sha256": "f91b0faffad5ee7d73b33d837cc652acc7ddf9097cbe07712415cf109b78b36a",
+            "w": 128
+          },
+          {
+            "bytes": 3374,
+            "h": 31,
+            "path": "avif/paired-winged-putti-holding-bowl-in-scroll-192.avif",
+            "sha256": "3891e7020381849ac65c939a7113998c799f9386de9c0abdd499c2c4549070f8",
+            "w": 192
+          },
+          {
+            "bytes": 5595,
+            "h": 41,
+            "path": "avif/paired-winged-putti-holding-bowl-in-scroll-256.avif",
+            "sha256": "533cb72f797031127b767aa01a3f205e8b94b0f50d1f88f1940d3ea5de7cbc4e",
+            "w": 256
+          },
+          {
+            "bytes": 11969,
+            "h": 62,
+            "path": "avif/paired-winged-putti-holding-bowl-in-scroll-384.avif",
+            "sha256": "9b98b8468fe15b89b7c7e4764ac1e43e0297bd3bfc46b5b4a7a13ce2b2a1616e",
+            "w": 384
+          },
+          {
+            "bytes": 20448,
+            "h": 83,
+            "path": "avif/paired-winged-putti-holding-bowl-in-scroll-512.avif",
+            "sha256": "853d652a56ec10c176ca5e1995b1aa41063c0c2933fec4e9f7786b8bd1fcad1e",
+            "w": 512
+          },
+          {
+            "bytes": 40418,
+            "h": 124,
+            "path": "avif/paired-winged-putti-holding-bowl-in-scroll-768.avif",
+            "sha256": "c31a1eaffefbcc032f7c61c59c6f695b62c7bfe45932af6aa735c540268997c2",
+            "w": 768
+          },
+          {
+            "bytes": 65098,
+            "h": 165,
+            "path": "avif/paired-winged-putti-holding-bowl-in-scroll-1024.avif",
+            "sha256": "3c534162f97c055faf3de1a100cfe9ca91604b0559c30fdcb8e45153a7597087",
+            "w": 1024
+          },
+          {
+            "bytes": 120746,
+            "h": 248,
+            "path": "avif/paired-winged-putti-holding-bowl-in-scroll-1536.avif",
+            "sha256": "c2f9c4eab0cc585b830b7b74d5852d9cc30d711b4778f80ee5f5e7c229517b01",
+            "w": 1536
+          },
+          {
+            "bytes": 186059,
+            "h": 330,
+            "path": "avif/paired-winged-putti-holding-bowl-in-scroll-2048.avif",
+            "sha256": "cb697049ec0034c662367dd36d5cf6d9399f442610982a156fb4fab5ea86b82d",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 754,
+            "h": 10,
+            "path": "webp/paired-winged-putti-holding-bowl-in-scroll-64.webp",
+            "sha256": "9c1ccac4b214cb4a72688d0542a307ea7f898c4674a14fc3f1cf5a3ea5a3fde1",
+            "w": 64
+          },
+          {
+            "bytes": 1554,
+            "h": 15,
+            "path": "webp/paired-winged-putti-holding-bowl-in-scroll-96.webp",
+            "sha256": "5b5aae719507a646e838543bf2d2bcd1ca14d611371bdbfb8ce37193bda035db",
+            "w": 96
+          },
+          {
+            "bytes": 3068,
+            "h": 21,
+            "path": "webp/paired-winged-putti-holding-bowl-in-scroll-128.webp",
+            "sha256": "9fde11d02e6c390ec78480a52832c6be3134ac32fac0460df60111f095592765",
+            "w": 128
+          },
+          {
+            "bytes": 5848,
+            "h": 31,
+            "path": "webp/paired-winged-putti-holding-bowl-in-scroll-192.webp",
+            "sha256": "e0cc5290bfe20e843ac0d9a966c00a5d3175f56ce08b214485bee142e8b9e47c",
+            "w": 192
+          },
+          {
+            "bytes": 10106,
+            "h": 41,
+            "path": "webp/paired-winged-putti-holding-bowl-in-scroll-256.webp",
+            "sha256": "0860ff511d80f795c298bc29f7e5867c032e7dd63fb9fa0ea275ee4cf5d8e81d",
+            "w": 256
+          },
+          {
+            "bytes": 19674,
+            "h": 62,
+            "path": "webp/paired-winged-putti-holding-bowl-in-scroll-384.webp",
+            "sha256": "008a0b21cace07b8c35703d03280e32cb9628114a8b921e728ce54027d7319c0",
+            "w": 384
+          },
+          {
+            "bytes": 34296,
+            "h": 83,
+            "path": "webp/paired-winged-putti-holding-bowl-in-scroll-512.webp",
+            "sha256": "f47073e019bc8bbbaf8bab291306768f9484176899c88a2d3585f7cb6a36454f",
+            "w": 512
+          },
+          {
+            "bytes": 71154,
+            "h": 124,
+            "path": "webp/paired-winged-putti-holding-bowl-in-scroll-768.webp",
+            "sha256": "036f8a6e00045e5a1a8944900c5352eea80f2e524f5688201ac444f8a28270ec",
+            "w": 768
+          },
+          {
+            "bytes": 117562,
+            "h": 165,
+            "path": "webp/paired-winged-putti-holding-bowl-in-scroll-1024.webp",
+            "sha256": "535dfc52ea8fe12be384f7fb1f28f1a943163af6e0a798b20d01e5b928e66280",
+            "w": 1024
+          },
+          {
+            "bytes": 231382,
+            "h": 248,
+            "path": "webp/paired-winged-putti-holding-bowl-in-scroll-1536.webp",
+            "sha256": "1c8cd4cd227b50f2aadfa5bd8433dacd91f6da039b22f6dd6a95d964aeedf902",
+            "w": 1536
+          },
+          {
+            "bytes": 373914,
+            "h": 330,
+            "path": "webp/paired-winged-putti-holding-bowl-in-scroll-2048.webp",
+            "sha256": "070bbfc075cace1f1dd290fb27f3d8396c8488f6604f3ffd29a04455afc1061e",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "frieze",
+        "putto",
+        "wings",
+        "bowl",
+        "acanthus",
+        "leaf",
+        "scroll",
+        "rule"
+      ],
+      "thumbhash": "ThiCAYAknDiGiHAI+Lb+q2h4dnhwmFg=",
+      "title": "Frieze with two winged putti holding a bowl",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Complete band; the double rules above and below are part of the print, so crop inside them to use the putti and scroll alone.",
+        "Symmetrical about the bowl, so it sits well centred under a title."
+      ],
+      "width": 2394
+    },
+    "scroll-with-horned-bearded-mask": {
+      "attribution": "Metropolitan Museum of Art 2012.136.734",
+      "categories": [
+        "fantasy",
+        "scrollwork",
+        "botanical"
+      ],
+      "colors": [
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A horizontal etched frieze between double rules. From a lobed leaf with berried tendrils at the left, a stem curls through acanthus volutes and a looped, scalloped feathered stem into a hairy winged creature whose body fills the right half; its long-bearded head with a curled horn is at the right end, facing right with open mouth. Dark brown ink line work on a transparent background.",
+      "display_width": [
+        600,
+        1200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 217369,
+        "webpTopBytes": 434066
+      },
+      "facing": "right",
+      "group": "2012-136-734",
+      "height": 405,
+      "master": {
+        "bytes": 566240,
+        "h": 346,
+        "path": "masters/scroll-with-horned-bearded-mask.webp",
+        "sha256": "269bbb4feb830ee639df1d08fa0ce9fed0010abe56e3f1c8f868c9e34988c593",
+        "w": 2048
+      },
+      "palette": [
+        "#41392e",
+        "#40392e",
+        "#40382d"
+      ],
+      "provenance": {
+        "artist": "Daniel Hopfer",
+        "date": "ca. 1515",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP828584.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "2012.136.734",
+        "object_title": "Designs for Ten Decorative Friezes",
+        "record_url": "https://www.metmuseum.org/art/collection/search/399648",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "60fd4669a32dd1cc0c1acbe0e532bd8bc6db16e2c722c0a2f258ca8bc76df1cc"
+      },
+      "quality": "The rules are hand-printed and slightly uneven; short faint stretches of them were completed from neighbouring ink.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 980,
+            "h": 11,
+            "path": "avif/scroll-with-horned-bearded-mask-64.avif",
+            "sha256": "258265dd32494446ab4764956c7de10cb7e8baebb11ed0ce0dc3b66beaf6f39e",
+            "w": 64
+          },
+          {
+            "bytes": 1524,
+            "h": 16,
+            "path": "avif/scroll-with-horned-bearded-mask-96.avif",
+            "sha256": "4fea3eb1576f4f0c016e33e6b6ee3990dd6904855e49c1f280c795892421993b",
+            "w": 96
+          },
+          {
+            "bytes": 2322,
+            "h": 22,
+            "path": "avif/scroll-with-horned-bearded-mask-128.avif",
+            "sha256": "f5a3a882cab85bf4f299cadea2c3aa898570b2b564c665a997a9b206056f011a",
+            "w": 128
+          },
+          {
+            "bytes": 4652,
+            "h": 32,
+            "path": "avif/scroll-with-horned-bearded-mask-192.avif",
+            "sha256": "ff72fa9bb671fafa62fcca6e1cf316b23ad6f8b096957b97f15b418ac1e09c1c",
+            "w": 192
+          },
+          {
+            "bytes": 7337,
+            "h": 43,
+            "path": "avif/scroll-with-horned-bearded-mask-256.avif",
+            "sha256": "5518a483cb8a9428790760d90058367c6db094e5d69466c6ab9cc8c4d9bcc84b",
+            "w": 256
+          },
+          {
+            "bytes": 13577,
+            "h": 65,
+            "path": "avif/scroll-with-horned-bearded-mask-384.avif",
+            "sha256": "59d32bb7750af1b8d40668674fda25b3defb71cce2043006516a9454abbee382",
+            "w": 384
+          },
+          {
+            "bytes": 25584,
+            "h": 87,
+            "path": "avif/scroll-with-horned-bearded-mask-512.avif",
+            "sha256": "7d8c1efdc51711712f0c2d2106995abd052c08d4f0e8c94ff2e2774634cfad21",
+            "w": 512
+          },
+          {
+            "bytes": 47943,
+            "h": 130,
+            "path": "avif/scroll-with-horned-bearded-mask-768.avif",
+            "sha256": "a39efd03d93b2adb4f4ecae53cce23c5de8b6a04677f5cf9a1b2b88400cd945c",
+            "w": 768
+          },
+          {
+            "bytes": 77630,
+            "h": 173,
+            "path": "avif/scroll-with-horned-bearded-mask-1024.avif",
+            "sha256": "c8c3cdd4e45871dd6de50d2bd22de78a363c29df126eed9824b886a711d838c7",
+            "w": 1024
+          },
+          {
+            "bytes": 139816,
+            "h": 260,
+            "path": "avif/scroll-with-horned-bearded-mask-1536.avif",
+            "sha256": "08d5dc1398a8868bd4367af960bd35b0e8d6e80757b4d920648bbaf9fdf2fd82",
+            "w": 1536
+          },
+          {
+            "bytes": 217369,
+            "h": 346,
+            "path": "avif/scroll-with-horned-bearded-mask-2048.avif",
+            "sha256": "343e641ce46901e9ff01bf53997ea1526ee44eccf45388d85c2d2b91e858d398",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 900,
+            "h": 11,
+            "path": "webp/scroll-with-horned-bearded-mask-64.webp",
+            "sha256": "7627839cd736ce18d950bad144a612424e6ca29fd1895de6785bb60fa6b14752",
+            "w": 64
+          },
+          {
+            "bytes": 1942,
+            "h": 16,
+            "path": "webp/scroll-with-horned-bearded-mask-96.webp",
+            "sha256": "92432ec4fe4849e8113e3611693b66adaeb586d566baede3cae2f722e9eb461f",
+            "w": 96
+          },
+          {
+            "bytes": 3502,
+            "h": 22,
+            "path": "webp/scroll-with-horned-bearded-mask-128.webp",
+            "sha256": "3bdb8fa2722e897141251063f16c6d177d1f3bca22096e52f153aaa8bda87854",
+            "w": 128
+          },
+          {
+            "bytes": 7364,
+            "h": 32,
+            "path": "webp/scroll-with-horned-bearded-mask-192.webp",
+            "sha256": "592bf9965a41ba58c6df151229326190dd73424c3aa72576624090b0d4ab959c",
+            "w": 192
+          },
+          {
+            "bytes": 12090,
+            "h": 43,
+            "path": "webp/scroll-with-horned-bearded-mask-256.webp",
+            "sha256": "1960674277f5c81a58e8aed89e3a9be8c5fc7d0f8d1c7473afd3f064a078f6ac",
+            "w": 256
+          },
+          {
+            "bytes": 24572,
+            "h": 65,
+            "path": "webp/scroll-with-horned-bearded-mask-384.webp",
+            "sha256": "4b0569d0bf62362c18eb613b7ef8c99e4148ecfc42bf256744ca71acabc1ba8b",
+            "w": 384
+          },
+          {
+            "bytes": 42470,
+            "h": 87,
+            "path": "webp/scroll-with-horned-bearded-mask-512.webp",
+            "sha256": "72a11665e04f077d82b1ce73b68d4f502784145acbd55e356fdf34a41a63520a",
+            "w": 512
+          },
+          {
+            "bytes": 84682,
+            "h": 130,
+            "path": "webp/scroll-with-horned-bearded-mask-768.webp",
+            "sha256": "b6e56a197f1246e138521c60846c30642d46bc837ba38914e74d6776d1b7d458",
+            "w": 768
+          },
+          {
+            "bytes": 138536,
+            "h": 173,
+            "path": "webp/scroll-with-horned-bearded-mask-1024.webp",
+            "sha256": "c028769e0ac0e1cc8dffe05b413f1cda8b6c33ac969c795057c92953fa4e0a2a",
+            "w": 1024
+          },
+          {
+            "bytes": 268524,
+            "h": 260,
+            "path": "webp/scroll-with-horned-bearded-mask-1536.webp",
+            "sha256": "a27ef9acec545abd8811cd2f17296586a825708b3061cb6fa279ce3127d44529",
+            "w": 1536
+          },
+          {
+            "bytes": 434066,
+            "h": 346,
+            "path": "webp/scroll-with-horned-bearded-mask-2048.webp",
+            "sha256": "c0e8bd2c8e36fc7ea8f66cef241986fa56a1aa8eb1550c192a314f82b153802b",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "frieze",
+        "grotesque",
+        "mask",
+        "beard",
+        "horn",
+        "wings",
+        "leaf",
+        "scroll",
+        "rule"
+      ],
+      "thumbhash": "TgiCAYAUsyqLaKAWRl/4fXVJeXeQh0c=",
+      "title": "Frieze of a scroll ending in a horned bearded head",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Complete band; the double rules above and below are part of the print, so crop inside them to use the scroll alone.",
+        "Reads from the leaf at the left to the head at the right; mirror it for a left-pointing use."
+      ],
+      "width": 2396
+    },
+    "tall-grotesque-candelabrum-with-paired-satyrs": {
+      "attribution": "Metropolitan Museum of Art 2012.136.735",
+      "categories": [
+        "fantasy",
+        "hybrids",
+        "humans",
+        "scrollwork"
+      ],
+      "colors": [
+        "brown",
+        "gray",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall, narrow, symmetrical etched candelabrum seen frontally. From the bottom up, a stepped plinth carries an acanthus base with two bearded masks, a blank tablet, two winged dolphins, a fluted basin, two standing satyrs each raising a flaming cup with a bird-headed grotesque at either side, a second basin, two crouching bat-winged grotesques, two more dolphins, a plumed stem, a small nude figure between two balusters, and a crossbar hung with swags and flaming torches. Brownish-grey ink line work on a transparent background.",
+      "display_width": [
+        160,
+        360
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 1122926,
+        "webpTopBytes": 1767804
+      },
+      "facing": "viewer",
+      "group": "2012-136-735",
+      "height": 3616,
+      "master": {
+        "bytes": 1073506,
+        "h": 2050,
+        "path": "masters/tall-grotesque-candelabrum-with-paired-satyrs.webp",
+        "sha256": "6a42dddcefdaf7681fdb3521e5579dd0e9ac99dc6ebe7a662e86efab9b9e154f",
+        "w": 594
+      },
+      "palette": [
+        "#473c30",
+        "#463b2f",
+        "#473b2f",
+        "#473d2f"
+      ],
+      "provenance": {
+        "artist": "Daniel Hopfer",
+        "date": "ca. 1485–1536",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP828559.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "2012.136.735",
+        "object_title": "Candelabra Grotesque",
+        "record_url": "https://www.metmuseum.org/art/collection/search/399650",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "ef794d7bb70b14391ef57fb4063cacc89ab8862a24a44b562662da18ffe34e41"
+      },
+      "quality": "A handwritten numeral 7 at the lower left and a few faint stray marks near the right edge are from the sheet and were kept; the ornament runs to within a few pixels of the left edge.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 8539,
+            "h": 221,
+            "path": "avif/tall-grotesque-candelabrum-with-paired-satyrs-64.avif",
+            "sha256": "ec1e4d85839d13232d4cec267359abf319b0d9d985a4882bbcf4a6e29abfb28d",
+            "w": 64
+          },
+          {
+            "bytes": 17946,
+            "h": 331,
+            "path": "avif/tall-grotesque-candelabrum-with-paired-satyrs-96.avif",
+            "sha256": "0d8ad3f3a399a54abd0d7ebf413a7b77a6121f43fdff7579eba5846569a332de",
+            "w": 96
+          },
+          {
+            "bytes": 30578,
+            "h": 442,
+            "path": "avif/tall-grotesque-candelabrum-with-paired-satyrs-128.avif",
+            "sha256": "9b2df0c9f5aa1e145e4f282cf356040f53e0b3b404a52b22f55b7d04b53ebd0c",
+            "w": 128
+          },
+          {
+            "bytes": 63455,
+            "h": 662,
+            "path": "avif/tall-grotesque-candelabrum-with-paired-satyrs-192.avif",
+            "sha256": "f6b5e0a8bf76ca71b69c5c6cf146bd02e2b46cf82193279b43b875f8f8532fe2",
+            "w": 192
+          },
+          {
+            "bytes": 107688,
+            "h": 883,
+            "path": "avif/tall-grotesque-candelabrum-with-paired-satyrs-256.avif",
+            "sha256": "5abdbda6505b92713c9541e8eb30898a02fca4c8bbb587a6eabfc3503c50f7d6",
+            "w": 256
+          },
+          {
+            "bytes": 225001,
+            "h": 1325,
+            "path": "avif/tall-grotesque-candelabrum-with-paired-satyrs-384.avif",
+            "sha256": "d38b744c7d2edc01c2cb0919f7742b79b1a52d35cf727db39008e4509e6582d6",
+            "w": 384
+          },
+          {
+            "bytes": 376933,
+            "h": 1767,
+            "path": "avif/tall-grotesque-candelabrum-with-paired-satyrs-512.avif",
+            "sha256": "2e0d7906b776b62b4540095c456a1c57b6ab72ff4fe3d0476bdd928dc21fb408",
+            "w": 512
+          },
+          {
+            "bytes": 771764,
+            "h": 2650,
+            "path": "avif/tall-grotesque-candelabrum-with-paired-satyrs-768.avif",
+            "sha256": "4e080b31d2972d0f8ba80d9a92649290a2adf985ccc0f7b96eda71d69524d0bc",
+            "w": 768
+          },
+          {
+            "bytes": 1292269,
+            "h": 3533,
+            "path": "avif/tall-grotesque-candelabrum-with-paired-satyrs-1024.avif",
+            "sha256": "36ef6a31674a441d56b8fa2b4e81f5dab41aca2f9ca3cc96c6913e90567ec9fb",
+            "w": 1024
+          },
+          {
+            "bytes": 1122926,
+            "h": 3616,
+            "path": "avif/tall-grotesque-candelabrum-with-paired-satyrs-1048.avif",
+            "sha256": "c4a014b9139e60f92d45e658e15d943f1dad0b840642a7c671e721f3e2cc4018",
+            "w": 1048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 14100,
+            "h": 221,
+            "path": "webp/tall-grotesque-candelabrum-with-paired-satyrs-64.webp",
+            "sha256": "5444e35fa49e218ece9614d32d4e76665e8703febcdc53eba8290746bcdd22d1",
+            "w": 64
+          },
+          {
+            "bytes": 30384,
+            "h": 331,
+            "path": "webp/tall-grotesque-candelabrum-with-paired-satyrs-96.webp",
+            "sha256": "8ce33265b048f8aef415b19f24b8b378657fb804269525c0f9f2f686ad5c234b",
+            "w": 96
+          },
+          {
+            "bytes": 52778,
+            "h": 442,
+            "path": "webp/tall-grotesque-candelabrum-with-paired-satyrs-128.webp",
+            "sha256": "09a357fa436985ac4ec8165160634f9c7125b43274c41272778e1a3acf52bacf",
+            "w": 128
+          },
+          {
+            "bytes": 113470,
+            "h": 662,
+            "path": "webp/tall-grotesque-candelabrum-with-paired-satyrs-192.webp",
+            "sha256": "7b17c2556233132ab7ade6d174ec3b241a27f27d122ed360ba7d60a027006efe",
+            "w": 192
+          },
+          {
+            "bytes": 194038,
+            "h": 883,
+            "path": "webp/tall-grotesque-candelabrum-with-paired-satyrs-256.webp",
+            "sha256": "227447258264eb1e2f311d77a247062965fa7b6642578094c69922395b699029",
+            "w": 256
+          },
+          {
+            "bytes": 403582,
+            "h": 1325,
+            "path": "webp/tall-grotesque-candelabrum-with-paired-satyrs-384.webp",
+            "sha256": "437dbe18cae29f59cbc7f9f3f7c03124c81d5142075f8c8f30ee3f003a5e267b",
+            "w": 384
+          },
+          {
+            "bytes": 679164,
+            "h": 1767,
+            "path": "webp/tall-grotesque-candelabrum-with-paired-satyrs-512.webp",
+            "sha256": "c63c446f978bdb03be810243184549b6f4e57d3c967840b05073424a4391b7a0",
+            "w": 512
+          },
+          {
+            "bytes": 1424674,
+            "h": 2650,
+            "path": "webp/tall-grotesque-candelabrum-with-paired-satyrs-768.webp",
+            "sha256": "4cde46b8a009f14c6d7f574da4b804a6a92bb0fcbab57723774fa653e1ef82a8",
+            "w": 768
+          },
+          {
+            "bytes": 2404374,
+            "h": 3533,
+            "path": "webp/tall-grotesque-candelabrum-with-paired-satyrs-1024.webp",
+            "sha256": "d559557bdd5ad0953c7f8b4a1593bdd96a33886c769c73df2af966fa5b4d7785",
+            "w": 1024
+          },
+          {
+            "bytes": 1767804,
+            "h": 3616,
+            "path": "webp/tall-grotesque-candelabrum-with-paired-satyrs-1048.webp",
+            "sha256": "55ca4092f2ac9b2c980851359301681100ae9cf9ba9d68658fec1443578c5e6d",
+            "w": 1048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "candelabrum",
+        "grotesque",
+        "satyr",
+        "mask",
+        "dolphin",
+        "wings",
+        "flame",
+        "acanthus",
+        "human",
+        "bowl"
+      ],
+      "thumbhash": "jxiCAQAUBZFZFxgu82WAiApXdXd2iGc=",
+      "title": "Candelabra grotesque with two satyrs",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Very tall piece (about 1 to 3.5); it suits a page margin, a column or a vertical separator at full height.",
+        "The blank tablet above the base can carry a short caption."
+      ],
+      "width": 1048
+    },
+    "thistle-panel": {
+      "attribution": "Metropolitan Museum of Art 24.68.2",
+      "categories": [
+        "botanical",
+        "animals",
+        "scrollwork"
+      ],
+      "colors": [
+        "black",
+        "white",
+        "gray"
+      ],
+      "composition": "single-ornament",
+      "description": "An upright rectangular etched panel inside a thin black frame line. Thick, white thistle stems with spiked lobed leaves and small thistle heads curl and interlace over a dark cross-hatched ground; a bird holding a sprig flies in at the top left, a crane-like bird stands at the top right, a third bird perches at the lower left, and a few open five-petalled flowers fill the corners. The monogram DH is cut into the stem at the bottom centre. Black, grey and white; the panel is opaque with its ground kept, and only the margin outside the frame line is transparent.",
+      "display_width": [
+        300,
+        600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 282026,
+        "webpTopBytes": 499426
+      },
+      "facing": "none",
+      "group": "24-68-2",
+      "height": 1421,
+      "master": {
+        "bytes": 2129350,
+        "h": 1421,
+        "path": "masters/thistle-panel.webp",
+        "sha256": "0ecf1f8f62090533c66162bd991e628d7deb490cd84dfecc9f215c5e052ccb67",
+        "w": 971
+      },
+      "palette": [
+        "#464645",
+        "#6a6a69",
+        "#908f8e",
+        "#b1b0af",
+        "#cdcccb"
+      ],
+      "provenance": {
+        "artist": "Daniel Hopfer",
+        "date": "1510-1528",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/MM47469.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "24.68.2",
+        "object_title": "Ornamental Fillet with Thistle Motifs",
+        "record_url": "https://www.metmuseum.org/art/collection/search/373115",
+        "rights_text": "Public Domain",
+        "rights_url": "https://www.metmuseum.org/art/collection/search/373115",
+        "source_sha256": "5358f3001b24cd7b2e4a87a420be53f79ccc42a9655d18be6e94d5a684d40d3a"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2734,
+            "h": 94,
+            "path": "avif/thistle-panel-64.avif",
+            "sha256": "6c3f7116afee0a7ee177aa4b64a764178220ebafa82909c9954cc305627aff3b",
+            "w": 64
+          },
+          {
+            "bytes": 5413,
+            "h": 140,
+            "path": "avif/thistle-panel-96.avif",
+            "sha256": "222eaa22c0b339c9e619ca85a7ef3a77233edf2ee797d128bc079e7b3383bf77",
+            "w": 96
+          },
+          {
+            "bytes": 8823,
+            "h": 187,
+            "path": "avif/thistle-panel-128.avif",
+            "sha256": "e6c408288837f36a127943da02686154b64d5edfb733b22a2c69597f89fc99d3",
+            "w": 128
+          },
+          {
+            "bytes": 17857,
+            "h": 281,
+            "path": "avif/thistle-panel-192.avif",
+            "sha256": "7d3e3a848081cd1637828732d32d08191321c24ff3f137eb75bcc6624db691ba",
+            "w": 192
+          },
+          {
+            "bytes": 30511,
+            "h": 375,
+            "path": "avif/thistle-panel-256.avif",
+            "sha256": "3cd01dc45d9edbfded2afc009543497448e84d7e8c4eccb536f51b9fda926bb2",
+            "w": 256
+          },
+          {
+            "bytes": 62434,
+            "h": 562,
+            "path": "avif/thistle-panel-384.avif",
+            "sha256": "a2358c07b1f3546a66712d7c9a2a0ff540b6539e132db07cdf39c5ec8d5c5d93",
+            "w": 384
+          },
+          {
+            "bytes": 108397,
+            "h": 749,
+            "path": "avif/thistle-panel-512.avif",
+            "sha256": "4121e9695f0733d60af6726f1a602588513cedb97eb3049846bcb85cf8280111",
+            "w": 512
+          },
+          {
+            "bytes": 209486,
+            "h": 1124,
+            "path": "avif/thistle-panel-768.avif",
+            "sha256": "b3286cf55566abdbe5364e0ef128fd0a43a1f1374af5146f172e7141143b8570",
+            "w": 768
+          },
+          {
+            "bytes": 282026,
+            "h": 1421,
+            "path": "avif/thistle-panel-971.avif",
+            "sha256": "739cf2f8d24e23beffb47b28dac49f77fbc98d7171de06787069bb58a7accbe6",
+            "w": 971
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3806,
+            "h": 94,
+            "path": "webp/thistle-panel-64.webp",
+            "sha256": "e0783c69e83c7261a85d783448b3e70e14d992f939af85a2ef9db8a641174eb7",
+            "w": 64
+          },
+          {
+            "bytes": 7710,
+            "h": 140,
+            "path": "webp/thistle-panel-96.webp",
+            "sha256": "e2dc639c1d994831b18a70a5c2d97e1c93c1b2fb87c33675ffa3414bc7520c78",
+            "w": 96
+          },
+          {
+            "bytes": 13120,
+            "h": 187,
+            "path": "webp/thistle-panel-128.webp",
+            "sha256": "f2467039be7cfac66212a745c5fbe2236e093b88f7c07ff40863bbd663d8e899",
+            "w": 128
+          },
+          {
+            "bytes": 27518,
+            "h": 281,
+            "path": "webp/thistle-panel-192.webp",
+            "sha256": "cdbd1932e272acc9486502d832e1629997ce36cf4c14cc2ba812b8027d30394b",
+            "w": 192
+          },
+          {
+            "bytes": 46640,
+            "h": 375,
+            "path": "webp/thistle-panel-256.webp",
+            "sha256": "baa4fa2e8175f97687e3f5a46b856d0f959a8cb0710212e5d7657616595a3120",
+            "w": 256
+          },
+          {
+            "bytes": 97150,
+            "h": 562,
+            "path": "webp/thistle-panel-384.webp",
+            "sha256": "b1b58026c67e0fee72c4f80ab1002bd91433cb01ecf661150cfc8cd92d30cd81",
+            "w": 384
+          },
+          {
+            "bytes": 166584,
+            "h": 749,
+            "path": "webp/thistle-panel-512.webp",
+            "sha256": "c5290a0e08c1dfbf4294fa3faefb08d4fa3b6ae224e386800db2505f7a8f2144",
+            "w": 512
+          },
+          {
+            "bytes": 345388,
+            "h": 1124,
+            "path": "webp/thistle-panel-768.webp",
+            "sha256": "a5397e5e0560feab5724d5fc6f39b2269ef20f5651b36b272e20b8fe58d49219",
+            "w": 768
+          },
+          {
+            "bytes": 499426,
+            "h": 1421,
+            "path": "webp/thistle-panel-971.webp",
+            "sha256": "1ad1e2b8ac9c6265741b88717e8d3b3b3a32d055355bd33cb7e1fbf37e3adbaa",
+            "w": 971
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "thistle",
+        "bird",
+        "leaf",
+        "flower",
+        "monogram",
+        "scroll",
+        "frame"
+      ],
+      "thumbhash": "HwiCAwAOZVAIxjfTfy7f9ggHiHdwhwg=",
+      "title": "Thistle panel with birds",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Opaque panel with its original hatched ground and frame line; place it as a picture or plate, not as a cut-out.",
+        "The DH monogram at the bottom centre is part of the print and should stay visible."
+      ],
+      "width": 971
+    },
+    "winged-putto-with-shield-and-braided-scroll": {
+      "attribution": "Metropolitan Museum of Art 2012.136.734",
+      "categories": [
+        "humans",
+        "fantasy",
+        "scrollwork"
+      ],
+      "colors": [
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A horizontal etched frieze between double rules. A winged putto lies at the left end facing left and holds up an empty curved-top shield; its lower body turns into two intertwined, braided stems that run to the right through a leafy calyx flower and finish at the right end in a fanned leaf terminal with a small spiral. Dark brown ink line work on a transparent background.",
+      "display_width": [
+        600,
+        1200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 176470,
+        "webpTopBytes": 352860
+      },
+      "facing": "left",
+      "group": "2012-136-734",
+      "height": 344,
+      "master": {
+        "bytes": 480600,
+        "h": 293,
+        "path": "masters/winged-putto-with-shield-and-braided-scroll.webp",
+        "sha256": "ef345c32755d58d88170e0f6e7aa7b8d065fecfa57c0ee9176da867035247002",
+        "w": 2048
+      },
+      "palette": [
+        "#41392f",
+        "#40392f",
+        "#41392e",
+        "#40392e"
+      ],
+      "provenance": {
+        "artist": "Daniel Hopfer",
+        "date": "ca. 1515",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP828584.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "mixed-source-extraction",
+        "object_identifier": "2012.136.734",
+        "object_title": "Designs for Ten Decorative Friezes",
+        "record_url": "https://www.metmuseum.org/art/collection/search/399648",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "60fd4669a32dd1cc0c1acbe0e532bd8bc6db16e2c722c0a2f258ca8bc76df1cc"
+      },
+      "quality": "The rules are hand-printed and slightly uneven; short faint stretches of them were completed from neighbouring ink.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 854,
+            "h": 9,
+            "path": "avif/winged-putto-with-shield-and-braided-scroll-64.avif",
+            "sha256": "4342cc4c4aadd9ac4f0822161812df622567ba5fe6e440081ceae83e6585c661",
+            "w": 64
+          },
+          {
+            "bytes": 1407,
+            "h": 14,
+            "path": "avif/winged-putto-with-shield-and-braided-scroll-96.avif",
+            "sha256": "389fc198de6bc3acd1c56744bf74d3b72ca34011bb3b0935f26be408c48be2e6",
+            "w": 96
+          },
+          {
+            "bytes": 1844,
+            "h": 18,
+            "path": "avif/winged-putto-with-shield-and-braided-scroll-128.avif",
+            "sha256": "832a14418ab50227869dce5b7f2d3b4b177fe0a158ddd2277e4c1b216c6ca4ba",
+            "w": 128
+          },
+          {
+            "bytes": 3542,
+            "h": 27,
+            "path": "avif/winged-putto-with-shield-and-braided-scroll-192.avif",
+            "sha256": "587015e4d913e0d8c3d991be09f388e4318d20cc9c069a9e94bcf6d0675a962a",
+            "w": 192
+          },
+          {
+            "bytes": 5917,
+            "h": 37,
+            "path": "avif/winged-putto-with-shield-and-braided-scroll-256.avif",
+            "sha256": "7da4d9eb95dabede48a0b442e965e0674e58869012b414dd4b363bd36b333c6b",
+            "w": 256
+          },
+          {
+            "bytes": 11838,
+            "h": 55,
+            "path": "avif/winged-putto-with-shield-and-braided-scroll-384.avif",
+            "sha256": "c546572b22a5fc5dfe158735cf7d7cf605fdf3e68bd67615851a3afc5b4b652d",
+            "w": 384
+          },
+          {
+            "bytes": 20621,
+            "h": 73,
+            "path": "avif/winged-putto-with-shield-and-braided-scroll-512.avif",
+            "sha256": "129f5716cc03b420376acf8afcb31e1590103debc3c1ef35293844cd1961e881",
+            "w": 512
+          },
+          {
+            "bytes": 40153,
+            "h": 110,
+            "path": "avif/winged-putto-with-shield-and-braided-scroll-768.avif",
+            "sha256": "e3e560c8ebe157ce3e538156a14e25d089b0ea65fc1bb4c0b5f756d160158eb5",
+            "w": 768
+          },
+          {
+            "bytes": 63419,
+            "h": 146,
+            "path": "avif/winged-putto-with-shield-and-braided-scroll-1024.avif",
+            "sha256": "a8b4374199ebed9d00fc49187f021c458818255c75b6be3a282ed620a9866bd1",
+            "w": 1024
+          },
+          {
+            "bytes": 113744,
+            "h": 220,
+            "path": "avif/winged-putto-with-shield-and-braided-scroll-1536.avif",
+            "sha256": "b0004b9e7d175296d7ef86f359302ee0e4152746bf5e90615d841573a2d6a0a1",
+            "w": 1536
+          },
+          {
+            "bytes": 176470,
+            "h": 293,
+            "path": "avif/winged-putto-with-shield-and-braided-scroll-2048.avif",
+            "sha256": "41baba20d0ebc4893715390e24a7f98b52e281a4237c6deda437b089f2bc8a95",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 732,
+            "h": 9,
+            "path": "webp/winged-putto-with-shield-and-braided-scroll-64.webp",
+            "sha256": "f77e9b658f839d1e875e1565e05d84c181c4e70cb10c4cf7490b8b93df42671c",
+            "w": 64
+          },
+          {
+            "bytes": 1714,
+            "h": 14,
+            "path": "webp/winged-putto-with-shield-and-braided-scroll-96.webp",
+            "sha256": "ac70a3be876f776ffe15c88e64742ac1157066d9f2b3757bbff0642c4ecf750d",
+            "w": 96
+          },
+          {
+            "bytes": 2816,
+            "h": 18,
+            "path": "webp/winged-putto-with-shield-and-braided-scroll-128.webp",
+            "sha256": "7200d3a78cf711ab4966d564b9fb29e37d04867cf882ece15a8b097776917e2a",
+            "w": 128
+          },
+          {
+            "bytes": 5962,
+            "h": 27,
+            "path": "webp/winged-putto-with-shield-and-braided-scroll-192.webp",
+            "sha256": "6300f838fb492477c707312cfdfb9ccec8b6c2b505284c7ebadd44be4f1f5e25",
+            "w": 192
+          },
+          {
+            "bytes": 9608,
+            "h": 37,
+            "path": "webp/winged-putto-with-shield-and-braided-scroll-256.webp",
+            "sha256": "4bd14cb20aeb5f129d669bdf0248df0fe6d335fcfc4181b9c894f7691d618b05",
+            "w": 256
+          },
+          {
+            "bytes": 20798,
+            "h": 55,
+            "path": "webp/winged-putto-with-shield-and-braided-scroll-384.webp",
+            "sha256": "da4af40146fdc0a2abe3c6c22696e8edad9ac7c15b13f05a2789d688eca18ef5",
+            "w": 384
+          },
+          {
+            "bytes": 35208,
+            "h": 73,
+            "path": "webp/winged-putto-with-shield-and-braided-scroll-512.webp",
+            "sha256": "9ee2241ad0eb31b1ccc72232638dcf13d8286b6e01b25b8b59438ed619a985ed",
+            "w": 512
+          },
+          {
+            "bytes": 71440,
+            "h": 110,
+            "path": "webp/winged-putto-with-shield-and-braided-scroll-768.webp",
+            "sha256": "62dfd29b020346bc8aa609494a22ddabe7001c49841cd64b6e7fd742ad9c4799",
+            "w": 768
+          },
+          {
+            "bytes": 116826,
+            "h": 146,
+            "path": "webp/winged-putto-with-shield-and-braided-scroll-1024.webp",
+            "sha256": "69129b6100ee8aeee1fcd00ec2cf60088253136500ae4b040250e854b7af299e",
+            "w": 1024
+          },
+          {
+            "bytes": 224286,
+            "h": 220,
+            "path": "webp/winged-putto-with-shield-and-braided-scroll-1536.webp",
+            "sha256": "5189843ceb7281f887ed163754465df5579da75c98f04fa9d46b81d6d9098486",
+            "w": 1536
+          },
+          {
+            "bytes": 352860,
+            "h": 293,
+            "path": "webp/winged-putto-with-shield-and-braided-scroll-2048.webp",
+            "sha256": "7d946d0521b4f15b75832ad8e320d18dbba7f98e740f7f546ece7daa83c9361c",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "frieze",
+        "putto",
+        "wings",
+        "shield",
+        "scroll",
+        "leaf",
+        "flower",
+        "rule"
+      ],
+      "thumbhash": "TgiCAYAUPglViWFwp7A5YEpYdoeAmVc=",
+      "title": "Frieze of a winged putto with a shield and braided scroll",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Complete band; the double rules above and below are part of the print, so crop inside them to use the putto and scroll alone.",
+        "The shield at the left is blank and can carry a small monogram or device."
+      ],
+      "width": 2405
+    }
+  },
+  "attribution": "Metropolitan Museum of Art",
+  "builtAt": "2026-10-28T16:12:11.578Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-hopfer-prints@1.0.0/",
+  "contentHash": "sha256:02028d294ff61478efab457d03bbe525deb3c95269dd833d80db18050058af0e",
+  "inputsHash": "sha256:9030f7b27e260c2b12c81e013d7cff84154dc7518a6886f70bf4f7261acf2c4e",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from Metropolitan Museum of Art Open Access (CC0) images; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-hopfer-prints-masters",
+  "package": "@ranx729/ducktape-assets-hopfer-prints",
+  "period": "ca. 1485–1536",
+  "region": "Augsburg, Germany",
+  "schema": 1,
+  "set": "hopfer-prints",
+  "style": "Renaissance etching",
+  "summary": "Friezes, a thistle fillet and a candelabra grotesque etched by Daniel Hopfer in Augsburg around 1515, taken from three sheets in the Metropolitan Museum of Art; loose prints by one artist, grouped by sheet.",
+  "title": "Daniel Hopfer ornament prints",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

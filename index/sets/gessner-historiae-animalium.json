@@ -1,0 +1,2252 @@
+{
+  "assets": {
+    "armored-rhinoceros": {
+      "attribution": "Zentralbibliothek Zürich 5.1: a-5.3; image 627406; section De rhinocerote.",
+      "categories": [
+        "animals"
+      ],
+      "colors": [
+        "beige",
+        "brown",
+        "black"
+      ],
+      "composition": "single-figure",
+      "description": "A rhinoceros walking to the left in profile, its body covered in plated armour with scalloped edges, mail-like hatching on the legs, a single horn on the nose and a small twisted horn on the shoulder, after Dürer's 1515 woodcut. Black woodcut line on the beige paper tone of the page, which is kept inside the outline; the background outside the figure is transparent.",
+      "display_width": [
+        320,
+        900
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 416074,
+        "webpTopBytes": 675292
+      },
+      "facing": "left",
+      "height": 1922,
+      "master": {
+        "bytes": 2888152,
+        "h": 1425,
+        "path": "masters/armored-rhinoceros.webp",
+        "sha256": "21580f55584d2bd48d362dcde8b593cd7279fa4cb44bf31098a4890cc2c51efe",
+        "w": 2048
+      },
+      "palette": [
+        "#a5988c",
+        "#b5a89a",
+        "#c9bbad",
+        "#95897d",
+        "#7f746a"
+      ],
+      "provenance": {
+        "date": "1551–1587",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.e-rara.ch/i3f/v20/627406/full/full/0/default.jpg",
+        "institution": "Zentralbibliothek Zürich",
+        "method": "ai-assisted-source-mask",
+        "object_identifier": "5.1: a-5.3; image 627406; section De rhinocerote.",
+        "object_title": "Gessner, Historiae animalium: De rhinocerote.",
+        "record_url": "https://www.e-rara.ch/zuz/content/pageview/627406",
+        "rights_url": "https://www.e-rara.ch/zuz/content/titleinfo/637105",
+        "source_sha256": "e4e68a9ea8ead1ec2e195dee4cdf16193206a8766e31d416ec706665e11969d8"
+      },
+      "quality": "A small brown foxing spot on the near front foot.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1852,
+            "h": 45,
+            "path": "avif/armored-rhinoceros-64.avif",
+            "sha256": "56fd2b65ec88c19d5c97ea77c2b43d4a2f8f8c968c3bc2971a37510207c25867",
+            "w": 64
+          },
+          {
+            "bytes": 2967,
+            "h": 67,
+            "path": "avif/armored-rhinoceros-96.avif",
+            "sha256": "15cf29c87b140915be9e978ef6096974d287ed72960e1ff11aaa4a9990c3d0cd",
+            "w": 96
+          },
+          {
+            "bytes": 4510,
+            "h": 89,
+            "path": "avif/armored-rhinoceros-128.avif",
+            "sha256": "b79258f3e1cd5946eec1c8dfc2dad4987beff49e37cac7f5ba56e9f54329c95e",
+            "w": 128
+          },
+          {
+            "bytes": 8004,
+            "h": 134,
+            "path": "avif/armored-rhinoceros-192.avif",
+            "sha256": "262eda04d524abb39058f538d9daaf5e8f9e488bc95fc97eacfac6d147eb41bf",
+            "w": 192
+          },
+          {
+            "bytes": 13252,
+            "h": 178,
+            "path": "avif/armored-rhinoceros-256.avif",
+            "sha256": "118211b60e0213943ee8fd180a8b8b99f029097e931d93762b76f75b301cef10",
+            "w": 256
+          },
+          {
+            "bytes": 26567,
+            "h": 267,
+            "path": "avif/armored-rhinoceros-384.avif",
+            "sha256": "7ca125ba583d776f6538b2a0c4b4355ddd7f4d26b14584922e1fba0206541bcd",
+            "w": 384
+          },
+          {
+            "bytes": 45002,
+            "h": 356,
+            "path": "avif/armored-rhinoceros-512.avif",
+            "sha256": "6d5d61db019db1ae8fb8ac65f7c70c51d1cdfa3cec17b353f7274eac37a61571",
+            "w": 512
+          },
+          {
+            "bytes": 97576,
+            "h": 534,
+            "path": "avif/armored-rhinoceros-768.avif",
+            "sha256": "5eb5e59b54007bd3203ad7e1adf3657f9c6b2564ff5eed71f7d501668e474820",
+            "w": 768
+          },
+          {
+            "bytes": 157901,
+            "h": 713,
+            "path": "avif/armored-rhinoceros-1024.avif",
+            "sha256": "8551c8dc11f72f99890960e118cdee9cf8b287cf973a094ccd822fb6449eb320",
+            "w": 1024
+          },
+          {
+            "bytes": 285409,
+            "h": 1069,
+            "path": "avif/armored-rhinoceros-1536.avif",
+            "sha256": "b1ef4a6afdec75cb9875e427946e9818ef7e07d59dd6bd6e2cccba5b7c54b73c",
+            "w": 1536
+          },
+          {
+            "bytes": 416074,
+            "h": 1425,
+            "path": "avif/armored-rhinoceros-2048.avif",
+            "sha256": "c55c096796ce0feaf365c49fb1b2994b3c0a502bc67530b5d382a83ecce5e40c",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2310,
+            "h": 45,
+            "path": "webp/armored-rhinoceros-64.webp",
+            "sha256": "4f78ad39cb2821787e895caa402ae8e9cec03af883d30861357c2d9cfb1098fa",
+            "w": 64
+          },
+          {
+            "bytes": 4206,
+            "h": 67,
+            "path": "webp/armored-rhinoceros-96.webp",
+            "sha256": "6319972f03f0b0c190df01db1f88acadbfd7b90390e7d0c41433cd3a77f0ed06",
+            "w": 96
+          },
+          {
+            "bytes": 6382,
+            "h": 89,
+            "path": "webp/armored-rhinoceros-128.webp",
+            "sha256": "48ee711e248a89048ff4deb738deadff1c132e41da7f3fe37e4c0902ef3426ca",
+            "w": 128
+          },
+          {
+            "bytes": 12078,
+            "h": 134,
+            "path": "webp/armored-rhinoceros-192.webp",
+            "sha256": "7ba1e9be873b13ddc265433044f9c9191737e9313ffd95491788a44adc32e3fe",
+            "w": 192
+          },
+          {
+            "bytes": 19376,
+            "h": 178,
+            "path": "webp/armored-rhinoceros-256.webp",
+            "sha256": "0f292e805fae01f7d1798742544847611a886142dda541a2a852bc1baafcd28e",
+            "w": 256
+          },
+          {
+            "bytes": 39176,
+            "h": 267,
+            "path": "webp/armored-rhinoceros-384.webp",
+            "sha256": "7381ab0bc5cd3882e2d53abcc57edf49bf64638afd902939825e39740be94ccc",
+            "w": 384
+          },
+          {
+            "bytes": 66482,
+            "h": 356,
+            "path": "webp/armored-rhinoceros-512.webp",
+            "sha256": "b84abb28aa6548bcd4f8a79c6f9430b3b2d9e8c14205df214b5fa7d72aa65113",
+            "w": 512
+          },
+          {
+            "bytes": 140662,
+            "h": 534,
+            "path": "webp/armored-rhinoceros-768.webp",
+            "sha256": "e6ecd6c552e866b04548451607fdca7ffbcd36e102e39759d733cf4a667a36b1",
+            "w": 768
+          },
+          {
+            "bytes": 233704,
+            "h": 713,
+            "path": "webp/armored-rhinoceros-1024.webp",
+            "sha256": "b2f5667e90633e4d8a11d40b3bb4db371aa0c744700033241d6b186cb4b4f003",
+            "w": 1024
+          },
+          {
+            "bytes": 442938,
+            "h": 1069,
+            "path": "webp/armored-rhinoceros-1536.webp",
+            "sha256": "b55d10f43b8aa58929d175e79fb98c771abe36e8b55b22d6d12355fcf9ba068d",
+            "w": 1536
+          },
+          {
+            "bytes": 675292,
+            "h": 1425,
+            "path": "webp/armored-rhinoceros-2048.webp",
+            "sha256": "3bbb529be3959c49cdfa4ce0e468e39463f5b7c821de482f9e17f084675a05be",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "rhinoceros"
+      ],
+      "thumbhash": "pxiGBIA6Rnp/k4omB7XYgINLZLdoCGZ2Bw==",
+      "title": "Armoured rhinoceros",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The paper tone inside the figure is kept, so it reads as a cut-out of the printed page; place it on a light or mid-toned ground."
+      ],
+      "view": "side",
+      "width": 2762
+    },
+    "beaver": {
+      "attribution": "Zentralbibliothek Zürich 5.1: a-5.3; image 626789; section De castore.",
+      "categories": [
+        "animals"
+      ],
+      "colors": [
+        "beige",
+        "brown",
+        "black"
+      ],
+      "composition": "single-figure",
+      "description": "A beaver walking to the right in profile with its mouth open to show the long incisors, dense hatched fur, clawed feet and the flat scaly paddle tail trailing to the left. Black woodcut line on the beige paper tone of the page, which is kept inside the outline; the background outside the figure is transparent.",
+      "display_width": [
+        320,
+        900
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 204301,
+        "webpTopBytes": 341434
+      },
+      "facing": "right",
+      "height": 1154,
+      "master": {
+        "bytes": 1521254,
+        "h": 837,
+        "path": "masters/beaver.webp",
+        "sha256": "cb7fd3363e83d285511b9d3d3d0b8916f0c95b67589915df725647379359e3d7",
+        "w": 2048
+      },
+      "palette": [
+        "#9a897a",
+        "#ac998a",
+        "#bba796",
+        "#87776b",
+        "#73675c"
+      ],
+      "provenance": {
+        "date": "1551–1587",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.e-rara.ch/i3f/v20/626789/full/full/0/default.jpg",
+        "institution": "Zentralbibliothek Zürich",
+        "method": "ai-assisted-source-mask",
+        "object_identifier": "5.1: a-5.3; image 626789; section De castore.",
+        "object_title": "Gessner, Historiae animalium: De castore.",
+        "record_url": "https://www.e-rara.ch/zuz/content/pageview/626789",
+        "rights_url": "https://www.e-rara.ch/zuz/content/titleinfo/637105",
+        "source_sha256": "e2160fb6f15897c1c57a3cb454c240893f3d641fcdb37e5ac11cd0b8193d2e47"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1376,
+            "h": 26,
+            "path": "avif/beaver-64.avif",
+            "sha256": "ca4cbf1aa60bdfe4ae75f4878c9a607a0f62944567f5850565df3e235426e9f4",
+            "w": 64
+          },
+          {
+            "bytes": 2056,
+            "h": 39,
+            "path": "avif/beaver-96.avif",
+            "sha256": "1110a40545c4cf00f02f7dfc9cfddd509471444df8242f4279b708260d9155a7",
+            "w": 96
+          },
+          {
+            "bytes": 2598,
+            "h": 52,
+            "path": "avif/beaver-128.avif",
+            "sha256": "0b333116935239bb069778a7daa37224a01b887732e2c11d39373da4a0813cfa",
+            "w": 128
+          },
+          {
+            "bytes": 4595,
+            "h": 78,
+            "path": "avif/beaver-192.avif",
+            "sha256": "ea17f21b209e4c81f87a7f83aede94119ed926e6e31b8aa6c63c3410ac50a6eb",
+            "w": 192
+          },
+          {
+            "bytes": 7578,
+            "h": 105,
+            "path": "avif/beaver-256.avif",
+            "sha256": "19edba0bc48191c62442eb502ee4868f55f312aaf05f60ccb324dd229f7740be",
+            "w": 256
+          },
+          {
+            "bytes": 14417,
+            "h": 157,
+            "path": "avif/beaver-384.avif",
+            "sha256": "79a9d37909ea687952cb6c884c66eef087fdf1b59c34c113b673a58080be550e",
+            "w": 384
+          },
+          {
+            "bytes": 22542,
+            "h": 209,
+            "path": "avif/beaver-512.avif",
+            "sha256": "fddf2ed59e43ea75d504dd55a5ace9050a7ff095bba7e115ad8ce25219279830",
+            "w": 512
+          },
+          {
+            "bytes": 45940,
+            "h": 314,
+            "path": "avif/beaver-768.avif",
+            "sha256": "ebe526a4c04d041bb4bb06c9a7a0857088105661921e03877d9c598d175b52a5",
+            "w": 768
+          },
+          {
+            "bytes": 73326,
+            "h": 418,
+            "path": "avif/beaver-1024.avif",
+            "sha256": "24d3883fa331c44e1a7e9d88bc0ce2a5f8fbd0ad1ea5c06e245172c0d5648187",
+            "w": 1024
+          },
+          {
+            "bytes": 136506,
+            "h": 628,
+            "path": "avif/beaver-1536.avif",
+            "sha256": "b05c034e0b1376819e8b74ebf8fe1c5722e3c4ec65685421dc6c65374cd4cb06",
+            "w": 1536
+          },
+          {
+            "bytes": 204301,
+            "h": 837,
+            "path": "avif/beaver-2048.avif",
+            "sha256": "c861800b54767afaf513a3e15d987ad91d18dfaa03f022b9e14ac5434b740ee0",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1634,
+            "h": 26,
+            "path": "webp/beaver-64.webp",
+            "sha256": "2d344f35977d162885f4a5611eb9de210f397c24c193baa8f73a13144179d09e",
+            "w": 64
+          },
+          {
+            "bytes": 2682,
+            "h": 39,
+            "path": "webp/beaver-96.webp",
+            "sha256": "f8508bd950d21b4de4d1d7108f02c6b5e219ccc9618fa49cd32e335c0284fd49",
+            "w": 96
+          },
+          {
+            "bytes": 3872,
+            "h": 52,
+            "path": "webp/beaver-128.webp",
+            "sha256": "6b8e02d7e192d772e4e69001a232c6381584b2dbdd4e0848ffd767a010125213",
+            "w": 128
+          },
+          {
+            "bytes": 6788,
+            "h": 78,
+            "path": "webp/beaver-192.webp",
+            "sha256": "db9d9f42431be134ba07feec2cfd7065228c35431a926e462a96f4be89c6f61a",
+            "w": 192
+          },
+          {
+            "bytes": 10394,
+            "h": 105,
+            "path": "webp/beaver-256.webp",
+            "sha256": "c9d66916a29a112a93ed93ae2e924f43e87e5a714d50cb24dba8355dacead833",
+            "w": 256
+          },
+          {
+            "bytes": 20276,
+            "h": 157,
+            "path": "webp/beaver-384.webp",
+            "sha256": "ef178142edb062cacdc3115782f0ee795d686750e439e6281908e1768436443f",
+            "w": 384
+          },
+          {
+            "bytes": 33262,
+            "h": 209,
+            "path": "webp/beaver-512.webp",
+            "sha256": "0e437d8199e649925208a01a0a5dd193377eb3d8a775731c3fd06db7efed3e26",
+            "w": 512
+          },
+          {
+            "bytes": 69122,
+            "h": 314,
+            "path": "webp/beaver-768.webp",
+            "sha256": "7f3686c0973ea1eefbeaa382df62ee6d88feb9888961167200da9b3457920fbd",
+            "w": 768
+          },
+          {
+            "bytes": 114690,
+            "h": 418,
+            "path": "webp/beaver-1024.webp",
+            "sha256": "be41a3d1cc05914b56d48cb3a7e97eeeaa119209a4e079fd3edc38f52e1c6dcc",
+            "w": 1024
+          },
+          {
+            "bytes": 222522,
+            "h": 628,
+            "path": "webp/beaver-1536.webp",
+            "sha256": "cfa96c6a44a679ec1404695e852e8e8d922f1375e3ac1b5e4349e727a0ef1751",
+            "w": 1536
+          },
+          {
+            "bytes": 341434,
+            "h": 837,
+            "path": "webp/beaver-2048.webp",
+            "sha256": "79ca73bc5e21df005532f3b585b18a9fa316c69bca652bd6ce288e6911698b76",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "beaver"
+      ],
+      "thumbhash": "oyiCAoA3mriYVnCLp6CZCSVoWYhgimk=",
+      "title": "Beaver",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The paper tone inside the figure is kept, so it reads as a cut-out of the printed page; place it on a light or mid-toned ground.",
+        "Wide strip (about 2.5:1) that works as a footer or title band."
+      ],
+      "view": "side",
+      "width": 2824
+    },
+    "cat": {
+      "attribution": "Zentralbibliothek Zürich 5.1: a-5.3; image 626798; section De cato seu fele.",
+      "categories": [
+        "animals"
+      ],
+      "colors": [
+        "beige",
+        "brown",
+        "black"
+      ],
+      "composition": "single-figure",
+      "description": "A tabby cat sitting upright and looking straight at the viewer, with pointed ears, long whiskers, banded stripes across the chest and flanks and the tail curled around the front paws. Black woodcut line on the beige paper tone of the page, which is kept inside the outline; the background outside the figure is transparent.",
+      "display_width": [
+        200,
+        600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 252725,
+        "webpTopBytes": 410618
+      },
+      "facing": "viewer",
+      "height": 1828,
+      "master": {
+        "bytes": 1702452,
+        "h": 1828,
+        "path": "masters/cat.webp",
+        "sha256": "1fc9399d3245ed82e3658f4d9c516c9329ad6448b2a49015a86146eb07ffc1f1",
+        "w": 1179
+      },
+      "palette": [
+        "#a29487",
+        "#d2c1b1",
+        "#b7a899",
+        "#7a6f65",
+        "#908378"
+      ],
+      "provenance": {
+        "date": "1551–1587",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.e-rara.ch/i3f/v20/626798/full/full/0/default.jpg",
+        "institution": "Zentralbibliothek Zürich",
+        "method": "ai-assisted-source-mask",
+        "object_identifier": "5.1: a-5.3; image 626798; section De cato seu fele.",
+        "object_title": "Gessner, Historiae animalium: De cato seu fele.",
+        "record_url": "https://www.e-rara.ch/zuz/content/pageview/626798",
+        "rights_url": "https://www.e-rara.ch/zuz/content/titleinfo/637105",
+        "source_sha256": "237d87135b9d10fdde79e9b5e569bc904f4807cc56f58843b7808ded27d1af3e"
+      },
+      "quality": "Printed text from the other side of the leaf shows faintly through the chest.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2450,
+            "h": 99,
+            "path": "avif/cat-64.avif",
+            "sha256": "2f55386ef7c885445eaa1bf60fb8a53c6cc7354b1047ffb523b8554eeec5108e",
+            "w": 64
+          },
+          {
+            "bytes": 4533,
+            "h": 149,
+            "path": "avif/cat-96.avif",
+            "sha256": "1a588b9ed8b2de1ed0cb3f081eac31db2931646fc0338f5698dcea1eea6fec5f",
+            "w": 96
+          },
+          {
+            "bytes": 6605,
+            "h": 198,
+            "path": "avif/cat-128.avif",
+            "sha256": "a9448fe85355bc471a725682278602b7f359b1bc6e9983a33ce90e748aab1f93",
+            "w": 128
+          },
+          {
+            "bytes": 13291,
+            "h": 298,
+            "path": "avif/cat-192.avif",
+            "sha256": "96b8b74cc1c9d4a89eb6f05a116e5b59e104fdce60567291ad713a34db38b7e5",
+            "w": 192
+          },
+          {
+            "bytes": 22277,
+            "h": 397,
+            "path": "avif/cat-256.avif",
+            "sha256": "daf6a28914be54542de63d73f83c31ed4147aa178adf46f2039d236c344053a7",
+            "w": 256
+          },
+          {
+            "bytes": 45354,
+            "h": 595,
+            "path": "avif/cat-384.avif",
+            "sha256": "ad235897184dd0d1eb3238ca03eb39e052e3806d8674da238c00dacddd76fda7",
+            "w": 384
+          },
+          {
+            "bytes": 73758,
+            "h": 794,
+            "path": "avif/cat-512.avif",
+            "sha256": "b41571ddafc1eeed64251a91bae994ce9b0e2333985f0a4959cc8374d372937e",
+            "w": 512
+          },
+          {
+            "bytes": 139250,
+            "h": 1191,
+            "path": "avif/cat-768.avif",
+            "sha256": "92a7dde037ed5ca654b2e518760957d90ad382ae9ed2cb7ba148ad697fc6ae28",
+            "w": 768
+          },
+          {
+            "bytes": 210199,
+            "h": 1588,
+            "path": "avif/cat-1024.avif",
+            "sha256": "10c0a3a93a4bf62775fb192b701048a13a3c2b8445033ad494ef09b499daa952",
+            "w": 1024
+          },
+          {
+            "bytes": 252725,
+            "h": 1828,
+            "path": "avif/cat-1179.avif",
+            "sha256": "57ecff8f332e6bbadbed8235079d71d25689f199ffa9413795f6b1bff3fc9cba",
+            "w": 1179
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3620,
+            "h": 99,
+            "path": "webp/cat-64.webp",
+            "sha256": "6db25bf48976db388b527d1414b4c825d1b7a2186bf2928f76d8bb14f3b8b4b0",
+            "w": 64
+          },
+          {
+            "bytes": 6528,
+            "h": 149,
+            "path": "webp/cat-96.webp",
+            "sha256": "a1870cf63fb76c1ec9039734b3b2ae252cf843528f07970ad0b8e5a8b5063c70",
+            "w": 96
+          },
+          {
+            "bytes": 9784,
+            "h": 198,
+            "path": "webp/cat-128.webp",
+            "sha256": "36cc7ea68f5fc17e2aab1020189e943175e7b9223ae9b3e84f00e41b4c7ac399",
+            "w": 128
+          },
+          {
+            "bytes": 19626,
+            "h": 298,
+            "path": "webp/cat-192.webp",
+            "sha256": "0869a3e66e6375ba9eef355b545fa2736100359cffa1ca29e9ab634213f128cd",
+            "w": 192
+          },
+          {
+            "bytes": 32734,
+            "h": 397,
+            "path": "webp/cat-256.webp",
+            "sha256": "e000c39415b898d6e0488b7744dde4674daa2c0aed71ec4794a99cc2260a5702",
+            "w": 256
+          },
+          {
+            "bytes": 70202,
+            "h": 595,
+            "path": "webp/cat-384.webp",
+            "sha256": "877a8912cca3e8d95c2ef71af6c57b8794c01fd66a4a1fec72a4627a4b6d77bf",
+            "w": 384
+          },
+          {
+            "bytes": 116760,
+            "h": 794,
+            "path": "webp/cat-512.webp",
+            "sha256": "418f38ab2fbdf5c7c9105a386105e4d2587e608809f9d76861406499ca10d39f",
+            "w": 512
+          },
+          {
+            "bytes": 228936,
+            "h": 1191,
+            "path": "webp/cat-768.webp",
+            "sha256": "cc1ede34ac0deb3642181b2573496b94c4df42f42e56015d1b892f445ec896bb",
+            "w": 768
+          },
+          {
+            "bytes": 357340,
+            "h": 1588,
+            "path": "webp/cat-1024.webp",
+            "sha256": "7d458d09ce74de1c79cb99864a78bf561e2f62a9fecc3792ea1f3ce121b87bcb",
+            "w": 1024
+          },
+          {
+            "bytes": 410618,
+            "h": 1828,
+            "path": "webp/cat-1179.webp",
+            "sha256": "bb4c83d15fa88a2065283d97dbed01f927d3b136897aa4cca6f8e6eaf634660b",
+            "w": 1179
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "cat"
+      ],
+      "thumbhash": "pxiCAwAqcJJszoh0kIYIeRMrAIpgiXo=",
+      "title": "Seated tabby cat",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The paper tone inside the figure is kept, so it reads as a cut-out of the printed page; place it on a light or mid-toned ground."
+      ],
+      "view": "front",
+      "width": 1179
+    },
+    "crocodile": {
+      "attribution": "Zentralbibliothek Zürich 5.1: a-5.3; image 2119273; section De crocodilo.",
+      "categories": [
+        "animals"
+      ],
+      "colors": [
+        "beige",
+        "brown",
+        "black"
+      ],
+      "composition": "single-figure",
+      "description": "A crocodile seen from above and slightly from the side, its head at the left with the jaws wide open to show rows of teeth, four splayed legs, a back of square plates and a long ringed tail curling up to the right. Black woodcut line on the beige paper tone of the page, which is kept inside the outline; the background outside the figure is transparent.",
+      "display_width": [
+        320,
+        900
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 159872,
+        "webpTopBytes": 251900
+      },
+      "facing": "left",
+      "height": 1360,
+      "master": {
+        "bytes": 1022680,
+        "h": 848,
+        "path": "masters/crocodile.webp",
+        "sha256": "9df2b2034d1a6143543171b3ede3d817495f8efe98d00726dbc7496c8a4451be",
+        "w": 2048
+      },
+      "palette": [
+        "#7b6d65",
+        "#938278",
+        "#a18f84",
+        "#bfab9b",
+        "#ad9a8d"
+      ],
+      "provenance": {
+        "date": "1551–1587",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.e-rara.ch/i3f/v20/2119273/full/full/0/default.jpg",
+        "institution": "Zentralbibliothek Zürich",
+        "method": "ai-assisted-source-mask",
+        "object_identifier": "5.1: a-5.3; image 2119273; section De crocodilo.",
+        "object_title": "Gessner, Historiae animalium: De crocodilo.",
+        "record_url": "https://www.e-rara.ch/zuz/content/pageview/2119273",
+        "rights_url": "https://www.e-rara.ch/zuz/content/titleinfo/637105",
+        "source_sha256": "99738440b38921d3fd68abe99f8ee6f7270a86f29eb96261f0b060067996a91b"
+      },
+      "quality": "Narrow strips of bare paper remain outside the ink at the jaws and along the tail tip.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1485,
+            "h": 26,
+            "path": "avif/crocodile-64.avif",
+            "sha256": "bfdbb9c538984372b82ecf1adf0626be99d5091ec824eb70ff12d72e86138ce5",
+            "w": 64
+          },
+          {
+            "bytes": 2095,
+            "h": 40,
+            "path": "avif/crocodile-96.avif",
+            "sha256": "39510fee57928f7d280c0936ae48b41f01cd9b6afb94982e4f16ed7f35579ea6",
+            "w": 96
+          },
+          {
+            "bytes": 2837,
+            "h": 53,
+            "path": "avif/crocodile-128.avif",
+            "sha256": "6054bba9c454a8f59f8d36d98b177572fc3501d0191d9f224ec198f967711748",
+            "w": 128
+          },
+          {
+            "bytes": 4710,
+            "h": 79,
+            "path": "avif/crocodile-192.avif",
+            "sha256": "1271a25aa68160a657f51114f833f42bc95ea8f87a021ca009121b517ddf0f3d",
+            "w": 192
+          },
+          {
+            "bytes": 7129,
+            "h": 106,
+            "path": "avif/crocodile-256.avif",
+            "sha256": "c16b022336870548ebe9cf443702257ae765ff6287a3eeb2fa54681d2a8f09ed",
+            "w": 256
+          },
+          {
+            "bytes": 12741,
+            "h": 159,
+            "path": "avif/crocodile-384.avif",
+            "sha256": "350f18251fc651804ec29a24f75abe9ee09203ee7a3b0c4583706e8fbcf894eb",
+            "w": 384
+          },
+          {
+            "bytes": 20350,
+            "h": 212,
+            "path": "avif/crocodile-512.avif",
+            "sha256": "c101014ab97ab1110b3c6c3b74f075f00c61eaf3688591d2decbfbca91519e70",
+            "w": 512
+          },
+          {
+            "bytes": 39836,
+            "h": 318,
+            "path": "avif/crocodile-768.avif",
+            "sha256": "e86e3bca951202586edfcbbe258e53f5d85b1b542d96bed682f190ec83847648",
+            "w": 768
+          },
+          {
+            "bytes": 61519,
+            "h": 424,
+            "path": "avif/crocodile-1024.avif",
+            "sha256": "e3a70f56d5e1a290376e543dae70a07aca92c579114a5c7a536e114bae872222",
+            "w": 1024
+          },
+          {
+            "bytes": 108434,
+            "h": 636,
+            "path": "avif/crocodile-1536.avif",
+            "sha256": "447d5c5a8d082c40348043ae2ecf4dd3fe2e41879c4d70145490a919f6e4f283",
+            "w": 1536
+          },
+          {
+            "bytes": 159872,
+            "h": 848,
+            "path": "avif/crocodile-2048.avif",
+            "sha256": "29d5fd684bb3798c73b91c2b712619de59c8b6e4033424db335da42a08e6d684",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1714,
+            "h": 26,
+            "path": "webp/crocodile-64.webp",
+            "sha256": "94d17a14d21c9d95041288487f480f99722076475e90f15a2042d5f6a81286bc",
+            "w": 64
+          },
+          {
+            "bytes": 2848,
+            "h": 40,
+            "path": "webp/crocodile-96.webp",
+            "sha256": "ee189bcd0a2c4326d21b9a33bf642120feda894e9329739121d932e8ba4f12f5",
+            "w": 96
+          },
+          {
+            "bytes": 4054,
+            "h": 53,
+            "path": "webp/crocodile-128.webp",
+            "sha256": "86ddbfedb5df3d5e64cd706df13654d42dce6acf2b26331d48a3bfc1ff0c5d3e",
+            "w": 128
+          },
+          {
+            "bytes": 6882,
+            "h": 79,
+            "path": "webp/crocodile-192.webp",
+            "sha256": "16a39e12abe89cfd3cc134c7004f0440e3adad8eb02de7be2c8b4368c6403438",
+            "w": 192
+          },
+          {
+            "bytes": 10402,
+            "h": 106,
+            "path": "webp/crocodile-256.webp",
+            "sha256": "67ec248a9502d456adac0a31f43a3934d0055e493b627644cc880a0a47ebf2e1",
+            "w": 256
+          },
+          {
+            "bytes": 18686,
+            "h": 159,
+            "path": "webp/crocodile-384.webp",
+            "sha256": "df60ccaca456b184c1bb60e88a461debe663ec98c7a29243e03313916966ae5f",
+            "w": 384
+          },
+          {
+            "bytes": 29788,
+            "h": 212,
+            "path": "webp/crocodile-512.webp",
+            "sha256": "f34a70290f04e28cfdf52ff0df92bc45240b6687feeabf2f2d2f245681570fe2",
+            "w": 512
+          },
+          {
+            "bytes": 57310,
+            "h": 318,
+            "path": "webp/crocodile-768.webp",
+            "sha256": "66b485179282bf28c5ec433eaf7a191ce1630c42fb51b72c71d138d26063c558",
+            "w": 768
+          },
+          {
+            "bytes": 90854,
+            "h": 424,
+            "path": "webp/crocodile-1024.webp",
+            "sha256": "f49e7f9499545e1a588f027accb80c9321cbf0209167b0940a5ebf27622694b6",
+            "w": 1024
+          },
+          {
+            "bytes": 167614,
+            "h": 636,
+            "path": "webp/crocodile-1536.webp",
+            "sha256": "2f014cbcaa037781cbc19e332b4cdc1a3b598dbb63f5cf5a7ea7a4c3e116dede",
+            "w": 1536
+          },
+          {
+            "bytes": 251900,
+            "h": 848,
+            "path": "webp/crocodile-2048.webp",
+            "sha256": "37b15a84499ed136cf7aba15918180a17b8bf9c76b555ca34474e4834194e166",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "crocodile"
+      ],
+      "thumbhash": "oiiCAoAluTevZoS4rwS6SjmGp3lwe1U=",
+      "title": "Crocodile",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The paper tone inside the figure is kept, so it reads as a cut-out of the printed page; place it on a light or mid-toned ground.",
+        "Wide strip (about 2.4:1) that works as a footer or title band."
+      ],
+      "view": "three-quarter",
+      "width": 3286
+    },
+    "elephant": {
+      "attribution": "Zentralbibliothek Zürich 5.1: a-5.3; image 626863; section De elephanto.",
+      "categories": [
+        "animals"
+      ],
+      "colors": [
+        "beige",
+        "brown",
+        "black"
+      ],
+      "composition": "single-figure",
+      "description": "An elephant walking to the right in profile, with a large fan-shaped ear, two tusks, the trunk curling down and inward, columnar legs on flat round feet and a thin tufted tail. Black woodcut line on the beige paper tone of the page, which is kept inside the outline; the background outside the figure is transparent.",
+      "display_width": [
+        320,
+        900
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 310467,
+        "webpTopBytes": 537894
+      },
+      "facing": "right",
+      "height": 2102,
+      "master": {
+        "bytes": 2830170,
+        "h": 1476,
+        "path": "masters/elephant.webp",
+        "sha256": "699d8e950c36eafd474ab3db41c8375e51f985756bfa95dd4fc0ab12bcf0476d",
+        "w": 2048
+      },
+      "palette": [
+        "#cbbaaa",
+        "#ac9b8d",
+        "#96867a",
+        "#706259",
+        "#86766c"
+      ],
+      "provenance": {
+        "date": "1551–1587",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.e-rara.ch/i3f/v20/626863/full/full/0/default.jpg",
+        "institution": "Zentralbibliothek Zürich",
+        "method": "ai-assisted-source-mask",
+        "object_identifier": "5.1: a-5.3; image 626863; section De elephanto.",
+        "object_title": "Gessner, Historiae animalium: De elephanto.",
+        "record_url": "https://www.e-rara.ch/zuz/content/pageview/626863",
+        "rights_url": "https://www.e-rara.ch/zuz/content/titleinfo/637105",
+        "source_sha256": "54b1e2d83da5ba5fedd0bdb425d7009b0558349dc455500a3afa81972e131ea0"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1911,
+            "h": 46,
+            "path": "avif/elephant-64.avif",
+            "sha256": "88ab5881848d5a49f4b51da0101c03e11f106b7cb4e1d82e51636e5832fea9f9",
+            "w": 64
+          },
+          {
+            "bytes": 3040,
+            "h": 69,
+            "path": "avif/elephant-96.avif",
+            "sha256": "064e65141897c1f40423e161be54fd39c23e4ee194e4625640dec01a390b4a28",
+            "w": 96
+          },
+          {
+            "bytes": 4231,
+            "h": 92,
+            "path": "avif/elephant-128.avif",
+            "sha256": "cea2ef08a0a8c2b44dc5c54f3c2aa92333bfa5ab1d357d07814ff6b81fd7dce2",
+            "w": 128
+          },
+          {
+            "bytes": 7096,
+            "h": 138,
+            "path": "avif/elephant-192.avif",
+            "sha256": "7efe762ae27218da59144bc732ec236cb90c5ce2a9a8b93580cc623f5b001518",
+            "w": 192
+          },
+          {
+            "bytes": 10437,
+            "h": 185,
+            "path": "avif/elephant-256.avif",
+            "sha256": "2c676a1ea3bc68f5699bf05a1fd3e6a31f960e2b1bea126ef4f61efc59d20b98",
+            "w": 256
+          },
+          {
+            "bytes": 20405,
+            "h": 277,
+            "path": "avif/elephant-384.avif",
+            "sha256": "eb2ee5ac0b057d736725d26896f45581ccbf6f7a3fb37d190abcbe6e90e49784",
+            "w": 384
+          },
+          {
+            "bytes": 33978,
+            "h": 369,
+            "path": "avif/elephant-512.avif",
+            "sha256": "12f61dea0ab8b1c81398e88a1842c55cea0191999a4d2acb6d5790954fc4588d",
+            "w": 512
+          },
+          {
+            "bytes": 69414,
+            "h": 554,
+            "path": "avif/elephant-768.avif",
+            "sha256": "a2ba5d64a2ec4ee73d712b1f34a803333dc37a09af1b7e3b054e9f4fc14c0607",
+            "w": 768
+          },
+          {
+            "bytes": 109763,
+            "h": 738,
+            "path": "avif/elephant-1024.avif",
+            "sha256": "63090b869da4755c4d96136b38d58034aedbc20fb09d44be03610b7a7c307669",
+            "w": 1024
+          },
+          {
+            "bytes": 205880,
+            "h": 1107,
+            "path": "avif/elephant-1536.avif",
+            "sha256": "08e2c1d047d5781b2d2860a2a99b0833d6dcb6f7ff1cd7a6eff916ff27f14516",
+            "w": 1536
+          },
+          {
+            "bytes": 310467,
+            "h": 1476,
+            "path": "avif/elephant-2048.avif",
+            "sha256": "8c9b45fa79d51aa752a8aba17493479cfc3bbaacdcbcacb2c0bf9dc24eb1398c",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2536,
+            "h": 46,
+            "path": "webp/elephant-64.webp",
+            "sha256": "84215023adc4ec53b3df883552f0667712db9d2588e52e36e0eb2cf5bb0a5366",
+            "w": 64
+          },
+          {
+            "bytes": 4336,
+            "h": 69,
+            "path": "webp/elephant-96.webp",
+            "sha256": "74759cc33f808c0e653d53f00c3bf35584d5fe68ad1fdc9789634f8ba9bf164e",
+            "w": 96
+          },
+          {
+            "bytes": 6310,
+            "h": 92,
+            "path": "webp/elephant-128.webp",
+            "sha256": "13ae0be6ca0162086bde10836ebbca15bf512d8ccd1ca1f4efe061e7e8b9dcb7",
+            "w": 128
+          },
+          {
+            "bytes": 11134,
+            "h": 138,
+            "path": "webp/elephant-192.webp",
+            "sha256": "2ff664b84ecda958cf3bb89e51d8ce839257bcbefdf9413edfeea140e896c50f",
+            "w": 192
+          },
+          {
+            "bytes": 16606,
+            "h": 185,
+            "path": "webp/elephant-256.webp",
+            "sha256": "f84e18eda5c570835027b9a8bf3a523f9b6056ddc99a685f3656e3425562155f",
+            "w": 256
+          },
+          {
+            "bytes": 30586,
+            "h": 277,
+            "path": "webp/elephant-384.webp",
+            "sha256": "9ffaa889fb526e9c0d0c0ab8208aade97bb7fc497d6424fb01d3804ea28487e7",
+            "w": 384
+          },
+          {
+            "bytes": 50100,
+            "h": 369,
+            "path": "webp/elephant-512.webp",
+            "sha256": "af951b773dfd2603ebcd7a85ff2de2a35ec06835500ecf2427113fda7ec90fa3",
+            "w": 512
+          },
+          {
+            "bytes": 106488,
+            "h": 554,
+            "path": "webp/elephant-768.webp",
+            "sha256": "320a6762769d23343e9eb2dbc940c08515b030bba9d2671f6a630cdd12094553",
+            "w": 768
+          },
+          {
+            "bytes": 178828,
+            "h": 738,
+            "path": "webp/elephant-1024.webp",
+            "sha256": "18a2661162523b602844cfc68631666f7055b9062d47178a51a671bcc71abb7b",
+            "w": 1024
+          },
+          {
+            "bytes": 349044,
+            "h": 1107,
+            "path": "webp/elephant-1536.webp",
+            "sha256": "956deed0270fe0933366ddfea2e0b166b14084ac417e374da6bfb9a3ac0619af",
+            "w": 1536
+          },
+          {
+            "bytes": 537894,
+            "h": 1476,
+            "path": "webp/elephant-2048.webp",
+            "sha256": "11255e17e4909c169c128ac7563ac29fc6fc58a911f1ba16b855afd5b035f6a5",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "elephant"
+      ],
+      "thumbhash": "qCiCBIApiUavRHoX8nhsj6D0gellGXR0BQ==",
+      "title": "Elephant",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The paper tone inside the figure is kept, so it reads as a cut-out of the printed page; place it on a light or mid-toned ground."
+      ],
+      "view": "side",
+      "width": 2916
+    },
+    "elk-antler": {
+      "attribution": "Zentralbibliothek Zürich 5.1: a-5.3; image 626455; section De alce.",
+      "categories": [
+        "animals"
+      ],
+      "colors": [
+        "beige",
+        "brown",
+        "black"
+      ],
+      "composition": "standalone",
+      "description": "A single palmated antler of a European elk (moose) standing upright, the broad veined palm rising from a knobbed burr at the lower right and ending in a row of pointed tines along the left edge and across the top. Black woodcut line on the beige paper tone of the page, which is kept inside the outline; the background outside the antler is transparent.",
+      "display_width": [
+        160,
+        500
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 156594,
+        "webpTopBytes": 219816
+      },
+      "facing": "none",
+      "height": 1823,
+      "master": {
+        "bytes": 1433468,
+        "h": 1823,
+        "path": "masters/elk-antler.webp",
+        "sha256": "79c9185c4c59312d89206ae36e7dba147716bbf61b1213e1ce0e479ff5e05825",
+        "w": 1095
+      },
+      "palette": [
+        "#baa899",
+        "#c9b6a6",
+        "#ddcbba",
+        "#aa988a",
+        "#8e7d71"
+      ],
+      "provenance": {
+        "date": "1551–1587",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.e-rara.ch/i3f/v20/626455/full/full/0/default.jpg",
+        "institution": "Zentralbibliothek Zürich",
+        "method": "ai-assisted-source-mask",
+        "object_identifier": "5.1: a-5.3; image 626455; section De alce.",
+        "object_title": "Gessner, Historiae animalium: elk antler (De alce)",
+        "record_url": "https://www.e-rara.ch/zuz/content/pageview/626455",
+        "rights_url": "https://www.e-rara.ch/zuz/content/titleinfo/637105",
+        "source_sha256": "f95957ac448ddb221bcae8e89f243e0b37f81cc736f28583df79f26369e7be6b"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3259,
+            "h": 107,
+            "path": "avif/elk-antler-64.avif",
+            "sha256": "7a8f56288615359043aa95bd218e71faf3c18283e120b6ccef35834eb0f8b3d8",
+            "w": 64
+          },
+          {
+            "bytes": 5557,
+            "h": 160,
+            "path": "avif/elk-antler-96.avif",
+            "sha256": "5418607bf91c428033928d8b2805ae5866edbf114772a0718e709d11066e42e0",
+            "w": 96
+          },
+          {
+            "bytes": 8018,
+            "h": 213,
+            "path": "avif/elk-antler-128.avif",
+            "sha256": "e2189d7195b20d4e01b1a74fb3a2ccb3ba14c52b0642b921d5faf8c6a257e680",
+            "w": 128
+          },
+          {
+            "bytes": 14951,
+            "h": 320,
+            "path": "avif/elk-antler-192.avif",
+            "sha256": "65304431ff4eba255bcef55d78d24d01469204637ddc516fd15faa14fcadea60",
+            "w": 192
+          },
+          {
+            "bytes": 22888,
+            "h": 426,
+            "path": "avif/elk-antler-256.avif",
+            "sha256": "7a271d84cf9ad745e070d92213cd7288ef697186b63e1401e3edfc1b4df7cd5c",
+            "w": 256
+          },
+          {
+            "bytes": 42921,
+            "h": 639,
+            "path": "avif/elk-antler-384.avif",
+            "sha256": "217d21bcfb28a4e8ddce9368dbe2d75c29bb3eb71afce78440b0d57094b7f81c",
+            "w": 384
+          },
+          {
+            "bytes": 63349,
+            "h": 852,
+            "path": "avif/elk-antler-512.avif",
+            "sha256": "b4b88cd402cac6c43240cc13a94ad08ba680e313f3543601159b1a85bf804680",
+            "w": 512
+          },
+          {
+            "bytes": 107544,
+            "h": 1279,
+            "path": "avif/elk-antler-768.avif",
+            "sha256": "a2315b0dc12f428c20b637dd10481b5f10ede049bb27b8dca45fc03a0b559370",
+            "w": 768
+          },
+          {
+            "bytes": 156644,
+            "h": 1705,
+            "path": "avif/elk-antler-1024.avif",
+            "sha256": "e6ece567f46868a1f9160f9f0c41d5732e21ea1e47d05cf7f742f1084e2f5a02",
+            "w": 1024
+          },
+          {
+            "bytes": 156594,
+            "h": 1823,
+            "path": "avif/elk-antler-1095.avif",
+            "sha256": "3002536b8dcc6b8467a8dc23a7a6e9aeb8bee72a310e722595c9b520b164d054",
+            "w": 1095
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4914,
+            "h": 107,
+            "path": "webp/elk-antler-64.webp",
+            "sha256": "6df9dbea0de3cb5bc93af88b6e67ed9301a633606a879f0027f81b97f79b5bac",
+            "w": 64
+          },
+          {
+            "bytes": 8536,
+            "h": 160,
+            "path": "webp/elk-antler-96.webp",
+            "sha256": "e40aefd1c601d74546cd83b04ba5e13e2fb37110c6d364f7a71e71c3640bf3fe",
+            "w": 96
+          },
+          {
+            "bytes": 12900,
+            "h": 213,
+            "path": "webp/elk-antler-128.webp",
+            "sha256": "a7c9d511dbda5b8b92aa320fd058d16b87a87d249e90f612c6d29ab5ee68148e",
+            "w": 128
+          },
+          {
+            "bytes": 23402,
+            "h": 320,
+            "path": "webp/elk-antler-192.webp",
+            "sha256": "6b5db8b2bb9abc8e425f4b84d7ebbf89b8ce3e191cf4f2ad0a81547ad1c708f5",
+            "w": 192
+          },
+          {
+            "bytes": 35880,
+            "h": 426,
+            "path": "webp/elk-antler-256.webp",
+            "sha256": "7c09ad89c4ee207c0abdebb626504f816bfd323588e2f16a8195e8e290f574e7",
+            "w": 256
+          },
+          {
+            "bytes": 67114,
+            "h": 639,
+            "path": "webp/elk-antler-384.webp",
+            "sha256": "39ec48283668a1c92cabb427666827afbc98d129c48a37e209aa8038aebc7e07",
+            "w": 384
+          },
+          {
+            "bytes": 100186,
+            "h": 852,
+            "path": "webp/elk-antler-512.webp",
+            "sha256": "f1424df33bc0e419e401c9e3db29f8919bc9f23a4fd8c5552dfa789c3f0ed771",
+            "w": 512
+          },
+          {
+            "bytes": 172990,
+            "h": 1279,
+            "path": "webp/elk-antler-768.webp",
+            "sha256": "9c35cbedf7791ffa45636b578b1ed7097457266482728c63bf9bfacbe94a8da5",
+            "w": 768
+          },
+          {
+            "bytes": 241562,
+            "h": 1705,
+            "path": "webp/elk-antler-1024.webp",
+            "sha256": "4403e6c92e81e0c545f5c375b01b0df0e399a53f8b2e16ae4a4a655a0adf9597",
+            "w": 1024
+          },
+          {
+            "bytes": 219816,
+            "h": 1823,
+            "path": "webp/elk-antler-1095.webp",
+            "sha256": "45e5358a5e53060e10a6874662904c723aee7daa837813d01e6fdfbccf735edb",
+            "w": 1095
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "antler",
+        "elk"
+      ],
+      "thumbhash": "qyiCAwApDDsXqjeHb5X6ZwZXaIhUalk=",
+      "title": "Elk antler",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The paper tone inside the antler is kept, so it reads as a cut-out of the printed page; place it on a light or mid-toned ground.",
+        "Tall upright piece (about 3:5); pairs with a mirrored copy as a symmetrical ornament."
+      ],
+      "width": 1095
+    },
+    "fox": {
+      "attribution": "Zentralbibliothek Zürich 5.1: a-5.3; image 627534; section De vulpe.",
+      "categories": [
+        "animals"
+      ],
+      "colors": [
+        "beige",
+        "brown",
+        "black"
+      ],
+      "composition": "single-figure",
+      "description": "A fox sitting on its haunches and facing right, with pointed ears, a narrow whiskered muzzle, shaggy hatched fur and a long bushy tail stretched out along the ground to the left. Black woodcut line on the beige paper tone of the page, which is kept inside the outline; the background outside the figure is transparent.",
+      "display_width": [
+        320,
+        900
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 200330,
+        "webpTopBytes": 324960
+      },
+      "facing": "right",
+      "height": 1475,
+      "master": {
+        "bytes": 1323356,
+        "h": 1210,
+        "path": "masters/fox.webp",
+        "sha256": "3a44299ffbfa26e71914c02b45a3d8187fdfac88d9de112d26c06625ea8d3371",
+        "w": 2048
+      },
+      "palette": [
+        "#97877b",
+        "#c1b0a1",
+        "#ad9c8e",
+        "#70645b",
+        "#827469"
+      ],
+      "provenance": {
+        "date": "1551–1587",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.e-rara.ch/i3f/v20/627534/full/full/0/default.jpg",
+        "institution": "Zentralbibliothek Zürich",
+        "method": "ai-assisted-source-mask",
+        "object_identifier": "5.1: a-5.3; image 627534; section De vulpe.",
+        "object_title": "Gessner, Historiae animalium: De vulpe.",
+        "record_url": "https://www.e-rara.ch/zuz/content/pageview/627534",
+        "rights_url": "https://www.e-rara.ch/zuz/content/titleinfo/637105",
+        "source_sha256": "bd742a3cc7d9655c2dd1efe83b5bc8ef24bb68ef7ad03eea3d19603138ceddcd"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1473,
+            "h": 38,
+            "path": "avif/fox-64.avif",
+            "sha256": "da0e8b04a1250f15e24f27fcc0b784c4b84b8bd771ae7a37ae2f1d2000f321bf",
+            "w": 64
+          },
+          {
+            "bytes": 2239,
+            "h": 57,
+            "path": "avif/fox-96.avif",
+            "sha256": "12b5bc43ce7190f98aee97d3a76eb9b4651f94893ffff11ee7ab8bf16de3ec80",
+            "w": 96
+          },
+          {
+            "bytes": 3183,
+            "h": 76,
+            "path": "avif/fox-128.avif",
+            "sha256": "2944f1129f2104acedce37d16c4099d594520155eed89488047b14c2fe09b01f",
+            "w": 128
+          },
+          {
+            "bytes": 5064,
+            "h": 113,
+            "path": "avif/fox-192.avif",
+            "sha256": "fd79a4c1c4fb02afd67ffbb91b3da572ff0a186408fc0e69e8b425d814bebe2a",
+            "w": 192
+          },
+          {
+            "bytes": 7978,
+            "h": 151,
+            "path": "avif/fox-256.avif",
+            "sha256": "a99bfb786f51ae22ce3946c1df8851f10695905e5892df9ea5fb55ea8d5665b3",
+            "w": 256
+          },
+          {
+            "bytes": 15315,
+            "h": 227,
+            "path": "avif/fox-384.avif",
+            "sha256": "32374282ebe59a535c114ce03567ff82173ea7b9d8f6a86b101bd4b1ef3c0bcf",
+            "w": 384
+          },
+          {
+            "bytes": 24608,
+            "h": 302,
+            "path": "avif/fox-512.avif",
+            "sha256": "1539a4b8f7449a187581b104ba4368eda37882e76a0fa5e0b6f3bb54036166e2",
+            "w": 512
+          },
+          {
+            "bytes": 48058,
+            "h": 454,
+            "path": "avif/fox-768.avif",
+            "sha256": "89e253ff333879d8325ca0f99886c96256f824c98b0879c8836bf32c7807810f",
+            "w": 768
+          },
+          {
+            "bytes": 76686,
+            "h": 605,
+            "path": "avif/fox-1024.avif",
+            "sha256": "a087a9181b8352c43c71fbeff1dfd2b6ea1c4ab56325f4788c2a308356447138",
+            "w": 1024
+          },
+          {
+            "bytes": 138892,
+            "h": 907,
+            "path": "avif/fox-1536.avif",
+            "sha256": "4d369c31ba2b5f7d34ee94242167f40cdee2d7cf93cc8f9a8e08b95cb981e444",
+            "w": 1536
+          },
+          {
+            "bytes": 200330,
+            "h": 1210,
+            "path": "avif/fox-2048.avif",
+            "sha256": "0349081a8e0e215999b2fd86365d575305c9ece2e56fe7c8924843743a6c47d1",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1820,
+            "h": 38,
+            "path": "webp/fox-64.webp",
+            "sha256": "ee5611966dca3a581fe3ed6a97488ad0aea39b2bd0508c6b4f3581e2f1f7ef14",
+            "w": 64
+          },
+          {
+            "bytes": 2944,
+            "h": 57,
+            "path": "webp/fox-96.webp",
+            "sha256": "db3ce15c054e3e3bbf5bb751d4e8ba40ef50274da06e34fd76cbb6bc75003eca",
+            "w": 96
+          },
+          {
+            "bytes": 4330,
+            "h": 76,
+            "path": "webp/fox-128.webp",
+            "sha256": "0e169840ecfc197a4f22c5b853d5fdd3897badb8ef964e3e14eebf0ac1eb122f",
+            "w": 128
+          },
+          {
+            "bytes": 7630,
+            "h": 113,
+            "path": "webp/fox-192.webp",
+            "sha256": "52ad788dbae524ab97a8313b7d1b4ff014017610e3a16c9645b9c990ad75613f",
+            "w": 192
+          },
+          {
+            "bytes": 11560,
+            "h": 151,
+            "path": "webp/fox-256.webp",
+            "sha256": "524de0e386394246ad2a930458ea4dd9cd9a9d687b582a6b433791d51959c69a",
+            "w": 256
+          },
+          {
+            "bytes": 21760,
+            "h": 227,
+            "path": "webp/fox-384.webp",
+            "sha256": "8b5355cd604583357b4092247b338fba43d419ebd73de2c833de7ae1a3a965e2",
+            "w": 384
+          },
+          {
+            "bytes": 35846,
+            "h": 302,
+            "path": "webp/fox-512.webp",
+            "sha256": "8d19d872841163bfc0036164cf41b82a2ae41f37f46319e9e104f85d3d16c165",
+            "w": 512
+          },
+          {
+            "bytes": 72350,
+            "h": 454,
+            "path": "webp/fox-768.webp",
+            "sha256": "aec56453e56d3042366182732ab4d5fb29a4df59b0dcbfd32087a7960e43b3bf",
+            "w": 768
+          },
+          {
+            "bytes": 116480,
+            "h": 605,
+            "path": "webp/fox-1024.webp",
+            "sha256": "0e33ceb533acfed00f64f8b1b1891c7a8331b8f2d6d16bcacda49ee2b8aef075",
+            "w": 1024
+          },
+          {
+            "bytes": 219292,
+            "h": 907,
+            "path": "webp/fox-1536.webp",
+            "sha256": "531be8f2fa01b8de8eb1bfab21aa743930ec32ff489718614e418bfeaf395d39",
+            "w": 1536
+          },
+          {
+            "bytes": 324960,
+            "h": 1210,
+            "path": "webp/fox-2048.webp",
+            "sha256": "5d8b85466b92307b856362cbc157aa5cd9fea09accb8a159be737c729fa1527b",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "fox"
+      ],
+      "thumbhash": "pBiCA4AVpgp4d/CFi0DHB0BrMnzGa4c=",
+      "title": "Seated fox",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The paper tone inside the figure is kept, so it reads as a cut-out of the printed page; place it on a light or mid-toned ground."
+      ],
+      "view": "side",
+      "width": 2497
+    },
+    "grapes": {
+      "attribution": "Zentralbibliothek Zürich 5.1: a-5.3; image 627095; section De leone.",
+      "categories": [
+        "botanical"
+      ],
+      "colors": [
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A tiny bunch of grapes hanging below two broad vine leaves, the stem ending at the top in a short horizontal stub of the branch it grew from, taken from the decorated initial L of the lion chapter. Dark brown printed ink only, a few dozen pixels across; the paper is removed and the background is transparent.",
+      "display_width": [
+        32,
+        64
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 2245,
+        "webpTopBytes": 3334
+      },
+      "facing": "none",
+      "height": 104,
+      "master": {
+        "bytes": 3046,
+        "h": 104,
+        "path": "masters/grapes.webp",
+        "sha256": "c26c7328d6fd02105739d71f3c86fcf584b88c03f307755a6f9095fcb5ddcd81",
+        "w": 79
+      },
+      "palette": [
+        "#4d4038",
+        "#4e4038",
+        "#4e3f38",
+        "#4d3f37"
+      ],
+      "provenance": {
+        "date": "1551–1587",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.e-rara.ch/i3f/v20/627095/full/full/0/default.jpg",
+        "institution": "Zentralbibliothek Zürich",
+        "method": "native-ink-extraction",
+        "object_identifier": "5.1: a-5.3; image 627095; section De leone.",
+        "object_title": "Gessner, Historiae animalium: De leone.",
+        "record_url": "https://www.e-rara.ch/zuz/content/pageview/627095",
+        "rights_url": "https://www.e-rara.ch/zuz/content/titleinfo/637105",
+        "source_sha256": "6e1d1022b4d3d1e03e77da2f3b87942a67558c62afaff5aa43fdd2f75b2e7716"
+      },
+      "related": [
+        {
+          "asset": "gessner-historiae-animalium/pear",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2253,
+            "h": 84,
+            "path": "avif/grapes-64.avif",
+            "sha256": "526eb6569c346c4d5bfab26da599d105afd9c348a4310c3fe588600b5e3d9354",
+            "w": 64
+          },
+          {
+            "bytes": 2245,
+            "h": 104,
+            "path": "avif/grapes-79.avif",
+            "sha256": "d3ed9dae52ce591ea6db89095365b21eda4d841f37efbe23bfce49bf61401f81",
+            "w": 79
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3574,
+            "h": 84,
+            "path": "webp/grapes-64.webp",
+            "sha256": "437a67896e6f3398e5c834f823d09933a367f23b7886ba7e5379e1045c53a1ed",
+            "w": 64
+          },
+          {
+            "bytes": 3334,
+            "h": 104,
+            "path": "webp/grapes-79.webp",
+            "sha256": "373403ac773f74dd984f2f449ec84a9ca6b0d78669bf49c5d70419db42b78328",
+            "w": 79
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "grape",
+        "leaf",
+        "vine"
+      ],
+      "thumbhash": "UBiCBAAjAUyV2myutZb41VCOcIiHKIiHBw==",
+      "title": "Grape bunch with branch stub",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Render at or below the master's pixel size; it blurs when enlarged.",
+        "Ink only, so it sits on any ground; the branch stub closes the piece, so it stands alone better than the cropped variant."
+      ],
+      "width": 79
+    },
+    "horse": {
+      "attribution": "Zentralbibliothek Zürich 5.1: a-5.3; image 626896; section De equo.",
+      "categories": [
+        "animals"
+      ],
+      "colors": [
+        "beige",
+        "brown",
+        "black"
+      ],
+      "composition": "single-figure",
+      "description": "A stallion standing in profile and facing left, with a short upright mane, a long flowing tail reaching the ground and one hind leg raised. Black woodcut line on the beige paper tone of the page, which is kept inside the outline; the background outside the figure is transparent.",
+      "display_width": [
+        320,
+        900
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 310756,
+        "webpTopBytes": 514526
+      },
+      "facing": "left",
+      "height": 2390,
+      "master": {
+        "bytes": 2398340,
+        "h": 1846,
+        "path": "masters/horse.webp",
+        "sha256": "41eb3c54e3bc623661982a1de9920158b0055eeeea386f8f971234c0fa124fb4",
+        "w": 2048
+      },
+      "palette": [
+        "#aa9a8d",
+        "#baa99a",
+        "#d2c1b1",
+        "#85786d",
+        "#9b8c80"
+      ],
+      "provenance": {
+        "date": "1551–1587",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.e-rara.ch/i3f/v20/626896/full/full/0/default.jpg",
+        "institution": "Zentralbibliothek Zürich",
+        "method": "ai-assisted-source-mask",
+        "object_identifier": "5.1: a-5.3; image 626896; section De equo.",
+        "object_title": "Gessner, Historiae animalium: De equo.",
+        "record_url": "https://www.e-rara.ch/zuz/content/pageview/626896",
+        "rights_url": "https://www.e-rara.ch/zuz/content/titleinfo/637105",
+        "source_sha256": "bdb76be1e8bb533a330049a50f7d9fd8da275b9198923c2aa54606f1c1b310f9"
+      },
+      "quality": "Printed text from the other side of the leaf shows through the body, and a faint yellow stain sits on the neck.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2030,
+            "h": 58,
+            "path": "avif/horse-64.avif",
+            "sha256": "aa444ccf13592ac9847d24ce855314a152911af15676666f6c7d049d3622346c",
+            "w": 64
+          },
+          {
+            "bytes": 3089,
+            "h": 87,
+            "path": "avif/horse-96.avif",
+            "sha256": "8f80b8a1e3e2ff9cf8d69672fb91e81783a6e2be216d1ae0b3fbd2af5000dce0",
+            "w": 96
+          },
+          {
+            "bytes": 4266,
+            "h": 115,
+            "path": "avif/horse-128.avif",
+            "sha256": "571996f42296b34ff7beb91c12585709dcb71e7e62305e054e097f058b65d55a",
+            "w": 128
+          },
+          {
+            "bytes": 7262,
+            "h": 173,
+            "path": "avif/horse-192.avif",
+            "sha256": "8a2e25a93fdb0f02dd5763527fc5c294af74e5c3367b9d46d87d40423784481b",
+            "w": 192
+          },
+          {
+            "bytes": 11086,
+            "h": 231,
+            "path": "avif/horse-256.avif",
+            "sha256": "7ae06d11f82d993f1ca0a195710283f899072f628eadd996f22db29fded680d8",
+            "w": 256
+          },
+          {
+            "bytes": 20955,
+            "h": 346,
+            "path": "avif/horse-384.avif",
+            "sha256": "9de775c310bbf00d61df29ac7c8e158f11f8ab4f51ca0f907fe150ce725891dc",
+            "w": 384
+          },
+          {
+            "bytes": 34420,
+            "h": 462,
+            "path": "avif/horse-512.avif",
+            "sha256": "b886d2aee2461cda2845ec9a5712a52ce37ddd1934bb2d7c1e08ac5bd7265edd",
+            "w": 512
+          },
+          {
+            "bytes": 67735,
+            "h": 692,
+            "path": "avif/horse-768.avif",
+            "sha256": "0c308721f7800e41f6a6d131b7bb291a5abef449a50b5da8233756d4b82f3bbe",
+            "w": 768
+          },
+          {
+            "bytes": 109800,
+            "h": 923,
+            "path": "avif/horse-1024.avif",
+            "sha256": "525287009ba72357ecfcecab3bc9134b5b5aa0ef0a136fc14192907d0bef326c",
+            "w": 1024
+          },
+          {
+            "bytes": 207032,
+            "h": 1385,
+            "path": "avif/horse-1536.avif",
+            "sha256": "409743b6bfac0b0605e3cbadb9f46696251bfa9ee19df649dc97675b120ad7d5",
+            "w": 1536
+          },
+          {
+            "bytes": 310756,
+            "h": 1846,
+            "path": "avif/horse-2048.avif",
+            "sha256": "768a748dab482e6228fced9ac9ddd27eb55bcd6673c6f5ec7cc1f8a732dffcaa",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2756,
+            "h": 58,
+            "path": "webp/horse-64.webp",
+            "sha256": "0d36e7e73de43f4376039037ec2358902ce890494f892492cbd8f31bcdacc80c",
+            "w": 64
+          },
+          {
+            "bytes": 4550,
+            "h": 87,
+            "path": "webp/horse-96.webp",
+            "sha256": "8c3fe82f01c24a1aca90e96e50b4a0b4f184cba7b80daba0be31ee3d29027424",
+            "w": 96
+          },
+          {
+            "bytes": 6486,
+            "h": 115,
+            "path": "webp/horse-128.webp",
+            "sha256": "e3c3cc24be1f4a04d067d3bc7f97d1f0da0f1332c1c67a0d840a9590e0eef61b",
+            "w": 128
+          },
+          {
+            "bytes": 11162,
+            "h": 173,
+            "path": "webp/horse-192.webp",
+            "sha256": "10f05e2d2b217415cceff407ac601f4fcfcf404fb12807ff6282da675eca3b37",
+            "w": 192
+          },
+          {
+            "bytes": 16736,
+            "h": 231,
+            "path": "webp/horse-256.webp",
+            "sha256": "0a4074eaca2922dd6c68dc14baffc80de582f9495953b5421c9f22dfd16c27ca",
+            "w": 256
+          },
+          {
+            "bytes": 31066,
+            "h": 346,
+            "path": "webp/horse-384.webp",
+            "sha256": "8eace1baaee890cdc2b3a6d286e967895f7cb14e9de40158b063a1f1e08b8b0f",
+            "w": 384
+          },
+          {
+            "bytes": 50460,
+            "h": 462,
+            "path": "webp/horse-512.webp",
+            "sha256": "cf21969cff80ef8d3bb1f7c2b375fa2e0bba1cc87e71c02c38d5cca716f6e8a7",
+            "w": 512
+          },
+          {
+            "bytes": 104766,
+            "h": 692,
+            "path": "webp/horse-768.webp",
+            "sha256": "792bdbdb3a3683871b5be7f7e2744ed5425bbb082ee6bfb8d45bcdd12fd24a7c",
+            "w": 768
+          },
+          {
+            "bytes": 173620,
+            "h": 923,
+            "path": "webp/horse-1024.webp",
+            "sha256": "853e6415bea97bbbd84fa8c4521c6a9ba935564f50a819886415a17cafb7c991",
+            "w": 1024
+          },
+          {
+            "bytes": 337564,
+            "h": 1385,
+            "path": "webp/horse-1536.webp",
+            "sha256": "930eba4349997c8e5fab969ed30f3b69ef7547e451ae4228667c5f7bf203be26",
+            "w": 1536
+          },
+          {
+            "bytes": 514526,
+            "h": 1846,
+            "path": "webp/horse-2048.webp",
+            "sha256": "f20a5939d090eff7c92e2a1c8ab41bfde647074676570e391a000d1033367ef8",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "horse"
+      ],
+      "thumbhash": "qBiCBYAmZ29rmIFq6oJlAAoWaCa4mKBrlg==",
+      "title": "Standing horse",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The paper tone inside the figure is kept, so it reads as a cut-out of the printed page; place it on a light or mid-toned ground."
+      ],
+      "view": "side",
+      "width": 2651
+    },
+    "lion": {
+      "attribution": "Zentralbibliothek Zürich 5.1: a-5.3; image 627095; section De leone.",
+      "categories": [
+        "animals"
+      ],
+      "colors": [
+        "beige",
+        "brown",
+        "black"
+      ],
+      "composition": "single-figure",
+      "description": "A maned lion walking to the left in profile, with a heavy shaggy mane falling over the shoulders and chest, large paws and a thin tail raised behind and ending in a tuft. Black woodcut line on the beige paper tone of the page, which is kept inside the outline; the background outside the figure is transparent.",
+      "display_width": [
+        320,
+        900
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 230267,
+        "webpTopBytes": 372844
+      },
+      "facing": "left",
+      "height": 1151,
+      "master": {
+        "bytes": 1791204,
+        "h": 1059,
+        "path": "masters/lion.webp",
+        "sha256": "7a491c68a302bccc3f82a677185bb7ab07d1031f0fdf900bbec8dd8f361598ab",
+        "w": 2048
+      },
+      "palette": [
+        "#a4968a",
+        "#b5a699",
+        "#cdbdaf",
+        "#94877c",
+        "#81746a"
+      ],
+      "provenance": {
+        "date": "1551–1587",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.e-rara.ch/i3f/v20/627095/full/full/0/default.jpg",
+        "institution": "Zentralbibliothek Zürich",
+        "method": "ai-assisted-source-mask",
+        "object_identifier": "5.1: a-5.3; image 627095; section De leone.",
+        "object_title": "Gessner, Historiae animalium: De leone.",
+        "record_url": "https://www.e-rara.ch/zuz/content/pageview/627095",
+        "rights_url": "https://www.e-rara.ch/zuz/content/titleinfo/637105",
+        "source_sha256": "6e1d1022b4d3d1e03e77da2f3b87942a67558c62afaff5aa43fdd2f75b2e7716"
+      },
+      "quality": "Printed text from the other side of the leaf shows faintly through the hindquarters.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1662,
+            "h": 33,
+            "path": "avif/lion-64.avif",
+            "sha256": "c7ed3c3f764fa83c527e233f6496f30120a1a2d86e9dee2d3f8162df9db4baef",
+            "w": 64
+          },
+          {
+            "bytes": 2560,
+            "h": 50,
+            "path": "avif/lion-96.avif",
+            "sha256": "a9726367571641a0d8cdf2219f29ae7af8eb76694ef5723844d0bc0a5998927e",
+            "w": 96
+          },
+          {
+            "bytes": 3635,
+            "h": 66,
+            "path": "avif/lion-128.avif",
+            "sha256": "8ada244c953b847838c58e7847ab8bf82ed8cbad98ab9162c821d209996868cd",
+            "w": 128
+          },
+          {
+            "bytes": 6430,
+            "h": 99,
+            "path": "avif/lion-192.avif",
+            "sha256": "8b11c0e4b6d10f2fb5b6a9335b0eeebcf978edeb4e0822dcdcd952d53db56568",
+            "w": 192
+          },
+          {
+            "bytes": 9787,
+            "h": 132,
+            "path": "avif/lion-256.avif",
+            "sha256": "086d5f83e11601a4710fd6621d4d3374cbdaa062cdb096a435af0ebe57d53c3e",
+            "w": 256
+          },
+          {
+            "bytes": 19614,
+            "h": 199,
+            "path": "avif/lion-384.avif",
+            "sha256": "e431cd22f1b250ac906511c6fce5dbcf70e214ac1720c740ef93cdaaf2e71199",
+            "w": 384
+          },
+          {
+            "bytes": 31659,
+            "h": 265,
+            "path": "avif/lion-512.avif",
+            "sha256": "eede00122bcc54e6ed59da48e6ae00a157a8d0750aaf50d22a82be5b69c85c12",
+            "w": 512
+          },
+          {
+            "bytes": 61232,
+            "h": 397,
+            "path": "avif/lion-768.avif",
+            "sha256": "effa5d24ed220e45dad3205676a8055e35c4fec80e08d3d68b74a669997408e0",
+            "w": 768
+          },
+          {
+            "bytes": 92224,
+            "h": 530,
+            "path": "avif/lion-1024.avif",
+            "sha256": "ea11a6a79f9578137ef3acbcae470c67dfd0b3612b5316ada59e9e4e20d9412c",
+            "w": 1024
+          },
+          {
+            "bytes": 158704,
+            "h": 795,
+            "path": "avif/lion-1536.avif",
+            "sha256": "d7238376791c179e43f98a2040acab29dd7da6385c8cadb37f590920a2033b4e",
+            "w": 1536
+          },
+          {
+            "bytes": 230267,
+            "h": 1059,
+            "path": "avif/lion-2048.avif",
+            "sha256": "0341dc2a7f128a184996a36268e20f4cb6c131df37d205d5e2a548f120856666",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2048,
+            "h": 33,
+            "path": "webp/lion-64.webp",
+            "sha256": "c6d11568e59737abffa18594c7258a0279ee9b121f4cf9e2c04842d3e7dded0f",
+            "w": 64
+          },
+          {
+            "bytes": 3568,
+            "h": 50,
+            "path": "webp/lion-96.webp",
+            "sha256": "559691672e826925594d2c0ffb7d4d57b4439da5e95aae453b6e81b384353e5e",
+            "w": 96
+          },
+          {
+            "bytes": 5378,
+            "h": 66,
+            "path": "webp/lion-128.webp",
+            "sha256": "55df12712a1edd88b1b8c81725a68365f9bbc5f4516d0cc57843aa6609e970fb",
+            "w": 128
+          },
+          {
+            "bytes": 9630,
+            "h": 99,
+            "path": "webp/lion-192.webp",
+            "sha256": "23576c9be01a965b53d015a1b64bbbf2675adb4277147845c3ef608eb4a9321c",
+            "w": 192
+          },
+          {
+            "bytes": 14888,
+            "h": 132,
+            "path": "webp/lion-256.webp",
+            "sha256": "7cf3de5615a742e893299688f2741ada9075e293ead770d71344cb544518ef8b",
+            "w": 256
+          },
+          {
+            "bytes": 28488,
+            "h": 199,
+            "path": "webp/lion-384.webp",
+            "sha256": "0c725643077a4e441df764eec886d4cc408243750476095ba453676e00237400",
+            "w": 384
+          },
+          {
+            "bytes": 46044,
+            "h": 265,
+            "path": "webp/lion-512.webp",
+            "sha256": "4a2b8fe17ce9a6ee8bb94c4bd68f26ac575a62bef163e65aafafc0f1d942ac14",
+            "w": 512
+          },
+          {
+            "bytes": 90210,
+            "h": 397,
+            "path": "webp/lion-768.webp",
+            "sha256": "7c696f2cfe06a547ab4d888c0ae6036b0198bea2cc117780e80bb2f3f07e9ac3",
+            "w": 768
+          },
+          {
+            "bytes": 141866,
+            "h": 530,
+            "path": "webp/lion-1024.webp",
+            "sha256": "76ca76b7161c557367c2b194c7fe68cc0baff35076e15696646d54205973bb9f",
+            "w": 1024
+          },
+          {
+            "bytes": 254958,
+            "h": 795,
+            "path": "webp/lion-1536.webp",
+            "sha256": "f41488fc3ec0591a40583e69de87d9589ed12efedbdb3c767ab88e6400956f47",
+            "w": 1536
+          },
+          {
+            "bytes": 372844,
+            "h": 1059,
+            "path": "webp/lion-2048.webp",
+            "sha256": "3dccddb79f98f2e4fc3706e70cb16afd4b0e5c46c082dc5e8029090336c38e86",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "lion"
+      ],
+      "thumbhash": "pxiCA4AoBJxdlbcBWAeAdx5IuYhwW0Y=",
+      "title": "Walking lion",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The paper tone inside the figure is kept, so it reads as a cut-out of the printed page; place it on a light or mid-toned ground.",
+        "Wide strip (about 2:1) that works as a footer or title band."
+      ],
+      "view": "side",
+      "width": 2225
+    },
+    "pear": {
+      "attribution": "Zentralbibliothek Zürich 5.1: a-5.3; image 627095; section De leone.",
+      "categories": [
+        "botanical"
+      ],
+      "colors": [
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A tiny pear hanging from a stem that continues upward into a short curve ending in a knob where the stalk joined the branch, taken from the decorated initial L of the lion chapter. Dark brown printed ink only, a few dozen pixels across; the paper is removed and the background is transparent.",
+      "display_width": [
+        24,
+        45
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 1279,
+        "webpTopBytes": 1678
+      },
+      "facing": "none",
+      "height": 82,
+      "master": {
+        "bytes": 1470,
+        "h": 82,
+        "path": "masters/pear.webp",
+        "sha256": "7640b1ecd2ffebc6f146d87842df30398fa913424b1848524f7c1c44391df8c7",
+        "w": 45
+      },
+      "palette": [
+        "#4d4137",
+        "#4e4137",
+        "#4e4037",
+        "#4d4036"
+      ],
+      "provenance": {
+        "date": "1551–1587",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.e-rara.ch/i3f/v20/627095/full/full/0/default.jpg",
+        "institution": "Zentralbibliothek Zürich",
+        "method": "native-ink-extraction",
+        "object_identifier": "5.1: a-5.3; image 627095; section De leone.",
+        "object_title": "Gessner, Historiae animalium: De leone.",
+        "record_url": "https://www.e-rara.ch/zuz/content/pageview/627095",
+        "rights_url": "https://www.e-rara.ch/zuz/content/titleinfo/637105",
+        "source_sha256": "6e1d1022b4d3d1e03e77da2f3b87942a67558c62afaff5aa43fdd2f75b2e7716"
+      },
+      "related": [
+        {
+          "asset": "gessner-historiae-animalium/grapes",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1279,
+            "h": 82,
+            "path": "avif/pear-45.avif",
+            "sha256": "3aae7370001211eb8dcbbc813956eebfb5a7324e13831342ac578ae19643d5d5",
+            "w": 45
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1678,
+            "h": 82,
+            "path": "webp/pear-45.webp",
+            "sha256": "1026a4f205998fae35368df2ee56d5475ec05bd23cbd5019cd19002e2c4c30f5",
+            "w": 45
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "pear"
+      ],
+      "thumbhash": "kRiCAwATeHiIhwdHdkD+eQxoYVh2aFY=",
+      "title": "Pear with curved stalk",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Render at or below the master's pixel size; it blurs when enlarged.",
+        "Ink only, so it sits on any ground; the curved stalk closes the piece, so it stands alone better than the cropped variant."
+      ],
+      "width": 45
+    }
+  },
+  "attribution": "Zentralbibliothek Zürich 5.1: a-5.3",
+  "builtAt": "2026-10-28T16:09:54.909Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-gessner-historiae-animalium@1.0.0/",
+  "contentHash": "sha256:eb03ebcee89aad3dd52e51d436da00365ff0d18efb065b8e34b5672987bddc44",
+  "inputsHash": "sha256:902895fb841ae28b3116dcece8e2fbab4823f50970f00d544c61d0142ad56b56",
+  "kind": "historical",
+  "license": {
+    "artwork": "LicenseRef-PDM",
+    "notes": "The scans carry the Public Domain Mark; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-gessner-historiae-animalium-masters",
+  "package": "@ranx729/ducktape-assets-gessner-historiae-animalium",
+  "period": "1551–1587",
+  "region": "Zürich, Switzerland",
+  "schema": 1,
+  "set": "gessner-historiae-animalium",
+  "style": "Renaissance zoological woodcut",
+  "summary": "Woodcut animals and details from Conrad Gessner's Historiae animalium (Zürich, 1551–1587), scanned by the Zentralbibliothek Zürich on e-rara; one section of the book per asset, with the lion section yielding several pieces.",
+  "title": "Gessner, Historiae animalium",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

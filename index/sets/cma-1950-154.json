@@ -1,0 +1,1485 @@
+{
+  "assets": {
+    "apostle-city-miniature": {
+      "categories": [
+        "humans",
+        "floral"
+      ],
+      "colors": [
+        "gold",
+        "blue",
+        "orange",
+        "red",
+        "green"
+      ],
+      "composition": "framed-scene",
+      "description": "The whole miniature from the leaf. A grey-haired, bearded apostle with a gold halo stands centred on a pale green ground facing the viewer, in a blue tunic and orange-brown mantle, right hand raised in speech and a rolled white scroll in his left. Pink and ochre city towers rise on either side with red cloth draped between them, on a burnished gold ground. A painted frame of a blue band with white curling vines between two narrow red and gold bands encloses the scene, with leaf flourishes at the four corners; it runs slightly askew. Opaque inside the frame, transparent outside.",
+      "display_width": [
+        400,
+        1200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 454453,
+        "webpTopBytes": 691456
+      },
+      "facing": "viewer",
+      "group": null,
+      "height": 3137,
+      "master": {
+        "bytes": 3957602,
+        "h": 1705,
+        "path": "masters/apostle-city-miniature.webp",
+        "sha256": "60cdb313b2ef070b633dc7aedb9c6d28a1159d6a0d77da92aabf184ba56199eb",
+        "w": 2048
+      },
+      "palette": [
+        "#8a5e45",
+        "#5d6878",
+        "#ac7050",
+        "#ce9e5d",
+        "#d1a03a"
+      ],
+      "provenance": {
+        "date": "1084",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/1950.154/1950.154_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "1950.154",
+        "object_title": "Leaf from a Greek Psalter and New Testament",
+        "record_url": "https://clevelandart.org/art/1950.154",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "50cf1d6abf2cfd5507a7ee7faa58cac559c2fbe3d1fe7ab9f83423ecc0481c95"
+      },
+      "quality": "The painted frame is not rectangular (the top band drops about 1 degree to the left and the right band leans outward about 2 degrees, as on the leaf) and the gold ground shows wear.",
+      "related": [
+        {
+          "asset": "cma-1950-154/blue-vine-frame",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-1950-154/standing-apostle-with-rolled-scroll",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1665,
+            "h": 53,
+            "path": "avif/apostle-city-miniature-64.avif",
+            "sha256": "9029f18a5ee3c32870a57c693cb28abbab8920ee6b9c87d2043ff0b02d02cf7a",
+            "w": 64
+          },
+          {
+            "bytes": 2861,
+            "h": 80,
+            "path": "avif/apostle-city-miniature-96.avif",
+            "sha256": "74714dfa86db090f5b909d1d27da4c6d7e097da7cc06affc13bc6ecc43598a31",
+            "w": 96
+          },
+          {
+            "bytes": 4334,
+            "h": 107,
+            "path": "avif/apostle-city-miniature-128.avif",
+            "sha256": "9ecdd17af82653512976c7a576e2977c7c06ef1f0941240371e800204a1310d0",
+            "w": 128
+          },
+          {
+            "bytes": 8075,
+            "h": 160,
+            "path": "avif/apostle-city-miniature-192.avif",
+            "sha256": "b197efcc06a07fe43ea87df400067444b28d3213658e9ac140c97fbea677de48",
+            "w": 192
+          },
+          {
+            "bytes": 12961,
+            "h": 213,
+            "path": "avif/apostle-city-miniature-256.avif",
+            "sha256": "2b2a9af7a76a29faa14a28f7f332ef61ad44c34cbd0b36e62dd5a5ea1db8ab5d",
+            "w": 256
+          },
+          {
+            "bytes": 26860,
+            "h": 320,
+            "path": "avif/apostle-city-miniature-384.avif",
+            "sha256": "997abd6a9b28788171ee98089122e6b5c2f05c1e7544266c7ecb412fd91ad8c5",
+            "w": 384
+          },
+          {
+            "bytes": 42984,
+            "h": 426,
+            "path": "avif/apostle-city-miniature-512.avif",
+            "sha256": "2c5da87a628680c495978725dd8e3dbbd5582d6b1ab50dec1c5049e21e0a53cc",
+            "w": 512
+          },
+          {
+            "bytes": 86790,
+            "h": 639,
+            "path": "avif/apostle-city-miniature-768.avif",
+            "sha256": "6d9821ab2824984f397acb51bb887f646109e5484f283997bb3025fb24be6c1a",
+            "w": 768
+          },
+          {
+            "bytes": 144857,
+            "h": 852,
+            "path": "avif/apostle-city-miniature-1024.avif",
+            "sha256": "56ce483c019d5c8320ca9e9e04319536290516f759df9ba16954cdee2e492342",
+            "w": 1024
+          },
+          {
+            "bytes": 284132,
+            "h": 1278,
+            "path": "avif/apostle-city-miniature-1536.avif",
+            "sha256": "73761ae093553d63afd889cbb25c109b8d66cdb15b07268b8e366c74fcbe4500",
+            "w": 1536
+          },
+          {
+            "bytes": 454453,
+            "h": 1705,
+            "path": "avif/apostle-city-miniature-2048.avif",
+            "sha256": "0ff96ce9d00433857167850c23a6f41e1c8432a89dde9fb98d548d8561635376",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2060,
+            "h": 53,
+            "path": "webp/apostle-city-miniature-64.webp",
+            "sha256": "f54a32ccaa1c9386fa21c98ed6d70e3881a2eb1be879d34c8e7e710968676ed5",
+            "w": 64
+          },
+          {
+            "bytes": 3904,
+            "h": 80,
+            "path": "webp/apostle-city-miniature-96.webp",
+            "sha256": "406e37a49163a89ac0f093e435aaf1338deafd6b164af42bab86818cb9046c3c",
+            "w": 96
+          },
+          {
+            "bytes": 5948,
+            "h": 107,
+            "path": "webp/apostle-city-miniature-128.webp",
+            "sha256": "7ad2ae2c108af2e2a9af24da620d8976213a2d64c0a42c9d2784ef265181c4b7",
+            "w": 128
+          },
+          {
+            "bytes": 11798,
+            "h": 160,
+            "path": "webp/apostle-city-miniature-192.webp",
+            "sha256": "1f4ec9954617f01e09beeb82559e8976990a5f027edbf3716246a772ecce15de",
+            "w": 192
+          },
+          {
+            "bytes": 18866,
+            "h": 213,
+            "path": "webp/apostle-city-miniature-256.webp",
+            "sha256": "069c75307df294fc642d17e3ada69c2c2c67fa8c669a41f0499ec78c3074e671",
+            "w": 256
+          },
+          {
+            "bytes": 37098,
+            "h": 320,
+            "path": "webp/apostle-city-miniature-384.webp",
+            "sha256": "a2f454f7574178539baa4d30177a9d09b1b49bd58745c50aa55f74ee94ef588c",
+            "w": 384
+          },
+          {
+            "bytes": 60952,
+            "h": 426,
+            "path": "webp/apostle-city-miniature-512.webp",
+            "sha256": "7e28719c3a863b198f20f8809dd8d2f7345e557c94401180741f35524be3d8a4",
+            "w": 512
+          },
+          {
+            "bytes": 125144,
+            "h": 639,
+            "path": "webp/apostle-city-miniature-768.webp",
+            "sha256": "3722c223a4ed4fe539c08bb81eed425a34fcc72f1bd5d49810074bbbe5cbd9dd",
+            "w": 768
+          },
+          {
+            "bytes": 215200,
+            "h": 852,
+            "path": "webp/apostle-city-miniature-1024.webp",
+            "sha256": "a7a454eb42e35f5bfd29f662833f3e8c750ee224321d34f79cc26f3de009e8fb",
+            "w": 1024
+          },
+          {
+            "bytes": 430720,
+            "h": 1278,
+            "path": "webp/apostle-city-miniature-1536.webp",
+            "sha256": "7592f79582390463648e079903fcc14c0440e9d4bad7daeccba6e1ceeb37c8fc",
+            "w": 1536
+          },
+          {
+            "bytes": 691456,
+            "h": 1705,
+            "path": "webp/apostle-city-miniature-2048.webp",
+            "sha256": "e265720c1474cfe4f962a08280626d914ef9f052012f986ad1c23257f23cc8bb",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "apostle",
+        "halo",
+        "scroll",
+        "city",
+        "tower",
+        "architecture",
+        "drapery",
+        "frame",
+        "vine"
+      ],
+      "thumbhash": "nUmCHIQ6WkZ/hHNHh/U4eHxwcFKIaJd1Bg==",
+      "title": "Apostle before a walled city, framed miniature",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Complete framed miniature with its own gold ground; place it as a picture, not as a cut-out.",
+        "The emptied frame is finite-blue-vine-and-red-gold-miniature-frame and the figure alone is standing-apostle-with-rolled-scroll."
+      ],
+      "view": "front",
+      "width": 3769
+    },
+    "blue-vine-frame": {
+      "categories": [
+        "floral",
+        "scrollwork"
+      ],
+      "colors": [
+        "blue",
+        "red",
+        "gold",
+        "white"
+      ],
+      "composition": "single-ornament",
+      "description": "The painted frame of the miniature with its interior removed. A wide blue band carries a white curling vine with leaves and spiral tendrils, between a narrow outer and inner red band bearing a gold chain-like pattern, with a thin gold rule along the inside edge. Gold and red leaf finials spring outward from the two upper corners and blue, gold-edged leaf flourishes from the two lower corners. The frame is slightly trapezoidal as painted. Only the paint is opaque; the interior and everything outside the frame are transparent.",
+      "display_width": [
+        400,
+        1200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 186765,
+        "webpTopBytes": 301498
+      },
+      "facing": "none",
+      "group": null,
+      "height": 3137,
+      "master": {
+        "bytes": 1451976,
+        "h": 1705,
+        "path": "masters/blue-vine-frame.webp",
+        "sha256": "d2784e73c4183861730dc90d7514ea725e285e535bd2162d87f146e953da2495",
+        "w": 2048
+      },
+      "palette": [
+        "#97674d",
+        "#745d5c",
+        "#505d80",
+        "#4e526d",
+        "#375082"
+      ],
+      "provenance": {
+        "date": "1084",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/1950.154/1950.154_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "1950.154",
+        "object_title": "Leaf from a Greek Psalter and New Testament",
+        "record_url": "https://clevelandart.org/art/1950.154",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "50cf1d6abf2cfd5507a7ee7faa58cac559c2fbe3d1fe7ab9f83423ecc0481c95"
+      },
+      "quality": "Not rectangular as painted, the top band drops about 43 px over 2200 px and the right band leans outward about 55 px over 1600 px, with band widths between about 200 and 235 px.",
+      "related": [
+        {
+          "asset": "cma-1950-154/apostle-city-miniature",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-1950-154/white-curling-vine-on-blue-repeat",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-1950-154/gold-s-shaped-leaf-on-red-repeat",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1622,
+            "h": 53,
+            "path": "avif/blue-vine-frame-64.avif",
+            "sha256": "606432e446d0b6155643f9ab2b8bfaf6665c2eff4e6a94f79d898f66b58e528d",
+            "w": 64
+          },
+          {
+            "bytes": 2448,
+            "h": 80,
+            "path": "avif/blue-vine-frame-96.avif",
+            "sha256": "6908d4f9e968804c095ae95e6582fba04939c3c7207387ce03ec9f731c2c73e6",
+            "w": 96
+          },
+          {
+            "bytes": 3332,
+            "h": 107,
+            "path": "avif/blue-vine-frame-128.avif",
+            "sha256": "2b20288a153f890a9c2ab6151dcd285c3c923ba92ca92b55f1b1b82c96708bd2",
+            "w": 128
+          },
+          {
+            "bytes": 5670,
+            "h": 160,
+            "path": "avif/blue-vine-frame-192.avif",
+            "sha256": "7f5d03b5e7c0c4b6b191adc5a3db29eff126890f574f99eb839361c601bb043c",
+            "w": 192
+          },
+          {
+            "bytes": 8522,
+            "h": 213,
+            "path": "avif/blue-vine-frame-256.avif",
+            "sha256": "a8b620e495bb8a93ca38f6919d9e24b86a577193afe446ccbfc0bf302945434d",
+            "w": 256
+          },
+          {
+            "bytes": 17481,
+            "h": 320,
+            "path": "avif/blue-vine-frame-384.avif",
+            "sha256": "ecd7876ba101423559a60ea3844cb60cb924a7160516e43414e9a0266a97f08c",
+            "w": 384
+          },
+          {
+            "bytes": 24373,
+            "h": 426,
+            "path": "avif/blue-vine-frame-512.avif",
+            "sha256": "f7fedf0da75e4cc92e6de7945956f6ee65b1f06f68b8cfd01ef434cbbecc595c",
+            "w": 512
+          },
+          {
+            "bytes": 47703,
+            "h": 639,
+            "path": "avif/blue-vine-frame-768.avif",
+            "sha256": "86af3bc00b8ab5dbaa03b304e735b4b3952b8594b358d13bf35e6754459ccb44",
+            "w": 768
+          },
+          {
+            "bytes": 70672,
+            "h": 852,
+            "path": "avif/blue-vine-frame-1024.avif",
+            "sha256": "79fb11673cdc93c6a669db72158898d6a08b97654512d158bfeb6f94c098a4c8",
+            "w": 1024
+          },
+          {
+            "bytes": 122363,
+            "h": 1278,
+            "path": "avif/blue-vine-frame-1536.avif",
+            "sha256": "7b3136b446c14f8dc84d79ad80308ba6359a9b3751a0c43f51d2b94158056ece",
+            "w": 1536
+          },
+          {
+            "bytes": 186765,
+            "h": 1705,
+            "path": "avif/blue-vine-frame-2048.avif",
+            "sha256": "d043a8f6bf37e7eb0d39bb2c5b6813b723d580a3907d8df0da92a0f8426aa6cd",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2026,
+            "h": 53,
+            "path": "webp/blue-vine-frame-64.webp",
+            "sha256": "051c9997c2651fba889d5656aba007d8044fb9a8c27483f8b7d7f8eaa163d510",
+            "w": 64
+          },
+          {
+            "bytes": 3550,
+            "h": 80,
+            "path": "webp/blue-vine-frame-96.webp",
+            "sha256": "2f36af6dba1e5869c35486f3c6ef1955bae7d2d161514846f920ee4c96e948d4",
+            "w": 96
+          },
+          {
+            "bytes": 5132,
+            "h": 107,
+            "path": "webp/blue-vine-frame-128.webp",
+            "sha256": "250358e2a4af12b9f28d23faa9876fc7e2b47e4a3d1a79b64431c7579175963c",
+            "w": 128
+          },
+          {
+            "bytes": 9238,
+            "h": 160,
+            "path": "webp/blue-vine-frame-192.webp",
+            "sha256": "2b8c0d77070611628e4306871cb31fedd13c7ee54a30dbc5944e366611830255",
+            "w": 192
+          },
+          {
+            "bytes": 13900,
+            "h": 213,
+            "path": "webp/blue-vine-frame-256.webp",
+            "sha256": "24177af6c6c6803f4f5c65d33f959933f65da5326298a293602ec0f2e3d29cb8",
+            "w": 256
+          },
+          {
+            "bytes": 24954,
+            "h": 320,
+            "path": "webp/blue-vine-frame-384.webp",
+            "sha256": "5770099e314a855318a2d939b68104dec151b23a5cc472225903cb0ff2cd2565",
+            "w": 384
+          },
+          {
+            "bytes": 38144,
+            "h": 426,
+            "path": "webp/blue-vine-frame-512.webp",
+            "sha256": "b20b3cc7e4b5e11dd5c3e19ddabc87819dcb6a7d3ae33e346a39d0dd73806101",
+            "w": 512
+          },
+          {
+            "bytes": 70538,
+            "h": 639,
+            "path": "webp/blue-vine-frame-768.webp",
+            "sha256": "40e926089d318277d485d7b929ad4b2388a25f2e359c3c2a89e1922b749a0eb1",
+            "w": 768
+          },
+          {
+            "bytes": 111346,
+            "h": 852,
+            "path": "webp/blue-vine-frame-1024.webp",
+            "sha256": "d889bd613767093501a78cec8f6edf8d09038abffb524f6a89e33a772de8e585",
+            "w": 1024
+          },
+          {
+            "bytes": 201110,
+            "h": 1278,
+            "path": "webp/blue-vine-frame-1536.webp",
+            "sha256": "31e9a11b4ad9d03d3af1ef10e7fcd35a04182c99a2674da7b909afac115d57c3",
+            "w": 1536
+          },
+          {
+            "bytes": 301498,
+            "h": 1705,
+            "path": "webp/blue-vine-frame-2048.webp",
+            "sha256": "e7f0d5d2cd7cb32f81014fc259d6c66c5af0f1a76bbc7f6fe4bda06d58551183",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "frame",
+        "vine",
+        "leaf",
+        "finial",
+        "flourish"
+      ],
+      "thumbhash": "WiiCBIATf3lpaYOFlvnI/Wh7elNo+Fd0DA==",
+      "title": "Blue vine miniature frame",
+      "transparent": true,
+      "type": "frame",
+      "usage_notes": [
+        "Fixed picture frame, scaled as a whole with content placed in its transparent interior; it is not a border-image because the top and right bands run askew and the four corner flourishes all differ.",
+        "For a band of the same ornament at any length use the two repeat tiles white-curling-vine-on-blue-repeat and gold-s-shaped-leaf-on-red-repeat."
+      ],
+      "width": 3769
+    },
+    "gold-s-shaped-leaf-on-red-repeat": {
+      "categories": [
+        "floral",
+        "scrollwork"
+      ],
+      "colors": [
+        "red",
+        "gold"
+      ],
+      "composition": "repeat-tile",
+      "description": "One cycle of the narrow red band of the miniature frame, a gold S-shaped leaf with a darker lobe painted on a dull red ground with gold speckling. The pattern continues across the left and right edges; the band's painted edges are slightly ragged and the thin strips above and below it are transparent.",
+      "display_width": [
+        35,
+        70
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 1612,
+        "webpTopBytes": 1972
+      },
+      "facing": "none",
+      "group": null,
+      "height": 70,
+      "master": {
+        "bytes": 7986,
+        "h": 70,
+        "path": "masters/gold-s-shaped-leaf-on-red-repeat.webp",
+        "sha256": "a371b7144f44b9c28c4101e41cd7a5dffc487e2306835fa12a858792310459f0",
+        "w": 70
+      },
+      "palette": [
+        "#8f483d",
+        "#a36859",
+        "#af9069",
+        "#c6ae85",
+        "#bca377"
+      ],
+      "provenance": {
+        "date": "1084",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/1950.154/1950.154_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-repeat",
+        "object_identifier": "1950.154",
+        "object_title": "Leaf from a Greek Psalter and New Testament",
+        "record_url": "https://clevelandart.org/art/1950.154",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "50cf1d6abf2cfd5507a7ee7faa58cac559c2fbe3d1fe7ab9f83423ecc0481c95"
+      },
+      "quality": "Square tile of one cycle at 70 px, the band's native height, so it softens above native size and its painted edges are ragged.",
+      "related": [
+        {
+          "asset": "cma-1950-154/blue-vine-frame",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-1950-154/white-curling-vine-on-blue-repeat",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {},
+        "tile": {
+          "axis": "x",
+          "period": 1,
+          "rotated": {
+            "avif": [
+              {
+                "bytes": 1544,
+                "h": 64,
+                "path": "tiles/gold-s-shaped-leaf-on-red-repeat-rotated-64.avif",
+                "sha256": "b86a83aa5071bcb77e514ab6fcaf98285b68e4797d9ba9a16d3eeac8c12bd2d5",
+                "w": 64
+              },
+              {
+                "bytes": 1568,
+                "h": 70,
+                "path": "tiles/gold-s-shaped-leaf-on-red-repeat-rotated-70.avif",
+                "sha256": "3923063e2a89b25fbb31b4fa76ec64e4b6c2438145a04f2526f6a5aeb2677c0e",
+                "w": 70
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 2302,
+                "h": 64,
+                "path": "tiles/gold-s-shaped-leaf-on-red-repeat-rotated-64.webp",
+                "sha256": "3787fb03c0779e0c19ab633a002b3c156cf73b2928f24157336257d377778b0b",
+                "w": 64
+              },
+              {
+                "bytes": 2100,
+                "h": 70,
+                "path": "tiles/gold-s-shaped-leaf-on-red-repeat-rotated-70.webp",
+                "sha256": "f4d7fb6247f0679b183cc24d68cb528da6503ac3db192093271a19849e992a98",
+                "w": 70
+              }
+            ]
+          }
+        }
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1548,
+            "h": 64,
+            "path": "avif/gold-s-shaped-leaf-on-red-repeat-64.avif",
+            "sha256": "d0868b2ebd07eb94407356cd325df0521ecc0b8a9c4094becd5d5efa42d1726a",
+            "w": 64
+          },
+          {
+            "bytes": 1612,
+            "h": 70,
+            "path": "avif/gold-s-shaped-leaf-on-red-repeat-70.avif",
+            "sha256": "a53de02a85b411a334a9e7c6562696fab965c8271853987421bbfd6f78527fe7",
+            "w": 70
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2206,
+            "h": 64,
+            "path": "webp/gold-s-shaped-leaf-on-red-repeat-64.webp",
+            "sha256": "9bfddf59b3e75bf0e2f5e9a609552475859a2faf3b1accce5d7f035f58ed94dd",
+            "w": 64
+          },
+          {
+            "bytes": 1972,
+            "h": 70,
+            "path": "webp/gold-s-shaped-leaf-on-red-repeat-70.webp",
+            "sha256": "20ef782a481af53d4b161d0662ae01f9e3df716d01b05abd0d928cf81e3af65e",
+            "w": 70
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "leaf"
+      ],
+      "thumbhash": "XHmGBQItl5mLeYQIqbOIbxf3hohliHBoJw==",
+      "title": "Gold S-leaf on red, repeat tile",
+      "transparent": true,
+      "type": "border",
+      "usage_notes": [
+        "Repeat along x; use the generated rotated tile for a vertical band. In the frame this band runs on both sides of the blue vine band.",
+        "Keep it at native size; the source band is only 70 px tall and blurs when enlarged."
+      ],
+      "width": 70
+    },
+    "small-figure-facing-left": {
+      "categories": [
+        "humans"
+      ],
+      "colors": [
+        "orange",
+        "blue",
+        "gold",
+        "brown"
+      ],
+      "composition": "single-figure",
+      "description": "A small bearded man with a red-rimmed gold halo stands turned to the left with his head bowed, his right hand held out open towards the left, in a blue tunic under an orange mantle with white highlights, on a small red and gold base. The paint is worn, with pale parchment showing through the halo and face. The background is transparent.",
+      "display_width": [
+        80,
+        240
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 42974,
+        "webpTopBytes": 61378
+      },
+      "facing": "left",
+      "group": null,
+      "height": 1048,
+      "master": {
+        "bytes": 299180,
+        "h": 1048,
+        "path": "masters/small-figure-facing-left.webp",
+        "sha256": "7a5e8ca2113c567fbae7078f491a58ddb1f1cd6b8a6e1969a079b15234468ffd",
+        "w": 344
+      },
+      "palette": [
+        "#a88567",
+        "#7e5435",
+        "#9f6a3c",
+        "#857364",
+        "#586b7e"
+      ],
+      "provenance": {
+        "date": "1084",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/1950.154/1950.154_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "1950.154",
+        "object_title": "Leaf from a Greek Psalter and New Testament",
+        "record_url": "https://clevelandart.org/art/1950.154",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "50cf1d6abf2cfd5507a7ee7faa58cac559c2fbe3d1fe7ab9f83423ecc0481c95"
+      },
+      "quality": "Original paint loss, with white flaking across the halo and face.",
+      "related": [
+        {
+          "asset": "cma-1950-154/small-figure-pointing-right",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4788,
+            "h": 195,
+            "path": "avif/small-figure-facing-left-64.avif",
+            "sha256": "13243a32412f204d21f0b3f39dc507568f622722152a1800456607af5d0787b7",
+            "w": 64
+          },
+          {
+            "bytes": 9004,
+            "h": 292,
+            "path": "avif/small-figure-facing-left-96.avif",
+            "sha256": "667586aa4edc01500b052e78900ac62c60e4d79bc29445280ba3429e88907847",
+            "w": 96
+          },
+          {
+            "bytes": 12577,
+            "h": 390,
+            "path": "avif/small-figure-facing-left-128.avif",
+            "sha256": "47646f9c235f583d4fb92c349910361807a8a218716205a805343cc90d1bd954",
+            "w": 128
+          },
+          {
+            "bytes": 21194,
+            "h": 585,
+            "path": "avif/small-figure-facing-left-192.avif",
+            "sha256": "fb2791cf5d613131d7446eaf8557a69cfdeae441a99e40b2bcfecfd148ea31ef",
+            "w": 192
+          },
+          {
+            "bytes": 31107,
+            "h": 780,
+            "path": "avif/small-figure-facing-left-256.avif",
+            "sha256": "2d406820cc40a20ea7feae8933065e916bc65194468336d1e95ba9e62033a1d8",
+            "w": 256
+          },
+          {
+            "bytes": 42974,
+            "h": 1048,
+            "path": "avif/small-figure-facing-left-344.avif",
+            "sha256": "dd052e32b3dc0bc73d68be6fdf9d0bc67e0ae182723c6779719ebb8119566a12",
+            "w": 344
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 7096,
+            "h": 195,
+            "path": "webp/small-figure-facing-left-64.webp",
+            "sha256": "4fdb5b536f3df98cf8b08d6ec4eb951ad2b9fe528ed84eaff89e611fab8a78b2",
+            "w": 64
+          },
+          {
+            "bytes": 12918,
+            "h": 292,
+            "path": "webp/small-figure-facing-left-96.webp",
+            "sha256": "8e78e0d7d58f3aa4bef45423757fc081f6311b6f0356d94bb0ac95795b663f89",
+            "w": 96
+          },
+          {
+            "bytes": 19072,
+            "h": 390,
+            "path": "webp/small-figure-facing-left-128.webp",
+            "sha256": "08ae98af9842aeb4eff80edccd497bc9f0122d24dedb6fb22efeba138717de71",
+            "w": 128
+          },
+          {
+            "bytes": 33632,
+            "h": 585,
+            "path": "webp/small-figure-facing-left-192.webp",
+            "sha256": "5f41effd2cb41d2af87f9edcb2c95ead19358cb423519d7d60fdb81c876c1100",
+            "w": 192
+          },
+          {
+            "bytes": 49720,
+            "h": 780,
+            "path": "webp/small-figure-facing-left-256.webp",
+            "sha256": "24161187021955faf0a8f15e4492dbfceb412ced63b6de0475b5954c2bdeedf2",
+            "w": 256
+          },
+          {
+            "bytes": 61378,
+            "h": 1048,
+            "path": "webp/small-figure-facing-left-344.webp",
+            "sha256": "b70bbf8c812a8760f0c922e52364e35932a2acec949b62749b66f277538f589f",
+            "w": 344
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "human",
+        "halo",
+        "robe"
+      ],
+      "thumbhash": "W0mCCgI4/4xHXIfzjjm/eANriXeXd3c=",
+      "title": "Haloed man facing left with open hand",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Pairs with haloed-man-gesturing-in-blue-and-green-robes, which faces right at the same scale; set them facing each other."
+      ],
+      "view": "three-quarter",
+      "width": 344
+    },
+    "small-figure-pointing-right": {
+      "categories": [
+        "humans"
+      ],
+      "colors": [
+        "blue",
+        "green",
+        "gold",
+        "brown"
+      ],
+      "composition": "single-figure",
+      "description": "A small bearded man with a gold halo stands in profile facing right, his right arm stretched out and pointing, in an olive-green tunic and a blue mantle wrapped around the lower body, on a small red and gold base. The paint is heavily flaked, with pale parchment showing through the halo, face and mantle. The background is transparent.",
+      "display_width": [
+        80,
+        240
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 43597,
+        "webpTopBytes": 58034
+      },
+      "facing": "right",
+      "group": null,
+      "height": 1057,
+      "master": {
+        "bytes": 300748,
+        "h": 1057,
+        "path": "masters/small-figure-pointing-right.webp",
+        "sha256": "0f2be6b0dbedfd4c206655a125fb84b837ddd4db296ac368d8ed610e4382ac6c",
+        "w": 421
+      },
+      "palette": [
+        "#434f5c",
+        "#496c90",
+        "#8c643e",
+        "#877a6e",
+        "#ae8868"
+      ],
+      "provenance": {
+        "date": "1084",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/1950.154/1950.154_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "1950.154",
+        "object_title": "Leaf from a Greek Psalter and New Testament",
+        "record_url": "https://clevelandart.org/art/1950.154",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "50cf1d6abf2cfd5507a7ee7faa58cac559c2fbe3d1fe7ab9f83423ecc0481c95"
+      },
+      "quality": "Heavy original paint loss, with white flaking across the halo, face and mantle.",
+      "related": [
+        {
+          "asset": "cma-1950-154/small-figure-facing-left",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4046,
+            "h": 161,
+            "path": "avif/small-figure-pointing-right-64.avif",
+            "sha256": "05575efeef432057d00c35fd5607cd60ad4fe23605f68f964c8b30513b06507c",
+            "w": 64
+          },
+          {
+            "bytes": 6658,
+            "h": 241,
+            "path": "avif/small-figure-pointing-right-96.avif",
+            "sha256": "a096a83726a61a7ad3f5b0e2cbf56c4d56763a607d6f02b548c4aa01a5fc24d2",
+            "w": 96
+          },
+          {
+            "bytes": 9694,
+            "h": 321,
+            "path": "avif/small-figure-pointing-right-128.avif",
+            "sha256": "272ab7659d56ebee6054f3a955bbb68cd26d73189303749b8a78d0804a61054f",
+            "w": 128
+          },
+          {
+            "bytes": 16962,
+            "h": 482,
+            "path": "avif/small-figure-pointing-right-192.avif",
+            "sha256": "972fcd2d0c31885950bf01287f283e698ffb1ba6e9fb49661b8fd57c2bc140d9",
+            "w": 192
+          },
+          {
+            "bytes": 23747,
+            "h": 643,
+            "path": "avif/small-figure-pointing-right-256.avif",
+            "sha256": "27756cb0710e759af7236e033294be90b38711a178c4ab24a7044843a966bd9c",
+            "w": 256
+          },
+          {
+            "bytes": 41123,
+            "h": 964,
+            "path": "avif/small-figure-pointing-right-384.avif",
+            "sha256": "d4693afb3c185b4bca62dfea95ab8e3fac547637a48e8e24e65e0b18473f86de",
+            "w": 384
+          },
+          {
+            "bytes": 43597,
+            "h": 1057,
+            "path": "avif/small-figure-pointing-right-421.avif",
+            "sha256": "665fb91d5a5cc036c4da85c00fd0d328c43ba9aaef9b372393278ca76fec3cae",
+            "w": 421
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 5400,
+            "h": 161,
+            "path": "webp/small-figure-pointing-right-64.webp",
+            "sha256": "83951b31fd399999054506376bd2b51be6a7352fcc85194ecbd6f3831b460f2c",
+            "w": 64
+          },
+          {
+            "bytes": 9352,
+            "h": 241,
+            "path": "webp/small-figure-pointing-right-96.webp",
+            "sha256": "17f084dae91ea9c81541e9270734282b15c25fb56209872a9ba492d1199a7afb",
+            "w": 96
+          },
+          {
+            "bytes": 14140,
+            "h": 321,
+            "path": "webp/small-figure-pointing-right-128.webp",
+            "sha256": "1d1ce06259d73cae07497085bdf07e1c2b3c735030414ba779c1a62e5b346e9b",
+            "w": 128
+          },
+          {
+            "bytes": 24940,
+            "h": 482,
+            "path": "webp/small-figure-pointing-right-192.webp",
+            "sha256": "a543d08055eb34a653086a01dbf7bd36b53f504bf7b5be69884bd5bf1e978a0a",
+            "w": 192
+          },
+          {
+            "bytes": 36768,
+            "h": 643,
+            "path": "webp/small-figure-pointing-right-256.webp",
+            "sha256": "a7954c8a113285cc2c0d3a99f857b06c8fba415d6c8e2045b43f48d09e94128e",
+            "w": 256
+          },
+          {
+            "bytes": 62388,
+            "h": 964,
+            "path": "webp/small-figure-pointing-right-384.webp",
+            "sha256": "a82a74c6db4f57ad844a35a11969d1a216ab7f4a01237d89598c5bca553f8186",
+            "w": 384
+          },
+          {
+            "bytes": 58034,
+            "h": 1057,
+            "path": "webp/small-figure-pointing-right-421.webp",
+            "sha256": "d3092e3bf32360b134afb3c57e555b4e6af3418cced028f3c271ab8314f2966a",
+            "w": 421
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "human",
+        "halo",
+        "robe"
+      ],
+      "thumbhash": "GgiCGgRH2Gz1eOiXjH/J+AqFeIeHeXg=",
+      "title": "Haloed man in profile pointing right",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Pairs with haloed-man-in-blue-and-orange-robes, which faces left at the same scale; set them facing each other."
+      ],
+      "view": "side",
+      "width": 421
+    },
+    "standing-apostle-with-rolled-scroll": {
+      "categories": [
+        "humans"
+      ],
+      "colors": [
+        "orange",
+        "blue",
+        "gold",
+        "brown"
+      ],
+      "composition": "single-figure",
+      "description": "A grey-haired, bearded apostle stands facing the viewer in a blue tunic and an orange-brown mantle with white highlights, draped over his left shoulder and wrapped around his body; his right hand is raised before his chest in a gesture of speech and his left holds a white rolled scroll. He wears sandals. His halo is kept as a thin gold ring with the gold ground inside it removed. Cut from the framed miniature of the leaf; the background is transparent.",
+      "display_width": [
+        120,
+        360
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 151857,
+        "webpTopBytes": 240818
+      },
+      "facing": "viewer",
+      "group": null,
+      "height": 2002,
+      "master": {
+        "bytes": 1299048,
+        "h": 2002,
+        "path": "masters/standing-apostle-with-rolled-scroll.webp",
+        "sha256": "9739481e5a3d28c32903f550f4e3c4703394f01134d5aab7251c7ecd2fcd9768",
+        "w": 716
+      },
+      "palette": [
+        "#8c4f35",
+        "#bc673d",
+        "#6e849c",
+        "#c17f5c",
+        "#bfa190"
+      ],
+      "provenance": {
+        "date": "1084",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/1950.154/1950.154_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1950.154",
+        "object_title": "Leaf from a Greek Psalter and New Testament",
+        "record_url": "https://clevelandart.org/art/1950.154",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "50cf1d6abf2cfd5507a7ee7faa58cac559c2fbe3d1fe7ab9f83423ecc0481c95"
+      },
+      "quality": "AI-assisted extraction; no pixel is fully opaque (alpha peaks at 253, invisible in use) and the halo keeps only its gold outline.",
+      "related": [
+        {
+          "asset": "cma-1950-154/apostle-city-miniature",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4752,
+            "h": 179,
+            "path": "avif/standing-apostle-with-rolled-scroll-64.avif",
+            "sha256": "7cb2b4125b094a6055d383cb5f891ad34b72a0e55faf0a343214a394ec2ac8bd",
+            "w": 64
+          },
+          {
+            "bytes": 8739,
+            "h": 268,
+            "path": "avif/standing-apostle-with-rolled-scroll-96.avif",
+            "sha256": "e6ba7e247a254b91f4350f216dc108caa75939b62f3359ec1075fc39ebdbf668",
+            "w": 96
+          },
+          {
+            "bytes": 12332,
+            "h": 358,
+            "path": "avif/standing-apostle-with-rolled-scroll-128.avif",
+            "sha256": "3bd17a7ac9723c6714be09d0f5fcf5bdf336c24f9f09a74627d64e486cd02a61",
+            "w": 128
+          },
+          {
+            "bytes": 21470,
+            "h": 537,
+            "path": "avif/standing-apostle-with-rolled-scroll-192.avif",
+            "sha256": "fa3dcaee342b9a93d56d703349bed87a9aee17a83cf1def0534e798ed65dcbb0",
+            "w": 192
+          },
+          {
+            "bytes": 32330,
+            "h": 716,
+            "path": "avif/standing-apostle-with-rolled-scroll-256.avif",
+            "sha256": "25fb9fd2066098d5a64c65cd941120f4f53015d368eff8990a90e0efb37aa274",
+            "w": 256
+          },
+          {
+            "bytes": 61337,
+            "h": 1074,
+            "path": "avif/standing-apostle-with-rolled-scroll-384.avif",
+            "sha256": "ee4c756dda9f24a7846156e4799ea82e298b8a6d846385ef745e94186ff4888b",
+            "w": 384
+          },
+          {
+            "bytes": 94021,
+            "h": 1432,
+            "path": "avif/standing-apostle-with-rolled-scroll-512.avif",
+            "sha256": "fb12af800666904cdb97ebf56c9886f36b7fa574aae947026259019ec58b46f0",
+            "w": 512
+          },
+          {
+            "bytes": 151857,
+            "h": 2002,
+            "path": "avif/standing-apostle-with-rolled-scroll-716.avif",
+            "sha256": "c3df69d292147f078cbb698465833d188ff639d860546fb19f145c1c62ce5265",
+            "w": 716
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 7162,
+            "h": 179,
+            "path": "webp/standing-apostle-with-rolled-scroll-64.webp",
+            "sha256": "fde8ff8bd32fc8719b48787d15b7b76f07645d7bcd0fc046b0ceb6814a22fc73",
+            "w": 64
+          },
+          {
+            "bytes": 12878,
+            "h": 268,
+            "path": "webp/standing-apostle-with-rolled-scroll-96.webp",
+            "sha256": "ec62fcb7c639c4776a5b2f558cebd7914d2ad0fad6b33671edf729f2f443a52a",
+            "w": 96
+          },
+          {
+            "bytes": 19416,
+            "h": 358,
+            "path": "webp/standing-apostle-with-rolled-scroll-128.webp",
+            "sha256": "d9691a6a662cd88a20cc49f101274a8ca3a55b7fcf4cd1eb1f0e3839151f30ca",
+            "w": 128
+          },
+          {
+            "bytes": 34698,
+            "h": 537,
+            "path": "webp/standing-apostle-with-rolled-scroll-192.webp",
+            "sha256": "74306edcbec5d5b8a52da0b81bf4fbbc8b909ef891fdb478dd4c0df607a68d97",
+            "w": 192
+          },
+          {
+            "bytes": 54332,
+            "h": 716,
+            "path": "webp/standing-apostle-with-rolled-scroll-256.webp",
+            "sha256": "a16a0f0d758fb7fcec77c0bf12aa11ffcb92499a4fbe5a81e6a61e471b445b25",
+            "w": 256
+          },
+          {
+            "bytes": 101350,
+            "h": 1074,
+            "path": "webp/standing-apostle-with-rolled-scroll-384.webp",
+            "sha256": "3606b7b5de79e16d3d005972412a3513cc6b08d40d41d4a711a71d4ec4e1ef8e",
+            "w": 384
+          },
+          {
+            "bytes": 153554,
+            "h": 1432,
+            "path": "webp/standing-apostle-with-rolled-scroll-512.webp",
+            "sha256": "14b04c17f5b819616faa7c279429caf15b3128220addaa5f51dbbfde7284df95",
+            "w": 512
+          },
+          {
+            "bytes": 240818,
+            "h": 2002,
+            "path": "webp/standing-apostle-with-rolled-scroll-716.webp",
+            "sha256": "2391638d264a815104eaa927198ea3746dcea628eb7f1c72c43ab7dab182b91d",
+            "w": 716
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "apostle",
+        "halo",
+        "scroll",
+        "robe"
+      ],
+      "thumbhash": "HlmCEgQ4yclnBHKGSVCHBApnh3iCiGc=",
+      "title": "Standing apostle with a scroll",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Cut-out of the figure in complete-apostle-city-scene-with-blue-vine-frame; the halo is an open ring, so it reads best on a plain or gold background."
+      ],
+      "view": "front",
+      "width": 716
+    },
+    "white-curling-vine-on-blue-repeat": {
+      "categories": [
+        "floral",
+        "scrollwork"
+      ],
+      "colors": [
+        "blue",
+        "white"
+      ],
+      "composition": "repeat-tile",
+      "description": "One cycle of the blue band of the miniature frame. A white, grey-shaded vine stem curls into a spiral at the left, throws a three-lobed leaf upward at the centre and a hooked tendril downward, on a deep blue ground with dark speckling. The pattern continues across the left and right edges; the thin strips above and below the painted band are transparent.",
+      "display_width": [
+        155,
+        310
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 6183,
+        "webpTopBytes": 8320
+      },
+      "facing": "none",
+      "group": null,
+      "height": 111,
+      "master": {
+        "bytes": 46834,
+        "h": 111,
+        "path": "masters/white-curling-vine-on-blue-repeat.webp",
+        "sha256": "5ebf4f9a071572dac933c1ca636c5b5ddad4f2452f9591e6ab031d57728695c8",
+        "w": 310
+      },
+      "palette": [
+        "#1a3778",
+        "#8794a6",
+        "#2d4071",
+        "#3e588a",
+        "#65799a"
+      ],
+      "provenance": {
+        "date": "1084",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/1950.154/1950.154_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-repeat",
+        "object_identifier": "1950.154",
+        "object_title": "Leaf from a Greek Psalter and New Testament",
+        "record_url": "https://clevelandart.org/art/1950.154",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "50cf1d6abf2cfd5507a7ee7faa58cac559c2fbe3d1fe7ab9f83423ecc0481c95"
+      },
+      "quality": "Native height is 111 px, so it softens above native size; the blue ground keeps the original speckling and small white losses.",
+      "related": [
+        {
+          "asset": "cma-1950-154/blue-vine-frame",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-1950-154/gold-s-shaped-leaf-on-red-repeat",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {},
+        "tile": {
+          "axis": "x",
+          "period": 1,
+          "rotated": {
+            "avif": [
+              {
+                "bytes": 1069,
+                "h": 64,
+                "path": "tiles/white-curling-vine-on-blue-repeat-rotated-23.avif",
+                "sha256": "624d535e24ad9f395d248cc38e504a2fb67750de57a9b7d49306ecc30f4117e5",
+                "w": 23
+              },
+              {
+                "bytes": 1682,
+                "h": 96,
+                "path": "tiles/white-curling-vine-on-blue-repeat-rotated-34.avif",
+                "sha256": "56ac19786771b8af3033e2222cbfc76a9d414638dcbb710a798d67b292866a2f",
+                "w": 34
+              },
+              {
+                "bytes": 2177,
+                "h": 128,
+                "path": "tiles/white-curling-vine-on-blue-repeat-rotated-46.avif",
+                "sha256": "7bee8a87e4b52e3cb9e562b0183f27f458ca6a7bc2286b7f6e964c63fbcf8350",
+                "w": 46
+              },
+              {
+                "bytes": 3803,
+                "h": 192,
+                "path": "tiles/white-curling-vine-on-blue-repeat-rotated-69.avif",
+                "sha256": "83f4c6e7b056396841eb1cbcfaef634ab8182f936c330a561087a1ae98fdb657",
+                "w": 69
+              },
+              {
+                "bytes": 5456,
+                "h": 256,
+                "path": "tiles/white-curling-vine-on-blue-repeat-rotated-92.avif",
+                "sha256": "0b300f048de61c58d393ca78afd30eb45b4de5e875dd9fe9db95b0db515b0886",
+                "w": 92
+              },
+              {
+                "bytes": 6036,
+                "h": 310,
+                "path": "tiles/white-curling-vine-on-blue-repeat-rotated-111.avif",
+                "sha256": "82b30b550f55493747b4f9b7e76c63b4e3d8445f287714cbb89acce0d41ddb20",
+                "w": 111
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 1240,
+                "h": 64,
+                "path": "tiles/white-curling-vine-on-blue-repeat-rotated-23.webp",
+                "sha256": "c20a7790594bfe3e3f23ab1645fb01aa76b54b3e26969bb166cf9f3748ad17d9",
+                "w": 23
+              },
+              {
+                "bytes": 2202,
+                "h": 96,
+                "path": "tiles/white-curling-vine-on-blue-repeat-rotated-34.webp",
+                "sha256": "1ef2e85f299251af807de09f253931a8641492c103594a9a805cec24acb3b03a",
+                "w": 34
+              },
+              {
+                "bytes": 3312,
+                "h": 128,
+                "path": "tiles/white-curling-vine-on-blue-repeat-rotated-46.webp",
+                "sha256": "348207d6cb5c0100e345654fdf05d7eb46f12cdf877a717dfe3c5283f8047783",
+                "w": 46
+              },
+              {
+                "bytes": 6100,
+                "h": 192,
+                "path": "tiles/white-curling-vine-on-blue-repeat-rotated-69.webp",
+                "sha256": "02dcd79d1616b1ba212baa41ad9c2d15d34cc789496081032028d56abf726baf",
+                "w": 69
+              },
+              {
+                "bytes": 8388,
+                "h": 256,
+                "path": "tiles/white-curling-vine-on-blue-repeat-rotated-92.webp",
+                "sha256": "c552cdf2358180ee1a9e90de61fa2866f1d90b253b184c20a94202979828c198",
+                "w": 92
+              },
+              {
+                "bytes": 8910,
+                "h": 310,
+                "path": "tiles/white-curling-vine-on-blue-repeat-rotated-111.webp",
+                "sha256": "478b83481c421fa9943cd9ec034dc77bcc33d37dbc483edf90f208cb32ff9421",
+                "w": 111
+              }
+            ]
+          }
+        }
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1040,
+            "h": 23,
+            "path": "avif/white-curling-vine-on-blue-repeat-64.avif",
+            "sha256": "a4fa674de4902626604f052dad5c62b6ab2c90a44adc25d9696602b654341361",
+            "w": 64
+          },
+          {
+            "bytes": 1665,
+            "h": 34,
+            "path": "avif/white-curling-vine-on-blue-repeat-96.avif",
+            "sha256": "a171ad1faee055ad15def8b5fcaf4a4cb69d6eea116be0fb6aa3bf8f373ef82f",
+            "w": 96
+          },
+          {
+            "bytes": 2139,
+            "h": 46,
+            "path": "avif/white-curling-vine-on-blue-repeat-128.avif",
+            "sha256": "2500686a9abe3bc5aec57a387de475956d138641deaf7d77ea017a661053f7e7",
+            "w": 128
+          },
+          {
+            "bytes": 3635,
+            "h": 69,
+            "path": "avif/white-curling-vine-on-blue-repeat-192.avif",
+            "sha256": "34b5376468996a50d5b636d425272e870f25c9071be56d728478ea106e05d84c",
+            "w": 192
+          },
+          {
+            "bytes": 5449,
+            "h": 92,
+            "path": "avif/white-curling-vine-on-blue-repeat-256.avif",
+            "sha256": "40cc72d37063a5399aac923a69a7c823a76e1b5aa6481f9be51bd8f5b11151c5",
+            "w": 256
+          },
+          {
+            "bytes": 6183,
+            "h": 111,
+            "path": "avif/white-curling-vine-on-blue-repeat-310.avif",
+            "sha256": "1b780b86eb1220b290d50755ad46ed2905aa2dace8ab4d6083d6b199b1327edb",
+            "w": 310
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1204,
+            "h": 23,
+            "path": "webp/white-curling-vine-on-blue-repeat-64.webp",
+            "sha256": "8e61977d2b99c5380e58773917202e415f3839f2220f0cb089a669d5d2152553",
+            "w": 64
+          },
+          {
+            "bytes": 2244,
+            "h": 34,
+            "path": "webp/white-curling-vine-on-blue-repeat-96.webp",
+            "sha256": "36be5fd256e0f92205ade2397de1c6043b45eb53a8533f8493c405b87c1e72ae",
+            "w": 96
+          },
+          {
+            "bytes": 3090,
+            "h": 46,
+            "path": "webp/white-curling-vine-on-blue-repeat-128.webp",
+            "sha256": "8eea59a1914884b2ba31606de4caf11ffad53cb901fd85554fc7196033037b9e",
+            "w": 128
+          },
+          {
+            "bytes": 5810,
+            "h": 69,
+            "path": "webp/white-curling-vine-on-blue-repeat-192.webp",
+            "sha256": "d0a06d3b8c4c1426ec50b2137230a143c6db71e3e5a10bf43397b56c0e6d18f7",
+            "w": 192
+          },
+          {
+            "bytes": 8172,
+            "h": 92,
+            "path": "webp/white-curling-vine-on-blue-repeat-256.webp",
+            "sha256": "91dec888948d7b8310491d876b00baa0a27aec2cc04908ba06946b800d627462",
+            "w": 256
+          },
+          {
+            "bytes": 8320,
+            "h": 111,
+            "path": "webp/white-curling-vine-on-blue-repeat-310.webp",
+            "sha256": "fd85598ed79f537f992e676e2f25c9e4e6b51c7472d8cba94de2e7761cc8b172",
+            "w": 310
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "vine",
+        "leaf"
+      ],
+      "thumbhash": "FtaBAoAtpBF4j3pPb/7FhomIeYeQiBc=",
+      "title": "White vine on blue, repeat tile",
+      "transparent": true,
+      "type": "border",
+      "usage_notes": [
+        "Repeat along x; use the generated rotated tile for a vertical band. In the frame it is flanked by gold-s-shaped-leaf-on-red-repeat on both sides.",
+        "Keep it at or below native size; the source band is 111 px tall."
+      ],
+      "width": 310
+    }
+  },
+  "attribution": "Cleveland Museum of Art 1950.154",
+  "builtAt": "2026-10-28T16:05:49.666Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-cma-1950-154@1.0.0/",
+  "contentHash": "sha256:f6e72c366d08a6d5985390a930ced5d7d772cbc8d7fa79149428ca772084c9cd",
+  "inputsHash": "sha256:ef14f3ac58f3654f6ddc44228f1b0402689316fe6fad6580caf41e6e385580a1",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from a Cleveland Museum of Art Open Access (CC0) image; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-cma-1950-154-masters",
+  "package": "@ranx729/ducktape-assets-cma-1950-154",
+  "period": "1084",
+  "region": "Constantinople",
+  "schema": 1,
+  "set": "cma-1950-154",
+  "style": "Byzantine illuminated manuscript",
+  "summary": "Byzantine ornament and figures from a leaf of a Greek Psalter and New Testament written in Constantinople in 1084, Cleveland Museum of Art 1950.154.",
+  "title": "Cleveland 1950.154, Greek Psalter leaf",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

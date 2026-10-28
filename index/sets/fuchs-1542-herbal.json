@@ -1,0 +1,1647 @@
+{
+  "assets": {
+    "abrotonum-foemina": {
+      "attribution": "Universitätsbibliothek Basel UBH Lo I 4; scan [39]; image 543716",
+      "categories": [
+        "botanical"
+      ],
+      "colors": [
+        "black",
+        "brown",
+        "gray"
+      ],
+      "composition": "standalone",
+      "description": "A single tall upright stem rises from a short, many-branched root at the bottom; its lower half is bare and its upper half carries a narrow plume of side branches with finely divided leaves and small round button-like flower heads at the tips. Dark brown-black woodcut line work with no ground line, on a transparent background.",
+      "display_width": [
+        160,
+        320
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 270594,
+        "webpTopBytes": 485988
+      },
+      "facing": "none",
+      "group": null,
+      "height": 3592,
+      "master": {
+        "bytes": 346010,
+        "h": 2049,
+        "path": "masters/abrotonum-foemina.webp",
+        "sha256": "b0c89bd97eecdc799f37b9764973d05f293b11efba0fb2eedd80f91148146fe1",
+        "w": 717
+      },
+      "palette": [
+        "#000000",
+        "#15130f",
+        "#3f372a",
+        "#41372b",
+        "#4c342a"
+      ],
+      "provenance": {
+        "date": "1542",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.e-rara.ch/i3f/v20/543716/full/full/0/default.jpg",
+        "institution": "Universitätsbibliothek Basel",
+        "method": "native-ink-extraction",
+        "object_identifier": "UBH Lo I 4; scan [39]; image 543716",
+        "object_title": "Fuchs, De historia stirpium: Abrotonum foemina (scan [39])",
+        "record_url": "https://www.e-rara.ch/bau_1/content/pageview/543716",
+        "rights_url": "https://www.e-rara.ch/bau_1/content/titleinfo/543675",
+        "source_sha256": "bc2f6a0e334abea3ef495fce64eb6eafbd4bc652ff4cef0853c4486bc88e9567"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2853,
+            "h": 183,
+            "path": "avif/abrotonum-foemina-64.avif",
+            "sha256": "527e31f9f5584d1618c46b34db53bb74ffa2f25122ceb7d8eeafce6ece9dcd38",
+            "w": 64
+          },
+          {
+            "bytes": 5676,
+            "h": 274,
+            "path": "avif/abrotonum-foemina-96.avif",
+            "sha256": "50a5f8b23cb58d7df61fa028acf379723545e88c80c0d08a9d611fdd0638e509",
+            "w": 96
+          },
+          {
+            "bytes": 9939,
+            "h": 366,
+            "path": "avif/abrotonum-foemina-128.avif",
+            "sha256": "62afa86cbbf78050062efcadb6e5b2f6cd608f03c44e7c0880c45f1659b988d2",
+            "w": 128
+          },
+          {
+            "bytes": 19489,
+            "h": 549,
+            "path": "avif/abrotonum-foemina-192.avif",
+            "sha256": "d2fabf2c58a61c2afe937c2c58c320ce932674fca06cf86dd2cc62c5c204ae29",
+            "w": 192
+          },
+          {
+            "bytes": 35737,
+            "h": 732,
+            "path": "avif/abrotonum-foemina-256.avif",
+            "sha256": "2ee476c9449e2f7e8c287ceda2deed3fd9490b9582b202e40c2c3e9f8e1c84da",
+            "w": 256
+          },
+          {
+            "bytes": 73425,
+            "h": 1097,
+            "path": "avif/abrotonum-foemina-384.avif",
+            "sha256": "ef94c4640061cb893dc340123974d397481cc212e1124cfad74d503883af07b8",
+            "w": 384
+          },
+          {
+            "bytes": 118007,
+            "h": 1463,
+            "path": "avif/abrotonum-foemina-512.avif",
+            "sha256": "1a7998886051a9cada5ad2e9cffd295ebf9f198409aedccf89975a21e848ab28",
+            "w": 512
+          },
+          {
+            "bytes": 207798,
+            "h": 2195,
+            "path": "avif/abrotonum-foemina-768.avif",
+            "sha256": "8040adbe001f8c03bd696126ec49b318b471a3da1c84ba1f7e76b3aecf92b589",
+            "w": 768
+          },
+          {
+            "bytes": 311122,
+            "h": 2926,
+            "path": "avif/abrotonum-foemina-1024.avif",
+            "sha256": "bdf5351b49fcc55f2818da7a2d54cb1fb6e6b2bc9fa035d8ebccdfddfa02d1ac",
+            "w": 1024
+          },
+          {
+            "bytes": 270594,
+            "h": 3592,
+            "path": "avif/abrotonum-foemina-1257.avif",
+            "sha256": "646a21e691335a20527598810d87c8da88813f732bb8753d8940030c9440686c",
+            "w": 1257
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4780,
+            "h": 183,
+            "path": "webp/abrotonum-foemina-64.webp",
+            "sha256": "f4e87f9ef0546ee470658ffa58806ef057b834a4fa6388b4d9394daa50250486",
+            "w": 64
+          },
+          {
+            "bytes": 9648,
+            "h": 274,
+            "path": "webp/abrotonum-foemina-96.webp",
+            "sha256": "dfe9fd302bd4172335bce049ad8c6b77cac976760de36270cd977f73986d1acf",
+            "w": 96
+          },
+          {
+            "bytes": 16334,
+            "h": 366,
+            "path": "webp/abrotonum-foemina-128.webp",
+            "sha256": "c470d9ffcc139677d73882d1243e8671640295cb1cf209f1f1c385e275496677",
+            "w": 128
+          },
+          {
+            "bytes": 32964,
+            "h": 549,
+            "path": "webp/abrotonum-foemina-192.webp",
+            "sha256": "d904db6532f411a8b8bc3373a8d2a52f5bd1c9b098c76b4f186b4f47b772c9e4",
+            "w": 192
+          },
+          {
+            "bytes": 56466,
+            "h": 732,
+            "path": "webp/abrotonum-foemina-256.webp",
+            "sha256": "41723aed6164a1c34f0c9a136b9c6b02affc4e13284e27bebc03335328b6a1dc",
+            "w": 256
+          },
+          {
+            "bytes": 114494,
+            "h": 1097,
+            "path": "webp/abrotonum-foemina-384.webp",
+            "sha256": "22def1a3d4f1ca7375cefb46e0ae1938f046d627c59ab948ef828a47810c84d4",
+            "w": 384
+          },
+          {
+            "bytes": 189828,
+            "h": 1463,
+            "path": "webp/abrotonum-foemina-512.webp",
+            "sha256": "fe9e81a997561ea5eef2fc823964cd8d532ae8eafaac394c234194f08791db3b",
+            "w": 512
+          },
+          {
+            "bytes": 383672,
+            "h": 2195,
+            "path": "webp/abrotonum-foemina-768.webp",
+            "sha256": "842a0f2fa2eb2347f1c2f698a18a7d7c71779266b37ae2a00b753985da720d4c",
+            "w": 768
+          },
+          {
+            "bytes": 625838,
+            "h": 2926,
+            "path": "webp/abrotonum-foemina-1024.webp",
+            "sha256": "b67a9a1b4a5b36cf64c9038f2a63d75aa16330f1a64585827a3d4ab3d657ba93",
+            "w": 1024
+          },
+          {
+            "bytes": 485988,
+            "h": 3592,
+            "path": "webp/abrotonum-foemina-1257.webp",
+            "sha256": "29551856b839c4015403366224cb457b81070c5b9aedf474cea9bf7c4b451336",
+            "w": 1257
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "plant",
+        "stem",
+        "leaf",
+        "flower",
+        "root"
+      ],
+      "thumbhash": "TRiCAgABJl9mtXcLesLfQgBvXaWIN5g=",
+      "title": "Abrotonum foemina, upright flowering stem",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Ink-only extraction, the lines are one dark brown-black and the alpha carries the ink density, so it sits on any light ground; on a dark ground it needs recolouring.",
+        "Very tall and narrow (about 1:2.9); suits a margin or the side of a text column."
+      ],
+      "width": 1257
+    },
+    "alsine-media": {
+      "attribution": "Universitätsbibliothek Basel UBH Lo I 4; scan [54]; image 543731",
+      "categories": [
+        "botanical"
+      ],
+      "colors": [
+        "black",
+        "brown",
+        "gray"
+      ],
+      "composition": "standalone",
+      "description": "Common chickweed (Stellaria media), a loose sprawling tuft of thin trailing stems that spread upward and outward from a small fibrous root at the bottom centre, set with pairs of small toothed oval leaves and tiny five-petalled flowers and buds at the tips; the tuft is wider at the top than at the root. Dark brown-black woodcut line work with no ground line, on a transparent background.",
+      "display_width": [
+        300,
+        600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 378111,
+        "webpTopBytes": 737360
+      },
+      "facing": "none",
+      "group": null,
+      "height": 2434,
+      "master": {
+        "bytes": 1070470,
+        "h": 2047,
+        "path": "masters/alsine-media.webp",
+        "sha256": "20e34a7c204e0408d63a51245009d17655bdb81888aaa7fc875c98ab47fe130c",
+        "w": 1451
+      },
+      "palette": [
+        "#050504",
+        "#3f3229",
+        "#3f3629",
+        "#3f3729",
+        "#433f29"
+      ],
+      "provenance": {
+        "date": "1542",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.e-rara.ch/i3f/v20/543731/full/full/0/default.jpg",
+        "institution": "Universitätsbibliothek Basel",
+        "method": "native-ink-extraction",
+        "object_identifier": "UBH Lo I 4; scan [54]; image 543731",
+        "object_title": "Fuchs, De historia stirpium: Alsine media (scan [54])",
+        "record_url": "https://www.e-rara.ch/bau_1/content/pageview/543731",
+        "rights_url": "https://www.e-rara.ch/bau_1/content/titleinfo/543675",
+        "source_sha256": "42344af7b1741c70d0d5c1757f62e9770dc151f920de9cf46b2675499f1103e1"
+      },
+      "quality": "A few stray scan specks sit beside the leaf tips, mostly at the right.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2534,
+            "h": 90,
+            "path": "avif/alsine-media-64.avif",
+            "sha256": "28b086077345b572bf14862cb66132559bbc35ff2113d19ba6eef4213cea9f26",
+            "w": 64
+          },
+          {
+            "bytes": 5278,
+            "h": 135,
+            "path": "avif/alsine-media-96.avif",
+            "sha256": "60f57ccbffdeb7735be393cadf958ec95146656ed442a9d523ddc491e3a8a443",
+            "w": 96
+          },
+          {
+            "bytes": 8735,
+            "h": 181,
+            "path": "avif/alsine-media-128.avif",
+            "sha256": "2929ec81523220c82eefcbb68f73e1ce9922820cbc6ca98139c3e2e1b8674879",
+            "w": 128
+          },
+          {
+            "bytes": 20333,
+            "h": 271,
+            "path": "avif/alsine-media-192.avif",
+            "sha256": "890329c351c6680ea8f52578304047cc8286b43efdec7b5b8b9858d2812840ae",
+            "w": 192
+          },
+          {
+            "bytes": 32490,
+            "h": 361,
+            "path": "avif/alsine-media-256.avif",
+            "sha256": "ca34c1ecd759c9998d3f37666c289bdea1d38ffb771e4c967b4a3c1488cee065",
+            "w": 256
+          },
+          {
+            "bytes": 75085,
+            "h": 542,
+            "path": "avif/alsine-media-384.avif",
+            "sha256": "40ec03e073553f053f0aeefbe600556f78d6eb1b2763c2b1da6eb96b1db54bec",
+            "w": 384
+          },
+          {
+            "bytes": 118161,
+            "h": 722,
+            "path": "avif/alsine-media-512.avif",
+            "sha256": "90b961498d812bf601a20252c7e0cb0da53186c6f1b6dd6dd2cdaba2070c7a87",
+            "w": 512
+          },
+          {
+            "bytes": 211194,
+            "h": 1084,
+            "path": "avif/alsine-media-768.avif",
+            "sha256": "736371a62313f9e3b38574c02c3ca6e8282135d7392b5e6c38cb3a8a87e6a853",
+            "w": 768
+          },
+          {
+            "bytes": 303837,
+            "h": 1445,
+            "path": "avif/alsine-media-1024.avif",
+            "sha256": "e0bf212a06aab0fd4f3a2cbe6d25a1e8621a755bef7dc0e7dbaae37dc1d49f8c",
+            "w": 1024
+          },
+          {
+            "bytes": 534489,
+            "h": 2167,
+            "path": "avif/alsine-media-1536.avif",
+            "sha256": "fcbd3c3a84690b7edcebbc5e7b4dd9f2130bfce79a33669e3ee494fc3c189c85",
+            "w": 1536
+          },
+          {
+            "bytes": 378111,
+            "h": 2434,
+            "path": "avif/alsine-media-1725.avif",
+            "sha256": "9bea9c0c1df15f569b451173ce282bb99f92afe78695cf2ef3e58f0d1a6a7422",
+            "w": 1725
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4202,
+            "h": 90,
+            "path": "webp/alsine-media-64.webp",
+            "sha256": "296695998a0f2663988d07a9064021e01a32ec5f5469aac47902c7ae1a114a69",
+            "w": 64
+          },
+          {
+            "bytes": 8870,
+            "h": 135,
+            "path": "webp/alsine-media-96.webp",
+            "sha256": "af2645bee66294d785dfa2c45c0ba19871fc68fba1e27f55a26ed368a5870ea2",
+            "w": 96
+          },
+          {
+            "bytes": 14954,
+            "h": 181,
+            "path": "webp/alsine-media-128.webp",
+            "sha256": "5a98b9f88f7f9d2213dc23e50b54ce037bd197e6275b9becacee85fc88f55609",
+            "w": 128
+          },
+          {
+            "bytes": 32242,
+            "h": 271,
+            "path": "webp/alsine-media-192.webp",
+            "sha256": "4a30380057fad5ceac74bea8d2ce6e38fae6b50eac5f28cc8d99191510ace670",
+            "w": 192
+          },
+          {
+            "bytes": 52554,
+            "h": 361,
+            "path": "webp/alsine-media-256.webp",
+            "sha256": "879647e136661ab0633eb350a557099d131c605fbacdeb130d8c0989759c077c",
+            "w": 256
+          },
+          {
+            "bytes": 110298,
+            "h": 542,
+            "path": "webp/alsine-media-384.webp",
+            "sha256": "c17e54756e4558125ae1bc4b566956208e1849445adcb7121db0f2d75fc04c26",
+            "w": 384
+          },
+          {
+            "bytes": 178664,
+            "h": 722,
+            "path": "webp/alsine-media-512.webp",
+            "sha256": "b3adecc65b57bc3ae97562ce9777b50c427fc7b6a153a0ff203835240265f0af",
+            "w": 512
+          },
+          {
+            "bytes": 359200,
+            "h": 1084,
+            "path": "webp/alsine-media-768.webp",
+            "sha256": "860bb505a428136b30778eeee3e60368be499c4c3b76f2d62c993042b9c7ee0a",
+            "w": 768
+          },
+          {
+            "bytes": 576822,
+            "h": 1445,
+            "path": "webp/alsine-media-1024.webp",
+            "sha256": "a771ab49efd980e82527f965c1eda51916e978ff1c50417994b2b6e3df4c2cb3",
+            "w": 1024
+          },
+          {
+            "bytes": 1119932,
+            "h": 2167,
+            "path": "webp/alsine-media-1536.webp",
+            "sha256": "8236f2b0d1b7cbc9603fd29b573cd6f453278ae3d1d314d798cbf118c2e5509e",
+            "w": 1536
+          },
+          {
+            "bytes": 737360,
+            "h": 2434,
+            "path": "webp/alsine-media-1725.webp",
+            "sha256": "e1639a8f8fb4e4978d70b83456c743b8aad0cfc69b2b05e10f1df2b422a1c37c",
+            "w": 1725
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "plant",
+        "chickweed",
+        "stem",
+        "leaf",
+        "flower",
+        "root"
+      ],
+      "thumbhash": "jRiCBAABBiypWJl6+cdHfvducIamF5eIBg==",
+      "title": "Alsine media, chickweed tuft",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Ink-only extraction, the lines are one dark brown-black and the alpha carries the ink density, so it sits on any light ground; on a dark ground it needs recolouring.",
+        "The upper two thirds crop to a loose scatter of leafy stems without the root."
+      ],
+      "width": 1725
+    },
+    "anagallis-mas": {
+      "attribution": "Universitätsbibliothek Basel UBH Lo I 4; scan [50]; image 543727",
+      "categories": [
+        "botanical",
+        "floral"
+      ],
+      "colors": [
+        "black",
+        "brown",
+        "gray"
+      ],
+      "composition": "standalone",
+      "description": "Scarlet pimpernel (Anagallis mas, the red-flowered pimpernel), a trailing plant whose thin stems arch up and outward from a fibrous root at the lower left, carrying pairs of pointed oval leaves, open five-petalled flowers and many round buds and seed capsules on short stalks; the arching stems leave open space in the middle. Dark brown-black woodcut line work with no ground line, on a transparent background.",
+      "display_width": [
+        320,
+        640
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 398366,
+        "webpTopBytes": 906824
+      },
+      "facing": "none",
+      "group": null,
+      "height": 2469,
+      "master": {
+        "bytes": 827986,
+        "h": 2048,
+        "path": "masters/anagallis-mas.webp",
+        "sha256": "3a118652bfa53b91266fc4360b320ae9fe4bc6bd876945af4af3e643d65621b0",
+        "w": 1848
+      },
+      "palette": [
+        "#000000",
+        "#3f372c",
+        "#2d2a26",
+        "#38392b"
+      ],
+      "provenance": {
+        "date": "1542",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.e-rara.ch/i3f/v20/543727/full/full/0/default.jpg",
+        "institution": "Universitätsbibliothek Basel",
+        "method": "native-ink-extraction",
+        "object_identifier": "UBH Lo I 4; scan [50]; image 543727",
+        "object_title": "Fuchs, De historia stirpium: Anagallis mas (scan [50])",
+        "record_url": "https://www.e-rara.ch/bau_1/content/pageview/543727",
+        "rights_url": "https://www.e-rara.ch/bau_1/content/titleinfo/543675",
+        "source_sha256": "9fbb1b54dd47b93720fc57d21921782ba484524cd7081a4ee3c3b6c16904670b"
+      },
+      "quality": "A few stray scan specks remain near the top edge and beside the flowers.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2054,
+            "h": 71,
+            "path": "avif/anagallis-mas-64.avif",
+            "sha256": "d953fee4065597e1561c6a71d10b464676c79da1e7f558933ecb7d8896071eb9",
+            "w": 64
+          },
+          {
+            "bytes": 3116,
+            "h": 106,
+            "path": "avif/anagallis-mas-96.avif",
+            "sha256": "6c11e5b13173fb8b759a069aa9f157fe1efa8b49d1080be6f569cd14952c6380",
+            "w": 96
+          },
+          {
+            "bytes": 4989,
+            "h": 142,
+            "path": "avif/anagallis-mas-128.avif",
+            "sha256": "1e757090559e2d59aad8d4baab1f437f21847ccb4fb97f7bcc16167ac8d0f6f0",
+            "w": 128
+          },
+          {
+            "bytes": 9884,
+            "h": 213,
+            "path": "avif/anagallis-mas-192.avif",
+            "sha256": "94e4cbf0ed98f2bdf4f9379fca8c6e07af9b9ca5e9123eb40f8d57d05cdc0458",
+            "w": 192
+          },
+          {
+            "bytes": 17711,
+            "h": 284,
+            "path": "avif/anagallis-mas-256.avif",
+            "sha256": "2017f0b2db979348535950e1f3a7a608742778d13cdf239ca6e7a9ee024e9e74",
+            "w": 256
+          },
+          {
+            "bytes": 37405,
+            "h": 426,
+            "path": "avif/anagallis-mas-384.avif",
+            "sha256": "865ec2017a40c0e8aa128c2c4f4b28c3b2532b88eaea48292fe1f5e03eecd61e",
+            "w": 384
+          },
+          {
+            "bytes": 60964,
+            "h": 567,
+            "path": "avif/anagallis-mas-512.avif",
+            "sha256": "cc2e6f89679824e69b72748032e9abbcaad51ee54a9da4a8732dd7d50e6776a2",
+            "w": 512
+          },
+          {
+            "bytes": 109689,
+            "h": 851,
+            "path": "avif/anagallis-mas-768.avif",
+            "sha256": "85e2f3b34f41bffa6bc3f9f515b8302466f2df721e8f74cc786fe685457c5b03",
+            "w": 768
+          },
+          {
+            "bytes": 154979,
+            "h": 1135,
+            "path": "avif/anagallis-mas-1024.avif",
+            "sha256": "c9a479ffbe6b69799dbc219d228d3c8497f1d27a68ab92b6af677850d485be3b",
+            "w": 1024
+          },
+          {
+            "bytes": 256375,
+            "h": 1702,
+            "path": "avif/anagallis-mas-1536.avif",
+            "sha256": "a812b5fd56724db5ee8c36b32bc51e63ab6c08b3874e373f34adefd682a8b735",
+            "w": 1536
+          },
+          {
+            "bytes": 398366,
+            "h": 2270,
+            "path": "avif/anagallis-mas-2048.avif",
+            "sha256": "4c5604646defbf15c3d5546ef3f8576d849c79ed8d7aac3c96a54786974b11ec",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2754,
+            "h": 71,
+            "path": "webp/anagallis-mas-64.webp",
+            "sha256": "579905293a6790773952cb98ad6d9dff0c3c15bd7626ca5ea17d226924c5a16e",
+            "w": 64
+          },
+          {
+            "bytes": 5426,
+            "h": 106,
+            "path": "webp/anagallis-mas-96.webp",
+            "sha256": "f857d1e7b7aa6fa860b53669ae7f0cb529042f971de454e5c58c7ef7ee1639c4",
+            "w": 96
+          },
+          {
+            "bytes": 9032,
+            "h": 142,
+            "path": "webp/anagallis-mas-128.webp",
+            "sha256": "986ce7a893c87bc14d510654844cf8ca0bf08da214249cc1c15eea79cc25d2c4",
+            "w": 128
+          },
+          {
+            "bytes": 17900,
+            "h": 213,
+            "path": "webp/anagallis-mas-192.webp",
+            "sha256": "7565e0d03d62b0c7b80545814ffd97074aace05d178c0bb61f7930e694eff39c",
+            "w": 192
+          },
+          {
+            "bytes": 30460,
+            "h": 284,
+            "path": "webp/anagallis-mas-256.webp",
+            "sha256": "0b01ef395b9e0e0305fb746f6f40b7569d9f260972752a651aee099b2641aec1",
+            "w": 256
+          },
+          {
+            "bytes": 60452,
+            "h": 426,
+            "path": "webp/anagallis-mas-384.webp",
+            "sha256": "1efe5455e57bdf0198a0d9e3b657f67c4019a910613cf90199711543247d8634",
+            "w": 384
+          },
+          {
+            "bytes": 99040,
+            "h": 567,
+            "path": "webp/anagallis-mas-512.webp",
+            "sha256": "a017aad23e258ed519834a7373c1da4367a26ce1be0b2ad7ac7208b9627374b6",
+            "w": 512
+          },
+          {
+            "bytes": 190782,
+            "h": 851,
+            "path": "webp/anagallis-mas-768.webp",
+            "sha256": "c150b720bd7cafe8c4b2f101517cdd778cc677f3c54d1462385a72564d8fc33f",
+            "w": 768
+          },
+          {
+            "bytes": 299614,
+            "h": 1135,
+            "path": "webp/anagallis-mas-1024.webp",
+            "sha256": "a05a09f93ff82b10605e1a8c41e439c1f4d458dacc17fa691d063a981456cabd",
+            "w": 1024
+          },
+          {
+            "bytes": 568908,
+            "h": 1702,
+            "path": "webp/anagallis-mas-1536.webp",
+            "sha256": "1e9113d1fe57023e90d22043e4fdfbe2e58122dcaf07ad2e0bf96fe1b99c3dbd",
+            "w": 1536
+          },
+          {
+            "bytes": 906824,
+            "h": 2270,
+            "path": "webp/anagallis-mas-2048.webp",
+            "sha256": "e8a439b80b7a12a8f6deaff61f29671f5f694514c19d250974c2d4541fd576ac",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "plant",
+        "pimpernel",
+        "stem",
+        "leaf",
+        "flower",
+        "bud",
+        "root"
+      ],
+      "thumbhash": "TQiCBQABei+nemNNkCAlq89KBVluiqMJJg==",
+      "title": "Anagallis mas, pimpernel sprig",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Ink-only extraction, the lines are one dark brown-black and the alpha carries the ink density, so it sits on any light ground; on a dark ground it needs recolouring.",
+        "Nearly square, with the root tucked in the lower left; crops well to the upper arch of stems and flowers."
+      ],
+      "width": 2228
+    },
+    "chamaemelum-eranthemon": {
+      "attribution": "Universitätsbibliothek Basel UBH Lo I 4; scan [59]; image 543736",
+      "categories": [
+        "botanical",
+        "floral"
+      ],
+      "colors": [
+        "black",
+        "brown",
+        "gray"
+      ],
+      "composition": "standalone",
+      "description": "An upright branching plant with a long slender root that takes up the lower third, whorls of narrow linear leaves along the thin stems, and about a dozen five-petalled flowers with hanging, parted petals at the branch tips; the crown spreads wider than the stem below it. Dark brown-black woodcut line work with no ground line, on a transparent background.",
+      "display_width": [
+        280,
+        560
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 468788,
+        "webpTopBytes": 1070442
+      },
+      "facing": "none",
+      "group": null,
+      "height": 3699,
+      "master": {
+        "bytes": 475940,
+        "h": 2048,
+        "path": "masters/chamaemelum-eranthemon.webp",
+        "sha256": "aa62cbb6def78c7257c854375cd6c9a7974b34c6dbbd925edcc508bea7cb77cd",
+        "w": 1262
+      },
+      "palette": [
+        "#000000",
+        "#41372b",
+        "#2e2c21",
+        "#383530"
+      ],
+      "provenance": {
+        "date": "1542",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.e-rara.ch/i3f/v20/543736/full/full/0/default.jpg",
+        "institution": "Universitätsbibliothek Basel",
+        "method": "native-ink-extraction",
+        "object_identifier": "UBH Lo I 4; scan [59]; image 543736",
+        "object_title": "Fuchs, De historia stirpium: Chamaemelum eranthemon (scan [59])",
+        "record_url": "https://www.e-rara.ch/bau_1/content/pageview/543736",
+        "rights_url": "https://www.e-rara.ch/bau_1/content/titleinfo/543675",
+        "source_sha256": "e88e6fbf2a5ecff88b0f7fa3b39fb4ba0c9b89ba5e868e2c4442a7190fd9c2ef"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1986,
+            "h": 104,
+            "path": "avif/chamaemelum-eranthemon-64.avif",
+            "sha256": "bf8375955a18a909a73531ae5a0d6a3e81c71c5d5a0f49a2eb3eccb2c8c33842",
+            "w": 64
+          },
+          {
+            "bytes": 3738,
+            "h": 156,
+            "path": "avif/chamaemelum-eranthemon-96.avif",
+            "sha256": "9844ffc386b52d2118d82fe7518ce9d05ffda6c24bb064db2e8f7f726dccce58",
+            "w": 96
+          },
+          {
+            "bytes": 7429,
+            "h": 208,
+            "path": "avif/chamaemelum-eranthemon-128.avif",
+            "sha256": "add809a8c67c0cb506738d9c906a1e4db51bffafc45441a916348150c31825e3",
+            "w": 128
+          },
+          {
+            "bytes": 12567,
+            "h": 312,
+            "path": "avif/chamaemelum-eranthemon-192.avif",
+            "sha256": "70b375ee04d10bffbe99c3676ee9f310c93851aa27b58673340eea23e0b9752f",
+            "w": 192
+          },
+          {
+            "bytes": 22171,
+            "h": 416,
+            "path": "avif/chamaemelum-eranthemon-256.avif",
+            "sha256": "a3782a641c6f3150f9fc8298ec047d40643a555b4134217c83451b118bb0716f",
+            "w": 256
+          },
+          {
+            "bytes": 46606,
+            "h": 623,
+            "path": "avif/chamaemelum-eranthemon-384.avif",
+            "sha256": "e6711a97b8712c8f91ad4e6051705bbaf6a3a815bd85980b48d307c982b6ef5e",
+            "w": 384
+          },
+          {
+            "bytes": 75539,
+            "h": 831,
+            "path": "avif/chamaemelum-eranthemon-512.avif",
+            "sha256": "4b37dcfc62efe1def13ddd4950344dbf00e5f27f0fad3390966a1509e83b4a17",
+            "w": 512
+          },
+          {
+            "bytes": 131747,
+            "h": 1247,
+            "path": "avif/chamaemelum-eranthemon-768.avif",
+            "sha256": "12f65e7297d055f5daf38c01ef298261d3c26c1d7d7c18ed3d87bd7408f10676",
+            "w": 768
+          },
+          {
+            "bytes": 187472,
+            "h": 1662,
+            "path": "avif/chamaemelum-eranthemon-1024.avif",
+            "sha256": "90e542801c407315b9fd538e6f30d66925e2235ee923a2b69c7cc7559845d5e5",
+            "w": 1024
+          },
+          {
+            "bytes": 301540,
+            "h": 2493,
+            "path": "avif/chamaemelum-eranthemon-1536.avif",
+            "sha256": "7e56d586bdc6d31bf7254fcb2a7d244b8902992e4a92f5dc36d1039627f9be9d",
+            "w": 1536
+          },
+          {
+            "bytes": 468788,
+            "h": 3324,
+            "path": "avif/chamaemelum-eranthemon-2048.avif",
+            "sha256": "e9f2631aae80237a0881c0d0d081f4c52c229d814375c1202313ec3280193a60",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3370,
+            "h": 104,
+            "path": "webp/chamaemelum-eranthemon-64.webp",
+            "sha256": "37252f916c10921f0d138fce0d2fc3595a7589625c37ad6859ffa766c4a352fb",
+            "w": 64
+          },
+          {
+            "bytes": 6822,
+            "h": 156,
+            "path": "webp/chamaemelum-eranthemon-96.webp",
+            "sha256": "205bb2bd1b7926843b2a208238878d83197852ec430474a178d1cafc6cd897e8",
+            "w": 96
+          },
+          {
+            "bytes": 11304,
+            "h": 208,
+            "path": "webp/chamaemelum-eranthemon-128.webp",
+            "sha256": "2f33112e35d28b5a5f23926178419a438d02fdae4be3254c87c37cca3860eab6",
+            "w": 128
+          },
+          {
+            "bytes": 22718,
+            "h": 312,
+            "path": "webp/chamaemelum-eranthemon-192.webp",
+            "sha256": "d581923342b0d2aa00994332320f27a441ef8507ae854f4c476ed0b3a8518e5f",
+            "w": 192
+          },
+          {
+            "bytes": 38722,
+            "h": 416,
+            "path": "webp/chamaemelum-eranthemon-256.webp",
+            "sha256": "cd6299877851f4e99b892b8adf39c515cb45f0f096ff2b1c88788ee32a9ee926",
+            "w": 256
+          },
+          {
+            "bytes": 75922,
+            "h": 623,
+            "path": "webp/chamaemelum-eranthemon-384.webp",
+            "sha256": "f493e2e7584e19cd08c07ea57f93c58291814fd9ba57c08ecaa5cb8bba636c73",
+            "w": 384
+          },
+          {
+            "bytes": 121358,
+            "h": 831,
+            "path": "webp/chamaemelum-eranthemon-512.webp",
+            "sha256": "4fd26f178b69d8dca07e9e5dcec518288d35734a573f365f703f0f913f1c8d3d",
+            "w": 512
+          },
+          {
+            "bytes": 230940,
+            "h": 1247,
+            "path": "webp/chamaemelum-eranthemon-768.webp",
+            "sha256": "c48319ffc29295cc40903064a0fb0e5c60def6dc20170f135d7d5c854c7de543",
+            "w": 768
+          },
+          {
+            "bytes": 361202,
+            "h": 1662,
+            "path": "webp/chamaemelum-eranthemon-1024.webp",
+            "sha256": "34ebfa54f2ea9ab38f02c0b93ac4c6dbdffcf084b3fd8460646222ebcdb4822c",
+            "w": 1024
+          },
+          {
+            "bytes": 677884,
+            "h": 2493,
+            "path": "webp/chamaemelum-eranthemon-1536.webp",
+            "sha256": "0543c35fb4774e8357fa3e510413404a08bb4a59d2fcf7c60e44f4d39563858f",
+            "w": 1536
+          },
+          {
+            "bytes": 1070442,
+            "h": 3324,
+            "path": "webp/chamaemelum-eranthemon-2048.webp",
+            "sha256": "cadbeb2cc02f0e06333019ab5515d368b301a1ee6e0cf39f30c86606ba9e74d0",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "plant",
+        "stem",
+        "leaf",
+        "flower",
+        "root"
+      ],
+      "thumbhash": "TQiCAwABD7pjZ3PvveWLrweYj2aDKmg=",
+      "title": "Chamaemelum eranthemon, flowering branch",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Ink-only extraction, the lines are one dark brown-black and the alpha carries the ink density, so it sits on any light ground; on a dark ground it needs recolouring.",
+        "The long bare root can be cropped at the stem base for a shorter, airier piece."
+      ],
+      "width": 2279
+    },
+    "plantago-maior": {
+      "attribution": "Universitätsbibliothek Basel UBH Lo I 4; scan [69]; image 543746",
+      "categories": [
+        "botanical"
+      ],
+      "colors": [
+        "black",
+        "brown",
+        "gray"
+      ],
+      "composition": "standalone",
+      "description": "Greater plantain (Plantago major), a rosette of six broad ribbed oval leaves on long stalks spreading left and right from a tangle of fibrous roots at the centre, with three tall narrow flower spikes rising from the middle; one leaf hangs down below the root. Dark brown-black woodcut line work with no ground line, on a transparent background.",
+      "display_width": [
+        300,
+        600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 424243,
+        "webpTopBytes": 964406
+      },
+      "facing": "none",
+      "group": null,
+      "height": 3496,
+      "master": {
+        "bytes": 506766,
+        "h": 2048,
+        "path": "masters/plantago-maior.webp",
+        "sha256": "23789ddad0d4b27a78869cd8f6c9447d9f078e093da1404b80e09c20b1a6848d",
+        "w": 1393
+      },
+      "palette": [
+        "#000000",
+        "#333228",
+        "#3e302a",
+        "#3f392a"
+      ],
+      "provenance": {
+        "date": "1542",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.e-rara.ch/i3f/v20/543746/full/full/0/default.jpg",
+        "institution": "Universitätsbibliothek Basel",
+        "method": "native-ink-extraction",
+        "object_identifier": "UBH Lo I 4; scan [69]; image 543746",
+        "object_title": "Fuchs, De historia stirpium: Plantago maior (scan [69])",
+        "record_url": "https://www.e-rara.ch/bau_1/content/pageview/543746",
+        "rights_url": "https://www.e-rara.ch/bau_1/content/titleinfo/543675",
+        "source_sha256": "9fffe0fb98f331d2f41249ac9266f65223a52db0cf15004dfdd85d29318e1b20"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1909,
+            "h": 94,
+            "path": "avif/plantago-maior-64.avif",
+            "sha256": "39efc7c7a90ca6f17f6c1f52c66ef1c330501e46f7ac4dd630380e91c2e6fba1",
+            "w": 64
+          },
+          {
+            "bytes": 3307,
+            "h": 141,
+            "path": "avif/plantago-maior-96.avif",
+            "sha256": "0b4b1af8116a110200edb75f8721b106240fca670fdbf8d79c17cda14b952951",
+            "w": 96
+          },
+          {
+            "bytes": 5216,
+            "h": 188,
+            "path": "avif/plantago-maior-128.avif",
+            "sha256": "3464e6ea5df8e6e8527779b7f06dd5e05967f48c3b98ce4826f53e5982b7617f",
+            "w": 128
+          },
+          {
+            "bytes": 10893,
+            "h": 282,
+            "path": "avif/plantago-maior-192.avif",
+            "sha256": "962f07e104accef75b8e1bc4733ba6b34722ec9649076dec90872a9dea894f12",
+            "w": 192
+          },
+          {
+            "bytes": 18572,
+            "h": 376,
+            "path": "avif/plantago-maior-256.avif",
+            "sha256": "0faa0bcf6e336aa59fee73ffb32202041df6bf7de06393d7163c218cbe352510",
+            "w": 256
+          },
+          {
+            "bytes": 37221,
+            "h": 565,
+            "path": "avif/plantago-maior-384.avif",
+            "sha256": "343c4d69ac5ff9450ee63de8ab651ee9ad34843fb3bb752de23b8ac9492c01b8",
+            "w": 384
+          },
+          {
+            "bytes": 66096,
+            "h": 753,
+            "path": "avif/plantago-maior-512.avif",
+            "sha256": "e766f2371509824597dd2178b26b2d579bb4c2633c9cdba58ea4dbd81ffedb0c",
+            "w": 512
+          },
+          {
+            "bytes": 116902,
+            "h": 1129,
+            "path": "avif/plantago-maior-768.avif",
+            "sha256": "3e0a9e7c1114e11812c1f6d1e2237d060474299cfcb96f3c3c9b9d9a54278e13",
+            "w": 768
+          },
+          {
+            "bytes": 171020,
+            "h": 1505,
+            "path": "avif/plantago-maior-1024.avif",
+            "sha256": "62a7b438278dbfc9e370336d6cd1829fca06fa0dfab6d28972b3c89a7fdc41ff",
+            "w": 1024
+          },
+          {
+            "bytes": 271946,
+            "h": 2258,
+            "path": "avif/plantago-maior-1536.avif",
+            "sha256": "750e4414978be5e7f58e516a06cbfd8ea4da572d94206aac8c206b1c87529751",
+            "w": 1536
+          },
+          {
+            "bytes": 424243,
+            "h": 3011,
+            "path": "avif/plantago-maior-2048.avif",
+            "sha256": "b30c90e2c65a91db37a22b80810a2d90027c5422dd8254a49d2294482fa3b109",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3240,
+            "h": 94,
+            "path": "webp/plantago-maior-64.webp",
+            "sha256": "89b7a8343733fb597bb0192dc6bc33299eb132fbd5ae862c95223dc041663400",
+            "w": 64
+          },
+          {
+            "bytes": 6422,
+            "h": 141,
+            "path": "webp/plantago-maior-96.webp",
+            "sha256": "643c250bbe3b26e2e1bb21cca750b78ad2d411357e3d41d78e7ec57abbb70e5a",
+            "w": 96
+          },
+          {
+            "bytes": 10436,
+            "h": 188,
+            "path": "webp/plantago-maior-128.webp",
+            "sha256": "f9f89db28677d991ae6b6e9e528a4061ac4eb0edcd027c2e4c57ab60678f0e8b",
+            "w": 128
+          },
+          {
+            "bytes": 21406,
+            "h": 282,
+            "path": "webp/plantago-maior-192.webp",
+            "sha256": "40fd4dbe5b3b36c893d95eaad89d2736054e1d0ac7c4784ff06eba7b5a303a60",
+            "w": 192
+          },
+          {
+            "bytes": 36082,
+            "h": 376,
+            "path": "webp/plantago-maior-256.webp",
+            "sha256": "891ca265e13bb022fc8643da86c8c5c66c0c36f074297fc99edb1488ff64c683",
+            "w": 256
+          },
+          {
+            "bytes": 69350,
+            "h": 565,
+            "path": "webp/plantago-maior-384.webp",
+            "sha256": "8a52ff16be1a9c221629aa1907444a90cca3eb836cd75214c4b8661a08ac6552",
+            "w": 384
+          },
+          {
+            "bytes": 114822,
+            "h": 753,
+            "path": "webp/plantago-maior-512.webp",
+            "sha256": "cf4423fce92d090b735da9f5ee5a9f845533fb046d2a5cc601e57ebe9bbf9865",
+            "w": 512
+          },
+          {
+            "bytes": 213186,
+            "h": 1129,
+            "path": "webp/plantago-maior-768.webp",
+            "sha256": "5135084745c7f1cb331444a4b899829fd530bcd89f65d6c61c3acfca0040ec4f",
+            "w": 768
+          },
+          {
+            "bytes": 331606,
+            "h": 1505,
+            "path": "webp/plantago-maior-1024.webp",
+            "sha256": "98979d377f99308b5f594c07b3eb4a5a46a0cd41e4f06bf02e1a89e4e4d3968c",
+            "w": 1024
+          },
+          {
+            "bytes": 608976,
+            "h": 2258,
+            "path": "webp/plantago-maior-1536.webp",
+            "sha256": "06836797488c74b87c454aea8c97ce2b5c6d0bf556f5a46dc93e185f76bac211",
+            "w": 1536
+          },
+          {
+            "bytes": 964406,
+            "h": 3011,
+            "path": "webp/plantago-maior-2048.webp",
+            "sha256": "4a3d09db14a292baf1311b95522abc0042d575fcdcb56c0c25c30641542edb7b",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "plant",
+        "plantain",
+        "leaf",
+        "flower",
+        "root"
+      ],
+      "thumbhash": "TQiCAwABC1pWZUqbalD6agiXiXeEaWc=",
+      "title": "Plantago maior, greater plantain",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Ink-only extraction, the lines are one dark brown-black and the alpha carries the ink density, so it sits on any light ground; on a dark ground it needs recolouring.",
+        "The lowest leaf hangs below the root; crop it off at the root for a compact rosette with the spikes."
+      ],
+      "width": 2378
+    },
+    "sedum-maius": {
+      "attribution": "Universitätsbibliothek Basel UBH Lo I 4; scan [64]; image 543741",
+      "categories": [
+        "botanical",
+        "floral"
+      ],
+      "colors": [
+        "black",
+        "brown",
+        "gray"
+      ],
+      "composition": "standalone",
+      "description": "Common houseleek (Sempervivum tectorum), a rosette of fleshy pointed leaves at the base over a thick root and trailing runners, from which a tall column-like stem densely clad in overlapping leaves rises and opens at the top into a crown of curled, spreading branches bearing many small star-shaped flowers; the whole reads as a symmetrical upright emblem. Dark brown-black woodcut line work with no ground line, on a transparent background.",
+      "display_width": [
+        240,
+        480
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 604243,
+        "webpTopBytes": 1327488
+      },
+      "facing": "none",
+      "group": null,
+      "height": 3768,
+      "master": {
+        "bytes": 504124,
+        "h": 2049,
+        "path": "masters/sedum-maius.webp",
+        "sha256": "e3da9148a67ae696c2c6c5ed7383ac3c96f8c29f24d515ca61b95b8482119883",
+        "w": 1150
+      },
+      "palette": [
+        "#000000",
+        "#29221d",
+        "#3b3529",
+        "#3b3729",
+        "#404027"
+      ],
+      "provenance": {
+        "date": "1542",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.e-rara.ch/i3f/v20/543741/full/full/0/default.jpg",
+        "institution": "Universitätsbibliothek Basel",
+        "method": "native-ink-extraction",
+        "object_identifier": "UBH Lo I 4; scan [64]; image 543741",
+        "object_title": "Fuchs, De historia stirpium: Sedum maius (scan [64])",
+        "record_url": "https://www.e-rara.ch/bau_1/content/pageview/543741",
+        "rights_url": "https://www.e-rara.ch/bau_1/content/titleinfo/543675",
+        "source_sha256": "e17345ad0049579dca959043691e4f121b96a8812d4b498c497d56dc704e7c66"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2485,
+            "h": 114,
+            "path": "avif/sedum-maius-64.avif",
+            "sha256": "b3b34fd2c0f1eecd84a7334c86c88fed49eb4a8155258b4fec817b642f191897",
+            "w": 64
+          },
+          {
+            "bytes": 4653,
+            "h": 171,
+            "path": "avif/sedum-maius-96.avif",
+            "sha256": "d1d37960cca659f734e051417e3cde73ceed2c206798dd25313222122b7405c3",
+            "w": 96
+          },
+          {
+            "bytes": 8257,
+            "h": 228,
+            "path": "avif/sedum-maius-128.avif",
+            "sha256": "05dba38bd219010ac27a964c0cb19d952784d42f68d5e09033f1ef16bab0e68a",
+            "w": 128
+          },
+          {
+            "bytes": 15897,
+            "h": 342,
+            "path": "avif/sedum-maius-192.avif",
+            "sha256": "7ba14aced8a5ee1dde8fb2e81efb3513e51fd0558cb0df36c7a281230d3d7abb",
+            "w": 192
+          },
+          {
+            "bytes": 29173,
+            "h": 456,
+            "path": "avif/sedum-maius-256.avif",
+            "sha256": "5de58b18243b1e5310c611f6e315f9748ba0feb5cac72d5d28b4251f539a2bdc",
+            "w": 256
+          },
+          {
+            "bytes": 61794,
+            "h": 684,
+            "path": "avif/sedum-maius-384.avif",
+            "sha256": "5cc3b0bcb8eab9137b685bd0ab2a1b15d04e8ba8a6ebe179d8e5404b040b3ec8",
+            "w": 384
+          },
+          {
+            "bytes": 99089,
+            "h": 912,
+            "path": "avif/sedum-maius-512.avif",
+            "sha256": "07b77602853344738bafba00dc62634e28950624d8a692b3125c50176315edd2",
+            "w": 512
+          },
+          {
+            "bytes": 168660,
+            "h": 1368,
+            "path": "avif/sedum-maius-768.avif",
+            "sha256": "9989999a284f77970aede04698711362856964105dfebf0e27a083c00ce09772",
+            "w": 768
+          },
+          {
+            "bytes": 234114,
+            "h": 1824,
+            "path": "avif/sedum-maius-1024.avif",
+            "sha256": "4f8c5eeaa1eb37041ffa9a6a62fd6c0bafda98076a9ae18a248237b995817110",
+            "w": 1024
+          },
+          {
+            "bytes": 385554,
+            "h": 2736,
+            "path": "avif/sedum-maius-1536.avif",
+            "sha256": "cf0b033b0c338b6a09cf884991c97c3d7222753541b1a7c061b29bc145398b58",
+            "w": 1536
+          },
+          {
+            "bytes": 604243,
+            "h": 3649,
+            "path": "avif/sedum-maius-2048.avif",
+            "sha256": "5ea7c68f63d965170cf62376bdb5416303076f5c2238426ce676b496e86c2e5f",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4128,
+            "h": 114,
+            "path": "webp/sedum-maius-64.webp",
+            "sha256": "cfa5b6d159c1d450d5d2bd21f20b474683088a181fe3302b129d61d5a11119cf",
+            "w": 64
+          },
+          {
+            "bytes": 8248,
+            "h": 171,
+            "path": "webp/sedum-maius-96.webp",
+            "sha256": "741e029c664c42cd9b7bb9a4ff86d71156d3e187ea754d155022d7e379c5180f",
+            "w": 96
+          },
+          {
+            "bytes": 14074,
+            "h": 228,
+            "path": "webp/sedum-maius-128.webp",
+            "sha256": "7e01a419400dd029e4149285d4ec9c463863277ced3210b8028588e40d11015d",
+            "w": 128
+          },
+          {
+            "bytes": 28868,
+            "h": 342,
+            "path": "webp/sedum-maius-192.webp",
+            "sha256": "2ce8834ab0eeec40cd350a0d68ce3399b273c98f0bd2d804c2cf30b6358c9d5a",
+            "w": 192
+          },
+          {
+            "bytes": 49190,
+            "h": 456,
+            "path": "webp/sedum-maius-256.webp",
+            "sha256": "0287fba4f5e025301596fca9269998987d12b789b614c6fa572c1ffe31f15dd5",
+            "w": 256
+          },
+          {
+            "bytes": 97024,
+            "h": 684,
+            "path": "webp/sedum-maius-384.webp",
+            "sha256": "01243873c05dee84a0667d9070f443bf01fee23c2dc2012bd8256eed380108b1",
+            "w": 384
+          },
+          {
+            "bytes": 156568,
+            "h": 912,
+            "path": "webp/sedum-maius-512.webp",
+            "sha256": "026e798b46a0f9d04106262d7b48517f196b7de74934e0a06c2fe214d486ca7f",
+            "w": 512
+          },
+          {
+            "bytes": 291126,
+            "h": 1368,
+            "path": "webp/sedum-maius-768.webp",
+            "sha256": "67b11e482b65baf6ca4f928e9911ccd33c37ec6f3136dd9cd1a1636a34ddcaa0",
+            "w": 768
+          },
+          {
+            "bytes": 449310,
+            "h": 1824,
+            "path": "webp/sedum-maius-1024.webp",
+            "sha256": "a206f9a2cfd15afc66108097453907020c81aec3d6623ab6cf3d36dafcee2c57",
+            "w": 1024
+          },
+          {
+            "bytes": 843684,
+            "h": 2736,
+            "path": "webp/sedum-maius-1536.webp",
+            "sha256": "87a9a68160e662c771efdfd0aec6b385a6566a5fe6de1d15328294fc09823c01",
+            "w": 1536
+          },
+          {
+            "bytes": 1327488,
+            "h": 3649,
+            "path": "webp/sedum-maius-2048.webp",
+            "sha256": "6d27bc0fa9060a8f47ca2a2f038d1501b486e9edb36f5dee04d37609ead2dc5b",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "plant",
+        "houseleek",
+        "stem",
+        "leaf",
+        "flower",
+        "root"
+      ],
+      "thumbhash": "TQiCAwABBVKYl9dkcIsA5gaZeXl7V0c=",
+      "title": "Sedum maius, houseleek in flower",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Ink-only extraction, the lines are one dark brown-black and the alpha carries the ink density, so it sits on any light ground; on a dark ground it needs recolouring.",
+        "Keep root, rosette and flower crown together; the piece is built as one vertical emblem."
+      ],
+      "width": 2115
+    },
+    "seriphium-absinthium": {
+      "attribution": "Universitätsbibliothek Basel UBH Lo I 4; scan [34]; image 543711",
+      "categories": [
+        "botanical"
+      ],
+      "colors": [
+        "black",
+        "brown",
+        "gray"
+      ],
+      "composition": "standalone",
+      "description": "A wormwood (Artemisia), three tall upright shoots rising from a thick twisted root at the lower right, each densely set from base to tip with finely divided feathery leaves; the shoots lean slightly apart and fill a tall rectangle with little open space. Dark brown-black woodcut line work with no ground line, on a transparent background.",
+      "display_width": [
+        300,
+        600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 1319021,
+        "webpTopBytes": 2663910
+      },
+      "facing": "none",
+      "group": null,
+      "height": 3813,
+      "master": {
+        "bytes": 1303316,
+        "h": 2048,
+        "path": "masters/seriphium-absinthium.webp",
+        "sha256": "3e30ceb300e3a30bc45e7ed887f2eb097a58602aa26d29314ff3c8beab05e94e",
+        "w": 1318
+      },
+      "palette": [
+        "#0b0b09",
+        "#41362c",
+        "#40392c",
+        "#413a2c",
+        "#46452d"
+      ],
+      "provenance": {
+        "date": "1542",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.e-rara.ch/i3f/v20/543711/full/full/0/default.jpg",
+        "institution": "Universitätsbibliothek Basel",
+        "method": "native-ink-extraction",
+        "object_identifier": "UBH Lo I 4; scan [34]; image 543711",
+        "object_title": "Fuchs, De historia stirpium: Seriphium absinthium (scan [34])",
+        "record_url": "https://www.e-rara.ch/bau_1/content/pageview/543711",
+        "rights_url": "https://www.e-rara.ch/bau_1/content/titleinfo/543675",
+        "source_sha256": "88d05e173cf9b62d341b87609edc8bf752936d8b9c24e5f5377b0063d9f878f7"
+      },
+      "quality": "Three small round ink blots remain, on the upper-right shoot and near the base of the stems.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3196,
+            "h": 99,
+            "path": "avif/seriphium-absinthium-64.avif",
+            "sha256": "8df0692cb3ddc8b962a876dc9dc093dfb7882c341d32b2a840e462554829cdd3",
+            "w": 64
+          },
+          {
+            "bytes": 5483,
+            "h": 149,
+            "path": "avif/seriphium-absinthium-96.avif",
+            "sha256": "941502dfbdd3400740eed4fd9bd2d92e088fcb747252242649f11006f0e49c6c",
+            "w": 96
+          },
+          {
+            "bytes": 9010,
+            "h": 199,
+            "path": "avif/seriphium-absinthium-128.avif",
+            "sha256": "faf0876e682634e8c5e52fe3730455399afc29a07bd07b0ceb7ed8505fbf9071",
+            "w": 128
+          },
+          {
+            "bytes": 19880,
+            "h": 298,
+            "path": "avif/seriphium-absinthium-192.avif",
+            "sha256": "1bd22cfac54b4ef8a8eba1c0d3654d452ca5e447ce90a02672729fe6382cd525",
+            "w": 192
+          },
+          {
+            "bytes": 35783,
+            "h": 398,
+            "path": "avif/seriphium-absinthium-256.avif",
+            "sha256": "25a2cfba1aaec67d212753232b9309a5c4742ccf778f309964e115966ba75390",
+            "w": 256
+          },
+          {
+            "bytes": 73789,
+            "h": 597,
+            "path": "avif/seriphium-absinthium-384.avif",
+            "sha256": "a0638b884cc3ad238ea4b957786866a2bf2c5489162077fbae8a0e53537fde82",
+            "w": 384
+          },
+          {
+            "bytes": 139196,
+            "h": 796,
+            "path": "avif/seriphium-absinthium-512.avif",
+            "sha256": "3012cd081fc02e573d711e5f3bb23516df106d494bda96ac3cf44685647b4378",
+            "w": 512
+          },
+          {
+            "bytes": 286441,
+            "h": 1193,
+            "path": "avif/seriphium-absinthium-768.avif",
+            "sha256": "68710159fa3d3be19244c87cb1f4b53c60ef362dcad5586587c4c75965bdcc48",
+            "w": 768
+          },
+          {
+            "bytes": 466189,
+            "h": 1591,
+            "path": "avif/seriphium-absinthium-1024.avif",
+            "sha256": "dbc53f0bdd8edd0b7fd197f2e8aaeae887460c6bd641be24a95f777f45d23012",
+            "w": 1024
+          },
+          {
+            "bytes": 849879,
+            "h": 2387,
+            "path": "avif/seriphium-absinthium-1536.avif",
+            "sha256": "3dab544b2ec0661790f308f49da0d21de370fd07b33a3b3819cf84ec016103c4",
+            "w": 1536
+          },
+          {
+            "bytes": 1319021,
+            "h": 3182,
+            "path": "avif/seriphium-absinthium-2048.avif",
+            "sha256": "3b7afafd07a63958920717d6ff26e9e3eabd926c5c9b791f664e795c52e07524",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 5458,
+            "h": 99,
+            "path": "webp/seriphium-absinthium-64.webp",
+            "sha256": "bb8cfe1da4775f006897a5b021c55846e897df675cba99226b8618b535e37afd",
+            "w": 64
+          },
+          {
+            "bytes": 10420,
+            "h": 149,
+            "path": "webp/seriphium-absinthium-96.webp",
+            "sha256": "8b6d8afa076dc258380053d6044ab5158972c0a456cc594278b5e71ae90d162c",
+            "w": 96
+          },
+          {
+            "bytes": 17422,
+            "h": 199,
+            "path": "webp/seriphium-absinthium-128.webp",
+            "sha256": "eb23c0ab94cdf78e16c50a6cabcf92053dcb2bf949cef9812de710c92b661a8e",
+            "w": 128
+          },
+          {
+            "bytes": 36178,
+            "h": 298,
+            "path": "webp/seriphium-absinthium-192.webp",
+            "sha256": "c754a52e75ae626dcf4a9ce136b23c8d27bc97edfb3ae0078439d9590da408e5",
+            "w": 192
+          },
+          {
+            "bytes": 62406,
+            "h": 398,
+            "path": "webp/seriphium-absinthium-256.webp",
+            "sha256": "d0870d127916fc3c0491cbd5e1c15dc2b77bad8f6b26833614b342b2d9a60830",
+            "w": 256
+          },
+          {
+            "bytes": 127954,
+            "h": 597,
+            "path": "webp/seriphium-absinthium-384.webp",
+            "sha256": "231af87f1ca4408c4ffc34b548b0e0bd15bcd2c60fe6c566d556dda080add4e6",
+            "w": 384
+          },
+          {
+            "bytes": 222458,
+            "h": 796,
+            "path": "webp/seriphium-absinthium-512.webp",
+            "sha256": "6b65a74aff3e69d9fee93b297479f37efb9f12fff59d5ea937da9439c884a5e9",
+            "w": 512
+          },
+          {
+            "bytes": 458024,
+            "h": 1193,
+            "path": "webp/seriphium-absinthium-768.webp",
+            "sha256": "6fdd1641245c4d863705f17fa147e5fcdb9bec9843231cad8616785820e96ca5",
+            "w": 768
+          },
+          {
+            "bytes": 772106,
+            "h": 1591,
+            "path": "webp/seriphium-absinthium-1024.webp",
+            "sha256": "314fce2848adee9f7fd9bb4cc0159738498c3c0ce16ba11cad933b6659b2409b",
+            "w": 1024
+          },
+          {
+            "bytes": 1600414,
+            "h": 2387,
+            "path": "webp/seriphium-absinthium-1536.webp",
+            "sha256": "4b04b53c7f3b0b7939462a75e615f0f30cd1d3a9ed39f1104b310ce89ff1307d",
+            "w": 1536
+          },
+          {
+            "bytes": 2663910,
+            "h": 3182,
+            "path": "webp/seriphium-absinthium-2048.webp",
+            "sha256": "5e49a56b9df6cdd7da87c4943bb2ff01eef2cc462a409790ea9161c26155ec1c",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "plant",
+        "wormwood",
+        "stem",
+        "leaf",
+        "root"
+      ],
+      "thumbhash": "TQiCAwACe2UHhVlGakD8uRU2eomAeUg=",
+      "title": "Seriphium absinthium, wormwood bush",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Ink-only extraction, the lines are one dark brown-black and the alpha carries the ink density, so it sits on any light ground; on a dark ground it needs recolouring.",
+        "Dense foliage; reads as a textured block beside text rather than as a silhouette."
+      ],
+      "width": 2454
+    }
+  },
+  "attribution": "Universitätsbibliothek Basel UBH Lo I 4",
+  "builtAt": "2026-10-28T16:07:20.857Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-fuchs-1542-herbal@1.0.0/",
+  "contentHash": "sha256:b4899ae47830e3d48059bd42f65728685b1fab809c02f0d4ab3c6bab9362a9a5",
+  "inputsHash": "sha256:82812362055cdab2dc4c5b20b70d241447175d71df4594846dd2e250bffff90f",
+  "kind": "historical",
+  "license": {
+    "artwork": "LicenseRef-PDM",
+    "notes": "The scans carry the Public Domain Mark; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-fuchs-1542-herbal-masters",
+  "package": "@ranx729/ducktape-assets-fuchs-1542-herbal",
+  "period": "1542",
+  "region": "Basel, Switzerland",
+  "schema": 1,
+  "set": "fuchs-1542-herbal",
+  "style": "Renaissance botanical woodcut",
+  "summary": "Woodcut plant portraits from the 1542 Basel edition of Leonhart Fuchs's herbal De historia stirpium commentarii insignes, scanned by the Universitätsbibliothek Basel (shelfmark UBH Lo I 4) on e-rara.",
+  "title": "Fuchs, De historia stirpium (1542)",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

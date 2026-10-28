@@ -1,0 +1,941 @@
+{
+  "assets": {
+    "crossed-weapons-trophy": {
+      "categories": [
+        "scrollwork"
+      ],
+      "colors": [
+        "brown",
+        "tan",
+        "cream"
+      ],
+      "composition": "single-ornament",
+      "description": "A hanging trophy of arms engraved in brown line on a transparent background, the paper tone kept inside the outlines. A long bow curves across the bundle from upper left to lower right, several slender shafts and a hilted sword cross behind it, and a short tubular case points down at the bottom; the pieces are bound together at the centre. It was cut from the lower left of the letter B sheet, where it hung from the letter's strapwork by a cord with a tassel.",
+      "display_width": [
+        40,
+        80
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 3273,
+        "webpTopBytes": 4374
+      },
+      "facing": "none",
+      "group": null,
+      "height": 89,
+      "master": {
+        "bytes": 7100,
+        "h": 89,
+        "path": "masters/crossed-weapons-trophy.webp",
+        "sha256": "3572bcb18facc174c8533f1db40822a9125ec7af22b4153a84bcd126b1bcb4b2",
+        "w": 74
+      },
+      "palette": [
+        "#867c6c",
+        "#aea18d",
+        "#d9cbb0",
+        "#4b443c",
+        "#696154"
+      ],
+      "provenance": {
+        "artist": "Bry, Johann Theodor de",
+        "date": "1595",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.mkg-hamburg.de/en/object/dc00101865/image-download/0",
+        "institution": "Museum für Kunst und Gewerbe Hamburg",
+        "method": "ai-assisted-extraction",
+        "object_dimensions": "23,6 × 17,1 cm (sheet), 20,1 × 15 cm (plate)",
+        "object_identifier": "O1913.136",
+        "object_title": "Der Buchstabe B, Blatt aus der Folge \"Nova Alphati Effictio Historiis\"",
+        "record_url": "https://www.mkg-hamburg.de/en/object/dc00101865",
+        "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_sha256": "940798d28cbab372ff44c3b25d8e0fe4e9b6b86f816ef6190d2c12385ab60b43"
+      },
+      "quality": "Cut from a low-resolution scan; soft at native size and blurred above it, and the binding at the centre is not legible.",
+      "related": [
+        {
+          "asset": "mkg-de-bry-alphabet/foliate-trophy",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2834,
+            "h": 77,
+            "path": "avif/crossed-weapons-trophy-64.avif",
+            "sha256": "452e19fbb5cfd738e71d33f486b08225034938b5df72f758be8a6e46af6df774",
+            "w": 64
+          },
+          {
+            "bytes": 3273,
+            "h": 89,
+            "path": "avif/crossed-weapons-trophy-74.avif",
+            "sha256": "9702a7a70b959abd0ca2989634ce36ea4c31e6a627bf4a045c747687fa64dee1",
+            "w": 74
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3828,
+            "h": 77,
+            "path": "webp/crossed-weapons-trophy-64.webp",
+            "sha256": "d1d6e00a7dce57970f4973e860a30f53ba88a63f08628258c0937a8456ff4681",
+            "w": 64
+          },
+          {
+            "bytes": 4374,
+            "h": 89,
+            "path": "webp/crossed-weapons-trophy-74.webp",
+            "sha256": "b64687c909a65b13a0cab2243e897d7fc55ddab4cdb398ffcc018b4fe8f097d2",
+            "w": 74
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "trophy",
+        "weapon",
+        "bow",
+        "arrow",
+        "sword"
+      ],
+      "thumbhash": "ohiCBAAk3DbJNyA+uQ86+5TXUWipB7V4Bw==",
+      "title": "Trophy of crossed weapons",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "On the sheet this hangs at the lower left and the foliate trophy at the lower right; the two work as a matched pair flanking a title or a rule."
+      ],
+      "width": 74
+    },
+    "flower-bouquet-from-decorated-initial": {
+      "categories": [
+        "floral",
+        "botanical"
+      ],
+      "colors": [
+        "brown",
+        "tan",
+        "cream"
+      ],
+      "composition": "single-ornament",
+      "description": "An upright bunch of flowers engraved in brown line on a transparent background. A round many-petalled bloom sits at the top, a large open flower at the left, several closed buds and long pointed leaves spreading to both sides, and a cluster of stems gathered at the bottom. The vase that held it on the letter B sheet is excluded, so the stems end in a cut at the lower edge.",
+      "display_width": [
+        50,
+        100
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 5328,
+        "webpTopBytes": 7554
+      },
+      "facing": "none",
+      "group": null,
+      "height": 103,
+      "master": {
+        "bytes": 12666,
+        "h": 103,
+        "path": "masters/flower-bouquet-from-decorated-initial.webp",
+        "sha256": "75dabf6ded4e8c4f9b34d948817e04ecae3f0dd4010ba52718138b12b7bcebc8",
+        "w": 96
+      },
+      "palette": [
+        "#817463",
+        "#a3947f",
+        "#d0bfa6",
+        "#675b4d",
+        "#4f4539"
+      ],
+      "provenance": {
+        "artist": "Bry, Johann Theodor de",
+        "date": "1595",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.mkg-hamburg.de/en/object/dc00101865/image-download/0",
+        "institution": "Museum für Kunst und Gewerbe Hamburg",
+        "method": "ai-assisted-extraction",
+        "object_dimensions": "23,6 × 17,1 cm (sheet), 20,1 × 15 cm (plate)",
+        "object_identifier": "O1913.136",
+        "object_title": "Der Buchstabe B, Blatt aus der Folge \"Nova Alphati Effictio Historiis\"",
+        "record_url": "https://www.mkg-hamburg.de/en/object/dc00101865",
+        "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_sha256": "940798d28cbab372ff44c3b25d8e0fe4e9b6b86f816ef6190d2c12385ab60b43"
+      },
+      "quality": "Cut from a low-resolution scan; the fine petals and leaves blur above native size.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3177,
+            "h": 69,
+            "path": "avif/flower-bouquet-from-decorated-initial-64.avif",
+            "sha256": "f0e12f7420b487cf0808f13dc55c6e4a8e2738d3d197f6f917b6397fc291a70c",
+            "w": 64
+          },
+          {
+            "bytes": 5328,
+            "h": 103,
+            "path": "avif/flower-bouquet-from-decorated-initial-96.avif",
+            "sha256": "1f9dafb70a25dd670c87179e862df31f4ec163a17fcd88a8a428530f7b726e0e",
+            "w": 96
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4224,
+            "h": 69,
+            "path": "webp/flower-bouquet-from-decorated-initial-64.webp",
+            "sha256": "b366e234a87c0f2bde4039d87f97d87fa959147dbc19bad98dcc7f1a1d250b57",
+            "w": 64
+          },
+          {
+            "bytes": 7554,
+            "h": 103,
+            "path": "webp/flower-bouquet-from-decorated-initial-96.webp",
+            "sha256": "706d0a4aa51a9348cc660e5b24889082834ac2d17c317edc7b79c45655254a2c",
+            "w": 96
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "bouquet",
+        "flower",
+        "bud",
+        "leaf"
+      ],
+      "thumbhash": "4BiCBQAlD5RflTY8uC1f5vRVBomGiIKpdw==",
+      "title": "Bouquet of flowers and buds",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "The stems are cut flat at the bottom where the vase began; set the bouquet into a vase, a cup or behind a rule rather than leaving the cut visible."
+      ],
+      "width": 96
+    },
+    "foliate-trophy": {
+      "categories": [
+        "botanical",
+        "ribbons"
+      ],
+      "colors": [
+        "brown",
+        "tan",
+        "cream"
+      ],
+      "composition": "single-ornament",
+      "description": "A hanging trophy engraved in brown line on a transparent background. A broad fluttering ribbon knotted at the centre with its two ends turned outward binds a tall feathered frond rising to the upper right, leafy sprigs spreading to the right and lower left, and two slender rods crossing behind and pointing down to the lower left. It was cut from the lower right of the letter B sheet, where it hung from the strapwork by a cord with a tassel.",
+      "display_width": [
+        50,
+        90
+      ],
+      "encoding": {
+        "avif": false,
+        "avifTopBytes": 3538,
+        "webpTopBytes": 3738
+      },
+      "facing": "none",
+      "group": null,
+      "height": 109,
+      "master": {
+        "bytes": 8988,
+        "h": 109,
+        "path": "masters/foliate-trophy.webp",
+        "sha256": "f7df6c8be9cd052aa2ef4a2953dedcd276091d033f964f9a087b1d98a9ff5747",
+        "w": 88
+      },
+      "palette": [
+        "#c8bea7",
+        "#8c836f",
+        "#a69d87",
+        "#5c5444",
+        "#756d5a"
+      ],
+      "provenance": {
+        "artist": "Bry, Johann Theodor de",
+        "date": "1595",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.mkg-hamburg.de/en/object/dc00101865/image-download/0",
+        "institution": "Museum für Kunst und Gewerbe Hamburg",
+        "method": "native-source-extraction",
+        "object_dimensions": "23,6 × 17,1 cm (sheet), 20,1 × 15 cm (plate)",
+        "object_identifier": "O1913.136",
+        "object_title": "Der Buchstabe B, Blatt aus der Folge \"Nova Alphati Effictio Historiis\"",
+        "record_url": "https://www.mkg-hamburg.de/en/object/dc00101865",
+        "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_sha256": "940798d28cbab372ff44c3b25d8e0fe4e9b6b86f816ef6190d2c12385ab60b43"
+      },
+      "quality": "Cut from a low-resolution scan; soft at native size and blurred above it.",
+      "related": [
+        {
+          "asset": "mkg-de-bry-alphabet/crossed-weapons-trophy",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "webp": [
+          {
+            "bytes": 3814,
+            "h": 79,
+            "path": "webp/foliate-trophy-64.webp",
+            "sha256": "417898e7cd150031dad22293fe353590b4613ed7e3ea07a03a4d53f199502b79",
+            "w": 64
+          },
+          {
+            "bytes": 3738,
+            "h": 109,
+            "path": "webp/foliate-trophy-88.webp",
+            "sha256": "3922f5702b23afd2f68aa1e55670911b9ada9abe5a831796346b86ba737ede2f",
+            "w": 88
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "trophy",
+        "ribbon",
+        "sprig",
+        "leaf",
+        "rod"
+      ],
+      "thumbhash": "4xiCBAAmd6l4RrhVj/x58Y5fkGaGCbiZBQ==",
+      "title": "Foliate trophy tied with a ribbon",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "On the sheet this hangs at the lower right and the trophy of weapons at the lower left; the two work as a matched pair flanking a title or a rule."
+      ],
+      "width": 88
+    },
+    "hanging-fruit-with-gourd": {
+      "categories": [
+        "botanical"
+      ],
+      "colors": [
+        "brown",
+        "tan",
+        "cream"
+      ],
+      "composition": "single-ornament",
+      "description": "A hanging cluster of fruit engraved in brown line on a transparent background. A large round fruit at the upper left sits among a bunch of small round berries and short leaves, and a long smooth teardrop-shaped gourd hangs from it down the lower right, narrowing to a stalk at the top. On the letter B sheet this cluster hung from a hook at the upper left of the letter's strapwork.",
+      "display_width": [
+        30,
+        60
+      ],
+      "encoding": {
+        "avif": false,
+        "avifTopBytes": 1649,
+        "webpTopBytes": 1694
+      },
+      "facing": "none",
+      "group": null,
+      "height": 76,
+      "master": {
+        "bytes": 3942,
+        "h": 76,
+        "path": "masters/hanging-fruit-with-gourd.webp",
+        "sha256": "60a1656e3f12521fa69cddd6f1d5f324d9ab3127583efa47d5cdcb1e06589f45",
+        "w": 50
+      },
+      "palette": [
+        "#89806e",
+        "#d8ccb4",
+        "#bbb09c",
+        "#4c4436",
+        "#685f4e"
+      ],
+      "provenance": {
+        "artist": "Bry, Johann Theodor de",
+        "date": "1595",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.mkg-hamburg.de/en/object/dc00101865/image-download/0",
+        "institution": "Museum für Kunst und Gewerbe Hamburg",
+        "method": "native-source-extraction",
+        "object_dimensions": "23,6 × 17,1 cm (sheet), 20,1 × 15 cm (plate)",
+        "object_identifier": "O1913.136",
+        "object_title": "Der Buchstabe B, Blatt aus der Folge \"Nova Alphati Effictio Historiis\"",
+        "record_url": "https://www.mkg-hamburg.de/en/object/dc00101865",
+        "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_sha256": "940798d28cbab372ff44c3b25d8e0fe4e9b6b86f816ef6190d2c12385ab60b43"
+      },
+      "quality": "Cut from a low-resolution scan; the berry cluster is soft and a few stray dots of neighbouring ink remain around the edges.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "webp": [
+          {
+            "bytes": 1694,
+            "h": 76,
+            "path": "webp/hanging-fruit-with-gourd-50.webp",
+            "sha256": "6b129e6943f20b6a56e6236af3fd052b1a8bf15b85e155062f8f4b5f7ee7e12b",
+            "w": 50
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "pendant",
+        "fruit",
+        "berry"
+      ],
+      "thumbhash": "oxiGAwA3nZfJlgS+lf97yQp2iohzWFg=",
+      "title": "Hanging fruit with gourd pendant",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Reads as a pendant, so hang it from a hook, a rule or the end of a banner rather than placing it on a baseline."
+      ],
+      "width": 50
+    },
+    "putto-holding-strap-end": {
+      "categories": [
+        "humans",
+        "fantasy"
+      ],
+      "colors": [
+        "brown",
+        "tan",
+        "cream"
+      ],
+      "composition": "single-figure",
+      "description": "A curly-haired winged putto sits facing the viewer with a cloth across his lap, his right arm stretched out to the left and his left hand raised to grip the curling end of a strapwork band at the upper right, which ends in a small animal head and has a flower-shaped pendant hanging from it; a small bud and leaf hang below his right hand. Engraved in brown line with the paper tone kept inside the figure, on a transparent background. On the letter B sheet he sits on the top of the letter's strapwork frame, which is excluded.",
+      "display_width": [
+        80,
+        160
+      ],
+      "encoding": {
+        "avif": false,
+        "avifTopBytes": 4489,
+        "webpTopBytes": 5196
+      },
+      "facing": "viewer",
+      "group": null,
+      "height": 139,
+      "master": {
+        "bytes": 13904,
+        "h": 139,
+        "path": "masters/putto-holding-strap-end.webp",
+        "sha256": "608fbf34ec6849abbd47a8664c900cbb1d9bd9c39e7c17567e471b2be6ec25b4",
+        "w": 147
+      },
+      "palette": [
+        "#beb39d",
+        "#918975",
+        "#736c5a",
+        "#635c4c",
+        "#50493b"
+      ],
+      "provenance": {
+        "artist": "Bry, Johann Theodor de",
+        "date": "1595",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.mkg-hamburg.de/en/object/dc00101865/image-download/0",
+        "institution": "Museum für Kunst und Gewerbe Hamburg",
+        "method": "native-source-extraction",
+        "object_dimensions": "23,6 × 17,1 cm (sheet), 20,1 × 15 cm (plate)",
+        "object_identifier": "O1913.136",
+        "object_title": "Der Buchstabe B, Blatt aus der Folge \"Nova Alphati Effictio Historiis\"",
+        "record_url": "https://www.mkg-hamburg.de/en/object/dc00101865",
+        "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_sha256": "940798d28cbab372ff44c3b25d8e0fe4e9b6b86f816ef6190d2c12385ab60b43"
+      },
+      "quality": "Cut from a low-resolution scan; soft at native size and blurred above it.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "webp": [
+          {
+            "bytes": 2740,
+            "h": 61,
+            "path": "webp/putto-holding-strap-end-64.webp",
+            "sha256": "2fdadd56682553b720a495f2dbcc3f790b3bd1a902c1e71e04fbd31070237102",
+            "w": 64
+          },
+          {
+            "bytes": 4744,
+            "h": 91,
+            "path": "webp/putto-holding-strap-end-96.webp",
+            "sha256": "0866aededc143f267c63f030464d607829c204260ebb0de0f62454fe3a74abd7",
+            "w": 96
+          },
+          {
+            "bytes": 6898,
+            "h": 121,
+            "path": "webp/putto-holding-strap-end-128.webp",
+            "sha256": "e84d38f09320063d61ac7d1a42ebc130afe7a078074ca9106caf35c9b88ef6b4",
+            "w": 128
+          },
+          {
+            "bytes": 5196,
+            "h": 139,
+            "path": "webp/putto-holding-strap-end-147.webp",
+            "sha256": "6012807d9c0667967347d793db818fc7ca13d219d6a1bdc3c03e4b524c84a29e",
+            "w": 147
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "putto",
+        "wings",
+        "finial",
+        "pendant",
+        "flower"
+      ],
+      "thumbhash": "5BiCBYA12AR7aVl1pvuL6Z+KB4d7h3JpaA==",
+      "title": "Winged putto holding a strap end",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The strap end with the animal head is part of the letter's frame and is kept so the raised hand holds something; crop it at the wrist if only the figure is needed."
+      ],
+      "view": "front",
+      "width": 147
+    },
+    "seated-man-pulling-looped-cord": {
+      "categories": [
+        "humans"
+      ],
+      "colors": [
+        "brown",
+        "tan",
+        "cream"
+      ],
+      "composition": "single-figure",
+      "description": "A nude man with a cloth draped over his shoulder and lap sits with his knees bent and his head thrown back, facing right, both arms raised to grip a thin cord that runs down past him; a small flower-shaped pendant hangs on the cord beside his hands, and a second cord with a small fruit cluster hangs below at the right. Engraved in brown line with the paper tone kept inside the figure, on a transparent background. On the letter B sheet he sits inside the lower bowl of the letter, which is excluded.",
+      "display_width": [
+        60,
+        120
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 4531,
+        "webpTopBytes": 5418
+      },
+      "facing": "right",
+      "group": null,
+      "height": 178,
+      "master": {
+        "bytes": 13924,
+        "h": 178,
+        "path": "masters/seated-man-pulling-looped-cord.webp",
+        "sha256": "b1025c19902e486e4ba6d270a923e12f26cf409316d849bedc08b4150c442713",
+        "w": 106
+      },
+      "palette": [
+        "#918875",
+        "#cfc5ab",
+        "#b4aa94",
+        "#5b5447",
+        "#746c5b"
+      ],
+      "provenance": {
+        "artist": "Bry, Johann Theodor de",
+        "date": "1595",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.mkg-hamburg.de/en/object/dc00101865/image-download/0",
+        "institution": "Museum für Kunst und Gewerbe Hamburg",
+        "method": "native-source-extraction",
+        "object_dimensions": "23,6 × 17,1 cm (sheet), 20,1 × 15 cm (plate)",
+        "object_identifier": "O1913.136",
+        "object_title": "Der Buchstabe B, Blatt aus der Folge \"Nova Alphati Effictio Historiis\"",
+        "record_url": "https://www.mkg-hamburg.de/en/object/dc00101865",
+        "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_sha256": "940798d28cbab372ff44c3b25d8e0fe4e9b6b86f816ef6190d2c12385ab60b43"
+      },
+      "quality": "Cut from a low-resolution scan; the hatching is soft and the outline of the raised arms is blurred.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3178,
+            "h": 107,
+            "path": "avif/seated-man-pulling-looped-cord-64.avif",
+            "sha256": "67d223cf6f167e3a7bc487c6f90b04834ad1bb4ba5353ac338bfb59bd5f803bc",
+            "w": 64
+          },
+          {
+            "bytes": 5156,
+            "h": 161,
+            "path": "avif/seated-man-pulling-looped-cord-96.avif",
+            "sha256": "ba349ac3de2ba6f6cbb98e314cea7be8694066aac3e3d03e04358c97d5232aa9",
+            "w": 96
+          },
+          {
+            "bytes": 4531,
+            "h": 178,
+            "path": "avif/seated-man-pulling-looped-cord-106.avif",
+            "sha256": "5d08eded20a4384084366fcbe735029ca55881f334ed43b378cce736a78c421f",
+            "w": 106
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4292,
+            "h": 107,
+            "path": "webp/seated-man-pulling-looped-cord-64.webp",
+            "sha256": "90742da74df5db14be14186e93fdb77ad86380d5257d1115076091d50f7481fa",
+            "w": 64
+          },
+          {
+            "bytes": 7290,
+            "h": 161,
+            "path": "webp/seated-man-pulling-looped-cord-96.webp",
+            "sha256": "4d0383851481c6fd66b2aa1210f998bce30c21be9f5fdbcdfe8575e26e9f8c30",
+            "w": 96
+          },
+          {
+            "bytes": 5418,
+            "h": 178,
+            "path": "webp/seated-man-pulling-looped-cord-106.webp",
+            "sha256": "cf78b1a514bcb09d8aef69896eee67b2bd564b2f6d6d4c20672008c7c072f737",
+            "w": 106
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "human",
+        "cord",
+        "pendant"
+      ],
+      "thumbhash": "5BiCAwAmvInpdgTajJ/t+Atke3lRWnY=",
+      "title": "Seated man pulling a cord",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The cord and the hanging ornaments at the right are part of the pose; crop them away only at the hands if the figure alone is needed."
+      ],
+      "view": "three-quarter",
+      "width": 106
+    },
+    "small-bird-flying-left": {
+      "categories": [
+        "animals"
+      ],
+      "colors": [
+        "brown",
+        "tan",
+        "gray"
+      ],
+      "composition": "single-figure",
+      "description": "A small bird in flight with both wings spread wide, the head turned to the left and the tail trailing to the lower right, engraved in brown tone on a transparent background. It flew beside the putto at the upper right of the letter B sheet.",
+      "display_width": [
+        40,
+        80
+      ],
+      "encoding": {
+        "avif": false,
+        "avifTopBytes": 1364,
+        "webpTopBytes": 1522
+      },
+      "facing": "left",
+      "group": null,
+      "height": 32,
+      "master": {
+        "bytes": 2228,
+        "h": 32,
+        "path": "masters/small-bird-flying-left.webp",
+        "sha256": "c6cefbbaab1cd71ada9d71c15cd686c87ef138181436953928d4081604cc03c2",
+        "w": 71
+      },
+      "palette": [
+        "#685f4e",
+        "#7f7461",
+        "#4d4739",
+        "#bbad94",
+        "#978a74"
+      ],
+      "provenance": {
+        "artist": "Bry, Johann Theodor de",
+        "date": "1595",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.mkg-hamburg.de/en/object/dc00101865/image-download/0",
+        "institution": "Museum für Kunst und Gewerbe Hamburg",
+        "method": "ai-assisted-extraction",
+        "object_dimensions": "23,6 × 17,1 cm (sheet), 20,1 × 15 cm (plate)",
+        "object_identifier": "O1913.136",
+        "object_title": "Der Buchstabe B, Blatt aus der Folge \"Nova Alphati Effictio Historiis\"",
+        "record_url": "https://www.mkg-hamburg.de/en/object/dc00101865",
+        "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_sha256": "940798d28cbab372ff44c3b25d8e0fe4e9b6b86f816ef6190d2c12385ab60b43"
+      },
+      "quality": "Cut from a low-resolution scan; the feathering is soft and the wing tips fade into the transparent ground.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "webp": [
+          {
+            "bytes": 1456,
+            "h": 29,
+            "path": "webp/small-bird-flying-left-64.webp",
+            "sha256": "903a710ec73a1c4bd880dfc1aa8c5d393689cdadb5ac87ba2fef147826529d3a",
+            "w": 64
+          },
+          {
+            "bytes": 1522,
+            "h": 32,
+            "path": "webp/small-bird-flying-left-71.webp",
+            "sha256": "9026fbd010f4748e48cdcd4830fe1a124f78c7b24e855a5565323ef2063038ed",
+            "w": 71
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "bird",
+        "wings"
+      ],
+      "thumbhash": "mhiCAoAkS+CJdlYvjPnFuAh4e4dxTHc=",
+      "title": "Small bird flying left",
+      "transparent": true,
+      "type": "illustration",
+      "width": 71
+    },
+    "sunburst-rays-with-open-center": {
+      "categories": [
+        "geometric"
+      ],
+      "colors": [
+        "gray",
+        "cream"
+      ],
+      "composition": "single-ornament",
+      "description": "An oval ring of short radiating rays, faint gray on a transparent background, with the centre left empty. On the letter B sheet the glory surrounds the Hebrew Tetragrammaton at the upper right; the lettering is excluded here so the centre is open.",
+      "display_width": [
+        60,
+        110
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 1884,
+        "webpTopBytes": 3786
+      },
+      "facing": "none",
+      "group": null,
+      "height": 80,
+      "master": {
+        "bytes": 3870,
+        "h": 80,
+        "path": "masters/sunburst-rays-with-open-center.webp",
+        "sha256": "48267d0e55986f0de792bf732a47f5296605525e25380e8c89abaef778ea5942",
+        "w": 105
+      },
+      "palette": [
+        "#5d553d",
+        "#5a553d",
+        "#5c553d"
+      ],
+      "provenance": {
+        "artist": "Bry, Johann Theodor de",
+        "date": "1595",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.mkg-hamburg.de/en/object/dc00101865/image-download/0",
+        "institution": "Museum für Kunst und Gewerbe Hamburg",
+        "method": "native-ink-extraction",
+        "object_dimensions": "23,6 × 17,1 cm (sheet), 20,1 × 15 cm (plate)",
+        "object_identifier": "O1913.136",
+        "object_title": "Der Buchstabe B, Blatt aus der Folge \"Nova Alphati Effictio Historiis\"",
+        "record_url": "https://www.mkg-hamburg.de/en/object/dc00101865",
+        "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_sha256": "940798d28cbab372ff44c3b25d8e0fe4e9b6b86f816ef6190d2c12385ab60b43"
+      },
+      "quality": "The rays are faint in the source and no pixel of the master is fully opaque, so the ornament is pale and low in contrast.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1510,
+            "h": 49,
+            "path": "avif/sunburst-rays-with-open-center-64.avif",
+            "sha256": "ade16657afc54c476515bdfce73f3ff53e83363595ce835176167a6755645aa2",
+            "w": 64
+          },
+          {
+            "bytes": 2896,
+            "h": 73,
+            "path": "avif/sunburst-rays-with-open-center-96.avif",
+            "sha256": "970e57b0d018e9a132f29be5f404318c61091de2e32658470f2825223500bc9e",
+            "w": 96
+          },
+          {
+            "bytes": 1884,
+            "h": 80,
+            "path": "avif/sunburst-rays-with-open-center-105.avif",
+            "sha256": "e753e489f9bfb0c164e11945c376cefc9a72271a27f4459838954c829964f94c",
+            "w": 105
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2696,
+            "h": 49,
+            "path": "webp/sunburst-rays-with-open-center-64.webp",
+            "sha256": "d9df19699f4f34eb25ac3f07fdb00412563d8524edfdb5d63a906ced3c92ff54",
+            "w": 64
+          },
+          {
+            "bytes": 5056,
+            "h": 73,
+            "path": "webp/sunburst-rays-with-open-center-96.webp",
+            "sha256": "22c794fde7a51fc2ad1663d1cefdeb6483d2e9bc49d2ecaf015bb03f8032be67",
+            "w": 96
+          },
+          {
+            "bytes": 3786,
+            "h": 80,
+            "path": "webp/sunburst-rays-with-open-center-105.webp",
+            "sha256": "65f80e1a5c3d8722a5e3662d1d92480bbb955eb1a115981be6484e5955458d8a",
+            "w": 105
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "sunburst",
+        "ray"
+      ],
+      "thumbhash": "0xiCBIABbyl5hlLbOgqqDF23hHGIODeMAA==",
+      "title": "Oval sunburst with open centre",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "The open centre held a short word on the sheet; it takes a monogram or a few letters in a dark face.",
+        "The ink is very light; it only reads on a pale background."
+      ],
+      "width": 105
+    },
+    "urn-with-tall-curling-plume": {
+      "categories": [
+        "scrollwork"
+      ],
+      "colors": [
+        "brown",
+        "tan",
+        "cream"
+      ],
+      "composition": "single-ornament",
+      "description": "A plain cylindrical urn on a round pedestal, seen from the front, with a tall column of billowing smoke rising from the flames at its mouth and curling into rounded clouds that lean to the upper left. Engraved in brown line on a transparent background; the foot of the pedestal is cut flat where it met the letter's strapwork on the letter B sheet.",
+      "display_width": [
+        30,
+        60
+      ],
+      "encoding": {
+        "avif": false,
+        "avifTopBytes": 2138,
+        "webpTopBytes": 2394
+      },
+      "facing": "none",
+      "group": null,
+      "height": 126,
+      "master": {
+        "bytes": 6228,
+        "h": 126,
+        "path": "masters/urn-with-tall-curling-plume.webp",
+        "sha256": "084ddc543f5fdc871128fdf8de821d22105d258e53e664296ccd4aee38983d74",
+        "w": 60
+      },
+      "palette": [
+        "#9c947f",
+        "#b3a992",
+        "#c7bca5",
+        "#686150",
+        "#857d6a"
+      ],
+      "provenance": {
+        "artist": "Bry, Johann Theodor de",
+        "date": "1595",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.mkg-hamburg.de/en/object/dc00101865/image-download/0",
+        "institution": "Museum für Kunst und Gewerbe Hamburg",
+        "method": "native-source-extraction",
+        "object_dimensions": "23,6 × 17,1 cm (sheet), 20,1 × 15 cm (plate)",
+        "object_identifier": "O1913.136",
+        "object_title": "Der Buchstabe B, Blatt aus der Folge \"Nova Alphati Effictio Historiis\"",
+        "record_url": "https://www.mkg-hamburg.de/en/object/dc00101865",
+        "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_sha256": "940798d28cbab372ff44c3b25d8e0fe4e9b6b86f816ef6190d2c12385ab60b43"
+      },
+      "quality": "Cut from a low-resolution scan; the smoke is soft and a fragment of the adjoining strapwork remains at the lower left of the foot.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "webp": [
+          {
+            "bytes": 2394,
+            "h": 126,
+            "path": "webp/urn-with-tall-curling-plume-60.webp",
+            "sha256": "5e59917fa2af881562b4a22fbaca24f865b20f508d0e2eefd3d3f142920fc66f",
+            "w": 60
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "urn",
+        "smoke",
+        "plume"
+      ],
+      "thumbhash": "5RiCAgA3v4x3d5fPfOb+iQuGiHh2aVY=",
+      "title": "Smoking urn on a pedestal",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "The pedestal is cut flat at the bottom; stand it on a rule or a baseline so the cut is hidden."
+      ],
+      "view": "front",
+      "width": 60
+    }
+  },
+  "attribution": "Museum für Kunst und Gewerbe Hamburg O1913.136",
+  "builtAt": "2026-10-28T16:15:19.722Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-mkg-de-bry-alphabet@1.0.0/",
+  "contentHash": "sha256:2d4225656119484400f121ad8e4eb89329329ff4c419bbd11308fed064559fea",
+  "inputsHash": "sha256:5532aa873627deb8dd3f6b8d6313c2cd8ccf568f6f686df03d5139b2a6987bdf",
+  "kind": "historical",
+  "license": {
+    "artwork": "LicenseRef-PDM",
+    "notes": "The Hamburg object images carry the Public Domain Mark; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-mkg-de-bry-alphabet-masters",
+  "package": "@ranx729/ducktape-assets-mkg-de-bry-alphabet",
+  "period": "1595",
+  "region": "Frankfurt am Main, Germany",
+  "schema": 1,
+  "set": "mkg-de-bry-alphabet",
+  "style": "Mannerist engraving",
+  "summary": "Figures and ornaments cut from the sheet of the letter B in Johann Theodor de Bry's engraved alphabet series \"Nova Alphati Effictio Historiis ad singulas literas correspondentibus illustrata\" (Frankfurt, 1595), held by the Museum für Kunst und Gewerbe Hamburg.",
+  "title": "De Bry, Nova Alphati Effictio (1595)",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

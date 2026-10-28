@@ -1,0 +1,645 @@
+{
+  "assets": {
+    "animal-frieze": {
+      "attribution": "Museum für Kunst und Gewerbe Hamburg O1911.604",
+      "categories": [
+        "animals",
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "brown",
+        "black",
+        "cream"
+      ],
+      "composition": "multiple-figures",
+      "description": "A low engraved frieze of five small animals in a vine of curling stems, lobed leaves and a bunch of grapes. Left to right, a crouching hare faces right, a fox-like animal runs right head down, a curled animal with a bushy striped tail sits in the middle head tucked under, a boar-like animal runs left, and a slender long-tailed animal runs right looking back. Sepia-brown line work with cream hatching on a transparent background; the vine closes in loose scrolls at both ends, so the strip is complete and does not repeat.",
+      "display_width": [
+        320,
+        480
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 21868,
+        "webpTopBytes": 33530
+      },
+      "facing": "mixed",
+      "group": "o1911-604",
+      "height": 82,
+      "master": {
+        "bytes": 61086,
+        "h": 82,
+        "path": "masters/animal-frieze.webp",
+        "sha256": "ca64aab80f4eaaeb676d41940c7c398795ece88f1b48a4ae845ede24a36e2511",
+        "w": 477
+      },
+      "palette": [
+        "#796e5c",
+        "#928674",
+        "#655b4b",
+        "#aa9d89",
+        "#c1b49f"
+      ],
+      "provenance": {
+        "artist": "Solis, Virgil",
+        "date": "1557",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.mkg-hamburg.de/object/dc00101811/image-download/0",
+        "institution": "Museum für Kunst und Gewerbe Hamburg",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "O1911.604",
+        "object_title": "Tierfries, Blatt aus der Folge \"Mancherlei Conterfectisches von Thierlein etc.\"",
+        "record_url": "https://www.mkg-hamburg.de/sammlung/objekt/tierfries-blatt-folge-mancherlei-conterfectisches-thierlein-etc/O1911.604",
+        "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_sha256": "3d287d987d65cf70dd26db438ff7712463d1e2ad949676a9029443b1a93dc3e7"
+      },
+      "quality": "Small master from a low-resolution museum image; the line work softens when displayed wider than its natural size, and the hatched interiors are partly transparent so the page colour shows through them.",
+      "related": [
+        {
+          "asset": "solis-prints/bird-frieze",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1159,
+            "h": 11,
+            "path": "avif/animal-frieze-64.avif",
+            "sha256": "9011ecf156faaef50d5212db426d994486d8853276c93902193cedb784461655",
+            "w": 64
+          },
+          {
+            "bytes": 2139,
+            "h": 17,
+            "path": "avif/animal-frieze-96.avif",
+            "sha256": "6307225f7ebfd6f1ef3660fa7c275260e91a8ee560ab9a0bd8479386acab3f6f",
+            "w": 96
+          },
+          {
+            "bytes": 3028,
+            "h": 22,
+            "path": "avif/animal-frieze-128.avif",
+            "sha256": "493696374eec319db320aebb0e5db3a281975e99b72acf48f509c2c802370018",
+            "w": 128
+          },
+          {
+            "bytes": 5277,
+            "h": 33,
+            "path": "avif/animal-frieze-192.avif",
+            "sha256": "fd855577b191f2352cc0a98634749400be7ffa8b107bd9f6e26ad5cf73e23b45",
+            "w": 192
+          },
+          {
+            "bytes": 8350,
+            "h": 44,
+            "path": "avif/animal-frieze-256.avif",
+            "sha256": "e47bb91d5f1d44043f7d754fe0ac557ffec946ccca7608bd09af4bbace9fd0f2",
+            "w": 256
+          },
+          {
+            "bytes": 14844,
+            "h": 66,
+            "path": "avif/animal-frieze-384.avif",
+            "sha256": "06ef269fc5bc4fe8206dc0c08e64c307cdf0dc373b9570dcf9adc06d2601d27b",
+            "w": 384
+          },
+          {
+            "bytes": 21868,
+            "h": 82,
+            "path": "avif/animal-frieze-477.avif",
+            "sha256": "8ddf103f20afeb7ae1b3c610663a8bbf4d32fef0224788f7147f27b35591bf82",
+            "w": 477
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1258,
+            "h": 11,
+            "path": "webp/animal-frieze-64.webp",
+            "sha256": "8322294983322ed6a287f53bae6c353147ba457d7a1bfef95b038ff1d8605260",
+            "w": 64
+          },
+          {
+            "bytes": 2600,
+            "h": 17,
+            "path": "webp/animal-frieze-96.webp",
+            "sha256": "528284dea8212273d9f1d1536ed87935f80cc06460f157a9c54a19506924554a",
+            "w": 96
+          },
+          {
+            "bytes": 4244,
+            "h": 22,
+            "path": "webp/animal-frieze-128.webp",
+            "sha256": "353cbe323f19f636bd472169ef05b261a1958ab5d500726b6b234c680b24a297",
+            "w": 128
+          },
+          {
+            "bytes": 7288,
+            "h": 33,
+            "path": "webp/animal-frieze-192.webp",
+            "sha256": "165a8e4d841286fafd69090677ae2ae5ede43175de1d491e9eb4d52c9a4b968c",
+            "w": 192
+          },
+          {
+            "bytes": 12196,
+            "h": 44,
+            "path": "webp/animal-frieze-256.webp",
+            "sha256": "f6592fe69661250408b98323e728ab918a215758a107c685813b880507ed47df",
+            "w": 256
+          },
+          {
+            "bytes": 23782,
+            "h": 66,
+            "path": "webp/animal-frieze-384.webp",
+            "sha256": "c1cf8c462132c21e32bdce3cbc711f400c6397f7e18cbe3092656d859a4d397a",
+            "w": 384
+          },
+          {
+            "bytes": 33530,
+            "h": 82,
+            "path": "webp/animal-frieze-477.webp",
+            "sha256": "ae1246320fdf32288b57c97d530f286a2fc7cf1f8c12431ab72c46b6361ba6f6",
+            "w": 477
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "hare",
+        "fox",
+        "creature",
+        "vine",
+        "leaf",
+        "berry",
+        "scroll",
+        "frieze"
+      ],
+      "thumbhash": "nhiGAYA3l4qJaIDCnADdCWh4eHhwiFg=",
+      "title": "Five animals in a vine frieze",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Complete finite strip from one plate; both ends close in scrolls, so place it whole as a headpiece or footer band rather than repeating it.",
+        "Companion of the bird frieze from the same 1557 series, cut to nearly the same length; the two stack as a matched pair of bands."
+      ],
+      "view": "side",
+      "width": 477
+    },
+    "arabesque-cartouche": {
+      "attribution": "Metropolitan Museum of Art 33.70.39",
+      "categories": [
+        "scrollwork",
+        "knotwork"
+      ],
+      "colors": [
+        "black",
+        "brown",
+        "gray"
+      ],
+      "composition": "single-ornament",
+      "description": "A wide symmetrical cartouche printed as a near-black brownish ground with the ornament left in reserve, so the arabesque reads as light lines and leaves cut out of the dark field. The outline is scalloped, with pointed ogee finials at top and bottom centre, two knotted interlace loops over the top finial, scrolled lobes at the four corners and squared bracket terminals at left and right. A band of running scrolls frames an inner field of interlaced strapwork and dense leaf scrolls around a central lozenge. Only the dark ink is opaque; the ornament itself is transparent.",
+      "display_width": [
+        400,
+        1000
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 726780,
+        "webpTopBytes": 1510894
+      },
+      "facing": "none",
+      "group": "33-70-39",
+      "height": 1754,
+      "license": "CC0-1.0",
+      "master": {
+        "bytes": 1917080,
+        "h": 1431,
+        "path": "masters/arabesque-cartouche.webp",
+        "sha256": "18c4d14af23cd1fe85caa77349c3908572204f2b65f3846f67a3cb0f351c06e8",
+        "w": 2048
+      },
+      "palette": [
+        "#38352d",
+        "#37342d",
+        "#37342c",
+        "#37352c"
+      ],
+      "provenance": {
+        "artist": "Virgil Solis",
+        "date": "1534–1562",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP854199.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "33.70.39",
+        "object_title": "Arabesque Design on Dark Ground",
+        "record_url": "https://www.metmuseum.org/art/collection/search/696807",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "9766c1175b0eed8f2a3c5a67f793ac76c2e1a03ef874ebb70c75d35a8c9b3947"
+      },
+      "quality": "The dark ground is not fully opaque, so a light page tints it slightly; fine plate scratches and printing grain are kept in the ink.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1727,
+            "h": 45,
+            "path": "avif/arabesque-cartouche-64.avif",
+            "sha256": "d2e08f642966156176504935434f220c2d0b704c02c659b911ce38d4e5fbedb4",
+            "w": 64
+          },
+          {
+            "bytes": 3412,
+            "h": 67,
+            "path": "avif/arabesque-cartouche-96.avif",
+            "sha256": "02a27d3211ac18eae66a0ce20b103c8d0154087673ee5be6710eaeaee877c459",
+            "w": 96
+          },
+          {
+            "bytes": 5866,
+            "h": 89,
+            "path": "avif/arabesque-cartouche-128.avif",
+            "sha256": "133208ef5ef5a9ff16238928d0a72819ddb55ce9fc4bd658dd2cad2932895ca4",
+            "w": 128
+          },
+          {
+            "bytes": 12405,
+            "h": 134,
+            "path": "avif/arabesque-cartouche-192.avif",
+            "sha256": "f8994ea880d234c8cbb0e032403e466ed0917484c8e8319a969d755748dda567",
+            "w": 192
+          },
+          {
+            "bytes": 21245,
+            "h": 179,
+            "path": "avif/arabesque-cartouche-256.avif",
+            "sha256": "a079cb0543da81f6eea3c4f80ce9a6bb07941ac3ae036e7673df809b560657f6",
+            "w": 256
+          },
+          {
+            "bytes": 42260,
+            "h": 268,
+            "path": "avif/arabesque-cartouche-384.avif",
+            "sha256": "968305feecaf5be3c7b73687458643e0087791ed72a3e1402e47daa20cef5a19",
+            "w": 384
+          },
+          {
+            "bytes": 71642,
+            "h": 358,
+            "path": "avif/arabesque-cartouche-512.avif",
+            "sha256": "7124319a92a294508671eb020b69b7bc3c968dfa60d1dad615f0a34512430087",
+            "w": 512
+          },
+          {
+            "bytes": 137379,
+            "h": 537,
+            "path": "avif/arabesque-cartouche-768.avif",
+            "sha256": "e976639f3d5f017da3a7eb2b91315ad1168cfde4bf1410c5189a8087e9d9455e",
+            "w": 768
+          },
+          {
+            "bytes": 220574,
+            "h": 716,
+            "path": "avif/arabesque-cartouche-1024.avif",
+            "sha256": "581f2b46001d1c6e89e3b8eb4e038a3c7c7d6f3e2b02d9252d1ae088a95b9e71",
+            "w": 1024
+          },
+          {
+            "bytes": 439051,
+            "h": 1073,
+            "path": "avif/arabesque-cartouche-1536.avif",
+            "sha256": "9066789ed4657434ab8effee6e81b433d229f3a9f9cfa4a56e2f6bcd8d8e5f1f",
+            "w": 1536
+          },
+          {
+            "bytes": 726780,
+            "h": 1431,
+            "path": "avif/arabesque-cartouche-2048.avif",
+            "sha256": "1935fb584cba1933fd2e717cd613d897d10ca77a509fef8cdb455b05dd4dc3ce",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3074,
+            "h": 45,
+            "path": "webp/arabesque-cartouche-64.webp",
+            "sha256": "3447aa8e61c77791aaa45a34a49feacd11944b34c9f6d403ee628d03dd0e7182",
+            "w": 64
+          },
+          {
+            "bytes": 5614,
+            "h": 67,
+            "path": "webp/arabesque-cartouche-96.webp",
+            "sha256": "cc601e11814d712216f44bdf76268ab78a24efc952c7cfdf20bee4d61f1fc682",
+            "w": 96
+          },
+          {
+            "bytes": 9570,
+            "h": 89,
+            "path": "webp/arabesque-cartouche-128.webp",
+            "sha256": "21d1b138d33c69bba673fc3ffd4888ceff2e5da6f14eb2f9df65d0cbbd15b85c",
+            "w": 128
+          },
+          {
+            "bytes": 20912,
+            "h": 134,
+            "path": "webp/arabesque-cartouche-192.webp",
+            "sha256": "e17c905b66a44a8a3d4694ed8c3a83e2a6193252941f2f4f68bba17e913526f6",
+            "w": 192
+          },
+          {
+            "bytes": 36454,
+            "h": 179,
+            "path": "webp/arabesque-cartouche-256.webp",
+            "sha256": "71126cf620abbdea2437f560cca1bcafae7e2265593ab55a91939ca719afef0b",
+            "w": 256
+          },
+          {
+            "bytes": 75590,
+            "h": 268,
+            "path": "webp/arabesque-cartouche-384.webp",
+            "sha256": "0a26f4304dfa95c322f544f6d59b33efd09b7fe9f180ebd2a6e71a81b865dbab",
+            "w": 384
+          },
+          {
+            "bytes": 129402,
+            "h": 358,
+            "path": "webp/arabesque-cartouche-512.webp",
+            "sha256": "69ba7a732048ebcd8b79569a30afb5128e98b8eafe8c491b373d40d0b0cb1f33",
+            "w": 512
+          },
+          {
+            "bytes": 264252,
+            "h": 537,
+            "path": "webp/arabesque-cartouche-768.webp",
+            "sha256": "4131fb9c1764bc4798b892e33be237171d42d95333cf114a3a06304e06b5e67b",
+            "w": 768
+          },
+          {
+            "bytes": 441186,
+            "h": 716,
+            "path": "webp/arabesque-cartouche-1024.webp",
+            "sha256": "da56ea59254f2c9670d3fbe8e09197c493ef2a037ea8efec47553dd983d226bc",
+            "w": 1024
+          },
+          {
+            "bytes": 902468,
+            "h": 1073,
+            "path": "webp/arabesque-cartouche-1536.webp",
+            "sha256": "b81f2f092cb89d6d2dcbbdd5028efe3c08f0844baa6bfec32046f1e41a89e10e",
+            "w": 1536
+          },
+          {
+            "bytes": 1510894,
+            "h": 1431,
+            "path": "webp/arabesque-cartouche-2048.webp",
+            "sha256": "09d17514fd81f96456b1ecc91f72d4180f68d5cf0dc5b95fb8f1dfe1cd6e535f",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "arabesque",
+        "cartouche",
+        "scroll",
+        "leaf",
+        "finial"
+      ],
+      "thumbhash": "TQiCBIAlKHd4dnBsZ5wH+3ZscpeHB5h3BQ==",
+      "title": "Arabesque cartouche on dark ground",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "The ornament is the transparent part, so it only reads on a light background; on a dark page the whole piece disappears into a silhouette.",
+        "Complete finite cartouche; it works as a label, title plaque or medallion, not as a repeat or frame."
+      ],
+      "width": 2510
+    },
+    "bird-frieze": {
+      "attribution": "Museum für Kunst und Gewerbe Hamburg O1911.605",
+      "categories": [
+        "animals",
+        "botanical",
+        "floral"
+      ],
+      "colors": [
+        "brown",
+        "black",
+        "cream"
+      ],
+      "composition": "multiple-figures",
+      "description": "An engraved frieze crowded with birds on a thin ground of grass tufts and small flowers, with leafy branches rising between them. Left to right, a small lizard climbs a stem at the far left, a peacock fans its tail, a second peacock walks right trailing its tail, a crested bird perches, a long-necked waterfowl rears with raised wings, birds hover and hang from branches, a crested hook-beaked bird of prey spreads its wings facing left, and several parrots perch among flowers at the right end. Sepia-brown line work with cream hatching on a transparent background; complete, it does not repeat.",
+      "display_width": [
+        320,
+        480
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 28598,
+        "webpTopBytes": 45826
+      },
+      "facing": "mixed",
+      "group": "o1911-605",
+      "height": 113,
+      "master": {
+        "bytes": 84132,
+        "h": 113,
+        "path": "masters/bird-frieze.webp",
+        "sha256": "22227e4b33e9cff3595ea97c20a00e1764bb5daee97c7b8b16167d9d037fd0e8",
+        "w": 475
+      },
+      "palette": [
+        "#7b7363",
+        "#665f51",
+        "#8d8472",
+        "#9b917e",
+        "#aca08c"
+      ],
+      "provenance": {
+        "artist": "Solis, Virgil",
+        "date": "1557",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.mkg-hamburg.de/object/dc00101812/image-download/0",
+        "institution": "Museum für Kunst und Gewerbe Hamburg",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "O1911.605",
+        "object_title": "Vogelfries, Blatt aus der Folge \"Mancherlei Conterfectisches von Thierlein etc.\"",
+        "record_url": "https://www.mkg-hamburg.de/sammlung/objekt/vogelfries-blatt-folge-mancherlei-conterfectisches-thierlein-etc/O1911.605",
+        "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_sha256": "117f2d137390221c6a126b8cfcca955e8f4ae2084db2917d6d88355f49f871cb"
+      },
+      "quality": "Small master from a low-resolution museum image; the line work softens when displayed wider than its natural size, and the hatched interiors are partly transparent so the page colour shows through them.",
+      "related": [
+        {
+          "asset": "solis-prints/animal-frieze",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1387,
+            "h": 15,
+            "path": "avif/bird-frieze-64.avif",
+            "sha256": "e5cbff3725db45777040f073cbe592a00d8438a6548214048d17cde1d3abe03d",
+            "w": 64
+          },
+          {
+            "bytes": 2605,
+            "h": 23,
+            "path": "avif/bird-frieze-96.avif",
+            "sha256": "b845c4c6f9092fbb9aac10f52a0c14a714049a364e5d0150102ee26b1c42667f",
+            "w": 96
+          },
+          {
+            "bytes": 4030,
+            "h": 30,
+            "path": "avif/bird-frieze-128.avif",
+            "sha256": "9bc0ff84c04f6e142d616394a8fff6e79a262cac5af3a6cbbcef873542c32f5b",
+            "w": 128
+          },
+          {
+            "bytes": 7238,
+            "h": 46,
+            "path": "avif/bird-frieze-192.avif",
+            "sha256": "770613d832d7a9c64d2dd39604df6987147a1d565c029755c93dd3a402d12db5",
+            "w": 192
+          },
+          {
+            "bytes": 11237,
+            "h": 61,
+            "path": "avif/bird-frieze-256.avif",
+            "sha256": "1f80342573b0aace45d0a572ad4dc268ca7219b574b5f4147f9b3e7e60a05aa1",
+            "w": 256
+          },
+          {
+            "bytes": 21325,
+            "h": 91,
+            "path": "avif/bird-frieze-384.avif",
+            "sha256": "bf23c5474516d0cbc56c1908d8febb5c3ec86bd55769b13f497e82f2a73b9f50",
+            "w": 384
+          },
+          {
+            "bytes": 28598,
+            "h": 113,
+            "path": "avif/bird-frieze-475.avif",
+            "sha256": "5178a6c0b4823f3d63fdd6b96cc7535b5a3e2c2edc5a84aff10fdb561003bf59",
+            "w": 475
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1560,
+            "h": 15,
+            "path": "webp/bird-frieze-64.webp",
+            "sha256": "316f52dd9a9d322de2d825f445f4050128b9ca99eaa5910007cfc21a8f6506b3",
+            "w": 64
+          },
+          {
+            "bytes": 3476,
+            "h": 23,
+            "path": "webp/bird-frieze-96.webp",
+            "sha256": "5d585d4d3c198307a12759f03650c1bec8a95315188fbe5c52f6280b12a88e60",
+            "w": 96
+          },
+          {
+            "bytes": 5378,
+            "h": 30,
+            "path": "webp/bird-frieze-128.webp",
+            "sha256": "55d44f3c383a5cb3981e8aff7dd564607184693aa555e0f5f02b77a79c422890",
+            "w": 128
+          },
+          {
+            "bytes": 10470,
+            "h": 46,
+            "path": "webp/bird-frieze-192.webp",
+            "sha256": "63b38c88219062f371f1833621ee4e918f56c8eb318db2aa87ba82d6de7b1e78",
+            "w": 192
+          },
+          {
+            "bytes": 16992,
+            "h": 61,
+            "path": "webp/bird-frieze-256.webp",
+            "sha256": "cd027afb4b8f6290bbcb6a89a250d7826ccbb92c43c3c852a358e61ca0641fc2",
+            "w": 256
+          },
+          {
+            "bytes": 33474,
+            "h": 91,
+            "path": "webp/bird-frieze-384.webp",
+            "sha256": "feb1de6f18bb412cb2a3ba662bbbcd53edf95a7cbf9a3decaecc683f260bea0a",
+            "w": 384
+          },
+          {
+            "bytes": 45826,
+            "h": 113,
+            "path": "webp/bird-frieze-475.webp",
+            "sha256": "a1d93721f9d17fc0311db168e1946ae1d93a09df2fc824ba3578374072964fe9",
+            "w": 475
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "bird",
+        "peacock",
+        "parrot",
+        "lizard",
+        "flower",
+        "grass",
+        "leaf",
+        "frieze"
+      ],
+      "thumbhash": "nRiCAYAnv3qMeFK/nPfLaWl3eIhwdzc=",
+      "title": "Birds and parrots on a flowering frieze",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Complete finite strip from one plate; the ends are open silhouettes, not a continuous pattern, so place it whole as a headpiece or footer band rather than repeating it.",
+        "Companion of the animal frieze from the same 1557 series, cut to nearly the same length; the two stack as a matched pair of bands."
+      ],
+      "view": "side",
+      "width": 475
+    }
+  },
+  "attribution": "Metropolitan Museum of Art, Museum für Kunst und Gewerbe Hamburg",
+  "builtAt": "2026-10-28T16:17:35.181Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-solis-prints@1.0.0/",
+  "contentHash": "sha256:642a2b68378cc5fe1c728a76af97006ab922a404404a6d0e23ec13e7fe2d5508",
+  "inputsHash": "sha256:43102f8045676961380d8c85529912e8d01cd1f558b482c6c2216714e35b48e4",
+  "kind": "historical",
+  "license": {
+    "artwork": "LicenseRef-PDM",
+    "notes": "The Hamburg sheets carry the Public Domain Mark; the Metropolitan Museum sheet is CC0 and says so on the asset. See SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-solis-prints-masters",
+  "package": "@ranx729/ducktape-assets-solis-prints",
+  "period": "1534–1562",
+  "region": "Nuremberg, Germany",
+  "schema": 1,
+  "set": "solis-prints",
+  "style": "Renaissance engraving and etching",
+  "summary": "An animal frieze and a bird frieze from Virgil Solis's 1557 series \"Mancherlei Conterfectisches von Thierlein\" in the Museum für Kunst und Gewerbe Hamburg, and an arabesque cartouche on dark ground in the Metropolitan Museum of Art; loose prints by one Nuremberg artist, grouped by sheet.",
+  "title": "Virgil Solis ornament prints",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,1313 @@
+{
+  "assets": {
+    "curling-leaf-ornament": {
+      "attribution": "National Gallery of Art, Washington 1943.3.92",
+      "categories": [
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "cream",
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall foliate ornament of broad lobed leaves that curl into two spirals, one at the top left and one at the top right, with smaller curled leaves sprouting between them; a long thin stem sweeps down from the foliage to the lower right and a short forked twig branches off it toward the lower left. Engraved in dark brown-black line with hatched shading, the leaf and stem interiors filled with the cream paper tone, on a transparent background.",
+      "display_width": [
+        200,
+        500
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 158324,
+        "webpTopBytes": 326108
+      },
+      "facing": "none",
+      "group": "1943-3-92",
+      "height": 1539,
+      "master": {
+        "bytes": 1042344,
+        "h": 1539,
+        "path": "masters/curling-leaf-ornament.webp",
+        "sha256": "308be069120cae7ef6615345573aceff6cff120696389cddf195137b8ac846ef",
+        "w": 982
+      },
+      "palette": [
+        "#514f49",
+        "#726d64",
+        "#90897e",
+        "#b0a799",
+        "#d0c4b6"
+      ],
+      "provenance": {
+        "artist": "Martin Schongauer",
+        "date": "c. 1480/1490",
+        "image_url": "https://api.nga.gov/iiif/ae603a15-6b28-4fac-ad99-e15c290787ee/full/full/0/default.jpg",
+        "institution": "National Gallery of Art, Washington",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1943.3.92",
+        "object_title": "Leaf Ornament",
+        "record_url": "https://www.nga.gov/collection/art-object-page.3304.html",
+        "rights_text": "Open Access / public domain; official image dataset openaccess=1",
+        "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+        "source_sha256": "1e8e2cd8ca16f62349117a9dab3bcefc5042ad7d631d9ce85d931b13c7fd7e94"
+      },
+      "quality": "Leaf interiors are the cream paper tone at alpha 250–253 rather than 255, invisible in use.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3647,
+            "h": 100,
+            "path": "avif/curling-leaf-ornament-64.avif",
+            "sha256": "e60d423d48714a203f862c4cc4c3fa9d138fb00fc0f7fb220cac2ef6e4b1349e",
+            "w": 64
+          },
+          {
+            "bytes": 5924,
+            "h": 150,
+            "path": "avif/curling-leaf-ornament-96.avif",
+            "sha256": "96b0b302e8fbc4341d12e5757c75e403ab9ed9a0f0a2cdf6705fa11454e71807",
+            "w": 96
+          },
+          {
+            "bytes": 8533,
+            "h": 201,
+            "path": "avif/curling-leaf-ornament-128.avif",
+            "sha256": "98dd9ae84f094a7e517612704bd7b8182cafb376e58f2c18e9948b805b784d8a",
+            "w": 128
+          },
+          {
+            "bytes": 13921,
+            "h": 301,
+            "path": "avif/curling-leaf-ornament-192.avif",
+            "sha256": "fed5c2e1324649acffdb408a48ea771ae0779e02a7d3bc2bd220dd13ce1116f8",
+            "w": 192
+          },
+          {
+            "bytes": 21434,
+            "h": 401,
+            "path": "avif/curling-leaf-ornament-256.avif",
+            "sha256": "1352af7c31331f1a44c4d60599448fc1b8faaf5a08b03a0f8fabdf52039691cd",
+            "w": 256
+          },
+          {
+            "bytes": 40399,
+            "h": 602,
+            "path": "avif/curling-leaf-ornament-384.avif",
+            "sha256": "04b97aa5298edb3762a20e27f275db157e1734ba05af52a503158896958474c5",
+            "w": 384
+          },
+          {
+            "bytes": 62727,
+            "h": 802,
+            "path": "avif/curling-leaf-ornament-512.avif",
+            "sha256": "10ab0d5de2fa2ad04bc3f26355ff3061b1887a0a6c6df749931f6e9710190567",
+            "w": 512
+          },
+          {
+            "bytes": 114671,
+            "h": 1204,
+            "path": "avif/curling-leaf-ornament-768.avif",
+            "sha256": "c8be2b81aed4e136749272639cc63ce7fc1416ae23337550cff2c90f9ab09b52",
+            "w": 768
+          },
+          {
+            "bytes": 158324,
+            "h": 1539,
+            "path": "avif/curling-leaf-ornament-982.avif",
+            "sha256": "b52db324e63e14a3568db679edf551c13e01c0df371ff717bc842b5ed190f671",
+            "w": 982
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 5286,
+            "h": 100,
+            "path": "webp/curling-leaf-ornament-64.webp",
+            "sha256": "3cd8ebc33ae873752378257897ba40b71ac6cc35c865b55789406d08475c3a90",
+            "w": 64
+          },
+          {
+            "bytes": 9582,
+            "h": 150,
+            "path": "webp/curling-leaf-ornament-96.webp",
+            "sha256": "f8af1bba933146c9665db1a5d85ee3df90ef5b5c0c52f00571734c7f448d5100",
+            "w": 96
+          },
+          {
+            "bytes": 14200,
+            "h": 201,
+            "path": "webp/curling-leaf-ornament-128.webp",
+            "sha256": "2677349c1aab6b6eec8d3a7e0d1a67f1c62600988eaddf8b86be9b70400100b5",
+            "w": 128
+          },
+          {
+            "bytes": 24912,
+            "h": 301,
+            "path": "webp/curling-leaf-ornament-192.webp",
+            "sha256": "8e2f37263667997e47f53cbc5af080047116bc583e490af3ca3533c64272e17f",
+            "w": 192
+          },
+          {
+            "bytes": 38280,
+            "h": 401,
+            "path": "webp/curling-leaf-ornament-256.webp",
+            "sha256": "e1112fc5e1d69f324074186ed3d50c9e1edf83e2f66ba9e423e46ba1f8e2b013",
+            "w": 256
+          },
+          {
+            "bytes": 70936,
+            "h": 602,
+            "path": "webp/curling-leaf-ornament-384.webp",
+            "sha256": "ec39802b3a5873847b54e198301e253bb32d43bc72bf5ed921b5fb2d8765548b",
+            "w": 384
+          },
+          {
+            "bytes": 112596,
+            "h": 802,
+            "path": "webp/curling-leaf-ornament-512.webp",
+            "sha256": "7c229c49121ad0bddec5d81b1d224fc97809aa467980fc869d3d1f52139fd189",
+            "w": 512
+          },
+          {
+            "bytes": 225670,
+            "h": 1204,
+            "path": "webp/curling-leaf-ornament-768.webp",
+            "sha256": "e9216bd11ef6f4bed13f2638b89aadb71ac6a62e93683dc2c498e33409443d7c",
+            "w": 768
+          },
+          {
+            "bytes": 326108,
+            "h": 1539,
+            "path": "webp/curling-leaf-ornament-982.webp",
+            "sha256": "62f0d17da2692284ec6c11573e4a85313ab2869df6b90b3d0463553dca1a44ba",
+            "w": 982
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "leaf",
+        "scroll",
+        "flourish"
+      ],
+      "thumbhash": "XgiCAwAl4VEfNYn1YhQvZUlGf3ZmOEg=",
+      "title": "Curling leaf ornament on a long stem",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Tall piece (about 2:3); the bare stem at the bottom can be cropped away to keep only the leaf cluster."
+      ],
+      "width": 982
+    },
+    "curling-thistle-ornament": {
+      "attribution": "National Gallery of Art, Washington 1943.3.91",
+      "categories": [
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "cream",
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall thistle ornament in which a thick stem rises from a short rooted base at the bottom right, curves up and to the left, and breaks into spiky, deeply cut thistle leaves that spread in a loose crown across the top; smaller spiky leaf sprays grow from the stem at the right and at the lower left. Engraved in dark brown-black line with hatched shading, the leaf and stem interiors filled with the cream paper tone, on a transparent background.",
+      "display_width": [
+        200,
+        500
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 199229,
+        "webpTopBytes": 388224
+      },
+      "facing": "none",
+      "group": "1943-3-91",
+      "height": 1511,
+      "master": {
+        "bytes": 1148134,
+        "h": 1511,
+        "path": "masters/curling-thistle-ornament.webp",
+        "sha256": "ed9f1454e67192b3a92bb7a05566800e9a73e491a6cf6a0bf64df3b147ed3813",
+        "w": 1025
+      },
+      "palette": [
+        "#796d61",
+        "#60564d",
+        "#938778",
+        "#d4c6b3",
+        "#b1a392"
+      ],
+      "provenance": {
+        "artist": "Martin Schongauer",
+        "date": "1450–1491 (catalog year range)",
+        "image_url": "https://api.nga.gov/iiif/ef921c34-916e-42e4-97a0-933cf8e94350/full/full/0/default.jpg",
+        "institution": "National Gallery of Art, Washington",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1943.3.91",
+        "object_title": "Thistle Ornament",
+        "record_url": "https://www.nga.gov/collection/art-object-page.3303.html",
+        "rights_text": "Open Access / public domain; official image dataset openaccess=1",
+        "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+        "source_sha256": "9311b765f9b8a2b9897e141cfd698187b23ca21cc4bd8275a275ed04faf9827c"
+      },
+      "quality": "Leaf interiors are the cream paper tone at alpha 250–253 rather than 255, invisible in use.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4110,
+            "h": 94,
+            "path": "avif/curling-thistle-ornament-64.avif",
+            "sha256": "8af0907eb67264caa356904f9d6f3ad3c1acbb139ae7211ba1b43fa31dc444af",
+            "w": 64
+          },
+          {
+            "bytes": 6932,
+            "h": 142,
+            "path": "avif/curling-thistle-ornament-96.avif",
+            "sha256": "83f07aea34ad46eced48311bb7f2e1ee7ae99b40395fe2a9f221f191e857a95a",
+            "w": 96
+          },
+          {
+            "bytes": 9940,
+            "h": 189,
+            "path": "avif/curling-thistle-ornament-128.avif",
+            "sha256": "b7e2f9521faeb7b588e3faf40875011546ad8cbabaf203932b8b8b4791484359",
+            "w": 128
+          },
+          {
+            "bytes": 16937,
+            "h": 283,
+            "path": "avif/curling-thistle-ornament-192.avif",
+            "sha256": "be4828c6529b4e5d3d7dc46ad89716406b6df558e9669498fb7ef664a26d129a",
+            "w": 192
+          },
+          {
+            "bytes": 24408,
+            "h": 377,
+            "path": "avif/curling-thistle-ornament-256.avif",
+            "sha256": "6f5f43ffad1cb8e12e6d724b883949f8c410ea8830d5ebc55dbf3ecbc13800fc",
+            "w": 256
+          },
+          {
+            "bytes": 46453,
+            "h": 566,
+            "path": "avif/curling-thistle-ornament-384.avif",
+            "sha256": "3ebca1aec844dda40cde3d3a9600f8768c39ae246555d838a6a7c989f534f8cf",
+            "w": 384
+          },
+          {
+            "bytes": 72640,
+            "h": 755,
+            "path": "avif/curling-thistle-ornament-512.avif",
+            "sha256": "4c312dfdc9b4e602daddfbbea96c5febec690999f0d01e450e996f79b716812c",
+            "w": 512
+          },
+          {
+            "bytes": 135784,
+            "h": 1132,
+            "path": "avif/curling-thistle-ornament-768.avif",
+            "sha256": "29f46d5f2ca25822998b546a393aa1b0622bb6b59aa11ebe971ed22ee57e2199",
+            "w": 768
+          },
+          {
+            "bytes": 193555,
+            "h": 1510,
+            "path": "avif/curling-thistle-ornament-1024.avif",
+            "sha256": "c36fbe3305bb2bed51209a532edd1aef4b63672d322b441a170522641f9e83ed",
+            "w": 1024
+          },
+          {
+            "bytes": 199229,
+            "h": 1511,
+            "path": "avif/curling-thistle-ornament-1025.avif",
+            "sha256": "95a48507ef2fe67869c08c11adbc2fe7f99ef0e5167843bdc7dd9d01f6b06102",
+            "w": 1025
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 5470,
+            "h": 94,
+            "path": "webp/curling-thistle-ornament-64.webp",
+            "sha256": "adaa9a23febb9a435bf20132fdf5e33b71527c2ca45fff9c357cc4f8463c88f3",
+            "w": 64
+          },
+          {
+            "bytes": 10122,
+            "h": 142,
+            "path": "webp/curling-thistle-ornament-96.webp",
+            "sha256": "46b27fc809866975430f505af4e3fd0f2318033f9251796807b759f2307d6d2d",
+            "w": 96
+          },
+          {
+            "bytes": 15456,
+            "h": 189,
+            "path": "webp/curling-thistle-ornament-128.webp",
+            "sha256": "f1ddd713c85d5d87acbe584ed770f0e8f8ca8fccb3dc6b99b98f8b1b94520ceb",
+            "w": 128
+          },
+          {
+            "bytes": 27974,
+            "h": 283,
+            "path": "webp/curling-thistle-ornament-192.webp",
+            "sha256": "bec1db5ef0e29fef4c4861c2fd8d29ae4a8011ba9e44bb9dc6444960c1309359",
+            "w": 192
+          },
+          {
+            "bytes": 42652,
+            "h": 377,
+            "path": "webp/curling-thistle-ornament-256.webp",
+            "sha256": "8e73a83f8e8f16bdbdebb38abc0ee9234f078cbe2f2e55513c91e28f882f3b01",
+            "w": 256
+          },
+          {
+            "bytes": 78150,
+            "h": 566,
+            "path": "webp/curling-thistle-ornament-384.webp",
+            "sha256": "277e5c68f917799a41a2002aadae28a3f0b57eae577944fb55dcd6e6c530020f",
+            "w": 384
+          },
+          {
+            "bytes": 124628,
+            "h": 755,
+            "path": "webp/curling-thistle-ornament-512.webp",
+            "sha256": "c4549243b5eb04641626e7e77043bbc99b259fee765852b01d9ff95c884fee5a",
+            "w": 512
+          },
+          {
+            "bytes": 247156,
+            "h": 1132,
+            "path": "webp/curling-thistle-ornament-768.webp",
+            "sha256": "44321878d74ad5f28afe13901fa2b6412adfca1e01439a4ce9e16a690f17df63",
+            "w": 768
+          },
+          {
+            "bytes": 389346,
+            "h": 1510,
+            "path": "webp/curling-thistle-ornament-1024.webp",
+            "sha256": "f5d26b41a9097c135775be7a8b46491400ce0b2f92d7d73f4562269eb71138a7",
+            "w": 1024
+          },
+          {
+            "bytes": 388224,
+            "h": 1511,
+            "path": "webp/curling-thistle-ornament-1025.webp",
+            "sha256": "c181080c59aed1ec7addb80b31249f61da097934137de3e79e8a8644917ea161",
+            "w": 1025
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "thistle",
+        "leaf",
+        "sprig"
+      ],
+      "thumbhash": "nxiCAwAlkJfX2Teygy8M2AVoi2iVFkc=",
+      "title": "Curling thistle ornament",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Stands upright on its rooted base; works as a tall side ornament or a tailpiece."
+      ],
+      "width": 1025
+    },
+    "hop-vine-scroll": {
+      "attribution": "National Gallery of Art, Washington 1943.3.90",
+      "categories": [
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A wide rectangular panel filled edge to edge with foliage, broad curling lobed leaves on thick stems interwoven with a thinner hop vine that carries serrated leaves and hanging hop cones, the thick stems looping into a large ring at the centre; a thin engraved plate rule runs along all four sides. Engraved in dark brown line only, with the ground showing through between the hatch lines, on a transparent background.",
+      "display_width": [
+        600,
+        1400
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 1220834,
+        "webpTopBytes": 2344820
+      },
+      "facing": "none",
+      "group": "1943-3-90",
+      "height": 2915,
+      "master": {
+        "bytes": 2595686,
+        "h": 1464,
+        "path": "masters/hop-vine-scroll.webp",
+        "sha256": "d507c5a9c06ef6e2fe9591d050e96ef43e1c742b35ccd9e99dd6bced42217b2e",
+        "w": 2048
+      },
+      "palette": [
+        "#3c2e22",
+        "#3c2f21",
+        "#3c2f22",
+        "#3b2f21",
+        "#3b2e22"
+      ],
+      "provenance": {
+        "artist": "Martin Schongauer",
+        "date": "c. 1480/1490",
+        "image_url": "https://api.nga.gov/iiif/4130d104-3624-44c3-80d5-a3425865e186/full/full/0/default.jpg",
+        "institution": "National Gallery of Art, Washington",
+        "method": "native-ink-extraction",
+        "object_identifier": "1943.3.90",
+        "object_title": "Ornament with Hop Vine",
+        "record_url": "https://www.nga.gov/collection/art-object-page.3302.html",
+        "rights_text": "Open Access / public domain; official image dataset openaccess=1",
+        "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+        "source_sha256": "3336d71d8e2aa0bab32460bc5bc4a110c1fec95ce4c41d15210dd0dfec17e8e7"
+      },
+      "quality": "Some hatch bands carry the wear of the original impression, and faint paper-stain speckle survives in the ink mask near the edges.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2006,
+            "h": 46,
+            "path": "avif/hop-vine-scroll-64.avif",
+            "sha256": "06293a24b6d92d76206ec624d39f2d7813f9c4d350f3ba842ff4496fb540a23c",
+            "w": 64
+          },
+          {
+            "bytes": 4391,
+            "h": 69,
+            "path": "avif/hop-vine-scroll-96.avif",
+            "sha256": "612c60181ba25d0fa3e38d3ac317a80824b9dcd8ade6209b3388c70e52a1ba26",
+            "w": 96
+          },
+          {
+            "bytes": 7706,
+            "h": 91,
+            "path": "avif/hop-vine-scroll-128.avif",
+            "sha256": "984368a34ef022c33f80682e4c69b3c8b428cc1006af6ee4a55ba29c70178fca",
+            "w": 128
+          },
+          {
+            "bytes": 18308,
+            "h": 137,
+            "path": "avif/hop-vine-scroll-192.avif",
+            "sha256": "633d59116d9ad19ed404c9fc9108f241aa718fce5c0eb7b0f41a2a895126cb30",
+            "w": 192
+          },
+          {
+            "bytes": 33330,
+            "h": 183,
+            "path": "avif/hop-vine-scroll-256.avif",
+            "sha256": "81b04980ea1766d2961deaf6cc03e99a4183b0ac7f6f667ad33cca9b91b04afd",
+            "w": 256
+          },
+          {
+            "bytes": 73841,
+            "h": 274,
+            "path": "avif/hop-vine-scroll-384.avif",
+            "sha256": "59ba06d65dfd081de514d06681f2e9d13e4e87c0d58374d55f8dc8f9de12ae70",
+            "w": 384
+          },
+          {
+            "bytes": 127518,
+            "h": 366,
+            "path": "avif/hop-vine-scroll-512.avif",
+            "sha256": "c2f931231225062a79540e2963e2d83e4529a97ca2a7044838f26008701b1253",
+            "w": 512
+          },
+          {
+            "bytes": 276897,
+            "h": 549,
+            "path": "avif/hop-vine-scroll-768.avif",
+            "sha256": "3e236d263e1616fbad2e24a587236243c01c702b1655aaae33eb88bb864c1f8c",
+            "w": 768
+          },
+          {
+            "bytes": 432637,
+            "h": 732,
+            "path": "avif/hop-vine-scroll-1024.avif",
+            "sha256": "f47de6ed217f2cf26b8970d8ec3d30d282bfb96799b2293c3683ec044ae5e411",
+            "w": 1024
+          },
+          {
+            "bytes": 804859,
+            "h": 1098,
+            "path": "avif/hop-vine-scroll-1536.avif",
+            "sha256": "a33167150cf0cf4ab22890003f23ce2ceb396d25132d240180a441e8928a06c9",
+            "w": 1536
+          },
+          {
+            "bytes": 1220834,
+            "h": 1464,
+            "path": "avif/hop-vine-scroll-2048.avif",
+            "sha256": "a9e8d5fea4a48e1ec44d1a2e75f90a4a53c74d79a9e17146876058417b0a7b8f",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3000,
+            "h": 46,
+            "path": "webp/hop-vine-scroll-64.webp",
+            "sha256": "298147101527fa701a8c5639506ff5ff2c4c2f45bc3f581b42c96bd2183dd1ca",
+            "w": 64
+          },
+          {
+            "bytes": 6946,
+            "h": 69,
+            "path": "webp/hop-vine-scroll-96.webp",
+            "sha256": "678dc43ea902ddc57c3fe56eba1c9d9d08d221157943f0f8da5b27d799206b51",
+            "w": 96
+          },
+          {
+            "bytes": 12196,
+            "h": 91,
+            "path": "webp/hop-vine-scroll-128.webp",
+            "sha256": "b3d21158cb38882196664721e1e148193cb74890f75fed0f8684ca277cbcce9b",
+            "w": 128
+          },
+          {
+            "bytes": 28400,
+            "h": 137,
+            "path": "webp/hop-vine-scroll-192.webp",
+            "sha256": "339c4b741599ed9dd28bc61a5c61b280928e4a632d31fb0b80ec9946e08b14dc",
+            "w": 192
+          },
+          {
+            "bytes": 50394,
+            "h": 183,
+            "path": "webp/hop-vine-scroll-256.webp",
+            "sha256": "bb7676c369deca105cf8706c001ac474b17c9753fed9724dcd365dd289d3e5d7",
+            "w": 256
+          },
+          {
+            "bytes": 113414,
+            "h": 274,
+            "path": "webp/hop-vine-scroll-384.webp",
+            "sha256": "42fba2fd885856769ba38c0abd0ae9abdfbee38799580e05508bc5d384ade8d8",
+            "w": 384
+          },
+          {
+            "bytes": 197614,
+            "h": 366,
+            "path": "webp/hop-vine-scroll-512.webp",
+            "sha256": "528f09f3b77bf56736a4a65013698ba38b80a8c07ee60350e20d0a72dc9604c3",
+            "w": 512
+          },
+          {
+            "bytes": 428102,
+            "h": 549,
+            "path": "webp/hop-vine-scroll-768.webp",
+            "sha256": "069bc2fb9f165943aa67269bb063b8282b7ad3722482707b5311af65d30f874e",
+            "w": 768
+          },
+          {
+            "bytes": 701806,
+            "h": 732,
+            "path": "webp/hop-vine-scroll-1024.webp",
+            "sha256": "7fe05b96f3d90af5733e4f9f33f4e9e122d1fd3b62039e26133b66e1c5cf5caf",
+            "w": 1024
+          },
+          {
+            "bytes": 1424210,
+            "h": 1098,
+            "path": "webp/hop-vine-scroll-1536.webp",
+            "sha256": "8ee61bdd6500607238216c071819e114e6f00a311543dcaf32df9e99bb31360f",
+            "w": 1536
+          },
+          {
+            "bytes": 2344820,
+            "h": 1464,
+            "path": "webp/hop-vine-scroll-2048.webp",
+            "sha256": "86a18a74bf4de5fec5612b08fd066ddd2eb45e0a25036b9c2d8eb1273d2d0242",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "hop",
+        "vine",
+        "leaf",
+        "scroll",
+        "rule"
+      ],
+      "thumbhash": "jBiCBIAEIDRnimFoG5f3v7IFdWGBSLdoAQ==",
+      "title": "Hop vine and leaf scroll panel",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Line work only; the ink is partial alpha and the page shows between the lines, so it reads best on light or cream grounds.",
+        "The thin plate rule on all four sides is part of the master; crop just inside it for a borderless panel."
+      ],
+      "width": 4079
+    },
+    "lower-flying-day-bird": {
+      "attribution": "National Gallery of Art, Washington 1943.3.93",
+      "categories": [
+        "animals"
+      ],
+      "colors": [
+        "cream",
+        "black",
+        "brown"
+      ],
+      "composition": "single-figure",
+      "description": "A small crested bird in flight, seen from the side and facing right with its beak open, both wings raised high above the body and the short tail trailing at the lower left. Engraved in dark brown-black line with hatched shading, the body and wings filled with the cream paper tone, on a transparent background.",
+      "display_width": [
+        120,
+        300
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 30388,
+        "webpTopBytes": 52366
+      },
+      "facing": "right",
+      "group": "1943-3-93",
+      "height": 438,
+      "master": {
+        "bytes": 175026,
+        "h": 438,
+        "path": "masters/lower-flying-day-bird.webp",
+        "sha256": "85b958b391c3c3ac9431671ca1964135970f3d7a49b952e21ff881cb8e1d5d2b",
+        "w": 543
+      },
+      "palette": [
+        "#7b6d60",
+        "#544a44",
+        "#9e8d78",
+        "#cfb99c",
+        "#e5d0b0"
+      ],
+      "provenance": {
+        "artist": "Martin Schongauer",
+        "date": "c. 1480/1490",
+        "image_url": "https://api.nga.gov/iiif/d626f080-0fb8-4305-8619-2d1bf53dd536/full/full/0/default.jpg",
+        "institution": "National Gallery of Art, Washington",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1943.3.93",
+        "object_title": "Ornament with Owl Mocked by Day Birds",
+        "record_url": "https://www.nga.gov/collection/art-object-page.3305.html",
+        "rights_text": "Open Access / public domain; official image dataset openaccess=1",
+        "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+        "source_sha256": "d4977fd42e66afc84dfa4575ae585bd403b62874b381c97e6ac7380c6d1873e6"
+      },
+      "quality": "Body interior is the cream paper tone at alpha 250–253 rather than 255, invisible in use.",
+      "related": [
+        {
+          "asset": "schongauer-prints/owl-and-perching-birds-in-leafy-scroll",
+          "role": "companion"
+        },
+        {
+          "asset": "schongauer-prints/upper-flying-day-bird",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1610,
+            "h": 52,
+            "path": "avif/lower-flying-day-bird-64.avif",
+            "sha256": "c3346084fb4b1bc5670e149fb595681dff080d73d7f96419d6550640681a40ac",
+            "w": 64
+          },
+          {
+            "bytes": 2595,
+            "h": 77,
+            "path": "avif/lower-flying-day-bird-96.avif",
+            "sha256": "9c7aae55a18b9a004fa1f948d0c14380748e01eaab541b83be8daf9b631bc03b",
+            "w": 96
+          },
+          {
+            "bytes": 3768,
+            "h": 103,
+            "path": "avif/lower-flying-day-bird-128.avif",
+            "sha256": "7192b6b3848243da19aa99b623c54855e5cbbc2adc970cf84f8d8de150e8a06f",
+            "w": 128
+          },
+          {
+            "bytes": 6728,
+            "h": 155,
+            "path": "avif/lower-flying-day-bird-192.avif",
+            "sha256": "481f015da4c6c84aeb8132e491a7f3a8c91af54a122667951b1c638c35dedbc4",
+            "w": 192
+          },
+          {
+            "bytes": 9626,
+            "h": 206,
+            "path": "avif/lower-flying-day-bird-256.avif",
+            "sha256": "856928cf48f2b3582272f7f9a89e9d1cffabadfad6a540d60958fc1f8647bc2f",
+            "w": 256
+          },
+          {
+            "bytes": 17975,
+            "h": 310,
+            "path": "avif/lower-flying-day-bird-384.avif",
+            "sha256": "b99843522f29c38674cafc777e51ebd00285cd61e9e5864fa9946ee077c390db",
+            "w": 384
+          },
+          {
+            "bytes": 27131,
+            "h": 413,
+            "path": "avif/lower-flying-day-bird-512.avif",
+            "sha256": "d3ab63c2b73c71974cdb164fa35bb2d90bcd1eebe90c956a758d5361057efc58",
+            "w": 512
+          },
+          {
+            "bytes": 30388,
+            "h": 438,
+            "path": "avif/lower-flying-day-bird-543.avif",
+            "sha256": "3fe3359d3c750085a0776c3d605bb621c96e004273f06663aaa33cbdf0262b4d",
+            "w": 543
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2262,
+            "h": 52,
+            "path": "webp/lower-flying-day-bird-64.webp",
+            "sha256": "fe4e506324d14ef3c2ce2871ab9c90a6b430a61610fa4b02891a55f01f10894e",
+            "w": 64
+          },
+          {
+            "bytes": 3760,
+            "h": 77,
+            "path": "webp/lower-flying-day-bird-96.webp",
+            "sha256": "40515d16af26ac4a40d402c779cec7b8081af030ad166c8c37a2348aa56a6d9c",
+            "w": 96
+          },
+          {
+            "bytes": 5868,
+            "h": 103,
+            "path": "webp/lower-flying-day-bird-128.webp",
+            "sha256": "907ed6c705ccbedd6a797b3df1b57359931bf1204b9e3db2735f1618cd1e5ba0",
+            "w": 128
+          },
+          {
+            "bytes": 10646,
+            "h": 155,
+            "path": "webp/lower-flying-day-bird-192.webp",
+            "sha256": "e3ea27112349d9afceb5b9e685cd19723661ca0733d87f8aabc152bd7047e5cb",
+            "w": 192
+          },
+          {
+            "bytes": 16520,
+            "h": 206,
+            "path": "webp/lower-flying-day-bird-256.webp",
+            "sha256": "00af4e24aec9c970d6ead1c7d4678f57baad9e91c6c22371448e44d2ae6c0b44",
+            "w": 256
+          },
+          {
+            "bytes": 30888,
+            "h": 310,
+            "path": "webp/lower-flying-day-bird-384.webp",
+            "sha256": "d540bc9f381338f340a7c812042527f84880b218bb45bae3919923f85cdbe023",
+            "w": 384
+          },
+          {
+            "bytes": 48340,
+            "h": 413,
+            "path": "webp/lower-flying-day-bird-512.webp",
+            "sha256": "44194ac54d26abb16bf5ea035ea12f23096bfde6422fb28f6fc0fee9d56c9271",
+            "w": 512
+          },
+          {
+            "bytes": 52366,
+            "h": 438,
+            "path": "webp/lower-flying-day-bird-543.webp",
+            "sha256": "774d476fab1bb6900618c06cccdee54c58d88307506230a7055e6d293093e0ca",
+            "w": 543
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "bird",
+        "wings"
+      ],
+      "thumbhash": "4BiCBIAmFPthbWiWSAGGFGDIMEa6V6doBA==",
+      "title": "Crested bird flying right",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Cut from the left middle of the owl sheet, where it flies right toward the owl; pair it with the sheet or with the other flying bird."
+      ],
+      "view": "side",
+      "width": 543
+    },
+    "owl-and-perching-birds-in-leafy-scroll": {
+      "attribution": "National Gallery of Art, Washington 1943.3.93",
+      "categories": [
+        "animals",
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall panel of broad curling lobed leaves on thick thorny stems, with a shaggy lettuce-like leaf cluster in the middle. At the bottom centre an owl with spread wings perches on a stem and looks straight at the viewer, a crested bird sits below it at the left, a small bird flies left at the top centre, a crested bird flies right at the left middle, a long-necked bird pecks down a stem in the upper centre, and two more birds are cut off by the right edge. Engraved in dark brown line only, with the ground showing through between the hatch lines, on a transparent background.",
+      "display_width": [
+        500,
+        1200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 2226288,
+        "webpTopBytes": 4583830
+      },
+      "facing": "mixed",
+      "group": "1943-3-93",
+      "height": 3960,
+      "master": {
+        "bytes": 2707304,
+        "h": 2048,
+        "path": "masters/owl-and-perching-birds-in-leafy-scroll.webp",
+        "sha256": "6ae474720b2e743087dfa41bbeff37f6a77b7c67dbca58748503680677252980",
+        "w": 1430
+      },
+      "palette": [
+        "#3e342a",
+        "#3d3429",
+        "#3e3429",
+        "#3d3329"
+      ],
+      "provenance": {
+        "artist": "Martin Schongauer",
+        "date": "c. 1480/1490",
+        "image_url": "https://api.nga.gov/iiif/d626f080-0fb8-4305-8619-2d1bf53dd536/full/full/0/default.jpg",
+        "institution": "National Gallery of Art, Washington",
+        "method": "native-ink-extraction",
+        "object_identifier": "1943.3.93",
+        "object_title": "Ornament with Owl Mocked by Day Birds",
+        "record_url": "https://www.nga.gov/collection/art-object-page.3305.html",
+        "rights_text": "Open Access / public domain; official image dataset openaccess=1",
+        "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+        "source_sha256": "d4977fd42e66afc84dfa4575ae585bd403b62874b381c97e6ac7380c6d1873e6"
+      },
+      "quality": "The sheet is trimmed at the right edge, where two birds are cut off; faint paper-stain speckle survives in the ink mask, mostly along the left side.",
+      "related": [
+        {
+          "asset": "schongauer-prints/upper-flying-day-bird",
+          "role": "companion"
+        },
+        {
+          "asset": "schongauer-prints/lower-flying-day-bird",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3931,
+            "h": 92,
+            "path": "avif/owl-and-perching-birds-in-leafy-scroll-64.avif",
+            "sha256": "bb1525617da4e8b154937726bc276037350d8aaf4f67b7672afb2f8b196cfe42",
+            "w": 64
+          },
+          {
+            "bytes": 8542,
+            "h": 137,
+            "path": "avif/owl-and-perching-birds-in-leafy-scroll-96.avif",
+            "sha256": "68041c9f07dfb8bb579fbea786e791f303d26eafcff85515a79a6a2cfff49092",
+            "w": 96
+          },
+          {
+            "bytes": 15366,
+            "h": 183,
+            "path": "avif/owl-and-perching-birds-in-leafy-scroll-128.avif",
+            "sha256": "7224b92915cd52db5939c4e41b319a7ab2dfce027bad998932d4e2ff4963fda3",
+            "w": 128
+          },
+          {
+            "bytes": 34809,
+            "h": 275,
+            "path": "avif/owl-and-perching-birds-in-leafy-scroll-192.avif",
+            "sha256": "df25c77d7aacce932bccbbfaff25a269475ce90846b7ab4380b5d11f18278f0e",
+            "w": 192
+          },
+          {
+            "bytes": 61329,
+            "h": 367,
+            "path": "avif/owl-and-perching-birds-in-leafy-scroll-256.avif",
+            "sha256": "1cb3f8a70f9034960457ccd66fa777c784fd07c2c0df722b62b603123215cc67",
+            "w": 256
+          },
+          {
+            "bytes": 132453,
+            "h": 550,
+            "path": "avif/owl-and-perching-birds-in-leafy-scroll-384.avif",
+            "sha256": "7abef1ab2ba960de775b0b6b4dc0642e2b0b2b5f971dc3cc7575f562de870a34",
+            "w": 384
+          },
+          {
+            "bytes": 232658,
+            "h": 733,
+            "path": "avif/owl-and-perching-birds-in-leafy-scroll-512.avif",
+            "sha256": "7d8bb779adc6b055e3eea012fb0ffc3211d9dd65990c39ce5a50bc75df3530f6",
+            "w": 512
+          },
+          {
+            "bytes": 466058,
+            "h": 1100,
+            "path": "avif/owl-and-perching-birds-in-leafy-scroll-768.avif",
+            "sha256": "c0a0b26d847a33d4efe07e757ba3eee3f172f2bdfbddc3b679584cd86c5f9085",
+            "w": 768
+          },
+          {
+            "bytes": 761734,
+            "h": 1467,
+            "path": "avif/owl-and-perching-birds-in-leafy-scroll-1024.avif",
+            "sha256": "1ecb36fc6e17831d3e8941b89cb2ef0fdd3faf75d801d4f70fbf4ad6c2d4ab90",
+            "w": 1024
+          },
+          {
+            "bytes": 1445786,
+            "h": 2200,
+            "path": "avif/owl-and-perching-birds-in-leafy-scroll-1536.avif",
+            "sha256": "8d3803856b9c606a19e7f8fe9cd78af5a571a3a93d7733341e98487efee37d22",
+            "w": 1536
+          },
+          {
+            "bytes": 2226288,
+            "h": 2933,
+            "path": "avif/owl-and-perching-birds-in-leafy-scroll-2048.avif",
+            "sha256": "5b785e97bde4af60105b8e1f3454ff3820e0858edb30b1e9c75a6a26ba068a4d",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 6266,
+            "h": 92,
+            "path": "webp/owl-and-perching-birds-in-leafy-scroll-64.webp",
+            "sha256": "59417a9cc5916994cec26ed2b2fb1e8ad243910e02f75adf5f05f172a4a8a9fc",
+            "w": 64
+          },
+          {
+            "bytes": 14190,
+            "h": 137,
+            "path": "webp/owl-and-perching-birds-in-leafy-scroll-96.webp",
+            "sha256": "24c7188ecba460c44720c7e6ef1b08b627a2664bdd543c58087471ce7e177a33",
+            "w": 96
+          },
+          {
+            "bytes": 25264,
+            "h": 183,
+            "path": "webp/owl-and-perching-birds-in-leafy-scroll-128.webp",
+            "sha256": "9554afbf0fc4bfcb7600329f5159a8bc4cec20658752cb8e6789a0efd9b85c86",
+            "w": 128
+          },
+          {
+            "bytes": 57032,
+            "h": 275,
+            "path": "webp/owl-and-perching-birds-in-leafy-scroll-192.webp",
+            "sha256": "ac97de65b04618966f810a9afadfcb33f7906826d1a14249b50ab5c954f372ee",
+            "w": 192
+          },
+          {
+            "bytes": 99586,
+            "h": 367,
+            "path": "webp/owl-and-perching-birds-in-leafy-scroll-256.webp",
+            "sha256": "06f4b57474832b6cbdbf67dd5ea027f9434e6879ea0691fda7bd9fc7304860cb",
+            "w": 256
+          },
+          {
+            "bytes": 217404,
+            "h": 550,
+            "path": "webp/owl-and-perching-birds-in-leafy-scroll-384.webp",
+            "sha256": "818599a303060ca794c265f61c577e43409e8416adf12a8a803e6ad9fd092097",
+            "w": 384
+          },
+          {
+            "bytes": 377706,
+            "h": 733,
+            "path": "webp/owl-and-perching-birds-in-leafy-scroll-512.webp",
+            "sha256": "12ec13e1c44f9b744a58028dd9046dc8f5f5089bb36d6e022dacdb17679b172a",
+            "w": 512
+          },
+          {
+            "bytes": 786272,
+            "h": 1100,
+            "path": "webp/owl-and-perching-birds-in-leafy-scroll-768.webp",
+            "sha256": "5c13640573649f6e3253f458257c0cc9eb04ba5006c894eb96dda570394c4d5a",
+            "w": 768
+          },
+          {
+            "bytes": 1320988,
+            "h": 1467,
+            "path": "webp/owl-and-perching-birds-in-leafy-scroll-1024.webp",
+            "sha256": "a2e4c3fac9d542a091a804038c7cd75f5d07b17efac59ff0b2f487a63d6bc7e5",
+            "w": 1024
+          },
+          {
+            "bytes": 2737286,
+            "h": 2200,
+            "path": "webp/owl-and-perching-birds-in-leafy-scroll-1536.webp",
+            "sha256": "cd019482528b8f73bcad7bd3d2ba5bb647c946952c6396b034d45e5fe7fe613b",
+            "w": 1536
+          },
+          {
+            "bytes": 4583830,
+            "h": 2933,
+            "path": "webp/owl-and-perching-birds-in-leafy-scroll-2048.webp",
+            "sha256": "6c3721f1a35e90af70b8d649290801d3a8006ec7e8bc020912a2f9dc8078e7e5",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "owl",
+        "bird",
+        "leaf",
+        "scroll"
+      ],
+      "thumbhash": "TRiCBAAFr6rIukpIBsaJTs/loKXWeJlnBQ==",
+      "title": "Owl mocked by day birds in a leafy scroll",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Line work only; the ink is partial alpha and the page shows between the lines, so it reads best on light or cream grounds.",
+        "The two flying birds (top centre and left middle) are also delivered as separate cut-outs, upper-flying-day-bird and lower-flying-day-bird."
+      ],
+      "width": 2765
+    },
+    "upper-flying-day-bird": {
+      "attribution": "National Gallery of Art, Washington 1943.3.93",
+      "categories": [
+        "animals"
+      ],
+      "colors": [
+        "cream",
+        "black",
+        "brown"
+      ],
+      "composition": "single-figure",
+      "description": "A small bird in flight, seen from the side and facing left, with both wings raised and swept back and a pointed tail trailing at the upper right. Engraved in dark brown-black line with hatched shading, the body and wings filled with the cream paper tone, on a transparent background.",
+      "display_width": [
+        100,
+        260
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 20768,
+        "webpTopBytes": 36534
+      },
+      "facing": "left",
+      "group": "1943-3-93",
+      "height": 310,
+      "master": {
+        "bytes": 110774,
+        "h": 310,
+        "path": "masters/upper-flying-day-bird.webp",
+        "sha256": "33774b7999f1450e6dcf6575b6c9144e153b64881b6bf959b9f7d04ee8178119",
+        "w": 430
+      },
+      "palette": [
+        "#60554a",
+        "#e7cfab",
+        "#2f2927",
+        "#bda889",
+        "#97856f"
+      ],
+      "provenance": {
+        "artist": "Martin Schongauer",
+        "date": "c. 1480/1490",
+        "image_url": "https://api.nga.gov/iiif/d626f080-0fb8-4305-8619-2d1bf53dd536/full/full/0/default.jpg",
+        "institution": "National Gallery of Art, Washington",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1943.3.93",
+        "object_title": "Ornament with Owl Mocked by Day Birds",
+        "record_url": "https://www.nga.gov/collection/art-object-page.3305.html",
+        "rights_text": "Open Access / public domain; official image dataset openaccess=1",
+        "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+        "source_sha256": "d4977fd42e66afc84dfa4575ae585bd403b62874b381c97e6ac7380c6d1873e6"
+      },
+      "quality": "Body interior is the cream paper tone at alpha 250–253 rather than 255, invisible in use.",
+      "related": [
+        {
+          "asset": "schongauer-prints/owl-and-perching-birds-in-leafy-scroll",
+          "role": "companion"
+        },
+        {
+          "asset": "schongauer-prints/lower-flying-day-bird",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1730,
+            "h": 46,
+            "path": "avif/upper-flying-day-bird-64.avif",
+            "sha256": "72470f2839beecd065c9da9e79c46f5c3c8e1fe3b209b8451ea4c2f0106407a8",
+            "w": 64
+          },
+          {
+            "bytes": 2951,
+            "h": 69,
+            "path": "avif/upper-flying-day-bird-96.avif",
+            "sha256": "729c453dbed24c0e98ec09ee9997144c75e21003d546f2d4786d6702bb6be3dd",
+            "w": 96
+          },
+          {
+            "bytes": 4111,
+            "h": 92,
+            "path": "avif/upper-flying-day-bird-128.avif",
+            "sha256": "f820fe4183b07b60bea5180c42dfb7ab499fbac2b1002053d1d98749c29730ec",
+            "w": 128
+          },
+          {
+            "bytes": 6664,
+            "h": 138,
+            "path": "avif/upper-flying-day-bird-192.avif",
+            "sha256": "9b66518869bd8217eb1f6f918d959d191df869f3b75cbbef95274cf5e77d99f9",
+            "w": 192
+          },
+          {
+            "bytes": 9842,
+            "h": 185,
+            "path": "avif/upper-flying-day-bird-256.avif",
+            "sha256": "a54206c20bfef39fd0a9bd277514ee153cc45943dfefa195594598f302d9dc2f",
+            "w": 256
+          },
+          {
+            "bytes": 17767,
+            "h": 277,
+            "path": "avif/upper-flying-day-bird-384.avif",
+            "sha256": "5f93624ae6d256cb0824774e0d0281263c1bffc5048eb5cf35d21db2c8131473",
+            "w": 384
+          },
+          {
+            "bytes": 20768,
+            "h": 310,
+            "path": "avif/upper-flying-day-bird-430.avif",
+            "sha256": "b8df024791c11ee028ee5066a7757d4de7fa84dc1d7a094fb4326503ec5f0832",
+            "w": 430
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2514,
+            "h": 46,
+            "path": "webp/upper-flying-day-bird-64.webp",
+            "sha256": "6575ca60f76a625a4788ed57dcdb95cc518262308b0d5031196edd892cccb283",
+            "w": 64
+          },
+          {
+            "bytes": 4474,
+            "h": 69,
+            "path": "webp/upper-flying-day-bird-96.webp",
+            "sha256": "d3034bdd00809e72d3d1de2874bd091df4ad46a4743cea4e6bc987121f37df2f",
+            "w": 96
+          },
+          {
+            "bytes": 6728,
+            "h": 92,
+            "path": "webp/upper-flying-day-bird-128.webp",
+            "sha256": "2230397f79e4da193127422d484eeac15b01338d35e0ded5b6b24304ce5ce15b",
+            "w": 128
+          },
+          {
+            "bytes": 11698,
+            "h": 138,
+            "path": "webp/upper-flying-day-bird-192.webp",
+            "sha256": "376f540934d3b7b61e2636ff1a6df7005854e6b587b83366a31ef6b8db3ce0bf",
+            "w": 192
+          },
+          {
+            "bytes": 17566,
+            "h": 185,
+            "path": "webp/upper-flying-day-bird-256.webp",
+            "sha256": "b687ee62dedcffa58e51b0e5f46bbd7217e6de5621cff7488aba69124b6322bf",
+            "w": 256
+          },
+          {
+            "bytes": 31672,
+            "h": 277,
+            "path": "webp/upper-flying-day-bird-384.webp",
+            "sha256": "7606cfc99b9528921ef567fb8fbe6973964cf4dac04eeb88715a0f6d48b6cd17",
+            "w": 384
+          },
+          {
+            "bytes": 36534,
+            "h": 310,
+            "path": "webp/upper-flying-day-bird-430.webp",
+            "sha256": "9e320e2948c0d76ff69c20892c24f65009990caa4db0a60095577fe35678c640",
+            "w": 430
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "bird",
+        "wings"
+      ],
+      "thumbhash": "3hiGBIA2OpaQjXi3qQJ4KoB3cFeWV5aJAw==",
+      "title": "Small bird flying left",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Cut from the top centre of the owl sheet; pair it with the sheet or with the other flying bird, which faces the opposite way."
+      ],
+      "view": "side",
+      "width": 430
+    }
+  },
+  "attribution": "National Gallery of Art, Washington",
+  "builtAt": "2026-10-28T16:15:22.762Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-schongauer-prints@1.0.0/",
+  "contentHash": "sha256:2247f26540ebd2d00eb33eee0f1858965ec4792763b4bf671e0cd443e26818d6",
+  "inputsHash": "sha256:6c13d8765b2579ab270e630f31158b92447d23bd5a7451552ed1fe03b3a2235f",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from National Gallery of Art open access (CC0) images; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-schongauer-prints-masters",
+  "package": "@ranx729/ducktape-assets-schongauer-prints",
+  "period": "ca. 1480–1490",
+  "region": "Colmar, Alsace",
+  "schema": 1,
+  "set": "schongauer-prints",
+  "style": "late Gothic engraving",
+  "summary": "Leaf, thistle and hop-vine ornaments and the owl mocked by day birds, engraved by Martin Schongauer in Colmar around 1480–1490, from four sheets in the National Gallery of Art, Washington; loose prints by one artist, grouped by sheet.",
+  "title": "Martin Schongauer ornament prints",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,1190 @@
+{
+  "assets": {
+    "blue-cornflower": {
+      "attribution": "Cleveland Museum of Art 1963.256.80.b; Hours of Queen Isabella, fol. 80v",
+      "categories": [
+        "floral",
+        "botanical"
+      ],
+      "colors": [
+        "blue",
+        "light-blue",
+        "black"
+      ],
+      "composition": "single-figure",
+      "description": "A single blue cornflower seen from the front, its ragged fringed petals radiating in two layers around a dark navy centre with pale dots; the petals are mid blue with lighter streaks and a few white highlights at the tips. No stem or leaf; the background is transparent.",
+      "display_width": [
+        100,
+        400
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 36082,
+        "webpTopBytes": 58474
+      },
+      "facing": "viewer",
+      "group": null,
+      "height": 409,
+      "master": {
+        "bytes": 202952,
+        "h": 409,
+        "path": "masters/blue-cornflower.webp",
+        "sha256": "7c178133cb6480b4fdb9e2a264ca53b120de44407ee35958c2239e40b5d79701",
+        "w": 430
+      },
+      "palette": [
+        "#3c83be",
+        "#165496",
+        "#3071ac",
+        "#416184",
+        "#264975"
+      ],
+      "provenance": {
+        "artist": "Master of the First Prayerbook of Maximilian and associates",
+        "date": "ca. 1500",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://archive.org/download/clevelandart-1963.256.80.b-hours-of-queen-isabe/1963.256.80.b_full.jpg",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1963.256.80.b; Hours of Queen Isabella, fol. 80v",
+        "object_title": "Floral border surrounding Virgin and Christ with Angels",
+        "record_url": "https://www.clevelandart.org/art/1963.256.80.b",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "74b406120e8c2872fddd48d75be535e24f479ea4b15b07a233855a072f229472"
+      },
+      "related": [
+        {
+          "asset": "cma-1963-256/gold-floral-frame",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2633,
+            "h": 61,
+            "path": "avif/blue-cornflower-64.avif",
+            "sha256": "abef7095719950fa80085d224e1a93ff23d5f4f6e3d0aa59ae03c740474a62c6",
+            "w": 64
+          },
+          {
+            "bytes": 4537,
+            "h": 91,
+            "path": "avif/blue-cornflower-96.avif",
+            "sha256": "2d1257fbdc121282e49c0f266a064edb906642104b55e57f50cd11af886801c9",
+            "w": 96
+          },
+          {
+            "bytes": 6643,
+            "h": 122,
+            "path": "avif/blue-cornflower-128.avif",
+            "sha256": "77ce8e33cff0c26f0c6398b44120e1bd9e81a6191521b620810faef64c95ecab",
+            "w": 128
+          },
+          {
+            "bytes": 10295,
+            "h": 183,
+            "path": "avif/blue-cornflower-192.avif",
+            "sha256": "df8e691988d3fffdea3338d5340de0ef48ea8e779b1d21ad0e53e457b269fc84",
+            "w": 192
+          },
+          {
+            "bytes": 15398,
+            "h": 243,
+            "path": "avif/blue-cornflower-256.avif",
+            "sha256": "113df3e27eda027645496067b1f47c5936fc1c100adf10cc0425a416cdd94812",
+            "w": 256
+          },
+          {
+            "bytes": 29827,
+            "h": 365,
+            "path": "avif/blue-cornflower-384.avif",
+            "sha256": "7ccfce985331e676d7393e9041d99881d4d26c5b834b599a4ef3b59da238ac3f",
+            "w": 384
+          },
+          {
+            "bytes": 36082,
+            "h": 409,
+            "path": "avif/blue-cornflower-430.avif",
+            "sha256": "33ab2f39d7cf816fefa339821d201587821822f5dc31519de5fe29cd8a40db73",
+            "w": 430
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3564,
+            "h": 61,
+            "path": "webp/blue-cornflower-64.webp",
+            "sha256": "8747bbb2ca6b53ebfa6c3d2abf4f03246415793f349c7e262470180a004d3d7e",
+            "w": 64
+          },
+          {
+            "bytes": 6384,
+            "h": 91,
+            "path": "webp/blue-cornflower-96.webp",
+            "sha256": "09ac0739d6ee23f62227b48c011ae33235577369971217e47411b210b03c31c2",
+            "w": 96
+          },
+          {
+            "bytes": 9468,
+            "h": 122,
+            "path": "webp/blue-cornflower-128.webp",
+            "sha256": "41d6d4700e9d8fd25ed9e1d45317e46d465241ecf8994359d107b6c9fa353c12",
+            "w": 128
+          },
+          {
+            "bytes": 16800,
+            "h": 183,
+            "path": "webp/blue-cornflower-192.webp",
+            "sha256": "8b4939fc54fae997fa3910209b25690c20d63c8034a6dbebae83352756a49718",
+            "w": 192
+          },
+          {
+            "bytes": 25596,
+            "h": 243,
+            "path": "webp/blue-cornflower-256.webp",
+            "sha256": "0a14857e69937a69f95522265010121406bee0f795cff6dc6f2bf114526b20d5",
+            "w": 256
+          },
+          {
+            "bytes": 49830,
+            "h": 365,
+            "path": "webp/blue-cornflower-384.webp",
+            "sha256": "d591d439a4f970ece9f799fe4629ba541fe97df698025a3fa98ef185d2dbe8fb",
+            "w": 384
+          },
+          {
+            "bytes": 58474,
+            "h": 409,
+            "path": "webp/blue-cornflower-430.webp",
+            "sha256": "f4e7ebf5b2b914743b8ccbf25a63cc7aef4c15a4d502e3e29275f91cb5b4fa9b",
+            "w": 430
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "cornflower",
+        "flower"
+      ],
+      "thumbhash": "G4WBBYA4pgmKdosxBQN2YlAXB1h2h3CIWA==",
+      "title": "Blue cornflower head",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Cut from the bottom band of the strewn-flower border; the painted shadow on the gold ground is not included."
+      ],
+      "view": "front",
+      "width": 430
+    },
+    "crimson-rose": {
+      "attribution": "Cleveland Museum of Art 1963.256.80.b; Hours of Queen Isabella, fol. 80v",
+      "categories": [
+        "floral",
+        "botanical"
+      ],
+      "colors": [
+        "pink",
+        "red",
+        "yellow"
+      ],
+      "composition": "single-figure",
+      "description": "A dense double rose seen from the front, its many overlapping petals in deep pink shading to crimson at the folds, with fine darker hatching, around a slightly off-centre cluster of golden yellow stamens. No stem or leaf; the background is transparent.",
+      "display_width": [
+        120,
+        500
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 50181,
+        "webpTopBytes": 94584
+      },
+      "facing": "viewer",
+      "group": null,
+      "height": 514,
+      "master": {
+        "bytes": 382698,
+        "h": 514,
+        "path": "masters/crimson-rose.webp",
+        "sha256": "a73a93461faa73965a558cab88b8d70b7b811c77d191f86878013a45da80e4bf",
+        "w": 550
+      },
+      "palette": [
+        "#e06c78",
+        "#e8968d",
+        "#e58086",
+        "#d15d68",
+        "#be3f50"
+      ],
+      "provenance": {
+        "artist": "Master of the First Prayerbook of Maximilian and associates",
+        "date": "ca. 1500",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://archive.org/download/clevelandart-1963.256.80.b-hours-of-queen-isabe/1963.256.80.b_full.jpg",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1963.256.80.b; Hours of Queen Isabella, fol. 80v",
+        "object_title": "Floral border surrounding Virgin and Christ with Angels",
+        "record_url": "https://www.clevelandart.org/art/1963.256.80.b",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "74b406120e8c2872fddd48d75be535e24f479ea4b15b07a233855a072f229472"
+      },
+      "related": [
+        {
+          "asset": "cma-1963-256/gold-floral-frame",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1897,
+            "h": 60,
+            "path": "avif/crimson-rose-64.avif",
+            "sha256": "d1f63b3954ca93222d1456df778291566cfd2a7b6e30f8516e71306efc8741d4",
+            "w": 64
+          },
+          {
+            "bytes": 3302,
+            "h": 90,
+            "path": "avif/crimson-rose-96.avif",
+            "sha256": "2f5a12bbddcaf3880e2ad993c0d021412306676ee4172890921bffb1d0bb3f48",
+            "w": 96
+          },
+          {
+            "bytes": 4674,
+            "h": 120,
+            "path": "avif/crimson-rose-128.avif",
+            "sha256": "19d59fbb66229e45d7b2fc0b556a78cf3d1f17dbde694b3cfa3a6eecdff82d9a",
+            "w": 128
+          },
+          {
+            "bytes": 8729,
+            "h": 179,
+            "path": "avif/crimson-rose-192.avif",
+            "sha256": "41701851635a8ed38e14c39e4439dd02100f455032adf97bae289f6e8cf597b1",
+            "w": 192
+          },
+          {
+            "bytes": 13849,
+            "h": 239,
+            "path": "avif/crimson-rose-256.avif",
+            "sha256": "74a9254ebea4c9a29ef491a4c4272bb8464b05f70bdb2b74486eb4beb70413d3",
+            "w": 256
+          },
+          {
+            "bytes": 26285,
+            "h": 359,
+            "path": "avif/crimson-rose-384.avif",
+            "sha256": "77cc1516665a124d6fd6c0b6ae15f6ff91613dc631b05ff3f0b9b9bea60281d4",
+            "w": 384
+          },
+          {
+            "bytes": 43115,
+            "h": 478,
+            "path": "avif/crimson-rose-512.avif",
+            "sha256": "15d673a52a76c07eab23969c73bb63bf767cd5b84b667a5425fe7caa9c88ae9b",
+            "w": 512
+          },
+          {
+            "bytes": 50181,
+            "h": 514,
+            "path": "avif/crimson-rose-550.avif",
+            "sha256": "85d6387b6f8d1a866aa410799747f7f64a8d49e3919c9714648341982aeffd02",
+            "w": 550
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2898,
+            "h": 60,
+            "path": "webp/crimson-rose-64.webp",
+            "sha256": "d88942cdae9c13b8fea551e25ec73a0502e46dba8d13d180ffcf2ddb1232411a",
+            "w": 64
+          },
+          {
+            "bytes": 5116,
+            "h": 90,
+            "path": "webp/crimson-rose-96.webp",
+            "sha256": "2bcb0e602818dcca8502e76c83034cc466fe027fc8f631110f41610e506153c7",
+            "w": 96
+          },
+          {
+            "bytes": 7944,
+            "h": 120,
+            "path": "webp/crimson-rose-128.webp",
+            "sha256": "d3774e2277ea08222b6351945f6b35850c8be7c7b8adf0456eb7fefd214d075f",
+            "w": 128
+          },
+          {
+            "bytes": 15658,
+            "h": 179,
+            "path": "webp/crimson-rose-192.webp",
+            "sha256": "7a00be6869ef525c12f1ef498ba7f59a3526a95b363cb39d572dc1f26ccb144e",
+            "w": 192
+          },
+          {
+            "bytes": 25228,
+            "h": 239,
+            "path": "webp/crimson-rose-256.webp",
+            "sha256": "ed8f3f8e86951a65e7aee08985f9a838bf347a463df4d3b1e358f9873e9aaf07",
+            "w": 256
+          },
+          {
+            "bytes": 50094,
+            "h": 359,
+            "path": "webp/crimson-rose-384.webp",
+            "sha256": "a9326c20bd22abbbd6b411b43ae75173f8047ad4092603c154746dd6db779018",
+            "w": 384
+          },
+          {
+            "bytes": 83420,
+            "h": 478,
+            "path": "webp/crimson-rose-512.webp",
+            "sha256": "a4a86113d4d100a4e197b2fc7aa0882d5e931fba37624de46f2ad5e3cc5c9d3e",
+            "w": 512
+          },
+          {
+            "bytes": 94584,
+            "h": 514,
+            "path": "webp/crimson-rose-550.webp",
+            "sha256": "e012e7fe3816e243e0867bcd07ceea4e620f0ac250f39fe6fa4eff4e07dd99ca",
+            "w": 550
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "rose",
+        "flower"
+      ],
+      "thumbhash": "ZsmCBYIrTndulmCMdwh5Ylz3B0d3d3CESA==",
+      "title": "Crimson double rose head",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Cut from the bottom band of the strewn-flower border; the painted shadow on the gold ground is not included."
+      ],
+      "view": "front",
+      "width": 550
+    },
+    "gold-floral-frame": {
+      "attribution": "Cleveland Museum of Art 1963.256.80.b; Hours of Queen Isabella, fol. 80v",
+      "categories": [
+        "floral",
+        "botanical",
+        "animals"
+      ],
+      "colors": [
+        "gold",
+        "pink",
+        "blue",
+        "white",
+        "green",
+        "red"
+      ],
+      "composition": "single-ornament",
+      "description": "A complete page border on a textured gold ground with a tall round-arched transparent opening edged by a thin dark red rule; the left pillar is wide, the right one narrow, the bottom band widest and the top only a sliver above the arch. Scattered on the gold with painted shadows are pink wild roses, a crimson double rose, blue cornflowers and star flowers, pansies, pale lilac flowers, green buds, grey stems and curled silvery acanthus leaves, three butterflies (orange, grey, brown) and a small grey-brown bird with a blue wing patch at the lower left. The outside is transparent.",
+      "display_width": [
+        400,
+        900
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 167494,
+        "webpTopBytes": 278452
+      },
+      "facing": "none",
+      "group": null,
+      "height": 1418,
+      "master": {
+        "bytes": 1398436,
+        "h": 1418,
+        "path": "masters/gold-floral-frame.webp",
+        "sha256": "8a83a3ce91a8f9be49fce34fb20eb55a2eae374e1a5fc3bd81a219d05ef69a26",
+        "w": 909
+      },
+      "palette": [
+        "#866030",
+        "#a87042",
+        "#cba09b",
+        "#577161",
+        "#8f7256"
+      ],
+      "provenance": {
+        "artist": "Master of the First Prayerbook of Maximilian and associates",
+        "date": "ca. 1500",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://archive.org/download/clevelandart-1963.256.80.b-hours-of-queen-isabe/1963.256.80.b_full.jpg",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1963.256.80.b; Hours of Queen Isabella, fol. 80v",
+        "object_title": "Floral border surrounding Virgin and Christ with Angels",
+        "record_url": "https://www.clevelandart.org/art/1963.256.80.b",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "74b406120e8c2872fddd48d75be535e24f479ea4b15b07a233855a072f229472"
+      },
+      "related": [
+        {
+          "asset": "cma-1963-256/blue-cornflower",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-1963-256/gray-butterfly",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-1963-256/orange-butterfly",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-1963-256/crimson-rose",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-1963-256/small-bird",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2473,
+            "h": 100,
+            "path": "avif/gold-floral-frame-64.avif",
+            "sha256": "1e8b24f1d0ca81bfa96682ddd82946ba6e98a68628050b0daa09cef3e4f266c2",
+            "w": 64
+          },
+          {
+            "bytes": 4240,
+            "h": 150,
+            "path": "avif/gold-floral-frame-96.avif",
+            "sha256": "374dd2f9c8a8e01422be83fb4b23d0aa7af6616db3bc0c925115e3ec377c3291",
+            "w": 96
+          },
+          {
+            "bytes": 5956,
+            "h": 200,
+            "path": "avif/gold-floral-frame-128.avif",
+            "sha256": "1e9da03932d9b2b5863a97b6b9230d18848340371bea0fb3165088c714d45c9f",
+            "w": 128
+          },
+          {
+            "bytes": 11779,
+            "h": 300,
+            "path": "avif/gold-floral-frame-192.avif",
+            "sha256": "1f293b92cf930d214efd8a7b66a0c579cfffc60d0ebbd62fc75ef7f7e1f70d5e",
+            "w": 192
+          },
+          {
+            "bytes": 18451,
+            "h": 399,
+            "path": "avif/gold-floral-frame-256.avif",
+            "sha256": "00a42c4c5f94e61f13adb836aa4b65a8cd09243047866afb645d718e2a563809",
+            "w": 256
+          },
+          {
+            "bytes": 37475,
+            "h": 599,
+            "path": "avif/gold-floral-frame-384.avif",
+            "sha256": "905ae805a1ca6822e15cec02d4d53367b8be1cc0d2316c3ae1667a7d648e8bf8",
+            "w": 384
+          },
+          {
+            "bytes": 64171,
+            "h": 799,
+            "path": "avif/gold-floral-frame-512.avif",
+            "sha256": "8669820cba360c00ef6a021a016453f74478bbdfe2a82661b0f7226340a761e6",
+            "w": 512
+          },
+          {
+            "bytes": 127118,
+            "h": 1198,
+            "path": "avif/gold-floral-frame-768.avif",
+            "sha256": "a5ab66b0536159e1174fb9b31c6faededa83cbe0691f361c0d63297fb8c96a9c",
+            "w": 768
+          },
+          {
+            "bytes": 167494,
+            "h": 1418,
+            "path": "avif/gold-floral-frame-909.avif",
+            "sha256": "ddeef03c8c0e6ffbb1e0d0cb717a24766f054b5503b04a4762359aaff60e63e1",
+            "w": 909
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3576,
+            "h": 100,
+            "path": "webp/gold-floral-frame-64.webp",
+            "sha256": "8e996268f55fbdf475dccb5585d3bd1c9ee5118dc39be0deb7a1ce68be569c57",
+            "w": 64
+          },
+          {
+            "bytes": 6182,
+            "h": 150,
+            "path": "webp/gold-floral-frame-96.webp",
+            "sha256": "f3119e53cfba1c837086e762fbf11347c8a22fd62960bb321903b1e4741346fd",
+            "w": 96
+          },
+          {
+            "bytes": 9940,
+            "h": 200,
+            "path": "webp/gold-floral-frame-128.webp",
+            "sha256": "279b93f2014af9429c893ee0211ffdf8b0c7bffca50778c5cd11bf6bb41c9964",
+            "w": 128
+          },
+          {
+            "bytes": 18808,
+            "h": 300,
+            "path": "webp/gold-floral-frame-192.webp",
+            "sha256": "5e9436e4bdacf8f339f3febfe0f13f95c1c750e3706dd9e37ef49e5fee41e111",
+            "w": 192
+          },
+          {
+            "bytes": 31002,
+            "h": 399,
+            "path": "webp/gold-floral-frame-256.webp",
+            "sha256": "8f6253ece2b4de7ad69ef80e5e387ee499b2f34aba039485ea3816e5b6a469cc",
+            "w": 256
+          },
+          {
+            "bytes": 62772,
+            "h": 599,
+            "path": "webp/gold-floral-frame-384.webp",
+            "sha256": "9d208127ac7c420f8091447ad107088ce7de75f1dd79ad4dd6b8b2d199363221",
+            "w": 384
+          },
+          {
+            "bytes": 105338,
+            "h": 799,
+            "path": "webp/gold-floral-frame-512.webp",
+            "sha256": "e8ee07b51418bf4e2235fa3147304824873acea585d1c199ca85b54174aa4127",
+            "w": 512
+          },
+          {
+            "bytes": 212614,
+            "h": 1198,
+            "path": "webp/gold-floral-frame-768.webp",
+            "sha256": "6165fbf261314199ad0964746471432855a79fd388fb0cb1234660361adf000b",
+            "w": 768
+          },
+          {
+            "bytes": 278452,
+            "h": 1418,
+            "path": "webp/gold-floral-frame-909.webp",
+            "sha256": "dc6eaff7e4c6cd30b90a50966954381be5038c4afde046d8e4e9e00c6519214e",
+            "w": 909
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "frame",
+        "flower",
+        "rose",
+        "cornflower",
+        "pansy",
+        "bud",
+        "leaf",
+        "acanthus",
+        "butterfly",
+        "insect",
+        "bird",
+        "margin"
+      ],
+      "thumbhash": "XkmCAwA4X3aLWKagOA5k0/t1g3psdYg=",
+      "title": "Strewn-flower border with arched opening",
+      "transparent": true,
+      "type": "frame",
+      "usage_notes": [
+        "Fixed complete frame; place it as one image and put content inside the arched opening. The four sides are of different thickness and the opening is arched, so it is not a nine-slice border and has no frame atlas.",
+        "The five single flowers, butterflies and bird of this set are cut from this border and can be scattered around it in the same manner."
+      ],
+      "width": 909
+    },
+    "gray-butterfly": {
+      "attribution": "Cleveland Museum of Art 1963.256.80.b; Hours of Queen Isabella, fol. 80v",
+      "categories": [
+        "animals"
+      ],
+      "colors": [
+        "gray",
+        "cream",
+        "brown",
+        "black"
+      ],
+      "composition": "single-figure",
+      "description": "A grey butterfly seen from the side with its wings closed over its back, facing right. The pale grey-beige wings carry darker mottled bands and several black eyespots ringed in white, one large on the forewing and a row of smaller ones on the hindwing; the dark body, thin legs and two long clubbed antennae point to the right. The background is transparent.",
+      "display_width": [
+        100,
+        350
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 25315,
+        "webpTopBytes": 45492
+      },
+      "facing": "right",
+      "group": null,
+      "height": 385,
+      "master": {
+        "bytes": 152890,
+        "h": 385,
+        "path": "masters/gray-butterfly.webp",
+        "sha256": "de108b3585cc087886e1525b2bae05b74145a0189139a58cfeb50a6b89f7d7b6",
+        "w": 450
+      },
+      "palette": [
+        "#b7aa9f",
+        "#94877f",
+        "#a89a8f",
+        "#4f4542",
+        "#746762"
+      ],
+      "provenance": {
+        "artist": "Master of the First Prayerbook of Maximilian and associates",
+        "date": "ca. 1500",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://archive.org/download/clevelandart-1963.256.80.b-hours-of-queen-isabe/1963.256.80.b_full.jpg",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1963.256.80.b; Hours of Queen Isabella, fol. 80v",
+        "object_title": "Floral border surrounding Virgin and Christ with Angels",
+        "record_url": "https://www.clevelandart.org/art/1963.256.80.b",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "74b406120e8c2872fddd48d75be535e24f479ea4b15b07a233855a072f229472"
+      },
+      "related": [
+        {
+          "asset": "cma-1963-256/gold-floral-frame",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1597,
+            "h": 55,
+            "path": "avif/gray-butterfly-64.avif",
+            "sha256": "df897d4ab7477d7a5fb18c65e0e999440336f136c6e3ac183f339f162f3197b8",
+            "w": 64
+          },
+          {
+            "bytes": 2698,
+            "h": 82,
+            "path": "avif/gray-butterfly-96.avif",
+            "sha256": "dd18bd3bcca69bff522ac3f491ce5a226f8901e498f049be977cd23e89777091",
+            "w": 96
+          },
+          {
+            "bytes": 3830,
+            "h": 110,
+            "path": "avif/gray-butterfly-128.avif",
+            "sha256": "972dee65e23c5cb8f0bc5cdfb3402022fa205a2dcf3aefd2d47bb05f62632d84",
+            "w": 128
+          },
+          {
+            "bytes": 6651,
+            "h": 164,
+            "path": "avif/gray-butterfly-192.avif",
+            "sha256": "c8929985ca7af690ed7b2698d5903c35324ae6198769a852bf0a2307078802ae",
+            "w": 192
+          },
+          {
+            "bytes": 10162,
+            "h": 219,
+            "path": "avif/gray-butterfly-256.avif",
+            "sha256": "269f9837b392d2167b9e7186552f44a3cdd14807af8b5ff8a4d71e140d9f05a5",
+            "w": 256
+          },
+          {
+            "bytes": 18955,
+            "h": 329,
+            "path": "avif/gray-butterfly-384.avif",
+            "sha256": "7a276e4699388f49db8d93be75811e3a4916703023f80869f414db7fe7f622df",
+            "w": 384
+          },
+          {
+            "bytes": 25315,
+            "h": 385,
+            "path": "avif/gray-butterfly-450.avif",
+            "sha256": "0f38adcea6619430196ce1ba2e7f58d57b86910ecfe6626f4b3ccefd2e8f0a73",
+            "w": 450
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2446,
+            "h": 55,
+            "path": "webp/gray-butterfly-64.webp",
+            "sha256": "76e91e92dd9d58ad1053c70dd2a2ec5c705e68b22bf1b1269a03369b1d318855",
+            "w": 64
+          },
+          {
+            "bytes": 4164,
+            "h": 82,
+            "path": "webp/gray-butterfly-96.webp",
+            "sha256": "2f61010d43a22bdd75e3245e848fb62e5879b2522f4db5191ee9f29e591f49c2",
+            "w": 96
+          },
+          {
+            "bytes": 6396,
+            "h": 110,
+            "path": "webp/gray-butterfly-128.webp",
+            "sha256": "84da687c7d580eb76eee3b93cd5ac2ccd30279fc2cad179cb8eb944f84375cd9",
+            "w": 128
+          },
+          {
+            "bytes": 11700,
+            "h": 164,
+            "path": "webp/gray-butterfly-192.webp",
+            "sha256": "1df7f68197641862bf182328ba98c920ec1086500130485550b8d7f1f9eb4201",
+            "w": 192
+          },
+          {
+            "bytes": 18392,
+            "h": 219,
+            "path": "webp/gray-butterfly-256.webp",
+            "sha256": "f3d6926027e84745ae87f961a80a62d177b7c074f94d21b39747aaaf8bd3d525",
+            "w": 256
+          },
+          {
+            "bytes": 35268,
+            "h": 329,
+            "path": "webp/gray-butterfly-384.webp",
+            "sha256": "c8a64f9f8e72352ea2752f48a47f6dadcf547ac431b41b2bfb277fa99455b088",
+            "w": 384
+          },
+          {
+            "bytes": 45492,
+            "h": 385,
+            "path": "webp/gray-butterfly-450.webp",
+            "sha256": "9129bb5f49dd960de723f4ccc34e9f86d2536db1a23d671cf6c6024a64a9c30c",
+            "w": 450
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "butterfly",
+        "insect",
+        "wings"
+      ],
+      "thumbhash": "YhiCBIA3jEBXuFZ2+JpVa6/zVmeoWJd4Bg==",
+      "title": "Grey butterfly in profile",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Cut from the left pillar of the strewn-flower border; the painted shadow on the gold ground is not included."
+      ],
+      "view": "side",
+      "width": 450
+    },
+    "orange-butterfly": {
+      "attribution": "Cleveland Museum of Art 1963.256.80.b; Hours of Queen Isabella, fol. 80v",
+      "categories": [
+        "animals"
+      ],
+      "colors": [
+        "orange",
+        "gray",
+        "brown",
+        "black"
+      ],
+      "composition": "single-figure",
+      "description": "A small butterfly seen from the side with its wings closed over its back, facing right. The forewing is orange with brown mottling and black eyespots ringed in yellow; the larger hindwing below is pale grey with a row of black eyespots ringed in white. The dark body, thin legs and two clubbed antennae point to the right. The background is transparent.",
+      "display_width": [
+        80,
+        300
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 19770,
+        "webpTopBytes": 34850
+      },
+      "facing": "right",
+      "group": null,
+      "height": 300,
+      "master": {
+        "bytes": 106582,
+        "h": 300,
+        "path": "masters/orange-butterfly.webp",
+        "sha256": "0ddd07414d88810a4125e4001e315317b4ce56ba90e9cb89f45ae0a9f1ca60ee",
+        "w": 297
+      },
+      "palette": [
+        "#8e7666",
+        "#c07533",
+        "#5b473d",
+        "#ab9b90",
+        "#ac8a6c"
+      ],
+      "provenance": {
+        "artist": "Master of the First Prayerbook of Maximilian and associates",
+        "date": "ca. 1500",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://archive.org/download/clevelandart-1963.256.80.b-hours-of-queen-isabe/1963.256.80.b_full.jpg",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1963.256.80.b; Hours of Queen Isabella, fol. 80v",
+        "object_title": "Floral border surrounding Virgin and Christ with Angels",
+        "record_url": "https://www.clevelandart.org/art/1963.256.80.b",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "74b406120e8c2872fddd48d75be535e24f479ea4b15b07a233855a072f229472"
+      },
+      "related": [
+        {
+          "asset": "cma-1963-256/gold-floral-frame",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2320,
+            "h": 65,
+            "path": "avif/orange-butterfly-64.avif",
+            "sha256": "2c0b2892795fa244b09b10365257c730e5451e4b132f321b6de2ef2a01324383",
+            "w": 64
+          },
+          {
+            "bytes": 3867,
+            "h": 97,
+            "path": "avif/orange-butterfly-96.avif",
+            "sha256": "b0e68754e8519eb32b7aa6a908d05fe4984918fa88095dde743573e5c5c2645d",
+            "w": 96
+          },
+          {
+            "bytes": 5227,
+            "h": 129,
+            "path": "avif/orange-butterfly-128.avif",
+            "sha256": "d3f5bd9fa6e69af50bdadfd11dfebfe386ddc5fed97e06a36225ed06f4fcf756",
+            "w": 128
+          },
+          {
+            "bytes": 9541,
+            "h": 194,
+            "path": "avif/orange-butterfly-192.avif",
+            "sha256": "1f51b101cac0e6fbcea1fc41c794b05a2fc3301256e6faee49e8110598f6fe84",
+            "w": 192
+          },
+          {
+            "bytes": 14394,
+            "h": 259,
+            "path": "avif/orange-butterfly-256.avif",
+            "sha256": "70d08f801eff6d4e5426e9f8ce56aa900c18b95575607bccfe426d28cc2358c4",
+            "w": 256
+          },
+          {
+            "bytes": 19770,
+            "h": 300,
+            "path": "avif/orange-butterfly-297.avif",
+            "sha256": "c3e656c7a5f723e66a54098fcc9987e4396e0c42c649b772cd866500840bc2a4",
+            "w": 297
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3410,
+            "h": 65,
+            "path": "webp/orange-butterfly-64.webp",
+            "sha256": "5a7ae5a6be14e5a45836a3137e44a9a314cf9c71b06fd0c2c9ccd637bded63bb",
+            "w": 64
+          },
+          {
+            "bytes": 6018,
+            "h": 97,
+            "path": "webp/orange-butterfly-96.webp",
+            "sha256": "a25512a0fa1e3d3a4be6b05e355f325d8b2d18db30da771ffd668efaeb9e8619",
+            "w": 96
+          },
+          {
+            "bytes": 9364,
+            "h": 129,
+            "path": "webp/orange-butterfly-128.webp",
+            "sha256": "b85756ccf5e27e36e71c6a27e88a4e042b2a29b1ae8b49753b42ca6a007bb7b0",
+            "w": 128
+          },
+          {
+            "bytes": 17316,
+            "h": 194,
+            "path": "webp/orange-butterfly-192.webp",
+            "sha256": "829fd8edf750558a74434861a0334e7f6c4b8d711234943c856ec1b409ebdfd6",
+            "w": 192
+          },
+          {
+            "bytes": 27702,
+            "h": 259,
+            "path": "webp/orange-butterfly-256.webp",
+            "sha256": "e0b954723b8d18db0ef79426f21f2891ab097dc7864378ea463ff6e4b625803d",
+            "w": 256
+          },
+          {
+            "bytes": 34850,
+            "h": 300,
+            "path": "webp/orange-butterfly-297.webp",
+            "sha256": "c86621b7a2a0993f2a9eac9ada0eb50c7b820fc3b639fc631ade8aed713b0e6b",
+            "w": 297
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "butterfly",
+        "insect",
+        "wings"
+      ],
+      "thumbhash": "XEmCFQIoLLIw3FeneWi/g/Y7L1SEaXOZVw==",
+      "title": "Orange butterfly in profile",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Cut from the top left corner of the strewn-flower border; the painted shadow on the gold ground is not included."
+      ],
+      "view": "side",
+      "width": 297
+    },
+    "small-bird": {
+      "attribution": "Cleveland Museum of Art 1963.256.80.b; Hours of Queen Isabella, fol. 80v",
+      "categories": [
+        "animals"
+      ],
+      "colors": [
+        "brown",
+        "gray",
+        "cream",
+        "blue",
+        "black"
+      ],
+      "composition": "single-figure",
+      "description": "A small songbird standing in profile and facing left, with a grey-brown head and back, a dark pointed beak, a round dark eye, a cream breast streaked with brown, a bright blue patch on the folded wing, a short barred tail and two thin dark legs with spread claws. There is no ground under the feet; the background is transparent.",
+      "display_width": [
+        120,
+        500
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 20117,
+        "webpTopBytes": 37454
+      },
+      "facing": "left",
+      "group": null,
+      "height": 279,
+      "master": {
+        "bytes": 112952,
+        "h": 279,
+        "path": "masters/small-bird.webp",
+        "sha256": "547994a64f8ba55c5b669cfcef15286602d251c90a215f317080ca6714814594",
+        "w": 530
+      },
+      "palette": [
+        "#686f7c",
+        "#5d514b",
+        "#8c7e75",
+        "#c7baac",
+        "#a19b98"
+      ],
+      "provenance": {
+        "artist": "Master of the First Prayerbook of Maximilian and associates",
+        "date": "ca. 1500",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://archive.org/download/clevelandart-1963.256.80.b-hours-of-queen-isabe/1963.256.80.b_full.jpg",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1963.256.80.b; Hours of Queen Isabella, fol. 80v",
+        "object_title": "Floral border surrounding Virgin and Christ with Angels",
+        "record_url": "https://www.clevelandart.org/art/1963.256.80.b",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "74b406120e8c2872fddd48d75be535e24f479ea4b15b07a233855a072f229472"
+      },
+      "related": [
+        {
+          "asset": "cma-1963-256/gold-floral-frame",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1449,
+            "h": 34,
+            "path": "avif/small-bird-64.avif",
+            "sha256": "6a7e966f05f87d41888409e79c233bebb15bfe53c416708044c55041b3d29e03",
+            "w": 64
+          },
+          {
+            "bytes": 2201,
+            "h": 51,
+            "path": "avif/small-bird-96.avif",
+            "sha256": "4ee1466d80b6aa075842acbe6f58ed84e29ca01f5fcc0be48d47371d40661c7b",
+            "w": 96
+          },
+          {
+            "bytes": 3036,
+            "h": 67,
+            "path": "avif/small-bird-128.avif",
+            "sha256": "55b5d948bb179895e2360fbad0beb270b01b97a82619a1357ac76037d9189aff",
+            "w": 128
+          },
+          {
+            "bytes": 4733,
+            "h": 101,
+            "path": "avif/small-bird-192.avif",
+            "sha256": "f2461b636f14c4683af62cffd48e1c93fd95752bfeee578b59a44d13c087f5c4",
+            "w": 192
+          },
+          {
+            "bytes": 6992,
+            "h": 135,
+            "path": "avif/small-bird-256.avif",
+            "sha256": "ccfd9c724426c259fddbeff4204bc475d90c03ba2ab7c4276154a285dd3caa08",
+            "w": 256
+          },
+          {
+            "bytes": 12349,
+            "h": 202,
+            "path": "avif/small-bird-384.avif",
+            "sha256": "2ffcaef5146a1783c10297a69fea428cdf5f8825945b8b1b475518f703daea35",
+            "w": 384
+          },
+          {
+            "bytes": 18622,
+            "h": 270,
+            "path": "avif/small-bird-512.avif",
+            "sha256": "99f3cda19850a88e631d61399fc42dd8adf8f7b8f6bdab8c8f978ba02cb43fe2",
+            "w": 512
+          },
+          {
+            "bytes": 20117,
+            "h": 279,
+            "path": "avif/small-bird-530.avif",
+            "sha256": "43609e786ee38375e6892aa0818553b0e8152a48e25993f09cea8ca30d799723",
+            "w": 530
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1820,
+            "h": 34,
+            "path": "webp/small-bird-64.webp",
+            "sha256": "1b86de42a42adff26805f476e888b82a91ae9beccb0080b7d2cc6ef5660969b7",
+            "w": 64
+          },
+          {
+            "bytes": 3112,
+            "h": 51,
+            "path": "webp/small-bird-96.webp",
+            "sha256": "f63a3f6307e46635864cbdcdeeb9ba3f9d16c6b0f99459ee105f61548b1eb402",
+            "w": 96
+          },
+          {
+            "bytes": 4896,
+            "h": 67,
+            "path": "webp/small-bird-128.webp",
+            "sha256": "5cf30ece19c8b665ceb637af610421740368c449d98196e095147e74496c735e",
+            "w": 128
+          },
+          {
+            "bytes": 7770,
+            "h": 101,
+            "path": "webp/small-bird-192.webp",
+            "sha256": "90f0ae7463d909ed5a236d161010301218204cf79d68fa07295f6f4382b78632",
+            "w": 192
+          },
+          {
+            "bytes": 11920,
+            "h": 135,
+            "path": "webp/small-bird-256.webp",
+            "sha256": "bc7a40da2b3a4cec01d3c6bfb4d228d357cd162688e6fc9bab9370e828e3c2a9",
+            "w": 256
+          },
+          {
+            "bytes": 23106,
+            "h": 202,
+            "path": "webp/small-bird-384.webp",
+            "sha256": "70f3114920221e75e9a5af672362c419985f884d25804b969f35ab587302ec32",
+            "w": 384
+          },
+          {
+            "bytes": 35928,
+            "h": 270,
+            "path": "webp/small-bird-512.webp",
+            "sha256": "4471df39e2ee3e434d8ea925efd220e9839587a3e8111320997b57c443fb4d37",
+            "w": 512
+          },
+          {
+            "bytes": 37454,
+            "h": 279,
+            "path": "webp/small-bird-530.webp",
+            "sha256": "ed28ea68d9043791bca81dd97e77874a5780058db186f6fa3ad8863ac9720c7e",
+            "w": 530
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "bird"
+      ],
+      "thumbhash": "HgiCA4AljVJ2iAPehM9t+Sxkq3iAW5c=",
+      "title": "Small bird with blue wing patch",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Cut from the lower left of the strewn-flower border; the painted shadow on the gold ground is not included. The feet rest on nothing, so give it a baseline or let it perch on an edge."
+      ],
+      "view": "side",
+      "width": 530
+    }
+  },
+  "attribution": "Cleveland Museum of Art 1963.256.80.b",
+  "builtAt": "2026-10-28T16:06:53.078Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-cma-1963-256@1.0.0/",
+  "contentHash": "sha256:3d6a50fc8f4508e05ab7867968080f4a3fc2621a9a1967c20a784f5e2e62e44b",
+  "inputsHash": "sha256:3d6162d77b03a2cb15ba594b5da1ecf047a07bfaa9108bd6470ca883358ba383",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from a Cleveland Museum of Art Open Access (CC0) image; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-cma-1963-256-masters",
+  "package": "@ranx729/ducktape-assets-cma-1963-256",
+  "period": "ca. 1500",
+  "region": "Flanders",
+  "schema": 1,
+  "set": "cma-1963-256",
+  "style": "Ghent-Bruges illuminated manuscript border",
+  "summary": "Flowers, insects and a bird from the strewn floral border of folio 80v of the Hours of Queen Isabella the Catholic (Ghent or Bruges, ca. 1500, Master of the First Prayerbook of Maximilian and associates), Cleveland Museum of Art 1963.256.",
+  "title": "Cleveland 1963.256, Hours of Queen Isabella",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

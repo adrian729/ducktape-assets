@@ -1,0 +1,897 @@
+{
+  "assets": {
+    "closed-rosebud": {
+      "attribution": "J. Paul Getty Museum Ms. 20 (86.MV.527), fol. 107",
+      "categories": [
+        "floral",
+        "botanical"
+      ],
+      "colors": [
+        "pink",
+        "green",
+        "cream"
+      ],
+      "composition": "standalone",
+      "description": "A closed pink rosebud hangs with its tip toward the lower left, the folded petals wrapped by five long olive-green sepals that splay out in thin curving points, with a hairy green hip and a short thorny stem that rises to the upper right. Finely hatched watercolour and gouache on a transparent background, no ground.",
+      "display_width": [
+        200,
+        640
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 54347,
+        "webpTopBytes": 102344
+      },
+      "facing": "left",
+      "group": null,
+      "height": 541,
+      "master": {
+        "bytes": 321942,
+        "h": 541,
+        "path": "masters/closed-rosebud.webp",
+        "sha256": "675f5ef7484ab8c2148e65e24db59202caa52f0c590fc66daa806253102ce3f8",
+        "w": 900
+      },
+      "palette": [
+        "#a49840",
+        "#f1aea4",
+        "#7f782b",
+        "#d98f77",
+        "#d0b36a"
+      ],
+      "provenance": {
+        "artist": "Georg Bocskay, script; Joris Hoefnagel, illumination",
+        "date": "Script 1561-1562; illumination 1591-1596",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://media.getty.edu/iiif/image/c87fb882-b2e5-4d43-b225-c90f00569be8/full/full/0/default.jpg",
+        "institution": "J. Paul Getty Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "Ms. 20 (86.MV.527), fol. 107",
+        "object_title": "French Rose and Apple",
+        "record_url": "https://www.getty.edu/news/to-hold-nature-in-the-hand-revealing-the-wonders-of-the-mira-monumenta-calligraphiae/",
+        "rights_url": "https://www.getty.edu/projects/open-content-program/",
+        "source_sha256": "4a9ac6e7d8bfc6f1ff31b9a83b5ead4ec79afb74e3b51b4fde9fa28fd4a69700"
+      },
+      "related": [
+        {
+          "asset": "getty-ms20/opening-rosebud",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1823,
+            "h": 38,
+            "path": "avif/closed-rosebud-64.avif",
+            "sha256": "d1ea00953d06ffebedb23b105a7ea205d32e8f69994b608d5cb7c08d31633545",
+            "w": 64
+          },
+          {
+            "bytes": 2861,
+            "h": 58,
+            "path": "avif/closed-rosebud-96.avif",
+            "sha256": "af682b6c1333d8238d8a091c1e54f2c00bc2c437d2934b6e1fd6187f18e51762",
+            "w": 96
+          },
+          {
+            "bytes": 3774,
+            "h": 77,
+            "path": "avif/closed-rosebud-128.avif",
+            "sha256": "9c85a00881fbe7c76c0abaf953888c9ef68439d9acf09287b61c6294ed330595",
+            "w": 128
+          },
+          {
+            "bytes": 5773,
+            "h": 115,
+            "path": "avif/closed-rosebud-192.avif",
+            "sha256": "1798fe27577720cb076c4c2284103ff14633e83d764164921b85c94e5024a318",
+            "w": 192
+          },
+          {
+            "bytes": 8543,
+            "h": 154,
+            "path": "avif/closed-rosebud-256.avif",
+            "sha256": "5846ccaf7980439a7ff12c658c91a2eb39a0276b088771666d5fe5fe951c7b87",
+            "w": 256
+          },
+          {
+            "bytes": 15669,
+            "h": 231,
+            "path": "avif/closed-rosebud-384.avif",
+            "sha256": "01661a2ed0370d25018b407e6137ea9f0dc80c82fc254f512f600cee3e8538f7",
+            "w": 384
+          },
+          {
+            "bytes": 22933,
+            "h": 308,
+            "path": "avif/closed-rosebud-512.avif",
+            "sha256": "5f6977178051ce1f4bdd1125296abf43a8f5f2b257af5cad5ad8ae69799d9274",
+            "w": 512
+          },
+          {
+            "bytes": 42762,
+            "h": 462,
+            "path": "avif/closed-rosebud-768.avif",
+            "sha256": "59fc31cbde14b04e08d043b3e5abcee6b5ebdc8c8460175dffab80fedf608643",
+            "w": 768
+          },
+          {
+            "bytes": 54347,
+            "h": 541,
+            "path": "avif/closed-rosebud-900.avif",
+            "sha256": "9e7a1eca00432c12a37d997affb4e1e759a1fef33545be1daee98a8664ae1a2d",
+            "w": 900
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2190,
+            "h": 38,
+            "path": "webp/closed-rosebud-64.webp",
+            "sha256": "5b567b96903377b6e938edfa825e8cf5cf604ff7e8cd47318735c105e02b12de",
+            "w": 64
+          },
+          {
+            "bytes": 3784,
+            "h": 58,
+            "path": "webp/closed-rosebud-96.webp",
+            "sha256": "cfcb08d9e6b53e6cc8662ca8010c640debaafefa6ccaf1e86a14177e82b61efd",
+            "w": 96
+          },
+          {
+            "bytes": 5300,
+            "h": 77,
+            "path": "webp/closed-rosebud-128.webp",
+            "sha256": "5ea200196d44e709f376979bce7e7f2c26dbd0856c34971c27d12093b190c5a8",
+            "w": 128
+          },
+          {
+            "bytes": 9198,
+            "h": 115,
+            "path": "webp/closed-rosebud-192.webp",
+            "sha256": "08d97106ce8d35672e6611807b2b8f836fb347990baf96affb9b0a7e33f0cb12",
+            "w": 192
+          },
+          {
+            "bytes": 13670,
+            "h": 154,
+            "path": "webp/closed-rosebud-256.webp",
+            "sha256": "a33c2482214b86ce57050a8122ac1e9effb3a0b1f154515cf7504cb06712957d",
+            "w": 256
+          },
+          {
+            "bytes": 25028,
+            "h": 231,
+            "path": "webp/closed-rosebud-384.webp",
+            "sha256": "d1651bd93589f3aaced557e1d64337f64db4f8d7044c61c83b32845ce45ddee0",
+            "w": 384
+          },
+          {
+            "bytes": 39936,
+            "h": 308,
+            "path": "webp/closed-rosebud-512.webp",
+            "sha256": "e483ada1ae494f547495c01a3d7f3961fce84bdf7ed9de91c87e0e3c79edb588",
+            "w": 512
+          },
+          {
+            "bytes": 81288,
+            "h": 462,
+            "path": "webp/closed-rosebud-768.webp",
+            "sha256": "10fa63fc8133a7427ee11c17607a2a4dcc7a79ce91d452a4505fef4a8c486835",
+            "w": 768
+          },
+          {
+            "bytes": 102344,
+            "h": 541,
+            "path": "webp/closed-rosebud-900.webp",
+            "sha256": "e218651b3f9341e9568b6d16046aaa5a3d8bd064bda8007261ed4587fbb662a7",
+            "w": 900
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "rose",
+        "bud",
+        "flower",
+        "stem"
+      ],
+      "thumbhash": "ZEqCA4AkXJB1uGWwn/sEVgiWZolyi2g=",
+      "title": "Closed rosebud on its stem",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The more open bud hoefnagel-rose-upper comes from the same plant on the folio; the two hang well one above the other with their stems to the right.",
+        "The stem is short and ends cleanly at the upper right, so the piece needs no cropping."
+      ],
+      "view": "side",
+      "width": 900
+    },
+    "cut-apple": {
+      "attribution": "J. Paul Getty Museum Ms. 20 (86.MV.527), fol. 107",
+      "categories": [
+        "botanical"
+      ],
+      "colors": [
+        "red",
+        "cream",
+        "tan",
+        "brown"
+      ],
+      "composition": "standalone",
+      "description": "A red apple cut in two, the halves lying with their pale cream cut faces toward the viewer and overlapping, the left half slightly behind the right; each cut face shows a yellow-brown core cavity with one dark brown seed, the left half carries the short brown stalk at the top and both halves keep a dried brown blossom end on the red skin. Finely hatched gouache and watercolour on a transparent background, no ground.",
+      "display_width": [
+        240,
+        800
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 132326,
+        "webpTopBytes": 278636
+      },
+      "facing": "none",
+      "group": null,
+      "height": 1033,
+      "master": {
+        "bytes": 1427430,
+        "h": 1033,
+        "path": "masters/cut-apple.webp",
+        "sha256": "230df6f1d844a1bdc24763f017baeaa986826c80938f5f6fa32abd1e8df175a3",
+        "w": 1239
+      },
+      "palette": [
+        "#f2d9af",
+        "#d94440",
+        "#dba46d",
+        "#ecc199",
+        "#9b4333"
+      ],
+      "provenance": {
+        "artist": "Georg Bocskay, script; Joris Hoefnagel, illumination",
+        "date": "Script 1561-1562; illumination 1591-1596",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://media.getty.edu/iiif/image/c87fb882-b2e5-4d43-b225-c90f00569be8/full/full/0/default.jpg",
+        "institution": "J. Paul Getty Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "Ms. 20 (86.MV.527), fol. 107",
+        "object_title": "French Rose and Apple",
+        "record_url": "https://www.getty.edu/news/to-hold-nature-in-the-hand-revealing-the-wonders-of-the-mira-monumenta-calligraphiae/",
+        "rights_url": "https://www.getty.edu/projects/open-content-program/",
+        "source_sha256": "4a9ac6e7d8bfc6f1ff31b9a83b5ead4ec79afb74e3b51b4fde9fa28fd4a69700"
+      },
+      "quality": "The bottom of the apple runs onto the canvas edge, so a short stretch of the lower skin outline is cut flat.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1749,
+            "h": 53,
+            "path": "avif/cut-apple-64.avif",
+            "sha256": "21dbde631719512d6c779433a72ad1e066a141eb7aff235d5dff4f629aff056e",
+            "w": 64
+          },
+          {
+            "bytes": 2783,
+            "h": 80,
+            "path": "avif/cut-apple-96.avif",
+            "sha256": "f8c6c5680ce4b6fac01758ad528dccc8f16c10922cf41e0f72798b780acf5f4c",
+            "w": 96
+          },
+          {
+            "bytes": 3763,
+            "h": 107,
+            "path": "avif/cut-apple-128.avif",
+            "sha256": "41b271724727c115c8d4dff34a4838ea60182d6e6bfa8ac32241ca6b71e9e7a5",
+            "w": 128
+          },
+          {
+            "bytes": 6598,
+            "h": 160,
+            "path": "avif/cut-apple-192.avif",
+            "sha256": "ace1623e641e646f1868b6da1d74f062c9d83c67336a14d5c8a68d987eefd90c",
+            "w": 192
+          },
+          {
+            "bytes": 10087,
+            "h": 213,
+            "path": "avif/cut-apple-256.avif",
+            "sha256": "3c34e6635e9704175a449dbfb6c6a780c7d5ccb4bb8f69e260cd322f27a2f244",
+            "w": 256
+          },
+          {
+            "bytes": 20252,
+            "h": 320,
+            "path": "avif/cut-apple-384.avif",
+            "sha256": "dbdb0b8d4257b1c837d7d5d6a181b6ffaa13f2e625c2418f5626bd718d3bcbb2",
+            "w": 384
+          },
+          {
+            "bytes": 32430,
+            "h": 427,
+            "path": "avif/cut-apple-512.avif",
+            "sha256": "3023881c35f14b1f32cc851570626e1a3bf85f66a45ae3c34f4e4059aa461014",
+            "w": 512
+          },
+          {
+            "bytes": 62709,
+            "h": 640,
+            "path": "avif/cut-apple-768.avif",
+            "sha256": "5aa3dc283bd20c4b2824ecf87aa1b4431eccc24cbc40a39802ef4dde7ff6359d",
+            "w": 768
+          },
+          {
+            "bytes": 99989,
+            "h": 854,
+            "path": "avif/cut-apple-1024.avif",
+            "sha256": "774e1deffe00e9bc5c1d153f1b100873f1586e04dbbbfe022417a8febacee8a8",
+            "w": 1024
+          },
+          {
+            "bytes": 132326,
+            "h": 1033,
+            "path": "avif/cut-apple-1239.avif",
+            "sha256": "6e1f95fcf3a5960bbf83c5fe19a3f267e6ade179673e5e464999a409c82b7159",
+            "w": 1239
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2468,
+            "h": 53,
+            "path": "webp/cut-apple-64.webp",
+            "sha256": "8e63216b6c741d759cf0497c563dddad6526a4ab887f7c1a2c7fd1c86e6b25c3",
+            "w": 64
+          },
+          {
+            "bytes": 4246,
+            "h": 80,
+            "path": "webp/cut-apple-96.webp",
+            "sha256": "7548e9cb131aab3b3faae10f40b8175b68a68324bee65f8accc1820d242a3374",
+            "w": 96
+          },
+          {
+            "bytes": 6552,
+            "h": 107,
+            "path": "webp/cut-apple-128.webp",
+            "sha256": "bec099e3527ad3f74a44e7fb2ad3f8e80b4a625642a5cf570e9af4185f637d51",
+            "w": 128
+          },
+          {
+            "bytes": 12142,
+            "h": 160,
+            "path": "webp/cut-apple-192.webp",
+            "sha256": "a64d31a5fe9ea2a023c7e1adfd489e0d156da0c52d4796da28ad90dd4b2df834",
+            "w": 192
+          },
+          {
+            "bytes": 19610,
+            "h": 213,
+            "path": "webp/cut-apple-256.webp",
+            "sha256": "dc6274561a008684dee4cac0f141329c796de9ee298e9b53ea24f455d0292e9e",
+            "w": 256
+          },
+          {
+            "bytes": 36520,
+            "h": 320,
+            "path": "webp/cut-apple-384.webp",
+            "sha256": "e48b9cad9f73d9f00db4325fe73c7eca4e926b2b0b8907dec446440f561f4f6d",
+            "w": 384
+          },
+          {
+            "bytes": 60034,
+            "h": 427,
+            "path": "webp/cut-apple-512.webp",
+            "sha256": "352b58bfe24996e1f48e131fd1c470431e96fd4a91d3cc374e4e8b7cc14b998b",
+            "w": 512
+          },
+          {
+            "bytes": 124234,
+            "h": 640,
+            "path": "webp/cut-apple-768.webp",
+            "sha256": "a7deac4f5cb8c4f4de36c0ce382e58c32b4038e5b97fe3928e833c9d8dba67df",
+            "w": 768
+          },
+          {
+            "bytes": 208292,
+            "h": 854,
+            "path": "webp/cut-apple-1024.webp",
+            "sha256": "9e64dbffd18f6f8659362854678bcca78f2ae90f8bca45df1b80c831d2a13384",
+            "w": 1024
+          },
+          {
+            "bytes": 278636,
+            "h": 1033,
+            "path": "webp/cut-apple-1239.webp",
+            "sha256": "e8cec630bf6f62c2fda50954e316f56b357c3727de62b615e1218638bd499f29",
+            "w": 1239
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "apple",
+        "fruit",
+        "seed",
+        "stem"
+      ],
+      "thumbhash": "62mGDIQqSHavVrO58naWuXB8kXZqBld4Bg==",
+      "title": "Apple cut in half",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The lowest curve of the skin is cut flat by the canvas edge; rest that edge on a baseline, rule or page bottom and the cut disappears."
+      ],
+      "width": 1239
+    },
+    "opening-rosebud": {
+      "attribution": "J. Paul Getty Museum Ms. 20 (86.MV.527), fol. 107",
+      "categories": [
+        "floral",
+        "botanical"
+      ],
+      "colors": [
+        "pink",
+        "green",
+        "cream"
+      ],
+      "composition": "standalone",
+      "description": "A half-open pink rosebud at the left, its outer petals loosening and shaded from pale pink to deep rose, held by olive-green sepals that curl back along the bud and over the hairy hip; a long thin green stem runs almost horizontally to the right edge. Finely hatched watercolour and gouache on a transparent background, no ground.",
+      "display_width": [
+        240,
+        720
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 50339,
+        "webpTopBytes": 98100
+      },
+      "facing": "left",
+      "group": null,
+      "height": 438,
+      "master": {
+        "bytes": 318480,
+        "h": 438,
+        "path": "masters/opening-rosebud.webp",
+        "sha256": "054182f1c98dee62aeeb710bfe41b9d1f73b78a1d711db17bf8b02d5fdd94e6d",
+        "w": 1000
+      },
+      "palette": [
+        "#f7bdb0",
+        "#847c2a",
+        "#f29397",
+        "#c2b05a",
+        "#b59051"
+      ],
+      "provenance": {
+        "artist": "Georg Bocskay, script; Joris Hoefnagel, illumination",
+        "date": "Script 1561-1562; illumination 1591-1596",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://media.getty.edu/iiif/image/c87fb882-b2e5-4d43-b225-c90f00569be8/full/full/0/default.jpg",
+        "institution": "J. Paul Getty Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "Ms. 20 (86.MV.527), fol. 107",
+        "object_title": "French Rose and Apple",
+        "record_url": "https://www.getty.edu/news/to-hold-nature-in-the-hand-revealing-the-wonders-of-the-mira-monumenta-calligraphiae/",
+        "rights_url": "https://www.getty.edu/projects/open-content-program/",
+        "source_sha256": "4a9ac6e7d8bfc6f1ff31b9a83b5ead4ec79afb74e3b51b4fde9fa28fd4a69700"
+      },
+      "related": [
+        {
+          "asset": "getty-ms20/closed-rosebud",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1400,
+            "h": 28,
+            "path": "avif/opening-rosebud-64.avif",
+            "sha256": "d797240a86ee2ef9cb18afe16f68505f7a5aede38a4f402183c61062a8c98841",
+            "w": 64
+          },
+          {
+            "bytes": 2167,
+            "h": 42,
+            "path": "avif/opening-rosebud-96.avif",
+            "sha256": "da8eba977bb4b9b6f810b57ae857128aa916dd2217f8b4e5e7628232e8d1a8c1",
+            "w": 96
+          },
+          {
+            "bytes": 2884,
+            "h": 56,
+            "path": "avif/opening-rosebud-128.avif",
+            "sha256": "8810c2e6d9ab769e10d87689502083cc32e5d209fe082b7e8db460a20b5395eb",
+            "w": 128
+          },
+          {
+            "bytes": 4455,
+            "h": 84,
+            "path": "avif/opening-rosebud-192.avif",
+            "sha256": "c6c9a59c7517cbf4d628ab0ec40018477e3746df0611662f57804c6d506ace3c",
+            "w": 192
+          },
+          {
+            "bytes": 6074,
+            "h": 112,
+            "path": "avif/opening-rosebud-256.avif",
+            "sha256": "d0b214fcd5781aec7d2a1f36cc9427c94ac77c7fb94e18c72c9cf31d054aa48d",
+            "w": 256
+          },
+          {
+            "bytes": 11073,
+            "h": 168,
+            "path": "avif/opening-rosebud-384.avif",
+            "sha256": "c17d809b4a8b5bdd15e214ac55d111b599da058356540d65f9f12b2628e2383d",
+            "w": 384
+          },
+          {
+            "bytes": 16791,
+            "h": 224,
+            "path": "avif/opening-rosebud-512.avif",
+            "sha256": "f2e4721300be6a0b286a174315bc8e57d61f9f92b42794c4915deb8acbdcd6a8",
+            "w": 512
+          },
+          {
+            "bytes": 33621,
+            "h": 336,
+            "path": "avif/opening-rosebud-768.avif",
+            "sha256": "6d9876a725951e307819894e16f9e9d40e23bbefbc371bcf215bbbd5d1c022e4",
+            "w": 768
+          },
+          {
+            "bytes": 50339,
+            "h": 438,
+            "path": "avif/opening-rosebud-1000.avif",
+            "sha256": "36bec1be056b65fe49417b889ea3957b3f9cce2f4697e59bca560b2d2cb3feea",
+            "w": 1000
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1600,
+            "h": 28,
+            "path": "webp/opening-rosebud-64.webp",
+            "sha256": "cf8af6a0c5cc007eb44334fd4aa1a630ba1e27046a1c107ad598696e3de62a8c",
+            "w": 64
+          },
+          {
+            "bytes": 2740,
+            "h": 42,
+            "path": "webp/opening-rosebud-96.webp",
+            "sha256": "5424ccaab06c36a588c0b7e5fbb85f9a5a41e331dd4a5b5559d72910fc94f85a",
+            "w": 96
+          },
+          {
+            "bytes": 4074,
+            "h": 56,
+            "path": "webp/opening-rosebud-128.webp",
+            "sha256": "78ac4016ab0362fba9784ae85ac06032ec00d1ee5871a43104e3954fd58c9f0f",
+            "w": 128
+          },
+          {
+            "bytes": 7522,
+            "h": 84,
+            "path": "webp/opening-rosebud-192.webp",
+            "sha256": "09cbd3f3058d798181b1d83b74769843871a3c9e2980a2d4bff9c7b0b155f3d8",
+            "w": 192
+          },
+          {
+            "bytes": 11282,
+            "h": 112,
+            "path": "webp/opening-rosebud-256.webp",
+            "sha256": "8371a0640f32bea3ff87bd9d9b3aa1c8b9aaecb0ef3155b18f0ed787707e26f0",
+            "w": 256
+          },
+          {
+            "bytes": 20500,
+            "h": 168,
+            "path": "webp/opening-rosebud-384.webp",
+            "sha256": "d9ea5e28d6e841ceb0888717cb5c1d79500f6bce33ff22c3c3ab4ea7b0a7caad",
+            "w": 384
+          },
+          {
+            "bytes": 32056,
+            "h": 224,
+            "path": "webp/opening-rosebud-512.webp",
+            "sha256": "1efcde04014cdbd65c112ea649ef1806f72e706e08a84a6ea701154592fb2764",
+            "w": 512
+          },
+          {
+            "bytes": 65084,
+            "h": 336,
+            "path": "webp/opening-rosebud-768.webp",
+            "sha256": "1803c9d0125c1cd980bdcb1e6c73944b222887aac4d2c90d023af991fd240082",
+            "w": 768
+          },
+          {
+            "bytes": 98100,
+            "h": 438,
+            "path": "webp/opening-rosebud-1000.webp",
+            "sha256": "54fb52b09904bfe9ca4e4ab8a356b9f4e145127d00adc6e3525692c56b61c64d",
+            "w": 1000
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "rose",
+        "bud",
+        "flower",
+        "stem"
+      ],
+      "thumbhash": "J1qGCoIl/jhyimcAj+ofZ39EaXVUZ0g=",
+      "title": "Opening rosebud on a long stem",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The closed bud hoefnagel-rose-lower comes from the same plant on the folio; the two hang well one above the other with their stems to the right.",
+        "Wide piece (about 2.3:1); the long stem at the right can be cropped or run under a line of text without losing the flower."
+      ],
+      "view": "side",
+      "width": 1000
+    },
+    "strapwork-frame": {
+      "attribution": "J. Paul Getty Museum Ms. 20 (86.MV.527), fol. 107",
+      "categories": [
+        "scrollwork",
+        "botanical"
+      ],
+      "colors": [
+        "cream",
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A complete landscape rectangular cartouche frame of interlaced cream strapwork, the bands curling into scrolls and cut-leather tabs over a dark hatched ground, with a small rosette at each corner, a fleur-de-lis style finial at the middle of every side and a thin double rule around the transparent rectangular opening; fine golden-brown leafy vine tendrils spread outward from the whole outer edge. Pen and ink in brown and black on a transparent background.",
+      "display_width": [
+        480,
+        1200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 367510,
+        "webpTopBytes": 756094
+      },
+      "facing": "none",
+      "group": null,
+      "height": 1058,
+      "master": {
+        "bytes": 2049320,
+        "h": 1058,
+        "path": "masters/strapwork-frame.webp",
+        "sha256": "94752dee3d85c0db2537ff9f70229754edba8d0188d2eabc7c5782163e7e47ab",
+        "w": 1420
+      },
+      "palette": [
+        "#867563",
+        "#a29079",
+        "#c3b196",
+        "#746354",
+        "#5f4f43"
+      ],
+      "provenance": {
+        "artist": "Georg Bocskay, script; Joris Hoefnagel, illumination",
+        "date": "Script 1561-1562; illumination 1591-1596",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://media.getty.edu/iiif/image/c87fb882-b2e5-4d43-b225-c90f00569be8/full/full/0/default.jpg",
+        "institution": "J. Paul Getty Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "Ms. 20 (86.MV.527), fol. 107",
+        "object_title": "French Rose and Apple",
+        "record_url": "https://www.getty.edu/news/to-hold-nature-in-the-hand-revealing-the-wonders-of-the-mira-monumenta-calligraphiae/",
+        "rights_url": "https://www.getty.edu/projects/open-content-program/",
+        "source_sha256": "4a9ac6e7d8bfc6f1ff31b9a83b5ead4ec79afb74e3b51b4fde9fa28fd4a69700"
+      },
+      "quality": "The outermost vine tendrils along the bottom are cut by the canvas edge.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2374,
+            "h": 48,
+            "path": "avif/strapwork-frame-64.avif",
+            "sha256": "0f955e3f09eb00a87f03c970419bb02f1ecc3e3cec936aaae5888d58a89cd15f",
+            "w": 64
+          },
+          {
+            "bytes": 4153,
+            "h": 72,
+            "path": "avif/strapwork-frame-96.avif",
+            "sha256": "08e8c85e22cb6ed282a2efc1e79f56aaa4666e583d15c75c1e7e4622597c82a4",
+            "w": 96
+          },
+          {
+            "bytes": 6571,
+            "h": 95,
+            "path": "avif/strapwork-frame-128.avif",
+            "sha256": "98826b72c01d25ebcbbcfe1c3300d5c7dc66995f5162120fe8424558209ba8c5",
+            "w": 128
+          },
+          {
+            "bytes": 13164,
+            "h": 143,
+            "path": "avif/strapwork-frame-192.avif",
+            "sha256": "84c3e923f9d95add2a3fc9c4bcec55c1d2cce5302ac713870917552b7cbcbd23",
+            "w": 192
+          },
+          {
+            "bytes": 22032,
+            "h": 191,
+            "path": "avif/strapwork-frame-256.avif",
+            "sha256": "3a96dd9adfd0ebd8fd17da727e18b04cb783eacc5dbc2e7c06fdfe4bd69f91a4",
+            "w": 256
+          },
+          {
+            "bytes": 45497,
+            "h": 286,
+            "path": "avif/strapwork-frame-384.avif",
+            "sha256": "8ed1b2ad010fc855b970a6ab1bcf18cbdcf07dd533deb74ac340ae075e0d4adb",
+            "w": 384
+          },
+          {
+            "bytes": 74823,
+            "h": 381,
+            "path": "avif/strapwork-frame-512.avif",
+            "sha256": "f6f24125fef6dd8f8c0ad93e20ea011ccdc2af2b3f4d76824fd595c13969262e",
+            "w": 512
+          },
+          {
+            "bytes": 150756,
+            "h": 572,
+            "path": "avif/strapwork-frame-768.avif",
+            "sha256": "8b7263e1860a1348f31d70f2c03219e03d51ac10ece43093a85e994430624c7e",
+            "w": 768
+          },
+          {
+            "bytes": 233070,
+            "h": 763,
+            "path": "avif/strapwork-frame-1024.avif",
+            "sha256": "63543ce14a5c196359ae0988832f9c7d7d0506f2d3f433007b58bbe6bbd0fcf0",
+            "w": 1024
+          },
+          {
+            "bytes": 367510,
+            "h": 1058,
+            "path": "avif/strapwork-frame-1420.avif",
+            "sha256": "b423fe485231aa510aae34fad78023bd0197a85d96c82dcb129d0b0c8efccdde",
+            "w": 1420
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3472,
+            "h": 48,
+            "path": "webp/strapwork-frame-64.webp",
+            "sha256": "603ab10dedef8948471da1e2144aeef97b597e53162a8b17d97379b667f433da",
+            "w": 64
+          },
+          {
+            "bytes": 7034,
+            "h": 72,
+            "path": "webp/strapwork-frame-96.webp",
+            "sha256": "1bf688d3d00fcee3868bec873de43743f39944db9bd75d534be2a40c5198396f",
+            "w": 96
+          },
+          {
+            "bytes": 10760,
+            "h": 95,
+            "path": "webp/strapwork-frame-128.webp",
+            "sha256": "dafd9aea9f522db26bc1be631437df6af30bd2c73622dc00d44a63d230c5df28",
+            "w": 128
+          },
+          {
+            "bytes": 21598,
+            "h": 143,
+            "path": "webp/strapwork-frame-192.webp",
+            "sha256": "7e8fb161cc433fd3071debd1a7f06e900d997400d993bc9c7006c425646f794b",
+            "w": 192
+          },
+          {
+            "bytes": 36592,
+            "h": 191,
+            "path": "webp/strapwork-frame-256.webp",
+            "sha256": "a70190ee5a2a26fbd427463385789536ededad8570682e976e8515e263bf0689",
+            "w": 256
+          },
+          {
+            "bytes": 74682,
+            "h": 286,
+            "path": "webp/strapwork-frame-384.webp",
+            "sha256": "216ca6b05782ce8fbb67c08176554f4bf390ae695ead5041ebca57a04308857a",
+            "w": 384
+          },
+          {
+            "bytes": 125258,
+            "h": 381,
+            "path": "webp/strapwork-frame-512.webp",
+            "sha256": "687e8eb97bd238a479e13a8c2f5d98392ccd7b9a95652e8da1a0362fa4ba7440",
+            "w": 512
+          },
+          {
+            "bytes": 264394,
+            "h": 572,
+            "path": "webp/strapwork-frame-768.webp",
+            "sha256": "2707f37838511adcde7fce2716611c9fe8d3b96eed3021fb2ac99f907aac9bf0",
+            "w": 768
+          },
+          {
+            "bytes": 441892,
+            "h": 763,
+            "path": "webp/strapwork-frame-1024.webp",
+            "sha256": "ac3e33080fdcda29a6a7b61fbfef72282aae05bd32c1f20deb2267add51e46bc",
+            "w": 1024
+          },
+          {
+            "bytes": 756094,
+            "h": 1058,
+            "path": "webp/strapwork-frame-1420.webp",
+            "sha256": "5354905086db7680c443093cfc4b01384b421794516c8dbb4aad081aefc19205",
+            "w": 1420
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "frame",
+        "strapwork",
+        "scroll",
+        "rosette",
+        "finial",
+        "vine",
+        "leaf",
+        "rule"
+      ],
+      "thumbhash": "3yiCBIAmKAl3iHOIGLr4wYmPiGR4d0h2AA==",
+      "title": "Strapwork cartouche frame",
+      "transparent": true,
+      "type": "frame",
+      "usage_notes": [
+        "Complete frame; scale proportionally as one image, it has no tile and is not sliced for border-image.",
+        "The opening is the central rectangle inside the double rule; keep content clear of the hatched inner band."
+      ],
+      "width": 1420
+    }
+  },
+  "attribution": "J. Paul Getty Museum Ms. 20 (86.MV.527)",
+  "builtAt": "2026-10-28T16:11:36.748Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-getty-ms20@1.0.0/",
+  "contentHash": "sha256:043a269095a357798c0b7b99ac65813cf49979a7ea2f825f4446b0c07283a60e",
+  "inputsHash": "sha256:3f582bcba0fec6174d30a5498caa74109012423cb52d955f0a97565f5c2457af",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from a J. Paul Getty Museum Open Content (CC0) image; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-getty-ms20-masters",
+  "package": "@ranx729/ducktape-assets-getty-ms20",
+  "period": "1591–1596",
+  "region": "Vienna and Prague, Habsburg court",
+  "schema": 1,
+  "set": "getty-ms20",
+  "style": "Mannerist natural-history illumination",
+  "summary": "Two rosebuds, a cut apple and a strapwork cartouche from folio 107 of the Mira calligraphiae monumenta (J. Paul Getty Museum Ms. 20, 86.MV.527), where Joris Hoefnagel painted specimens in 1591–1596 around Georg Bocskay's calligraphy of 1561–1562.",
+  "title": "Getty Ms. 20, Mira calligraphiae monumenta",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}
