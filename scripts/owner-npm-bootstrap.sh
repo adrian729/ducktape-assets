@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
-# One sitting for the owner: everything on npm that needs a passkey. Run from the main repository root.
+# One sitting for the owner: everything on npm that needs a passkey. Run from the main repository root, IN A REAL
+# TERMINAL: the first publish opens a passkey prompt that must be answered, so the script cannot run through an
+# assistant that backgrounds long commands (Claude Code's `!` does after 120 s), nor unattended.
 #
 #   ./scripts/owner-npm-bootstrap.sh              # bootstrap every package name the current plan needs
 #   ./scripts/owner-npm-bootstrap.sh --test-stage # first: a throwaway test of staged publishing (Phase 0 unknown)
@@ -65,18 +67,27 @@ for n in "${missing[@]}"; do
   echo "publishing placeholder $n"
   # The public registry view can lag minutes behind a fresh publish, so a name published moments ago may still look
   # missing above; npm then answers "cannot publish over the previously published versions: 0.0.0", which means it exists.
-  (cd "$d" && npm publish --access public) || echo "  (placeholder already published for $n; continuing)"
+  # Every other failure stops the script: an EOTP here means the passkey prompt could not be answered, which happens when
+  # the script runs without a terminal (for example through an assistant that backgrounds long commands).
+  out=$(cd "$d" && npm publish --access public 2>&1) && echo "$out" | tail -2 || {
+    if grep -q "cannot publish over" <<< "$out"; then echo "  (placeholder already published for $n; continuing)";
+    else echo "$out" | tail -12; echo; echo "publish of $n failed; nothing was dispatched. Run this script in an interactive terminal (the passkey prompt must be answered), then rerun."; exit 1; fi; }
   sleep 2
 done
 
 # Trust every name, not only the new ones: a name that already exists may still lack its trust config (an earlier run
 # that stopped early, or a placeholder published by hand). npm refuses a duplicate config, which is harmless here.
+trust_failed=0
 for n in "${names[@]}"; do
   echo "trusting $n"
-  npm trust github "$n" --repo "$REPO" --file "$WORKFLOW" --env "$ENVIRONMENT" --allow-publish --yes \
-    || echo "  (trust config not created for $n: it probably exists already; check with: npm trust list $n)"
+  out=$(npm trust github "$n" --repo "$REPO" --file "$WORKFLOW" --env "$ENVIRONMENT" --allow-publish --yes 2>&1) && echo "$out" | tail -1 || {
+    if grep -qE "E409|already exists" <<< "$out"; then echo "  (trust config exists already for $n)";
+    else echo "$out" | tail -6; echo "  trust config NOT created for $n"; trust_failed=$((trust_failed + 1)); fi; }
   sleep 2
 done
+if [[ $trust_failed -gt 0 ]]; then
+  echo; echo "$trust_failed trust config(s) failed (see above); not dispatching the publisher. Fix the cause (usually: not logged in, or the passkey prompt could not be answered) and rerun."; exit 1
+fi
 
 echo
 echo "Trust configs expire in 2 days if unused. Triggering the publisher now (no approval step since 2026-10-26):"
