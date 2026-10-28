@@ -2092,16 +2092,10 @@
         "path": "png/lower-grotesque-face-mask.png",
         "masterSha256": "831b5223720a09356679497f4f72b27a28db761ba277a0ed6c12b21bb384c778"
       },
-      "new": {
-        "id": "mkg-de-bry-alphabet/small-face-mask",
-        "set": "mkg-de-bry-alphabet",
-        "package": "@ranx729/ducktape-assets-mkg-de-bry-alphabet",
-        "version": null,
-        "mastersPackage": "@ranx729/ducktape-assets-mkg-de-bry-alphabet-masters"
-      },
-      "status": "moved",
+      "new": null,
+      "status": "dropped",
       "verified": "pixels-identical",
-      "notes": ""
+      "notes": "master is 33x41 px, under the 64 px minimum; dropped after review"
     },
     {
       "old": {
@@ -3077,16 +3071,10 @@
         "path": "png/upper-grotesque-face-mask.png",
         "masterSha256": "2dfde59efa347fa26c0a275b6fd65ede9ea9e67a564d9dc41cee2eb9c26c9705"
       },
-      "new": {
-        "id": "mkg-de-bry-alphabet/lion-mask-with-ring",
-        "set": "mkg-de-bry-alphabet",
-        "package": "@ranx729/ducktape-assets-mkg-de-bry-alphabet",
-        "version": null,
-        "mastersPackage": "@ranx729/ducktape-assets-mkg-de-bry-alphabet-masters"
-      },
-      "status": "moved",
+      "new": null,
+      "status": "dropped",
       "verified": "pixels-identical",
-      "notes": ""
+      "notes": "master is 29x35 px, under the 64 px minimum; dropped after review"
     },
     {
       "old": {

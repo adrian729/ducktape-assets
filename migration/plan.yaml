@@ -3902,11 +3902,11 @@ entries:
     notes: "id candidate \"lower-gold-rod-with-red-blue-and-gold-foliate-branch-walters-w171-74r\" is 69 chars (> 48); shorten by hand"
   - old: "lower-grotesque-face-mask"
     set: "mkg-de-bry-alphabet"
-    id: "mkg-de-bry-alphabet/small-face-mask"
+    id: null
     group: null
     wave: 2
-    status: moved
-    notes: "id \"lower-grotesque-face-mask\" renamed to \"small-face-mask\" after review"
+    status: dropped
+    notes: "id \"lower-grotesque-face-mask\" renamed to \"small-face-mask\" after review; master is 33x41 px, under the 64 px minimum; dropped after review"
   - old: "lower-left-gold-and-pink-rod-with-ivy-flourish-walters-w171-10r"
     set: "walters-w171"
     id: null
@@ -8011,11 +8011,11 @@ entries:
     notes: "id candidate \"upper-gold-rod-with-red-blue-and-gold-foliate-branch-walters-w171-74r\" is 69 chars (> 48); shorten by hand"
   - old: "upper-grotesque-face-mask"
     set: "mkg-de-bry-alphabet"
-    id: "mkg-de-bry-alphabet/lion-mask-with-ring"
+    id: null
     group: null
     wave: 2
-    status: moved
-    notes: "id \"upper-grotesque-face-mask\" renamed to \"lion-mask-with-ring\" after review"
+    status: dropped
+    notes: "id \"upper-grotesque-face-mask\" renamed to \"lion-mask-with-ring\" after review; master is 29x35 px, under the 64 px minimum; dropped after review"
   - old: "upper-hooded-head-on-bent-gold-rod"
     set: "walters-w88"
     id: "walters-w88/upper-hooded-head-on-bent-gold-rod"
