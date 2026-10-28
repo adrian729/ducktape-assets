@@ -47,6 +47,7 @@ Start small so every piece of the chain is proven on real pages before the bulk 
 
 - `ducktape-assets-gallery` on GitHub Pages: search over `catalog.json`, lazy manifests, thumbhash placeholders, AVIF thumbnails, per-asset page with the exact `<picture>` and resolver snippet, licence and attribution block, set pages. Lighthouse in CI as the only performance measurement.
 - Redeploys on index package release.
+- The gallery is also the library's own consumer (owner, 2026-10-28): it uses the assets exactly as another app is supposed to, through the published index package and the resolver, never through a private path, so that the consumer flows are proven on every release.
 
 ## Phase 5: steady state
 
