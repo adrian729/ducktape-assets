@@ -15,7 +15,7 @@ Deployment review requests only exist while an environment has required reviewer
 
 ## Once per batch of new set repositories: GitHub (the agent does it)
 
-An agent prepares the batch under `tmp/wave<n>/` (import, review, local commit on `main`) and runs `scripts/owner-create-batch-repos.sh tmp/wave<n>`, which creates `adrian729/ducktape-assets-<set>` for each directory and pushes it (owner rule 2026-10-28: agents create the set repositories themselves; a permission-classifier refusal is retried, not escalated). The agent then commits `sets.yaml`, watches the set CI runs, and hands over to the npm step below. Order matters: the registry is pushed only after the repositories exist, and the npm script dispatches the publisher at its end, so it runs last.
+An agent prepares the batch under `tmp/wave<n>/` (import, review, local commit on `main`) and runs `scripts/owner-create-batch-repos.sh tmp/wave<n>`, which creates `adrian729/ducktape-assets-<set>` for each directory and pushes it (owner rule 2026-10-28: agents create the set repositories themselves; a permission-classifier refusal is retried, not escalated). The agent then commits `sets.yaml`, watches the set CI runs, and hands over to the npm step below. Order matters: the registry is pushed only after the repositories exist, and the npm script dispatches the publisher at its end, so it runs last. The vocabulary additions (`schemas/vocab/subjects.yaml`) are the exception: push them to main before creating the repositories, because set CI validates against main and the first run otherwise fails on unknown subjects (batch 2, 2026-10-28, ten reruns).
 
 ## Once per batch of new package names: npm (passkey needed)
 
