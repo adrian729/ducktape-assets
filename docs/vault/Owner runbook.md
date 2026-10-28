@@ -13,9 +13,9 @@ The short list of things only the owner can do, with the exact command or page f
 
 Deployment review requests only exist while an environment has required reviewers. Since the reviewer was removed on 2026-10-26, GitHub sends none. If the gate is ever restored, the toggle is at https://github.com/settings/notifications under "System" → "Actions".
 
-## Once per batch of new set repositories: GitHub (the agent cannot create public repos)
+## Once per batch of new set repositories: GitHub (the agent does it)
 
-An agent prepares the batch under `tmp/wave<n>/` (import, review, local commit on `main`) and stops. The owner runs `scripts/owner-create-batch-repos.sh tmp/wave<n>`, which creates `adrian729/ducktape-assets-<set>` for each directory and pushes it. The agent then commits `sets.yaml`, watches the set CI runs, and hands over to the npm step below. Order matters: the registry is pushed only after the repositories exist, and the npm script dispatches the publisher at its end, so it runs last.
+An agent prepares the batch under `tmp/wave<n>/` (import, review, local commit on `main`) and runs `scripts/owner-create-batch-repos.sh tmp/wave<n>`, which creates `adrian729/ducktape-assets-<set>` for each directory and pushes it (owner rule 2026-10-28: agents create the set repositories themselves; a permission-classifier refusal is retried, not escalated). The agent then commits `sets.yaml`, watches the set CI runs, and hands over to the npm step below. Order matters: the registry is pushed only after the repositories exist, and the npm script dispatches the publisher at its end, so it runs last.
 
 ## Once per batch of new package names: npm (passkey needed)
 
