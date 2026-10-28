@@ -1,0 +1,3441 @@
+{
+  "assets": {
+    "acanthus-tailpiece": {
+      "categories": [
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "An upright spray in black penwork rising from a short cut stem at the bottom, a tall curling acanthus leaf in the centre with finely hatched lobes, two large acanthus leaves curling down and outward to the left and right, a small ivy leaf and a thin tendril at the upper right, a tendril at the upper left and a hanging flower bud below the stem, on a transparent background.",
+      "display_width": [
+        120,
+        400
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 72404,
+        "webpTopBytes": 258886
+      },
+      "facing": "up",
+      "group": "black-penwork",
+      "height": 1254,
+      "master": {
+        "bytes": 333664,
+        "h": 1254,
+        "path": "masters/acanthus-tailpiece.webp",
+        "sha256": "8b833c82d40a3783cf9f309471a33a7c573f73c401a6ec0510c888cefaeac298",
+        "w": 1254
+      },
+      "palette": [
+        "#000000"
+      ],
+      "related": [
+        {
+          "asset": "authored-ornaments/songbirds-headpiece",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1308,
+            "h": 64,
+            "path": "avif/acanthus-tailpiece-64.avif",
+            "sha256": "7452da91599ebdaeb483651b46e729ccaea253afd12c2490781def4e7a755c33",
+            "w": 64
+          },
+          {
+            "bytes": 2192,
+            "h": 96,
+            "path": "avif/acanthus-tailpiece-96.avif",
+            "sha256": "29388d2d05f398d126785dafd0a81754d3d538f799e9d277b8f50e6cddfb7a4b",
+            "w": 96
+          },
+          {
+            "bytes": 3211,
+            "h": 128,
+            "path": "avif/acanthus-tailpiece-128.avif",
+            "sha256": "8c1cecb4f10f9a7a1036ee04ce5989a153f335c4dcfcd9a9f63d7ebd1a0d7643",
+            "w": 128
+          },
+          {
+            "bytes": 5614,
+            "h": 192,
+            "path": "avif/acanthus-tailpiece-192.avif",
+            "sha256": "a616ceb496d56322cb510005c817d68246b04c21a197747316460b4295e735d8",
+            "w": 192
+          },
+          {
+            "bytes": 8360,
+            "h": 256,
+            "path": "avif/acanthus-tailpiece-256.avif",
+            "sha256": "eb6a50cadefc380c92e4c1bd8d85efbaf8f16fbdd4fda9161a9e196db9472828",
+            "w": 256
+          },
+          {
+            "bytes": 15434,
+            "h": 384,
+            "path": "avif/acanthus-tailpiece-384.avif",
+            "sha256": "954460f63787aa3dd103a4f28c397d0ed06135b6ea294140b43ccca78048ef87",
+            "w": 384
+          },
+          {
+            "bytes": 23356,
+            "h": 512,
+            "path": "avif/acanthus-tailpiece-512.avif",
+            "sha256": "cf24b9c1cd84e5a52827afb2cac379e6b18a2502c9ff4dd3f35a2dc3bb3ee57b",
+            "w": 512
+          },
+          {
+            "bytes": 39431,
+            "h": 768,
+            "path": "avif/acanthus-tailpiece-768.avif",
+            "sha256": "03c3b1528c61ceadd5b83b0cbb414d5c1182ea8aed885d6f6f15dbbe430e0b8f",
+            "w": 768
+          },
+          {
+            "bytes": 55858,
+            "h": 1024,
+            "path": "avif/acanthus-tailpiece-1024.avif",
+            "sha256": "0720c11bc06eb0bafc3dd71ae73f35c675503392136c816dde1ea176e357b671",
+            "w": 1024
+          },
+          {
+            "bytes": 72404,
+            "h": 1254,
+            "path": "avif/acanthus-tailpiece-1254.avif",
+            "sha256": "5e3b8fc9734a6a1a76e7e62ba22b9c5620d215690cb34bf9a3976bbe0f9cb5ba",
+            "w": 1254
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1642,
+            "h": 64,
+            "path": "webp/acanthus-tailpiece-64.webp",
+            "sha256": "8a941d7fd98009259d1f04e0e5228ad0c249501f9afb564a38c24b5c48323000",
+            "w": 64
+          },
+          {
+            "bytes": 3160,
+            "h": 96,
+            "path": "webp/acanthus-tailpiece-96.webp",
+            "sha256": "ac8a8fe205ba7faa255f631dbc21596dc25ce9c3e59669bdbfd8635fc24da5f7",
+            "w": 96
+          },
+          {
+            "bytes": 5138,
+            "h": 128,
+            "path": "webp/acanthus-tailpiece-128.webp",
+            "sha256": "a66cc61cca95d3c885a52d40dc6a4e6f8669ab1c3f0801fd5c087614424c300b",
+            "w": 128
+          },
+          {
+            "bytes": 10036,
+            "h": 192,
+            "path": "webp/acanthus-tailpiece-192.webp",
+            "sha256": "6341084c8ebf4bc5e8876af76ae3984f78aba6ffba8e3b031c2b6f36fc011319",
+            "w": 192
+          },
+          {
+            "bytes": 16266,
+            "h": 256,
+            "path": "webp/acanthus-tailpiece-256.webp",
+            "sha256": "16749451d1e1c0f9c64f493ee782e02345ecb2e4cbc5bb573ac0b44a4541dac9",
+            "w": 256
+          },
+          {
+            "bytes": 31536,
+            "h": 384,
+            "path": "webp/acanthus-tailpiece-384.webp",
+            "sha256": "5d003af3044d652d766ca86d4bc150b8e34d49300c02b3cafec089c18db535dd",
+            "w": 384
+          },
+          {
+            "bytes": 51316,
+            "h": 512,
+            "path": "webp/acanthus-tailpiece-512.webp",
+            "sha256": "e0f66298bc90699c36912601daa9922086990257ecfd0d1a2f20b449ee5c99a6",
+            "w": 512
+          },
+          {
+            "bytes": 104696,
+            "h": 768,
+            "path": "webp/acanthus-tailpiece-768.webp",
+            "sha256": "92f5675bcdafa9a08ec5c3ad61b1f4fe981bea45dbb790893f341966f4587f99",
+            "w": 768
+          },
+          {
+            "bytes": 179008,
+            "h": 1024,
+            "path": "webp/acanthus-tailpiece-1024.webp",
+            "sha256": "c9a3761bf5d45ed7e6a257f7a519f88c16fbb2938e9548c59ab6c4ef80f7f44e",
+            "w": 1024
+          },
+          {
+            "bytes": 258886,
+            "h": 1254,
+            "path": "webp/acanthus-tailpiece-1254.webp",
+            "sha256": "ed157e80e45405bb8842145ffb49b7cb3ecbb27fed003d8b300aa6b15a52d0b8",
+            "w": 1254
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "acanthus",
+        "ivy",
+        "leaf",
+        "scroll",
+        "bud",
+        "tailpiece"
+      ],
+      "thumbhash": "AAiCBQARAAAAAAAAAAAAAAAABpmGd4GqeA==",
+      "title": "Penwork acanthus tailpiece",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Place centred below the last paragraph of a chapter or section; pairs with songbirds-headpiece at the head of the text.",
+        "Open line art; the interiors of the leaves are transparent, so it reads best on a light ground."
+      ],
+      "width": 1254
+    },
+    "clasped-book-and-ivy": {
+      "categories": [
+        "reading",
+        "botanical"
+      ],
+      "colors": [
+        "black"
+      ],
+      "composition": "standalone",
+      "description": "A closed book seen from above in three-quarter view, in black penwork, with its spine of raised bands at the left, two strap clasps on the right edge of the hatched front cover, a bevelled cover border with corner bosses, visible page edges and a ribbon bookmark hanging out of the fore-edge at the bottom, surrounded on both sides and below by an ivy vine of pointed leaves and curled tendrils, on a transparent background.",
+      "display_width": [
+        200,
+        600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 82450,
+        "webpTopBytes": 285456
+      },
+      "facing": "none",
+      "group": "book",
+      "height": 1024,
+      "master": {
+        "bytes": 482022,
+        "h": 1024,
+        "path": "masters/clasped-book-and-ivy.webp",
+        "sha256": "81cac6a6296e87d383a560f7ce61743b6e4134380a1237fcef0304ff7cd7a99a",
+        "w": 1536
+      },
+      "palette": [
+        "#000000"
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1089,
+            "h": 43,
+            "path": "avif/clasped-book-and-ivy-64.avif",
+            "sha256": "d87adf736f76b84ac5ce7d07be11a82bc86d2871c9af46921ad754cf885c67dc",
+            "w": 64
+          },
+          {
+            "bytes": 1746,
+            "h": 64,
+            "path": "avif/clasped-book-and-ivy-96.avif",
+            "sha256": "4ad5b9ebb41cdf19ccc0add5ea3056a83a30f4d83d1d610f06a15e161a4e3bd5",
+            "w": 96
+          },
+          {
+            "bytes": 2587,
+            "h": 85,
+            "path": "avif/clasped-book-and-ivy-128.avif",
+            "sha256": "17ac5da5add544beb4207f954c20a776ae4c6139cacac9503ce53304b920ad1d",
+            "w": 128
+          },
+          {
+            "bytes": 4752,
+            "h": 128,
+            "path": "avif/clasped-book-and-ivy-192.avif",
+            "sha256": "0e7f2b5e720a83383d709d848d4e839bc440f0048134789e9658b02fd605e729",
+            "w": 192
+          },
+          {
+            "bytes": 7328,
+            "h": 171,
+            "path": "avif/clasped-book-and-ivy-256.avif",
+            "sha256": "f7428b5ffe1f94837b13dc67af8f2c273b6fbb2a269e6ab427dfb2fd5480de48",
+            "w": 256
+          },
+          {
+            "bytes": 13724,
+            "h": 256,
+            "path": "avif/clasped-book-and-ivy-384.avif",
+            "sha256": "e13fc6c6adf89df428d6793822625b47c97d4849aaf1e51f399e088f2b96cc45",
+            "w": 384
+          },
+          {
+            "bytes": 20784,
+            "h": 341,
+            "path": "avif/clasped-book-and-ivy-512.avif",
+            "sha256": "a3feda6e0a8fa6d7cc0740beda8830d247fe26312cd43c8e680342f379f98997",
+            "w": 512
+          },
+          {
+            "bytes": 36135,
+            "h": 512,
+            "path": "avif/clasped-book-and-ivy-768.avif",
+            "sha256": "68bd73444183326257bb0beaef612da54dd265533449c49544708f4796c28904",
+            "w": 768
+          },
+          {
+            "bytes": 51534,
+            "h": 683,
+            "path": "avif/clasped-book-and-ivy-1024.avif",
+            "sha256": "8e48b81f77ecbdd2cacbd181a5230959fc348864ca4d16d5260ea29292b304ed",
+            "w": 1024
+          },
+          {
+            "bytes": 82450,
+            "h": 1024,
+            "path": "avif/clasped-book-and-ivy-1536.avif",
+            "sha256": "da252d106fc31383796a812da299076ef63b85eafffcfe9c15c73e7e88811ac8",
+            "w": 1536
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1364,
+            "h": 43,
+            "path": "webp/clasped-book-and-ivy-64.webp",
+            "sha256": "f87cc05d50a371d52ca4f42b9856c1027220f92dc3aad375a977372271a2963e",
+            "w": 64
+          },
+          {
+            "bytes": 2624,
+            "h": 64,
+            "path": "webp/clasped-book-and-ivy-96.webp",
+            "sha256": "2cab473ffe6bc33df1077e198ebe41b4a477229263ea152226cfb2087f25f881",
+            "w": 96
+          },
+          {
+            "bytes": 4256,
+            "h": 85,
+            "path": "webp/clasped-book-and-ivy-128.webp",
+            "sha256": "ea98024f8d2a9ce99a4ed71b02c31ccb82704ae051411674769428332e66d32c",
+            "w": 128
+          },
+          {
+            "bytes": 8518,
+            "h": 128,
+            "path": "webp/clasped-book-and-ivy-192.webp",
+            "sha256": "22a4fc9df56282b2b8abd9153002f70145b203d5219513ee74970030e9d1fed7",
+            "w": 192
+          },
+          {
+            "bytes": 13730,
+            "h": 171,
+            "path": "webp/clasped-book-and-ivy-256.webp",
+            "sha256": "cd0489e76c8f7d8b423c9ae5849fbdc73e903de17411e87fc1611a428877ca94",
+            "w": 256
+          },
+          {
+            "bytes": 26798,
+            "h": 256,
+            "path": "webp/clasped-book-and-ivy-384.webp",
+            "sha256": "be0779ff59907743be61f17c455a164984e5b0fe0171e4cabb4423d21528143d",
+            "w": 384
+          },
+          {
+            "bytes": 41698,
+            "h": 341,
+            "path": "webp/clasped-book-and-ivy-512.webp",
+            "sha256": "e96a4f124c7f7aa7f7c64d9dabf2ae9e0b2d97c3e25253bbc3c7ad1de234303f",
+            "w": 512
+          },
+          {
+            "bytes": 83200,
+            "h": 512,
+            "path": "webp/clasped-book-and-ivy-768.webp",
+            "sha256": "83e0e88c8872134103898e5c78e8e7e90abe24a517507af4f9c65555f26656f5",
+            "w": 768
+          },
+          {
+            "bytes": 139378,
+            "h": 683,
+            "path": "webp/clasped-book-and-ivy-1024.webp",
+            "sha256": "b6c9b622b5ef64e9a5101991147a28f812ad156ab8d78651891dbea1ddc9b1d8",
+            "w": 1024
+          },
+          {
+            "bytes": 285456,
+            "h": 1024,
+            "path": "webp/clasped-book-and-ivy-1536.webp",
+            "sha256": "753986d64661895d0406e09c8dc5026d9e91df60c036a4a1a9eeda5b6d1e30e4",
+            "w": 1536
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "book",
+        "clasp",
+        "bookmark",
+        "ivy",
+        "leaf",
+        "vine"
+      ],
+      "thumbhash": "AAiCA4ARAAAAAAAAAAAAACg2hXpwqCc=",
+      "title": "Clasped book among ivy",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Complete vignette; keep the book and its ivy together and keep the proportions.",
+        "Open line art; the cover and page interiors are transparent, so it reads best on a light ground."
+      ],
+      "view": "three-quarter",
+      "width": 1536
+    },
+    "gold-cinquefoil-divider-center": {
+      "categories": [
+        "floral",
+        "botanical"
+      ],
+      "colors": [
+        "gold",
+        "brown",
+        "cream"
+      ],
+      "composition": "single-ornament",
+      "description": "A painted five-petalled flower in textured gold with dark brown contours, pale cream highlights along the petal veins and a dark brown centre, with a short gold stem ending in a round knob on each side, on a transparent background.",
+      "display_width": [
+        120,
+        400
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 49182,
+        "webpTopBytes": 104810
+      },
+      "facing": "none",
+      "group": "gold-dividers",
+      "height": 1145,
+      "master": {
+        "bytes": 380126,
+        "h": 1145,
+        "path": "masters/gold-cinquefoil-divider-center.webp",
+        "sha256": "a23115317da1e738b95367527ee3c1b88d570cec5ccff547b019ebcf80d5b3f1",
+        "w": 1374
+      },
+      "palette": [
+        "#e1ae52",
+        "#b8802d",
+        "#dda135",
+        "#673914",
+        "#8d5a1e"
+      ],
+      "related": [
+        {
+          "asset": "authored-ornaments/gold-cinquefoil-divider-end",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1320,
+            "h": 53,
+            "path": "avif/gold-cinquefoil-divider-center-64.avif",
+            "sha256": "3fd54094a01ae66300c85de340d149be000a670b6b20fad298fb34cd7783efb4",
+            "w": 64
+          },
+          {
+            "bytes": 1513,
+            "h": 80,
+            "path": "avif/gold-cinquefoil-divider-center-96.avif",
+            "sha256": "3e3fda000d5b84394b0cc767461eb858c038b0b75954716fc6e6a1336e6e6f96",
+            "w": 96
+          },
+          {
+            "bytes": 2239,
+            "h": 107,
+            "path": "avif/gold-cinquefoil-divider-center-128.avif",
+            "sha256": "1c3f26fd4e705a4eed206ab83c7d37dbb092aa1f8d13bed71a12d8aaa0a48621",
+            "w": 128
+          },
+          {
+            "bytes": 3019,
+            "h": 160,
+            "path": "avif/gold-cinquefoil-divider-center-192.avif",
+            "sha256": "55536c29c27c2ebfedbba395b0693d0e0b65ef7946c794d73179591f5456d540",
+            "w": 192
+          },
+          {
+            "bytes": 4012,
+            "h": 213,
+            "path": "avif/gold-cinquefoil-divider-center-256.avif",
+            "sha256": "04b9f9dd77fa12a4a695e9fd9c4b8b27a10addf90243a5aaff623235d71f53eb",
+            "w": 256
+          },
+          {
+            "bytes": 6926,
+            "h": 320,
+            "path": "avif/gold-cinquefoil-divider-center-384.avif",
+            "sha256": "e4072faab67e6479f48bb4a69506bc5796d5eeb0aa683592e2b586869e36e921",
+            "w": 384
+          },
+          {
+            "bytes": 10617,
+            "h": 427,
+            "path": "avif/gold-cinquefoil-divider-center-512.avif",
+            "sha256": "c271bff0d8d3a7a275a06e8f313e9b44297255b04e0c86ab916964942575117e",
+            "w": 512
+          },
+          {
+            "bytes": 20675,
+            "h": 640,
+            "path": "avif/gold-cinquefoil-divider-center-768.avif",
+            "sha256": "f081009fa92ffc2ae45822f50d6a061cf70ea29a5721d507ef4d17c26d4f7747",
+            "w": 768
+          },
+          {
+            "bytes": 32330,
+            "h": 853,
+            "path": "avif/gold-cinquefoil-divider-center-1024.avif",
+            "sha256": "5a734a50ad5f19d98a04c45d9db8b81adbdad7f5f725cd3cafd9d8a073d51328",
+            "w": 1024
+          },
+          {
+            "bytes": 49182,
+            "h": 1145,
+            "path": "avif/gold-cinquefoil-divider-center-1374.avif",
+            "sha256": "4363ca3a38d461d0e19c9b50ac25dc1fa9dbbcd8ac90aa38aa76081b03b584d0",
+            "w": 1374
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1228,
+            "h": 53,
+            "path": "webp/gold-cinquefoil-divider-center-64.webp",
+            "sha256": "a66ce35a98c7fa8162425eca42f277de350032fb066d1e2116406fee945a3439",
+            "w": 64
+          },
+          {
+            "bytes": 1860,
+            "h": 80,
+            "path": "webp/gold-cinquefoil-divider-center-96.webp",
+            "sha256": "fe1b51d15b3c22d07948c233aef2cf04f67da2fde086c2056163b9c012e064d8",
+            "w": 96
+          },
+          {
+            "bytes": 2618,
+            "h": 107,
+            "path": "webp/gold-cinquefoil-divider-center-128.webp",
+            "sha256": "2d8958939f46eb94a007534ad5660b646139759de6226075811731b823de3f88",
+            "w": 128
+          },
+          {
+            "bytes": 4592,
+            "h": 160,
+            "path": "webp/gold-cinquefoil-divider-center-192.webp",
+            "sha256": "5af19a9d38643f8f7a916c092a6ea20ecb7dbf0488b8881ccb3dc768c2d349bf",
+            "w": 192
+          },
+          {
+            "bytes": 6474,
+            "h": 213,
+            "path": "webp/gold-cinquefoil-divider-center-256.webp",
+            "sha256": "bc24852caf9086768dcce7844d1813bb844fbfb526901b635334afd881f38cd7",
+            "w": 256
+          },
+          {
+            "bytes": 11892,
+            "h": 320,
+            "path": "webp/gold-cinquefoil-divider-center-384.webp",
+            "sha256": "604892d326c00dc473583bb78b1ca440d96cd8d939b510b577ca71f04cb8c31a",
+            "w": 384
+          },
+          {
+            "bytes": 18960,
+            "h": 427,
+            "path": "webp/gold-cinquefoil-divider-center-512.webp",
+            "sha256": "f877509762ae63cede93bea321981a10fcab3dd5417b3b223a4b195d2a9876a5",
+            "w": 512
+          },
+          {
+            "bytes": 39874,
+            "h": 640,
+            "path": "webp/gold-cinquefoil-divider-center-768.webp",
+            "sha256": "c0408f42b6d71708c2f375aae8d75ff805a1060bfdab566691ada27cc39218d5",
+            "w": 768
+          },
+          {
+            "bytes": 66958,
+            "h": 853,
+            "path": "webp/gold-cinquefoil-divider-center-1024.webp",
+            "sha256": "ffa410d68af9a5da18def319c69a7e2952d501c57ca3cb0ee25dc117d11c6305",
+            "w": 1024
+          },
+          {
+            "bytes": 104810,
+            "h": 1145,
+            "path": "webp/gold-cinquefoil-divider-center-1374.webp",
+            "sha256": "05213237256e3bf2d954e19449cd9e7eeab0e2456dd657d616908bc5d603fe4e",
+            "w": 1374
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "flower",
+        "stem",
+        "centerpiece"
+      ],
+      "thumbhash": "X2uCBIASSfR5d2dcmKCHUHR4gHuHCNiICw==",
+      "title": "Gold cinquefoil divider, centre",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Centre piece of a flexible divider with gold-cinquefoil-divider-end; draw a continuous rule beneath it so the knobbed stems meet the rule on both sides.",
+        "Also works alone as a section mark."
+      ],
+      "width": 1374
+    },
+    "gold-cinquefoil-divider-end": {
+      "categories": [
+        "botanical"
+      ],
+      "colors": [
+        "gold",
+        "brown",
+        "cream"
+      ],
+      "composition": "single-ornament",
+      "description": "A painted divider terminal in textured gold with dark brown contours and pale cream highlights, a three-lobed ivy leaf pointing left with a smaller lobe curling up and one curling down behind it, and a long straight gold stem extending to the right, on a transparent background.",
+      "display_width": [
+        100,
+        400
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 47614,
+        "webpTopBytes": 94536
+      },
+      "facing": "left",
+      "group": "gold-dividers",
+      "height": 1024,
+      "master": {
+        "bytes": 807138,
+        "h": 1024,
+        "path": "masters/gold-cinquefoil-divider-end.webp",
+        "sha256": "ab14a817a31843b388808704372ebc5a4700b3ba28e27b9e7eb0f50857365e0d",
+        "w": 1536
+      },
+      "palette": [
+        "#c08c39",
+        "#e4b65c",
+        "#daa13b",
+        "#9c6b26",
+        "#714618"
+      ],
+      "related": [
+        {
+          "asset": "authored-ornaments/gold-cinquefoil-divider-center",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1212,
+            "h": 43,
+            "path": "avif/gold-cinquefoil-divider-end-64.avif",
+            "sha256": "89105aa3b82996a281c3b10a514898c97ba981d3e9ffe7750b8b3779830f8556",
+            "w": 64
+          },
+          {
+            "bytes": 1376,
+            "h": 64,
+            "path": "avif/gold-cinquefoil-divider-end-96.avif",
+            "sha256": "f2546e90f413abe8a54af24b896c4e618c9c280e4b11223da72783827f9579ea",
+            "w": 96
+          },
+          {
+            "bytes": 1712,
+            "h": 85,
+            "path": "avif/gold-cinquefoil-divider-end-128.avif",
+            "sha256": "f9dc97d81559a0cb2994fd5fcf8b2085e1e61bd4bbf42cf6521645de117a23f7",
+            "w": 128
+          },
+          {
+            "bytes": 2536,
+            "h": 128,
+            "path": "avif/gold-cinquefoil-divider-end-192.avif",
+            "sha256": "1269d8c77be0855c495c7a6106d4705aecf26224031d7e28caf809f0ac5d7b42",
+            "w": 192
+          },
+          {
+            "bytes": 3182,
+            "h": 171,
+            "path": "avif/gold-cinquefoil-divider-end-256.avif",
+            "sha256": "ed806b7d341fbfcf07abd8a24851aa41cd4c5f6e4c5d5d9b84d78ae8ad9e1021",
+            "w": 256
+          },
+          {
+            "bytes": 5391,
+            "h": 256,
+            "path": "avif/gold-cinquefoil-divider-end-384.avif",
+            "sha256": "c789b3306901781f0323158c571be365503d194ecb04b5c85fc60e1a43dffb43",
+            "w": 384
+          },
+          {
+            "bytes": 7911,
+            "h": 341,
+            "path": "avif/gold-cinquefoil-divider-end-512.avif",
+            "sha256": "93f0314635ddb71536a98a3734d577fa9d4fa437cc3366eb8831fe161e2de13e",
+            "w": 512
+          },
+          {
+            "bytes": 16231,
+            "h": 512,
+            "path": "avif/gold-cinquefoil-divider-end-768.avif",
+            "sha256": "5e8f6ad844f5a400541228fcd1c3bbcbad01fc8f320c263e9334ad94a5429a22",
+            "w": 768
+          },
+          {
+            "bytes": 25389,
+            "h": 683,
+            "path": "avif/gold-cinquefoil-divider-end-1024.avif",
+            "sha256": "4bf16c9a46c5d107deb71374d18d0dd62ab62bbaeee5f3ea0b25c27121176f17",
+            "w": 1024
+          },
+          {
+            "bytes": 47614,
+            "h": 1024,
+            "path": "avif/gold-cinquefoil-divider-end-1536.avif",
+            "sha256": "b05710371b1ad06a8b490ea2bbc5f687948b44d2a3549b12c73becd34d8225b2",
+            "w": 1536
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1122,
+            "h": 43,
+            "path": "webp/gold-cinquefoil-divider-end-64.webp",
+            "sha256": "064cb0b0cc0c9eb9f7f9d6ece2500b1cc0ab6161acd893f9fabea077cc14f686",
+            "w": 64
+          },
+          {
+            "bytes": 1688,
+            "h": 64,
+            "path": "webp/gold-cinquefoil-divider-end-96.webp",
+            "sha256": "568191046c6ad7dafb53a7efd5950b33f4097a14e99150e4eb2859aae389f982",
+            "w": 96
+          },
+          {
+            "bytes": 2430,
+            "h": 85,
+            "path": "webp/gold-cinquefoil-divider-end-128.webp",
+            "sha256": "3964ad74de98ab730dea064dba61bc3e0632183385e9484a26176f397dc66636",
+            "w": 128
+          },
+          {
+            "bytes": 3800,
+            "h": 128,
+            "path": "webp/gold-cinquefoil-divider-end-192.webp",
+            "sha256": "7254e22ae2d444d14be978b6011a3d2e66e8cea5836d9381fb3e351bc3a9e9a5",
+            "w": 192
+          },
+          {
+            "bytes": 5466,
+            "h": 171,
+            "path": "webp/gold-cinquefoil-divider-end-256.webp",
+            "sha256": "5babb1bdaede45dff5c252367fdef9c6b844aaf5ff4da27e74f864cabdea3a3d",
+            "w": 256
+          },
+          {
+            "bytes": 9522,
+            "h": 256,
+            "path": "webp/gold-cinquefoil-divider-end-384.webp",
+            "sha256": "c77420ef0e1899bff61ac8890871fd17a212191009b5f45cee0687a2854c9500",
+            "w": 384
+          },
+          {
+            "bytes": 14390,
+            "h": 341,
+            "path": "webp/gold-cinquefoil-divider-end-512.webp",
+            "sha256": "59e9408be6a88a0f9676cb6b8c4e6508adf0431598e258e06a93369adfe292e0",
+            "w": 512
+          },
+          {
+            "bytes": 28370,
+            "h": 512,
+            "path": "webp/gold-cinquefoil-divider-end-768.webp",
+            "sha256": "0ead88b585d56f7a9be084d2222654fc89d4a177a6de1809586923ee9a3fdb46",
+            "w": 768
+          },
+          {
+            "bytes": 48364,
+            "h": 683,
+            "path": "webp/gold-cinquefoil-divider-end-1024.webp",
+            "sha256": "bf10aa11a4c54633af70cb652aaa34a4dd334bc05aba2a5c7b210020821f8065",
+            "w": 1024
+          },
+          {
+            "bytes": 94536,
+            "h": 1024,
+            "path": "webp/gold-cinquefoil-divider-end-1536.webp",
+            "sha256": "a7a9b8f6f8777cc0573c6ca8c19140e1074de78ca9141ec81f9ad72fcf00cdbb",
+            "w": 1536
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "ivy",
+        "leaf",
+        "stem",
+        "terminal"
+      ],
+      "thumbhash": "YGuCA4ASW6CJZkYNd3UgZRqjiHdgfLc=",
+      "title": "Gold ivy-leaf divider terminal",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Terminal of a flexible divider with gold-cinquefoil-divider-center; the leaf points left and the stem runs right, so as drawn it closes the left end of a rule and is mirrored for the right end.",
+        "Draw the connecting rule at the height of the stem."
+      ],
+      "width": 1536
+    },
+    "gold-lozenge-divider-center": {
+      "categories": [
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "gold",
+        "brown",
+        "cream"
+      ],
+      "composition": "single-ornament",
+      "description": "A painted lozenge-shaped fleuron in textured gold with dark brown contours and pale cream highlights, a tall pointed leaf above and below and a curled leaf to the left and right around a small dark brown centre, with a straight gold stem ending in a pointed tip on each side, on a transparent background.",
+      "display_width": [
+        120,
+        400
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 59649,
+        "webpTopBytes": 118386
+      },
+      "facing": "none",
+      "group": "gold-dividers",
+      "height": 1024,
+      "master": {
+        "bytes": 917960,
+        "h": 1024,
+        "path": "masters/gold-lozenge-divider-center.webp",
+        "sha256": "759afe4b08d98a19a1712aba5dc632f7d928311f1ac0b7d5fcdc751c3378ba60",
+        "w": 1536
+      },
+      "palette": [
+        "#87541b",
+        "#be832b",
+        "#e3a63e",
+        "#ecc37c",
+        "#eeba5b"
+      ],
+      "related": [
+        {
+          "asset": "authored-ornaments/gold-lozenge-divider-end",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1468,
+            "h": 43,
+            "path": "avif/gold-lozenge-divider-center-64.avif",
+            "sha256": "00adb90fc2dfd8c38f4fcfc13e1dc4385772b0ae7bb12e0e9e26ad1aadecca6d",
+            "w": 64
+          },
+          {
+            "bytes": 1855,
+            "h": 64,
+            "path": "avif/gold-lozenge-divider-center-96.avif",
+            "sha256": "019ea2e429d4da70526d96929ec79d2ae0b1046f4334b3ae657a49a0136b5e3e",
+            "w": 96
+          },
+          {
+            "bytes": 2133,
+            "h": 85,
+            "path": "avif/gold-lozenge-divider-center-128.avif",
+            "sha256": "197c17c2123350f010a3cefe6714a56f2a9763816cd8a8799c745e2840ec4d63",
+            "w": 128
+          },
+          {
+            "bytes": 3350,
+            "h": 128,
+            "path": "avif/gold-lozenge-divider-center-192.avif",
+            "sha256": "ded0889c522b96347e43c3fcfa93f4e26b98e7e1842a66f5a12de1b8ad12e159",
+            "w": 192
+          },
+          {
+            "bytes": 4657,
+            "h": 171,
+            "path": "avif/gold-lozenge-divider-center-256.avif",
+            "sha256": "a36411e6df2e366d2cb071bd0e2cb7b4c2eb8169f9e36c8672863b6c6d8d16ac",
+            "w": 256
+          },
+          {
+            "bytes": 7739,
+            "h": 256,
+            "path": "avif/gold-lozenge-divider-center-384.avif",
+            "sha256": "dc0460a1fc7319055210efe57ac1e18e8a62cbc8a3672144cfc5ce8797380624",
+            "w": 384
+          },
+          {
+            "bytes": 10920,
+            "h": 341,
+            "path": "avif/gold-lozenge-divider-center-512.avif",
+            "sha256": "7f81c3b8e1480d48cdda02d4e3238d9a91ebf9d6b684f5dc1e854a8a345cfa46",
+            "w": 512
+          },
+          {
+            "bytes": 21752,
+            "h": 512,
+            "path": "avif/gold-lozenge-divider-center-768.avif",
+            "sha256": "0474070e1702558371ec982f1d12e33915580b0df79ab9016d5d88f441100b5d",
+            "w": 768
+          },
+          {
+            "bytes": 33249,
+            "h": 683,
+            "path": "avif/gold-lozenge-divider-center-1024.avif",
+            "sha256": "12a69e8248912d7ecc4c19f55ace880150aae5de383c8d98c26256026b97e77f",
+            "w": 1024
+          },
+          {
+            "bytes": 59649,
+            "h": 1024,
+            "path": "avif/gold-lozenge-divider-center-1536.avif",
+            "sha256": "af8095d46f2e7648ca9d1d0d3057d62ee66a7e0029d7060f6ae3a60a51b4eeb5",
+            "w": 1536
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1450,
+            "h": 43,
+            "path": "webp/gold-lozenge-divider-center-64.webp",
+            "sha256": "c2452d15a3790637d4fa49e41ae9eddc9933c8a07bb5612789ef7913b1a9b341",
+            "w": 64
+          },
+          {
+            "bytes": 2204,
+            "h": 64,
+            "path": "webp/gold-lozenge-divider-center-96.webp",
+            "sha256": "328e065bd221cd79bc29aa08bc77a8e10db24d5b9cb630dae8795fb5c8cef98d",
+            "w": 96
+          },
+          {
+            "bytes": 2970,
+            "h": 85,
+            "path": "webp/gold-lozenge-divider-center-128.webp",
+            "sha256": "a95d08ff70ed582141afcc46d7f26c2660cd0f2428aaeb55a48eb6f2247b0329",
+            "w": 128
+          },
+          {
+            "bytes": 4988,
+            "h": 128,
+            "path": "webp/gold-lozenge-divider-center-192.webp",
+            "sha256": "8937a9359298146fc25f25db6a71d6f265825dfeeb5f745219336bfeaea87912",
+            "w": 192
+          },
+          {
+            "bytes": 7058,
+            "h": 171,
+            "path": "webp/gold-lozenge-divider-center-256.webp",
+            "sha256": "237232f90b2317bcb4821e4b66c8b3f054571de97b92fd98077ab5a0d1537b56",
+            "w": 256
+          },
+          {
+            "bytes": 12652,
+            "h": 256,
+            "path": "webp/gold-lozenge-divider-center-384.webp",
+            "sha256": "3734b56f900d9f6276e01ed6c4750d083362b1d457addae51fd80c7bec9a919f",
+            "w": 384
+          },
+          {
+            "bytes": 19372,
+            "h": 341,
+            "path": "webp/gold-lozenge-divider-center-512.webp",
+            "sha256": "aaf93e89e9437160a4e58c7a4e15a5e870bbac3fa32395197191425d6ed27f04",
+            "w": 512
+          },
+          {
+            "bytes": 37428,
+            "h": 512,
+            "path": "webp/gold-lozenge-divider-center-768.webp",
+            "sha256": "7bd26377d21c74c6ae0ba1296a53a6d2167f45606a3a5a587fb9d28552683294",
+            "w": 768
+          },
+          {
+            "bytes": 63442,
+            "h": 683,
+            "path": "webp/gold-lozenge-divider-center-1024.webp",
+            "sha256": "caf3fd6b2113b9e47a5c92ba03731a7b7470c6088fcf3e2b746a9a4358eff5c0",
+            "w": 1024
+          },
+          {
+            "bytes": 118386,
+            "h": 1024,
+            "path": "webp/gold-lozenge-divider-center-1536.webp",
+            "sha256": "a989b7a52de1827a8347b82442ae7e2b251391dbc46e68697fec899da7290217",
+            "w": 1536
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "fleuron",
+        "leaf",
+        "stem",
+        "centerpiece"
+      ],
+      "thumbhash": "YGuCA4ASOPd4h3gIh3YIKAjXiHeBfJg=",
+      "title": "Gold lozenge divider, centre",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Centre piece of a flexible divider with gold-lozenge-divider-end; draw a continuous rule beneath it so the pointed stems meet the rule on both sides.",
+        "Also works alone as a section mark."
+      ],
+      "width": 1536
+    },
+    "gold-lozenge-divider-end": {
+      "categories": [
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "gold",
+        "brown",
+        "cream"
+      ],
+      "composition": "single-ornament",
+      "description": "A painted divider terminal in textured gold with dark brown contours and pale cream highlights, a pointed acanthus leaf pointing left with a scroll curling up above it and one curling down below it, and a long straight gold stem extending to the right, on a transparent background.",
+      "display_width": [
+        100,
+        400
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 44744,
+        "webpTopBytes": 102694
+      },
+      "facing": "left",
+      "group": "gold-dividers",
+      "height": 972,
+      "master": {
+        "bytes": 364798,
+        "h": 972,
+        "path": "masters/gold-lozenge-divider-end.webp",
+        "sha256": "101b6ff24d3b73a87921fa4c3ff429e3a8266d08895e9d193cd8d8033ec676da",
+        "w": 1619
+      },
+      "palette": [
+        "#b48438",
+        "#d9b069",
+        "#cf9d45",
+        "#94692d",
+        "#6e481c"
+      ],
+      "related": [
+        {
+          "asset": "authored-ornaments/gold-lozenge-divider-center",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1275,
+            "h": 38,
+            "path": "avif/gold-lozenge-divider-end-64.avif",
+            "sha256": "0d4dcb9dbc6e4e31b57fccb6288951add8e1589363af98788895f524294e2795",
+            "w": 64
+          },
+          {
+            "bytes": 1454,
+            "h": 58,
+            "path": "avif/gold-lozenge-divider-end-96.avif",
+            "sha256": "a6e6f13a9478c813315b247d4dccded62e0be121071596c6718354658c1fc385",
+            "w": 96
+          },
+          {
+            "bytes": 1732,
+            "h": 77,
+            "path": "avif/gold-lozenge-divider-end-128.avif",
+            "sha256": "504f8410f02eea2bcda44606c878a5e4de44f9c631b0c55c9d219f8f34746e05",
+            "w": 128
+          },
+          {
+            "bytes": 2656,
+            "h": 115,
+            "path": "avif/gold-lozenge-divider-end-192.avif",
+            "sha256": "3a8d56ec774d0c94e3222d07b5735783c73eb77622392ad3de138892f7c693b6",
+            "w": 192
+          },
+          {
+            "bytes": 3298,
+            "h": 154,
+            "path": "avif/gold-lozenge-divider-end-256.avif",
+            "sha256": "97aab319ed77a7080df81b0098f11acdadde8f31f44c27ce1a17f3a242546a87",
+            "w": 256
+          },
+          {
+            "bytes": 5562,
+            "h": 231,
+            "path": "avif/gold-lozenge-divider-end-384.avif",
+            "sha256": "791909e1fc74cfb6516cac0e55e64c0890225615130ad5e3a4e9ffb2e982b46c",
+            "w": 384
+          },
+          {
+            "bytes": 8168,
+            "h": 307,
+            "path": "avif/gold-lozenge-divider-end-512.avif",
+            "sha256": "2b30ec4a8c09d17f7a1e38cf89962d95e88cb6afb2803e2c7c52ce7d793ee6b1",
+            "w": 512
+          },
+          {
+            "bytes": 14929,
+            "h": 461,
+            "path": "avif/gold-lozenge-divider-end-768.avif",
+            "sha256": "88b95f573e5ef9ef3bff47978a5be63c91f568e7f69317179bc8d88bbe56ecc0",
+            "w": 768
+          },
+          {
+            "bytes": 24173,
+            "h": 615,
+            "path": "avif/gold-lozenge-divider-end-1024.avif",
+            "sha256": "52237bf2cae7ab1f3984f49c9a7dcd912d3408dbe4182695643c84449e92d465",
+            "w": 1024
+          },
+          {
+            "bytes": 40861,
+            "h": 922,
+            "path": "avif/gold-lozenge-divider-end-1536.avif",
+            "sha256": "a849d382fb5ba1ad59496a2399165be1eb56961a5e238425fecbea54bdbdbdd1",
+            "w": 1536
+          },
+          {
+            "bytes": 44744,
+            "h": 972,
+            "path": "avif/gold-lozenge-divider-end-1619.avif",
+            "sha256": "26fdb47902b9c73ecfe5e70c8ba2321d9102bc7dec61b82112bc14da3d310f02",
+            "w": 1619
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1104,
+            "h": 38,
+            "path": "webp/gold-lozenge-divider-end-64.webp",
+            "sha256": "61bedb5e882ffae219ca06ddf65d76102fea2e1cfee61ca2f3656add52eeb18c",
+            "w": 64
+          },
+          {
+            "bytes": 1836,
+            "h": 58,
+            "path": "webp/gold-lozenge-divider-end-96.webp",
+            "sha256": "ef634bdc0c5d6dbb6ed89763684d4b9d5d08d1f2b924fcd3b7733564c7e36720",
+            "w": 96
+          },
+          {
+            "bytes": 2474,
+            "h": 77,
+            "path": "webp/gold-lozenge-divider-end-128.webp",
+            "sha256": "f7802b744541131210894b35b762595c19e3d8447935c14af7a03b3010bbb63a",
+            "w": 128
+          },
+          {
+            "bytes": 4066,
+            "h": 115,
+            "path": "webp/gold-lozenge-divider-end-192.webp",
+            "sha256": "9af796006997c5c0d8bb5dde9a88fefb97d0e93697589cb97b49968f0ff4ddc0",
+            "w": 192
+          },
+          {
+            "bytes": 6060,
+            "h": 154,
+            "path": "webp/gold-lozenge-divider-end-256.webp",
+            "sha256": "68584b89b05e27012accb3a34f24a401e786aba35ee836fc653472b93dc812a0",
+            "w": 256
+          },
+          {
+            "bytes": 10598,
+            "h": 231,
+            "path": "webp/gold-lozenge-divider-end-384.webp",
+            "sha256": "f07457bdce42c996e8839804954bae7d22dceb8eae1462604d503aba77f71bf4",
+            "w": 384
+          },
+          {
+            "bytes": 16256,
+            "h": 307,
+            "path": "webp/gold-lozenge-divider-end-512.webp",
+            "sha256": "07c55b0a65dca7bfdb7741b6452dbb7274b9b2abede45227e66ba60b865fcf20",
+            "w": 512
+          },
+          {
+            "bytes": 31048,
+            "h": 461,
+            "path": "webp/gold-lozenge-divider-end-768.webp",
+            "sha256": "369ccb0e777c79a3bb8278dfda5fa3b04dad185a4c00c576898d1ebab52bd8ce",
+            "w": 768
+          },
+          {
+            "bytes": 50240,
+            "h": 615,
+            "path": "webp/gold-lozenge-divider-end-1024.webp",
+            "sha256": "d486f0849fb714a0781626e3fdc601bfff0368293834cb8d8e5986c301e57e2f",
+            "w": 1024
+          },
+          {
+            "bytes": 94298,
+            "h": 922,
+            "path": "webp/gold-lozenge-divider-end-1536.webp",
+            "sha256": "25c3c5f6b0010eecc43fdfc9ab39fb9afab176acf4ab81bc547368b957b60da1",
+            "w": 1536
+          },
+          {
+            "bytes": 102694,
+            "h": 972,
+            "path": "webp/gold-lozenge-divider-end-1619.webp",
+            "sha256": "233fa475dab8ccc872583c276ee63541de123c8e66c630fccedef56f89704e74",
+            "w": 1619
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "acanthus",
+        "leaf",
+        "scroll",
+        "stem",
+        "terminal"
+      ],
+      "thumbhash": "31qCA4ASWqCKZkNfePFkRgqSiHdgfKc=",
+      "title": "Gold acanthus divider terminal",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Terminal of a flexible divider with gold-lozenge-divider-center; the leaf points left and the stem runs right, so as drawn it closes the left end of a rule and is mirrored for the right end.",
+        "Draw the connecting rule at the height of the stem."
+      ],
+      "width": 1619
+    },
+    "ivy-corner-bottom-left": {
+      "categories": [
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A bottom-left corner in black penwork, drawn as two thin double rules meeting at the vertex under a cluster of curled acanthus leaves, with an ivy vine climbing the vertical rule and running along the horizontal one, pointed ivy leaves with veined interiors, curled tendrils and a curled leaf closing each end of the rules, on a transparent background.",
+      "display_width": [
+        160,
+        600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 40098,
+        "webpTopBytes": 145316
+      },
+      "facing": "up",
+      "group": "black-penwork",
+      "height": 1254,
+      "master": {
+        "bytes": 163848,
+        "h": 1254,
+        "path": "masters/ivy-corner-bottom-left.webp",
+        "sha256": "70183906b6df66d5ffa06afd49696a9418185e2a510dd7e61c0aee7e510c1645",
+        "w": 1254
+      },
+      "palette": [
+        "#000000"
+      ],
+      "related": [
+        {
+          "asset": "authored-ornaments/ivy-corner-top-left",
+          "role": "companion"
+        },
+        {
+          "asset": "authored-ornaments/ivy-corner-top-right",
+          "role": "companion"
+        },
+        {
+          "asset": "authored-ornaments/ivy-corner-bottom-right",
+          "role": "companion"
+        },
+        {
+          "asset": "authored-ornaments/ivy-manuscript-frame",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1056,
+            "h": 64,
+            "path": "avif/ivy-corner-bottom-left-64.avif",
+            "sha256": "8719713dd80a71696b3097b47fd1a0472d306b17a863e22fea0192a0df60e291",
+            "w": 64
+          },
+          {
+            "bytes": 1610,
+            "h": 96,
+            "path": "avif/ivy-corner-bottom-left-96.avif",
+            "sha256": "df63568a220f79db5468963985847d2c659f74ec63cabb797e25044ec5faede6",
+            "w": 96
+          },
+          {
+            "bytes": 2305,
+            "h": 128,
+            "path": "avif/ivy-corner-bottom-left-128.avif",
+            "sha256": "40086f9f73296599e742abf774d3ded4ff36ac3802b0bd25dbce7228412d0d70",
+            "w": 128
+          },
+          {
+            "bytes": 4021,
+            "h": 192,
+            "path": "avif/ivy-corner-bottom-left-192.avif",
+            "sha256": "eb0dc3128f340b872a8128612629c0369382cc287f974f5994aae70aa844d74b",
+            "w": 192
+          },
+          {
+            "bytes": 6010,
+            "h": 256,
+            "path": "avif/ivy-corner-bottom-left-256.avif",
+            "sha256": "cf010d60ebcfecdc97fc7588c1c2be7b977af8fc945c32cca03796b55b8f215a",
+            "w": 256
+          },
+          {
+            "bytes": 10376,
+            "h": 384,
+            "path": "avif/ivy-corner-bottom-left-384.avif",
+            "sha256": "29ab5e971ba5c383bc1644d9430d98a3407b2523c04f12adc396fe163be88e85",
+            "w": 384
+          },
+          {
+            "bytes": 14955,
+            "h": 512,
+            "path": "avif/ivy-corner-bottom-left-512.avif",
+            "sha256": "310c1dd7ccd260200d6e7e1cf863cf4daf34e1bfd2d48d3b4889bd2b34c3eb3b",
+            "w": 512
+          },
+          {
+            "bytes": 24395,
+            "h": 768,
+            "path": "avif/ivy-corner-bottom-left-768.avif",
+            "sha256": "e6d3c37bfc295843c2a4086e70208d9a7ea55f44fb7dc3dd5cdb48d89b485743",
+            "w": 768
+          },
+          {
+            "bytes": 33064,
+            "h": 1024,
+            "path": "avif/ivy-corner-bottom-left-1024.avif",
+            "sha256": "8a2329458f536e5c184cacf743bfbba8bd80e373dba8378989b352ff1d1fa7f5",
+            "w": 1024
+          },
+          {
+            "bytes": 40098,
+            "h": 1254,
+            "path": "avif/ivy-corner-bottom-left-1254.avif",
+            "sha256": "b517418b2c9faea568eade0758a7defdd4b3c7fd940e6d172ca9f98326cb87ef",
+            "w": 1254
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1220,
+            "h": 64,
+            "path": "webp/ivy-corner-bottom-left-64.webp",
+            "sha256": "f5a472e385855732a1069c8f226f495e3cd845e44a044dde8e452c16619a938c",
+            "w": 64
+          },
+          {
+            "bytes": 2310,
+            "h": 96,
+            "path": "webp/ivy-corner-bottom-left-96.webp",
+            "sha256": "79e761940a26b8c9eedc8700fef1088b4ee1ae93c707e9c7e556e1575d9899f0",
+            "w": 96
+          },
+          {
+            "bytes": 3568,
+            "h": 128,
+            "path": "webp/ivy-corner-bottom-left-128.webp",
+            "sha256": "280455498ddc0e487f6440b79570085da14a2f05720677938ca0f5d9f98dd511",
+            "w": 128
+          },
+          {
+            "bytes": 6860,
+            "h": 192,
+            "path": "webp/ivy-corner-bottom-left-192.webp",
+            "sha256": "1027686bed1586996abfd31c25177cc8c385b3e581a36ba7dfd21a5781345271",
+            "w": 192
+          },
+          {
+            "bytes": 10908,
+            "h": 256,
+            "path": "webp/ivy-corner-bottom-left-256.webp",
+            "sha256": "0b8b6c70b038a4da62155af3358567d0b531596d4a8a52b2001721230d0cda2f",
+            "w": 256
+          },
+          {
+            "bytes": 20136,
+            "h": 384,
+            "path": "webp/ivy-corner-bottom-left-384.webp",
+            "sha256": "f2159e2f0117dd0c5b4afc83e6c6592215198c7cbecf2c31506b9aae677322fb",
+            "w": 384
+          },
+          {
+            "bytes": 31112,
+            "h": 512,
+            "path": "webp/ivy-corner-bottom-left-512.webp",
+            "sha256": "d2b98d6e8998f431dc32ae166fca53610921d969f885bf2259dd6b4538ed10fb",
+            "w": 512
+          },
+          {
+            "bytes": 61964,
+            "h": 768,
+            "path": "webp/ivy-corner-bottom-left-768.webp",
+            "sha256": "dad9768397c764f2c8d8bb423c27b88ae421600eea86b876380bbbf798d59ec6",
+            "w": 768
+          },
+          {
+            "bytes": 102858,
+            "h": 1024,
+            "path": "webp/ivy-corner-bottom-left-1024.webp",
+            "sha256": "2df617e35465bdb3ed51c9618498c0a7d1cf5d708fe95570f37ae3541a9f0396",
+            "w": 1024
+          },
+          {
+            "bytes": 145316,
+            "h": 1254,
+            "path": "webp/ivy-corner-bottom-left-1254.webp",
+            "sha256": "94b0f39c861703e221b6f71ff34fafb3b7cb818c939296eab4c363f9ceb09368",
+            "w": 1254
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "ivy",
+        "acanthus",
+        "leaf",
+        "vine",
+        "rule",
+        "scroll"
+      ],
+      "thumbhash": "AAiCBQABAAAAAAAAAAAAAAAAv2iCmWtWiA==",
+      "title": "Ivy corner, bottom-left",
+      "transparent": true,
+      "type": "corner",
+      "usage_notes": [
+        "Place at the bottom-left of a page or box; the rules run along the two adjoining edges and close with curled leaves, not finials.",
+        "Use as a whole image; it is a separate drawing, not a rotation or mirror of the other three corners, and not a border-image atlas.",
+        "Open line art; the interiors of the leaves are transparent, so it reads best on a light ground."
+      ],
+      "width": 1254
+    },
+    "ivy-corner-bottom-right": {
+      "categories": [
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A bottom-right corner in black penwork, drawn as two thin double rules meeting at the vertex under a cluster of curled acanthus leaves, with an ivy vine climbing the vertical rule and running along the horizontal one, pointed ivy leaves with veined interiors, curled tendrils and a fleur-de-lis finial capping each end of the rules, on a transparent background.",
+      "display_width": [
+        160,
+        600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 35131,
+        "webpTopBytes": 133312
+      },
+      "facing": "up",
+      "group": "black-penwork",
+      "height": 1254,
+      "master": {
+        "bytes": 148328,
+        "h": 1254,
+        "path": "masters/ivy-corner-bottom-right.webp",
+        "sha256": "6f11c87b02c5a9c0a50f8155d249d26ee12bd3ab2d4a20edf4af7e5ae83f3ad5",
+        "w": 1254
+      },
+      "palette": [
+        "#000000"
+      ],
+      "related": [
+        {
+          "asset": "authored-ornaments/ivy-corner-top-left",
+          "role": "companion"
+        },
+        {
+          "asset": "authored-ornaments/ivy-corner-top-right",
+          "role": "companion"
+        },
+        {
+          "asset": "authored-ornaments/ivy-corner-bottom-left",
+          "role": "companion"
+        },
+        {
+          "asset": "authored-ornaments/ivy-manuscript-frame",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 985,
+            "h": 64,
+            "path": "avif/ivy-corner-bottom-right-64.avif",
+            "sha256": "6bf527bf2d066721dcec611741a614279e397a646498efb456aaf87c03a8b40b",
+            "w": 64
+          },
+          {
+            "bytes": 1538,
+            "h": 96,
+            "path": "avif/ivy-corner-bottom-right-96.avif",
+            "sha256": "540bee82274d1ac2d7a422073d0094b10dc285dabc928c56f992dbaf62f27970",
+            "w": 96
+          },
+          {
+            "bytes": 2207,
+            "h": 128,
+            "path": "avif/ivy-corner-bottom-right-128.avif",
+            "sha256": "a91e18d64511a0ed2f71be2994abd4673352fa63f9580b2159c76d999742f9b2",
+            "w": 128
+          },
+          {
+            "bytes": 3828,
+            "h": 192,
+            "path": "avif/ivy-corner-bottom-right-192.avif",
+            "sha256": "d6e494924247c87ef603933e5ae3daffc95a8b6c5ce1fda580b11573390494a5",
+            "w": 192
+          },
+          {
+            "bytes": 5601,
+            "h": 256,
+            "path": "avif/ivy-corner-bottom-right-256.avif",
+            "sha256": "347531988b6e4bb2235a9df72c46e6529e83d446bb2fd7cca363d90e710730fe",
+            "w": 256
+          },
+          {
+            "bytes": 9626,
+            "h": 384,
+            "path": "avif/ivy-corner-bottom-right-384.avif",
+            "sha256": "9a11594a9739c91df73df830c28df45d55e9a9373b898be4b3b8bfaa28e42781",
+            "w": 384
+          },
+          {
+            "bytes": 13826,
+            "h": 512,
+            "path": "avif/ivy-corner-bottom-right-512.avif",
+            "sha256": "ca243d2abc6f51e1c945d0bcfa3834d54e57e1c99027e2c6f9d3c11165f7e1c9",
+            "w": 512
+          },
+          {
+            "bytes": 21977,
+            "h": 768,
+            "path": "avif/ivy-corner-bottom-right-768.avif",
+            "sha256": "00968c59e815fe231c3fa8b4b369401eeaf77c61e8f5c26bfb242ee39b16b9f3",
+            "w": 768
+          },
+          {
+            "bytes": 29327,
+            "h": 1024,
+            "path": "avif/ivy-corner-bottom-right-1024.avif",
+            "sha256": "2b2b0d0a2e37605e36ba98f6e7ea4186fd2bbec326e119fd073e0da4ba67ca2f",
+            "w": 1024
+          },
+          {
+            "bytes": 35131,
+            "h": 1254,
+            "path": "avif/ivy-corner-bottom-right-1254.avif",
+            "sha256": "a688b1e0a3a6b3d9b0d8dea5e2f644a7a4977a5109e8467267965d723cd0401a",
+            "w": 1254
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1134,
+            "h": 64,
+            "path": "webp/ivy-corner-bottom-right-64.webp",
+            "sha256": "ff5f7ec48dff924adbdd09b15c816d88b807cb6b8cf08151575c3883f279cc5f",
+            "w": 64
+          },
+          {
+            "bytes": 2146,
+            "h": 96,
+            "path": "webp/ivy-corner-bottom-right-96.webp",
+            "sha256": "dd7b0200b36fc15588aec082d266552dd50d5db80add73d6923e2da286dc80b3",
+            "w": 96
+          },
+          {
+            "bytes": 3328,
+            "h": 128,
+            "path": "webp/ivy-corner-bottom-right-128.webp",
+            "sha256": "0a7c5a365878b7213141d54b414ac7da3e824e088981ce32e242da195aa71f73",
+            "w": 128
+          },
+          {
+            "bytes": 6280,
+            "h": 192,
+            "path": "webp/ivy-corner-bottom-right-192.webp",
+            "sha256": "f63aac96bce798ef43911b7fd3e06570ef05957159affaabda6c58f93b8182b5",
+            "w": 192
+          },
+          {
+            "bytes": 9838,
+            "h": 256,
+            "path": "webp/ivy-corner-bottom-right-256.webp",
+            "sha256": "b0c5f806c4da33ac8b4e78bd7585fcc374d4e92fad8ccde705c0947b36c041d3",
+            "w": 256
+          },
+          {
+            "bytes": 17792,
+            "h": 384,
+            "path": "webp/ivy-corner-bottom-right-384.webp",
+            "sha256": "16397b11e5240725f34f3df0ba7960bc3395a97d0199b10506244ead11d78107",
+            "w": 384
+          },
+          {
+            "bytes": 28248,
+            "h": 512,
+            "path": "webp/ivy-corner-bottom-right-512.webp",
+            "sha256": "47ca92b1ce8618b9046401335cbb747f04ae68388f575bec414843482ad3d8c1",
+            "w": 512
+          },
+          {
+            "bytes": 56332,
+            "h": 768,
+            "path": "webp/ivy-corner-bottom-right-768.webp",
+            "sha256": "ca100df9ec9c43e7c663c0b3a9069b7dd08f8a8ea3dac7c56e56d742317eefea",
+            "w": 768
+          },
+          {
+            "bytes": 93970,
+            "h": 1024,
+            "path": "webp/ivy-corner-bottom-right-1024.webp",
+            "sha256": "38e562305f65e976f4e520c191b0c8a2cfd1123fd22f74df80f01b860b980c26",
+            "w": 1024
+          },
+          {
+            "bytes": 133312,
+            "h": 1254,
+            "path": "webp/ivy-corner-bottom-right-1254.webp",
+            "sha256": "1f5c4921e573e27c4798eaf5e1acec9464139bbb6962b6128582a8858995ccff",
+            "w": 1254
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "ivy",
+        "acanthus",
+        "leaf",
+        "vine",
+        "rule",
+        "finial",
+        "scroll"
+      ],
+      "thumbhash": "AAiCBQABAAAAAAAAAAAAAAAAoFZyeppVhw==",
+      "title": "Ivy corner, bottom-right",
+      "transparent": true,
+      "type": "corner",
+      "usage_notes": [
+        "Place at the bottom-right of a page or box; the rules run along the two adjoining edges and end in finials, so they are not meant to be extended.",
+        "Use as a whole image; it is a separate drawing, not a rotation or mirror of the other three corners, and not a border-image atlas.",
+        "Open line art; the interiors of the leaves are transparent, so it reads best on a light ground."
+      ],
+      "width": 1254
+    },
+    "ivy-corner-top-left": {
+      "categories": [
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A top-left corner in black penwork, drawn as two thin double rules meeting at the vertex, with an ivy vine winding down the vertical rule and along the horizontal one, pointed three-lobed ivy leaves with veined interiors, small curled tendrils and a fleur-de-lis finial capping each end of the rules, on a transparent background.",
+      "display_width": [
+        160,
+        600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 41147,
+        "webpTopBytes": 154862
+      },
+      "facing": "down",
+      "group": "black-penwork",
+      "height": 1254,
+      "master": {
+        "bytes": 168428,
+        "h": 1254,
+        "path": "masters/ivy-corner-top-left.webp",
+        "sha256": "5760a1311eaafcb54b2d58f3405dd44004640c0c76d6abaed89fb0df172bcca0",
+        "w": 1254
+      },
+      "palette": [
+        "#000000"
+      ],
+      "related": [
+        {
+          "asset": "authored-ornaments/ivy-corner-top-right",
+          "role": "companion"
+        },
+        {
+          "asset": "authored-ornaments/ivy-corner-bottom-left",
+          "role": "companion"
+        },
+        {
+          "asset": "authored-ornaments/ivy-corner-bottom-right",
+          "role": "companion"
+        },
+        {
+          "asset": "authored-ornaments/ivy-manuscript-frame",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1079,
+            "h": 64,
+            "path": "avif/ivy-corner-top-left-64.avif",
+            "sha256": "ea8d39e69b5a9197501ae2022a4808ca5506608676fdf4ee12b444c0b417583e",
+            "w": 64
+          },
+          {
+            "bytes": 1767,
+            "h": 96,
+            "path": "avif/ivy-corner-top-left-96.avif",
+            "sha256": "8668d8ae43d39b8fe86deac8cbdcd7fb0b8eca7fe71c9397143a45f25bcc7016",
+            "w": 96
+          },
+          {
+            "bytes": 2511,
+            "h": 128,
+            "path": "avif/ivy-corner-top-left-128.avif",
+            "sha256": "b693ff34da80652fb7d90100a59032362ad501345ece0e8946cf96ee8f64f8a4",
+            "w": 128
+          },
+          {
+            "bytes": 4402,
+            "h": 192,
+            "path": "avif/ivy-corner-top-left-192.avif",
+            "sha256": "b4653b3563634f6e9220e531c6b9f7396068014e4c8e165a9444e1f410e1ffc4",
+            "w": 192
+          },
+          {
+            "bytes": 6380,
+            "h": 256,
+            "path": "avif/ivy-corner-top-left-256.avif",
+            "sha256": "7cf36f29f072dcc9a472f66d43fd7845ae819a91b4acade7ab6f297a9769a9db",
+            "w": 256
+          },
+          {
+            "bytes": 10989,
+            "h": 384,
+            "path": "avif/ivy-corner-top-left-384.avif",
+            "sha256": "94696e82b9859fb6a898aa227af6758fa3d01aaee7203cd14bddb31da88a533e",
+            "w": 384
+          },
+          {
+            "bytes": 15513,
+            "h": 512,
+            "path": "avif/ivy-corner-top-left-512.avif",
+            "sha256": "9dbe79c42e10b5c482557de14e9a3ee9c5512fe8f82745a76606dd6b50a9c6ea",
+            "w": 512
+          },
+          {
+            "bytes": 24868,
+            "h": 768,
+            "path": "avif/ivy-corner-top-left-768.avif",
+            "sha256": "247ea4019791c56c6a8d2e98b69fcea0b0779450a7a001adb711eb71069bd34a",
+            "w": 768
+          },
+          {
+            "bytes": 33163,
+            "h": 1024,
+            "path": "avif/ivy-corner-top-left-1024.avif",
+            "sha256": "6cc2139dea6fcbe474e22e86ee9796de5cae3faafd95aaabfc89409461207cdb",
+            "w": 1024
+          },
+          {
+            "bytes": 41147,
+            "h": 1254,
+            "path": "avif/ivy-corner-top-left-1254.avif",
+            "sha256": "47a05af81422dfd687b2fd56a4aaa34c1564a4695a9df5e48ddf83a746ea5fab",
+            "w": 1254
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1292,
+            "h": 64,
+            "path": "webp/ivy-corner-top-left-64.webp",
+            "sha256": "5aebc90b16dd69f9a1fe1dfcd7b0368f67081cc0a5af55f4bf8bfb1eeef50e99",
+            "w": 64
+          },
+          {
+            "bytes": 2402,
+            "h": 96,
+            "path": "webp/ivy-corner-top-left-96.webp",
+            "sha256": "ef82f491c7ed0d6c02f3e644a7665ff34b3fc0c2184b5ac47f7bee8bd95945b8",
+            "w": 96
+          },
+          {
+            "bytes": 3814,
+            "h": 128,
+            "path": "webp/ivy-corner-top-left-128.webp",
+            "sha256": "ac4c4934c042c0a98788324f2826bd0addbb483a573502fec57ed44ec2a603c3",
+            "w": 128
+          },
+          {
+            "bytes": 7086,
+            "h": 192,
+            "path": "webp/ivy-corner-top-left-192.webp",
+            "sha256": "055082a48c59c1dde1b3e1d6651b959a953e53aa9cb4381c3b6ce483f009049f",
+            "w": 192
+          },
+          {
+            "bytes": 11028,
+            "h": 256,
+            "path": "webp/ivy-corner-top-left-256.webp",
+            "sha256": "5809bdd2f751be55477d18848088b18aadb9e1365a838953053a43701feddc46",
+            "w": 256
+          },
+          {
+            "bytes": 20168,
+            "h": 384,
+            "path": "webp/ivy-corner-top-left-384.webp",
+            "sha256": "24507676966088b9d7f5b43ffde15ae6410362133ac518b96ab9638e9553c60a",
+            "w": 384
+          },
+          {
+            "bytes": 31994,
+            "h": 512,
+            "path": "webp/ivy-corner-top-left-512.webp",
+            "sha256": "9df3066b2001702d7caccb8b82161594e72cd3b88f71b1e80d0e45821ab4be76",
+            "w": 512
+          },
+          {
+            "bytes": 64112,
+            "h": 768,
+            "path": "webp/ivy-corner-top-left-768.webp",
+            "sha256": "a0fe8c2227da987dac98d6687c2d4af76913095259085a856e56dc0f3ccff49b",
+            "w": 768
+          },
+          {
+            "bytes": 108188,
+            "h": 1024,
+            "path": "webp/ivy-corner-top-left-1024.webp",
+            "sha256": "ef4986daffe443cf3918408a020455bd5c8301d06b773d735416190128f1f6ce",
+            "w": 1024
+          },
+          {
+            "bytes": 154862,
+            "h": 1254,
+            "path": "webp/ivy-corner-top-left-1254.webp",
+            "sha256": "4a29f5a72de1cc8f75f061692ca88864ff1e379ab846770f64c3b41f9290313e",
+            "w": 1254
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "ivy",
+        "leaf",
+        "vine",
+        "rule",
+        "finial",
+        "scroll"
+      ],
+      "thumbhash": "AAiCBQABAAAAAAAAAAAAAAAAn0h+dVh1Jw==",
+      "title": "Ivy corner, top-left",
+      "transparent": true,
+      "type": "corner",
+      "usage_notes": [
+        "Place at the top-left of a page or box; the rules run along the two adjoining edges and end in finials, so they are not meant to be extended.",
+        "Use as a whole image; it is a separate drawing, not a rotation or mirror of the other three corners, and not a border-image atlas.",
+        "Open line art; the interiors of the leaves are transparent, so it reads best on a light ground."
+      ],
+      "width": 1254
+    },
+    "ivy-corner-top-right": {
+      "categories": [
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A top-right corner in black penwork, drawn as two thin double rules meeting at the vertex under a large curled acanthus leaf, with an ivy vine winding down the vertical rule and a shorter run of tendrils along the horizontal one, pointed ivy leaves with veined interiors, curled tendrils and a curled leaf closing each end of the rules, on a transparent background.",
+      "display_width": [
+        160,
+        600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 29687,
+        "webpTopBytes": 109438
+      },
+      "facing": "down",
+      "group": "black-penwork",
+      "height": 1254,
+      "master": {
+        "bytes": 118950,
+        "h": 1254,
+        "path": "masters/ivy-corner-top-right.webp",
+        "sha256": "7eb140d2d3258de351edc18aa193ec85f3f9fe571426c63c8a2691952a4421c0",
+        "w": 1254
+      },
+      "palette": [
+        "#000000"
+      ],
+      "related": [
+        {
+          "asset": "authored-ornaments/ivy-corner-top-left",
+          "role": "companion"
+        },
+        {
+          "asset": "authored-ornaments/ivy-corner-bottom-left",
+          "role": "companion"
+        },
+        {
+          "asset": "authored-ornaments/ivy-corner-bottom-right",
+          "role": "companion"
+        },
+        {
+          "asset": "authored-ornaments/ivy-manuscript-frame",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 938,
+            "h": 64,
+            "path": "avif/ivy-corner-top-right-64.avif",
+            "sha256": "08bd0c85f97cd5ef9c093418fb570d34a0e84e61fe8282ea192d10298414af38",
+            "w": 64
+          },
+          {
+            "bytes": 1408,
+            "h": 96,
+            "path": "avif/ivy-corner-top-right-96.avif",
+            "sha256": "d3db0c58ff3abe9b1abd67b7e025324d4a6e3bd145703d5ea14ea306e4faf0c9",
+            "w": 96
+          },
+          {
+            "bytes": 1946,
+            "h": 128,
+            "path": "avif/ivy-corner-top-right-128.avif",
+            "sha256": "ec4f0d7f7cdf28674f7e6334d4b0ff1bcc95c0346c99e4a4b32f9b0c82ecbacd",
+            "w": 128
+          },
+          {
+            "bytes": 3361,
+            "h": 192,
+            "path": "avif/ivy-corner-top-right-192.avif",
+            "sha256": "51154babd0097eff26b1efa51fd07941f25aa357a62c23ce76731488775e72d9",
+            "w": 192
+          },
+          {
+            "bytes": 4841,
+            "h": 256,
+            "path": "avif/ivy-corner-top-right-256.avif",
+            "sha256": "2dacc085c7753b5cdf63890f8bfa1819b8635df454ff3f0c090dbe2ff11c0467",
+            "w": 256
+          },
+          {
+            "bytes": 8241,
+            "h": 384,
+            "path": "avif/ivy-corner-top-right-384.avif",
+            "sha256": "8bc19353dd722e103eec68c0e3f85c6bc4f697debd36a70a3197532ffe2c7e19",
+            "w": 384
+          },
+          {
+            "bytes": 11484,
+            "h": 512,
+            "path": "avif/ivy-corner-top-right-512.avif",
+            "sha256": "cb9ba9602079fb163c90399ea891aaa9b5e42ea7d1ecc783fe8b23d9b162da62",
+            "w": 512
+          },
+          {
+            "bytes": 18387,
+            "h": 768,
+            "path": "avif/ivy-corner-top-right-768.avif",
+            "sha256": "1f41e94604856572b0583820d3a0406fd2f954da0cca7bb4e0980fd2e6bdeae4",
+            "w": 768
+          },
+          {
+            "bytes": 24675,
+            "h": 1024,
+            "path": "avif/ivy-corner-top-right-1024.avif",
+            "sha256": "4eb11a187e4243a5d5de29932a4e0ef6244d309b11f6889c76ec82d7415b7f27",
+            "w": 1024
+          },
+          {
+            "bytes": 29687,
+            "h": 1254,
+            "path": "avif/ivy-corner-top-right-1254.avif",
+            "sha256": "a98c02a08d229ea8174583793b2b910a30cb4cdcfe5bd73b75f021e7e2dd7ad0",
+            "w": 1254
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1032,
+            "h": 64,
+            "path": "webp/ivy-corner-top-right-64.webp",
+            "sha256": "04da4faa4782af835bdd3108b5e36c7cee696a344e982ffa1a537f1705044aae",
+            "w": 64
+          },
+          {
+            "bytes": 1888,
+            "h": 96,
+            "path": "webp/ivy-corner-top-right-96.webp",
+            "sha256": "37e692d96d2407e68f0e1391d1d4ef39400e37b10dc66cd9a259a938d29d2ff3",
+            "w": 96
+          },
+          {
+            "bytes": 2964,
+            "h": 128,
+            "path": "webp/ivy-corner-top-right-128.webp",
+            "sha256": "c5071c0d357e47c81a69920dc30d2140eb1b6b4e7a12a9b803e90234f19a21e6",
+            "w": 128
+          },
+          {
+            "bytes": 5558,
+            "h": 192,
+            "path": "webp/ivy-corner-top-right-192.webp",
+            "sha256": "5646419e76c9505151003962df28850959bb8c2cb9c5a0cf1d7a0960b135ea5f",
+            "w": 192
+          },
+          {
+            "bytes": 8606,
+            "h": 256,
+            "path": "webp/ivy-corner-top-right-256.webp",
+            "sha256": "7d1891cef83aa8e8cb25ec377628bd17943961737d3a07772ca8e6879198ee4c",
+            "w": 256
+          },
+          {
+            "bytes": 15454,
+            "h": 384,
+            "path": "webp/ivy-corner-top-right-384.webp",
+            "sha256": "0b803f74565b2417aa8bae50920b1e56e40c9f7f8624d35133ae1c22387ff3be",
+            "w": 384
+          },
+          {
+            "bytes": 23876,
+            "h": 512,
+            "path": "webp/ivy-corner-top-right-512.webp",
+            "sha256": "1b9edd595904d68e66c4a7ec6fe543a9a1360e0aa69584e147c4f88f3d20f2d5",
+            "w": 512
+          },
+          {
+            "bytes": 46982,
+            "h": 768,
+            "path": "webp/ivy-corner-top-right-768.webp",
+            "sha256": "2f58c4bcf7ab9ccc396a35ec935b6ed0a330f19f9084db7de3ea03f2583ec811",
+            "w": 768
+          },
+          {
+            "bytes": 77944,
+            "h": 1024,
+            "path": "webp/ivy-corner-top-right-1024.webp",
+            "sha256": "8a2008274d42a464ae3c3d12f383cbd8007aa8fdca541ac4bf5b1a30b7038d28",
+            "w": 1024
+          },
+          {
+            "bytes": 109438,
+            "h": 1254,
+            "path": "webp/ivy-corner-top-right-1254.webp",
+            "sha256": "ae2c354eada27859f16a9282b677f017bdca6611a1b8b6d4618d2501752bf875",
+            "w": 1254
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "ivy",
+        "acanthus",
+        "leaf",
+        "vine",
+        "rule",
+        "scroll"
+      ],
+      "thumbhash": "AAiCBQABAAAAAAAAAAAAAAAAwHZ8l5hmOA==",
+      "title": "Ivy corner, top-right",
+      "transparent": true,
+      "type": "corner",
+      "usage_notes": [
+        "Place at the top-right of a page or box; the rules run along the two adjoining edges and close with curled leaves, not finials.",
+        "Use as a whole image; it is a separate drawing, not a rotation or mirror of the other three corners, and not a border-image atlas.",
+        "Open line art; the interiors of the leaves are transparent, so it reads best on a light ground."
+      ],
+      "width": 1254
+    },
+    "ivy-fleuron": {
+      "categories": [
+        "botanical"
+      ],
+      "colors": [
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A compact symmetric fleuron in black penwork, three pointed three-lobed ivy leaves on short stems that join at a single stalk below, the middle leaf upright and the outer two turned outward, with a heavy outer contour and fine veins inside, on a transparent background.",
+      "display_width": [
+        60,
+        240
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 19849,
+        "webpTopBytes": 87408
+      },
+      "facing": "none",
+      "group": "black-penwork",
+      "height": 1180,
+      "master": {
+        "bytes": 115540,
+        "h": 1180,
+        "path": "masters/ivy-fleuron.webp",
+        "sha256": "bb6381502d4e42ce8fcb8ce6f8f06ca30286f02fea08224ed85aabaeae6aa4d1",
+        "w": 1333
+      },
+      "palette": [
+        "#000000"
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 983,
+            "h": 57,
+            "path": "avif/ivy-fleuron-64.avif",
+            "sha256": "1365c0e29689300c316049969c119cda2d29658a2b1bb41214c3c8c79670f95a",
+            "w": 64
+          },
+          {
+            "bytes": 1451,
+            "h": 85,
+            "path": "avif/ivy-fleuron-96.avif",
+            "sha256": "7d13741d24fd8ca0aaf367a9e361a1a4097550c4a10fa98a26359e9bbe0fa8f8",
+            "w": 96
+          },
+          {
+            "bytes": 1963,
+            "h": 113,
+            "path": "avif/ivy-fleuron-128.avif",
+            "sha256": "c21f5a9ef2ea0f7fec33b01c830b8a589ca884d1c2bafb739ecd4569b58397bc",
+            "w": 128
+          },
+          {
+            "bytes": 3057,
+            "h": 170,
+            "path": "avif/ivy-fleuron-192.avif",
+            "sha256": "1ff526b3a40daef409a798ab8e3c43847e61fd6a5326198366082e2f91ba7192",
+            "w": 192
+          },
+          {
+            "bytes": 4172,
+            "h": 227,
+            "path": "avif/ivy-fleuron-256.avif",
+            "sha256": "6911cdd236de9635cc6559684697c240a30d37f4224eabb6001eaa9c5393a100",
+            "w": 256
+          },
+          {
+            "bytes": 6255,
+            "h": 340,
+            "path": "avif/ivy-fleuron-384.avif",
+            "sha256": "d58503d4ca28d07c52f2bce72c5202157a64cd66c810a7d401b0aa59fdd5774e",
+            "w": 384
+          },
+          {
+            "bytes": 8260,
+            "h": 453,
+            "path": "avif/ivy-fleuron-512.avif",
+            "sha256": "ea25e39a9d754a8449f91a22cfbe717c9af59b7f56f5949704bc36f3397d1421",
+            "w": 512
+          },
+          {
+            "bytes": 11932,
+            "h": 680,
+            "path": "avif/ivy-fleuron-768.avif",
+            "sha256": "c9acfd3f4d351a017cf479188dc58afd337d57dff55302a327d1147582dd207a",
+            "w": 768
+          },
+          {
+            "bytes": 15314,
+            "h": 906,
+            "path": "avif/ivy-fleuron-1024.avif",
+            "sha256": "1df9143ebad23f6ab0448949bed42628b4b92466512881e1fb518d39d4d8bca3",
+            "w": 1024
+          },
+          {
+            "bytes": 19849,
+            "h": 1180,
+            "path": "avif/ivy-fleuron-1333.avif",
+            "sha256": "72bddb25a139dddc5cd32748e6ca1b60a543f67078bb47be81fdad61b44ca605",
+            "w": 1333
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1000,
+            "h": 57,
+            "path": "webp/ivy-fleuron-64.webp",
+            "sha256": "dc2f56a136b7a0ff3d1e7cf4dca1b8b144096f5c13f5cc1d995476a939e3d5ff",
+            "w": 64
+          },
+          {
+            "bytes": 1770,
+            "h": 85,
+            "path": "webp/ivy-fleuron-96.webp",
+            "sha256": "eb03028ccc4b144c2f7f6b4e564fe9f17ad46b315458d81992e27c0f80dea77d",
+            "w": 96
+          },
+          {
+            "bytes": 2660,
+            "h": 113,
+            "path": "webp/ivy-fleuron-128.webp",
+            "sha256": "096209ccee267aaeb7428968a5b5536169d64f1822a69c5f4bfeab9351e6491a",
+            "w": 128
+          },
+          {
+            "bytes": 4754,
+            "h": 170,
+            "path": "webp/ivy-fleuron-192.webp",
+            "sha256": "7cb65755e7521317606330ee342a2c16c778176708e6884f3467c3446f48964a",
+            "w": 192
+          },
+          {
+            "bytes": 7300,
+            "h": 227,
+            "path": "webp/ivy-fleuron-256.webp",
+            "sha256": "70201337e2e0ab9771a5353131eedfeff3c023215242dd3a138847d90022dd6b",
+            "w": 256
+          },
+          {
+            "bytes": 13370,
+            "h": 340,
+            "path": "webp/ivy-fleuron-384.webp",
+            "sha256": "b151e6b01360b25c2f7fc2c4d5cd567ac326c6b8aa976039e8a7ac6c22a0900d",
+            "w": 384
+          },
+          {
+            "bytes": 20096,
+            "h": 453,
+            "path": "webp/ivy-fleuron-512.webp",
+            "sha256": "d7630e0fb9a52b6d351cd0b241f178b3352adc127b7014e7525cde3e8e99f53b",
+            "w": 512
+          },
+          {
+            "bytes": 35908,
+            "h": 680,
+            "path": "webp/ivy-fleuron-768.webp",
+            "sha256": "858e641d155bbd48a744299fd3f703e722413a86c486dd6b06d31c60cb23baf7",
+            "w": 768
+          },
+          {
+            "bytes": 57238,
+            "h": 906,
+            "path": "webp/ivy-fleuron-1024.webp",
+            "sha256": "99e71197e4f48bf30472659d8cf05ba5fe593666c4e1595125ea4de99e556bf8",
+            "w": 1024
+          },
+          {
+            "bytes": 87408,
+            "h": 1180,
+            "path": "webp/ivy-fleuron-1333.webp",
+            "sha256": "a63311613b6d08d94451ceed30181196d22840316ecef5da9d9ce26db80d8c92",
+            "w": 1333
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "ivy",
+        "leaf",
+        "fleuron",
+        "stem"
+      ],
+      "thumbhash": "AAiCBIARAAAAAAAAAAAAAACAcXh3CMd5CQ==",
+      "title": "Ivy fleuron",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Small standalone mark for a section break or a line end; the stalk at the bottom is where it meets a rule or baseline.",
+        "Open line art; the interiors of the leaves are transparent, so it reads best on a light ground."
+      ],
+      "width": 1333
+    },
+    "ivy-flower-divider": {
+      "categories": [
+        "botanical",
+        "floral",
+        "scrollwork"
+      ],
+      "colors": [
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A long horizontal divider in black penwork, a waving stem carrying pointed ivy leaves, three five-petalled flowers with hatched petals, two curling hatched acanthus leaves and small spiral tendrils, ending in an ivy leaf at the left and an ivy leaf with a tendril at the right, on a transparent background.",
+      "display_width": [
+        300,
+        900
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 55234,
+        "webpTopBytes": 142608
+      },
+      "facing": "none",
+      "group": "black-penwork",
+      "height": 724,
+      "master": {
+        "bytes": 241896,
+        "h": 683,
+        "path": "masters/ivy-flower-divider.webp",
+        "sha256": "abac3af6b52a756cffd87f3952509d5b0b4a1b81550fc81d53413d2b8dd9b230",
+        "w": 2048
+      },
+      "palette": [
+        "#0e0c0a"
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 705,
+            "h": 21,
+            "path": "avif/ivy-flower-divider-64.avif",
+            "sha256": "ba7d1bf1023970cfad98f59e93d841a32349d9ccd2260cfce403a77dca97464b",
+            "w": 64
+          },
+          {
+            "bytes": 978,
+            "h": 32,
+            "path": "avif/ivy-flower-divider-96.avif",
+            "sha256": "e09f105a7278eb93fa10a79d8607070dfc03ae78dc297b729b08493f2db68182",
+            "w": 96
+          },
+          {
+            "bytes": 1349,
+            "h": 43,
+            "path": "avif/ivy-flower-divider-128.avif",
+            "sha256": "00bac9541e1f53f315d12f45d495e6bbf1a1673bb8b997df5a9b1411d25f04ab",
+            "w": 128
+          },
+          {
+            "bytes": 2251,
+            "h": 64,
+            "path": "avif/ivy-flower-divider-192.avif",
+            "sha256": "099a0f0e12bf6f09c0d649c720e48fafe3c4447ba110310786b29a4eee9b71b7",
+            "w": 192
+          },
+          {
+            "bytes": 3509,
+            "h": 85,
+            "path": "avif/ivy-flower-divider-256.avif",
+            "sha256": "01c9f364845c2b5940d66db5c5a7370d7cbdbeb968912e7da15d4317cd5ad0fe",
+            "w": 256
+          },
+          {
+            "bytes": 6823,
+            "h": 128,
+            "path": "avif/ivy-flower-divider-384.avif",
+            "sha256": "72d17e9c8744cbff53fced727791ff09d0a849c12e07972254ab35490b94a797",
+            "w": 384
+          },
+          {
+            "bytes": 9941,
+            "h": 171,
+            "path": "avif/ivy-flower-divider-512.avif",
+            "sha256": "d4c329f4e0c240d5f780e7a79996f8f68b937ae3a79f4f0c59a57e0b1d657399",
+            "w": 512
+          },
+          {
+            "bytes": 16714,
+            "h": 256,
+            "path": "avif/ivy-flower-divider-768.avif",
+            "sha256": "7905916a94095cc92d5b834ad073ff915c143ea46747b1acf479a88228b4494b",
+            "w": 768
+          },
+          {
+            "bytes": 23944,
+            "h": 341,
+            "path": "avif/ivy-flower-divider-1024.avif",
+            "sha256": "5c48e3cfae50b405166a7ef73f9f05a9ed272c30f556f5a937b776bdc19e3582",
+            "w": 1024
+          },
+          {
+            "bytes": 39113,
+            "h": 512,
+            "path": "avif/ivy-flower-divider-1536.avif",
+            "sha256": "14f94a4b773e52c36aab872e827425f1cfbdd227d979813306854b61301512c0",
+            "w": 1536
+          },
+          {
+            "bytes": 55234,
+            "h": 683,
+            "path": "avif/ivy-flower-divider-2048.avif",
+            "sha256": "70a092027e89c43b9e749a8c79464a9370b4d0ce69dbaa3c71d175778327dd26",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 596,
+            "h": 21,
+            "path": "webp/ivy-flower-divider-64.webp",
+            "sha256": "b9097c32a8152ffb3e387dcc0af0243b103fdf6330b717393b6da78c2d4f8dbe",
+            "w": 64
+          },
+          {
+            "bytes": 1010,
+            "h": 32,
+            "path": "webp/ivy-flower-divider-96.webp",
+            "sha256": "8d660198e38e1f243b5740f412b46785eb372c6977ae93b9c0822f52d23c1839",
+            "w": 96
+          },
+          {
+            "bytes": 1508,
+            "h": 43,
+            "path": "webp/ivy-flower-divider-128.webp",
+            "sha256": "98218465f898644bef7ee940dfb4f65df61818356f721ca88a4cd3d5c65ead33",
+            "w": 128
+          },
+          {
+            "bytes": 2810,
+            "h": 64,
+            "path": "webp/ivy-flower-divider-192.webp",
+            "sha256": "d9969a5eee7918fb943adddb9be2d267c39eb131e96ecb7f65066019a6ba6bc3",
+            "w": 192
+          },
+          {
+            "bytes": 4626,
+            "h": 85,
+            "path": "webp/ivy-flower-divider-256.webp",
+            "sha256": "ce58c960ffb4b85caafc9036463dccb4ef68100c1d53dbf0dc50215312db17fb",
+            "w": 256
+          },
+          {
+            "bytes": 8924,
+            "h": 128,
+            "path": "webp/ivy-flower-divider-384.webp",
+            "sha256": "bf819e5edf5e1b4e8d5fc68fb4820e8c8bfd35cbc51e2a163bafeb9dc66e0858",
+            "w": 384
+          },
+          {
+            "bytes": 14274,
+            "h": 171,
+            "path": "webp/ivy-flower-divider-512.webp",
+            "sha256": "8e401d59a0a7a1a309e70cf40aeae2ecb3f24f481ae7a0469ab18d07254c59f4",
+            "w": 512
+          },
+          {
+            "bytes": 27200,
+            "h": 256,
+            "path": "webp/ivy-flower-divider-768.webp",
+            "sha256": "0931dd62468f8926e0ee5fa0aee619d22d3234621630ac4e7110a6ea36aa26f8",
+            "w": 768
+          },
+          {
+            "bytes": 44082,
+            "h": 341,
+            "path": "webp/ivy-flower-divider-1024.webp",
+            "sha256": "e413bbfc38e59e2ba8a136491e7231870523715ba9fb2ae6ce6460bf2f6558f1",
+            "w": 1024
+          },
+          {
+            "bytes": 89272,
+            "h": 512,
+            "path": "webp/ivy-flower-divider-1536.webp",
+            "sha256": "87b6b8edf1dde0e502f6e76623ad93d6a6c70e7a9218ebe61a35e163ff716ec5",
+            "w": 1536
+          },
+          {
+            "bytes": 142608,
+            "h": 683,
+            "path": "webp/ivy-flower-divider-2048.webp",
+            "sha256": "06a1d0951d107d657b86780075b7e1182bb434c11e98081ab7d2c6f52b1cdd02",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "ivy",
+        "vine",
+        "leaf",
+        "flower",
+        "acanthus"
+      ],
+      "thumbhash": "AwiCAoARCHd4d2YFeHagaWd3h4eAiNc=",
+      "title": "Ivy and flower divider",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Complete flourish with two different finished ends; use as a whole image, do not tile or stretch it.",
+        "Wide 6:1 piece; it sits as a section break or beneath a heading.",
+        "Open line art; the interiors of the leaves and petals are transparent, so it reads best on a light ground."
+      ],
+      "width": 2172
+    },
+    "ivy-line-filler": {
+      "categories": [
+        "botanical",
+        "floral"
+      ],
+      "colors": [
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A slender horizontal line filler in black penwork, a gently waving stem with four pointed ivy leaves on short stalks, a five-petalled flower at the centre, small curled tendrils above and below the stem and a small lozenge terminal at each end, on a transparent background.",
+      "display_width": [
+        300,
+        900
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 26109,
+        "webpTopBytes": 73550
+      },
+      "facing": "none",
+      "group": "black-penwork",
+      "height": 724,
+      "master": {
+        "bytes": 135102,
+        "h": 683,
+        "path": "masters/ivy-line-filler.webp",
+        "sha256": "c5875c58638176f5348b5e0f2a811813326a6ae41733d2fd9d7f38d279e76f5d",
+        "w": 2048
+      },
+      "palette": [
+        "#000000",
+        "#010101",
+        "#0d0909",
+        "#0e0d0a"
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 664,
+            "h": 21,
+            "path": "avif/ivy-line-filler-64.avif",
+            "sha256": "5c5221ba50eedfe41739359a2346657f53a887fb8caaa52b449fbbe9cdac9e75",
+            "w": 64
+          },
+          {
+            "bytes": 842,
+            "h": 32,
+            "path": "avif/ivy-line-filler-96.avif",
+            "sha256": "9e231fbbce69ca8f647be67a1a4b59851f0105e9aceb602ee32c9c3effbc1d6a",
+            "w": 96
+          },
+          {
+            "bytes": 1064,
+            "h": 43,
+            "path": "avif/ivy-line-filler-128.avif",
+            "sha256": "59aaf58d405383536b9771d6fcf5046bdd05cdbe80bc37edea91491c19c5c3f2",
+            "w": 128
+          },
+          {
+            "bytes": 1613,
+            "h": 64,
+            "path": "avif/ivy-line-filler-192.avif",
+            "sha256": "3c99a6bac17b858c95d330d6a31b94b1594cee1576292c90aa592b2d13c7e9f5",
+            "w": 192
+          },
+          {
+            "bytes": 2374,
+            "h": 85,
+            "path": "avif/ivy-line-filler-256.avif",
+            "sha256": "36c1b92e5941028632f6fcc4c9c167fa760ee29852ce7028ebad27dfe42cca9a",
+            "w": 256
+          },
+          {
+            "bytes": 4134,
+            "h": 128,
+            "path": "avif/ivy-line-filler-384.avif",
+            "sha256": "87cfd62d323e37163f304897252396b343a83e7cf3194cca4b52fef9ad325199",
+            "w": 384
+          },
+          {
+            "bytes": 6070,
+            "h": 171,
+            "path": "avif/ivy-line-filler-512.avif",
+            "sha256": "7023d945fc4bd4245188c60cd8227dfbe40e5b9e2421e9d08e54a8b4326bd4bc",
+            "w": 512
+          },
+          {
+            "bytes": 9724,
+            "h": 256,
+            "path": "avif/ivy-line-filler-768.avif",
+            "sha256": "4dfb727898aed2bf3c1d803f55b1d4d29aeaf2c0162949975fc7ef5892370148",
+            "w": 768
+          },
+          {
+            "bytes": 13421,
+            "h": 341,
+            "path": "avif/ivy-line-filler-1024.avif",
+            "sha256": "aa5a27ee90ae20cfa2102697a3e4f890f2eff8364ce7b9c464d1e660f9e80c60",
+            "w": 1024
+          },
+          {
+            "bytes": 19646,
+            "h": 512,
+            "path": "avif/ivy-line-filler-1536.avif",
+            "sha256": "53488d97a5c9d9db04481ea794de3ee38d66a67105ed4282f4507b49e825113b",
+            "w": 1536
+          },
+          {
+            "bytes": 26109,
+            "h": 683,
+            "path": "avif/ivy-line-filler-2048.avif",
+            "sha256": "7a7e5b6d6527ff4699e1ff3796d8a26f7e0d7a721fb67ca2090b60b7903c43fc",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 496,
+            "h": 21,
+            "path": "webp/ivy-line-filler-64.webp",
+            "sha256": "b275dea9aeae42a541a471cf58e00633b13f73050268b5f42e1b43a242ec42d6",
+            "w": 64
+          },
+          {
+            "bytes": 818,
+            "h": 32,
+            "path": "webp/ivy-line-filler-96.webp",
+            "sha256": "d0160d6630c92abdf2c652829f4b955bc30f893e85d62a929f936abf5269f5f9",
+            "w": 96
+          },
+          {
+            "bytes": 1142,
+            "h": 43,
+            "path": "webp/ivy-line-filler-128.webp",
+            "sha256": "8125c66ccce853db5a2636944dfece11bba577a99fa11e655abeb770e50fff44",
+            "w": 128
+          },
+          {
+            "bytes": 1940,
+            "h": 64,
+            "path": "webp/ivy-line-filler-192.webp",
+            "sha256": "4e034054903d914b1bb5ba970008feeea09d176109d1eb4c28fe5266cfcab6e5",
+            "w": 192
+          },
+          {
+            "bytes": 3138,
+            "h": 85,
+            "path": "webp/ivy-line-filler-256.webp",
+            "sha256": "1ceffd692bd6d28475db0f56ac0ea360f145ba3a1bc17b4ab4e7c1ceae6f68b8",
+            "w": 256
+          },
+          {
+            "bytes": 5834,
+            "h": 128,
+            "path": "webp/ivy-line-filler-384.webp",
+            "sha256": "85895cba49c00389d150cae83a1c1401552aa4beb3fc12632283463392b65d33",
+            "w": 384
+          },
+          {
+            "bytes": 8974,
+            "h": 171,
+            "path": "webp/ivy-line-filler-512.webp",
+            "sha256": "2d79c3fdbcef6bf26faca10674aa92c4a58046b9b9e160bdb6a170916e316756",
+            "w": 512
+          },
+          {
+            "bytes": 16018,
+            "h": 256,
+            "path": "webp/ivy-line-filler-768.webp",
+            "sha256": "197d77da0ae50ea290e18de4d803adb63967d9c505e4e6d03e535f8f19fe4d8f",
+            "w": 768
+          },
+          {
+            "bytes": 25294,
+            "h": 341,
+            "path": "webp/ivy-line-filler-1024.webp",
+            "sha256": "c7856576e81569e9defc6a015c1cd9052ffdcb9db0d58f255a22e0625942d909",
+            "w": 1024
+          },
+          {
+            "bytes": 47128,
+            "h": 512,
+            "path": "webp/ivy-line-filler-1536.webp",
+            "sha256": "69396d2d884bb82b0f88d8572edec3c435f5b5a1462f8cc06e7088867e877bee",
+            "w": 1536
+          },
+          {
+            "bytes": 73550,
+            "h": 683,
+            "path": "webp/ivy-line-filler-2048.webp",
+            "sha256": "21b852ede64c41dccf1c4c3ebc00b3d1e818f636ce036a0f66b0e11be311487f",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "ivy",
+        "leaf",
+        "vine",
+        "flower",
+        "terminal"
+      ],
+      "thumbhash": "AwiCAoAACrV5iFYIeMeAh3d4h4eAqNc=",
+      "title": "Ivy line filler",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Complete piece with finished lozenge ends; use as a whole image, do not tile or stretch it.",
+        "Thin and about 6:1; it sits between paragraphs or fills the end of a short line."
+      ],
+      "width": 2172
+    },
+    "ivy-manuscript-frame": {
+      "categories": [
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A complete landscape rectangular frame in black penwork, a thin double rule on all four sides with an ivy vine of pointed three-lobed leaves and curled tendrils running along the outside of the rules, curled acanthus leaves and small finials at the four corners and a small ivy spray at the middle of the top and bottom rules, around a transparent opening, on a transparent background.",
+      "display_width": [
+        400,
+        1400
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 67823,
+        "webpTopBytes": 204286
+      },
+      "facing": "none",
+      "group": "black-penwork",
+      "height": 1024,
+      "master": {
+        "bytes": 522140,
+        "h": 1024,
+        "path": "masters/ivy-manuscript-frame.webp",
+        "sha256": "8b99095537c7d70f101a24df9ab936c1f8ccfe92431bf81a22d5e88c929f82ba",
+        "w": 1536
+      },
+      "palette": [
+        "#000000"
+      ],
+      "related": [
+        {
+          "asset": "authored-ornaments/ivy-corner-top-left",
+          "role": "companion"
+        },
+        {
+          "asset": "authored-ornaments/ivy-corner-top-right",
+          "role": "companion"
+        },
+        {
+          "asset": "authored-ornaments/ivy-corner-bottom-left",
+          "role": "companion"
+        },
+        {
+          "asset": "authored-ornaments/ivy-corner-bottom-right",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 932,
+            "h": 43,
+            "path": "avif/ivy-manuscript-frame-64.avif",
+            "sha256": "9fd3fa8521dca113e098c6eb59277d0c1ce4697a5fa781d5251893d7df2e43bf",
+            "w": 64
+          },
+          {
+            "bytes": 1482,
+            "h": 64,
+            "path": "avif/ivy-manuscript-frame-96.avif",
+            "sha256": "217741864ec8bce5584f97ee8e8464dcb03a8f856cd67bcfb535a43d50aef885",
+            "w": 96
+          },
+          {
+            "bytes": 2141,
+            "h": 85,
+            "path": "avif/ivy-manuscript-frame-128.avif",
+            "sha256": "bc083604b207982f9e230ec530162a5abc5ce073f271f79e5c1b492960d2e38d",
+            "w": 128
+          },
+          {
+            "bytes": 3846,
+            "h": 128,
+            "path": "avif/ivy-manuscript-frame-192.avif",
+            "sha256": "26c18b54c47070a0537ac67a0f5e03bca5323001b79f1de5238fa496de278a33",
+            "w": 192
+          },
+          {
+            "bytes": 5785,
+            "h": 171,
+            "path": "avif/ivy-manuscript-frame-256.avif",
+            "sha256": "96f34812fe86785ee03450f13a41f5acff5586057d21d251de309f169fee856d",
+            "w": 256
+          },
+          {
+            "bytes": 10963,
+            "h": 256,
+            "path": "avif/ivy-manuscript-frame-384.avif",
+            "sha256": "f0720b06913c64b168e634bf1340c61c39149ed784d08576c2e1f4a9182b6fb7",
+            "w": 384
+          },
+          {
+            "bytes": 16223,
+            "h": 341,
+            "path": "avif/ivy-manuscript-frame-512.avif",
+            "sha256": "dbb3ed9e1837b24cfad8d0254bf3824c6a91de95f210427c09dc0a3313baff77",
+            "w": 512
+          },
+          {
+            "bytes": 27569,
+            "h": 512,
+            "path": "avif/ivy-manuscript-frame-768.avif",
+            "sha256": "42df944030c8083686bb06c83a2d3818c037aecaa767a6a1ca4feaffbfa8dae7",
+            "w": 768
+          },
+          {
+            "bytes": 39772,
+            "h": 683,
+            "path": "avif/ivy-manuscript-frame-1024.avif",
+            "sha256": "1e56eca0d4958f2ac5a4c562266b4b4065295101c7748c76e8dda708d007d8b2",
+            "w": 1024
+          },
+          {
+            "bytes": 67823,
+            "h": 1024,
+            "path": "avif/ivy-manuscript-frame-1536.avif",
+            "sha256": "4ea08a4921efb640715c4f30cde7d64199c3d2101400f6d4d03dde256e655d6e",
+            "w": 1536
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1170,
+            "h": 43,
+            "path": "webp/ivy-manuscript-frame-64.webp",
+            "sha256": "68f86205ffb79647799e64b6c456e8a380b8d1fa3aae04af81cb2f532df1ade2",
+            "w": 64
+          },
+          {
+            "bytes": 2210,
+            "h": 64,
+            "path": "webp/ivy-manuscript-frame-96.webp",
+            "sha256": "ff711ffedee07666f3e56fb3cf51cda5a969af841d2821e1bae8af95362a5708",
+            "w": 96
+          },
+          {
+            "bytes": 3460,
+            "h": 85,
+            "path": "webp/ivy-manuscript-frame-128.webp",
+            "sha256": "90d1822fe06f9f1a7ccd54ef369e42a0514239bc37f1239a805349b0f356a774",
+            "w": 128
+          },
+          {
+            "bytes": 6822,
+            "h": 128,
+            "path": "webp/ivy-manuscript-frame-192.webp",
+            "sha256": "0bed38eaa28b34ce0759fea4cfbee062f5741d48625148f32ccb648253fea08f",
+            "w": 192
+          },
+          {
+            "bytes": 10778,
+            "h": 171,
+            "path": "webp/ivy-manuscript-frame-256.webp",
+            "sha256": "f1f50364b50760dd843346b5000501e70a772f967bf369adfd3ae89512f6ae06",
+            "w": 256
+          },
+          {
+            "bytes": 21332,
+            "h": 256,
+            "path": "webp/ivy-manuscript-frame-384.webp",
+            "sha256": "cad17f6e51965d7dced4fbf577a6d440142bf341811601d3c31ace632e1fafe2",
+            "w": 384
+          },
+          {
+            "bytes": 33056,
+            "h": 341,
+            "path": "webp/ivy-manuscript-frame-512.webp",
+            "sha256": "fc185d16e6b1ac453bca6813702e4dadb7ef101c5eb0dfbffec8d0e007d096fd",
+            "w": 512
+          },
+          {
+            "bytes": 64906,
+            "h": 512,
+            "path": "webp/ivy-manuscript-frame-768.webp",
+            "sha256": "5b58875e2b483a249831b2936772870661ab952364eedd0f3725ebfcb1cbf179",
+            "w": 768
+          },
+          {
+            "bytes": 107928,
+            "h": 683,
+            "path": "webp/ivy-manuscript-frame-1024.webp",
+            "sha256": "368c0162eeb671c973168623175c5a696a32f927d0f76869065f195612de45e6",
+            "w": 1024
+          },
+          {
+            "bytes": 204286,
+            "h": 1024,
+            "path": "webp/ivy-manuscript-frame-1536.webp",
+            "sha256": "3be339f7683d435901169e6fdc62ebbca224170b9258f3e3d638d22afaa80371",
+            "w": 1536
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "ivy",
+        "acanthus",
+        "leaf",
+        "vine",
+        "rule",
+        "frame",
+        "finial"
+      ],
+      "thumbhash": "AAiCA4ABAAAAAAAAAAAAANeohoh/dmg=",
+      "title": "Ruled ivy frame",
+      "transparent": true,
+      "type": "frame",
+      "usage_notes": [
+        "Fixed complete frame with a transparent centre; scale it proportionally as one image, its sides are not repeat tiles and it is not a border-image atlas.",
+        "Same double rule and ivy as the four separate ivy corners, which serve the same kit on pages of another proportion.",
+        "Open line art; the interiors of the leaves are transparent, so it reads best on a light ground."
+      ],
+      "width": 1536
+    },
+    "ivy-marginal-vine": {
+      "categories": [
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall narrow vertical vine in black penwork, a sinuous stem with alternating pointed ivy leaves and curled, hatched acanthus leaves to either side, small spiral tendrils along its length, a pointed ivy leaf as the top terminal and a curled leaf as the bottom terminal, on a transparent background.",
+      "display_width": [
+        80,
+        350
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 33570,
+        "webpTopBytes": 109478
+      },
+      "facing": "up",
+      "group": "black-penwork",
+      "height": 1646,
+      "master": {
+        "bytes": 116152,
+        "h": 1646,
+        "path": "masters/ivy-marginal-vine.webp",
+        "sha256": "ee14236a65cc3efa147de741e489cb4dcbffd1951ab98d349af451c780029133",
+        "w": 956
+      },
+      "palette": [
+        "#000000"
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1172,
+            "h": 110,
+            "path": "avif/ivy-marginal-vine-64.avif",
+            "sha256": "f4c6076bbb12dd456433d185cdbf6c98ff69c5043058038ab8575a4d1c28eb2c",
+            "w": 64
+          },
+          {
+            "bytes": 1818,
+            "h": 165,
+            "path": "avif/ivy-marginal-vine-96.avif",
+            "sha256": "d21ea909cfb77acef1e5f4098c9bab942c4e5c65378b92b02a3e68641ef132a7",
+            "w": 96
+          },
+          {
+            "bytes": 2614,
+            "h": 220,
+            "path": "avif/ivy-marginal-vine-128.avif",
+            "sha256": "df08a4c83196ea2a4394df16c9d01ee460a858076511ca249c35fa15e2d84f76",
+            "w": 128
+          },
+          {
+            "bytes": 4336,
+            "h": 331,
+            "path": "avif/ivy-marginal-vine-192.avif",
+            "sha256": "aff42a239408b9acdb81b44ada9018ea85f373d8d6f85c27a4299d6e0a1635f8",
+            "w": 192
+          },
+          {
+            "bytes": 6353,
+            "h": 441,
+            "path": "avif/ivy-marginal-vine-256.avif",
+            "sha256": "8b4a9f89535571c8bc8706f8ae6b7c8f1d80647bc84a46d4434d322c3da456f0",
+            "w": 256
+          },
+          {
+            "bytes": 11193,
+            "h": 661,
+            "path": "avif/ivy-marginal-vine-384.avif",
+            "sha256": "0ab32f558b95ba8af707578eb26f822f0776a187dc9a7a2b3cacb8b05806b3c5",
+            "w": 384
+          },
+          {
+            "bytes": 16039,
+            "h": 882,
+            "path": "avif/ivy-marginal-vine-512.avif",
+            "sha256": "5ab4982241daf3ee4758a6fd95896965a8fcf7bdb7d23daf2d1b38660b70b82f",
+            "w": 512
+          },
+          {
+            "bytes": 26140,
+            "h": 1322,
+            "path": "avif/ivy-marginal-vine-768.avif",
+            "sha256": "577c71c61a167a1fbf62b4e67557a88dbed4da7a5b3687c8f9eed286386b1b5b",
+            "w": 768
+          },
+          {
+            "bytes": 33570,
+            "h": 1646,
+            "path": "avif/ivy-marginal-vine-956.avif",
+            "sha256": "e028ffc462a3e6abc39e01138a9ecdb5c16132e8743ae9cfbdadc3e3a905bbed",
+            "w": 956
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1358,
+            "h": 110,
+            "path": "webp/ivy-marginal-vine-64.webp",
+            "sha256": "93ce9b32d678aaffe51952bf1bc4f5872a375270bdd3cc5f869d20cc3a4cbda0",
+            "w": 64
+          },
+          {
+            "bytes": 2530,
+            "h": 165,
+            "path": "webp/ivy-marginal-vine-96.webp",
+            "sha256": "a3a42d2f9803c31dbca265880578f8a19d2f9327c9433a7398a9a6e1c43b115f",
+            "w": 96
+          },
+          {
+            "bytes": 3886,
+            "h": 220,
+            "path": "webp/ivy-marginal-vine-128.webp",
+            "sha256": "ef5098bc108d9371a6a44f4ce10eca80e5f36f868798fc17a0c44f63d8bfabc8",
+            "w": 128
+          },
+          {
+            "bytes": 7522,
+            "h": 331,
+            "path": "webp/ivy-marginal-vine-192.webp",
+            "sha256": "3d8691660cbb189288f3d2fe995c4ec6f83039673151e24b6ac4c6678152c703",
+            "w": 192
+          },
+          {
+            "bytes": 11688,
+            "h": 441,
+            "path": "webp/ivy-marginal-vine-256.webp",
+            "sha256": "14cb62db651d3d6e6937dac7092895c15bcc70f3ee6f4b4087504bdbc9a08d50",
+            "w": 256
+          },
+          {
+            "bytes": 22264,
+            "h": 661,
+            "path": "webp/ivy-marginal-vine-384.webp",
+            "sha256": "15a6c0f6c1331b5cd4835fe13c43e0a6bb27ab66de4b479cde53acc5f402eb53",
+            "w": 384
+          },
+          {
+            "bytes": 35802,
+            "h": 882,
+            "path": "webp/ivy-marginal-vine-512.webp",
+            "sha256": "41e66b11a70297bc219819992f12d56484f9a792e9f382fa798a6d053df830ec",
+            "w": 512
+          },
+          {
+            "bytes": 74214,
+            "h": 1322,
+            "path": "webp/ivy-marginal-vine-768.webp",
+            "sha256": "0ed590bf27e84fd1646c7a76f6ece7efda55eac99c572b0cb85361fabde1768b",
+            "w": 768
+          },
+          {
+            "bytes": 109478,
+            "h": 1646,
+            "path": "webp/ivy-marginal-vine-956.webp",
+            "sha256": "0878118b9f8790af128708b9d4185c0721cbf0d54942eaa15a1ac29bdce92655",
+            "w": 956
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "ivy",
+        "acanthus",
+        "leaf",
+        "vine",
+        "stem",
+        "margin"
+      ],
+      "thumbhash": "AAiCAwAAAAAAAAAAAAAAAAfoeIeGiXc=",
+      "title": "Ivy margin vine",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Standalone vertical margin ornament about 1:4; keep it upright and use it whole, it has no rule and no repeat unit.",
+        "Open line art; the interiors of the leaves are transparent, so it reads best on a light ground."
+      ],
+      "width": 956
+    },
+    "songbirds-headpiece": {
+      "categories": [
+        "animals",
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A wide symmetric headpiece in black penwork, two long-tailed songbirds perched on a branching stem and facing each other across a central upright ivy leaf, with solid black ivy leaves, curled tendrils and small berry clusters spreading to both sides, the birds and leaves drawn with transparent hatching, on a transparent background.",
+      "display_width": [
+        300,
+        1000
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 70108,
+        "webpTopBytes": 270506
+      },
+      "facing": "mixed",
+      "group": "black-penwork",
+      "height": 725,
+      "master": {
+        "bytes": 446876,
+        "h": 684,
+        "path": "masters/songbirds-headpiece.webp",
+        "sha256": "4038cdca318967c6b087ad1aff2808c573d32265a4d6f42ab0e0191f56e919e2",
+        "w": 2048
+      },
+      "palette": [
+        "#010100",
+        "#000000",
+        "#010000"
+      ],
+      "related": [
+        {
+          "asset": "authored-ornaments/acanthus-tailpiece",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 991,
+            "h": 21,
+            "path": "avif/songbirds-headpiece-64.avif",
+            "sha256": "a74b40f16c6b9b36652d91ab94c88f0b895ed04d1f1dda9f53a32a84c73b1b4f",
+            "w": 64
+          },
+          {
+            "bytes": 1511,
+            "h": 32,
+            "path": "avif/songbirds-headpiece-96.avif",
+            "sha256": "df2abf68d39cbe8245894918c4d2ec122c077589701284eaff470cb86a793589",
+            "w": 96
+          },
+          {
+            "bytes": 2180,
+            "h": 43,
+            "path": "avif/songbirds-headpiece-128.avif",
+            "sha256": "ed06e29554f878f34e3dd0a42a1075297ea7337e70c6fcfbe4a56831ead1af7e",
+            "w": 128
+          },
+          {
+            "bytes": 3641,
+            "h": 64,
+            "path": "avif/songbirds-headpiece-192.avif",
+            "sha256": "34771fbab5b5d49a7c065814fec6163f2dbe02607008ee53478ab2d6d4091267",
+            "w": 192
+          },
+          {
+            "bytes": 5386,
+            "h": 86,
+            "path": "avif/songbirds-headpiece-256.avif",
+            "sha256": "7819cfbefbd1dc585ed7d9a9a156d1c69ec4335456ebebf151b9bc6e29b65995",
+            "w": 256
+          },
+          {
+            "bytes": 9801,
+            "h": 128,
+            "path": "avif/songbirds-headpiece-384.avif",
+            "sha256": "4ab9b8c2f6ce682b41f3013391b3807e70845a211e1bf81842cf6a10b43e4150",
+            "w": 384
+          },
+          {
+            "bytes": 13969,
+            "h": 171,
+            "path": "avif/songbirds-headpiece-512.avif",
+            "sha256": "8f482a300f7ea45d68e17a4abb591420b8d10663db01a56c1ff9923d58ca39c0",
+            "w": 512
+          },
+          {
+            "bytes": 23203,
+            "h": 257,
+            "path": "avif/songbirds-headpiece-768.avif",
+            "sha256": "ff4734e53c05f1cd9c2a201dcf088a6c45ce66d1e8aa610a04b95b5efcb2e49a",
+            "w": 768
+          },
+          {
+            "bytes": 32557,
+            "h": 342,
+            "path": "avif/songbirds-headpiece-1024.avif",
+            "sha256": "f5a87df1d748ea6fc3aabd750a45485e88fb08ae6f2cd91782355c6b8228ccf9",
+            "w": 1024
+          },
+          {
+            "bytes": 51461,
+            "h": 513,
+            "path": "avif/songbirds-headpiece-1536.avif",
+            "sha256": "fe271c043376921ae5ccfdde7e1ab2694e7117524e1110e125b6fab2df2e9c6f",
+            "w": 1536
+          },
+          {
+            "bytes": 70108,
+            "h": 684,
+            "path": "avif/songbirds-headpiece-2048.avif",
+            "sha256": "605d0b47369e4b7b1720669a669e68f9fb8d48ff5c79a5a04ceffd72bce440f0",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 996,
+            "h": 21,
+            "path": "webp/songbirds-headpiece-64.webp",
+            "sha256": "586e4f4bbd98d16d320b98dfd26c496cdd3468a6de67f33bff8d896dca51b0ec",
+            "w": 64
+          },
+          {
+            "bytes": 1862,
+            "h": 32,
+            "path": "webp/songbirds-headpiece-96.webp",
+            "sha256": "a437e7c6cf034285eb476c7edfb996fa8aa8e9ba6c9a50d8dd4a791137b0fc74",
+            "w": 96
+          },
+          {
+            "bytes": 2948,
+            "h": 43,
+            "path": "webp/songbirds-headpiece-128.webp",
+            "sha256": "70b35f630086b551b1880c2004fc62971b301cc82a77e6db14ad8676fdf13f25",
+            "w": 128
+          },
+          {
+            "bytes": 5568,
+            "h": 64,
+            "path": "webp/songbirds-headpiece-192.webp",
+            "sha256": "34dce4dc333ab52acd317fe9e50f640f15ed7f36712c1371d856d528dd96a1b9",
+            "w": 192
+          },
+          {
+            "bytes": 8928,
+            "h": 86,
+            "path": "webp/songbirds-headpiece-256.webp",
+            "sha256": "b2cff99847a50e6ae1392e67cd8deb1cc58039b523c6052187ad4bb2586d3c3c",
+            "w": 256
+          },
+          {
+            "bytes": 17182,
+            "h": 128,
+            "path": "webp/songbirds-headpiece-384.webp",
+            "sha256": "f169a7432dbfc93adfdc826729317e1a0fc836b0d00f6f3f666fd65877536708",
+            "w": 384
+          },
+          {
+            "bytes": 27834,
+            "h": 171,
+            "path": "webp/songbirds-headpiece-512.webp",
+            "sha256": "3e5b8af7323f41a0cb376fac68ab4413b1c59ee9266707fb86e21820da1a1400",
+            "w": 512
+          },
+          {
+            "bytes": 53636,
+            "h": 257,
+            "path": "webp/songbirds-headpiece-768.webp",
+            "sha256": "7142c81841efb612cf65a27fb21c41a6f80d66c8397bc128a8d956de85cc18b4",
+            "w": 768
+          },
+          {
+            "bytes": 87282,
+            "h": 342,
+            "path": "webp/songbirds-headpiece-1024.webp",
+            "sha256": "f116200c159566957f80f93b8d3a79db6b3bc757c4397b1e1a1e76896cb494ff",
+            "w": 1024
+          },
+          {
+            "bytes": 165326,
+            "h": 513,
+            "path": "webp/songbirds-headpiece-1536.webp",
+            "sha256": "ba08f6fdee86143808312e80f4b2737c779dac90008d678bb9010805fcf90ddf",
+            "w": 1536
+          },
+          {
+            "bytes": 270506,
+            "h": 684,
+            "path": "webp/songbirds-headpiece-2048.webp",
+            "sha256": "f8af4d1dbaab8f97e402275ae09da18c3acc65f9b64e4522c2e9861f6f2a812e",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "bird",
+        "ivy",
+        "leaf",
+        "vine",
+        "berry",
+        "headpiece"
+      ],
+      "thumbhash": "AAiCAoASYvqGeamgeBjQModneHmAiHc=",
+      "title": "Songbirds headpiece",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Place above a title or at the head of a chapter; do not tile or stretch it.",
+        "Wide 3:1 piece; pairs with acanthus-tailpiece at the end of the text.",
+        "Heavier than the other penwork pieces, with solid black leaves; it holds up on darker grounds better than the open line art."
+      ],
+      "width": 2170
+    }
+  },
+  "attribution": "adrian729",
+  "builtAt": "2026-10-28T19:28:34.824Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-authored-ornaments@1.0.0/",
+  "contentHash": "sha256:94afc3f26d170339d9bc8d4062bbc825fecae3985863047592a24bd7a58678aa",
+  "inputsHash": "sha256:4c323acea6dc736d99c869cba3ce8d9386065b5d2885067536ea3325587a6f44",
+  "kind": "authored",
+  "license": {
+    "artwork": "CC-BY-4.0",
+    "notes": "Attribution to adrian729."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-authored-ornaments-masters",
+  "package": "@ranx729/ducktape-assets-authored-ornaments",
+  "period": "medieval, in the style of",
+  "region": "western Europe, in the style of",
+  "schema": 1,
+  "set": "authored-ornaments",
+  "style": "penwork and gold book ornament, AI-generated from style references",
+  "summary": "Black penwork ivy corners, dividers, fillers, a manuscript frame, a headpiece and a tailpiece, painted gold lozenge and cinquefoil dividers, and a choirbook with ivy, all made by adrian729 as original ornaments in the manner of medieval book decoration.",
+  "title": "Authored ornaments",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,275 @@
+{
+  "assets": {
+    "horned-hybrids-and-bears-title-cartouche": {
+      "attribution": "Metropolitan Museum of Art 49.20.13(1)",
+      "categories": [
+        "animals",
+        "hybrids",
+        "scrollwork",
+        "botanical"
+      ],
+      "colors": [
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A wide, symmetrical etched cartouche frieze. The centre is an open blank field bounded by leafy scrolls, with a bearded mask at the top and a knot of leaves at the bottom. To each side a horned, winged female hybrid whose lower body turns into acanthus scroll leans toward the field, a cluster of grapes hanging beside her; at either end a bear bites the scaly dragon-headed terminal of the outer volute, and the frieze ends in fish-scaled curls. Dark brown ink on a transparent background; the faint paper tone of the plate is kept at low opacity, and the title lettering in the field was removed.",
+      "display_width": [
+        600,
+        1200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 472750,
+        "webpTopBytes": 790888
+      },
+      "facing": "mixed",
+      "group": null,
+      "height": 941,
+      "master": {
+        "bytes": 828426,
+        "h": 545,
+        "path": "masters/horned-hybrids-and-bears-title-cartouche.webp",
+        "sha256": "b3fd7211165d0fbfede7c402bb1a5d805e986517f17afbb2c71cc9edc6da137b",
+        "w": 2048
+      },
+      "palette": [
+        "#453a2f",
+        "#453a2e",
+        "#44392e",
+        "#443a2f",
+        "#443930"
+      ],
+      "provenance": {
+        "artist": "Polifilo Giancarli",
+        "date": "ca. 1625",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP833104.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "49.20.13(1)",
+        "object_title": "Disegni Varij di Polifilo Zancarli (Friezes)",
+        "record_url": "https://www.metmuseum.org/art/collection/search/411963",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "9e558c75f3b032a3004725c5b0fa9f312d080f2de7538ed163943a0f7e89fad2"
+      },
+      "quality": "The paper tone of the plate area is retained at low alpha, so the piece shows as a faint rectangle on dark grounds; a short horizontal rule fragment is left in the field right of centre near the top where the lettering was removed, and fine plate scratches are kept in the ink.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1142,
+            "h": 17,
+            "path": "avif/horned-hybrids-and-bears-title-cartouche-64.avif",
+            "sha256": "b4a612c0c7df10101a3c28f351ae08cde3757270c20b0bef52c9bf1b527ba48d",
+            "w": 64
+          },
+          {
+            "bytes": 2118,
+            "h": 26,
+            "path": "avif/horned-hybrids-and-bears-title-cartouche-96.avif",
+            "sha256": "c2c9098220bf94438e4e829026e85973c10f5d0c448e951a37efbd0a953057b1",
+            "w": 96
+          },
+          {
+            "bytes": 3297,
+            "h": 34,
+            "path": "avif/horned-hybrids-and-bears-title-cartouche-128.avif",
+            "sha256": "936793ae04af77a2539ddf7d00c8e8a7e3d4b1d84ba145b598fbc938a8aa165c",
+            "w": 128
+          },
+          {
+            "bytes": 6899,
+            "h": 51,
+            "path": "avif/horned-hybrids-and-bears-title-cartouche-192.avif",
+            "sha256": "bb446e061d5d4be58e0310685d7c72e7c2ef909709af3ad62c3f98acf2c315a6",
+            "w": 192
+          },
+          {
+            "bytes": 11117,
+            "h": 68,
+            "path": "avif/horned-hybrids-and-bears-title-cartouche-256.avif",
+            "sha256": "fce9f65e04f90e69cd4e986d1e891a1abb0024b10bdf9e9f023bd0633fd8574b",
+            "w": 256
+          },
+          {
+            "bytes": 24742,
+            "h": 102,
+            "path": "avif/horned-hybrids-and-bears-title-cartouche-384.avif",
+            "sha256": "8ac784933355f7123c883d28c920f90839fdc063aeb840da568dc206413e561b",
+            "w": 384
+          },
+          {
+            "bytes": 39354,
+            "h": 136,
+            "path": "avif/horned-hybrids-and-bears-title-cartouche-512.avif",
+            "sha256": "8ceb5bcc3a00ccdafb015ed87398635f885515a41d9dad2e010b311b3b430897",
+            "w": 512
+          },
+          {
+            "bytes": 86082,
+            "h": 204,
+            "path": "avif/horned-hybrids-and-bears-title-cartouche-768.avif",
+            "sha256": "d46dfb3bc1e1431a29643723b78d70af5579a2bbc8ce99aca588ffb71f327298",
+            "w": 768
+          },
+          {
+            "bytes": 139523,
+            "h": 272,
+            "path": "avif/horned-hybrids-and-bears-title-cartouche-1024.avif",
+            "sha256": "06fbf454830689bb80a8509745b8ff6cee7d59506ee56cd7a7c9295f5419f6b6",
+            "w": 1024
+          },
+          {
+            "bytes": 286668,
+            "h": 408,
+            "path": "avif/horned-hybrids-and-bears-title-cartouche-1536.avif",
+            "sha256": "96c6afdd6b21b5ae01ec4f722f3171f77fbb84ba0294cd8c82bc1b784723d48e",
+            "w": 1536
+          },
+          {
+            "bytes": 472750,
+            "h": 545,
+            "path": "avif/horned-hybrids-and-bears-title-cartouche-2048.avif",
+            "sha256": "60860fa019c40e75793a10d671f3665f56665eca9434ff4e226df7c7a91dd386",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1294,
+            "h": 17,
+            "path": "webp/horned-hybrids-and-bears-title-cartouche-64.webp",
+            "sha256": "644ce15551895e1d70a86e023bf95b4167d63dd6ec9793049afa131151a48773",
+            "w": 64
+          },
+          {
+            "bytes": 2792,
+            "h": 26,
+            "path": "webp/horned-hybrids-and-bears-title-cartouche-96.webp",
+            "sha256": "6828c20ebf8e8393f5f24841214dae0f72f60b4d263371b53d6eb5d035acad38",
+            "w": 96
+          },
+          {
+            "bytes": 4756,
+            "h": 34,
+            "path": "webp/horned-hybrids-and-bears-title-cartouche-128.webp",
+            "sha256": "96e743163b41ef0dbf1009c6d6b054ad94e00e5d5b34bf5db73b6bc4b1360f66",
+            "w": 128
+          },
+          {
+            "bytes": 10272,
+            "h": 51,
+            "path": "webp/horned-hybrids-and-bears-title-cartouche-192.webp",
+            "sha256": "c7725f36dd334bdc64859c957e664ffabe8bb49f41523cafe34c068f872e7764",
+            "w": 192
+          },
+          {
+            "bytes": 18060,
+            "h": 68,
+            "path": "webp/horned-hybrids-and-bears-title-cartouche-256.webp",
+            "sha256": "21c112861a7318d30a82d4eceff88914e44215c4a40e5bc785a53fcd684dab71",
+            "w": 256
+          },
+          {
+            "bytes": 39402,
+            "h": 102,
+            "path": "webp/horned-hybrids-and-bears-title-cartouche-384.webp",
+            "sha256": "7eac8689ba0361fd700887c21eba4202a246eaf8de6c509568437159acc59887",
+            "w": 384
+          },
+          {
+            "bytes": 66188,
+            "h": 136,
+            "path": "webp/horned-hybrids-and-bears-title-cartouche-512.webp",
+            "sha256": "a82a6aeb4151ca0134a23439e0183be75727393de6e7bd54023bae1116b8da93",
+            "w": 512
+          },
+          {
+            "bytes": 142772,
+            "h": 204,
+            "path": "webp/horned-hybrids-and-bears-title-cartouche-768.webp",
+            "sha256": "74c0f3ddd27c0b3da61aceb0996943e2d8e9e9edd79e34259c4d91698a55579c",
+            "w": 768
+          },
+          {
+            "bytes": 235442,
+            "h": 272,
+            "path": "webp/horned-hybrids-and-bears-title-cartouche-1024.webp",
+            "sha256": "dd97b77120a3c29c6e024a01acf97e860a15fd6124b58994df8001281ffad823",
+            "w": 1024
+          },
+          {
+            "bytes": 480980,
+            "h": 408,
+            "path": "webp/horned-hybrids-and-bears-title-cartouche-1536.webp",
+            "sha256": "01740506d63251900197bd3a17dc8615be6cb37b6e184fc74e604ba790b73d20",
+            "w": 1536
+          },
+          {
+            "bytes": 790888,
+            "h": 545,
+            "path": "webp/horned-hybrids-and-bears-title-cartouche-2048.webp",
+            "sha256": "3d57af483aafbc7dd078235a90c4e393bb5d30f90671b56193cfbc8d4e17fa8c",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "cartouche",
+        "bear",
+        "grotesque",
+        "creature",
+        "woman",
+        "horn",
+        "wings",
+        "mask",
+        "dragon",
+        "dolphin",
+        "grape",
+        "acanthus",
+        "leaf",
+        "scroll"
+      ],
+      "thumbhash": "jhiCAYADCRg0d3OczJBg18oMZXd38Dg=",
+      "title": "Title cartouche with horned hybrids and bears",
+      "transparent": true,
+      "type": "banner",
+      "usage_notes": [
+        "The open centre field is a title plaque about a third of the width wide; set a line of text in it.",
+        "Symmetrical about the field; either half with its bear crops out as an end ornament."
+      ],
+      "width": 3539
+    }
+  },
+  "attribution": "Metropolitan Museum of Art",
+  "builtAt": "2026-10-28T19:31:48.023Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-giancarli-prints@1.0.0/",
+  "contentHash": "sha256:10d65e29b86177340ce37b4c13d47f54735a47ee5c14091f87274d10e1daaa6b",
+  "inputsHash": "sha256:317c609e48ed4b7ee00822d840302b98fc2d0b85c1ca5447e8efd71b3e054d89",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from Metropolitan Museum of Art Open Access (CC0) images; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-giancarli-prints-masters",
+  "package": "@ranx729/ducktape-assets-giancarli-prints",
+  "period": "ca. 1625",
+  "region": "Venice, Italy",
+  "schema": 1,
+  "set": "giancarli-prints",
+  "style": "Baroque etching",
+  "summary": "A frieze with horned hybrids and bears in a foliate cartouche, etched by Polifilo Giancarli in Venice around 1625 for the series \"Disegni varij di Polifilo Zancarli\", from one sheet in the Metropolitan Museum of Art; a loose print by one artist, grouped by sheet.",
+  "title": "Polifilo Giancarli ornament prints",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

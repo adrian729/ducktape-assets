@@ -1,6 +1,6 @@
 {
   "name": "@ranx729/ducktape-assets",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "Index, catalog and build-time resolver for the Ducktape Assets library. Metadata only, no images.",
   "license": "MIT",
   "type": "module",
@@ -44,8 +44,8 @@
   },
   "ducktape": {
     "kind": "index",
-    "inputsHash": "sha256:4857a85d212546db616cceafdefc042100fdbfbee336166e1063a46c0f73cf86",
-    "contentHash": "sha256:9ebcee407f7be2293a7f459eea7e3a4a3b486ca5ca452d61317540bbd8454110",
+    "inputsHash": "sha256:1007eee810861965cf3c828c766c8952eb2917799896f746806b75a14299c474",
+    "contentHash": "sha256:1effe8006f11dc1bc80a3ee69cb47f0cd4c0c4b85aebea09ecfb2d03fcdea147",
     "schema": 1
   }
 }

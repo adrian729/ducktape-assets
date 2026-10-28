@@ -1,0 +1,455 @@
+{
+  "assets": {
+    "tall-satyr-with-violin-candelabrum": {
+      "attribution": "National Gallery of Art, Washington 1943.3.449",
+      "categories": [
+        "humans",
+        "hybrids",
+        "music",
+        "scrollwork"
+      ],
+      "colors": [
+        "gray",
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A very tall engraved candelabrum panel between thin vertical rules. From the bottom up, a bearded goat-legged satyr sits before a tasselled pedestal holding a violin and its bow; a blank cartouche between dolphins and trophies of arms; a large fluted urn with a bearded mask and cornucopias curling from its sides; two naked children embracing in a bower of acanthus and vine; a hanging cuirass with plumed helmet and shield; crossed staffs bound with a cord; and a lidded urn at the top among vine leaves and grapes. Dark brown-grey ink; the grey paper tone of the plate is kept at partial opacity.",
+      "display_width": [
+        150,
+        300
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 1120424,
+        "webpTopBytes": 1664862
+      },
+      "facing": "mixed",
+      "group": "1943-3-449",
+      "height": 3948,
+      "master": {
+        "bytes": 857860,
+        "h": 2050,
+        "path": "masters/tall-satyr-with-violin-candelabrum.webp",
+        "sha256": "4eaa63b3ab5222f04ad161fdb68f03331ca7d953d8e26b49552286a820ae6baf",
+        "w": 310
+      },
+      "palette": [
+        "#524a3e",
+        "#53493f",
+        "#534a3f",
+        "#51493f",
+        "#52493f"
+      ],
+      "provenance": {
+        "artist": "Giovanni Pietro Birago and Zoan Andrea",
+        "date": "c. 1505/1515",
+        "image_url": "https://api.nga.gov/iiif/10e03462-8b8f-41d2-8bf0-86feafe5a937/full/full/0/default.jpg",
+        "institution": "National Gallery of Art, Washington",
+        "method": "native-ink-extraction",
+        "object_identifier": "1943.3.449",
+        "object_title": "Ornament Panel: Satyr Holding a Violin",
+        "record_url": "https://www.nga.gov/collection/art-object-page.3661.html",
+        "rights_text": "Open Access / public domain; official image dataset openaccess=1",
+        "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+        "source_sha256": "1a053478d0a11db7276e017f64c1740433c7d6fd05757dff200209675e86200e"
+      },
+      "quality": "The paper tone of the whole plate area is retained at partial alpha (most of the field sits between alpha 64 and 191), so on a dark ground the panel shows as a grey rectangle; the outer rules are slightly ragged at the top and bottom ends.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 13242,
+            "h": 423,
+            "path": "avif/tall-satyr-with-violin-candelabrum-64.avif",
+            "sha256": "7403d91f74fec409a807a3638f04974cb6db18501c320a5183e7088694b68f1e",
+            "w": 64
+          },
+          {
+            "bytes": 31256,
+            "h": 635,
+            "path": "avif/tall-satyr-with-violin-candelabrum-96.avif",
+            "sha256": "8b7344ad2c681d519272bbae9f23f7cdc8b927361fb7c5fd41836ee0d8aa6f32",
+            "w": 96
+          },
+          {
+            "bytes": 55715,
+            "h": 846,
+            "path": "avif/tall-satyr-with-violin-candelabrum-128.avif",
+            "sha256": "962f559729a8d98e8ef941cb0d9babcf7ea449fbe2d8a24fc778e17a29cf68cb",
+            "w": 128
+          },
+          {
+            "bytes": 128840,
+            "h": 1270,
+            "path": "avif/tall-satyr-with-violin-candelabrum-192.avif",
+            "sha256": "f7566ecfa1480e4e5172b4ae2bb2204c877eb47acb7ef71c72bedff7fe9f6456",
+            "w": 192
+          },
+          {
+            "bytes": 237274,
+            "h": 1693,
+            "path": "avif/tall-satyr-with-violin-candelabrum-256.avif",
+            "sha256": "3bf563f9cb9c459f8656ffceef2f66ae8b50c7868c64c5a6ccc61955010230f5",
+            "w": 256
+          },
+          {
+            "bytes": 551077,
+            "h": 2539,
+            "path": "avif/tall-satyr-with-violin-candelabrum-384.avif",
+            "sha256": "c2fd8f9e06b731236b1705a2fbdb6e806fd493f51d645043a995823b60a5d745",
+            "w": 384
+          },
+          {
+            "bytes": 972372,
+            "h": 3386,
+            "path": "avif/tall-satyr-with-violin-candelabrum-512.avif",
+            "sha256": "7c7737dc99cbca56f79bd83fd0c81df74476d5d34acc50bb3502fa675c6d5692",
+            "w": 512
+          },
+          {
+            "bytes": 1120424,
+            "h": 3948,
+            "path": "avif/tall-satyr-with-violin-candelabrum-597.avif",
+            "sha256": "b4c92fa3884d0359a6e4ba7a977ba8a321750f96854dbddec83339b6e4888a08",
+            "w": 597
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 26604,
+            "h": 423,
+            "path": "webp/tall-satyr-with-violin-candelabrum-64.webp",
+            "sha256": "c6d6e5b268b744cb17058a680c0a10ae8121032a3f73e5f51e1d2c427e6e0c09",
+            "w": 64
+          },
+          {
+            "bytes": 60746,
+            "h": 635,
+            "path": "webp/tall-satyr-with-violin-candelabrum-96.webp",
+            "sha256": "7dac4d41cc5f36d00096cea4567a8504f4dce3aa68b51d674ecede8ebfffc246",
+            "w": 96
+          },
+          {
+            "bytes": 109812,
+            "h": 846,
+            "path": "webp/tall-satyr-with-violin-candelabrum-128.webp",
+            "sha256": "4f4dbe292aeeba4ce18667ed7755cf230d06a8a13026face42f9f0c23b5df7fa",
+            "w": 128
+          },
+          {
+            "bytes": 250042,
+            "h": 1270,
+            "path": "webp/tall-satyr-with-violin-candelabrum-192.webp",
+            "sha256": "e256a247ad735803ea6e94f4497974497d58b39b7160df1883bdd1ce8c0042e7",
+            "w": 192
+          },
+          {
+            "bytes": 446528,
+            "h": 1693,
+            "path": "webp/tall-satyr-with-violin-candelabrum-256.webp",
+            "sha256": "0efa83ea07d9dd70e0b169c4d28d11f9cd4beb85f2b3d6596fa332ec32859cc1",
+            "w": 256
+          },
+          {
+            "bytes": 1008264,
+            "h": 2539,
+            "path": "webp/tall-satyr-with-violin-candelabrum-384.webp",
+            "sha256": "ad417176bd2be7cdf52b2f11bf0fe3077e53bf63d60f28bdad977490dc5eb812",
+            "w": 384
+          },
+          {
+            "bytes": 1797284,
+            "h": 3386,
+            "path": "webp/tall-satyr-with-violin-candelabrum-512.webp",
+            "sha256": "239d6259178a71cdc5f88daee4257098649b868d132bbc1498a90b0b72ba87c7",
+            "w": 512
+          },
+          {
+            "bytes": 1664862,
+            "h": 3948,
+            "path": "webp/tall-satyr-with-violin-candelabrum-597.webp",
+            "sha256": "d78db08eadf51c139ba107f0be5e755b295a95d2a2fdf545ae7803c7dc403645",
+            "w": 597
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "candelabrum",
+        "satyr",
+        "violin",
+        "fiddle",
+        "putto",
+        "urn",
+        "mask",
+        "cartouche",
+        "dolphin",
+        "trophy",
+        "helmet",
+        "shield",
+        "weapon",
+        "horn",
+        "vine",
+        "grape",
+        "acanthus",
+        "scroll",
+        "pendant"
+      ],
+      "thumbhash": "UhiCAQAEgqA6pWhgvKR6BwIalXhzt1g=",
+      "title": "Tall candelabrum panel with a seated satyr and a violin",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Extremely tall (about 1:6.6); it works as a full-height side panel or margin filler. The engraved rules along both long edges are part of the master.",
+        "The tiers are stacked on one axis, so a crop of a single tier (the satyr base, the urn, the embracing children, the trophy of arms) stands on its own.",
+        "The plate area carries a faint grey paper tone, so it sits best on light grounds."
+      ],
+      "width": 597
+    },
+    "war-candelabrum-with-dragons-masks-and-weapons": {
+      "attribution": "National Gallery of Art, Washington 1943.3.441",
+      "categories": [
+        "fantasy",
+        "hybrids",
+        "scrollwork"
+      ],
+      "colors": [
+        "tan",
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall symmetrical engraved candelabrum panel. A central shaft rises from a garlanded pedestal through a basket-weave bowl to a wide scale-patterned bowl at the top, where the plate edge cuts it. Two scaly dragons coil at the base; two winged sphinx-like creatures, one human-faced and one lion-headed, perch on the middle bowl facing each other; wheeled cannon jut out to both sides among a drum, a shield, a plumed helmet and a cuirass; two horned masks sprout acanthus at the top corners. Dark brown ink, the tan paper tone kept inside the forms, on a transparent background.",
+      "display_width": [
+        250,
+        500
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 366419,
+        "webpTopBytes": 694814
+      },
+      "facing": "mixed",
+      "group": "1943-3-441",
+      "height": 1841,
+      "master": {
+        "bytes": 2168342,
+        "h": 1841,
+        "path": "masters/war-candelabrum-with-dragons-masks-and-weapons.webp",
+        "sha256": "dd232a082cdbfef31c84c9da3a596e612f263eb5f4db550b80e835cf00ae7592",
+        "w": 833
+      },
+      "palette": [
+        "#9b8870",
+        "#ab977d",
+        "#c3ad91",
+        "#7d6d59",
+        "#8d7c66"
+      ],
+      "provenance": {
+        "artist": "Zoan Andrea",
+        "date": "c. 1505",
+        "institution": "National Gallery of Art, Washington",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1943.3.441",
+        "object_title": "Ornament Panel with Dragons, Masks, and Instruments of War",
+        "record_url": "https://www.nga.gov/collection/art-object-page.3653.html",
+        "rights_text": "Open Access / public domain; official image dataset openaccess=1",
+        "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+        "source_sha256": "aca0721ebc9e2836450f6882127231f9c2c9110ecd392c17b5b1a35d3b6e2047"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 7476,
+            "h": 141,
+            "path": "avif/war-candelabrum-with-dragons-masks-and-weapons-64.avif",
+            "sha256": "f9a6cb899df845ad7d3fdf143ab8556eddae5eb89ead2fa21aa6cd2f91f08cb7",
+            "w": 64
+          },
+          {
+            "bytes": 14375,
+            "h": 212,
+            "path": "avif/war-candelabrum-with-dragons-masks-and-weapons-96.avif",
+            "sha256": "8c311c2e8de5196580217758ccfcd575f618d5086b3bc2055467e4897d771fd2",
+            "w": 96
+          },
+          {
+            "bytes": 22450,
+            "h": 283,
+            "path": "avif/war-candelabrum-with-dragons-masks-and-weapons-128.avif",
+            "sha256": "0c7ec9d43d866c660cffc2b335193ca4e5bc9596d7109f84aa1480cea23104e7",
+            "w": 128
+          },
+          {
+            "bytes": 41750,
+            "h": 424,
+            "path": "avif/war-candelabrum-with-dragons-masks-and-weapons-192.avif",
+            "sha256": "65c5c8fa1e646b93cb87a16d45764c598d001dfa82416ce5c2945129439e6847",
+            "w": 192
+          },
+          {
+            "bytes": 63158,
+            "h": 566,
+            "path": "avif/war-candelabrum-with-dragons-masks-and-weapons-256.avif",
+            "sha256": "a3e54cbb89bccf16c3d18a3a8b59c6a66343b5757b00adbd0a314f6d05e2b26d",
+            "w": 256
+          },
+          {
+            "bytes": 118887,
+            "h": 849,
+            "path": "avif/war-candelabrum-with-dragons-masks-and-weapons-384.avif",
+            "sha256": "155d608032ead1f475144d634d4e2f1470fab146c15b7f03fccc5490d8675158",
+            "w": 384
+          },
+          {
+            "bytes": 185208,
+            "h": 1132,
+            "path": "avif/war-candelabrum-with-dragons-masks-and-weapons-512.avif",
+            "sha256": "61e5cfbb5e10a1bc22b323bdff92ed5a9de74fba3b311cf00da3323df4449018",
+            "w": 512
+          },
+          {
+            "bytes": 322508,
+            "h": 1697,
+            "path": "avif/war-candelabrum-with-dragons-masks-and-weapons-768.avif",
+            "sha256": "98f906ed95a0b984bd71ae27d071bec67e17343e2d4187e1ab0b7c4d70be1949",
+            "w": 768
+          },
+          {
+            "bytes": 366419,
+            "h": 1841,
+            "path": "avif/war-candelabrum-with-dragons-masks-and-weapons-833.avif",
+            "sha256": "17e819730f8b5ddf716ab21b286332a130bd26b8bb7c296ab00b124e4231f2e7",
+            "w": 833
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 10402,
+            "h": 141,
+            "path": "webp/war-candelabrum-with-dragons-masks-and-weapons-64.webp",
+            "sha256": "0a26160aed210a055c98d62593bfc7c7ad695a2e793b4ec91aebc4638cc5ba14",
+            "w": 64
+          },
+          {
+            "bytes": 21174,
+            "h": 212,
+            "path": "webp/war-candelabrum-with-dragons-masks-and-weapons-96.webp",
+            "sha256": "f473f977b632e4e2e46253ba783872ee8a12b3c12bbbb5c9c9e6e2ba95bf206d",
+            "w": 96
+          },
+          {
+            "bytes": 34720,
+            "h": 283,
+            "path": "webp/war-candelabrum-with-dragons-masks-and-weapons-128.webp",
+            "sha256": "3d9d4507b95ea03ca390b837771becfae09fc4530dab6423f6af04c84efd8ec9",
+            "w": 128
+          },
+          {
+            "bytes": 67774,
+            "h": 424,
+            "path": "webp/war-candelabrum-with-dragons-masks-and-weapons-192.webp",
+            "sha256": "031759d04caafee100fc8adace316ad1229f8da1e514688ec574fc0bdbda9a9f",
+            "w": 192
+          },
+          {
+            "bytes": 107400,
+            "h": 566,
+            "path": "webp/war-candelabrum-with-dragons-masks-and-weapons-256.webp",
+            "sha256": "8c67bae35800857f4c1344135aa6d31b9993a5540e0229f1f6af7f0aa5f8a025",
+            "w": 256
+          },
+          {
+            "bytes": 206394,
+            "h": 849,
+            "path": "webp/war-candelabrum-with-dragons-masks-and-weapons-384.webp",
+            "sha256": "44cb04821d12da5ecfc019fba3c9f0238b8b5128086a88fa28ec89f556693a3c",
+            "w": 384
+          },
+          {
+            "bytes": 332312,
+            "h": 1132,
+            "path": "webp/war-candelabrum-with-dragons-masks-and-weapons-512.webp",
+            "sha256": "1b0a9b463ff4165b8022d473d8c72a48e733d3e47cce22853bf54e713348a728",
+            "w": 512
+          },
+          {
+            "bytes": 624274,
+            "h": 1697,
+            "path": "webp/war-candelabrum-with-dragons-masks-and-weapons-768.webp",
+            "sha256": "db066d84e938dae4e89ccb33cea06451b5f5594607638e2db420607b35a368ae",
+            "w": 768
+          },
+          {
+            "bytes": 694814,
+            "h": 1841,
+            "path": "webp/war-candelabrum-with-dragons-masks-and-weapons-833.webp",
+            "sha256": "72de245e0d831c5a3025a1145d12650df4057c4a5f60ef54d51d6e0d06a09820",
+            "w": 833
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "candelabrum",
+        "dragon",
+        "mask",
+        "creature",
+        "wings",
+        "lion",
+        "cannon",
+        "weapon",
+        "helmet",
+        "shield",
+        "drum",
+        "acanthus",
+        "scroll",
+        "ribbon"
+      ],
+      "thumbhash": "IymCAgAaJnK4BVcIdZlwZwiIc3d2d4g=",
+      "title": "Candelabrum panel with dragons, masks and instruments of war",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Tall piece (about 1:2.2), symmetrical about the shaft; it reads well as a side panel or centred under a title.",
+        "The shaft is cut flat at the top edge of the plate, so place the top against a rule or the page edge, or crop to the lower tiers."
+      ],
+      "width": 833
+    }
+  },
+  "attribution": "National Gallery of Art, Washington",
+  "builtAt": "2026-10-28T19:34:57.454Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-zoan-andrea-prints@1.0.0/",
+  "contentHash": "sha256:0139c04b1c9f39e2c3b26a139686190743682b9860303f8d51d3fcf78eb2effd",
+  "inputsHash": "sha256:a9392a0f4f62c5ab672c8a7cad128c1bd0029361a3e23c2d017b2593b256338d",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from National Gallery of Art open access (CC0) images; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-zoan-andrea-prints-masters",
+  "package": "@ranx729/ducktape-assets-zoan-andrea-prints",
+  "period": "ca. 1505–1515",
+  "region": "Mantua and Milan, Italy",
+  "schema": 1,
+  "set": "zoan-andrea-prints",
+  "style": "Renaissance engraving",
+  "summary": "Two vertical ornament panels, a satyr with a violin and dragons with masks and instruments of war, engraved by Zoan Andrea in northern Italy around 1505–1515, from two sheets in the National Gallery of Art, Washington; loose prints by one artist, grouped by sheet.",
+  "title": "Zoan Andrea ornament prints",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

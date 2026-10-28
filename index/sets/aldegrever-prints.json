@@ -1,0 +1,4513 @@
+{
+  "assets": {
+    "acanthus-vase-between-two-female-chimeras": {
+      "attribution": "Cleveland Museum of Art 1946.250",
+      "categories": [
+        "fantasy",
+        "hybrids",
+        "floral",
+        "scrollwork"
+      ],
+      "colors": [
+        "black",
+        "cream",
+        "gray"
+      ],
+      "composition": "single-ornament",
+      "description": "An upright engraved panel. A lidded fluted vase with a bearded mask on its bowl stands at the centre on a pair of scaly serpent coils; a female chimera stands at either side, with a woman's head and torso, a scaled lower body curling into a serpent tail and lion-pawed feet, each gripping the vase rim. From the vase rise acanthus leaves and thin stems that curl symmetrically into two large tulip-like flowers, two round blossoms and small leaf tendrils up to a central finial. Black and grey line work with cream paper-toned fills; the background is transparent.",
+      "display_width": [
+        300,
+        600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 1094995,
+        "webpTopBytes": 2309720
+      },
+      "facing": "viewer",
+      "group": "1946-250",
+      "height": 5200,
+      "license": "CC0-1.0",
+      "master": {
+        "bytes": 2907720,
+        "h": 2048,
+        "path": "masters/acanthus-vase-between-two-female-chimeras.webp",
+        "sha256": "b86c89a06aa229f5f2ef5ef0bb3e3c7e6ddd102de43531d20767fb8de3db4a8b",
+        "w": 1034
+      },
+      "palette": [
+        "#484742",
+        "#615f58",
+        "#79776f",
+        "#b5b1a5",
+        "#949086"
+      ],
+      "provenance": {
+        "artist": "Heinrich Aldegrever (German, 1502–1555/61)",
+        "date": "1553",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/1946.250/1946.250_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "1946.250",
+        "object_title": "A Vase between Two Chimeric Figures",
+        "record_url": "https://clevelandart.org/art/1946.250",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "9c0c33c67cecbe01b9a186c81a9a06bf3a505e95857b6fad9cb4f17a93f1e297"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 6648,
+            "h": 127,
+            "path": "avif/acanthus-vase-between-two-female-chimeras-64.avif",
+            "sha256": "67fb8b519b660e586cb982f750e3d11c065675cb5f2ea2c6b8bb27164e78cb4e",
+            "w": 64
+          },
+          {
+            "bytes": 11991,
+            "h": 190,
+            "path": "avif/acanthus-vase-between-two-female-chimeras-96.avif",
+            "sha256": "4e20ef312e08eba0af95d2ae0f8890882a177119c467d2a4c798c6ab9b62b68f",
+            "w": 96
+          },
+          {
+            "bytes": 18647,
+            "h": 253,
+            "path": "avif/acanthus-vase-between-two-female-chimeras-128.avif",
+            "sha256": "911cc3d05deef7fec77da80a7d1b738904503bbf85a70d68ae6719ef5b87f2da",
+            "w": 128
+          },
+          {
+            "bytes": 33427,
+            "h": 380,
+            "path": "avif/acanthus-vase-between-two-female-chimeras-192.avif",
+            "sha256": "31047ba50e01436ef60d3bca1c5d3b1fa6780aae73d966621aaa877ed49471f4",
+            "w": 192
+          },
+          {
+            "bytes": 50727,
+            "h": 507,
+            "path": "avif/acanthus-vase-between-two-female-chimeras-256.avif",
+            "sha256": "b360b09339791bdde144551e4e6c572c54b4f15c0340be39a5dc89aaa3030cc4",
+            "w": 256
+          },
+          {
+            "bytes": 94763,
+            "h": 760,
+            "path": "avif/acanthus-vase-between-two-female-chimeras-384.avif",
+            "sha256": "7f30f41e7fdcfba1a6c0ed12f1fe5178cdd79a350eaa163713e18e9df6570b20",
+            "w": 384
+          },
+          {
+            "bytes": 154429,
+            "h": 1014,
+            "path": "avif/acanthus-vase-between-two-female-chimeras-512.avif",
+            "sha256": "cad7b14cdad730d5b6e9dd7f86ade1262cc5d016de5a2d8c52106971dc21b279",
+            "w": 512
+          },
+          {
+            "bytes": 283945,
+            "h": 1521,
+            "path": "avif/acanthus-vase-between-two-female-chimeras-768.avif",
+            "sha256": "f878415d03ec08dccbf82099be7ae5429fa6ffe308a5b926a478d3768a655850",
+            "w": 768
+          },
+          {
+            "bytes": 425162,
+            "h": 2028,
+            "path": "avif/acanthus-vase-between-two-female-chimeras-1024.avif",
+            "sha256": "520ff0eb1c2d85accae6ad91eb45c7058ef42d204598d3269b1209f15229d494",
+            "w": 1024
+          },
+          {
+            "bytes": 739084,
+            "h": 3042,
+            "path": "avif/acanthus-vase-between-two-female-chimeras-1536.avif",
+            "sha256": "d84d9a90089558095a7132ee3ddc6f34bb779dd678bbb6c4f04cea0d57303749",
+            "w": 1536
+          },
+          {
+            "bytes": 1094995,
+            "h": 4055,
+            "path": "avif/acanthus-vase-between-two-female-chimeras-2048.avif",
+            "sha256": "87e75385872bc26045f0ffa6a0c558784fcdb043507948aa1db4814d66e3bf20",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 9214,
+            "h": 127,
+            "path": "webp/acanthus-vase-between-two-female-chimeras-64.webp",
+            "sha256": "76d0cf5296aaf92c279baae65a3b6e0ea547dfe497bee4b61d5da8635bb1d5bd",
+            "w": 64
+          },
+          {
+            "bytes": 17872,
+            "h": 190,
+            "path": "webp/acanthus-vase-between-two-female-chimeras-96.webp",
+            "sha256": "571a8c12b5fe9bbbf89777a06d4107c6da09a1cb106efadcd2939c12ce731dc6",
+            "w": 96
+          },
+          {
+            "bytes": 28976,
+            "h": 253,
+            "path": "webp/acanthus-vase-between-two-female-chimeras-128.webp",
+            "sha256": "013eaf9f7f46d58cabcc0440e323d3c8f72fa0d88d24266fab5ae77871742239",
+            "w": 128
+          },
+          {
+            "bytes": 56206,
+            "h": 380,
+            "path": "webp/acanthus-vase-between-two-female-chimeras-192.webp",
+            "sha256": "269686e88d8f12d67f30c97344b7b1f4ae24f0748a758b266f48046563d9d17e",
+            "w": 192
+          },
+          {
+            "bytes": 89212,
+            "h": 507,
+            "path": "webp/acanthus-vase-between-two-female-chimeras-256.webp",
+            "sha256": "56f322fb86f6caa2264c27c3deee4c8769b4cfb46273e8e82dd60a0e209a157b",
+            "w": 256
+          },
+          {
+            "bytes": 174294,
+            "h": 760,
+            "path": "webp/acanthus-vase-between-two-female-chimeras-384.webp",
+            "sha256": "c2ddc36cd4bbd93495c42a97edaff970f603d5249a4b0b8c062b38351fcf4030",
+            "w": 384
+          },
+          {
+            "bytes": 281938,
+            "h": 1014,
+            "path": "webp/acanthus-vase-between-two-female-chimeras-512.webp",
+            "sha256": "610f92cbb5146c4d9a7298e4dd0ccb6fe87f642eab6747799ae42d52a8f714bf",
+            "w": 512
+          },
+          {
+            "bytes": 537096,
+            "h": 1521,
+            "path": "webp/acanthus-vase-between-two-female-chimeras-768.webp",
+            "sha256": "720feecc7b673ae33f5968c48cd9b5a21a2cbf344f823c0be2b36cceec81f1e1",
+            "w": 768
+          },
+          {
+            "bytes": 823770,
+            "h": 2028,
+            "path": "webp/acanthus-vase-between-two-female-chimeras-1024.webp",
+            "sha256": "5681833838127a621314824734bd3013576e8a7a9252bf23f82011caf17c46bf",
+            "w": 1024
+          },
+          {
+            "bytes": 1499886,
+            "h": 3042,
+            "path": "webp/acanthus-vase-between-two-female-chimeras-1536.webp",
+            "sha256": "3794a4102cdd7d90904ce35129e097dcb64ccdf1827ae6421d94b5b822ffbda2",
+            "w": 1536
+          },
+          {
+            "bytes": 2309720,
+            "h": 4055,
+            "path": "webp/acanthus-vase-between-two-female-chimeras-2048.webp",
+            "sha256": "da9da72ff37d39434a23c9037f28911ebf5a62ddb17ac7b0f51394f4a3f07bd2",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "vase",
+        "chimera",
+        "woman",
+        "mask",
+        "beard",
+        "acanthus",
+        "leaf",
+        "flower",
+        "stem",
+        "scroll"
+      ],
+      "thumbhash": "WwiCAwAaX2Qn1At/YvEpFwg3hHeElzc=",
+      "title": "Vase between two female chimeras",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Tall upright panel (about 1 to 2); the chimeras and the vase form its base, so place it standing, not rotated."
+      ],
+      "width": 2626
+    },
+    "bearded-mask-with-eagle-and-paired-fauns": {
+      "attribution": "Cleveland Museum of Art 1922.498",
+      "categories": [
+        "fantasy",
+        "hybrids",
+        "animals",
+        "scrollwork"
+      ],
+      "colors": [
+        "black",
+        "brown",
+        "cream"
+      ],
+      "composition": "single-ornament",
+      "description": "A nearly rectangular engraved grotesque. A large bearded mask with a furrowed brow stares out from the centre under a pine-cone finial on a stand; two fruit-filled cornucopias hung with ribbons flank it, and a parrot-like bird perches on a scroll in each upper corner. At the lower sides two horned fauns with scaled fish tails face inward, holding a cloth that drapes behind an eagle with spread wings and talons at the bottom centre. Brown-black line work with cream paper-toned fills on a transparent background.",
+      "display_width": [
+        300,
+        600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 394973,
+        "webpTopBytes": 837056
+      },
+      "facing": "viewer",
+      "group": "1922-498",
+      "height": 1422,
+      "license": "CC0-1.0",
+      "master": {
+        "bytes": 2519434,
+        "h": 1422,
+        "path": "masters/bearded-mask-with-eagle-and-paired-fauns.webp",
+        "sha256": "ed023e4a14fc525093e9d9e6b951d89eec58b310fbc36584fa5b273fde833a48",
+        "w": 1075
+      },
+      "palette": [
+        "#61564b",
+        "#857869",
+        "#9e907e",
+        "#b1a28f",
+        "#ccbca6"
+      ],
+      "provenance": {
+        "artist": "Heinrich Aldegrever (German, 1502–1555/61)",
+        "date": "1509",
+        "image_rights": "CC0-1.0",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1922.498",
+        "object_title": "Ornament Design with a Mask and an Eagle between Two Fauns Below",
+        "record_url": "https://clevelandart.org/art/1922.498",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "525b4b81db946a5000125dce34878167e1abe4cb80d2abf7424e57e6f2ff230f"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4734,
+            "h": 85,
+            "path": "avif/bearded-mask-with-eagle-and-paired-fauns-64.avif",
+            "sha256": "6f4ab20bf619504ccbdf13b3f81d06300ea04511014d91e25e55481a8b6102fc",
+            "w": 64
+          },
+          {
+            "bytes": 8911,
+            "h": 127,
+            "path": "avif/bearded-mask-with-eagle-and-paired-fauns-96.avif",
+            "sha256": "0ad0eba107390dfbe483331c2a351813debd6b5218485ab040380ce213bd5e33",
+            "w": 96
+          },
+          {
+            "bytes": 14155,
+            "h": 169,
+            "path": "avif/bearded-mask-with-eagle-and-paired-fauns-128.avif",
+            "sha256": "a3294ff47c89780398efcbba0a722747944a315747b441a4132bfbcba6c26083",
+            "w": 128
+          },
+          {
+            "bytes": 26775,
+            "h": 254,
+            "path": "avif/bearded-mask-with-eagle-and-paired-fauns-192.avif",
+            "sha256": "40f96c41edea94debf7428edb5192d4c10bd6cf4e3e3a65c90602ef8d4040b86",
+            "w": 192
+          },
+          {
+            "bytes": 41730,
+            "h": 339,
+            "path": "avif/bearded-mask-with-eagle-and-paired-fauns-256.avif",
+            "sha256": "124b76e900e8edf1df1d93f22e6e1ec9480665459ac2c0731fce5b516eba2cb7",
+            "w": 256
+          },
+          {
+            "bytes": 82845,
+            "h": 508,
+            "path": "avif/bearded-mask-with-eagle-and-paired-fauns-384.avif",
+            "sha256": "c083e15b6ee8efae85c4c5d2d152196e7d905312420678e27e5cb865b29ac840",
+            "w": 384
+          },
+          {
+            "bytes": 136856,
+            "h": 677,
+            "path": "avif/bearded-mask-with-eagle-and-paired-fauns-512.avif",
+            "sha256": "c0236440aa8f599bdc391869f62731a8a0d8013d2f6b29cc2cdd6c4e71c4ef03",
+            "w": 512
+          },
+          {
+            "bytes": 259346,
+            "h": 1016,
+            "path": "avif/bearded-mask-with-eagle-and-paired-fauns-768.avif",
+            "sha256": "c3bcd4a40ee4a115aae4ea8b33e8c837f34b27a6bdcd68d53f7acb4b2e077d67",
+            "w": 768
+          },
+          {
+            "bytes": 368826,
+            "h": 1355,
+            "path": "avif/bearded-mask-with-eagle-and-paired-fauns-1024.avif",
+            "sha256": "30380ba0211c479814cf432c6c04203b5771b34a1c6989336c02a0e53ae2924f",
+            "w": 1024
+          },
+          {
+            "bytes": 394973,
+            "h": 1422,
+            "path": "avif/bearded-mask-with-eagle-and-paired-fauns-1075.avif",
+            "sha256": "78d28d3f2b19cd0fd7312eab16f4cf08ab80c0ad259a19f03c83689ea71b71e1",
+            "w": 1075
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 6782,
+            "h": 85,
+            "path": "webp/bearded-mask-with-eagle-and-paired-fauns-64.webp",
+            "sha256": "b8d06975c9f065e905f5f4586827d71d16021895f38b3295fbab20e07d11f6bf",
+            "w": 64
+          },
+          {
+            "bytes": 13712,
+            "h": 127,
+            "path": "webp/bearded-mask-with-eagle-and-paired-fauns-96.webp",
+            "sha256": "7cc88628d56a18c9f80d58059f902d3cb0d4648f55eb0348d711e38157a23f53",
+            "w": 96
+          },
+          {
+            "bytes": 22212,
+            "h": 169,
+            "path": "webp/bearded-mask-with-eagle-and-paired-fauns-128.webp",
+            "sha256": "601016845747506c669c51f842e8538b9cd5363693b99984ee3e4a34ecf44114",
+            "w": 128
+          },
+          {
+            "bytes": 44462,
+            "h": 254,
+            "path": "webp/bearded-mask-with-eagle-and-paired-fauns-192.webp",
+            "sha256": "c84dc8da7eb91d2407d1678b51cbf37c979322c9b84a3cf07dd8df32ff9d9e1b",
+            "w": 192
+          },
+          {
+            "bytes": 70848,
+            "h": 339,
+            "path": "webp/bearded-mask-with-eagle-and-paired-fauns-256.webp",
+            "sha256": "61e7baaf82b4e84d59fa65d13d35a040177a4e9a404521f66e86e7df89626922",
+            "w": 256
+          },
+          {
+            "bytes": 141164,
+            "h": 508,
+            "path": "webp/bearded-mask-with-eagle-and-paired-fauns-384.webp",
+            "sha256": "7f291f2ace219ae9b49bb7fc6c01946284eb3e739c8432ce53af6290eef94d8b",
+            "w": 384
+          },
+          {
+            "bytes": 235006,
+            "h": 677,
+            "path": "webp/bearded-mask-with-eagle-and-paired-fauns-512.webp",
+            "sha256": "fb2e9090cbf4b6ac4369913625cac0aaa9644dd0a9b2442c2da80336b9f04262",
+            "w": 512
+          },
+          {
+            "bytes": 488146,
+            "h": 1016,
+            "path": "webp/bearded-mask-with-eagle-and-paired-fauns-768.webp",
+            "sha256": "f66026572876f05c0bf45f27f3dd4be4a059761694d8a4737ed7cf00124cdbdf",
+            "w": 768
+          },
+          {
+            "bytes": 783088,
+            "h": 1355,
+            "path": "webp/bearded-mask-with-eagle-and-paired-fauns-1024.webp",
+            "sha256": "a26f4c83b232f8dce1eca63a4768a3acad7cdb58e2f0ae0be1e8931138e323d4",
+            "w": 1024
+          },
+          {
+            "bytes": 837056,
+            "h": 1422,
+            "path": "webp/bearded-mask-with-eagle-and-paired-fauns-1075.webp",
+            "sha256": "b882956b840c9729324507f491c513d2e9a3ed747c91978fdb1ff69e832eeaf9",
+            "w": 1075
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "mask",
+        "beard",
+        "eagle",
+        "bird",
+        "cornucopia",
+        "fruit",
+        "triton",
+        "ribbon",
+        "drapery",
+        "scroll"
+      ],
+      "thumbhash": "nBiCBAAajQtoVWac9gdqX5GacGGIKHh4Aw==",
+      "title": "Bearded mask with eagle, cornucopias and fauns",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Dense near-rectangular panel (about 3 to 4); it reads as a plate or a tile, not as a border."
+      ],
+      "width": 1075
+    },
+    "bearded-mask-with-tritons-and-two-children": {
+      "attribution": "Cleveland Museum of Art 1922.495",
+      "categories": [
+        "fantasy",
+        "hybrids",
+        "humans",
+        "scrollwork"
+      ],
+      "colors": [
+        "black",
+        "brown",
+        "cream"
+      ],
+      "composition": "single-ornament",
+      "description": "A nearly rectangular engraved grotesque. A large bearded mask with an open mouth fills the centre; above it a small bearded man sits astride its crest and stretches a cloth to two horned goat heads in the upper corners, while a booted man in a jerkin perches on a cornucopia at either side. Below, a nude child rides a woman's bust at the left and another stands on a bearded satyr's head at the right; a lion mask with a draped cloth and a small lower mask among acanthus leaves close the bottom. Brown-black line work with cream paper-toned fills on a transparent background.",
+      "display_width": [
+        300,
+        600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 338255,
+        "webpTopBytes": 693364
+      },
+      "facing": "viewer",
+      "group": "1922-495",
+      "height": 1435,
+      "license": "CC0-1.0",
+      "master": {
+        "bytes": 2284410,
+        "h": 1435,
+        "path": "masters/bearded-mask-with-tritons-and-two-children.webp",
+        "sha256": "3d3a00b0b1d81a7fcf44e7e2f738f7a57a669c03491eaf4406e34a34ce54a8ce",
+        "w": 1049
+      },
+      "palette": [
+        "#736a5e",
+        "#564f46",
+        "#8e8375",
+        "#a89c8d",
+        "#cabdac"
+      ],
+      "provenance": {
+        "artist": "Heinrich Aldegrever (German, 1502–1555/61)",
+        "date": "1549",
+        "image_rights": "CC0-1.0",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1922.495",
+        "object_title": "Ornament Design with a Mask, A Couple of Tritons, and Two Children Below",
+        "record_url": "https://clevelandart.org/art/1922.495",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "c3b6a09151d9701935fd47b9051791f5229b7e7a3611ee4e52beaa522ea505bd"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4632,
+            "h": 88,
+            "path": "avif/bearded-mask-with-tritons-and-two-children-64.avif",
+            "sha256": "08e5f9cfc4f4e10d3e8ade12fc75ae4ce8e25179ad2f7b35789a3e20ed93c0a9",
+            "w": 64
+          },
+          {
+            "bytes": 8764,
+            "h": 131,
+            "path": "avif/bearded-mask-with-tritons-and-two-children-96.avif",
+            "sha256": "df7f22c4729e2f5f581858dd9d4f782b1819364e47d91786899c51fcb7165fe5",
+            "w": 96
+          },
+          {
+            "bytes": 13710,
+            "h": 175,
+            "path": "avif/bearded-mask-with-tritons-and-two-children-128.avif",
+            "sha256": "07574a52fe2e406e60e6a8bd8f856bece805d8f0adb623619f1ade3cd5a1f5b5",
+            "w": 128
+          },
+          {
+            "bytes": 25317,
+            "h": 263,
+            "path": "avif/bearded-mask-with-tritons-and-two-children-192.avif",
+            "sha256": "b92198fc4304e792f150489d32bb757d7f0d8b3129276f86b97a4d786d3e20e1",
+            "w": 192
+          },
+          {
+            "bytes": 40112,
+            "h": 350,
+            "path": "avif/bearded-mask-with-tritons-and-two-children-256.avif",
+            "sha256": "9780cad536b249a4c9860641a74a0d446b094fc45039ba682d7cab1cf73e1429",
+            "w": 256
+          },
+          {
+            "bytes": 78281,
+            "h": 525,
+            "path": "avif/bearded-mask-with-tritons-and-two-children-384.avif",
+            "sha256": "4a25580cd18790213f0cb2dd143fde76f816c06e5fb8c10fd0539b96986c3a68",
+            "w": 384
+          },
+          {
+            "bytes": 127162,
+            "h": 700,
+            "path": "avif/bearded-mask-with-tritons-and-two-children-512.avif",
+            "sha256": "1c2cb249f39d3368bfc0817059397bfe39b43e1074a9351e044e941dd9dddfb4",
+            "w": 512
+          },
+          {
+            "bytes": 231736,
+            "h": 1051,
+            "path": "avif/bearded-mask-with-tritons-and-two-children-768.avif",
+            "sha256": "f6792d06da555ec22c03b997844c295e41094e05f55e82a1957f45935f444191",
+            "w": 768
+          },
+          {
+            "bytes": 324719,
+            "h": 1401,
+            "path": "avif/bearded-mask-with-tritons-and-two-children-1024.avif",
+            "sha256": "072df2d4edbed65a5191befcd9f98da5d7b1a56cba4123446bd05c0b4291d3b6",
+            "w": 1024
+          },
+          {
+            "bytes": 338255,
+            "h": 1435,
+            "path": "avif/bearded-mask-with-tritons-and-two-children-1049.avif",
+            "sha256": "75db21deb0703cfc88852570a3d31c836d8d0f364a84a401f3c07ebb39e25919",
+            "w": 1049
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 6784,
+            "h": 88,
+            "path": "webp/bearded-mask-with-tritons-and-two-children-64.webp",
+            "sha256": "998dee7a36f9ffe3c1de5f6e06db657ebfa0cf3f870aad489160d8a7277385e6",
+            "w": 64
+          },
+          {
+            "bytes": 13296,
+            "h": 131,
+            "path": "webp/bearded-mask-with-tritons-and-two-children-96.webp",
+            "sha256": "7ad0e594b4672c73e1e60b864c39f1fab074bc0519283a301dce4de0185df0d9",
+            "w": 96
+          },
+          {
+            "bytes": 21510,
+            "h": 175,
+            "path": "webp/bearded-mask-with-tritons-and-two-children-128.webp",
+            "sha256": "77f2a0fd9d0cf328cb99f0ecdd6a3f8a0f10f301a5804709f65de03a2335ddca",
+            "w": 128
+          },
+          {
+            "bytes": 41878,
+            "h": 263,
+            "path": "webp/bearded-mask-with-tritons-and-two-children-192.webp",
+            "sha256": "f20ee5520b1d16e0fec182201186c2deb71a5ab6fc425e33e8cd51e642373f18",
+            "w": 192
+          },
+          {
+            "bytes": 66396,
+            "h": 350,
+            "path": "webp/bearded-mask-with-tritons-and-two-children-256.webp",
+            "sha256": "663b829a7c23a9708f677735c9f55a1ed502f16e71154436f4a32cf79c528bae",
+            "w": 256
+          },
+          {
+            "bytes": 132128,
+            "h": 525,
+            "path": "webp/bearded-mask-with-tritons-and-two-children-384.webp",
+            "sha256": "009fda5413913749ab46a08fcaab245c0b9e010b5109332873964673571e02ae",
+            "w": 384
+          },
+          {
+            "bytes": 217874,
+            "h": 700,
+            "path": "webp/bearded-mask-with-tritons-and-two-children-512.webp",
+            "sha256": "c49c7c34b953c4866311faffe1bc8eda013f19a764e994c4fa859d84ae08bcd0",
+            "w": 512
+          },
+          {
+            "bytes": 431764,
+            "h": 1051,
+            "path": "webp/bearded-mask-with-tritons-and-two-children-768.webp",
+            "sha256": "ba98f5396f6c41816be6f6a0615054ad99119bb95975f09a4134408d47d4ca15",
+            "w": 768
+          },
+          {
+            "bytes": 673142,
+            "h": 1401,
+            "path": "webp/bearded-mask-with-tritons-and-two-children-1024.webp",
+            "sha256": "fbeb96e5a8dc928e7851db1bcb3a2ea7c0776a43dc3a4b97d67db1acd868dbc4",
+            "w": 1024
+          },
+          {
+            "bytes": 693364,
+            "h": 1435,
+            "path": "webp/bearded-mask-with-tritons-and-two-children-1049.webp",
+            "sha256": "0ee04952d1247c75acbe4841b125cf56f106e29b54073d15492ce91c34fb5bec",
+            "w": 1049
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "mask",
+        "beard",
+        "goat",
+        "horn",
+        "human",
+        "putto",
+        "woman",
+        "satyr",
+        "lion",
+        "cornucopia",
+        "drapery",
+        "acanthus"
+      ],
+      "thumbhash": "nhiCBAAbr0pWZoWb9o94/5eIcnOHCWiIAg==",
+      "title": "Grotesque with mask, goat heads and children",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Dense near-rectangular panel (about 3 to 4); it reads as a plate or a tile, not as a border."
+      ],
+      "width": 1049
+    },
+    "branching-scroll-with-broad-lobed-leaves": {
+      "attribution": "Museum für Kunst und Gewerbe Hamburg O1912.85",
+      "categories": [
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "tan",
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A horizontal foliate ornament. From a leafy base at the bottom centre a straight stem rises to a bell-shaped flower on a ringed collar, and symmetrical stems branch to either side, curling into volutes dressed with broad lobed leaves and drooping buds. Tan-cream fills with dark brown hatching on a transparent background.",
+      "display_width": [
+        240,
+        460
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 62394,
+        "webpTopBytes": 108422
+      },
+      "facing": "none",
+      "group": "o1912-85",
+      "height": 349,
+      "master": {
+        "bytes": 229072,
+        "h": 349,
+        "path": "masters/branching-scroll-with-broad-lobed-leaves.webp",
+        "sha256": "50c4ae8af78338912e001b0d3c0c650f701e344e0ccf3ccbe1eeb85c183a3949",
+        "w": 469
+      },
+      "palette": [
+        "#958161",
+        "#ad9873",
+        "#7c6b51",
+        "#c7b085",
+        "#e5cc9b"
+      ],
+      "provenance": {
+        "artist": "Aldegrever, Heinrich",
+        "date": "1530",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.mkg-hamburg.de/object/dc00101612/image-download/0",
+        "institution": "Museum für Kunst und Gewerbe Hamburg",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "O1912.85",
+        "object_title": "Laubwerkfüllung",
+        "record_url": "https://www.mkg-hamburg.de/sammlung/objekt/laubwerkfullung/O1912.85/dc00101612",
+        "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_sha256": "d57eef3bddcf8f0f2a2360773bd069292433ab2eae4bb3913760151c3265697e"
+      },
+      "quality": "Low-resolution master (469 px wide); do not display it larger than its native size.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3501,
+            "h": 48,
+            "path": "avif/branching-scroll-with-broad-lobed-leaves-64.avif",
+            "sha256": "74d1680336d8644023f1c7f901d24024680c9fadb715a9b45cccb7f52aa4c265",
+            "w": 64
+          },
+          {
+            "bytes": 6467,
+            "h": 71,
+            "path": "avif/branching-scroll-with-broad-lobed-leaves-96.avif",
+            "sha256": "8d5169710a2b2a850ce48894ad4e8b1be13a37d9f58812a6a0f8a851f6156ea7",
+            "w": 96
+          },
+          {
+            "bytes": 9771,
+            "h": 95,
+            "path": "avif/branching-scroll-with-broad-lobed-leaves-128.avif",
+            "sha256": "18939cde5562f6dfc5b41402b21499d451d864c29d7a4a2013f0056b4e8770c4",
+            "w": 128
+          },
+          {
+            "bytes": 16969,
+            "h": 143,
+            "path": "avif/branching-scroll-with-broad-lobed-leaves-192.avif",
+            "sha256": "2ab687859b399416e50738d29c415ecece705d3529a73082689d16742dda4b08",
+            "w": 192
+          },
+          {
+            "bytes": 24519,
+            "h": 190,
+            "path": "avif/branching-scroll-with-broad-lobed-leaves-256.avif",
+            "sha256": "a464d1ec1713db16f4ded043ae65294b54b06d4083a48e1b7baad9ae0babdcdd",
+            "w": 256
+          },
+          {
+            "bytes": 45782,
+            "h": 286,
+            "path": "avif/branching-scroll-with-broad-lobed-leaves-384.avif",
+            "sha256": "3c3b4a46698b56994a8c2c970d2579f711514f3e729d2298a0d2376390e76c30",
+            "w": 384
+          },
+          {
+            "bytes": 62394,
+            "h": 349,
+            "path": "avif/branching-scroll-with-broad-lobed-leaves-469.avif",
+            "sha256": "1f11f5cfb4f0ce6f67c939cd22dd8138e8b6c2cd491558cefe26f8024bb3bd20",
+            "w": 469
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4364,
+            "h": 48,
+            "path": "webp/branching-scroll-with-broad-lobed-leaves-64.webp",
+            "sha256": "aba4e1a4931578f4de2579dd005c14453989f57600d48ec0266f426bed3e76ad",
+            "w": 64
+          },
+          {
+            "bytes": 9052,
+            "h": 71,
+            "path": "webp/branching-scroll-with-broad-lobed-leaves-96.webp",
+            "sha256": "224cda01674bd3255cf7da516e818ae2862d502683b265a5e77ca5e0431ac18a",
+            "w": 96
+          },
+          {
+            "bytes": 14622,
+            "h": 95,
+            "path": "webp/branching-scroll-with-broad-lobed-leaves-128.webp",
+            "sha256": "4d54e2cf8339c6ac0edf532f9c698750a1a31de79b69364fb1bf6e6c3e8f4fce",
+            "w": 128
+          },
+          {
+            "bytes": 27994,
+            "h": 143,
+            "path": "webp/branching-scroll-with-broad-lobed-leaves-192.webp",
+            "sha256": "01c024ff541d79f6a6c55dabc31b33288302281488d72cf78d5e2fe53b5ce298",
+            "w": 192
+          },
+          {
+            "bytes": 43384,
+            "h": 190,
+            "path": "webp/branching-scroll-with-broad-lobed-leaves-256.webp",
+            "sha256": "aa3463e8e6c621a499b0b8662b712c2a90899cfdf6c40dedb1086d3fd2a54e94",
+            "w": 256
+          },
+          {
+            "bytes": 82856,
+            "h": 286,
+            "path": "webp/branching-scroll-with-broad-lobed-leaves-384.webp",
+            "sha256": "0422f480b6a476b41f4af6eac9aa7396e1ea23647b84bd88dabef521922c4e46",
+            "w": 384
+          },
+          {
+            "bytes": 108422,
+            "h": 349,
+            "path": "webp/branching-scroll-with-broad-lobed-leaves-469.webp",
+            "sha256": "733f24101255f5878fade95026f13f11e695fff88a77838999dc4bd87da604c9",
+            "w": 469
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "leaf",
+        "scroll",
+        "flower",
+        "bud",
+        "stem"
+      ],
+      "thumbhash": "YimCBIAYeAQgj3iaqA2hlGB6U0W7CEaVBA==",
+      "title": "Branching leaf scroll with bell flower",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Reads as a headpiece or tailpiece; the central flower marks the axis."
+      ],
+      "width": 469
+    },
+    "child-gripping-wide-foliate-scroll": {
+      "attribution": "National Gallery of Art, Washington 1943.3.306",
+      "categories": [
+        "humans",
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "black",
+        "brown",
+        "cream",
+        "tan"
+      ],
+      "composition": "single-ornament",
+      "description": "A wide horizontal foliate panel. A nude putto crouches at the centre with its head turned to the left, gripping the stems that run through both hands, while a small bell flower rises above its head; broad lobed leaves on thin curling stems spread symmetrically to both ends, with a small bud at each edge. Brown-black line work with cream and tan paper-toned fills on a transparent background.",
+      "display_width": [
+        400,
+        800
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 345939,
+        "webpTopBytes": 683834
+      },
+      "facing": "left",
+      "group": "1943-3-306",
+      "height": 776,
+      "license": "CC0-1.0",
+      "master": {
+        "bytes": 2108550,
+        "h": 776,
+        "path": "masters/child-gripping-wide-foliate-scroll.webp",
+        "sha256": "1184d51346ca7bca492601ea76cf8091a3f594cbc40c8f13af3adc659cefc073",
+        "w": 1996
+      },
+      "palette": [
+        "#978168",
+        "#7a6855",
+        "#b29979",
+        "#e4c8a2",
+        "#c7af8f"
+      ],
+      "provenance": {
+        "artist": "Heinrich Aldegrever",
+        "date": "1539",
+        "institution": "National Gallery of Art, Washington",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1943.3.306",
+        "object_title": "Ornament with Foliage and a Child in the Center",
+        "record_url": "https://www.nga.gov/collection/art-object-page.3518.html",
+        "rights_text": "Open Access / public domain; official image dataset openaccess=1",
+        "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+        "source_sha256": "eeb867c42896e50b933e7969ef52c3c8be0c159b775da27e6b9cc2da70a738eb"
+      },
+      "quality": "The leaves at the left and right edges are cut by the plate edge of the print.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2224,
+            "h": 25,
+            "path": "avif/child-gripping-wide-foliate-scroll-64.avif",
+            "sha256": "c7a56774fc3b50f67b8b5c135e4d3469b45e32320ac7027cd4018324b490b837",
+            "w": 64
+          },
+          {
+            "bytes": 3990,
+            "h": 37,
+            "path": "avif/child-gripping-wide-foliate-scroll-96.avif",
+            "sha256": "4b2cad86cf466666829f54f5d4c78c06ae15185f0965db9ac19aacd7a99554be",
+            "w": 96
+          },
+          {
+            "bytes": 6444,
+            "h": 50,
+            "path": "avif/child-gripping-wide-foliate-scroll-128.avif",
+            "sha256": "a0dd703e0bb189d8cce9375a9a326a81a722e3af5cea19926c0a421b878df8a1",
+            "w": 128
+          },
+          {
+            "bytes": 11607,
+            "h": 75,
+            "path": "avif/child-gripping-wide-foliate-scroll-192.avif",
+            "sha256": "b20245152e1aa9f3d08f0a70288430d8eb149c61d6ba0e572b4145342ccab34f",
+            "w": 192
+          },
+          {
+            "bytes": 18036,
+            "h": 100,
+            "path": "avif/child-gripping-wide-foliate-scroll-256.avif",
+            "sha256": "29a080958c37c89261eda9bc5639448ed831135e1565e635ba59684fd9f04535",
+            "w": 256
+          },
+          {
+            "bytes": 32765,
+            "h": 149,
+            "path": "avif/child-gripping-wide-foliate-scroll-384.avif",
+            "sha256": "f69f494cf1fc372a5e4bbb8a2016acc3da1a3bd8b8a8168db7daa3555e1d6e80",
+            "w": 384
+          },
+          {
+            "bytes": 50318,
+            "h": 199,
+            "path": "avif/child-gripping-wide-foliate-scroll-512.avif",
+            "sha256": "11204ae73e452ea4c0cc6d51ee13a12d15143f2dc569ebb02af3241521ea7029",
+            "w": 512
+          },
+          {
+            "bytes": 94564,
+            "h": 299,
+            "path": "avif/child-gripping-wide-foliate-scroll-768.avif",
+            "sha256": "c2327ca3ef994264b758807217b47dc6891cc316d27508948ebf2f39227e974c",
+            "w": 768
+          },
+          {
+            "bytes": 145264,
+            "h": 398,
+            "path": "avif/child-gripping-wide-foliate-scroll-1024.avif",
+            "sha256": "0ea53e480aec6b80a8842559d00a19bf8041c91de8d4632437691356f6dc4c96",
+            "w": 1024
+          },
+          {
+            "bytes": 249634,
+            "h": 597,
+            "path": "avif/child-gripping-wide-foliate-scroll-1536.avif",
+            "sha256": "844eb03b33952c3bdd70f6fa569a01a4c728202aa738c533c32700dc92dbb094",
+            "w": 1536
+          },
+          {
+            "bytes": 345939,
+            "h": 776,
+            "path": "avif/child-gripping-wide-foliate-scroll-1996.avif",
+            "sha256": "a0d368114ddc4e71b449606b33c14c597f681fc72a232504585eb2d4571a682c",
+            "w": 1996
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2576,
+            "h": 25,
+            "path": "webp/child-gripping-wide-foliate-scroll-64.webp",
+            "sha256": "b98d03be4bc0bd0ec96a3d012ee3e3fd8029c7a58b4d82da8df4e19c67ad918e",
+            "w": 64
+          },
+          {
+            "bytes": 5164,
+            "h": 37,
+            "path": "webp/child-gripping-wide-foliate-scroll-96.webp",
+            "sha256": "6c1c9604013f70e4b0a9127ccee330a7553f23486492bbfd8aa89ba674aec6ae",
+            "w": 96
+          },
+          {
+            "bytes": 8474,
+            "h": 50,
+            "path": "webp/child-gripping-wide-foliate-scroll-128.webp",
+            "sha256": "48840965b197dda610b39b13ebbca44d0851786e5f7a9606a89f6fb531b84f10",
+            "w": 128
+          },
+          {
+            "bytes": 16756,
+            "h": 75,
+            "path": "webp/child-gripping-wide-foliate-scroll-192.webp",
+            "sha256": "f53509d3f7a625e1276ec010b0372a929ae076c3f347b92d17cb7bd32c008df0",
+            "w": 192
+          },
+          {
+            "bytes": 26872,
+            "h": 100,
+            "path": "webp/child-gripping-wide-foliate-scroll-256.webp",
+            "sha256": "e6c69de8448d1a22b83c9933c2656caeebacd46574576fef85016b9e5934f25d",
+            "w": 256
+          },
+          {
+            "bytes": 51366,
+            "h": 149,
+            "path": "webp/child-gripping-wide-foliate-scroll-384.webp",
+            "sha256": "2014a78df4c11b68f59d804b9ebe19eef16180ab48d947744818f4de5fce8506",
+            "w": 384
+          },
+          {
+            "bytes": 82158,
+            "h": 199,
+            "path": "webp/child-gripping-wide-foliate-scroll-512.webp",
+            "sha256": "a0e8669e73cba1b3a116a36c453abd62a08ec0a1c5613f8737587268c05fd0d5",
+            "w": 512
+          },
+          {
+            "bytes": 158332,
+            "h": 299,
+            "path": "webp/child-gripping-wide-foliate-scroll-768.webp",
+            "sha256": "7e1778b782938d3b28c9a1393cbe07da6170edade73eefd728180c087f042b08",
+            "w": 768
+          },
+          {
+            "bytes": 251404,
+            "h": 398,
+            "path": "webp/child-gripping-wide-foliate-scroll-1024.webp",
+            "sha256": "afe99355afed09e30b237ea1d36d988726af17c010c7a2be894a74bfcbd0dd43",
+            "w": 1024
+          },
+          {
+            "bytes": 471022,
+            "h": 597,
+            "path": "webp/child-gripping-wide-foliate-scroll-1536.webp",
+            "sha256": "a388070aa53e2d22fc481ba1b8b5b1119bfdd7cd8edecf3411f1d8b8de286345",
+            "w": 1536
+          },
+          {
+            "bytes": 683834,
+            "h": 776,
+            "path": "webp/child-gripping-wide-foliate-scroll-1996.webp",
+            "sha256": "dab613a4d2b5eb261cd30dd06025fda0a80c4816208168fbe5d033ea52756686",
+            "w": 1996
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "putto",
+        "leaf",
+        "scroll",
+        "stem",
+        "flower",
+        "bud"
+      ],
+      "thumbhash": "IimCAoAZJniJeIB0Hxf4oQa4h4dxiBg=",
+      "title": "Putto gripping a wide leaf scroll",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "The scroll is cut by the plate edge at both ends; it suits a headpiece or a band but will not tile."
+      ],
+      "width": 1996
+    },
+    "female-headed-beasts-candelabrum": {
+      "attribution": "Museum für Kunst und Gewerbe Hamburg O2013.2",
+      "categories": [
+        "fantasy",
+        "hybrids",
+        "scrollwork"
+      ],
+      "colors": [
+        "tan",
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall candelabrum grotesque. A hairy mask at the top holds ribbons and stems in its mouth; below it two feline-bodied beasts with raised tails stand back to back, their long necks ending in two women's heads at the sides, and a blank tablet hangs between them above a palmette. Two flaming bowls stand on fluted brackets at the sides, and two lizard-like beasts grip the stems at the bottom around a cup with ears of grain. Tan-cream fills with dark brown hatching on a transparent background.",
+      "display_width": [
+        120,
+        220
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 49430,
+        "webpTopBytes": 88946
+      },
+      "facing": "viewer",
+      "group": "o2013-2",
+      "height": 467,
+      "master": {
+        "bytes": 181624,
+        "h": 467,
+        "path": "masters/female-headed-beasts-candelabrum.webp",
+        "sha256": "dbc508f0c0dc78ae8ecf9d6cf646c22a65bc5d8616ffba62fca5495a9bacf2f5",
+        "w": 225
+      },
+      "palette": [
+        "#6a6050",
+        "#847965",
+        "#9b8e78",
+        "#d0bfa3",
+        "#b2a38a"
+      ],
+      "provenance": {
+        "artist": "Aldegrever, Heinrich",
+        "date": "1549",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.mkg-hamburg.de/object/dc00101642/image-download/0",
+        "institution": "Museum für Kunst und Gewerbe Hamburg",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "O2013.2",
+        "object_title": "Kandelabergroteske",
+        "record_url": "https://www.mkg-hamburg.de/sammlung/objekt/kandelabergroteske/O2013.2/dc00101642",
+        "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_sha256": "b7f0487b6955fdfaf202605fcdedf2a088e254a7d5037f9aa395fa189f48c70d"
+      },
+      "quality": "Low-resolution master (225 px wide); do not display it larger than its native size.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 7573,
+            "h": 133,
+            "path": "avif/female-headed-beasts-candelabrum-64.avif",
+            "sha256": "ccca042d310348bd779a15421a56352e6af6a4487f9258db7bcd45e4525555b2",
+            "w": 64
+          },
+          {
+            "bytes": 14294,
+            "h": 199,
+            "path": "avif/female-headed-beasts-candelabrum-96.avif",
+            "sha256": "ae1a8e356ab0dcf15d1060a8e350dadac604bbee3f8aa3ef1387b9cb063b79ea",
+            "w": 96
+          },
+          {
+            "bytes": 21997,
+            "h": 266,
+            "path": "avif/female-headed-beasts-candelabrum-128.avif",
+            "sha256": "fead86182b706127ad1e5bddc99ba99791ffaa4715382b1912cc00ce8a5dd1da",
+            "w": 128
+          },
+          {
+            "bytes": 39027,
+            "h": 399,
+            "path": "avif/female-headed-beasts-candelabrum-192.avif",
+            "sha256": "043256d35a59a12c68b104d99ec9de151a306e1d980f37ec51d414787b3944ed",
+            "w": 192
+          },
+          {
+            "bytes": 49430,
+            "h": 467,
+            "path": "avif/female-headed-beasts-candelabrum-225.avif",
+            "sha256": "8ad9f94977f53257d8547c919a8305d2b856e6b5872ab30b10babaf7adb119e2",
+            "w": 225
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 10936,
+            "h": 133,
+            "path": "webp/female-headed-beasts-candelabrum-64.webp",
+            "sha256": "b27ca76882a4a3dd48f0ab38e56553ad7427ff5e23197ba5571220674922f635",
+            "w": 64
+          },
+          {
+            "bytes": 22186,
+            "h": 199,
+            "path": "webp/female-headed-beasts-candelabrum-96.webp",
+            "sha256": "f46708c6b55b5e9f3ae15131896d86f31f5105414eac97c9fdefe260f9633a81",
+            "w": 96
+          },
+          {
+            "bytes": 36480,
+            "h": 266,
+            "path": "webp/female-headed-beasts-candelabrum-128.webp",
+            "sha256": "8fa8c53d03436f781956e6f664c899aa57834187280068f968e832ed9886d5ae",
+            "w": 128
+          },
+          {
+            "bytes": 71452,
+            "h": 399,
+            "path": "webp/female-headed-beasts-candelabrum-192.webp",
+            "sha256": "bad7052d3966cc2fe54fa252aa958ee52f3f562cbe9b9074401872eb3a03a4bb",
+            "w": 192
+          },
+          {
+            "bytes": 88946,
+            "h": 467,
+            "path": "webp/female-headed-beasts-candelabrum-225.webp",
+            "sha256": "170d65a2ea2390c8b8962ee75beff20591eb789a93e9da3b4796da8af7dc829c",
+            "w": 225
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "candelabrum",
+        "mask",
+        "chimera",
+        "woman",
+        "lizard",
+        "cartouche",
+        "flame",
+        "bowl",
+        "palmette",
+        "ribbon"
+      ],
+      "thumbhash": "4BiCAgAaO4cHiXhMi/CkFwhnh4eDlng=",
+      "title": "Candelabrum with female-headed beasts and lizards",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "The blank tablet in the middle can carry a short caption."
+      ],
+      "width": 225
+    },
+    "fish-and-flower-candelabrum-scroll": {
+      "attribution": "Cleveland Museum of Art 1922.128",
+      "categories": [
+        "scrollwork",
+        "floral",
+        "animals",
+        "fantasy"
+      ],
+      "colors": [
+        "black",
+        "gray",
+        "cream"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall narrow symmetrical foliate candelabrum. A thin central shaft rises through tiers of acanthus leaves and volutes; two fish-tailed dolphins with open jaws face each other across the middle, two more look outward at the base, and round roses sit in the volutes near the top under a small finial. Black and grey line work with cream paper-toned fills on a transparent background.",
+      "display_width": [
+        160,
+        360
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 347677,
+        "webpTopBytes": 738622
+      },
+      "facing": "none",
+      "group": "1922-128",
+      "height": 1989,
+      "license": "CC0-1.0",
+      "master": {
+        "bytes": 1983004,
+        "h": 1989,
+        "path": "masters/fish-and-flower-candelabrum-scroll.webp",
+        "sha256": "6bba82a4c8e512c5b581da8666ac73fa2cd49184bbd1aac6b4b5d6f559f7271b",
+        "w": 685
+      },
+      "palette": [
+        "#585149",
+        "#6f685f",
+        "#847c72",
+        "#aca498",
+        "#968e83"
+      ],
+      "provenance": {
+        "artist": "Heinrich Aldegrever (German, 1502–1555/61)",
+        "date": "1552",
+        "image_rights": "CC0-1.0",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1922.128",
+        "object_title": "Ornament Design with Fishes",
+        "record_url": "https://clevelandart.org/art/1922.128",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "88dc8f479e5d525f920c8a1dfe8e38eabee0359bbca68f941049fcd682f2e865"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 10770,
+            "h": 186,
+            "path": "avif/fish-and-flower-candelabrum-scroll-64.avif",
+            "sha256": "60bf4e13cd85e9e1b1cb1b64e61189962f1f93ead94d06de3f8a0c403dafc520",
+            "w": 64
+          },
+          {
+            "bytes": 20002,
+            "h": 279,
+            "path": "avif/fish-and-flower-candelabrum-scroll-96.avif",
+            "sha256": "5b7a1f039afeb7d6aa06dddab58e5bdfbc97437ae7ddb5fba6787c3863ae2120",
+            "w": 96
+          },
+          {
+            "bytes": 31190,
+            "h": 372,
+            "path": "avif/fish-and-flower-candelabrum-scroll-128.avif",
+            "sha256": "1d8239fdfa01851c1763e1911067aee11fab1ac0db8cfb8b8a455a7a85a4bfd6",
+            "w": 128
+          },
+          {
+            "bytes": 56324,
+            "h": 558,
+            "path": "avif/fish-and-flower-candelabrum-scroll-192.avif",
+            "sha256": "897aefd544a011f7c1a6cf5f17c72f3765fe2388fc19496fd97ce0aa12db1109",
+            "w": 192
+          },
+          {
+            "bytes": 85834,
+            "h": 743,
+            "path": "avif/fish-and-flower-candelabrum-scroll-256.avif",
+            "sha256": "2c41622092f79a157ab7edf9ea41a59667144f201ed4d9024f9b9e0154628351",
+            "w": 256
+          },
+          {
+            "bytes": 161641,
+            "h": 1115,
+            "path": "avif/fish-and-flower-candelabrum-scroll-384.avif",
+            "sha256": "97b15930960d68edf864a56301fc7b147dfe35ba1a56221eb742ec2874bfd9cc",
+            "w": 384
+          },
+          {
+            "bytes": 241640,
+            "h": 1487,
+            "path": "avif/fish-and-flower-candelabrum-scroll-512.avif",
+            "sha256": "85fdfcd99d139375c85b67fa388c4fe6eda61b79178fcfb15823e295a2e2c0c4",
+            "w": 512
+          },
+          {
+            "bytes": 347677,
+            "h": 1989,
+            "path": "avif/fish-and-flower-candelabrum-scroll-685.avif",
+            "sha256": "6f35e6b184a1ea6dbe2c140d5f4d2f694f0876d26515008e5068d762888fd0b0",
+            "w": 685
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 15290,
+            "h": 186,
+            "path": "webp/fish-and-flower-candelabrum-scroll-64.webp",
+            "sha256": "5b6c00ff39de8aa924bec849579ba4f8cfde1d814f6c5062e6781dcbe3db9901",
+            "w": 64
+          },
+          {
+            "bytes": 30634,
+            "h": 279,
+            "path": "webp/fish-and-flower-candelabrum-scroll-96.webp",
+            "sha256": "a6aecb50db3364475e795d7394ddc3f84a0a0ce5c092cc0ac04dd5eedb824feb",
+            "w": 96
+          },
+          {
+            "bytes": 49816,
+            "h": 372,
+            "path": "webp/fish-and-flower-candelabrum-scroll-128.webp",
+            "sha256": "1f17cb772099e61fc9ee75cbe120ec197fe6f437e43bd9f3b32190bd62fe1975",
+            "w": 128
+          },
+          {
+            "bytes": 97212,
+            "h": 558,
+            "path": "webp/fish-and-flower-candelabrum-scroll-192.webp",
+            "sha256": "c50c7b3eff573503171bc3ba825048bd2efbf3fea3b3fa10ab12a193abc0b15c",
+            "w": 192
+          },
+          {
+            "bytes": 154912,
+            "h": 743,
+            "path": "webp/fish-and-flower-candelabrum-scroll-256.webp",
+            "sha256": "95ddec7658fbc5d2b796b0e8406242f436f374ea0bf51fff38c49fe2ad4200e3",
+            "w": 256
+          },
+          {
+            "bytes": 301472,
+            "h": 1115,
+            "path": "webp/fish-and-flower-candelabrum-scroll-384.webp",
+            "sha256": "6f6e463051a565112def8bb173372d753b85bd7da8558027f6b24a7ea7419ee4",
+            "w": 384
+          },
+          {
+            "bytes": 475816,
+            "h": 1487,
+            "path": "webp/fish-and-flower-candelabrum-scroll-512.webp",
+            "sha256": "910d2ad83cc4d47ad98fba016e4c4d3100d95b8a2b852c55a970013fb8dfd662",
+            "w": 512
+          },
+          {
+            "bytes": 738622,
+            "h": 1989,
+            "path": "webp/fish-and-flower-candelabrum-scroll-685.webp",
+            "sha256": "032e05ccca5553b87b15e931e8824864d82426dcc9b0ae81c952b894fc6897e4",
+            "w": 685
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "candelabrum",
+        "dolphin",
+        "fish",
+        "rose",
+        "flower",
+        "acanthus",
+        "leaf",
+        "scroll"
+      ],
+      "thumbhash": "XAiCAgAZHFv5KBl4eV+Z9wcHdnd2Z1g=",
+      "title": "Candelabrum with fish and roses",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Very tall piece (about 1 to 3); it suits a page margin or a vertical separator at full height."
+      ],
+      "width": 685
+    },
+    "fluted-vase-with-horns-and-broad-leaf-scroll": {
+      "attribution": "National Gallery of Art, Washington 1943.3.298",
+      "categories": [
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "black",
+        "brown",
+        "cream",
+        "tan"
+      ],
+      "composition": "single-ornament",
+      "description": "A horizontal foliate ornament. A gadrooned vase at the bottom centre sends up a straight stem with layered acanthus leaves, and two flared trumpet-shaped horns lean outward above it; broad curled leaves, hanging bell flowers and pea-pod-like buds spread symmetrically to both sides, with a bell flower cut off at each edge. Brown-black line work with cream and tan paper-toned fills on a transparent background.",
+      "display_width": [
+        400,
+        800
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 346164,
+        "webpTopBytes": 714204
+      },
+      "facing": "none",
+      "group": "1943-3-298",
+      "height": 981,
+      "license": "CC0-1.0",
+      "master": {
+        "bytes": 2114926,
+        "h": 981,
+        "path": "masters/fluted-vase-with-horns-and-broad-leaf-scroll.webp",
+        "sha256": "f03716556bf221190c328545414d405100d3c77db4a5a3e04b014e01baf41ffe",
+        "w": 1563
+      },
+      "palette": [
+        "#847663",
+        "#6b5e4f",
+        "#9e8f79",
+        "#e8d9bd",
+        "#beaf96"
+      ],
+      "provenance": {
+        "artist": "Heinrich Aldegrever",
+        "date": "1532",
+        "institution": "National Gallery of Art, Washington",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1943.3.298",
+        "object_title": "Ornament",
+        "record_url": "https://www.nga.gov/collection/art-object-page.3510.html",
+        "rights_text": "Open Access / public domain; official image dataset openaccess=1",
+        "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+        "source_sha256": "13a81be272e29a803fa2b793c5522aa47f1f40fa70ac22a12ae0c49293588ca7"
+      },
+      "quality": "The bell flowers at the left and right edges are cut by the plate edge of the print.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3022,
+            "h": 40,
+            "path": "avif/fluted-vase-with-horns-and-broad-leaf-scroll-64.avif",
+            "sha256": "a665c01b97f1de2cc97d73deac1acc208b1d7f139b2793e9ada73ff5a2bd7247",
+            "w": 64
+          },
+          {
+            "bytes": 5941,
+            "h": 60,
+            "path": "avif/fluted-vase-with-horns-and-broad-leaf-scroll-96.avif",
+            "sha256": "c350d2c31d497898b06b0e6fbc663183094662250d5e0a3f7fdfbe8535911b7e",
+            "w": 96
+          },
+          {
+            "bytes": 9201,
+            "h": 80,
+            "path": "avif/fluted-vase-with-horns-and-broad-leaf-scroll-128.avif",
+            "sha256": "7e649b76465dfd7a393565e179106a960201dc08d3cd1ddddd1e341f3d239d24",
+            "w": 128
+          },
+          {
+            "bytes": 17100,
+            "h": 121,
+            "path": "avif/fluted-vase-with-horns-and-broad-leaf-scroll-192.avif",
+            "sha256": "a9675f7a4f6de330ab18c4ec0d8e8fe5163addb9d46f0ca3c0317ef4cb5c9cf0",
+            "w": 192
+          },
+          {
+            "bytes": 24867,
+            "h": 161,
+            "path": "avif/fluted-vase-with-horns-and-broad-leaf-scroll-256.avif",
+            "sha256": "6f0b13c369e42a529a72cb695928aba34f13c46b3822b05dc1190d0c6a8fd57e",
+            "w": 256
+          },
+          {
+            "bytes": 44498,
+            "h": 241,
+            "path": "avif/fluted-vase-with-horns-and-broad-leaf-scroll-384.avif",
+            "sha256": "e38a73801599ea8ba1cd3be429f294ea96edb63e1829675bd333a119f38f8cc7",
+            "w": 384
+          },
+          {
+            "bytes": 70951,
+            "h": 321,
+            "path": "avif/fluted-vase-with-horns-and-broad-leaf-scroll-512.avif",
+            "sha256": "08ad13a570b51ff5dbc49b922a4afea41da4dedf1fd2455ee6f4707fb5e2c093",
+            "w": 512
+          },
+          {
+            "bytes": 132914,
+            "h": 482,
+            "path": "avif/fluted-vase-with-horns-and-broad-leaf-scroll-768.avif",
+            "sha256": "7edd9b0502a507212dbb47320ff484d40f156d3586b6e936014672c685a86cfa",
+            "w": 768
+          },
+          {
+            "bytes": 201657,
+            "h": 643,
+            "path": "avif/fluted-vase-with-horns-and-broad-leaf-scroll-1024.avif",
+            "sha256": "458b3a05663e2d954d3c61033656ddfcde228b0438d69a8081f5084393f498de",
+            "w": 1024
+          },
+          {
+            "bytes": 332423,
+            "h": 964,
+            "path": "avif/fluted-vase-with-horns-and-broad-leaf-scroll-1536.avif",
+            "sha256": "bb5a625bcf341ef41302b892df29ae4a6f91b865174c92af609768dda83df34a",
+            "w": 1536
+          },
+          {
+            "bytes": 346164,
+            "h": 981,
+            "path": "avif/fluted-vase-with-horns-and-broad-leaf-scroll-1563.avif",
+            "sha256": "d1e12bba49ee7754ec3ca2d37e2e0762bcc455261d9f1f131fb4ef39fd462666",
+            "w": 1563
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3850,
+            "h": 40,
+            "path": "webp/fluted-vase-with-horns-and-broad-leaf-scroll-64.webp",
+            "sha256": "a908a275f3f85abfb715649869143ac4185f6e26aa275326caec993e70aec333",
+            "w": 64
+          },
+          {
+            "bytes": 7906,
+            "h": 60,
+            "path": "webp/fluted-vase-with-horns-and-broad-leaf-scroll-96.webp",
+            "sha256": "1bb917699e535dcfcf8dc998993423168e68fc51ca13fe8b430fbd67875b0698",
+            "w": 96
+          },
+          {
+            "bytes": 13104,
+            "h": 80,
+            "path": "webp/fluted-vase-with-horns-and-broad-leaf-scroll-128.webp",
+            "sha256": "0d405345d2f9753393f760329d9f9341be3c75db140ad6254c208cb62c4c013b",
+            "w": 128
+          },
+          {
+            "bytes": 26066,
+            "h": 121,
+            "path": "webp/fluted-vase-with-horns-and-broad-leaf-scroll-192.webp",
+            "sha256": "9832feefebc3951a0512f823192365c5265dd26e652c4fe3185162b443b9c529",
+            "w": 192
+          },
+          {
+            "bytes": 41570,
+            "h": 161,
+            "path": "webp/fluted-vase-with-horns-and-broad-leaf-scroll-256.webp",
+            "sha256": "170fc2362e2e312644b7765434ae0519d74af99feb742df721457eabf747f009",
+            "w": 256
+          },
+          {
+            "bytes": 77820,
+            "h": 241,
+            "path": "webp/fluted-vase-with-horns-and-broad-leaf-scroll-384.webp",
+            "sha256": "c351ba31845c961c7e4f26815bcc5f618125e4e7a63bb4e03976dcf68c3c79c9",
+            "w": 384
+          },
+          {
+            "bytes": 124022,
+            "h": 321,
+            "path": "webp/fluted-vase-with-horns-and-broad-leaf-scroll-512.webp",
+            "sha256": "39554ce58a8854f5ea47f33d1c9b9d1d84a25fec89e7abbc370aad5a252a548e",
+            "w": 512
+          },
+          {
+            "bytes": 234668,
+            "h": 482,
+            "path": "webp/fluted-vase-with-horns-and-broad-leaf-scroll-768.webp",
+            "sha256": "77306ac8b39c3a2f52e56b61a8baef73858737344fac9d18502c7fabc0c6ddf2",
+            "w": 768
+          },
+          {
+            "bytes": 381158,
+            "h": 643,
+            "path": "webp/fluted-vase-with-horns-and-broad-leaf-scroll-1024.webp",
+            "sha256": "05a06cda7038adb6c52b3ea1ed32ef7f5c9088c6e5d012d84234af36a7d31bfc",
+            "w": 1024
+          },
+          {
+            "bytes": 701648,
+            "h": 964,
+            "path": "webp/fluted-vase-with-horns-and-broad-leaf-scroll-1536.webp",
+            "sha256": "9d28da44b1e9d211ac49da76d89a7ddbe606c4be5f73235b8701c84a003d01ad",
+            "w": 1536
+          },
+          {
+            "bytes": 714204,
+            "h": 981,
+            "path": "webp/fluted-vase-with-horns-and-broad-leaf-scroll-1563.webp",
+            "sha256": "433cff9e674496412633467362f4c5b9d36d1870d2069663e17b39bcf196a6bd",
+            "w": 1563
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "vase",
+        "horn",
+        "acanthus",
+        "leaf",
+        "scroll",
+        "flower",
+        "bud",
+        "seed"
+      ],
+      "thumbhash": "4RiCA4AZRVdsWIDJbtBvKVhIhohzZgc=",
+      "title": "Fluted vase with trumpet horns and leaf scroll",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Reads as a headpiece or tailpiece with the vase as its base."
+      ],
+      "width": 1563
+    },
+    "leafy-shaft-with-bearded-and-lion-masks": {
+      "attribution": "National Gallery of Art, Washington 1943.3.312",
+      "categories": [
+        "fantasy",
+        "scrollwork",
+        "floral"
+      ],
+      "colors": [
+        "black",
+        "cream",
+        "gray"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall narrow symmetrical foliate ornament. From a hairy bearded mask at the base, flanked by two pod-like gourds on curled stems that end in lion paws, a central shaft rises through a lion mask set in a shield-shaped cartouche, two roses, a ribbon and a bearded mask with wild hair, up to a leafy calyx with two volute horns, beads and hanging buds at the top; thin acanthus stems curl outward along the whole height. Black line work with cream paper-toned fills on a transparent background.",
+      "display_width": [
+        160,
+        360
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 381447,
+        "webpTopBytes": 783218
+      },
+      "facing": "viewer",
+      "group": "1943-3-312",
+      "height": 2167,
+      "license": "CC0-1.0",
+      "master": {
+        "bytes": 1958196,
+        "h": 2047,
+        "path": "masters/leafy-shaft-with-bearded-and-lion-masks.webp",
+        "sha256": "0d98cbab829f437b24e82b7c6ee13388bbcbfe7727c6d898ad61bcee17314e64",
+        "w": 667
+      },
+      "palette": [
+        "#65584a",
+        "#7f6f5d",
+        "#95846e",
+        "#a9967c",
+        "#c1ad90"
+      ],
+      "provenance": {
+        "artist": "Heinrich Aldegrever",
+        "date": "1552",
+        "institution": "National Gallery of Art, Washington",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1943.3.312",
+        "object_title": "Ornament",
+        "record_url": "https://www.nga.gov/collection/art-object-page.3524.html",
+        "rights_text": "Open Access / public domain; official image dataset openaccess=1",
+        "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+        "source_sha256": "6c80f9f9d699c63892dc3a8e5f17473f00b1be593bd40c12476a1c7d6d8f348f"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 11264,
+            "h": 196,
+            "path": "avif/leafy-shaft-with-bearded-and-lion-masks-64.avif",
+            "sha256": "c68157a433d2fe830374caf330c76ef4efa13708ae18c1a8f30e9cd59cf262ee",
+            "w": 64
+          },
+          {
+            "bytes": 21231,
+            "h": 295,
+            "path": "avif/leafy-shaft-with-bearded-and-lion-masks-96.avif",
+            "sha256": "4ccb6971d5bf729c0ba23825f866b1f06b2b8f4373e274e72ec4778c30e2b5c7",
+            "w": 96
+          },
+          {
+            "bytes": 33349,
+            "h": 393,
+            "path": "avif/leafy-shaft-with-bearded-and-lion-masks-128.avif",
+            "sha256": "2e3ddb6df859fe4a1088e4dd146a4cbdb653d047742ab3a3c0973c418acb6ed6",
+            "w": 128
+          },
+          {
+            "bytes": 60196,
+            "h": 589,
+            "path": "avif/leafy-shaft-with-bearded-and-lion-masks-192.avif",
+            "sha256": "de098d7a28b9ee382b83e3429962b2ca241bceab980ce25375a10a501122fbac",
+            "w": 192
+          },
+          {
+            "bytes": 91477,
+            "h": 786,
+            "path": "avif/leafy-shaft-with-bearded-and-lion-masks-256.avif",
+            "sha256": "0ee2c63bb8f8cb5acce9716fe91cf91af57df97e146c651e4ffa09eeb3b33b6f",
+            "w": 256
+          },
+          {
+            "bytes": 169208,
+            "h": 1179,
+            "path": "avif/leafy-shaft-with-bearded-and-lion-masks-384.avif",
+            "sha256": "7136136f36a12618f960594b9a4cc98a2f36918fbed6593f1e29d20ab90e6289",
+            "w": 384
+          },
+          {
+            "bytes": 252857,
+            "h": 1572,
+            "path": "avif/leafy-shaft-with-bearded-and-lion-masks-512.avif",
+            "sha256": "4d0b1a51233256a12c98daa185322003e70eb78a8ab0e2df331229dcd522bf6b",
+            "w": 512
+          },
+          {
+            "bytes": 381447,
+            "h": 2167,
+            "path": "avif/leafy-shaft-with-bearded-and-lion-masks-706.avif",
+            "sha256": "cff1a06dda9ca702f692a23fc8a7da69bf96742fb5fa72dcfa4c2672ce29f84d",
+            "w": 706
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 16334,
+            "h": 196,
+            "path": "webp/leafy-shaft-with-bearded-and-lion-masks-64.webp",
+            "sha256": "bf12dbcd569d5a2a6c9d4b33aeaff4e5f84bbd70b3dc308375c72cc8dbfe5fd2",
+            "w": 64
+          },
+          {
+            "bytes": 32836,
+            "h": 295,
+            "path": "webp/leafy-shaft-with-bearded-and-lion-masks-96.webp",
+            "sha256": "93fd5e2f90d13f6e3b2c77828063f42a1a0be7f6c10aa503a1050fd3152e71c9",
+            "w": 96
+          },
+          {
+            "bytes": 52798,
+            "h": 393,
+            "path": "webp/leafy-shaft-with-bearded-and-lion-masks-128.webp",
+            "sha256": "38cc5bba5f236550f81d5c41a42575a0727e4df3e7be646ea20fc72eeda252c8",
+            "w": 128
+          },
+          {
+            "bytes": 102518,
+            "h": 589,
+            "path": "webp/leafy-shaft-with-bearded-and-lion-masks-192.webp",
+            "sha256": "2abe79332953b20e9cfcbaee1cd44bf931dba646a1be2d48d1a91b80abb26f75",
+            "w": 192
+          },
+          {
+            "bytes": 161902,
+            "h": 786,
+            "path": "webp/leafy-shaft-with-bearded-and-lion-masks-256.webp",
+            "sha256": "84ec9b8b040043a8e0e3e6395a91ea1c04df8efba59aa04d1bd7bcaf75dcaad4",
+            "w": 256
+          },
+          {
+            "bytes": 311074,
+            "h": 1179,
+            "path": "webp/leafy-shaft-with-bearded-and-lion-masks-384.webp",
+            "sha256": "5f6655f653a6c5f7a16b7f0e785180eaca6a76a604fca3cbee6aa903fb4f3105",
+            "w": 384
+          },
+          {
+            "bytes": 494004,
+            "h": 1572,
+            "path": "webp/leafy-shaft-with-bearded-and-lion-masks-512.webp",
+            "sha256": "a48802e953f82b394a6283240416f0caea41b32cba8441172604f498a1d0d9f7",
+            "w": 512
+          },
+          {
+            "bytes": 783218,
+            "h": 2167,
+            "path": "webp/leafy-shaft-with-bearded-and-lion-masks-706.webp",
+            "sha256": "459bac28eae641c7d0cb78ecd508aa92153989bfc28e1f610d4316839fba94d1",
+            "w": 706
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "mask",
+        "beard",
+        "lion",
+        "cartouche",
+        "rose",
+        "flower",
+        "acanthus",
+        "leaf",
+        "scroll",
+        "ribbon",
+        "horn"
+      ],
+      "thumbhash": "3RiCAgAYrYn3Rgetn7rvyghohXd2iGc=",
+      "title": "Leafy shaft with bearded mask and lion mask",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Very tall piece (about 1 to 3); it suits a page margin or a vertical separator at full height."
+      ],
+      "width": 706
+    },
+    "leafy-stems-on-hairy-base": {
+      "attribution": "National Gallery of Art, Washington 1943.3.301",
+      "categories": [
+        "botanical"
+      ],
+      "colors": [
+        "black",
+        "cream",
+        "gray"
+      ],
+      "composition": "single-ornament",
+      "description": "A narrow upright strip cut from the Ornament with Naked Couple sheet. Grass-like stalks with small lobed leaves and buds rise from a rounded tuft of hair-like hatching at the bottom; the left side is a straight cut where the couple stood in the print. Black line work with cream paper-toned fills on a transparent background.",
+      "display_width": [
+        100,
+        200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 27183,
+        "webpTopBytes": 41552
+      },
+      "facing": "none",
+      "group": "1943-3-301",
+      "height": 828,
+      "license": "CC0-1.0",
+      "master": {
+        "bytes": 126680,
+        "h": 828,
+        "path": "masters/leafy-stems-on-hairy-base.webp",
+        "sha256": "941d7696f633fb7f7c337864012c97f628926c2835748ab1ff4d035e45bd42a2",
+        "w": 201
+      },
+      "palette": [
+        "#978f84",
+        "#a9a093",
+        "#847c73",
+        "#d4cbba",
+        "#b9b1a2"
+      ],
+      "provenance": {
+        "artist": "Heinrich Aldegrever",
+        "date": "1532",
+        "image_url": "https://api.nga.gov/iiif/4d055d56-0445-4536-bc24-abb9222d01c2/full/full/0/default.jpg",
+        "institution": "National Gallery of Art, Washington",
+        "method": "native-source-extraction",
+        "object_identifier": "1943.3.301",
+        "object_title": "Ornament with Naked Couple",
+        "record_url": "https://www.nga.gov/collection/art-object-page.3513.html",
+        "rights_text": "Open Access / public domain; official image dataset openaccess=1",
+        "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+        "source_sha256": "72175da7e93941f643aff6367d0344477dc3809d402474a3839ee1790756c182"
+      },
+      "quality": "Low-resolution master (201 px wide) with a straight cut along the left edge; no face is legible in the hairy base despite the id.",
+      "related": [
+        {
+          "asset": "aldegrever-prints/nude-couple-standing",
+          "role": "companion"
+        },
+        {
+          "asset": "aldegrever-prints/tall-grotesque-with-female-and-animal-heads",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 6900,
+            "h": 264,
+            "path": "avif/leafy-stems-on-hairy-base-64.avif",
+            "sha256": "255e5b48935e5f535dbc238be6a2e7fbab6335d7053f9a5e78d62e696bcca8c9",
+            "w": 64
+          },
+          {
+            "bytes": 12413,
+            "h": 395,
+            "path": "avif/leafy-stems-on-hairy-base-96.avif",
+            "sha256": "fbbcd3d197fd259ceae1a62dd132adc8a82eabead9140a0d1afb82cdee3b900c",
+            "w": 96
+          },
+          {
+            "bytes": 17905,
+            "h": 527,
+            "path": "avif/leafy-stems-on-hairy-base-128.avif",
+            "sha256": "a3ddce94f4af4d8b44b89656461fe1aa28a3c024e36acf08f0fa894b277a11ae",
+            "w": 128
+          },
+          {
+            "bytes": 28604,
+            "h": 791,
+            "path": "avif/leafy-stems-on-hairy-base-192.avif",
+            "sha256": "2aaa606c3e7e95b93fffd99ddc1fc795801a3ae5c9fd352ca9b2ede3b35e5c3b",
+            "w": 192
+          },
+          {
+            "bytes": 27183,
+            "h": 828,
+            "path": "avif/leafy-stems-on-hairy-base-201.avif",
+            "sha256": "496d839c4aee300a252e80388f9313481371146d6364dd791e31120c0d1e2796",
+            "w": 201
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 10444,
+            "h": 264,
+            "path": "webp/leafy-stems-on-hairy-base-64.webp",
+            "sha256": "d0e8f744f59a75ef2c01252331fda40a8adb80f71658d43d1fa33e5c0bcb02ae",
+            "w": 64
+          },
+          {
+            "bytes": 18824,
+            "h": 395,
+            "path": "webp/leafy-stems-on-hairy-base-96.webp",
+            "sha256": "50bda730f22e47d8c62401525ef11c2b5b480d1479880ac2d508f04e54ba5407",
+            "w": 96
+          },
+          {
+            "bytes": 28810,
+            "h": 527,
+            "path": "webp/leafy-stems-on-hairy-base-128.webp",
+            "sha256": "7bd4933b265e77ab025d70a954d4ab0468f2ca39741a024f45bf0fc447b4b410",
+            "w": 128
+          },
+          {
+            "bytes": 49524,
+            "h": 791,
+            "path": "webp/leafy-stems-on-hairy-base-192.webp",
+            "sha256": "fca5a5b26201632a935f6791f5999dd0913f12dd7f8731a72cb9eb971ff055c2",
+            "w": 192
+          },
+          {
+            "bytes": 41552,
+            "h": 828,
+            "path": "webp/leafy-stems-on-hairy-base-201.webp",
+            "sha256": "b3f178e192e5f9c4bd322a851a24a5b524d317e7accba8286c1423a2727b97f6",
+            "w": 201
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "leaf",
+        "stem",
+        "bud",
+        "plant"
+      ],
+      "thumbhash": "phiCAQAnj31pmZifjp2Y+Q00wnxmiVc=",
+      "title": "Leafy stems on a hairy base",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Crop from the same sheet as the couple and the tall grotesque; the straight left edge is where it abutted the couple, so place something against that side or keep it at the right of a composition."
+      ],
+      "width": 201
+    },
+    "nude-couple-standing": {
+      "attribution": "National Gallery of Art, Washington 1943.3.301",
+      "categories": [
+        "humans"
+      ],
+      "colors": [
+        "black",
+        "cream",
+        "gray"
+      ],
+      "composition": "multiple-figures",
+      "description": "A nude man and woman stand side by side, cut from the Ornament with Naked Couple sheet. The woman at the left faces the viewer with her head turned toward the man, her braided hair streaming out to the left, a girdle at her hips and a small rod held upright in her right hand; the man at the right stands in profile facing left, one arm around her shoulders and his open hand under hers. Fine black engraved hatching with cream paper-toned skin on a transparent background.",
+      "display_width": [
+        200,
+        400
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 202088,
+        "webpTopBytes": 338578
+      },
+      "facing": "mixed",
+      "group": "1943-3-301",
+      "height": 1925,
+      "license": "CC0-1.0",
+      "master": {
+        "bytes": 1130050,
+        "h": 1925,
+        "path": "masters/nude-couple-standing.webp",
+        "sha256": "2645f53bf20140193bd8f85a463527f7c5aa1218a77e6b1b1a9ab1a9367e9aa3",
+        "w": 786
+      },
+      "palette": [
+        "#b4a999",
+        "#cdc2b0",
+        "#e8deca",
+        "#8f857a",
+        "#a29789"
+      ],
+      "provenance": {
+        "artist": "Heinrich Aldegrever",
+        "date": "1532",
+        "image_url": "https://api.nga.gov/iiif/4d055d56-0445-4536-bc24-abb9222d01c2/full/full/0/default.jpg",
+        "institution": "National Gallery of Art, Washington",
+        "method": "native-source-extraction",
+        "object_identifier": "1943.3.301",
+        "object_title": "Ornament with Naked Couple",
+        "record_url": "https://www.nga.gov/collection/art-object-page.3513.html",
+        "rights_text": "Open Access / public domain; official image dataset openaccess=1",
+        "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+        "source_sha256": "72175da7e93941f643aff6367d0344477dc3809d402474a3839ee1790756c182"
+      },
+      "quality": "Fragments of the woman's hair ribbons at the far left are broken where the neighbouring foliage of the sheet was removed.",
+      "related": [
+        {
+          "asset": "aldegrever-prints/leafy-stems-on-hairy-base",
+          "role": "companion"
+        },
+        {
+          "asset": "aldegrever-prints/tall-grotesque-with-female-and-animal-heads",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4396,
+            "h": 157,
+            "path": "avif/nude-couple-standing-64.avif",
+            "sha256": "badebb397669adda49c7396ac8dad0077714020d582c4c542d6ba70e209ea9b2",
+            "w": 64
+          },
+          {
+            "bytes": 7806,
+            "h": 235,
+            "path": "avif/nude-couple-standing-96.avif",
+            "sha256": "092e9f3ce4c3596929ea97baa8fce0b12a0d4300b462af60b1de48fcccf9dabe",
+            "w": 96
+          },
+          {
+            "bytes": 11689,
+            "h": 313,
+            "path": "avif/nude-couple-standing-128.avif",
+            "sha256": "3b80284b28d1b1e679422c7a724c7e0d987103c1f15218d495eb3ab1f9c123db",
+            "w": 128
+          },
+          {
+            "bytes": 24182,
+            "h": 470,
+            "path": "avif/nude-couple-standing-192.avif",
+            "sha256": "6056570ea263dcff4822b7e2531933bad3cea6550262d2e38c07d45cd4d5d4fd",
+            "w": 192
+          },
+          {
+            "bytes": 40490,
+            "h": 627,
+            "path": "avif/nude-couple-standing-256.avif",
+            "sha256": "83582d452c15fed229a89e531a7364a650925939459a1d98a19cc6d573df0488",
+            "w": 256
+          },
+          {
+            "bytes": 77617,
+            "h": 940,
+            "path": "avif/nude-couple-standing-384.avif",
+            "sha256": "742530506887ef361b79d93fa620e52ce07074e7510bb807c294101707dd14b7",
+            "w": 384
+          },
+          {
+            "bytes": 118814,
+            "h": 1254,
+            "path": "avif/nude-couple-standing-512.avif",
+            "sha256": "f077a93e20642eb332d41d89bff3fb0b134ebdb1f1c60f2c95ac568ad8985e0a",
+            "w": 512
+          },
+          {
+            "bytes": 205161,
+            "h": 1881,
+            "path": "avif/nude-couple-standing-768.avif",
+            "sha256": "5fd9d3302820bb38ee678c1704f3a79642af3d2a2fc8e248118e64993da52ae1",
+            "w": 768
+          },
+          {
+            "bytes": 202088,
+            "h": 1925,
+            "path": "avif/nude-couple-standing-786.avif",
+            "sha256": "5b6bafd05069ad6dda4b7ba07737e3ed30d13d887eefe90acd3d41f00b9bc01c",
+            "w": 786
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 6740,
+            "h": 157,
+            "path": "webp/nude-couple-standing-64.webp",
+            "sha256": "b2f2872fd5f2bf19db7625b4288dcd40432b3be46b92808fc430d61015e1bf6a",
+            "w": 64
+          },
+          {
+            "bytes": 12118,
+            "h": 235,
+            "path": "webp/nude-couple-standing-96.webp",
+            "sha256": "e583b1eb41106543d941d8f5d96400e185f50193e8e521c5970cb59813f34945",
+            "w": 96
+          },
+          {
+            "bytes": 18800,
+            "h": 313,
+            "path": "webp/nude-couple-standing-128.webp",
+            "sha256": "15204a6257e1b1c19d95544133c851f3a9fd267c0a082cb6b960a1e6bf0aadaa",
+            "w": 128
+          },
+          {
+            "bytes": 37446,
+            "h": 470,
+            "path": "webp/nude-couple-standing-192.webp",
+            "sha256": "a4e1673f841abc1dc341fa2f0d1c7294d46c7f6f842765eee0495d6f5acefbfa",
+            "w": 192
+          },
+          {
+            "bytes": 63564,
+            "h": 627,
+            "path": "webp/nude-couple-standing-256.webp",
+            "sha256": "19da8d179ae15413d1aff2d3429178da890d90635b724504eb8af810dc657ef4",
+            "w": 256
+          },
+          {
+            "bytes": 127424,
+            "h": 940,
+            "path": "webp/nude-couple-standing-384.webp",
+            "sha256": "c1e2a44427c9245e618fd008f2bbb63b33e7281caa73e64e7b914a74c9756918",
+            "w": 384
+          },
+          {
+            "bytes": 203422,
+            "h": 1254,
+            "path": "webp/nude-couple-standing-512.webp",
+            "sha256": "595af4c3658abf0d6c7603a4351077a6a8d6fd1c2513b9bd8c59cea00a45d54c",
+            "w": 512
+          },
+          {
+            "bytes": 360748,
+            "h": 1881,
+            "path": "webp/nude-couple-standing-768.webp",
+            "sha256": "4ecbb17ceaccb2f79c0e3fed2137feb9276a8285986868fba1b002da39528c95",
+            "w": 768
+          },
+          {
+            "bytes": 338578,
+            "h": 1925,
+            "path": "webp/nude-couple-standing-786.webp",
+            "sha256": "11aa54dd2d312a04ac1e39a54e4f68cf1417f2636e2ee9a291d911745c7f0e37",
+            "w": 786
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "human",
+        "man",
+        "woman",
+        "rod"
+      ],
+      "thumbhash": "rBiCAgApLXYJVocHgiD3RwU2mXmEVlc=",
+      "title": "Nude couple standing",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Crop from the same sheet as the leafy stems and the tall grotesque; the figures touch at shoulder, hands and feet and must stay together."
+      ],
+      "width": 786
+    },
+    "paired-horns-sprouting-broad-leafy-tendrils": {
+      "attribution": "Metropolitan Museum of Art 27.23.74",
+      "categories": [
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "black",
+        "brown",
+        "cream",
+        "tan"
+      ],
+      "composition": "single-ornament",
+      "description": "A wide horizontal foliate panel. Two short horns rise from a central pair of volutes and are tied together by a bow at the top, with an upright vine leaf between them; broad lobed leaves on curling stems spread symmetrically to both ends, with volutes along the base and a curled leaf at each outer corner. Brown-black line work with cream and tan paper-toned fills on a transparent background.",
+      "display_width": [
+        400,
+        800
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 329662,
+        "webpTopBytes": 689948
+      },
+      "facing": "none",
+      "group": "27-23-74",
+      "height": 791,
+      "license": "CC0-1.0",
+      "master": {
+        "bytes": 2085340,
+        "h": 791,
+        "path": "masters/paired-horns-sprouting-broad-leafy-tendrils.webp",
+        "sha256": "8bb51de31deae05ceea65dbe1b5933ef82c73bda4d817869e9654cde8d8024a3",
+        "w": 1925
+      },
+      "palette": [
+        "#696051",
+        "#857968",
+        "#a19480",
+        "#dbccb3",
+        "#c0b199"
+      ],
+      "provenance": {
+        "artist": "Heinrich Aldegrever",
+        "date": "1525–61",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP836787.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "27.23.74",
+        "object_title": "Horizontal Panel with Two Tendrils Sprouting Upwards from Horns at Center",
+        "record_url": "https://www.metmuseum.org/art/collection/search/422504",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "f538de1b6c43eabfe5a1c0b0ecd2297a52c2caba86dc2119120ff93852428ea7"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2246,
+            "h": 26,
+            "path": "avif/paired-horns-sprouting-broad-leafy-tendrils-64.avif",
+            "sha256": "b2f38ebbdfcb14abd0906c75be8ddcdecda9fc0fb95afb0333a3a15db24bd46a",
+            "w": 64
+          },
+          {
+            "bytes": 3980,
+            "h": 39,
+            "path": "avif/paired-horns-sprouting-broad-leafy-tendrils-96.avif",
+            "sha256": "5ad71bd7f0b4330059a1b0848a1856f94c042a3a4cf932571b78c9f484bb421c",
+            "w": 96
+          },
+          {
+            "bytes": 6442,
+            "h": 53,
+            "path": "avif/paired-horns-sprouting-broad-leafy-tendrils-128.avif",
+            "sha256": "77869ecf3b97e654ffd900d058ca1464643e01aed0ab467d86216b3c1c08c8bf",
+            "w": 128
+          },
+          {
+            "bytes": 11837,
+            "h": 79,
+            "path": "avif/paired-horns-sprouting-broad-leafy-tendrils-192.avif",
+            "sha256": "f09d98eff106ec2d231e9357e8a3800074faeb4b6f296962ced27a83e3748815",
+            "w": 192
+          },
+          {
+            "bytes": 18227,
+            "h": 105,
+            "path": "avif/paired-horns-sprouting-broad-leafy-tendrils-256.avif",
+            "sha256": "05d25abc84fec27241524fd75177f2f6ef2237ad92f267a717d4f8fd38fce198",
+            "w": 256
+          },
+          {
+            "bytes": 33339,
+            "h": 158,
+            "path": "avif/paired-horns-sprouting-broad-leafy-tendrils-384.avif",
+            "sha256": "31033be368cb25d481b0c513b3ab503f3072dd6072b9c7be856a4d7d814196f8",
+            "w": 384
+          },
+          {
+            "bytes": 51876,
+            "h": 210,
+            "path": "avif/paired-horns-sprouting-broad-leafy-tendrils-512.avif",
+            "sha256": "e9b762dfc530cc7ceea5b96f46e5bf65780388e62fded6d4043a0ca8dc1dd3ea",
+            "w": 512
+          },
+          {
+            "bytes": 95205,
+            "h": 316,
+            "path": "avif/paired-horns-sprouting-broad-leafy-tendrils-768.avif",
+            "sha256": "1f1e22c8f81a6f69753952e497d65a8e6cec2a2bf943ff69f54a57a6db5b0c73",
+            "w": 768
+          },
+          {
+            "bytes": 144398,
+            "h": 421,
+            "path": "avif/paired-horns-sprouting-broad-leafy-tendrils-1024.avif",
+            "sha256": "beb6e2bc1f71aca45db16912bd1d6018398a63546ea1001d7e21744ec7998659",
+            "w": 1024
+          },
+          {
+            "bytes": 249707,
+            "h": 631,
+            "path": "avif/paired-horns-sprouting-broad-leafy-tendrils-1536.avif",
+            "sha256": "b720bcc28262deb5381479c74422bd74f4ac25860798c2092283511448fb46d0",
+            "w": 1536
+          },
+          {
+            "bytes": 329662,
+            "h": 791,
+            "path": "avif/paired-horns-sprouting-broad-leafy-tendrils-1925.avif",
+            "sha256": "7373dec98e4980e441227bd852a28166abfbb194275b19eab88f117c306c68e8",
+            "w": 1925
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2678,
+            "h": 26,
+            "path": "webp/paired-horns-sprouting-broad-leafy-tendrils-64.webp",
+            "sha256": "2d8961bc6e2028f4b445642e777fc6ba4bff7880f483c2bc33b85d36465596f9",
+            "w": 64
+          },
+          {
+            "bytes": 5406,
+            "h": 39,
+            "path": "webp/paired-horns-sprouting-broad-leafy-tendrils-96.webp",
+            "sha256": "ef2645cff936157c900100dca17c31c29b05dc4e168e4f33d28e90fb65a58ee1",
+            "w": 96
+          },
+          {
+            "bytes": 8964,
+            "h": 53,
+            "path": "webp/paired-horns-sprouting-broad-leafy-tendrils-128.webp",
+            "sha256": "c7f428b4d1759b3906398b0a801bcdf14386d2b943c0d8e1245c5bc88a8d2c41",
+            "w": 128
+          },
+          {
+            "bytes": 17908,
+            "h": 79,
+            "path": "webp/paired-horns-sprouting-broad-leafy-tendrils-192.webp",
+            "sha256": "aa06ee95fe49c1b1d3adea6c2f145b4c774b882ba808aa823c22fcf22c1ce3f9",
+            "w": 192
+          },
+          {
+            "bytes": 28690,
+            "h": 105,
+            "path": "webp/paired-horns-sprouting-broad-leafy-tendrils-256.webp",
+            "sha256": "4076f4f4c255e62207d1be2e9bff04d96bce91b90726defbee64ac75ab3a94b2",
+            "w": 256
+          },
+          {
+            "bytes": 54938,
+            "h": 158,
+            "path": "webp/paired-horns-sprouting-broad-leafy-tendrils-384.webp",
+            "sha256": "352513730bb99a63535094eaa815d89eda9b641d40958b2e6e92c54458a623db",
+            "w": 384
+          },
+          {
+            "bytes": 88324,
+            "h": 210,
+            "path": "webp/paired-horns-sprouting-broad-leafy-tendrils-512.webp",
+            "sha256": "f4abad1f9c20ac8cbd6383ab94d3b92c8aa49002cba18350c3929198960951eb",
+            "w": 512
+          },
+          {
+            "bytes": 166400,
+            "h": 316,
+            "path": "webp/paired-horns-sprouting-broad-leafy-tendrils-768.webp",
+            "sha256": "382f6126b358546ae15504670a20455709b32e78b781ec680f498e47f71e28b3",
+            "w": 768
+          },
+          {
+            "bytes": 264438,
+            "h": 421,
+            "path": "webp/paired-horns-sprouting-broad-leafy-tendrils-1024.webp",
+            "sha256": "6d30e2093d06540ac8fee320bcdb1a1047af7272f3652e09840061021415cae9",
+            "w": 1024
+          },
+          {
+            "bytes": 508500,
+            "h": 631,
+            "path": "webp/paired-horns-sprouting-broad-leafy-tendrils-1536.webp",
+            "sha256": "f4bb7f574bff647fbbb27c87b77974473a6ca2c5557684cf639ded1dc22d1b4d",
+            "w": 1536
+          },
+          {
+            "bytes": 689948,
+            "h": 791,
+            "path": "webp/paired-horns-sprouting-broad-leafy-tendrils-1925.webp",
+            "sha256": "a67bbc9fcbe8e412092832f6107f12e02b82818fc2c022b434f6704d76d50e65",
+            "w": 1925
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "horn",
+        "leaf",
+        "scroll",
+        "vine",
+        "ribbon"
+      ],
+      "thumbhash": "4RiCAoAaaDWMh3D6isaveEk4h3lwNyY=",
+      "title": "Two horns with vine-leaf scroll",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Complete at both ends; reads as a headpiece or a band."
+      ],
+      "width": 1925
+    },
+    "paired-tendrils": {
+      "attribution": "Metropolitan Museum of Art 26.105.2",
+      "categories": [
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "black",
+        "cream",
+        "gray"
+      ],
+      "composition": "single-ornament",
+      "description": "A horizontal opaque engraved panel on a dark cross-hatched ground. A stem rises from a small block bearing the AG monogram at the bottom centre to a bud at the top, and two leafy tendrils curl outward from it into large volutes at either end, with lobed leaves filling the corners. Cream leaves on a black hatched ground; only the margin outside the panel is transparent.",
+      "display_width": [
+        400,
+        800
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 191429,
+        "webpTopBytes": 360716
+      },
+      "facing": "none",
+      "group": "26-105-2",
+      "height": 599,
+      "master": {
+        "bytes": 1647020,
+        "h": 599,
+        "path": "masters/paired-tendrils.webp",
+        "sha256": "396cd20d925242d4cd622c1f501befc647a4df1fcff2d1c0cb194464f3142c5c",
+        "w": 1800
+      },
+      "palette": [
+        "#534a42",
+        "#6e6357",
+        "#8d806f",
+        "#d1c2ad",
+        "#aa9c8a"
+      ],
+      "provenance": {
+        "artist": "Heinrich Aldegrever",
+        "date": "ca. 1529",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP836788.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "26.105.2",
+        "object_title": "Horizontal Panel with Two Tendrils Sprouting from the Center, Ending in Volutes",
+        "record_url": "https://www.metmuseum.org/art/collection/search/422674",
+        "rights_text": "Public Domain",
+        "rights_url": "https://www.metmuseum.org/art/collection/search/422674",
+        "source_sha256": "dd571bc182e37d863ecd09e7a2774807d77a88a04c5cb13650ff437542f9b53b"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1009,
+            "h": 21,
+            "path": "avif/paired-tendrils-64.avif",
+            "sha256": "d4f2a76f55211e221ee94dd7c1befee3152d64ed8280a89f6c175cefc6cd85d2",
+            "w": 64
+          },
+          {
+            "bytes": 1563,
+            "h": 32,
+            "path": "avif/paired-tendrils-96.avif",
+            "sha256": "94b47eb4a30face7ead6716e2cdcfe527eed408e425244e081dd918bf75ee92c",
+            "w": 96
+          },
+          {
+            "bytes": 2524,
+            "h": 43,
+            "path": "avif/paired-tendrils-128.avif",
+            "sha256": "a24df6587a7a8df1ea31b8762c74e91f5946f8af5ab614b5f4b8c0ae0bd050c4",
+            "w": 128
+          },
+          {
+            "bytes": 4519,
+            "h": 64,
+            "path": "avif/paired-tendrils-192.avif",
+            "sha256": "330781f34b85ead5954f4bff28a1d2339f1eabeda4dc86d395879e6cbc00ff17",
+            "w": 192
+          },
+          {
+            "bytes": 7636,
+            "h": 85,
+            "path": "avif/paired-tendrils-256.avif",
+            "sha256": "0653de3114c4111990f19601aee000447169fe7ce3353dd4d3feb40b52182a5a",
+            "w": 256
+          },
+          {
+            "bytes": 15963,
+            "h": 128,
+            "path": "avif/paired-tendrils-384.avif",
+            "sha256": "c4e6ee6c04b9c917b238d77394c42aa1fb2cddeb6c2812500dffe281b6ff69c4",
+            "w": 384
+          },
+          {
+            "bytes": 28357,
+            "h": 170,
+            "path": "avif/paired-tendrils-512.avif",
+            "sha256": "da3ff1af54995e4cb01f4bebd960eecfeadc332928005bcf228e107b012c3d93",
+            "w": 512
+          },
+          {
+            "bytes": 56399,
+            "h": 256,
+            "path": "avif/paired-tendrils-768.avif",
+            "sha256": "63df40ae20e010b5546d7711b96de9f5d4694f3a45e6031dbc7342a165931a39",
+            "w": 768
+          },
+          {
+            "bytes": 89294,
+            "h": 341,
+            "path": "avif/paired-tendrils-1024.avif",
+            "sha256": "6a23c0d6ff32fe7c7b9aac63b008485499548ddf4e051eefe47cc50e8bd98458",
+            "w": 1024
+          },
+          {
+            "bytes": 154748,
+            "h": 511,
+            "path": "avif/paired-tendrils-1536.avif",
+            "sha256": "48fed52f80dce3508b6d294bf461b91d3697929ade10cf8c596dc2eb1097f09a",
+            "w": 1536
+          },
+          {
+            "bytes": 191429,
+            "h": 599,
+            "path": "avif/paired-tendrils-1800.avif",
+            "sha256": "02b6d6ee54fd7456f46d293661db9e893c64445ed90b4d1aaacbf298f21ec473",
+            "w": 1800
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1068,
+            "h": 21,
+            "path": "webp/paired-tendrils-64.webp",
+            "sha256": "5a7f9161949fb0cc1d613f38e4db5523438e22f30eb1aae760be391b7eeb3865",
+            "w": 64
+          },
+          {
+            "bytes": 2116,
+            "h": 32,
+            "path": "webp/paired-tendrils-96.webp",
+            "sha256": "5379fe0573b0c944b518f0086e487b26b939eccd26495d580d9222abfe2a4b44",
+            "w": 96
+          },
+          {
+            "bytes": 3636,
+            "h": 43,
+            "path": "webp/paired-tendrils-128.webp",
+            "sha256": "b1d4a4fa804f969be591c98833a5f9c7941fec9bde9b39d84e55f584c60a1fed",
+            "w": 128
+          },
+          {
+            "bytes": 6850,
+            "h": 64,
+            "path": "webp/paired-tendrils-192.webp",
+            "sha256": "bf4436fe85e465566209c0605bf523d8b64ed25adaa4cf46df3dac4c2e3456fe",
+            "w": 192
+          },
+          {
+            "bytes": 11312,
+            "h": 85,
+            "path": "webp/paired-tendrils-256.webp",
+            "sha256": "024118f85b8c832b5abc29c0b50a4c4f065eb87f9ea8b8809a4da4eea19a5f80",
+            "w": 256
+          },
+          {
+            "bytes": 24950,
+            "h": 128,
+            "path": "webp/paired-tendrils-384.webp",
+            "sha256": "e45b4be66de183c9874faa3747b9e5b020597f054460d682843f8e1374b4374e",
+            "w": 384
+          },
+          {
+            "bytes": 44438,
+            "h": 170,
+            "path": "webp/paired-tendrils-512.webp",
+            "sha256": "5deee0004796f286f701bdb04f2b222d0e899dadb964d36e415723db54b29923",
+            "w": 512
+          },
+          {
+            "bytes": 93110,
+            "h": 256,
+            "path": "webp/paired-tendrils-768.webp",
+            "sha256": "9830e09bd8d77adc9a5a79fdbbcf8aa60fbe11c23cf8981ea375807be4657e00",
+            "w": 768
+          },
+          {
+            "bytes": 153864,
+            "h": 341,
+            "path": "webp/paired-tendrils-1024.webp",
+            "sha256": "d1e359bffdae1e2ff00b24b72b8447fd3c888e08780c2a3f99562f9505047191",
+            "w": 1024
+          },
+          {
+            "bytes": 294378,
+            "h": 511,
+            "path": "webp/paired-tendrils-1536.webp",
+            "sha256": "69529a9fc01698e33cde0c6e5ebf1f799b1571fd4375aaebdd137f3e47a07c5f",
+            "w": 1536
+          },
+          {
+            "bytes": 360716,
+            "h": 599,
+            "path": "webp/paired-tendrils-1800.webp",
+            "sha256": "434005fe7d7e70b502f5d479df365ef38aa0d4e36b9131a871e4b65bd0592dbb",
+            "w": 1800
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "leaf",
+        "scroll",
+        "vine",
+        "monogram",
+        "stem"
+      ],
+      "thumbhash": "nRiCAoAefml1l1D5gJE7CVZXZnhwaAY=",
+      "title": "Tendril panel with AG monogram",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Opaque panel with its original hatched ground; place it as a plate, not as a cut-out.",
+        "The AG monogram at the bottom centre is part of the print and should stay visible."
+      ],
+      "width": 1800
+    },
+    "seated-child-holding-tall-leafy-scroll": {
+      "attribution": "National Gallery of Art, Washington 1943.3.299",
+      "categories": [
+        "humans",
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "black",
+        "brown",
+        "cream",
+        "tan"
+      ],
+      "composition": "single-ornament",
+      "description": "An upright foliate ornament. A nude putto sits at the bottom centre facing the viewer, holding an upright stem in one hand and a curling stem in the other; from these a tall acanthus scroll branches upward and sideways with broad curled leaves, tulip-like buds and a trumpet flower, filling a roughly rectangular field. Brown-black line work with cream and tan paper-toned fills on a transparent background.",
+      "display_width": [
+        300,
+        600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 310498,
+        "webpTopBytes": 600068
+      },
+      "facing": "viewer",
+      "group": "1943-3-299",
+      "height": 1428,
+      "license": "CC0-1.0",
+      "master": {
+        "bytes": 1827656,
+        "h": 1428,
+        "path": "masters/seated-child-holding-tall-leafy-scroll.webp",
+        "sha256": "2a9622b9a4702c50020aea3ad78d7048ca977d944ab12a914532c7cdf8115821",
+        "w": 1045
+      },
+      "palette": [
+        "#97856d",
+        "#7d6e5b",
+        "#af9b7f",
+        "#cab495",
+        "#e5ceab"
+      ],
+      "provenance": {
+        "artist": "Heinrich Aldegrever",
+        "date": "1532",
+        "institution": "National Gallery of Art, Washington",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1943.3.299",
+        "object_title": "Scroll Ornament with Seated Child",
+        "record_url": "https://www.nga.gov/collection/art-object-page.3511.html",
+        "rights_text": "Open Access / public domain; official image dataset openaccess=1",
+        "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+        "source_sha256": "f1b721853408b514a457665ac9d683a191c2834a5b7c3f2d67d82856dc831012"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 5582,
+            "h": 87,
+            "path": "avif/seated-child-holding-tall-leafy-scroll-64.avif",
+            "sha256": "1c4ea15710a6f755946b22308e6bb1840b492e34564fea4b34bf848e9d410c17",
+            "w": 64
+          },
+          {
+            "bytes": 10349,
+            "h": 131,
+            "path": "avif/seated-child-holding-tall-leafy-scroll-96.avif",
+            "sha256": "bfc6c1bb6aa97d880d6b8f2b0c91e9c9e5983848cfe27923add05f219efe14b1",
+            "w": 96
+          },
+          {
+            "bytes": 15437,
+            "h": 175,
+            "path": "avif/seated-child-holding-tall-leafy-scroll-128.avif",
+            "sha256": "160b0b0c2a5d6376d1cca18590be23af7b538c01b1d4cad9dc7758c8da4ba1b4",
+            "w": 128
+          },
+          {
+            "bytes": 26409,
+            "h": 262,
+            "path": "avif/seated-child-holding-tall-leafy-scroll-192.avif",
+            "sha256": "0d07639fafc0e76fc7cdc853bdd6f91fd4eb35aa78d3083c5a52eec68627b499",
+            "w": 192
+          },
+          {
+            "bytes": 38218,
+            "h": 350,
+            "path": "avif/seated-child-holding-tall-leafy-scroll-256.avif",
+            "sha256": "53ac85eeb48438106d41177e20d9b619aba58c5cf0590556f0ff837b2fc33354",
+            "w": 256
+          },
+          {
+            "bytes": 71564,
+            "h": 525,
+            "path": "avif/seated-child-holding-tall-leafy-scroll-384.avif",
+            "sha256": "2d04e569c8ed8d3c8260cf3ea6e60f2983a66e39e247e3cee975a848891303bc",
+            "w": 384
+          },
+          {
+            "bytes": 112079,
+            "h": 700,
+            "path": "avif/seated-child-holding-tall-leafy-scroll-512.avif",
+            "sha256": "b415218b5695c64a57b3602da20dffd2e967181f7a27cfa3e86863a5c1f9dd16",
+            "w": 512
+          },
+          {
+            "bytes": 202871,
+            "h": 1049,
+            "path": "avif/seated-child-holding-tall-leafy-scroll-768.avif",
+            "sha256": "6701815da069b4aae5ac9f165eec0b546892fb56e130e101d87347cc06d8a335",
+            "w": 768
+          },
+          {
+            "bytes": 292611,
+            "h": 1399,
+            "path": "avif/seated-child-holding-tall-leafy-scroll-1024.avif",
+            "sha256": "9c72e7b2c8115f8a321b18df1b869875632259b2bcd2a86af5da69fa86c56315",
+            "w": 1024
+          },
+          {
+            "bytes": 310498,
+            "h": 1428,
+            "path": "avif/seated-child-holding-tall-leafy-scroll-1045.avif",
+            "sha256": "d0e7cdbe162493587927d7c279c60167373a2b2cb860cdfbb31554669346b84b",
+            "w": 1045
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 7466,
+            "h": 87,
+            "path": "webp/seated-child-holding-tall-leafy-scroll-64.webp",
+            "sha256": "c54072dfb77228a7dd70b3f87232de824b8435e6580cf05f1fc1212458e28159",
+            "w": 64
+          },
+          {
+            "bytes": 14752,
+            "h": 131,
+            "path": "webp/seated-child-holding-tall-leafy-scroll-96.webp",
+            "sha256": "cd113e3cd9319f43cbea4f4143a9eaa3e8999e3f56b95488176c691fda767edf",
+            "w": 96
+          },
+          {
+            "bytes": 23684,
+            "h": 175,
+            "path": "webp/seated-child-holding-tall-leafy-scroll-128.webp",
+            "sha256": "719daeed1efd5797e3e46e0f00f0f2eeebe0112fb246259838ea8ed6937c3a67",
+            "w": 128
+          },
+          {
+            "bytes": 43792,
+            "h": 262,
+            "path": "webp/seated-child-holding-tall-leafy-scroll-192.webp",
+            "sha256": "2935e969bf9d9eb63b8ee443cbb11bae868fd57cc91ec21bfd30320fed453885",
+            "w": 192
+          },
+          {
+            "bytes": 67032,
+            "h": 350,
+            "path": "webp/seated-child-holding-tall-leafy-scroll-256.webp",
+            "sha256": "2148912942cad64abe3aaad7d44fc635604ce3c53aad1e023c5fe70a0bbb7165",
+            "w": 256
+          },
+          {
+            "bytes": 124412,
+            "h": 525,
+            "path": "webp/seated-child-holding-tall-leafy-scroll-384.webp",
+            "sha256": "7f6482fde98ddd9607866764bbf61ba044fa1794bfc2433dd7f1c6a657c37dab",
+            "w": 384
+          },
+          {
+            "bytes": 197874,
+            "h": 700,
+            "path": "webp/seated-child-holding-tall-leafy-scroll-512.webp",
+            "sha256": "eb19d5b28cec934709ff5ce5363bf9c269f5a259d57e6baa918d20578da60c99",
+            "w": 512
+          },
+          {
+            "bytes": 385200,
+            "h": 1049,
+            "path": "webp/seated-child-holding-tall-leafy-scroll-768.webp",
+            "sha256": "3774de5188472fa9ba62822daa58f80e5acf5dc536419002a7e8f023f03c98c3",
+            "w": 768
+          },
+          {
+            "bytes": 587320,
+            "h": 1399,
+            "path": "webp/seated-child-holding-tall-leafy-scroll-1024.webp",
+            "sha256": "1fb515660298f8557b888678965d5448148175d6025f8d22a6d61b847391821c",
+            "w": 1024
+          },
+          {
+            "bytes": 600068,
+            "h": 1428,
+            "path": "webp/seated-child-holding-tall-leafy-scroll-1045.webp",
+            "sha256": "ad3134d9b43e181cb55fc16e911576d4c8a6aa3b88480aff40c37fb6ed7373cf",
+            "w": 1045
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "putto",
+        "acanthus",
+        "leaf",
+        "scroll",
+        "stem",
+        "bud",
+        "flower"
+      ],
+      "thumbhash": "IymCBAAYQGiYVIiJJglmoFGGkEiolWh3Bg==",
+      "title": "Seated putto holding a leaf scroll",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "The putto is the base of the composition; keep it upright."
+      ],
+      "width": 1045
+    },
+    "soldier-profile-in-fruiting-dagger-sheath": {
+      "attribution": "Metropolitan Museum of Art 32.123.2",
+      "categories": [
+        "humans",
+        "botanical"
+      ],
+      "colors": [
+        "black",
+        "cream",
+        "gray"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall tapering ornament designed for a dagger sheath. At the top a helmeted soldier's head in profile faces left inside a wreath of leaves and buds; below it a stem runs down the centre through curled acanthus leaves, a volute and rows of pod-like fruits hanging from short stems, narrowing to a point at the bottom. Black line work with cream paper-toned fills on a transparent background.",
+      "display_width": [
+        100,
+        240
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 172952,
+        "webpTopBytes": 366170
+      },
+      "facing": "left",
+      "group": "32-123-2",
+      "height": 2148,
+      "license": "CC0-1.0",
+      "master": {
+        "bytes": 933618,
+        "h": 2050,
+        "path": "masters/soldier-profile-in-fruiting-dagger-sheath.webp",
+        "sha256": "eda5da4185af0b8b81164f47b1f82850200aa73c087db623a10bc95ad415e69a",
+        "w": 461
+      },
+      "palette": [
+        "#8e877e",
+        "#79726a",
+        "#9f988e",
+        "#b5aea3",
+        "#d3cbc0"
+      ],
+      "provenance": {
+        "artist": "Heinrich Aldegrever",
+        "date": "1535",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP836756.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "32.123.2",
+        "object_title": "Dagger Sheath with Profile of a Soldier Supported by Tendrils",
+        "record_url": "https://www.metmuseum.org/art/collection/search/422496",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "1f80447a8ad6f3907fe09163bcbc25d063f90238a77a538c0cc710ac1fcdc527"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 10194,
+            "h": 285,
+            "path": "avif/soldier-profile-in-fruiting-dagger-sheath-64.avif",
+            "sha256": "dfc280c711e1342cccf920c41a08344ea8d0ca4c3317073fd8f7ddcbdc42cce2",
+            "w": 64
+          },
+          {
+            "bytes": 18199,
+            "h": 427,
+            "path": "avif/soldier-profile-in-fruiting-dagger-sheath-96.avif",
+            "sha256": "872c237d1b28452ab408f0676d91e8f6af65a0816e061bda75b2bf3b830cb400",
+            "w": 96
+          },
+          {
+            "bytes": 27019,
+            "h": 569,
+            "path": "avif/soldier-profile-in-fruiting-dagger-sheath-128.avif",
+            "sha256": "3b6af1531d14d94d4d96e322e675e9555110fe927c33ec2200b4c5cd650f9073",
+            "w": 128
+          },
+          {
+            "bytes": 48326,
+            "h": 854,
+            "path": "avif/soldier-profile-in-fruiting-dagger-sheath-192.avif",
+            "sha256": "26bcdc56f552b48a8d4ece35b96ef0aae045dce182ba165efe7957e48d870bb6",
+            "w": 192
+          },
+          {
+            "bytes": 72901,
+            "h": 1138,
+            "path": "avif/soldier-profile-in-fruiting-dagger-sheath-256.avif",
+            "sha256": "6e7392bc7612a02e74529b08992fbca48909cabc6487c94ef561aef2cac34e05",
+            "w": 256
+          },
+          {
+            "bytes": 130117,
+            "h": 1708,
+            "path": "avif/soldier-profile-in-fruiting-dagger-sheath-384.avif",
+            "sha256": "a5e045e287dae8d21f0f8fcbf5ac47017cb5a12cb5607b2ca42cd6a4ade1d0ac",
+            "w": 384
+          },
+          {
+            "bytes": 172952,
+            "h": 2148,
+            "path": "avif/soldier-profile-in-fruiting-dagger-sheath-483.avif",
+            "sha256": "9a957a4ae4e3140375d02edeff5b43008bd299dd4602032d773a829110838656",
+            "w": 483
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 16034,
+            "h": 285,
+            "path": "webp/soldier-profile-in-fruiting-dagger-sheath-64.webp",
+            "sha256": "5387722eb05f1db36404b5b5381251b604db7ec6e460d448bf5e64430be251cc",
+            "w": 64
+          },
+          {
+            "bytes": 29562,
+            "h": 427,
+            "path": "webp/soldier-profile-in-fruiting-dagger-sheath-96.webp",
+            "sha256": "930885753ad70a4b745e981e55de97b07b6b5318ed3e7ed3cd833a52e9ac5368",
+            "w": 96
+          },
+          {
+            "bytes": 45898,
+            "h": 569,
+            "path": "webp/soldier-profile-in-fruiting-dagger-sheath-128.webp",
+            "sha256": "5f86c4effaa28fd4c3a704bd3f1e23a5f5015e7e455b556fca5eb9d94cd3f39c",
+            "w": 128
+          },
+          {
+            "bytes": 86714,
+            "h": 854,
+            "path": "webp/soldier-profile-in-fruiting-dagger-sheath-192.webp",
+            "sha256": "72f0c6eb2de7b7556fcd67bfdc1b37bf88587e620297d0af5503ffe2b2bd22a3",
+            "w": 192
+          },
+          {
+            "bytes": 138192,
+            "h": 1138,
+            "path": "webp/soldier-profile-in-fruiting-dagger-sheath-256.webp",
+            "sha256": "30567ddb662a0a9f3fdb72eabd11f2130ff894487989415c380196bacbf1956c",
+            "w": 256
+          },
+          {
+            "bytes": 261356,
+            "h": 1708,
+            "path": "webp/soldier-profile-in-fruiting-dagger-sheath-384.webp",
+            "sha256": "4ffdabfd2b046d2c4cfc3be1b067e8923ca3f74217a05e925241d73850beeba0",
+            "w": 384
+          },
+          {
+            "bytes": 366170,
+            "h": 2148,
+            "path": "webp/soldier-profile-in-fruiting-dagger-sheath-483.webp",
+            "sha256": "8ae7f0c7d96f31b67a26f670a41164873b45f7dc64a5950f8f30c0fd3ea97b6c",
+            "w": 483
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "sheath",
+        "weapon",
+        "soldier",
+        "helmet",
+        "face",
+        "fruit",
+        "leaf",
+        "scroll",
+        "stem"
+      ],
+      "thumbhash": "YwiCAQAnT4Q4phcuuJBgOQhXfImFmHg=",
+      "title": "Dagger sheath with soldier's head",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Very tall and narrow (about 1 to 4.5); it suits a page margin or a vertical rule, head at the top."
+      ],
+      "width": 483
+    },
+    "sphinxes-and-cornucopias-in-tall-candelabrum": {
+      "attribution": "Metropolitan Museum of Art 27.23.79",
+      "categories": [
+        "fantasy",
+        "hybrids",
+        "floral",
+        "scrollwork"
+      ],
+      "colors": [
+        "black",
+        "cream",
+        "gray"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall narrow symmetrical candelabrum grotesque. Two winged sphinxes with women's heads sit back to back at the base, their wings rising into volutes; above them two fruit-filled cornucopias cross under a knotted ribbon, two roses sit in the scrolls, a bearded mask with leafy hair faces out from the upper middle between two butterflies, and two large flowers hang from the volutes under a small vase finial, all joined by thin acanthus stems and strings of beads. Black line work with cream paper-toned fills on a transparent background.",
+      "display_width": [
+        160,
+        360
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 393395,
+        "webpTopBytes": 814978
+      },
+      "facing": "viewer",
+      "group": "27-23-79",
+      "height": 2025,
+      "license": "CC0-1.0",
+      "master": {
+        "bytes": 2295666,
+        "h": 2025,
+        "path": "masters/sphinxes-and-cornucopias-in-tall-candelabrum.webp",
+        "sha256": "944f85cf0e574b511cbf0430ac480f34333fc033c8f04c9cb1c814dc25ab6284",
+        "w": 731
+      },
+      "palette": [
+        "#797267",
+        "#8e867a",
+        "#9f9789",
+        "#c3b9a9",
+        "#afa698"
+      ],
+      "provenance": {
+        "artist": "Heinrich Aldegrever",
+        "date": "1552",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP836785.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "27.23.79",
+        "object_title": "Vertical Panel with Candelabrum Grotesques Containing Cornucopias and Sphinxes",
+        "record_url": "https://www.metmuseum.org/art/collection/search/422500",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "ba1b440a570b5eacbbc57e7a6cb995cb86485514c48eb1e801f3176b77181574"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 9525,
+            "h": 177,
+            "path": "avif/sphinxes-and-cornucopias-in-tall-candelabrum-64.avif",
+            "sha256": "8fd95e88bb714726edec76c55ed4772882cf32afe1d3d3a2d53e5cd2de1b0132",
+            "w": 64
+          },
+          {
+            "bytes": 18598,
+            "h": 266,
+            "path": "avif/sphinxes-and-cornucopias-in-tall-candelabrum-96.avif",
+            "sha256": "191637e50446bdf7448c9814c59d4ffdb1000bdbdfdac215b21d6e3891f7ba15",
+            "w": 96
+          },
+          {
+            "bytes": 29336,
+            "h": 355,
+            "path": "avif/sphinxes-and-cornucopias-in-tall-candelabrum-128.avif",
+            "sha256": "df328efae83e38ed7be5c3226a1e649261bbfeba17d8da8d77771a367e4b6ad2",
+            "w": 128
+          },
+          {
+            "bytes": 54646,
+            "h": 532,
+            "path": "avif/sphinxes-and-cornucopias-in-tall-candelabrum-192.avif",
+            "sha256": "3b067c7ae87b2c802a0ccbc7c47052132aabcc3389c33e3cbdcbf0221a716e5b",
+            "w": 192
+          },
+          {
+            "bytes": 84365,
+            "h": 709,
+            "path": "avif/sphinxes-and-cornucopias-in-tall-candelabrum-256.avif",
+            "sha256": "c8bd06754a368140d26942586f19c8ab3e2ed9554145d702b1c7b60b10fc1eee",
+            "w": 256
+          },
+          {
+            "bytes": 159831,
+            "h": 1064,
+            "path": "avif/sphinxes-and-cornucopias-in-tall-candelabrum-384.avif",
+            "sha256": "479de4b97d8b1681cb96b95c8d2ef91e7b3e4afbd46760c8fd76c04f2a7fc017",
+            "w": 384
+          },
+          {
+            "bytes": 245171,
+            "h": 1418,
+            "path": "avif/sphinxes-and-cornucopias-in-tall-candelabrum-512.avif",
+            "sha256": "cc6cf4ef64e57353f776f6ed301a866620eb75d35b23790b5addeca96f90e37f",
+            "w": 512
+          },
+          {
+            "bytes": 393395,
+            "h": 2025,
+            "path": "avif/sphinxes-and-cornucopias-in-tall-candelabrum-731.avif",
+            "sha256": "56539f4b34379f6bbc1e49fbd7ba9db1a7302a0599887e3636ba8f7d3d1dbd34",
+            "w": 731
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 13846,
+            "h": 177,
+            "path": "webp/sphinxes-and-cornucopias-in-tall-candelabrum-64.webp",
+            "sha256": "574600e0c7868ef817e069670343ba1ea35bfe56048fe51a211890187766f56c",
+            "w": 64
+          },
+          {
+            "bytes": 28336,
+            "h": 266,
+            "path": "webp/sphinxes-and-cornucopias-in-tall-candelabrum-96.webp",
+            "sha256": "7cd2e27f9f68803579345c5581092a68540dc1b0262e3f818bb55cd9efdef2ac",
+            "w": 96
+          },
+          {
+            "bytes": 45886,
+            "h": 355,
+            "path": "webp/sphinxes-and-cornucopias-in-tall-candelabrum-128.webp",
+            "sha256": "edfc6ffc792953db8d11c8d7f86310f7010754ef8485bb5208a01e748687c688",
+            "w": 128
+          },
+          {
+            "bytes": 91240,
+            "h": 532,
+            "path": "webp/sphinxes-and-cornucopias-in-tall-candelabrum-192.webp",
+            "sha256": "c83b876c7dc9d55984b2d9eb9b9aa70e7ce5b8cf2a26a2f8ecd914444810c7dc",
+            "w": 192
+          },
+          {
+            "bytes": 147560,
+            "h": 709,
+            "path": "webp/sphinxes-and-cornucopias-in-tall-candelabrum-256.webp",
+            "sha256": "1d4b12f925d13a7610850b63c5bcf8942a093585dd3e49ef842f582fdaf71229",
+            "w": 256
+          },
+          {
+            "bytes": 294684,
+            "h": 1064,
+            "path": "webp/sphinxes-and-cornucopias-in-tall-candelabrum-384.webp",
+            "sha256": "de7ca73f3d73d8d3613b3d95431c41bd5ff82b7fdff714b1cf8c8cb11d05ab39",
+            "w": 384
+          },
+          {
+            "bytes": 471496,
+            "h": 1418,
+            "path": "webp/sphinxes-and-cornucopias-in-tall-candelabrum-512.webp",
+            "sha256": "08abb418b3b5c25be17077218b798935a23cd478d77ceb8d34700bdd2f998f84",
+            "w": 512
+          },
+          {
+            "bytes": 814978,
+            "h": 2025,
+            "path": "webp/sphinxes-and-cornucopias-in-tall-candelabrum-731.webp",
+            "sha256": "e220eaac87dc24697a382183862804e1596c7ca58daade6cdb3a05013be124c4",
+            "w": 731
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "candelabrum",
+        "sphinx",
+        "wings",
+        "cornucopia",
+        "fruit",
+        "rose",
+        "flower",
+        "mask",
+        "beard",
+        "butterfly",
+        "acanthus",
+        "scroll"
+      ],
+      "thumbhash": "oxiCAgAam3KciQZ/MegJlBgHcneJd0g=",
+      "title": "Candelabrum with sphinxes and cornucopias",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Very tall piece (about 1 to 2.8); it suits a page margin or a vertical separator at full height."
+      ],
+      "width": 731
+    },
+    "tall-grotesque-with-female-and-animal-heads": {
+      "attribution": "National Gallery of Art, Washington 1943.3.301",
+      "categories": [
+        "fantasy",
+        "hybrids",
+        "animals",
+        "scrollwork"
+      ],
+      "colors": [
+        "black",
+        "cream",
+        "gray"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall narrow foliate grotesque cut from the Ornament with Naked Couple sheet. A woman's bust with curled ram's horns and leafy wings faces the viewer at the top under two hanging bell flowers; below her a layered acanthus calyx carries two lion-like heads in profile facing inward, a frowning cat-like mask stares out from the centre, and curled leaves descend to a scalloped cup terminal at the bottom. Black line work with cream paper-toned fills on a transparent background.",
+      "display_width": [
+        160,
+        360
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 229013,
+        "webpTopBytes": 376548
+      },
+      "facing": "viewer",
+      "group": "1943-3-301",
+      "height": 2038,
+      "license": "CC0-1.0",
+      "master": {
+        "bytes": 1124082,
+        "h": 2038,
+        "path": "masters/tall-grotesque-with-female-and-animal-heads.webp",
+        "sha256": "53832d93f547df8d2573df052993cb21c00fadce54838c80ec71d45916ed8553",
+        "w": 638
+      },
+      "palette": [
+        "#b8aea0",
+        "#c9c0af",
+        "#e1d8c6",
+        "#a79e91",
+        "#968c81"
+      ],
+      "provenance": {
+        "artist": "Heinrich Aldegrever",
+        "date": "1532",
+        "image_url": "https://api.nga.gov/iiif/4d055d56-0445-4536-bc24-abb9222d01c2/full/full/0/default.jpg",
+        "institution": "National Gallery of Art, Washington",
+        "method": "native-source-extraction",
+        "object_identifier": "1943.3.301",
+        "object_title": "Ornament with Naked Couple",
+        "record_url": "https://www.nga.gov/collection/art-object-page.3513.html",
+        "rights_text": "Open Access / public domain; official image dataset openaccess=1",
+        "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+        "source_sha256": "72175da7e93941f643aff6367d0344477dc3809d402474a3839ee1790756c182"
+      },
+      "related": [
+        {
+          "asset": "aldegrever-prints/leafy-stems-on-hairy-base",
+          "role": "companion"
+        },
+        {
+          "asset": "aldegrever-prints/nude-couple-standing",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 10001,
+            "h": 204,
+            "path": "avif/tall-grotesque-with-female-and-animal-heads-64.avif",
+            "sha256": "5c7f5638022ae5c866f1506f9b5ba9c55ea2665e170b752ebe2c674e05496817",
+            "w": 64
+          },
+          {
+            "bytes": 18160,
+            "h": 307,
+            "path": "avif/tall-grotesque-with-female-and-animal-heads-96.avif",
+            "sha256": "35c4a9b55480de39f81918f4ec2e052a69dabbf456bc010e3f2df96162a44310",
+            "w": 96
+          },
+          {
+            "bytes": 27749,
+            "h": 409,
+            "path": "avif/tall-grotesque-with-female-and-animal-heads-128.avif",
+            "sha256": "af1e6b49fc8c793b48b6197c67857fd921203f4854e177ad16770c1172e56b91",
+            "w": 128
+          },
+          {
+            "bytes": 50239,
+            "h": 613,
+            "path": "avif/tall-grotesque-with-female-and-animal-heads-192.avif",
+            "sha256": "92d06f5fe34ef1d5ef8c755ab88b3f7fa9360a65d37ae29947d466f0cc6f9005",
+            "w": 192
+          },
+          {
+            "bytes": 75403,
+            "h": 818,
+            "path": "avif/tall-grotesque-with-female-and-animal-heads-256.avif",
+            "sha256": "d837e08a0c0a41a66f3b430bfa7f5f4492c2d15ed2dfd500ab7d05d9034df5d4",
+            "w": 256
+          },
+          {
+            "bytes": 128228,
+            "h": 1227,
+            "path": "avif/tall-grotesque-with-female-and-animal-heads-384.avif",
+            "sha256": "199f86d4a287c8b0824382303217b0099a6581736bc5a9e0e7935f2e895df897",
+            "w": 384
+          },
+          {
+            "bytes": 183835,
+            "h": 1636,
+            "path": "avif/tall-grotesque-with-female-and-animal-heads-512.avif",
+            "sha256": "b226be6f0ccf0abd04ea3f69ffd588f4df47c6447f8171a5cd7bd17a8d712fbe",
+            "w": 512
+          },
+          {
+            "bytes": 229013,
+            "h": 2038,
+            "path": "avif/tall-grotesque-with-female-and-animal-heads-638.avif",
+            "sha256": "fc0b6eea7883b9eeb7c2ffd46d4d39e71ac267564618f0d53b087e8ece4354e5",
+            "w": 638
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 13398,
+            "h": 204,
+            "path": "webp/tall-grotesque-with-female-and-animal-heads-64.webp",
+            "sha256": "ca23cdb1886e90180684be4739caa56e646f122db87ce3d2bd3df55120a3c420",
+            "w": 64
+          },
+          {
+            "bytes": 26042,
+            "h": 307,
+            "path": "webp/tall-grotesque-with-female-and-animal-heads-96.webp",
+            "sha256": "a33cb885e784d59270e62b6da60b1178b52b8e621990d3f1263625e3d262a292",
+            "w": 96
+          },
+          {
+            "bytes": 40804,
+            "h": 409,
+            "path": "webp/tall-grotesque-with-female-and-animal-heads-128.webp",
+            "sha256": "dfb8d344ced862e2ac3b8c75c8199cea3ba64323ef7e808449f5a03c3e905caa",
+            "w": 128
+          },
+          {
+            "bytes": 77294,
+            "h": 613,
+            "path": "webp/tall-grotesque-with-female-and-animal-heads-192.webp",
+            "sha256": "454161b89ea62fa55302ef8617becf61ef4729626f778f60872539239d64a5eb",
+            "w": 192
+          },
+          {
+            "bytes": 121478,
+            "h": 818,
+            "path": "webp/tall-grotesque-with-female-and-animal-heads-256.webp",
+            "sha256": "148acf170fc0b97e985a3027a01ac11d44f4a864470e8655b2250a9390b62175",
+            "w": 256
+          },
+          {
+            "bytes": 222402,
+            "h": 1227,
+            "path": "webp/tall-grotesque-with-female-and-animal-heads-384.webp",
+            "sha256": "6fb74775980764b6ce7a0d384ccbacc7e00e1dba8befc983e7ce0432a6ee59a5",
+            "w": 384
+          },
+          {
+            "bytes": 332932,
+            "h": 1636,
+            "path": "webp/tall-grotesque-with-female-and-animal-heads-512.webp",
+            "sha256": "e3beed5eb7687ca3e1979584db9c27cb8ffebc849bfe3e9c579de77a3dfb43bb",
+            "w": 512
+          },
+          {
+            "bytes": 376548,
+            "h": 2038,
+            "path": "webp/tall-grotesque-with-female-and-animal-heads-638.webp",
+            "sha256": "71c4b711cafb1bc13ee068c6b7eb567e105f22b4698f2d6feb0bebb78112fcdc",
+            "w": 638
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "grotesque",
+        "woman",
+        "wings",
+        "horn",
+        "lion",
+        "cat",
+        "mask",
+        "acanthus",
+        "leaf",
+        "scroll",
+        "flower"
+      ],
+      "thumbhash": "rBiCAgAofY9Glmecf2wq+AY2i4mGeFc=",
+      "title": "Grotesque with winged woman and lion heads",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Very tall piece (about 1 to 3.2); it suits a page margin or a vertical separator at full height.",
+        "Crop from the same sheet as the couple and the leafy stems."
+      ],
+      "width": 638
+    },
+    "tall-shaft-with-masks-and-dolphins": {
+      "attribution": "National Gallery of Art, Washington 1943.3.297",
+      "categories": [
+        "fantasy",
+        "scrollwork",
+        "floral"
+      ],
+      "colors": [
+        "black",
+        "brown",
+        "cream",
+        "tan"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall narrow symmetrical foliate ornament. Under a leafy crown at the top two bearded grotesque masks in profile face outward; below them two dolphin-like creatures with open jaws curl away from the shaft, two small roses sit on the stems, a fluted collar holds hanging pear-shaped pods, and tiers of broad acanthus leaves, volutes and pea pods descend to a leafy base. Brown-black line work with cream and tan paper-toned fills on a transparent background.",
+      "display_width": [
+        160,
+        360
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 369799,
+        "webpTopBytes": 716718
+      },
+      "facing": "mixed",
+      "group": "1943-3-297",
+      "height": 2158,
+      "license": "CC0-1.0",
+      "master": {
+        "bytes": 1866072,
+        "h": 2049,
+        "path": "masters/tall-shaft-with-masks-and-dolphins.webp",
+        "sha256": "a89b7f4092225292167aea71fee8243f0b477a70635166994fda50b82fc8bd56",
+        "w": 602
+      },
+      "palette": [
+        "#927c62",
+        "#af987a",
+        "#c3ab89",
+        "#d0b896",
+        "#e7cfaa"
+      ],
+      "provenance": {
+        "artist": "Heinrich Aldegrever",
+        "date": "1530",
+        "institution": "National Gallery of Art, Washington",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1943.3.297",
+        "object_title": "Sprig of Ornamental Foliage with Two Masks and Two Dolphins",
+        "record_url": "https://www.nga.gov/collection/art-object-page.3509.html",
+        "rights_text": "Open Access / public domain; official image dataset openaccess=1",
+        "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+        "source_sha256": "890c1cb8ef807a2dd951cbf78b6e3457d5639f29403ea5113ce3133660d46367"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 11663,
+            "h": 218,
+            "path": "avif/tall-shaft-with-masks-and-dolphins-64.avif",
+            "sha256": "0718d29486235442ac468396b428edd0ca94689d7384c51c2593018399a3f110",
+            "w": 64
+          },
+          {
+            "bytes": 21774,
+            "h": 327,
+            "path": "avif/tall-shaft-with-masks-and-dolphins-96.avif",
+            "sha256": "1238d5c5ed681a7d73da635f936d27acb4e1e6d3cdb0c47d01ad36dd96d52bad",
+            "w": 96
+          },
+          {
+            "bytes": 33828,
+            "h": 436,
+            "path": "avif/tall-shaft-with-masks-and-dolphins-128.avif",
+            "sha256": "cbc677e0ee351b9c0869f5c56d12f00836ed17fa261328fe6e68cb1164725b3f",
+            "w": 128
+          },
+          {
+            "bytes": 62034,
+            "h": 654,
+            "path": "avif/tall-shaft-with-masks-and-dolphins-192.avif",
+            "sha256": "9a289656f19e79d3b17d242107f476dbb67b85ec498c2cf8d0730bb7f944c78b",
+            "w": 192
+          },
+          {
+            "bytes": 96069,
+            "h": 871,
+            "path": "avif/tall-shaft-with-masks-and-dolphins-256.avif",
+            "sha256": "847baeebbec75e7ad896cc609a01d30b0225b5841847272b6b73f407191af08f",
+            "w": 256
+          },
+          {
+            "bytes": 183323,
+            "h": 1307,
+            "path": "avif/tall-shaft-with-masks-and-dolphins-384.avif",
+            "sha256": "53ce13f49784fad0ca1197c8b743c10faad90a8ae006f3ea6bb628c145db206e",
+            "w": 384
+          },
+          {
+            "bytes": 275868,
+            "h": 1743,
+            "path": "avif/tall-shaft-with-masks-and-dolphins-512.avif",
+            "sha256": "23ff0d067cea5ce7ac2cf6b0bdb84f5824dfbf4a6c7967dd0ece55301ca6e13c",
+            "w": 512
+          },
+          {
+            "bytes": 369799,
+            "h": 2158,
+            "path": "avif/tall-shaft-with-masks-and-dolphins-634.avif",
+            "sha256": "91db72ef2158b8873b35689e34c1c031cd282780e1462d02ca4aee65b3043504",
+            "w": 634
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 16964,
+            "h": 218,
+            "path": "webp/tall-shaft-with-masks-and-dolphins-64.webp",
+            "sha256": "6a28e4b9907e18e87b92b3e160e8b124de496ac71d60acf4ef072dd74d4776d8",
+            "w": 64
+          },
+          {
+            "bytes": 33450,
+            "h": 327,
+            "path": "webp/tall-shaft-with-masks-and-dolphins-96.webp",
+            "sha256": "74f415b6bacad86b6e20ef6c4cfdae2490ed762d2c7ed303bcdbed18dafa7137",
+            "w": 96
+          },
+          {
+            "bytes": 53378,
+            "h": 436,
+            "path": "webp/tall-shaft-with-masks-and-dolphins-128.webp",
+            "sha256": "bda059c73f48d93692e7f0f3f00e37f1a8e3053c23dff349a2a53f0ae8c86d18",
+            "w": 128
+          },
+          {
+            "bytes": 103308,
+            "h": 654,
+            "path": "webp/tall-shaft-with-masks-and-dolphins-192.webp",
+            "sha256": "20f22edab56b51b9a379733e0b05c7ac2daab9b145438e4152c3225e8a4d0689",
+            "w": 192
+          },
+          {
+            "bytes": 164100,
+            "h": 871,
+            "path": "webp/tall-shaft-with-masks-and-dolphins-256.webp",
+            "sha256": "7b3c0ee9fcef2e8ae2ce8883d53a79b64ade37bf471f0a75c27c9156803bb5fe",
+            "w": 256
+          },
+          {
+            "bytes": 327990,
+            "h": 1307,
+            "path": "webp/tall-shaft-with-masks-and-dolphins-384.webp",
+            "sha256": "4909501765539dcb01c3a8478a46209c687416ecb53109511a2e7812c6920710",
+            "w": 384
+          },
+          {
+            "bytes": 518530,
+            "h": 1743,
+            "path": "webp/tall-shaft-with-masks-and-dolphins-512.webp",
+            "sha256": "0f96e853da6d7e70a938525d9b890e286b5902999f5c012c5fff1c31183dc88e",
+            "w": 512
+          },
+          {
+            "bytes": 716718,
+            "h": 2158,
+            "path": "webp/tall-shaft-with-masks-and-dolphins-634.webp",
+            "sha256": "e20f940b81ec9c543507775690228d6f202d49049c61cd209d9b4f980b9645b2",
+            "w": 634
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "mask",
+        "beard",
+        "dolphin",
+        "rose",
+        "flower",
+        "acanthus",
+        "leaf",
+        "scroll",
+        "fruit",
+        "seed"
+      ],
+      "thumbhash": "YymCAQAaZ7MJWWVg4CRn+gg4mJl1d2c=",
+      "title": "Leafy shaft with two masks and dolphins",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Very tall piece (about 1 to 3.4); it suits a page margin or a vertical separator at full height."
+      ],
+      "width": 634
+    },
+    "two-boys-with-vine-scroll": {
+      "attribution": "Metropolitan Museum of Art 27.23.78",
+      "categories": [
+        "humans",
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "black",
+        "brown",
+        "cream",
+        "tan"
+      ],
+      "composition": "single-ornament",
+      "description": "A wide horizontal foliate panel. A nude boy stands at the far left facing right, one hand on his hip and the other raised to a stem; a second nude boy stands near the centre facing right, grasping a stem above his head and stretching his other arm along the scroll; thin curling stems with broad lobed vine leaves fill the rest of the panel to the right edge. Brown-black line work with cream and tan paper-toned fills on a transparent background.",
+      "display_width": [
+        400,
+        800
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 337991,
+        "webpTopBytes": 678622
+      },
+      "facing": "right",
+      "group": "27-23-78",
+      "height": 802,
+      "license": "CC0-1.0",
+      "master": {
+        "bytes": 1991890,
+        "h": 802,
+        "path": "masters/two-boys-with-vine-scroll.webp",
+        "sha256": "341220ac417fd013a918f7b311eab20cf40ed7a78f798c8baf2bf13fd24591af",
+        "w": 1952
+      },
+      "palette": [
+        "#d2c4af",
+        "#9b8e7e",
+        "#b5a795",
+        "#6d6357",
+        "#857a6c"
+      ],
+      "provenance": {
+        "artist": "Heinrich Aldegrever",
+        "date": "1549",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP836790.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "27.23.78",
+        "object_title": "Horizontal Panel with Two Nude Boys Surrounded by Tendrils",
+        "record_url": "https://www.metmuseum.org/art/collection/search/422498",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "19337006e4bc7a078d95b294ba85a88c244a23dde9334ed919cc34036f9ab08e"
+      },
+      "quality": "The leaves at the right edge are cut by the plate edge of the print.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2225,
+            "h": 26,
+            "path": "avif/two-boys-with-vine-scroll-64.avif",
+            "sha256": "9cd8ea14cb30d50676d1baa2e7347c188c2bd526bb3bb87e33472019ba4132ad",
+            "w": 64
+          },
+          {
+            "bytes": 4080,
+            "h": 39,
+            "path": "avif/two-boys-with-vine-scroll-96.avif",
+            "sha256": "73db9e3c67a4fabbeb73056ea85cd06b56040a1a0d06e2841fe2876dd9837743",
+            "w": 96
+          },
+          {
+            "bytes": 6730,
+            "h": 53,
+            "path": "avif/two-boys-with-vine-scroll-128.avif",
+            "sha256": "f8633d6c858f2d6124948f55006cbf1462548ba99502c6b6527039509d4f55d9",
+            "w": 128
+          },
+          {
+            "bytes": 12115,
+            "h": 79,
+            "path": "avif/two-boys-with-vine-scroll-192.avif",
+            "sha256": "f5598a037516fc620c0c34ae35d1c3695c8b649c27475f381339635367c4b5da",
+            "w": 192
+          },
+          {
+            "bytes": 18940,
+            "h": 105,
+            "path": "avif/two-boys-with-vine-scroll-256.avif",
+            "sha256": "d9dc7521602176042902f38274d329f4f1b8fb23e246d609374037384100d93a",
+            "w": 256
+          },
+          {
+            "bytes": 33523,
+            "h": 158,
+            "path": "avif/two-boys-with-vine-scroll-384.avif",
+            "sha256": "8c51e9e9d95e1942af3acae5d5ce1938951bb2a7da2df9fb292d6b24b57d4428",
+            "w": 384
+          },
+          {
+            "bytes": 50987,
+            "h": 210,
+            "path": "avif/two-boys-with-vine-scroll-512.avif",
+            "sha256": "b8caa2578fbb1651e5901a8b41ba8850dafb788e46effaa975c9a4c23278df59",
+            "w": 512
+          },
+          {
+            "bytes": 93998,
+            "h": 316,
+            "path": "avif/two-boys-with-vine-scroll-768.avif",
+            "sha256": "6b16e3e75aca850500a6ba27af457349f902a564433712363917e60183258086",
+            "w": 768
+          },
+          {
+            "bytes": 144503,
+            "h": 421,
+            "path": "avif/two-boys-with-vine-scroll-1024.avif",
+            "sha256": "8b1d4df65b20d9be341335c44fa68aa001c2316fb6fb459870412cd653302e78",
+            "w": 1024
+          },
+          {
+            "bytes": 249564,
+            "h": 631,
+            "path": "avif/two-boys-with-vine-scroll-1536.avif",
+            "sha256": "c21b2ff238b96a656eb8a725386397eee4a64f28d28e0a13b0a722a00d685c4d",
+            "w": 1536
+          },
+          {
+            "bytes": 337991,
+            "h": 802,
+            "path": "avif/two-boys-with-vine-scroll-1952.avif",
+            "sha256": "7077c2a207ef66efa2824eb4b7a3b03a9f64c3bd890013200655289c4396ebea",
+            "w": 1952
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2672,
+            "h": 26,
+            "path": "webp/two-boys-with-vine-scroll-64.webp",
+            "sha256": "e6fe45ea452f1d9c6d4182c5cbe84112a460215979a15b60961912c7149c6568",
+            "w": 64
+          },
+          {
+            "bytes": 5412,
+            "h": 39,
+            "path": "webp/two-boys-with-vine-scroll-96.webp",
+            "sha256": "4668a00b4caf120d019282ed003cac8121e9b664fc1a33c24f2cb7f80e4489b4",
+            "w": 96
+          },
+          {
+            "bytes": 8976,
+            "h": 53,
+            "path": "webp/two-boys-with-vine-scroll-128.webp",
+            "sha256": "ad818420b20b1f811e187e8f260d1c6764c40727522617923415f06310b981ef",
+            "w": 128
+          },
+          {
+            "bytes": 17658,
+            "h": 79,
+            "path": "webp/two-boys-with-vine-scroll-192.webp",
+            "sha256": "4202ef3e6ce6c54cacd3e3f43bb313e6f8f0da1456a00726422d78951c4565ee",
+            "w": 192
+          },
+          {
+            "bytes": 28490,
+            "h": 105,
+            "path": "webp/two-boys-with-vine-scroll-256.webp",
+            "sha256": "e083abc3672c984137cdf90409bc1cbc8c2897ed13b3a4599d56788aec4f4f59",
+            "w": 256
+          },
+          {
+            "bytes": 53866,
+            "h": 158,
+            "path": "webp/two-boys-with-vine-scroll-384.webp",
+            "sha256": "af9e506624ff03c5a460b7e2faccd0438784b31df0a8014a6b18ea2a9b145245",
+            "w": 384
+          },
+          {
+            "bytes": 83900,
+            "h": 210,
+            "path": "webp/two-boys-with-vine-scroll-512.webp",
+            "sha256": "35d60f9484c00dd5bf242d5404f6cc1fc910f7ac710e8234ef46c1bbf4add910",
+            "w": 512
+          },
+          {
+            "bytes": 158934,
+            "h": 316,
+            "path": "webp/two-boys-with-vine-scroll-768.webp",
+            "sha256": "95a6f08fda36095a123a95662b151c616306a0884e9f8342c99bed5625899602",
+            "w": 768
+          },
+          {
+            "bytes": 256642,
+            "h": 421,
+            "path": "webp/two-boys-with-vine-scroll-1024.webp",
+            "sha256": "af671d4c51a4f29ee2b0044d23bf3e712a47ac9a391a22cd540a8e119fab358e",
+            "w": 1024
+          },
+          {
+            "bytes": 485344,
+            "h": 631,
+            "path": "webp/two-boys-with-vine-scroll-1536.webp",
+            "sha256": "f1b6107618d3e65da31bafa62b2e1237c3c5f5b83a2597ba40e74ace59fa7162",
+            "w": 1536
+          },
+          {
+            "bytes": 678622,
+            "h": 802,
+            "path": "webp/two-boys-with-vine-scroll-1952.webp",
+            "sha256": "08855344ebaf31ac8017e0063b30250254cf52e2fcb2ff357f4fe96829a36807",
+            "w": 1952
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "putto",
+        "leaf",
+        "vine",
+        "scroll",
+        "stem"
+      ],
+      "thumbhash": "pRiCAoAZZAViiFSwhwmKiDyJp5Zwhyk=",
+      "title": "Two putti in a vine-leaf scroll",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Reads left to right as a headpiece or a band; the figures anchor the left half."
+      ],
+      "width": 1952
+    },
+    "two-children-in-tall-fruiting-leaf-scroll": {
+      "attribution": "Museum für Kunst und Gewerbe Hamburg O1907.751",
+      "categories": [
+        "humans",
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "tan",
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall narrow foliate panel. Two putti sit at the bottom, one in a short tunic facing right behind a nude one facing the viewer, both holding stems; above them a dense scroll of thin stems with lobed leaves, buds and pod-like fruits fills the whole height. Tan-cream fills with dark brown hatching on a transparent background.",
+      "display_width": [
+        80,
+        140
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 38238,
+        "webpTopBytes": 60886
+      },
+      "facing": "mixed",
+      "group": "o1907-751",
+      "height": 469,
+      "master": {
+        "bytes": 116756,
+        "h": 469,
+        "path": "masters/two-children-in-tall-fruiting-leaf-scroll.webp",
+        "sha256": "195a658867669854b4fbea791e4044b152ad825dbf695442f2cb7619efac88bc",
+        "w": 143
+      },
+      "palette": [
+        "#817561",
+        "#998c76",
+        "#ad9f87",
+        "#dbcaae",
+        "#c3b499"
+      ],
+      "provenance": {
+        "artist": "Aldegrever, Heinrich",
+        "date": "1535",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.mkg-hamburg.de/object/dc00101613/image-download/0",
+        "institution": "Museum für Kunst und Gewerbe Hamburg",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "O1907.751",
+        "object_title": "Laubwerkfüllung mit zwei Putten",
+        "record_url": "https://www.mkg-hamburg.de/sammlung/objekt/laubwerkfullung-zwei-putten/O1907.751/dc00101613",
+        "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_sha256": "fd932fde6ef96937a03b2b5fca870dcc31e0f02b259a24bda4539f46d580a0d5"
+      },
+      "quality": "Low-resolution master (143 px wide); do not display it larger than its native size.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 11137,
+            "h": 210,
+            "path": "avif/two-children-in-tall-fruiting-leaf-scroll-64.avif",
+            "sha256": "bfa782ec81ab1c3537d636cc5b94a989185eae05ae608d9d9f196bd2223b2b88",
+            "w": 64
+          },
+          {
+            "bytes": 20435,
+            "h": 315,
+            "path": "avif/two-children-in-tall-fruiting-leaf-scroll-96.avif",
+            "sha256": "e6c10614b9edaf5dc0fd86f66f745be1c51f16ccfa80ef7fa0b9ad6df8fe7e01",
+            "w": 96
+          },
+          {
+            "bytes": 30890,
+            "h": 420,
+            "path": "avif/two-children-in-tall-fruiting-leaf-scroll-128.avif",
+            "sha256": "28f64ea3c3c8bd60f2dbe5574d94d8616c51a18cf28c9f163c20e1b9c63746e4",
+            "w": 128
+          },
+          {
+            "bytes": 38238,
+            "h": 469,
+            "path": "avif/two-children-in-tall-fruiting-leaf-scroll-143.avif",
+            "sha256": "54969189b2c97600566d8ab3da13a261dbf4c450a3b56391487d0ff78e1b7863",
+            "w": 143
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 15998,
+            "h": 210,
+            "path": "webp/two-children-in-tall-fruiting-leaf-scroll-64.webp",
+            "sha256": "656d34ce736eee05acb99f3244e157587fcd09a14aa5b0fdfd0007f406d26f4a",
+            "w": 64
+          },
+          {
+            "bytes": 32312,
+            "h": 315,
+            "path": "webp/two-children-in-tall-fruiting-leaf-scroll-96.webp",
+            "sha256": "09f98693876471b8446680342a84e7e0e932c2c312b925d0c349493d5234b668",
+            "w": 96
+          },
+          {
+            "bytes": 52544,
+            "h": 420,
+            "path": "webp/two-children-in-tall-fruiting-leaf-scroll-128.webp",
+            "sha256": "3921830a6e19b363a1e73ced3a4a90e49f76b6964360656e73a30f2716585402",
+            "w": 128
+          },
+          {
+            "bytes": 60886,
+            "h": 469,
+            "path": "webp/two-children-in-tall-fruiting-leaf-scroll-143.webp",
+            "sha256": "c7e4fb212bb338fc9ff6e76d9350370f7719b949dc02773de64e667bb20e1632",
+            "w": 143
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "putto",
+        "leaf",
+        "scroll",
+        "stem",
+        "bud",
+        "fruit"
+      ],
+      "thumbhash": "5BiCAgAoeHBapnhwVwF3VwhHhXiGZ2g=",
+      "title": "Two putti under a tall leaf scroll",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Very tall piece (about 1 to 3.3); it suits a page margin at a small size."
+      ],
+      "width": 143
+    },
+    "two-satyr-couples-on-foliate-candelabrum": {
+      "attribution": "Metropolitan Museum of Art 2012.136.787",
+      "categories": [
+        "fantasy",
+        "hybrids",
+        "humans",
+        "scrollwork"
+      ],
+      "colors": [
+        "black",
+        "cream",
+        "gray"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall candelabrum grotesque in two tiers. At the top two satyrs seated on scrolls, a long-haired one at the left and a goat-horned bearded one at the right, raise a tiered fluted vase of foliage with a small lizard among its leaves; a palmette separates the tiers. Below, a female satyr with a plumed headdress at the left and a bearded male at the right sit facing a horned goat skull at the centre, each holding a curved horn; all four have goat legs and hooves. Black line work with cream paper-toned fills on a transparent background.",
+      "display_width": [
+        240,
+        480
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 347709,
+        "webpTopBytes": 696502
+      },
+      "facing": "mixed",
+      "group": "2012-136-787",
+      "height": 1752,
+      "license": "CC0-1.0",
+      "master": {
+        "bytes": 2224818,
+        "h": 1752,
+        "path": "masters/two-satyr-couples-on-foliate-candelabrum.webp",
+        "sha256": "5acfed8d599e4ef099ea061a7903545749b882d783c93cfa6d29bd15668840ae",
+        "w": 830
+      },
+      "palette": [
+        "#857a6c",
+        "#9a8e7f",
+        "#aea291",
+        "#d5c8b5",
+        "#c0b4a2"
+      ],
+      "provenance": {
+        "artist": "Heinrich Aldegrever",
+        "date": "1549",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP828530.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "2012.136.787",
+        "object_title": "Ornament with Two Couples of Satyrs",
+        "record_url": "https://www.metmuseum.org/art/collection/search/399020",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "1b0298217d17dbcc2bfc39193d7737144253e4ca2c6d43c22269d9494d440cf2"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 6722,
+            "h": 135,
+            "path": "avif/two-satyr-couples-on-foliate-candelabrum-64.avif",
+            "sha256": "3efd14a47ca148394fe3e3e2ec3b91c0b69e78361f6decf82bcb2ca7214c0b0e",
+            "w": 64
+          },
+          {
+            "bytes": 12609,
+            "h": 203,
+            "path": "avif/two-satyr-couples-on-foliate-candelabrum-96.avif",
+            "sha256": "8600373274dc72bad20fa50bfaffba68e00781e9700569300e038b0a2dfe69bb",
+            "w": 96
+          },
+          {
+            "bytes": 19634,
+            "h": 270,
+            "path": "avif/two-satyr-couples-on-foliate-candelabrum-128.avif",
+            "sha256": "f873fe2a175c05587891aea92f81b3c6e1bc51f7ff43bfb6f938960841d99aed",
+            "w": 128
+          },
+          {
+            "bytes": 36540,
+            "h": 405,
+            "path": "avif/two-satyr-couples-on-foliate-candelabrum-192.avif",
+            "sha256": "eaa9d2705ceea75a2ad56fbf4f5cb34b728e8fa4b2619ba3df5809c5a3983314",
+            "w": 192
+          },
+          {
+            "bytes": 59046,
+            "h": 540,
+            "path": "avif/two-satyr-couples-on-foliate-candelabrum-256.avif",
+            "sha256": "6f5e66d13b3393e29033e0f5a97cf83a8f238560181407b22bce4db479167756",
+            "w": 256
+          },
+          {
+            "bytes": 116149,
+            "h": 811,
+            "path": "avif/two-satyr-couples-on-foliate-candelabrum-384.avif",
+            "sha256": "88c6f004780f89f92f48dca23f8122e0ce423bde94bb3e5c5af1b818a6e688a5",
+            "w": 384
+          },
+          {
+            "bytes": 182924,
+            "h": 1081,
+            "path": "avif/two-satyr-couples-on-foliate-candelabrum-512.avif",
+            "sha256": "ef1b6e0ee155649a89918888df47dc5cfaaf17c85600186da97dff7ec049222a",
+            "w": 512
+          },
+          {
+            "bytes": 313715,
+            "h": 1621,
+            "path": "avif/two-satyr-couples-on-foliate-candelabrum-768.avif",
+            "sha256": "2d9f4f0b2bb8746aaaf943b1271adecc31193ef03766e503d055f3bb598f2c16",
+            "w": 768
+          },
+          {
+            "bytes": 347709,
+            "h": 1752,
+            "path": "avif/two-satyr-couples-on-foliate-candelabrum-830.avif",
+            "sha256": "d2935bcb759524c31323370e586546377afb31a3f536ce5e1f9e05ceb2d24be4",
+            "w": 830
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 9628,
+            "h": 135,
+            "path": "webp/two-satyr-couples-on-foliate-candelabrum-64.webp",
+            "sha256": "d10c4bb4f682f9aed3546e3d4966c5f485a5c213a2b563f451bfcb9f7625bdc1",
+            "w": 64
+          },
+          {
+            "bytes": 19252,
+            "h": 203,
+            "path": "webp/two-satyr-couples-on-foliate-candelabrum-96.webp",
+            "sha256": "b76ee1a6681019637e1285fed03197bdf18ddf437c6a80c30b0909dcdcc31bf0",
+            "w": 96
+          },
+          {
+            "bytes": 31130,
+            "h": 270,
+            "path": "webp/two-satyr-couples-on-foliate-candelabrum-128.webp",
+            "sha256": "983d37784d0513632464aecf79acd920025f211a32d8ec46347253f66d18d18a",
+            "w": 128
+          },
+          {
+            "bytes": 59862,
+            "h": 405,
+            "path": "webp/two-satyr-couples-on-foliate-candelabrum-192.webp",
+            "sha256": "61a7684d9120108ca4e52d4819107400e16f4589375f1f39f2b6520f7c4356ef",
+            "w": 192
+          },
+          {
+            "bytes": 98268,
+            "h": 540,
+            "path": "webp/two-satyr-couples-on-foliate-candelabrum-256.webp",
+            "sha256": "20ca26343cb378caeb60bc32dc298ab9497a0f2df4d18652bd0628713a800c9d",
+            "w": 256
+          },
+          {
+            "bytes": 198714,
+            "h": 811,
+            "path": "webp/two-satyr-couples-on-foliate-candelabrum-384.webp",
+            "sha256": "6f686dbd8fe1f6662d0feea0bc115ad2a0ab53e8a3e9592fa2bd640cfb2db8d6",
+            "w": 384
+          },
+          {
+            "bytes": 325290,
+            "h": 1081,
+            "path": "webp/two-satyr-couples-on-foliate-candelabrum-512.webp",
+            "sha256": "0d8e99c7c80081740b407aa1e7ed269b4273d4b06b9b894d04e9bcfd3e8c98ad",
+            "w": 512
+          },
+          {
+            "bytes": 623872,
+            "h": 1621,
+            "path": "webp/two-satyr-couples-on-foliate-candelabrum-768.webp",
+            "sha256": "0f496ffb618dddb563e5cec2299e91e7756d9dd8e770c84677dbbb2e64cd0b99",
+            "w": 768
+          },
+          {
+            "bytes": 696502,
+            "h": 1752,
+            "path": "webp/two-satyr-couples-on-foliate-candelabrum-830.webp",
+            "sha256": "6e0a0a9402e5cbd3652abc7804964edea9dbb6ab99017fbe2809fec83f2da30a",
+            "w": 830
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "candelabrum",
+        "satyr",
+        "goat",
+        "skull",
+        "horn",
+        "vase",
+        "leaf",
+        "lizard",
+        "palmette"
+      ],
+      "thumbhash": "phiCAgAbmXQJWGfGgDIYBwYXh4Zldkc=",
+      "title": "Candelabrum with two pairs of satyrs",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Upright piece (about 1 to 2); the two tiers can be cropped apart at the palmette if a shorter piece is needed."
+      ],
+      "width": 830
+    },
+    "urn-with-three-tiers-of-foliate-scrolls": {
+      "attribution": "Museum für Kunst und Gewerbe Hamburg O1907.754",
+      "categories": [
+        "floral",
+        "scrollwork",
+        "fantasy"
+      ],
+      "colors": [
+        "tan",
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall narrow symmetrical candelabrum. From a gadrooned urn at the bottom a central shaft rises through three tiers of paired volutes, each holding a large round flower, past a shouting mask in the lower middle and a blank tablet in the upper middle, to a cup with ears of grain at the top; thin acanthus stems with small leaves and beads fill the sides. Tan-cream fills with dark brown hatching on a transparent background.",
+      "display_width": [
+        90,
+        170
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 48380,
+        "webpTopBytes": 79606
+      },
+      "facing": "viewer",
+      "group": "o1907-754",
+      "height": 467,
+      "master": {
+        "bytes": 162820,
+        "h": 467,
+        "path": "masters/urn-with-three-tiers-of-foliate-scrolls.webp",
+        "sha256": "f2b5da5acbd16b0dbe9b865f30f89dd54fa81e73f31168377fb42b3d9aac2e7e",
+        "w": 171
+      },
+      "palette": [
+        "#978b75",
+        "#a59980",
+        "#857a65",
+        "#c5b69a",
+        "#b3a58b"
+      ],
+      "provenance": {
+        "artist": "Aldegrever, Heinrich",
+        "date": "1552",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.mkg-hamburg.de/object/dc00101615/image-download/0",
+        "institution": "Museum für Kunst und Gewerbe Hamburg",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "O1907.754",
+        "object_title": "Kandelabergroteske",
+        "record_url": "https://www.mkg-hamburg.de/sammlung/objekt/kandelabergroteske/O1907.754/dc00101615",
+        "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_sha256": "4b27bfc564d36cf946774ddc9fbe386bc71ddb3e47555cf93f4cb84518aa3b8c"
+      },
+      "quality": "Low-resolution master (171 px wide); do not display it larger than its native size.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 10294,
+            "h": 175,
+            "path": "avif/urn-with-three-tiers-of-foliate-scrolls-64.avif",
+            "sha256": "94c6f65bbfc9fb8421007a94391588e0c4d7d5359602a69ba156d36a8c6954a6",
+            "w": 64
+          },
+          {
+            "bytes": 19715,
+            "h": 262,
+            "path": "avif/urn-with-three-tiers-of-foliate-scrolls-96.avif",
+            "sha256": "1afa03252205884b418eeeb9842d7b03cc88305507ea9636d1b1667c520ddcd3",
+            "w": 96
+          },
+          {
+            "bytes": 30688,
+            "h": 350,
+            "path": "avif/urn-with-three-tiers-of-foliate-scrolls-128.avif",
+            "sha256": "b1404fab81245a85541371598d7e6d4948ff52133f6c5044b37c322c0af516fb",
+            "w": 128
+          },
+          {
+            "bytes": 48380,
+            "h": 467,
+            "path": "avif/urn-with-three-tiers-of-foliate-scrolls-171.avif",
+            "sha256": "8f9e1e8a77e4daff8f410cab6cf6a82e4712b95a3bed9160fca5e2b4b3079202",
+            "w": 171
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 14592,
+            "h": 175,
+            "path": "webp/urn-with-three-tiers-of-foliate-scrolls-64.webp",
+            "sha256": "a2e95091840e432440b435245d1bdeb6b5f2b1cf26bb29fe501f1368c9df7f20",
+            "w": 64
+          },
+          {
+            "bytes": 29870,
+            "h": 262,
+            "path": "webp/urn-with-three-tiers-of-foliate-scrolls-96.webp",
+            "sha256": "f3a675f93a5f459ce324aaacbaaa854952abd6005b4c63c0da22efa9e246bc15",
+            "w": 96
+          },
+          {
+            "bytes": 49684,
+            "h": 350,
+            "path": "webp/urn-with-three-tiers-of-foliate-scrolls-128.webp",
+            "sha256": "cf70e418b6c3bb693eecea560f59fc0a97d1f163e712a88464c074ce6ae9ace0",
+            "w": 128
+          },
+          {
+            "bytes": 79606,
+            "h": 467,
+            "path": "webp/urn-with-three-tiers-of-foliate-scrolls-171.webp",
+            "sha256": "837b5a27b550d002f05b4aa442f62442a3483fc93d02e06daa6e3ecde8115775",
+            "w": 171
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "candelabrum",
+        "urn",
+        "flower",
+        "mask",
+        "cartouche",
+        "acanthus",
+        "leaf",
+        "scroll"
+      ],
+      "thumbhash": "4xiCAgAZCGU3eBcKaLFVBQg4iHeFdmg=",
+      "title": "Urn candelabrum with three tiers of flowers",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "The blank tablet in the upper middle can carry a short caption."
+      ],
+      "width": 171
+    }
+  },
+  "attribution": "Cleveland Museum of Art, Metropolitan Museum of Art, Museum für Kunst und Gewerbe Hamburg, National Gallery of Art, Washington",
+  "builtAt": "2026-10-28T19:24:21.872Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-aldegrever-prints@1.0.0/",
+  "contentHash": "sha256:fad52752877208aa148000beaefcb614fc97870fec563e4817b75c7c01cf9c17",
+  "inputsHash": "sha256:fa469a40d1363212b085227da788bf2ebb47aadc21ffa68e8086c71d5e5e1200",
+  "kind": "historical",
+  "license": {
+    "artwork": "LicenseRef-PDM",
+    "notes": "The Hamburg sheets carry the Public Domain Mark; the Cleveland, Metropolitan and Washington sheets are CC0 and say so on the asset. See SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-aldegrever-prints-masters",
+  "package": "@ranx729/ducktape-assets-aldegrever-prints",
+  "period": "ca. 1525–1555",
+  "region": "Soest, Westphalia",
+  "schema": 1,
+  "set": "aldegrever-prints",
+  "style": "Renaissance engraving",
+  "summary": "Foliate panels, candelabrum grotesques, masks, satyrs, children and a dagger sheath engraved by Heinrich Aldegrever in Soest, about 1525–1555, from twenty sheets in Cleveland, New York, Hamburg and Washington; loose prints by one artist, grouped by sheet.",
+  "title": "Heinrich Aldegrever ornament prints",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

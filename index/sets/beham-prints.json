@@ -1,0 +1,1628 @@
+{
+  "assets": {
+    "candelabrum-with-two-blindfolded-women": {
+      "attribution": "National Gallery of Art, Washington 1943.3.1124",
+      "categories": [
+        "fantasy",
+        "humans",
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "cream",
+        "black",
+        "brown"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall, narrow, symmetrical engraved candelabrum. At the top a winged putto stands on a leafy cushion with both arms raised, gripping the curled tips of two acanthus volutes. Below him a lobed cup, a gadrooned bowl and a baluster stem with a second small bowl, each stage flanked by mirrored acanthus scrolls and leaf sprays. At the base two nude blindfolded women kneel back to back with spiral volutes in place of arms and carry the shaft on their heads. Black ink line work on cream paper, background transparent.",
+      "display_width": [
+        120,
+        300
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 422128,
+        "webpTopBytes": 735936
+      },
+      "facing": "none",
+      "group": "1943-3-1124",
+      "height": 3969,
+      "license": "CC0-1.0",
+      "master": {
+        "bytes": 951682,
+        "h": 2050,
+        "path": "masters/candelabrum-with-two-blindfolded-women.webp",
+        "sha256": "6fc8101417e3db3169a347687276edcc0f16b8dfd17c3e87e7bfdf4989b3f886",
+        "w": 345
+      },
+      "palette": [
+        "#87796a",
+        "#6d6058",
+        "#9d8d7b",
+        "#b1a08a",
+        "#cab89e"
+      ],
+      "provenance": {
+        "artist": "Sebald Beham",
+        "date": "1527",
+        "image_url": "https://api.nga.gov/iiif/856e5bd3-3852-4884-94e1-50ea4c8b44fb/full/full/0/default.jpg",
+        "institution": "National Gallery of Art, Washington",
+        "method": "native-source-extraction",
+        "object_identifier": "1943.3.1124",
+        "object_title": "Panel of Ornament with Candelabra Supported by Two Blindfolded Women",
+        "record_url": "https://www.nga.gov/collection/art-object-page.4342.html",
+        "rights_text": "Open Access / public domain; official image dataset openaccess=1",
+        "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+        "source_sha256": "bb3572d81c8158b018e6610ac5dee17dce31a41b3b1968e6e9f7f3065f8be556"
+      },
+      "quality": "The bottom edge between the two women is cut straight where the date panel of the print was removed.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 13956,
+            "h": 380,
+            "path": "avif/candelabrum-with-two-blindfolded-women-64.avif",
+            "sha256": "0f7feee83918af03d541f502547eb92db43b84d4cc1032dcb61a7d4ab455e3f0",
+            "w": 64
+          },
+          {
+            "bytes": 25486,
+            "h": 570,
+            "path": "avif/candelabrum-with-two-blindfolded-women-96.avif",
+            "sha256": "388b5730831b0532399738ebd362201022e3b376653716551bdd09874a4800a6",
+            "w": 96
+          },
+          {
+            "bytes": 40351,
+            "h": 761,
+            "path": "avif/candelabrum-with-two-blindfolded-women-128.avif",
+            "sha256": "1c447f94a2b3d12884f4668fca8822c62fbc8b8afad7f6ab6ecc9f5584bcae18",
+            "w": 128
+          },
+          {
+            "bytes": 77723,
+            "h": 1141,
+            "path": "avif/candelabrum-with-two-blindfolded-women-192.avif",
+            "sha256": "20730b876a8f2614514290a67b6d42c67626495310484030c6da8015e102005d",
+            "w": 192
+          },
+          {
+            "bytes": 120666,
+            "h": 1521,
+            "path": "avif/candelabrum-with-two-blindfolded-women-256.avif",
+            "sha256": "7d3860dc751fc61823d825eec63188c6c6f5cee10fd5b186cafdf07ab4b08955",
+            "w": 256
+          },
+          {
+            "bytes": 211681,
+            "h": 2282,
+            "path": "avif/candelabrum-with-two-blindfolded-women-384.avif",
+            "sha256": "136454a9d9cdff953fc752773e391a7070826438c273f2d5b25d7007129c0d7f",
+            "w": 384
+          },
+          {
+            "bytes": 310795,
+            "h": 3042,
+            "path": "avif/candelabrum-with-two-blindfolded-women-512.avif",
+            "sha256": "276d7626b68068a957ff5ba5c9ccc4bfd0e74c6590ba20fe564608282b508c8f",
+            "w": 512
+          },
+          {
+            "bytes": 422128,
+            "h": 3969,
+            "path": "avif/candelabrum-with-two-blindfolded-women-668.avif",
+            "sha256": "b8c2da6927061fe1e4dc0d707ea768f0a6e9bf6a8aaf191dc9aeea2936ccff05",
+            "w": 668
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 21054,
+            "h": 380,
+            "path": "webp/candelabrum-with-two-blindfolded-women-64.webp",
+            "sha256": "f8d6924979e015c939561e42bddd42eb6cf4c9d673791a5e1194430d59f9a74e",
+            "w": 64
+          },
+          {
+            "bytes": 40336,
+            "h": 570,
+            "path": "webp/candelabrum-with-two-blindfolded-women-96.webp",
+            "sha256": "9a1a913010d1b72363a6b4e61cc85f4614556090fc401b4f02a12f3da9f7b814",
+            "w": 96
+          },
+          {
+            "bytes": 64086,
+            "h": 761,
+            "path": "webp/candelabrum-with-two-blindfolded-women-128.webp",
+            "sha256": "5d3820f301dc340075d31017842a9592812cc3feeed59532ac8c881dccdddb47",
+            "w": 128
+          },
+          {
+            "bytes": 124978,
+            "h": 1141,
+            "path": "webp/candelabrum-with-two-blindfolded-women-192.webp",
+            "sha256": "8d507c271e4abc66ff8d8df3d05cc2abfbfc09e08bfc00f4a0fbea646b80a5dd",
+            "w": 192
+          },
+          {
+            "bytes": 200108,
+            "h": 1521,
+            "path": "webp/candelabrum-with-two-blindfolded-women-256.webp",
+            "sha256": "b1b04e515ff088b8eba6eadaa2a0bea215df5e007e4d16350bf3db695e1f990f",
+            "w": 256
+          },
+          {
+            "bytes": 376830,
+            "h": 2282,
+            "path": "webp/candelabrum-with-two-blindfolded-women-384.webp",
+            "sha256": "2a140787403ed429b4501756cd35813df3001e8e2755d0106f77e41754aa4d5c",
+            "w": 384
+          },
+          {
+            "bytes": 565494,
+            "h": 3042,
+            "path": "webp/candelabrum-with-two-blindfolded-women-512.webp",
+            "sha256": "bdeed5d6b298515d0d1e27ab2c60322e68fee26e69101b787d6a88f969041bfb",
+            "w": 512
+          },
+          {
+            "bytes": 735936,
+            "h": 3969,
+            "path": "webp/candelabrum-with-two-blindfolded-women-668.webp",
+            "sha256": "0b6dbf2ace6711e1aec552c4595d755958db4052b8591fb358b7e1e99ec07e5a",
+            "w": 668
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "candelabrum",
+        "putto",
+        "wings",
+        "woman",
+        "blindfold",
+        "acanthus",
+        "leaf",
+        "scroll",
+        "bowl"
+      ],
+      "thumbhash": "oBiGAQArX4eZWGdPhfhGyAgodneHl4g=",
+      "title": "Candelabrum carried by two blindfolded women",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Complete vertical ornament about six times taller than wide; it reads as a column or a page edge, not as a divider.",
+        "The date and monogram panel that sits below the two women in the print is not included."
+      ],
+      "width": 668
+    },
+    "centaurs-and-riders-foliate-frieze": {
+      "attribution": "National Gallery of Art, Washington 1943.3.1052",
+      "categories": [
+        "fantasy",
+        "hybrids",
+        "humans",
+        "botanical"
+      ],
+      "colors": [
+        "cream",
+        "black",
+        "brown"
+      ],
+      "composition": "multiple-figures",
+      "description": "A horizontal engraved frieze of four centaurs, two on each side, rearing toward the centre. The two inner centaurs, bearded and leaf-crowned, each carry a young rider and together grip a leafy spray that rises from a small bowl at the bottom centre; the two outer centaurs carry nude women who hold long feathery fronds arching over the ends. Trefoil sprigs and a low band of acanthus scrolls run between the hooves. Black ink line work on cream paper, no rules, background transparent.",
+      "display_width": [
+        600,
+        1200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 279575,
+        "webpTopBytes": 571278
+      },
+      "facing": "mixed",
+      "group": "1943-3-1052",
+      "height": 693,
+      "license": "CC0-1.0",
+      "master": {
+        "bytes": 1874700,
+        "h": 679,
+        "path": "masters/centaurs-and-riders-foliate-frieze.webp",
+        "sha256": "cf60a294cf8911d14e07249cf36a80af7ca15cd87697ab7fa5a835678128d7cc",
+        "w": 2048
+      },
+      "palette": [
+        "#907d65",
+        "#776653",
+        "#a69175",
+        "#d6bd99",
+        "#bca585"
+      ],
+      "provenance": {
+        "artist": "Sebald Beham",
+        "date": "1521",
+        "institution": "National Gallery of Art, Washington",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1943.3.1052",
+        "object_title": "Frieze with Centaurs",
+        "record_url": "https://www.nga.gov/collection/art-object-page.4270.html",
+        "rights_text": "Open Access / public domain; official image dataset openaccess=1",
+        "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+        "source_sha256": "e06daa09be73b5d6222da2465b7776bb7cdd9a37a4d7995ae4fd7ee9acfb6d42"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1835,
+            "h": 21,
+            "path": "avif/centaurs-and-riders-foliate-frieze-64.avif",
+            "sha256": "caefc0cf8a2500253d96dc6265a8868af3633d2261a3056373705ad072b79609",
+            "w": 64
+          },
+          {
+            "bytes": 3230,
+            "h": 32,
+            "path": "avif/centaurs-and-riders-foliate-frieze-96.avif",
+            "sha256": "437b40efcde4613208412f4d69dc4586a0476e91d47d1b921b81aba307631c01",
+            "w": 96
+          },
+          {
+            "bytes": 4979,
+            "h": 42,
+            "path": "avif/centaurs-and-riders-foliate-frieze-128.avif",
+            "sha256": "20777ed1d95c835e564f0d8a1e52afb3335012cecc4b867309d178948e36debe",
+            "w": 128
+          },
+          {
+            "bytes": 8701,
+            "h": 64,
+            "path": "avif/centaurs-and-riders-foliate-frieze-192.avif",
+            "sha256": "121e2550261063eeee3ce37c94d6e7a59eb82b27e2c7d48092d1a76d7e5928c4",
+            "w": 192
+          },
+          {
+            "bytes": 13046,
+            "h": 85,
+            "path": "avif/centaurs-and-riders-foliate-frieze-256.avif",
+            "sha256": "2ac7b371cf89de5617280a0fa84afde3727fb3e7a5150f915a4e6601039c4d27",
+            "w": 256
+          },
+          {
+            "bytes": 23520,
+            "h": 127,
+            "path": "avif/centaurs-and-riders-foliate-frieze-384.avif",
+            "sha256": "6092499f93935e351e5332be14e90e1733c05de3f8a23ea6b0460079ed6b1285",
+            "w": 384
+          },
+          {
+            "bytes": 35543,
+            "h": 170,
+            "path": "avif/centaurs-and-riders-foliate-frieze-512.avif",
+            "sha256": "b67f9fd3275d0858ab870d1f0029bcf248ce46a10226986cf7bb38c3a0c79495",
+            "w": 512
+          },
+          {
+            "bytes": 67370,
+            "h": 255,
+            "path": "avif/centaurs-and-riders-foliate-frieze-768.avif",
+            "sha256": "e921123872b420fc4ecef32a200c5f5f8056f327b16f788b61a36435a2dc3eef",
+            "w": 768
+          },
+          {
+            "bytes": 106829,
+            "h": 339,
+            "path": "avif/centaurs-and-riders-foliate-frieze-1024.avif",
+            "sha256": "db2b3c72275e837923c972655c567a32c4f6f67f26f76a38d5032a380f5ad5ed",
+            "w": 1024
+          },
+          {
+            "bytes": 194425,
+            "h": 509,
+            "path": "avif/centaurs-and-riders-foliate-frieze-1536.avif",
+            "sha256": "1039a19e36e3e3ceb199ff44f7b7bf21a58cc3bf539a16304e4dd43f7fdd189a",
+            "w": 1536
+          },
+          {
+            "bytes": 279575,
+            "h": 679,
+            "path": "avif/centaurs-and-riders-foliate-frieze-2048.avif",
+            "sha256": "a3eba30ee58602f2fff82e21c5cdf56a3d7365f2a0f34fa60e81f1b52dec7ae4",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2130,
+            "h": 21,
+            "path": "webp/centaurs-and-riders-foliate-frieze-64.webp",
+            "sha256": "c0e5f98c81f069cb9efd70986a693d37e2d166a212351f636427b26a846faa24",
+            "w": 64
+          },
+          {
+            "bytes": 4172,
+            "h": 32,
+            "path": "webp/centaurs-and-riders-foliate-frieze-96.webp",
+            "sha256": "099abd305cd6db78e08a712396d629c982927ae6275944686ffad4eac1df44d1",
+            "w": 96
+          },
+          {
+            "bytes": 6836,
+            "h": 42,
+            "path": "webp/centaurs-and-riders-foliate-frieze-128.webp",
+            "sha256": "d5c3a19cddf7676fbbf1805714de8ebb5b11cafbe30394580874eb5780461c89",
+            "w": 128
+          },
+          {
+            "bytes": 13180,
+            "h": 64,
+            "path": "webp/centaurs-and-riders-foliate-frieze-192.webp",
+            "sha256": "ef0731a67fcd4ee63dc05fb39105f02a5062ca271c3b25f92658e454668deaf4",
+            "w": 192
+          },
+          {
+            "bytes": 20634,
+            "h": 85,
+            "path": "webp/centaurs-and-riders-foliate-frieze-256.webp",
+            "sha256": "5d20810663d3e7f0ff5a4f8575f7ef0c6da5d2b8735fd74b8c6bffb5a5e83961",
+            "w": 256
+          },
+          {
+            "bytes": 38774,
+            "h": 127,
+            "path": "webp/centaurs-and-riders-foliate-frieze-384.webp",
+            "sha256": "164724ac1c828800181211d57b2a7d38b987620a6a83c56944a45921342406ba",
+            "w": 384
+          },
+          {
+            "bytes": 60780,
+            "h": 170,
+            "path": "webp/centaurs-and-riders-foliate-frieze-512.webp",
+            "sha256": "5b8de4a9f83d8ab419bc715b8819518baaaffe00ba31271d2f81d40b235b041b",
+            "w": 512
+          },
+          {
+            "bytes": 118312,
+            "h": 255,
+            "path": "webp/centaurs-and-riders-foliate-frieze-768.webp",
+            "sha256": "bf624b4cc6c23281893faa04e6071afd8af201295116e4ce5becec7dae76030e",
+            "w": 768
+          },
+          {
+            "bytes": 189398,
+            "h": 339,
+            "path": "webp/centaurs-and-riders-foliate-frieze-1024.webp",
+            "sha256": "0b0bba46f52db2e83d072c3ee77cf1859196388bc8acef6101cbf49252d02c13",
+            "w": 1024
+          },
+          {
+            "bytes": 368128,
+            "h": 509,
+            "path": "webp/centaurs-and-riders-foliate-frieze-1536.webp",
+            "sha256": "24723187438feb13b8c124553096f22c0c34c379b4d8d0532c964bc2f160a70d",
+            "w": 1536
+          },
+          {
+            "bytes": 571278,
+            "h": 679,
+            "path": "webp/centaurs-and-riders-foliate-frieze-2048.webp",
+            "sha256": "e34a9690d05dbfb2650a54f61d15d72a0fde868e58e7d61212dbb8d21316bfe9",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "frieze",
+        "centaur",
+        "rider",
+        "woman",
+        "beard",
+        "leaf",
+        "bowl",
+        "scroll"
+      ],
+      "thumbhash": "ISmCAoAqxGZ8daDwfSCfN1hneHlwZ1g=",
+      "title": "Frieze of four centaurs with riders",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Complete band about three times wider than tall; the fronds at both ends are its natural terminals, so no cropping is needed."
+      ],
+      "width": 2091
+    },
+    "double-cup-with-two-putti": {
+      "attribution": "Museum für Kunst und Gewerbe Hamburg O1919.19",
+      "categories": [
+        "humans",
+        "scrollwork",
+        "botanical"
+      ],
+      "colors": [
+        "cream",
+        "black",
+        "gray"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall, symmetrical engraved double cup. A round foot and knopped stem carry a bulbous lower bowl, a wide band decorated with masks, lozenges and strapwork, and an inverted upper bowl topped by a small cup; thin leafy tendrils with two small birds rise from the sides and tasselled pendants hang at the left and right. At the base two winged putti sit on either side of the stem, each resting a hand on a blank strapwork cartouche. Black ink line work on cream paper, background transparent.",
+      "display_width": [
+        150,
+        300
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 48342,
+        "webpTopBytes": 81430
+      },
+      "facing": "none",
+      "group": "o1919-19",
+      "height": 469,
+      "master": {
+        "bytes": 192890,
+        "h": 469,
+        "path": "masters/double-cup-with-two-putti.webp",
+        "sha256": "76577e5ea5989b68f75d864954495df729dd7dd47f916e20f92b0d8f717be039",
+        "w": 264
+      },
+      "palette": [
+        "#736b5d",
+        "#897f70",
+        "#988d7d",
+        "#a99e8c",
+        "#c6b9a5"
+      ],
+      "provenance": {
+        "artist": "Beham, Hans Sebald",
+        "date": "1531",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.mkg-hamburg.de/object/dc00101707/image-download/0",
+        "institution": "Museum für Kunst und Gewerbe Hamburg",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "O1919.19",
+        "object_title": "Doppelpokal, unten zwei Putti mit Wappenschilden",
+        "record_url": "https://www.mkg-hamburg.de/sammlung/objekt/doppelpokal-unten-zwei-putti-wappenschilden/O1919.19/dc00101707",
+        "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_sha256": "a7107d63eed5b21979e77a271d2e10f87c10816a336eaf2bbadd5a2e51267049"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 5308,
+            "h": 114,
+            "path": "avif/double-cup-with-two-putti-64.avif",
+            "sha256": "dc62d703b5e1365bc9c3ffc96f2e7fff0ae8444bdc136b7c0cc1d05ac70c0331",
+            "w": 64
+          },
+          {
+            "bytes": 9688,
+            "h": 171,
+            "path": "avif/double-cup-with-two-putti-96.avif",
+            "sha256": "02f7014d3362c0cf21a1aec8c942737b334b52e7f48ab9d7e4d21db8d9785826",
+            "w": 96
+          },
+          {
+            "bytes": 15363,
+            "h": 227,
+            "path": "avif/double-cup-with-two-putti-128.avif",
+            "sha256": "d2621e5078cb078779329ba5fd695c26853c3b1fdf5a3013fe537d966cfd1d9f",
+            "w": 128
+          },
+          {
+            "bytes": 29175,
+            "h": 341,
+            "path": "avif/double-cup-with-two-putti-192.avif",
+            "sha256": "84b7d556b1586123c8f53fbb70b4dadb2fa017d1a170e9d3483d6a2a80d6b110",
+            "w": 192
+          },
+          {
+            "bytes": 44291,
+            "h": 455,
+            "path": "avif/double-cup-with-two-putti-256.avif",
+            "sha256": "0c8d4fc9ff25eb2bd320364dea02080687a2080b62584d21c14c091303b8cd9e",
+            "w": 256
+          },
+          {
+            "bytes": 48342,
+            "h": 469,
+            "path": "avif/double-cup-with-two-putti-264.avif",
+            "sha256": "c2897d52b5c1541be631f6894725ebe1cd9b34e1bb4611c68f14113e8316d6ca",
+            "w": 264
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 7474,
+            "h": 114,
+            "path": "webp/double-cup-with-two-putti-64.webp",
+            "sha256": "f88e3162bf1279f52e032fb3126dd5a3318523ffb6aa426a2a3844825db6c5ec",
+            "w": 64
+          },
+          {
+            "bytes": 15330,
+            "h": 171,
+            "path": "webp/double-cup-with-two-putti-96.webp",
+            "sha256": "f9e623b8a438e66d89ebac9d7eeb65611ac00b492bfea7b855556b68aece6b2a",
+            "w": 96
+          },
+          {
+            "bytes": 24866,
+            "h": 227,
+            "path": "webp/double-cup-with-two-putti-128.webp",
+            "sha256": "867903ddcff18acfbf3b748a72d9502fb7a289e83d2c0fe1f6db200afda8077c",
+            "w": 128
+          },
+          {
+            "bytes": 49158,
+            "h": 341,
+            "path": "webp/double-cup-with-two-putti-192.webp",
+            "sha256": "051e68211064da2372063d3c373d24327bc2f59bee2b00bc10038a4ed63c6d0d",
+            "w": 192
+          },
+          {
+            "bytes": 78550,
+            "h": 455,
+            "path": "webp/double-cup-with-two-putti-256.webp",
+            "sha256": "10fb37339981c4a85b9f5bc876802d09a40c17a103b9a7e20b3bf2307ca1ad06",
+            "w": 256
+          },
+          {
+            "bytes": 81430,
+            "h": 469,
+            "path": "webp/double-cup-with-two-putti-264.webp",
+            "sha256": "2770e181d18763f68ba36d829cbf2f29b6a1a971071b981bf7a4b341aac9704f",
+            "w": 264
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "cup",
+        "putto",
+        "wings",
+        "cartouche",
+        "mask",
+        "leaf",
+        "scroll",
+        "pendant",
+        "bird"
+      ],
+      "thumbhash": "oRiCAwAap4C0eQancF0K6AdHhIVymWc=",
+      "title": "Double cup with two putti",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "The two cartouches at the base are blank and small; the piece is a goldsmith's design, not a frame for text."
+      ],
+      "width": 264
+    },
+    "horned-helmet-with-leafy-mantling-and-shield": {
+      "attribution": "Museum für Kunst und Gewerbe Hamburg O1915.1",
+      "categories": [
+        "royalty",
+        "botanical"
+      ],
+      "colors": [
+        "cream",
+        "black",
+        "gray"
+      ],
+      "composition": "single-ornament",
+      "description": "An engraved coat of arms. A tilted shield bears a diagonal band charged with three small shields. Above it a closed tilting helmet turned to the right carries a crest of two tall curved horns with trumpet-shaped ends. Leafy mantling hangs from knotted ties on each side of the helmet and curls down around the shield in scalloped acanthus fronds. Black ink line work on cream paper, background transparent.",
+      "display_width": [
+        200,
+        450
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 45007,
+        "webpTopBytes": 78452
+      },
+      "facing": "right",
+      "group": "o1915-1",
+      "height": 479,
+      "master": {
+        "bytes": 217384,
+        "h": 479,
+        "path": "masters/horned-helmet-with-leafy-mantling-and-shield.webp",
+        "sha256": "07de53b3aa34a188f11ef259360902379325a9b189050b549b8f72dc60bebd68",
+        "w": 450
+      },
+      "palette": [
+        "#cdc0a8",
+        "#898070",
+        "#a99e8b",
+        "#6f685b",
+        "#544e44"
+      ],
+      "provenance": {
+        "artist": "Beham, Hans Sebald",
+        "date": "1544",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.mkg-hamburg.de/object/dc00101701/image-download/0",
+        "institution": "Museum für Kunst und Gewerbe Hamburg",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "O1915.1",
+        "object_title": "Wappen von Hans Sebald Beham",
+        "record_url": "https://www.mkg-hamburg.de/sammlung/objekt/wappen-hans-sebald-beham/O1915.1/dc00101701",
+        "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_sha256": "51954596d36a0a7f33c8283429aa0c3f25587f3bf8eace18db450956f3df1475"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2843,
+            "h": 68,
+            "path": "avif/horned-helmet-with-leafy-mantling-and-shield-64.avif",
+            "sha256": "962b8b528ecf76982d5380d1ef848933ed80d48b8cfb8110e0cc0bc84c7b81fa",
+            "w": 64
+          },
+          {
+            "bytes": 4968,
+            "h": 102,
+            "path": "avif/horned-helmet-with-leafy-mantling-and-shield-96.avif",
+            "sha256": "53f371586580a7c8ad37afcb1e259b7d9eb7b4bcb193eb4330e970bd2b453055",
+            "w": 96
+          },
+          {
+            "bytes": 6732,
+            "h": 136,
+            "path": "avif/horned-helmet-with-leafy-mantling-and-shield-128.avif",
+            "sha256": "c3b230918adfd0f5ee21b2ffabb4e4602aea45cac4b72606625d65519e4ad290",
+            "w": 128
+          },
+          {
+            "bytes": 11740,
+            "h": 204,
+            "path": "avif/horned-helmet-with-leafy-mantling-and-shield-192.avif",
+            "sha256": "8d54b67cc2a58bcc17321aaf9b2bbe0c8fba6894843eb3c8ce4b8cec0c9c1342",
+            "w": 192
+          },
+          {
+            "bytes": 18149,
+            "h": 272,
+            "path": "avif/horned-helmet-with-leafy-mantling-and-shield-256.avif",
+            "sha256": "a420a51988247aec1cb96926a1d1ddbddc5dafa5e9bec86ed3c8c9e129e7b057",
+            "w": 256
+          },
+          {
+            "bytes": 34336,
+            "h": 409,
+            "path": "avif/horned-helmet-with-leafy-mantling-and-shield-384.avif",
+            "sha256": "d326e8ef4f012192cfbc1bb4bc3410e112b14c94ad4fd1f6360f3842bbf967e3",
+            "w": 384
+          },
+          {
+            "bytes": 45007,
+            "h": 479,
+            "path": "avif/horned-helmet-with-leafy-mantling-and-shield-450.avif",
+            "sha256": "fd3c5b41c2ef4db1a80c18528ef5ad7e599cf5a293d713d83a1994ce1425761b",
+            "w": 450
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4282,
+            "h": 68,
+            "path": "webp/horned-helmet-with-leafy-mantling-and-shield-64.webp",
+            "sha256": "eaaa5a10288a205a39ea7278f92013d23a8cb590ce71eba01b1283c5922339ab",
+            "w": 64
+          },
+          {
+            "bytes": 7686,
+            "h": 102,
+            "path": "webp/horned-helmet-with-leafy-mantling-and-shield-96.webp",
+            "sha256": "74540deb5d0c5a1130d80c5c805a6b43a611ca8060d3517aff3df6a724feea07",
+            "w": 96
+          },
+          {
+            "bytes": 11808,
+            "h": 136,
+            "path": "webp/horned-helmet-with-leafy-mantling-and-shield-128.webp",
+            "sha256": "54e0bb02651e2387a4c983db588aa18b7e144a51866ef0e596d2a65d0ce375f2",
+            "w": 128
+          },
+          {
+            "bytes": 21004,
+            "h": 204,
+            "path": "webp/horned-helmet-with-leafy-mantling-and-shield-192.webp",
+            "sha256": "094d39bf5931a37186e72196225f4bc0fee70642cc749d2ae492b886ad905cec",
+            "w": 192
+          },
+          {
+            "bytes": 32558,
+            "h": 272,
+            "path": "webp/horned-helmet-with-leafy-mantling-and-shield-256.webp",
+            "sha256": "b6f66ba7b2e8f61485a1a7585be64b47185a97348480603348ebfaae8c8d1c0f",
+            "w": 256
+          },
+          {
+            "bytes": 62026,
+            "h": 409,
+            "path": "webp/horned-helmet-with-leafy-mantling-and-shield-384.webp",
+            "sha256": "0a5c18bcbb4ef4d859142618c2bc1c65075ec93de892d5003eee57b9412b27e5",
+            "w": 384
+          },
+          {
+            "bytes": 78452,
+            "h": 479,
+            "path": "webp/horned-helmet-with-leafy-mantling-and-shield-450.webp",
+            "sha256": "e867dc61c27100ca7dd1116a532d18051d2963eba523eeccd618663cdd153508",
+            "w": 450
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "coat-of-arms",
+        "shield",
+        "helmet",
+        "crest",
+        "horn",
+        "mantling",
+        "leaf"
+      ],
+      "thumbhash": "ohiCBQA3CcmDWlx2aAmD3UD5J3iGeXCHiA==",
+      "title": "Coat of arms with horned helmet",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The shield is tilted and the helmet faces right; mirror the whole piece for a left-facing use."
+      ],
+      "width": 450
+    },
+    "large-bearded-mask-with-paired-leafy-heads": {
+      "attribution": "National Gallery of Art, Washington 1941.2.6",
+      "categories": [
+        "fantasy",
+        "botanical",
+        "scrollwork",
+        "hybrids"
+      ],
+      "colors": [
+        "cream",
+        "black",
+        "brown"
+      ],
+      "composition": "single-ornament",
+      "description": "A horizontal, symmetrical engraved panel centred on a large frontal mask of a bearded man with an open mouth, small curled horns at the temples and a ribbed cap bound with a leaf garland; his beard flows down into leaf fronds. From the cap two long swags of overlapping leaves fall to either side, and thin stems with acanthus volutes, lobed leaves and small buds fill both halves. Halfway down each side a leafy beaked head bites a stem. Black ink line work on cream paper, background transparent.",
+      "display_width": [
+        400,
+        900
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 328930,
+        "webpTopBytes": 685104
+      },
+      "facing": "viewer",
+      "group": "1941-2-6",
+      "height": 999,
+      "license": "CC0-1.0",
+      "master": {
+        "bytes": 2171040,
+        "h": 999,
+        "path": "masters/large-bearded-mask-with-paired-leafy-heads.webp",
+        "sha256": "9c0a966fefa4a3c72aed76cfcc6d6d1d0c4349114b1e62c33651c81becbd8529",
+        "w": 1525
+      },
+      "palette": [
+        "#7b6e62",
+        "#978879",
+        "#5f554d",
+        "#bbaa96",
+        "#e0ceb7"
+      ],
+      "provenance": {
+        "artist": "Sebald Beham",
+        "date": "1543",
+        "institution": "National Gallery of Art, Washington",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1941.2.6",
+        "object_title": "Ornament Panel with a Large Bearded Mask",
+        "record_url": "https://www.nga.gov/collection/art-object-page.831.html",
+        "rights_text": "Open Access / public domain; official image dataset openaccess=1",
+        "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+        "source_sha256": "76395ee2c7ec392e3f7ce9d48e5f9c76278489908e52c0692d4d1f0831409f01"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2937,
+            "h": 42,
+            "path": "avif/large-bearded-mask-with-paired-leafy-heads-64.avif",
+            "sha256": "b4f83f0ee22809fbf260ed30b1aff41acdfbe772eff94782513a4ea92c80f63d",
+            "w": 64
+          },
+          {
+            "bytes": 5089,
+            "h": 63,
+            "path": "avif/large-bearded-mask-with-paired-leafy-heads-96.avif",
+            "sha256": "ba7252fe07a1ba91142bc36249581da7359f041564e15120b5ba4458de65026e",
+            "w": 96
+          },
+          {
+            "bytes": 7942,
+            "h": 84,
+            "path": "avif/large-bearded-mask-with-paired-leafy-heads-128.avif",
+            "sha256": "956df96394015e08a494c09afa906785014524e9ebd68ec9da5369de4184b3ea",
+            "w": 128
+          },
+          {
+            "bytes": 14657,
+            "h": 126,
+            "path": "avif/large-bearded-mask-with-paired-leafy-heads-192.avif",
+            "sha256": "4fb6bdd31f947caac15d92937758638d0be56dad41c3af4f9f3dcb08115613f1",
+            "w": 192
+          },
+          {
+            "bytes": 22234,
+            "h": 168,
+            "path": "avif/large-bearded-mask-with-paired-leafy-heads-256.avif",
+            "sha256": "73b2228f72bfda52219d1031c627bdc2ea6ffbfc72c1253332e5fd27cbf7181c",
+            "w": 256
+          },
+          {
+            "bytes": 40980,
+            "h": 252,
+            "path": "avif/large-bearded-mask-with-paired-leafy-heads-384.avif",
+            "sha256": "7d841c485c754be208bcad5c2e75c77ae811332a5cb22d2f933ad9cd9f451ca5",
+            "w": 384
+          },
+          {
+            "bytes": 64304,
+            "h": 335,
+            "path": "avif/large-bearded-mask-with-paired-leafy-heads-512.avif",
+            "sha256": "44620b8d72b96629144ceae885ea9a0538bfb2d7e96fb935823532f412485d0c",
+            "w": 512
+          },
+          {
+            "bytes": 123672,
+            "h": 503,
+            "path": "avif/large-bearded-mask-with-paired-leafy-heads-768.avif",
+            "sha256": "95acaea5808307474ab4a1e071e2c3fb9bdc3430fe6ff2c90f7d18c556d67d7f",
+            "w": 768
+          },
+          {
+            "bytes": 194262,
+            "h": 671,
+            "path": "avif/large-bearded-mask-with-paired-leafy-heads-1024.avif",
+            "sha256": "2a03ac04f00681c48a4677eee83e5927a424cc217e3a407744bc0daf3ca72ef5",
+            "w": 1024
+          },
+          {
+            "bytes": 328930,
+            "h": 999,
+            "path": "avif/large-bearded-mask-with-paired-leafy-heads-1525.avif",
+            "sha256": "c25e6994d52187fe0dd06092434e7cba1eeb1c63acc7db4215514822d84638ec",
+            "w": 1525
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3766,
+            "h": 42,
+            "path": "webp/large-bearded-mask-with-paired-leafy-heads-64.webp",
+            "sha256": "e89d940743132a44fd08764e6cf1d848f3f528123008642071de407fbeb203e2",
+            "w": 64
+          },
+          {
+            "bytes": 7478,
+            "h": 63,
+            "path": "webp/large-bearded-mask-with-paired-leafy-heads-96.webp",
+            "sha256": "8960635ece7b8b0edeb0546b36d111610143a833c1eb115ea473459ab06c8a64",
+            "w": 96
+          },
+          {
+            "bytes": 12094,
+            "h": 84,
+            "path": "webp/large-bearded-mask-with-paired-leafy-heads-128.webp",
+            "sha256": "ef7c86bff7763f8cce3bca2bfa8aa11526bb77b6a377a5b4230e38e7d42a6ec6",
+            "w": 128
+          },
+          {
+            "bytes": 23758,
+            "h": 126,
+            "path": "webp/large-bearded-mask-with-paired-leafy-heads-192.webp",
+            "sha256": "e0ea01877337e8ed699525a0899b9f1b2cbe13a8e8052024367a76c5a0fc9b50",
+            "w": 192
+          },
+          {
+            "bytes": 37310,
+            "h": 168,
+            "path": "webp/large-bearded-mask-with-paired-leafy-heads-256.webp",
+            "sha256": "21f25b29e74a4c13e4c543946aec9c92f57e250165558fed5f6e63ee40ce809e",
+            "w": 256
+          },
+          {
+            "bytes": 72152,
+            "h": 252,
+            "path": "webp/large-bearded-mask-with-paired-leafy-heads-384.webp",
+            "sha256": "7352eb656d63cc18e08f78789c8d8d8084fb6eae0218aa7324b3866114404ccd",
+            "w": 384
+          },
+          {
+            "bytes": 112836,
+            "h": 335,
+            "path": "webp/large-bearded-mask-with-paired-leafy-heads-512.webp",
+            "sha256": "9f8274fabc0cc5268b5626eacfe94dfb7bd535a25a2498e7cc6b1452e7e23280",
+            "w": 512
+          },
+          {
+            "bytes": 224904,
+            "h": 503,
+            "path": "webp/large-bearded-mask-with-paired-leafy-heads-768.webp",
+            "sha256": "76270187e25e8929aadaafc111c91f59e8dc341eaf4dea067740a313f970b2c2",
+            "w": 768
+          },
+          {
+            "bytes": 370026,
+            "h": 671,
+            "path": "webp/large-bearded-mask-with-paired-leafy-heads-1024.webp",
+            "sha256": "035f38faa32e72765590c4318325563d936ae587ed859756a63660f1e8874a5c",
+            "w": 1024
+          },
+          {
+            "bytes": 685104,
+            "h": 999,
+            "path": "webp/large-bearded-mask-with-paired-leafy-heads-1525.webp",
+            "sha256": "02a2435b3ef74a71461a14a27325d1f3efc3729b9b742a6d44bf6594de4f2933",
+            "w": 1525
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "mask",
+        "face",
+        "beard",
+        "horn",
+        "leaf",
+        "acanthus",
+        "scroll",
+        "bird-like-creature"
+      ],
+      "thumbhash": "oBiCA4AaC8N5eHYLjbighwdniXdyehc=",
+      "title": "Bearded mask in a leaf scroll",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Complete symmetrical panel; the mask reads from a distance, so it works as a headpiece above a title."
+      ],
+      "width": 1525
+    },
+    "lion-shield-with-helmet-and-feathered-crest": {
+      "attribution": "Museum für Kunst und Gewerbe Hamburg O1906.118",
+      "categories": [
+        "royalty",
+        "animals"
+      ],
+      "colors": [
+        "cream",
+        "black",
+        "gray"
+      ],
+      "composition": "single-ornament",
+      "description": "An engraved coat of arms. A tilted shield bears a rampant lion with a curled tail, facing left. Above it a closed tilting helmet turned to the right carries a tall crest of two fans of feathers rising from a twisted wreath. Plain cloth mantling with scalloped edges hangs in long folds on both sides of the helmet and tucks behind the shield. Black ink line work on cream paper, background transparent.",
+      "display_width": [
+        200,
+        450
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 43653,
+        "webpTopBytes": 74972
+      },
+      "facing": "mixed",
+      "group": "o1906-118",
+      "height": 478,
+      "master": {
+        "bytes": 220490,
+        "h": 478,
+        "path": "masters/lion-shield-with-helmet-and-feathered-crest.webp",
+        "sha256": "f5737af354eb136f1ab5feab45698396a7081ca2a4a859d25262eb8cc861468e",
+        "w": 416
+      },
+      "palette": [
+        "#887c6a",
+        "#d2c0a2",
+        "#ac9d85",
+        "#6c6255",
+        "#4f4940"
+      ],
+      "provenance": {
+        "artist": "Beham, Hans Sebald",
+        "date": "1544",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.mkg-hamburg.de/object/dc00101703/image-download/0",
+        "institution": "Museum für Kunst und Gewerbe Hamburg",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "O1906.118",
+        "object_title": "Wappen mit steigendem Löwen",
+        "record_url": "https://www.mkg-hamburg.de/sammlung/objekt/wappen-steigendem-lowen/O1906.118/dc00101703",
+        "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_sha256": "3fb9536b2ad7d5ce2bd89518eb395f4b96d0bd29a0fa760f372f315f76f168c6"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2869,
+            "h": 74,
+            "path": "avif/lion-shield-with-helmet-and-feathered-crest-64.avif",
+            "sha256": "9e9dc746a9620629d965448c163b0fd9903771b0e136450ceb2bfeb9530076e0",
+            "w": 64
+          },
+          {
+            "bytes": 4896,
+            "h": 110,
+            "path": "avif/lion-shield-with-helmet-and-feathered-crest-96.avif",
+            "sha256": "dbc375675199061d9f755088f45c779844222ac9568c5b0305065dfeb9e0df13",
+            "w": 96
+          },
+          {
+            "bytes": 6804,
+            "h": 147,
+            "path": "avif/lion-shield-with-helmet-and-feathered-crest-128.avif",
+            "sha256": "20c8a1a742bae2a6e3d7917f215f381c35d391f6a9b5d677a4c71b4b22091015",
+            "w": 128
+          },
+          {
+            "bytes": 12194,
+            "h": 221,
+            "path": "avif/lion-shield-with-helmet-and-feathered-crest-192.avif",
+            "sha256": "c35b54c159f813016078dd399e8345aa77ad4d6724439c12975d7b5b0e85c1ee",
+            "w": 192
+          },
+          {
+            "bytes": 18825,
+            "h": 294,
+            "path": "avif/lion-shield-with-helmet-and-feathered-crest-256.avif",
+            "sha256": "46ef60c5b4290378ea3510624dc459ae8cb0e2137f7a12bd6da806a894faec5c",
+            "w": 256
+          },
+          {
+            "bytes": 36926,
+            "h": 441,
+            "path": "avif/lion-shield-with-helmet-and-feathered-crest-384.avif",
+            "sha256": "b9ada9a2591ac7f5ff6ee9907c637eff6d4a8132c3e629cef78da7dfe065b649",
+            "w": 384
+          },
+          {
+            "bytes": 43653,
+            "h": 478,
+            "path": "avif/lion-shield-with-helmet-and-feathered-crest-416.avif",
+            "sha256": "b2244389406e459c0d0a29aab72f71f4fc9e6b2e4eddc401fe22eb5cdda8c1fc",
+            "w": 416
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4326,
+            "h": 74,
+            "path": "webp/lion-shield-with-helmet-and-feathered-crest-64.webp",
+            "sha256": "7f3a7959f1d8befe0d2f3b7775b4fcd4ee21329ced0adf2d2acf784e1f6f3644",
+            "w": 64
+          },
+          {
+            "bytes": 7680,
+            "h": 110,
+            "path": "webp/lion-shield-with-helmet-and-feathered-crest-96.webp",
+            "sha256": "6a36654836dbab4cc7249bb6215225f27705837874a409eaf53b2aaefcb60215",
+            "w": 96
+          },
+          {
+            "bytes": 12072,
+            "h": 147,
+            "path": "webp/lion-shield-with-helmet-and-feathered-crest-128.webp",
+            "sha256": "9aeafa3ef60750736bdf6854804f1af7e26642149b82721edf6047f27f7d2ca8",
+            "w": 128
+          },
+          {
+            "bytes": 21710,
+            "h": 221,
+            "path": "webp/lion-shield-with-helmet-and-feathered-crest-192.webp",
+            "sha256": "f0ca21f4b3e09f015c461a3703b8964443cfe56ff781ad14e5be53acaa9357ab",
+            "w": 192
+          },
+          {
+            "bytes": 34042,
+            "h": 294,
+            "path": "webp/lion-shield-with-helmet-and-feathered-crest-256.webp",
+            "sha256": "81966999d1e99ef17f780011b92ab2d042adb67de1de005bbfb24a544b5c9fa4",
+            "w": 256
+          },
+          {
+            "bytes": 66046,
+            "h": 441,
+            "path": "webp/lion-shield-with-helmet-and-feathered-crest-384.webp",
+            "sha256": "26e82f74ff3a80dd91fef53743510b0cfee9043e089ad7c8defe523b270e307e",
+            "w": 384
+          },
+          {
+            "bytes": 74972,
+            "h": 478,
+            "path": "webp/lion-shield-with-helmet-and-feathered-crest-416.webp",
+            "sha256": "6f0c6788b1cac9470340ac3f90f59eb9f325060dc1ca14b9ebfb8b88fd222d59",
+            "w": 416
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "coat-of-arms",
+        "shield",
+        "lion",
+        "helmet",
+        "crest",
+        "feather",
+        "mantling"
+      ],
+      "thumbhash": "4hiCBAAomSTISWdhzw4W+XWDcWl4CFd6Bg==",
+      "title": "Coat of arms with rampant lion and feather crest",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The lion faces left and the helmet right, so the piece has no single direction; mirroring it changes the lion's heraldic side."
+      ],
+      "width": 416
+    },
+    "palmette-with-dolphin-heads-and-leaf-scroll": {
+      "attribution": "National Gallery of Art, Washington 1941.2.7",
+      "categories": [
+        "scrollwork",
+        "botanical",
+        "fantasy",
+        "animals"
+      ],
+      "colors": [
+        "cream",
+        "black",
+        "brown"
+      ],
+      "composition": "single-ornament",
+      "description": "A horizontal, symmetrical engraved panel. A large palmette fan rises from a small pedestal with two volutes at the bottom centre; below it two scaly dolphin heads with open toothed jaws face each other. To each side thin stems curl into acanthus volutes with lobed leaves, a trumpet-shaped horn, a round berry, a bud and a small flower head, ending in upright leaf clusters at the outer edges. Black ink line work on cream paper, background transparent.",
+      "display_width": [
+        600,
+        1200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 357735,
+        "webpTopBytes": 774160
+      },
+      "facing": "none",
+      "group": "1941-2-7",
+      "height": 773,
+      "license": "CC0-1.0",
+      "master": {
+        "bytes": 2067834,
+        "h": 773,
+        "path": "masters/palmette-with-dolphin-heads-and-leaf-scroll.webp",
+        "sha256": "f3456f6ce468c50c99d132a9a9ca9e7d595aaad012234bd56f2b57da7edb743b",
+        "w": 1842
+      },
+      "palette": [
+        "#89745c",
+        "#a38d71",
+        "#ccb696",
+        "#78644f",
+        "#63513f"
+      ],
+      "provenance": {
+        "artist": "Sebald Beham",
+        "date": "c. 1540/1545",
+        "institution": "National Gallery of Art, Washington",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1941.2.7",
+        "object_title": "Ornament with Palmette and Two Dophin Heads",
+        "record_url": "https://www.nga.gov/collection/art-object-page.832.html",
+        "rights_text": "Open Access / public domain; official image dataset openaccess=1",
+        "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+        "source_sha256": "77669ce21967b4aaa8fdaabe0e1ba4ac0d742bdb9e45786b88cb0e3d9934f03c"
+      },
+      "quality": "The outermost leaf clusters at both ends are cut by the straight plate edge of the print.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2311,
+            "h": 27,
+            "path": "avif/palmette-with-dolphin-heads-and-leaf-scroll-64.avif",
+            "sha256": "5c42358033c9bda8632fb414ce9aa4831f14f1b0e6f2753391c158456b5a6bb7",
+            "w": 64
+          },
+          {
+            "bytes": 4212,
+            "h": 40,
+            "path": "avif/palmette-with-dolphin-heads-and-leaf-scroll-96.avif",
+            "sha256": "a29f84b6ccdaca246db0988e414624485db815de4268db9473c5c03c98b47752",
+            "w": 96
+          },
+          {
+            "bytes": 7126,
+            "h": 54,
+            "path": "avif/palmette-with-dolphin-heads-and-leaf-scroll-128.avif",
+            "sha256": "229ee6dce643f7853f6cf4fa0a4705cc9f57a814a4075be10649612453e75b68",
+            "w": 128
+          },
+          {
+            "bytes": 13429,
+            "h": 81,
+            "path": "avif/palmette-with-dolphin-heads-and-leaf-scroll-192.avif",
+            "sha256": "914781c9a6ebb50a1f07daaf44d032d41ee99095c1758787b52101a951b7420b",
+            "w": 192
+          },
+          {
+            "bytes": 20828,
+            "h": 107,
+            "path": "avif/palmette-with-dolphin-heads-and-leaf-scroll-256.avif",
+            "sha256": "4e08a48cc02bd1b77af52a18edaf14a109c78619744ad9b9a5e037d404bc2830",
+            "w": 256
+          },
+          {
+            "bytes": 38375,
+            "h": 161,
+            "path": "avif/palmette-with-dolphin-heads-and-leaf-scroll-384.avif",
+            "sha256": "e84eddf46154e710601b44fb4fd9438cfec66481cd567dc863305e046a918a12",
+            "w": 384
+          },
+          {
+            "bytes": 60026,
+            "h": 215,
+            "path": "avif/palmette-with-dolphin-heads-and-leaf-scroll-512.avif",
+            "sha256": "310c1a3483f26222c9019ee3a6c783c5b1209f079e64bc75f4c7671ddd126e31",
+            "w": 512
+          },
+          {
+            "bytes": 108228,
+            "h": 322,
+            "path": "avif/palmette-with-dolphin-heads-and-leaf-scroll-768.avif",
+            "sha256": "18b460441fd819a2879136ffe3b0acb724de0e70fd76f31071e798d6846adc9a",
+            "w": 768
+          },
+          {
+            "bytes": 166191,
+            "h": 430,
+            "path": "avif/palmette-with-dolphin-heads-and-leaf-scroll-1024.avif",
+            "sha256": "9856a493cc37965ec7138e39316e7043ce535dffc198763f98c0fd468413af28",
+            "w": 1024
+          },
+          {
+            "bytes": 286734,
+            "h": 645,
+            "path": "avif/palmette-with-dolphin-heads-and-leaf-scroll-1536.avif",
+            "sha256": "fbb862f9f299ab93249b76a84affec15253a1650ac860fe0b4477dea3027d00a",
+            "w": 1536
+          },
+          {
+            "bytes": 357735,
+            "h": 773,
+            "path": "avif/palmette-with-dolphin-heads-and-leaf-scroll-1842.avif",
+            "sha256": "b3db1a1dcf20b651edcd464baba4f2ea962782061d759fe39ea9f8c2881b7d92",
+            "w": 1842
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2840,
+            "h": 27,
+            "path": "webp/palmette-with-dolphin-heads-and-leaf-scroll-64.webp",
+            "sha256": "8f9440b387db45e484e98a96188ce4a6c27be00ab5adbb0f0341550984e2f03b",
+            "w": 64
+          },
+          {
+            "bytes": 5746,
+            "h": 40,
+            "path": "webp/palmette-with-dolphin-heads-and-leaf-scroll-96.webp",
+            "sha256": "0f30f0a91f068767a7625ac9469ca3a81f2a6acd8dbf1784c44a5303a239b012",
+            "w": 96
+          },
+          {
+            "bytes": 9800,
+            "h": 54,
+            "path": "webp/palmette-with-dolphin-heads-and-leaf-scroll-128.webp",
+            "sha256": "204e928d855c312f5f13027bc49fdfff50ef2f45dbf1c8d5f6f83f448883143f",
+            "w": 128
+          },
+          {
+            "bytes": 19868,
+            "h": 81,
+            "path": "webp/palmette-with-dolphin-heads-and-leaf-scroll-192.webp",
+            "sha256": "2f08cd2a959f42b9e83aabc14ecd7ac3a60d6d303a7a8963f1cda3ff20db86e3",
+            "w": 192
+          },
+          {
+            "bytes": 32670,
+            "h": 107,
+            "path": "webp/palmette-with-dolphin-heads-and-leaf-scroll-256.webp",
+            "sha256": "f544228fd64bcdb31f3e3062f10f7003967ff360c66907e4803c551138af1091",
+            "w": 256
+          },
+          {
+            "bytes": 63662,
+            "h": 161,
+            "path": "webp/palmette-with-dolphin-heads-and-leaf-scroll-384.webp",
+            "sha256": "c21cb64d8601c6db7a32f057e7738780330c56a83b3e658589be0e30080d17b1",
+            "w": 384
+          },
+          {
+            "bytes": 100812,
+            "h": 215,
+            "path": "webp/palmette-with-dolphin-heads-and-leaf-scroll-512.webp",
+            "sha256": "23e1cb5b7c1b42ed4ad526e351087e4427818a03f9b7e80898cf6117d33d06b2",
+            "w": 512
+          },
+          {
+            "bytes": 193378,
+            "h": 322,
+            "path": "webp/palmette-with-dolphin-heads-and-leaf-scroll-768.webp",
+            "sha256": "231f801dd7fc3310ca3d21add4e8afad148b38f1f885a311f25ae467186cf309",
+            "w": 768
+          },
+          {
+            "bytes": 312182,
+            "h": 430,
+            "path": "webp/palmette-with-dolphin-heads-and-leaf-scroll-1024.webp",
+            "sha256": "0323c135f1c66ff6eff85f254b483ad9dba91f865aa14929b214a973128d85da",
+            "w": 1024
+          },
+          {
+            "bytes": 590750,
+            "h": 645,
+            "path": "webp/palmette-with-dolphin-heads-and-leaf-scroll-1536.webp",
+            "sha256": "8c40bb6cd760035bf761e9a4871495d6c059758cb7a541284b2860d1c47c2366",
+            "w": 1536
+          },
+          {
+            "bytes": 774160,
+            "h": 773,
+            "path": "webp/palmette-with-dolphin-heads-and-leaf-scroll-1842.webp",
+            "sha256": "e7282b22f5b1fa9daa60e063aff53e3e982da8f1e4825d7b1c6cf0930e53ae42",
+            "w": 1842
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "palmette",
+        "dolphin",
+        "horn",
+        "acanthus",
+        "leaf",
+        "scroll",
+        "berry",
+        "bud",
+        "flower"
+      ],
+      "thumbhash": "HymCAoAZB7iLhIYLnV09+ShXh4pxhQc=",
+      "title": "Palmette between two dolphin heads",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Complete band; crop inside the outer leaf clusters when their cut edges would show against a plain ground."
+      ],
+      "width": 1842
+    },
+    "rooster-shield-and-helmet-with-leafy-mantling": {
+      "attribution": "Museum für Kunst und Gewerbe Hamburg JB1891.590",
+      "categories": [
+        "royalty",
+        "animals",
+        "ribbons",
+        "botanical"
+      ],
+      "colors": [
+        "cream",
+        "black",
+        "gray"
+      ],
+      "composition": "single-ornament",
+      "description": "An engraved coat of arms. A rounded shield bears a strutting rooster facing left on a stippled ground. Above it a closed tilting helmet turned to the left carries a coronet on which a crowned rooster stands between two curved horns, also facing left. Leafy acanthus mantling curls down both sides of the shield, and long blank banderoles loop above and beside the helmet. Black ink line work on cream paper, background transparent.",
+      "display_width": [
+        180,
+        400
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 52752,
+        "webpTopBytes": 92734
+      },
+      "facing": "left",
+      "group": "jb1891-590",
+      "height": 474,
+      "master": {
+        "bytes": 230856,
+        "h": 474,
+        "path": "masters/rooster-shield-and-helmet-with-leafy-mantling.webp",
+        "sha256": "0198aedd2942819d2ccf4f8c7c67c5264d22fd7f4fce9fb78858702f9cf25e96",
+        "w": 330
+      },
+      "palette": [
+        "#948670",
+        "#b7a68a",
+        "#dbc8a5",
+        "#7e7260",
+        "#675e4f"
+      ],
+      "provenance": {
+        "artist": "Beham, Hans Sebald",
+        "date": "1543",
+        "image_rights": "LicenseRef-PDM",
+        "image_url": "https://www.mkg-hamburg.de/object/dc00101702/image-download/0",
+        "institution": "Museum für Kunst und Gewerbe Hamburg",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "JB1891.590",
+        "object_title": "Wappen mit dem Hahn",
+        "record_url": "https://www.mkg-hamburg.de/sammlung/objekt/wappen-dem-hahn/JB1891.590/dc00101702",
+        "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source_sha256": "96819cdc6c190de49e39e945e9f91e698d0c836ec38680ab74aa85ea3c95395f"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4519,
+            "h": 92,
+            "path": "avif/rooster-shield-and-helmet-with-leafy-mantling-64.avif",
+            "sha256": "305641c7f57a7121775e164f4375c0aa238ac69c960b41fe3c1f9c1a184f46d6",
+            "w": 64
+          },
+          {
+            "bytes": 8193,
+            "h": 138,
+            "path": "avif/rooster-shield-and-helmet-with-leafy-mantling-96.avif",
+            "sha256": "f2cd42bc5cde575efd5043f54e6248026e7d981820f4420c6ceee566951ab3e9",
+            "w": 96
+          },
+          {
+            "bytes": 12069,
+            "h": 184,
+            "path": "avif/rooster-shield-and-helmet-with-leafy-mantling-128.avif",
+            "sha256": "0fd5b734732500ae5fe2d1390dc14248f384bf28d067c7ebd0e839aca7aea282",
+            "w": 128
+          },
+          {
+            "bytes": 21473,
+            "h": 276,
+            "path": "avif/rooster-shield-and-helmet-with-leafy-mantling-192.avif",
+            "sha256": "ca35625806f2c5472b26f97c4be24ede43170bba4051656e9decca8d71fd0176",
+            "w": 192
+          },
+          {
+            "bytes": 33545,
+            "h": 368,
+            "path": "avif/rooster-shield-and-helmet-with-leafy-mantling-256.avif",
+            "sha256": "c5aa44c0d5778f1bcdc5d55fb87a68832f004ec0ee90c95a93523f857cb87dbb",
+            "w": 256
+          },
+          {
+            "bytes": 52752,
+            "h": 474,
+            "path": "avif/rooster-shield-and-helmet-with-leafy-mantling-330.avif",
+            "sha256": "dd7583d82bd6f832127c888b1206942886c17b3547963e42a6ea48c149186ef2",
+            "w": 330
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 6584,
+            "h": 92,
+            "path": "webp/rooster-shield-and-helmet-with-leafy-mantling-64.webp",
+            "sha256": "ccd568dc95b8eb938ae6ecfd1986fb53a346caf1fb9542934a072ca2f6479e79",
+            "w": 64
+          },
+          {
+            "bytes": 12844,
+            "h": 138,
+            "path": "webp/rooster-shield-and-helmet-with-leafy-mantling-96.webp",
+            "sha256": "9859a43d9f0bf4a4c79dc5c2fcae9e017e61c589882b867715cedb37d6944535",
+            "w": 96
+          },
+          {
+            "bytes": 20356,
+            "h": 184,
+            "path": "webp/rooster-shield-and-helmet-with-leafy-mantling-128.webp",
+            "sha256": "3840e986712b3466fa46bbd5f79ebc7fc82db9434044199eabde9f178a801303",
+            "w": 128
+          },
+          {
+            "bytes": 39218,
+            "h": 276,
+            "path": "webp/rooster-shield-and-helmet-with-leafy-mantling-192.webp",
+            "sha256": "d6850b6f34d50c9a21a9bbdf5c7a1f10033d655b9a1320401debbbf90d0deada",
+            "w": 192
+          },
+          {
+            "bytes": 62574,
+            "h": 368,
+            "path": "webp/rooster-shield-and-helmet-with-leafy-mantling-256.webp",
+            "sha256": "0e7411dcf36eb47b3cdebe769718e46c7137ef51b33a6353f8b8f6fdb98fda74",
+            "w": 256
+          },
+          {
+            "bytes": 92734,
+            "h": 474,
+            "path": "webp/rooster-shield-and-helmet-with-leafy-mantling-330.webp",
+            "sha256": "947bd489794927743413931c58101379b15cb0f76daa05f16e5cdf8bdcf6007d",
+            "w": 330
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "coat-of-arms",
+        "shield",
+        "rooster",
+        "helmet",
+        "crown",
+        "crest",
+        "horn",
+        "mantling",
+        "ribbon",
+        "leaf"
+      ],
+      "thumbhash": "JBmCBAAqm4Xo9maKsav3q3p/gIWYF3eJAg==",
+      "title": "Coat of arms with rooster and banderoles",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The banderoles are blank and narrow; they are decoration, not a text field."
+      ],
+      "width": 330
+    }
+  },
+  "attribution": "Museum für Kunst und Gewerbe Hamburg, National Gallery of Art, Washington",
+  "builtAt": "2026-10-28T19:29:27.117Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-beham-prints@1.0.0/",
+  "contentHash": "sha256:a33a92c41d351c0e9c3c2285f1b161780f453d8458c294e00ce4667f4313926d",
+  "inputsHash": "sha256:4bc1a94f8b600381c9575608b8fcb928a191e3578a4ac5d948e7a3df739456e1",
+  "kind": "historical",
+  "license": {
+    "artwork": "LicenseRef-PDM",
+    "notes": "The Hamburg sheets carry the Public Domain Mark; the Washington sheets are CC0 and say so on the asset. See SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-beham-prints-masters",
+  "package": "@ranx729/ducktape-assets-beham-prints",
+  "period": "1521–1545",
+  "region": "Nuremberg and Frankfurt, Germany",
+  "schema": 1,
+  "set": "beham-prints",
+  "style": "Renaissance engraving",
+  "summary": "A centaur frieze, candelabrum and mask panels, a palmette with dolphin heads, a double cup and three heraldic shields engraved by Sebald Beham, 1521–1545, from eight sheets in Washington and Hamburg; loose prints by one artist, grouped by sheet.",
+  "title": "Sebald Beham ornament prints",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,523 @@
+{
+  "assets": {
+    "cupid-subduing-two-lions-in-acanthus-scroll": {
+      "attribution": "Metropolitan Museum of Art 1986.1180.647",
+      "categories": [
+        "humans",
+        "animals",
+        "scrollwork"
+      ],
+      "colors": [
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A long horizontal etched frieze. At the centre a winged Cupid, seen from the front with his head bowed, grips the manes of two lions that crouch to either side of him; the lions' hindquarters dissolve into large acanthus volutes that curl outward, and a further volute closes each end, the left one wrapping a cluster of berries. At the far left and far right a fragment of a neighbouring shaggy lion's head, cut by the plate edge, is included. Loose dark brown ink line work; the faint paper tone of the plate area is kept at low opacity.",
+      "display_width": [
+        600,
+        1200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 336080,
+        "webpTopBytes": 611604
+      },
+      "facing": "mixed",
+      "group": null,
+      "height": 636,
+      "master": {
+        "bytes": 663612,
+        "h": 351,
+        "path": "masters/cupid-subduing-two-lions-in-acanthus-scroll.webp",
+        "sha256": "7485d1010ce4c7d7d3790c5f66ededcfbcbf66f8c045182ca3e9014a1d59daf2",
+        "w": 2048
+      },
+      "palette": [
+        "#50412d",
+        "#50422d",
+        "#50412e",
+        "#50432d",
+        "#4f432c"
+      ],
+      "provenance": {
+        "artist": "Stefano della Bella",
+        "date": "ca. 1648",
+        "image_rights": "CC0-1.0",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "1986.1180.647",
+        "object_title": "Two Acanthus Friezes: Cupid Subduing Two Lions; Heads of Four Seasons, plate 14 from \"Decorative friezes and foliage\" (Ornamenti di fregi e fogliami)",
+        "record_url": "https://www.metmuseum.org/art/collection/search/377606",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "9020e8352e0e7a2650ca954694e65f17df7449415f682ace658d372b8f7c7291"
+      },
+      "quality": "The paper tone of the plate area is retained at low alpha, so the strip shows as a faint rectangle on dark grounds; cut fragments of the adjoining lion heads remain at both ends and a short rule fragment along the top left edge.",
+      "related": [
+        {
+          "asset": "della-bella-prints/four-season-heads-in-acanthus-frieze",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1012,
+            "h": 11,
+            "path": "avif/cupid-subduing-two-lions-in-acanthus-scroll-64.avif",
+            "sha256": "033cdbca52d8aae441f71d4b40ea95d167ce2463fbb15bf22a59c9100de20c58",
+            "w": 64
+          },
+          {
+            "bytes": 1490,
+            "h": 16,
+            "path": "avif/cupid-subduing-two-lions-in-acanthus-scroll-96.avif",
+            "sha256": "dc413580a231ab1ff5df7b1121b6d125ac1f580d6befe40628a7c54f2dd1dde5",
+            "w": 96
+          },
+          {
+            "bytes": 2499,
+            "h": 22,
+            "path": "avif/cupid-subduing-two-lions-in-acanthus-scroll-128.avif",
+            "sha256": "776b9c344f13017df100d14efb0e78d5aeafd52aee5aec0bf3332f5e0e6532b9",
+            "w": 128
+          },
+          {
+            "bytes": 4814,
+            "h": 33,
+            "path": "avif/cupid-subduing-two-lions-in-acanthus-scroll-192.avif",
+            "sha256": "ed48e5762e68677cd83a40cc0cb3388262c3f5f1647b9ea871a736fe6ae16e7b",
+            "w": 192
+          },
+          {
+            "bytes": 8000,
+            "h": 44,
+            "path": "avif/cupid-subduing-two-lions-in-acanthus-scroll-256.avif",
+            "sha256": "d1169b319b701e0de99f3dc75ae033799592415aa519d4fdece54688b880c822",
+            "w": 256
+          },
+          {
+            "bytes": 17182,
+            "h": 66,
+            "path": "avif/cupid-subduing-two-lions-in-acanthus-scroll-384.avif",
+            "sha256": "7c8309a599f96105a3358a0da92ce1f3cee65cf7bb04ecb130a1d7efafe1d722",
+            "w": 384
+          },
+          {
+            "bytes": 28768,
+            "h": 88,
+            "path": "avif/cupid-subduing-two-lions-in-acanthus-scroll-512.avif",
+            "sha256": "71c45938dabf78acf8df64d00bee8e93a9362e6ce25bbf9460fb293016aba8cc",
+            "w": 512
+          },
+          {
+            "bytes": 63367,
+            "h": 132,
+            "path": "avif/cupid-subduing-two-lions-in-acanthus-scroll-768.avif",
+            "sha256": "66d18e907eab638b4998546acf81d3cf8246598a496087dd7cde4f784fb7bff3",
+            "w": 768
+          },
+          {
+            "bytes": 105420,
+            "h": 176,
+            "path": "avif/cupid-subduing-two-lions-in-acanthus-scroll-1024.avif",
+            "sha256": "66387381b2ea011ca9b9bb27a618e08725948fdc0eb4ac8ab5e3eae7cecb11da",
+            "w": 1024
+          },
+          {
+            "bytes": 215575,
+            "h": 264,
+            "path": "avif/cupid-subduing-two-lions-in-acanthus-scroll-1536.avif",
+            "sha256": "2c08c3269891ecc855a814392772f368f12706a1d6fb9275b9fb7ebd78d91529",
+            "w": 1536
+          },
+          {
+            "bytes": 336080,
+            "h": 351,
+            "path": "avif/cupid-subduing-two-lions-in-acanthus-scroll-2048.avif",
+            "sha256": "bfdbb8ee91633ba6fe836eead7d0f506753387a4628658d92edd9e4a3102e70f",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 904,
+            "h": 11,
+            "path": "webp/cupid-subduing-two-lions-in-acanthus-scroll-64.webp",
+            "sha256": "787cfc52ca04a85faf63e7e5655f52fbaf96b5c24445027a45a280563bb4bdda",
+            "w": 64
+          },
+          {
+            "bytes": 1724,
+            "h": 16,
+            "path": "webp/cupid-subduing-two-lions-in-acanthus-scroll-96.webp",
+            "sha256": "2559b19d62cc5f3be00618f2b02462813cea99dd74da2189dcacd066b5437004",
+            "w": 96
+          },
+          {
+            "bytes": 3328,
+            "h": 22,
+            "path": "webp/cupid-subduing-two-lions-in-acanthus-scroll-128.webp",
+            "sha256": "5f3c68235c8586177c2bf1deb5e52b4b140c44e9ca2313a72c7ae04552892132",
+            "w": 128
+          },
+          {
+            "bytes": 7238,
+            "h": 33,
+            "path": "webp/cupid-subduing-two-lions-in-acanthus-scroll-192.webp",
+            "sha256": "23fa240e74e6d39aa68cb043e828a3c90945d508c6c0c0ebfcdab4a380166569",
+            "w": 192
+          },
+          {
+            "bytes": 12604,
+            "h": 44,
+            "path": "webp/cupid-subduing-two-lions-in-acanthus-scroll-256.webp",
+            "sha256": "f8b94724d11e8ee2a59b921a6c7b62c032004adfbc4071864527fdc080951a3e",
+            "w": 256
+          },
+          {
+            "bytes": 27806,
+            "h": 66,
+            "path": "webp/cupid-subduing-two-lions-in-acanthus-scroll-384.webp",
+            "sha256": "bffad610fc2eae8cab10b85ae8feb209232aeaf52f1b9e49c3cf50de1ba9f7d4",
+            "w": 384
+          },
+          {
+            "bytes": 47438,
+            "h": 88,
+            "path": "webp/cupid-subduing-two-lions-in-acanthus-scroll-512.webp",
+            "sha256": "75675289a4f8976728e6cb90ed4557bd02b00cfdfcdc84716a08cd5d209e3c87",
+            "w": 512
+          },
+          {
+            "bytes": 102500,
+            "h": 132,
+            "path": "webp/cupid-subduing-two-lions-in-acanthus-scroll-768.webp",
+            "sha256": "7059dea916516d1a6132fedd3d168d5afd56298f298b9c4491181c81b5497c77",
+            "w": 768
+          },
+          {
+            "bytes": 173272,
+            "h": 176,
+            "path": "webp/cupid-subduing-two-lions-in-acanthus-scroll-1024.webp",
+            "sha256": "acef3bca5360f4160b0335994b3a5c1514198ec296f78417028201d909124203",
+            "w": 1024
+          },
+          {
+            "bytes": 365386,
+            "h": 264,
+            "path": "webp/cupid-subduing-two-lions-in-acanthus-scroll-1536.webp",
+            "sha256": "abf09fd34f906cc2d322ad39da6f6b962a1800896df79a4f57ce577788dbc45d",
+            "w": 1536
+          },
+          {
+            "bytes": 611604,
+            "h": 351,
+            "path": "webp/cupid-subduing-two-lions-in-acanthus-scroll-2048.webp",
+            "sha256": "969c2ef1cda2356f01a5ec1446e0ce2d1091230f6efc13e99174549864334372",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "frieze",
+        "cupid",
+        "putto",
+        "wings",
+        "lion",
+        "acanthus",
+        "leaf",
+        "scroll",
+        "berry"
+      ],
+      "thumbhash": "0BiCAYAEBQGFiIAIgnb+aEZlcHiDVjc=",
+      "title": "Frieze of Cupid subduing two lions in acanthus scrolls",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Symmetrical about Cupid, so it sits well centred under a title; crop about 4 percent off each end to drop the cut lion-head fragments.",
+        "Pairs with the heads-of-the-seasons frieze from the same plate, which has the same height and ink."
+      ],
+      "width": 3707
+    },
+    "four-season-heads-in-acanthus-frieze": {
+      "attribution": "Metropolitan Museum of Art 1986.1180.647",
+      "categories": [
+        "humans",
+        "scrollwork",
+        "botanical"
+      ],
+      "colors": [
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A long horizontal etched frieze of linked acanthus scrolls carrying four heads. From the left, a bearded old man's head facing right under a leafy wreath; a blank cartouche of knotted branches; a young woman's head facing left crowned with flowers; a central burst of large feathery acanthus leaves; a girl's head facing right with ears of grain in her hair; a round wreath of wheat and grapes enclosing a hanging pair of scales; and a youth's head facing left wreathed in vine at the right end. Loose dark brown ink; the faint paper tone of the plate is kept at low opacity.",
+      "display_width": [
+        600,
+        1200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 236351,
+        "webpTopBytes": 427236
+      },
+      "facing": "mixed",
+      "group": null,
+      "height": 439,
+      "master": {
+        "bytes": 479330,
+        "h": 244,
+        "path": "masters/four-season-heads-in-acanthus-frieze.webp",
+        "sha256": "8c231b6b13af8aa123746e99b487a7ac54ce976da0be4c681de5d107e3c0305b",
+        "w": 2048
+      },
+      "palette": [
+        "#4f422d",
+        "#50432e",
+        "#51432d",
+        "#50432f"
+      ],
+      "provenance": {
+        "artist": "Stefano della Bella",
+        "date": "ca. 1648",
+        "image_rights": "CC0-1.0",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "1986.1180.647",
+        "object_title": "Two Acanthus Friezes: Cupid Subduing Two Lions; Heads of Four Seasons, plate 14 from \"Decorative friezes and foliage\" (Ornamenti di fregi e fogliami)",
+        "record_url": "https://www.metmuseum.org/art/collection/search/377606",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "9020e8352e0e7a2650ca954694e65f17df7449415f682ace658d372b8f7c7291"
+      },
+      "quality": "The paper tone of the plate area is retained at low alpha, so the strip shows as a faint rectangle on dark grounds; short rule fragments remain along the top and bottom edges at the left.",
+      "related": [
+        {
+          "asset": "della-bella-prints/cupid-subduing-two-lions-in-acanthus-scroll",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 810,
+            "h": 8,
+            "path": "avif/four-season-heads-in-acanthus-frieze-64.avif",
+            "sha256": "239f5e1a5026a1cb66f383cf70cf001e0d341b9dbd95437f95470574116cec5a",
+            "w": 64
+          },
+          {
+            "bytes": 1334,
+            "h": 11,
+            "path": "avif/four-season-heads-in-acanthus-frieze-96.avif",
+            "sha256": "39809c1ba8aef4218ea912f4837314c25d85571811db4b9f40bcd8462b7a9853",
+            "w": 96
+          },
+          {
+            "bytes": 1861,
+            "h": 15,
+            "path": "avif/four-season-heads-in-acanthus-frieze-128.avif",
+            "sha256": "7833b7bf673d98e115592becb168dca3be9814de71336fe91ff2a3344a0842b9",
+            "w": 128
+          },
+          {
+            "bytes": 3587,
+            "h": 23,
+            "path": "avif/four-season-heads-in-acanthus-frieze-192.avif",
+            "sha256": "1ab2d2f1ba1c2844ea6272af8c49f3433e38945cfbcc6b6e4b4ffb9f3690de0d",
+            "w": 192
+          },
+          {
+            "bytes": 5779,
+            "h": 31,
+            "path": "avif/four-season-heads-in-acanthus-frieze-256.avif",
+            "sha256": "90c48f76cab9be2468651c4df5fecc23d9dea03d62961a5b57e28bb403d7558c",
+            "w": 256
+          },
+          {
+            "bytes": 11812,
+            "h": 46,
+            "path": "avif/four-season-heads-in-acanthus-frieze-384.avif",
+            "sha256": "aedc3fb5a91cbb487b3f21c4320e8c91452bf8fcaf8adf40dd078b848668c0e4",
+            "w": 384
+          },
+          {
+            "bytes": 19431,
+            "h": 61,
+            "path": "avif/four-season-heads-in-acanthus-frieze-512.avif",
+            "sha256": "c2fe6babbbdb4158d37fb99fa72822768ed9e1221596c10312ca807cfdee5d6c",
+            "w": 512
+          },
+          {
+            "bytes": 43514,
+            "h": 92,
+            "path": "avif/four-season-heads-in-acanthus-frieze-768.avif",
+            "sha256": "3795cd735de841649683471a557f9beec94bb91cec8e96306c92a170754dea88",
+            "w": 768
+          },
+          {
+            "bytes": 73718,
+            "h": 122,
+            "path": "avif/four-season-heads-in-acanthus-frieze-1024.avif",
+            "sha256": "6be451749f9c383b129c5646575ccbf0177b75b4a68ea2d2172f950b252d89f3",
+            "w": 1024
+          },
+          {
+            "bytes": 149323,
+            "h": 183,
+            "path": "avif/four-season-heads-in-acanthus-frieze-1536.avif",
+            "sha256": "df41dd5914f16d9e91fdd23707b92787fddd016068806cfd1b430f2390534f45",
+            "w": 1536
+          },
+          {
+            "bytes": 236351,
+            "h": 244,
+            "path": "avif/four-season-heads-in-acanthus-frieze-2048.avif",
+            "sha256": "1a8f87901e3de1b0d1c1081c4ce13ed760cb2c8aeb152f2d7f763ad0c3c0f0fe",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 676,
+            "h": 8,
+            "path": "webp/four-season-heads-in-acanthus-frieze-64.webp",
+            "sha256": "a151855635d20ef0b33822d3103dbec0c0e33758b5a97f4aa11be9715e75624f",
+            "w": 64
+          },
+          {
+            "bytes": 1316,
+            "h": 11,
+            "path": "webp/four-season-heads-in-acanthus-frieze-96.webp",
+            "sha256": "60a85c72b0d59ecdf2bd95150f5fca068b1c4da3af0b41bc3c310f8d3a553b44",
+            "w": 96
+          },
+          {
+            "bytes": 2260,
+            "h": 15,
+            "path": "webp/four-season-heads-in-acanthus-frieze-128.webp",
+            "sha256": "6b2c9b7fbeea8b1bf1e41b773187ac99ebf66881ca5197ae97ed63cebf71866f",
+            "w": 128
+          },
+          {
+            "bytes": 5208,
+            "h": 23,
+            "path": "webp/four-season-heads-in-acanthus-frieze-192.webp",
+            "sha256": "72b07024c95f79d02a1f3e65d21ebdc84c8e30caa2c295e9c84371c01ba369d6",
+            "w": 192
+          },
+          {
+            "bytes": 9026,
+            "h": 31,
+            "path": "webp/four-season-heads-in-acanthus-frieze-256.webp",
+            "sha256": "67156bf199028ac016cdbeac0d44edcc2911401f3ac8789ee0a2254fd117481a",
+            "w": 256
+          },
+          {
+            "bytes": 19448,
+            "h": 46,
+            "path": "webp/four-season-heads-in-acanthus-frieze-384.webp",
+            "sha256": "7ba4e296d2f944cca481c0991515c7664ba9813ece9c212fc67aeac56156d5a1",
+            "w": 384
+          },
+          {
+            "bytes": 33046,
+            "h": 61,
+            "path": "webp/four-season-heads-in-acanthus-frieze-512.webp",
+            "sha256": "3a2f7749de14422eb849dc5d52acbfa69745fcff4384b5f60827e569589af509",
+            "w": 512
+          },
+          {
+            "bytes": 71584,
+            "h": 92,
+            "path": "webp/four-season-heads-in-acanthus-frieze-768.webp",
+            "sha256": "c6d304d18c370f5ec810421953f1d540a1c8345879b18d5b0a59dff3b0ecba28",
+            "w": 768
+          },
+          {
+            "bytes": 120496,
+            "h": 122,
+            "path": "webp/four-season-heads-in-acanthus-frieze-1024.webp",
+            "sha256": "8cc778ba69918f3f9725c898d90a272a6c0740224465a134052f281f1f6a0610",
+            "w": 1024
+          },
+          {
+            "bytes": 254410,
+            "h": 183,
+            "path": "webp/four-season-heads-in-acanthus-frieze-1536.webp",
+            "sha256": "51bdb0434f2df61e20c6257d5d412282147b8da8edd74150dd069a54c99067ab",
+            "w": 1536
+          },
+          {
+            "bytes": 427236,
+            "h": 244,
+            "path": "webp/four-season-heads-in-acanthus-frieze-2048.webp",
+            "sha256": "2664761220534a9f0f3da280883006441ffa6155e54cb5f6af187e2d65371aeb",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "frieze",
+        "head",
+        "face",
+        "beard",
+        "woman",
+        "wreath",
+        "flower",
+        "grape",
+        "vine",
+        "scales",
+        "cartouche",
+        "acanthus",
+        "leaf",
+        "scroll"
+      ],
+      "thumbhash": "0BiCAYAUAmeXaMqtJ/DVuFCEh4h0Skg=",
+      "title": "Frieze of four heads of the seasons in acanthus",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "The blank branch cartouche at the left and the wreath at the right are open fields that can carry a short word or number.",
+        "Each head with its scroll crops out as a small vignette; the central leaf burst crops as a symmetrical centrepiece.",
+        "Pairs with the Cupid-and-lions frieze from the same plate, which has the same ink and a slightly greater height."
+      ],
+      "width": 3678
+    }
+  },
+  "attribution": "Metropolitan Museum of Art",
+  "builtAt": "2026-10-28T19:31:24.751Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-della-bella-prints@1.0.0/",
+  "contentHash": "sha256:e2fc8282fc899031c7874b1839edab502ea52aad8270fe53c0dcf128fffe22a5",
+  "inputsHash": "sha256:678300c4a80d55c7346aba9762f27e896e0fe0a3976134b41170f3ebbdfe3f67",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from Metropolitan Museum of Art Open Access (CC0) images; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-della-bella-prints-masters",
+  "package": "@ranx729/ducktape-assets-della-bella-prints",
+  "period": "ca. 1648",
+  "region": "Florence and Paris",
+  "schema": 1,
+  "set": "della-bella-prints",
+  "style": "Baroque etching",
+  "summary": "Two acanthus friezes, Cupid subduing two lions and heads of foliage, etched by Stefano della Bella around 1648, from one sheet in the Metropolitan Museum of Art; loose prints by one artist, grouped by sheet.",
+  "title": "Stefano della Bella ornament prints",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

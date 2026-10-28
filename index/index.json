@@ -1,7 +1,67 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-28T16:23:12.168Z",
+  "generatedAt": "2026-10-28T19:39:43.282Z",
   "sets": {
+    "aldegrever-prints": {
+      "version": "1.0.0",
+      "package": "@ranx729/ducktape-assets-aldegrever-prints",
+      "parts": [],
+      "mastersPackage": "@ranx729/ducktape-assets-aldegrever-prints-masters",
+      "mastersParts": [],
+      "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-aldegrever-prints@1.0.0/",
+      "mastersCdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-aldegrever-prints-masters@1.0.0/",
+      "assets": 22,
+      "license": {
+        "artwork": "LicenseRef-PDM"
+      },
+      "contentHash": "sha256:fad52752877208aa148000beaefcb614fc97870fec563e4817b75c7c01cf9c17",
+      "status": "active"
+    },
+    "authored-ornaments": {
+      "version": "1.0.0",
+      "package": "@ranx729/ducktape-assets-authored-ornaments",
+      "parts": [],
+      "mastersPackage": "@ranx729/ducktape-assets-authored-ornaments-masters",
+      "mastersParts": [],
+      "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-authored-ornaments@1.0.0/",
+      "mastersCdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-authored-ornaments-masters@1.0.0/",
+      "assets": 16,
+      "license": {
+        "artwork": "CC-BY-4.0"
+      },
+      "contentHash": "sha256:94afc3f26d170339d9bc8d4062bbc825fecae3985863047592a24bd7a58678aa",
+      "status": "active"
+    },
+    "beham-prints": {
+      "version": "1.0.0",
+      "package": "@ranx729/ducktape-assets-beham-prints",
+      "parts": [],
+      "mastersPackage": "@ranx729/ducktape-assets-beham-prints-masters",
+      "mastersParts": [],
+      "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-beham-prints@1.0.0/",
+      "mastersCdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-beham-prints-masters@1.0.0/",
+      "assets": 8,
+      "license": {
+        "artwork": "LicenseRef-PDM"
+      },
+      "contentHash": "sha256:a33a92c41d351c0e9c3c2285f1b161780f453d8458c294e00ce4667f4313926d",
+      "status": "active"
+    },
+    "christollien-prints": {
+      "version": "1.0.0",
+      "package": "@ranx729/ducktape-assets-christollien-prints",
+      "parts": [],
+      "mastersPackage": "@ranx729/ducktape-assets-christollien-prints-masters",
+      "mastersParts": [],
+      "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-christollien-prints@1.0.0/",
+      "mastersCdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-christollien-prints-masters@1.0.0/",
+      "assets": 1,
+      "license": {
+        "artwork": "CC0-1.0"
+      },
+      "contentHash": "sha256:5fe44528408a895866393bc1ecff0503194062259300ab8f13b52a5c4268c2de",
+      "status": "active"
+    },
     "cma-1950-154": {
       "version": "1.0.0",
       "package": "@ranx729/ducktape-assets-cma-1950-154",
@@ -30,6 +90,21 @@
         "artwork": "CC0-1.0"
       },
       "contentHash": "sha256:3d6a50fc8f4508e05ab7867968080f4a3fc2621a9a1967c20a784f5e2e62e44b",
+      "status": "active"
+    },
+    "della-bella-prints": {
+      "version": "1.0.0",
+      "package": "@ranx729/ducktape-assets-della-bella-prints",
+      "parts": [],
+      "mastersPackage": "@ranx729/ducktape-assets-della-bella-prints-masters",
+      "mastersParts": [],
+      "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-della-bella-prints@1.0.0/",
+      "mastersCdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-della-bella-prints-masters@1.0.0/",
+      "assets": 2,
+      "license": {
+        "artwork": "CC0-1.0"
+      },
+      "contentHash": "sha256:e2fc8282fc899031c7874b1839edab502ea52aad8270fe53c0dcf128fffe22a5",
       "status": "active"
     },
     "fuchs-1542-herbal": {
@@ -77,6 +152,21 @@
       "contentHash": "sha256:043a269095a357798c0b7b99ac65813cf49979a7ea2f825f4446b0c07283a60e",
       "status": "active"
     },
+    "giancarli-prints": {
+      "version": "1.0.0",
+      "package": "@ranx729/ducktape-assets-giancarli-prints",
+      "parts": [],
+      "mastersPackage": "@ranx729/ducktape-assets-giancarli-prints-masters",
+      "mastersParts": [],
+      "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-giancarli-prints@1.0.0/",
+      "mastersCdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-giancarli-prints-masters@1.0.0/",
+      "assets": 1,
+      "license": {
+        "artwork": "CC0-1.0"
+      },
+      "contentHash": "sha256:10d65e29b86177340ce37b4c13d47f54735a47ee5c14091f87274d10e1daaa6b",
+      "status": "active"
+    },
     "hopfer-prints": {
       "version": "1.0.0",
       "package": "@ranx729/ducktape-assets-hopfer-prints",
@@ -105,6 +195,51 @@
         "artwork": "CC-BY-4.0"
       },
       "contentHash": "sha256:a7a943d0ee38ad8981251f4e6b723f69a5638417b682595a863563941510a81c",
+      "status": "active"
+    },
+    "lucas-van-leyden-prints": {
+      "version": "1.0.0",
+      "package": "@ranx729/ducktape-assets-lucas-van-leyden-prints",
+      "parts": [],
+      "mastersPackage": "@ranx729/ducktape-assets-lucas-van-leyden-prints-masters",
+      "mastersParts": [],
+      "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-lucas-van-leyden-prints@1.0.0/",
+      "mastersCdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-lucas-van-leyden-prints-masters@1.0.0/",
+      "assets": 3,
+      "license": {
+        "artwork": "CC0-1.0"
+      },
+      "contentHash": "sha256:4761eb3317f654daa06ce1e9ab17afc4075c91df6f85384e38a362f2f65eb273",
+      "status": "active"
+    },
+    "master-w-with-the-key-prints": {
+      "version": "1.0.0",
+      "package": "@ranx729/ducktape-assets-master-w-with-the-key-prints",
+      "parts": [],
+      "mastersPackage": "@ranx729/ducktape-assets-master-w-with-the-key-prints-masters",
+      "mastersParts": [],
+      "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-master-w-with-the-key-prints@1.0.0/",
+      "mastersCdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-master-w-with-the-key-prints-masters@1.0.0/",
+      "assets": 1,
+      "license": {
+        "artwork": "CC0-1.0"
+      },
+      "contentHash": "sha256:2f5779a62fcd1a32b857af0fb555f396612f8f1f94301654601fac572d10f388",
+      "status": "active"
+    },
+    "meckenem-prints": {
+      "version": "1.0.0",
+      "package": "@ranx729/ducktape-assets-meckenem-prints",
+      "parts": [],
+      "mastersPackage": "@ranx729/ducktape-assets-meckenem-prints-masters",
+      "mastersParts": [],
+      "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-meckenem-prints@1.0.0/",
+      "mastersCdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-meckenem-prints-masters@1.0.0/",
+      "assets": 4,
+      "license": {
+        "artwork": "CC0-1.0"
+      },
+      "contentHash": "sha256:fdcc675fcffd8f9dfc5bee71e65f8d4a228bc25a9d4e2f35f6108c6a2e76cc92",
       "status": "active"
     },
     "medieval-cutouts": {
@@ -195,6 +330,21 @@
         "artwork": "CC0-1.0"
       },
       "contentHash": "sha256:af3a33a4e36be1b741107aef88b7abcd613fb23e5d951f334e97f1c8176b8947",
+      "status": "active"
+    },
+    "zoan-andrea-prints": {
+      "version": "1.0.0",
+      "package": "@ranx729/ducktape-assets-zoan-andrea-prints",
+      "parts": [],
+      "mastersPackage": "@ranx729/ducktape-assets-zoan-andrea-prints-masters",
+      "mastersParts": [],
+      "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-zoan-andrea-prints@1.0.0/",
+      "mastersCdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-zoan-andrea-prints-masters@1.0.0/",
+      "assets": 2,
+      "license": {
+        "artwork": "CC0-1.0"
+      },
+      "contentHash": "sha256:0139c04b1c9f39e2c3b26a139686190743682b9860303f8d51d3fcf78eb2effd",
       "status": "active"
     }
   }

@@ -1,0 +1,979 @@
+{
+  "assets": {
+    "acanthus-panel-with-lovers-and-animals": {
+      "attribution": "National Gallery of Art, Washington 1943.3.170",
+      "categories": [
+        "botanical",
+        "scrollwork",
+        "humans",
+        "animals",
+        "fantasy"
+      ],
+      "colors": [
+        "cream",
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A large horizontal engraved panel filled edge to edge with curling acanthus stems and lobed leaves. At the top centre a seated couple, a woman in a tall hennin with a small dog on her lap and a young man in a cap, under a banderole inscribed with the artist's name. Among the scrolls are two birds at the top corners, nude figures climbing and riding the stems, a bearded man with a spear at the right, a youth rising from a tuft of grass at the bottom, a fox at the lower left, a man raising a cup at the lower right and two hanging pod finials. Dark brown ink on cream, background transparent.",
+      "display_width": [
+        700,
+        1400
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 904714,
+        "webpTopBytes": 1548866
+      },
+      "facing": "none",
+      "group": "1943-3-170",
+      "height": 2739,
+      "master": {
+        "bytes": 4024910,
+        "h": 1383,
+        "path": "masters/acanthus-panel-with-lovers-and-animals.webp",
+        "sha256": "795ba86a99437c019a05535f815a481181b581db6fb82c65a7125a30e197c288",
+        "w": 2048
+      },
+      "palette": [
+        "#a9977f",
+        "#c8b69b",
+        "#b6a48a",
+        "#8c7c69",
+        "#9d8c76"
+      ],
+      "provenance": {
+        "artist": "Israhel van Meckenem",
+        "date": "c. 1490/1500",
+        "image_url": "https://api.nga.gov/iiif/e0108f4c-e9b4-482b-8e78-2c20f96d32a6/full/full/0/default.jpg",
+        "institution": "National Gallery of Art, Washington",
+        "method": "native-source-extraction",
+        "object_identifier": "1943.3.170",
+        "object_title": "Ornament Panel with Two Lovers",
+        "record_url": "https://www.nga.gov/collection/art-object-page.3382.html",
+        "rights_text": "Open Access / public domain; official image dataset openaccess=1",
+        "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+        "source_sha256": "e77fbec4fbd1f8058e7b895fca796490aaa564e2f0689069578c82213f88c13f"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2943,
+            "h": 43,
+            "path": "avif/acanthus-panel-with-lovers-and-animals-64.avif",
+            "sha256": "dabe22b41cd12565272ce4d159c895227585237510fd6c2c0e89e0ae583350f4",
+            "w": 64
+          },
+          {
+            "bytes": 6587,
+            "h": 65,
+            "path": "avif/acanthus-panel-with-lovers-and-animals-96.avif",
+            "sha256": "b7ec839cce64c9342b7caf23fa45299b9e2578598f24f05d6f6f7dd7d40ae0db",
+            "w": 96
+          },
+          {
+            "bytes": 11268,
+            "h": 86,
+            "path": "avif/acanthus-panel-with-lovers-and-animals-128.avif",
+            "sha256": "0095ab6b1670b7306a056096ced2912e1b7f75786e6934f946a46763512e5c35",
+            "w": 128
+          },
+          {
+            "bytes": 24078,
+            "h": 130,
+            "path": "avif/acanthus-panel-with-lovers-and-animals-192.avif",
+            "sha256": "7394d5e00351d9777c7123bccedb2372ec87c7d92e15b4b9f614c327255d40ba",
+            "w": 192
+          },
+          {
+            "bytes": 39852,
+            "h": 173,
+            "path": "avif/acanthus-panel-with-lovers-and-animals-256.avif",
+            "sha256": "da0e8582c317e853c7515c48989075b2000e5a1a84df320f2a87e23344738d91",
+            "w": 256
+          },
+          {
+            "bytes": 76388,
+            "h": 259,
+            "path": "avif/acanthus-panel-with-lovers-and-animals-384.avif",
+            "sha256": "063451ed2a2728f632e5aecbaa490312a620846274652f0cce19950f3f3aab90",
+            "w": 384
+          },
+          {
+            "bytes": 120062,
+            "h": 346,
+            "path": "avif/acanthus-panel-with-lovers-and-animals-512.avif",
+            "sha256": "11e69fe57b0742722d0870675ebc680feae57bddbb6f58d8cdc62d4c82ae4429",
+            "w": 512
+          },
+          {
+            "bytes": 227792,
+            "h": 519,
+            "path": "avif/acanthus-panel-with-lovers-and-animals-768.avif",
+            "sha256": "cab341b72e0e08a6893456f01deab4dbddc953d1b7e74cf03ee6519271be32cd",
+            "w": 768
+          },
+          {
+            "bytes": 349255,
+            "h": 692,
+            "path": "avif/acanthus-panel-with-lovers-and-animals-1024.avif",
+            "sha256": "fafe0a8665df6b67867b2095cbbb51f8a191fe0ed435496962f0dd21e38f5445",
+            "w": 1024
+          },
+          {
+            "bytes": 615444,
+            "h": 1038,
+            "path": "avif/acanthus-panel-with-lovers-and-animals-1536.avif",
+            "sha256": "68e513d7b7336d6a78e5d4e3dcc645f9d1cffdb9b9bdef7d9b98e576f67129b9",
+            "w": 1536
+          },
+          {
+            "bytes": 904714,
+            "h": 1383,
+            "path": "avif/acanthus-panel-with-lovers-and-animals-2048.avif",
+            "sha256": "b54016368af4cc1fc65a92f57888e9837ca3aa5776375755e81f365a315b2e1d",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3994,
+            "h": 43,
+            "path": "webp/acanthus-panel-with-lovers-and-animals-64.webp",
+            "sha256": "b68383e002d5f38e2556d5ce90501577ab97b5d02dd0850f13a753e7a998ed39",
+            "w": 64
+          },
+          {
+            "bytes": 8618,
+            "h": 65,
+            "path": "webp/acanthus-panel-with-lovers-and-animals-96.webp",
+            "sha256": "a4e12c362e1d3ce421e129b0cbdf38f07dd51eab62872a7a97a38854d8398b11",
+            "w": 96
+          },
+          {
+            "bytes": 14730,
+            "h": 86,
+            "path": "webp/acanthus-panel-with-lovers-and-animals-128.webp",
+            "sha256": "4bdfe93b7f976ef69a61d9df569f43bdceea2378cd1acabc9368439a63c9e3ea",
+            "w": 128
+          },
+          {
+            "bytes": 31074,
+            "h": 130,
+            "path": "webp/acanthus-panel-with-lovers-and-animals-192.webp",
+            "sha256": "ebb861232ceaf289def9938309ccd6fbd27c3355f6a7f4649a3fc9fc552acb89",
+            "w": 192
+          },
+          {
+            "bytes": 52346,
+            "h": 173,
+            "path": "webp/acanthus-panel-with-lovers-and-animals-256.webp",
+            "sha256": "b85ad78075865349666e49993a3884dff48deb425bf1c707b1423df7e6a59a8f",
+            "w": 256
+          },
+          {
+            "bytes": 106544,
+            "h": 259,
+            "path": "webp/acanthus-panel-with-lovers-and-animals-384.webp",
+            "sha256": "21f7b52f0de702e856bd07f60993020cfe588f0ea5cd2050423247f3de611b8a",
+            "w": 384
+          },
+          {
+            "bytes": 174672,
+            "h": 346,
+            "path": "webp/acanthus-panel-with-lovers-and-animals-512.webp",
+            "sha256": "da9c2aee1ea411624606f73ef08f9bd84e7d107069b7a0c42b9551d2dbd295f9",
+            "w": 512
+          },
+          {
+            "bytes": 333852,
+            "h": 519,
+            "path": "webp/acanthus-panel-with-lovers-and-animals-768.webp",
+            "sha256": "c20c4e13180d6f02612f5637771c7b0f2b8ca560ecec24f6f583ffa434fba4c5",
+            "w": 768
+          },
+          {
+            "bytes": 532046,
+            "h": 692,
+            "path": "webp/acanthus-panel-with-lovers-and-animals-1024.webp",
+            "sha256": "b06a2c27417bb35690a839bda63cbbf161e6d9da0b7a9808caf09c112b8c5b46",
+            "w": 1024
+          },
+          {
+            "bytes": 1001746,
+            "h": 1038,
+            "path": "webp/acanthus-panel-with-lovers-and-animals-1536.webp",
+            "sha256": "d55248158583cf53a8e7e83df7e39b2817af347f013e715b92684fa4c6023750",
+            "w": 1536
+          },
+          {
+            "bytes": 1548866,
+            "h": 1383,
+            "path": "webp/acanthus-panel-with-lovers-and-animals-2048.webp",
+            "sha256": "1b722884699c34536081579e46aeb24dcdae78d79d92651dad32f0670d4ba63e",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "acanthus",
+        "leaf",
+        "scroll",
+        "lover",
+        "woman",
+        "human",
+        "dog",
+        "bird",
+        "fox",
+        "cup",
+        "weapon",
+        "ribbon",
+        "monogram",
+        "pendant",
+        "grass"
+      ],
+      "thumbhash": "JimCA4AKIFZ+lYBKb9Zfpiend3eQKRk=",
+      "title": "Acanthus panel with two lovers",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Complete panel with no frame line; its outer leaves are the natural edge, so it can sit directly on a page.",
+        "The signature banderole above the couple is part of the print and should stay visible."
+      ],
+      "width": 4055
+    },
+    "acanthus-tree-of-jesse-with-crowned-figures": {
+      "attribution": "National Gallery of Art, Washington 1943.3.169",
+      "categories": [
+        "botanical",
+        "scrollwork",
+        "humans",
+        "royalty"
+      ],
+      "colors": [
+        "cream",
+        "brown",
+        "black"
+      ],
+      "composition": "multiple-figures",
+      "description": "A wide horizontal engraved panel. The bearded Jesse lies asleep at the bottom centre, and from his body a stem rises and branches into curling acanthus scrolls that carry twelve crowned kings in long robes, seated, kneeling or climbing in the loops of the stems; one at the right of centre plays a harp, others hold an orb, a book or flower heads. At the top centre the crowned Virgin sits with the Child on her lap. Dark brown ink line work on cream paper, no frame line, background transparent.",
+      "display_width": [
+        700,
+        1400
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 613764,
+        "webpTopBytes": 1058472
+      },
+      "facing": "mixed",
+      "group": "1943-3-169",
+      "height": 1741,
+      "master": {
+        "bytes": 2650682,
+        "h": 891,
+        "path": "masters/acanthus-tree-of-jesse-with-crowned-figures.webp",
+        "sha256": "45de1e3cf8d1e296ec10a40bee38e364c8e48b86611de4045a268a5ace8bde3f",
+        "w": 2048
+      },
+      "palette": [
+        "#948575",
+        "#a99986",
+        "#b7a791",
+        "#c4b39c",
+        "#d4c3aa"
+      ],
+      "provenance": {
+        "artist": "Israhel van Meckenem",
+        "date": "1445–1503 (catalog year range)",
+        "image_url": "https://api.nga.gov/iiif/25bc216a-651b-4357-8dae-f2b1cfe675ce/full/full/0/default.jpg",
+        "institution": "National Gallery of Art, Washington",
+        "method": "native-source-extraction",
+        "object_identifier": "1943.3.169",
+        "object_title": "Ornament with the Tree of Jesse",
+        "record_url": "https://www.nga.gov/collection/art-object-page.3381.html",
+        "rights_text": "Open Access / public domain; official image dataset openaccess=1",
+        "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+        "source_sha256": "3345d7d93ce11c98826b796d7ec97a071a0c90bbd58e317494cea8295af16a0e"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1994,
+            "h": 28,
+            "path": "avif/acanthus-tree-of-jesse-with-crowned-figures-64.avif",
+            "sha256": "231d9975c79a990a512d8e97756059580b72ce021f159351c64808cb89db0511",
+            "w": 64
+          },
+          {
+            "bytes": 4352,
+            "h": 42,
+            "path": "avif/acanthus-tree-of-jesse-with-crowned-figures-96.avif",
+            "sha256": "ee544192bf3d195dadb8761b109e83570ad974a08da24f8b2f33759670c43469",
+            "w": 96
+          },
+          {
+            "bytes": 7093,
+            "h": 56,
+            "path": "avif/acanthus-tree-of-jesse-with-crowned-figures-128.avif",
+            "sha256": "f354ed9f030f2287b735263abe1a53abdfad2e719345c6e4d4bfdb59a328ef87",
+            "w": 128
+          },
+          {
+            "bytes": 15217,
+            "h": 83,
+            "path": "avif/acanthus-tree-of-jesse-with-crowned-figures-192.avif",
+            "sha256": "b0bdf2584ad08d84d7bc9806ef04e5f41f62e27d23b617abf6b22488e9fccdde",
+            "w": 192
+          },
+          {
+            "bytes": 24963,
+            "h": 111,
+            "path": "avif/acanthus-tree-of-jesse-with-crowned-figures-256.avif",
+            "sha256": "86d8e496362b423262fec042f911897d76d61c39675f3c761339a138a1360ebf",
+            "w": 256
+          },
+          {
+            "bytes": 48897,
+            "h": 167,
+            "path": "avif/acanthus-tree-of-jesse-with-crowned-figures-384.avif",
+            "sha256": "86f60daf24cf9ef37cff725482c2aef44b0cbc5c304ffccca8fc8602c1770607",
+            "w": 384
+          },
+          {
+            "bytes": 77836,
+            "h": 223,
+            "path": "avif/acanthus-tree-of-jesse-with-crowned-figures-512.avif",
+            "sha256": "682b8c4d1982152ee9b4e477ee9be50239500b43ee85b2fcbb3d7ef8f8d52adc",
+            "w": 512
+          },
+          {
+            "bytes": 147323,
+            "h": 334,
+            "path": "avif/acanthus-tree-of-jesse-with-crowned-figures-768.avif",
+            "sha256": "62ce487b103010283f396c9da7ee19450c1e61bbc94787276cf0d51c5d0aa186",
+            "w": 768
+          },
+          {
+            "bytes": 224140,
+            "h": 445,
+            "path": "avif/acanthus-tree-of-jesse-with-crowned-figures-1024.avif",
+            "sha256": "51b49f85918e10fc908b670d7229a89d8c8a38ebe4e925b66c1e178072f192c2",
+            "w": 1024
+          },
+          {
+            "bytes": 407440,
+            "h": 668,
+            "path": "avif/acanthus-tree-of-jesse-with-crowned-figures-1536.avif",
+            "sha256": "9b8b9a16c8f3a47af5e031ad54c6a9e8dcf1fc06236ea10e7db692677001558f",
+            "w": 1536
+          },
+          {
+            "bytes": 613764,
+            "h": 891,
+            "path": "avif/acanthus-tree-of-jesse-with-crowned-figures-2048.avif",
+            "sha256": "ef2b1ba28837623d07b24f56045896cfde0ff8215c443dba47925e3ff9ed18d6",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2640,
+            "h": 28,
+            "path": "webp/acanthus-tree-of-jesse-with-crowned-figures-64.webp",
+            "sha256": "e20985aa4e64f216348f73e2aee42a6c92de1bb3d05c0759215b101459450312",
+            "w": 64
+          },
+          {
+            "bytes": 5786,
+            "h": 42,
+            "path": "webp/acanthus-tree-of-jesse-with-crowned-figures-96.webp",
+            "sha256": "ca17551516e18315758f60e543b6b5f2a596b005b2013a702a78863b245a1fe8",
+            "w": 96
+          },
+          {
+            "bytes": 9696,
+            "h": 56,
+            "path": "webp/acanthus-tree-of-jesse-with-crowned-figures-128.webp",
+            "sha256": "32d6d121d1ea7e1b16f0c1c7bf730043fd0f1bc5501866a2a0f9c157bdf685a6",
+            "w": 128
+          },
+          {
+            "bytes": 20090,
+            "h": 83,
+            "path": "webp/acanthus-tree-of-jesse-with-crowned-figures-192.webp",
+            "sha256": "582198dfa70bb5da12002c0a293d0fba2ae49284224e85cf529232f844142aad",
+            "w": 192
+          },
+          {
+            "bytes": 33650,
+            "h": 111,
+            "path": "webp/acanthus-tree-of-jesse-with-crowned-figures-256.webp",
+            "sha256": "67948ad0521d947c873b9c53db7dd584488da3f5a1c577e37defe7904f135187",
+            "w": 256
+          },
+          {
+            "bytes": 68952,
+            "h": 167,
+            "path": "webp/acanthus-tree-of-jesse-with-crowned-figures-384.webp",
+            "sha256": "47102c42bdab990e0af6bc8bb33bb7796d1f4d92dcbf169507ff94e98e802689",
+            "w": 384
+          },
+          {
+            "bytes": 112582,
+            "h": 223,
+            "path": "webp/acanthus-tree-of-jesse-with-crowned-figures-512.webp",
+            "sha256": "be3ac40f81167b60f039e27e59a2b8d5c792993e22bb39518651e851729c122a",
+            "w": 512
+          },
+          {
+            "bytes": 220372,
+            "h": 334,
+            "path": "webp/acanthus-tree-of-jesse-with-crowned-figures-768.webp",
+            "sha256": "5906eb877146c8f9540bddf9a3e8ad3409a58ac6412f9bb55ffff4a74bb00c26",
+            "w": 768
+          },
+          {
+            "bytes": 353306,
+            "h": 445,
+            "path": "webp/acanthus-tree-of-jesse-with-crowned-figures-1024.webp",
+            "sha256": "f3a9059a9b697a23a8d3693a3f67c4c5c44e0e99bf94ace6870ba44e6bed58f0",
+            "w": 1024
+          },
+          {
+            "bytes": 678154,
+            "h": 668,
+            "path": "webp/acanthus-tree-of-jesse-with-crowned-figures-1536.webp",
+            "sha256": "23e0180c1c5a2ba6e1c122a5fb9323d8f3d324e3247b1eb8545c9d84a260ec8c",
+            "w": 1536
+          },
+          {
+            "bytes": 1058472,
+            "h": 891,
+            "path": "webp/acanthus-tree-of-jesse-with-crowned-figures-2048.webp",
+            "sha256": "a32c13870bda480429eba2845e7a9505bd7496fce9914a7dc15a1b5664ac1b03",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "tree",
+        "king",
+        "crown",
+        "robe",
+        "beard",
+        "woman",
+        "child",
+        "harp",
+        "book",
+        "acanthus",
+        "leaf",
+        "scroll"
+      ],
+      "thumbhash": "5xiCAoAK+GF9hXZLYJgMdxdYY2t2WAU=",
+      "title": "Tree of Jesse in an acanthus scroll",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Complete panel; Jesse and the rising stem are the centre of the composition, so keep the whole width or crop symmetrically."
+      ],
+      "width": 4004
+    },
+    "circular-acanthus-wreath": {
+      "attribution": "National Gallery of Art, Washington 1943.3.163",
+      "categories": [
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "cream",
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A ring-shaped engraved wreath of curling acanthus stems and lobed leaves around an open circular centre. Two thick stems run around the inside of the ring and are bound together at the top and at the bottom. Flower heads, buds, a netted fruit at the lower right and a large blossom at the right sit among the scrolls, which end in small leaf tips around the outer edge. No figures or masks. Dark brown ink line work on cream paper; the centre and the background are transparent.",
+      "display_width": [
+        400,
+        800
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 347317,
+        "webpTopBytes": 710162
+      },
+      "facing": "none",
+      "group": "1943-3-163",
+      "height": 1274,
+      "master": {
+        "bytes": 2025872,
+        "h": 1274,
+        "path": "masters/circular-acanthus-wreath.webp",
+        "sha256": "6f9d6f40cbf5c685a7febe801bc11d73ee57f964e1aa5e87a19864ab2fae343f",
+        "w": 1235
+      },
+      "palette": [
+        "#a9957b",
+        "#95836c",
+        "#b9a386",
+        "#dbc3a0",
+        "#c8b192"
+      ],
+      "provenance": {
+        "artist": "Israhel van Meckenem",
+        "date": "c. 1495/1503",
+        "image_url": "https://api.nga.gov/iiif/402edd12-ca6a-4c3c-b9d0-507e8f95e985/full/full/0/default.jpg",
+        "institution": "National Gallery of Art, Washington",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1943.3.163",
+        "object_title": "Circular Ornament with Musicians Playing near a Well",
+        "record_url": "https://www.nga.gov/collection/art-object-page.3375.html",
+        "rights_text": "Open Access / public domain; official image dataset openaccess=1",
+        "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+        "source_sha256": "e60d9b77c83e40852274de9b27356b17f0dc4fb3d00abc058b5c5229c5a40336"
+      },
+      "related": [
+        {
+          "asset": "meckenem-prints/two-seated-musicians-with-shared-fountain",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3710,
+            "h": 66,
+            "path": "avif/circular-acanthus-wreath-64.avif",
+            "sha256": "564cc62da86065c5c0d7c2e9478e371a01356cd1cdf87ad3f55b3c2f59589473",
+            "w": 64
+          },
+          {
+            "bytes": 7444,
+            "h": 99,
+            "path": "avif/circular-acanthus-wreath-96.avif",
+            "sha256": "cdacf56efa2db9f947e3c542f3fc10c8e295c88bbe12fe68e212e58bbf3959ea",
+            "w": 96
+          },
+          {
+            "bytes": 11164,
+            "h": 132,
+            "path": "avif/circular-acanthus-wreath-128.avif",
+            "sha256": "3aea4e1ff65d3f457288e267379688aebcc864efe035dc492df56568e007396f",
+            "w": 128
+          },
+          {
+            "bytes": 20849,
+            "h": 198,
+            "path": "avif/circular-acanthus-wreath-192.avif",
+            "sha256": "b25ec83d0a1945ff3c92583e01c22e2b9cafbf0f5e26a7a6804591b3342efe8e",
+            "w": 192
+          },
+          {
+            "bytes": 32627,
+            "h": 264,
+            "path": "avif/circular-acanthus-wreath-256.avif",
+            "sha256": "e2642fb4f77a0691c32a4f6229e7103465247b29a7ef87fbf8ec2a2880d14807",
+            "w": 256
+          },
+          {
+            "bytes": 63112,
+            "h": 396,
+            "path": "avif/circular-acanthus-wreath-384.avif",
+            "sha256": "6baf37b70eb04f558c15a17c3693e68ee492a6fd25267ae0ed3e90c5e99a06e1",
+            "w": 384
+          },
+          {
+            "bytes": 99973,
+            "h": 528,
+            "path": "avif/circular-acanthus-wreath-512.avif",
+            "sha256": "de58d5563653e7dd3f7b8373ccea8774473dfb108907bfedc7e2b1b6e282da02",
+            "w": 512
+          },
+          {
+            "bytes": 184708,
+            "h": 792,
+            "path": "avif/circular-acanthus-wreath-768.avif",
+            "sha256": "c02e13e477b470104c59c5f1ae0ac165cb2759337f7f502e1db7445a40fe7112",
+            "w": 768
+          },
+          {
+            "bytes": 277490,
+            "h": 1056,
+            "path": "avif/circular-acanthus-wreath-1024.avif",
+            "sha256": "0051ffd20121bf3ad896092103e893f3204841ac52eb2f84a9c9548efdeb4589",
+            "w": 1024
+          },
+          {
+            "bytes": 347317,
+            "h": 1274,
+            "path": "avif/circular-acanthus-wreath-1235.avif",
+            "sha256": "40257ce2d65e4e936ebf4b9761a09bff4c7802461daa4848359430bc967a871f",
+            "w": 1235
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 5054,
+            "h": 66,
+            "path": "webp/circular-acanthus-wreath-64.webp",
+            "sha256": "cf53bbfb54a005de6156b5d633bfdd0512f929309790a33d575e7deec427f1af",
+            "w": 64
+          },
+          {
+            "bytes": 9850,
+            "h": 99,
+            "path": "webp/circular-acanthus-wreath-96.webp",
+            "sha256": "556dc0958ea9a6262f05f23705858937add2b817f4eb32f906de2e01bb16638c",
+            "w": 96
+          },
+          {
+            "bytes": 16168,
+            "h": 132,
+            "path": "webp/circular-acanthus-wreath-128.webp",
+            "sha256": "d2408ce8aaafa7a1491ee3a0e04677d42bffad5eab2ede4aa0fdf34e7f4206b7",
+            "w": 128
+          },
+          {
+            "bytes": 32404,
+            "h": 198,
+            "path": "webp/circular-acanthus-wreath-192.webp",
+            "sha256": "962483706363cfc78349fa39e3d68298e43377c7451bc8d8fbf9f7fb599fc48b",
+            "w": 192
+          },
+          {
+            "bytes": 52124,
+            "h": 264,
+            "path": "webp/circular-acanthus-wreath-256.webp",
+            "sha256": "d4bb5738b877d8b53313ee63c01fa0f2d521cd03a0ec816f52b366afa545d6c9",
+            "w": 256
+          },
+          {
+            "bytes": 104230,
+            "h": 396,
+            "path": "webp/circular-acanthus-wreath-384.webp",
+            "sha256": "6fcb751d6495a3ad6fe256b5b318561b4d10a2621cf2f78aa9342387aac5fc30",
+            "w": 384
+          },
+          {
+            "bytes": 169316,
+            "h": 528,
+            "path": "webp/circular-acanthus-wreath-512.webp",
+            "sha256": "fa43a0727a15cd7dbddc1485051b9f6442586d78885d8de0a4b86ebea184c4f2",
+            "w": 512
+          },
+          {
+            "bytes": 335660,
+            "h": 792,
+            "path": "webp/circular-acanthus-wreath-768.webp",
+            "sha256": "abef5b66d2630a21fe6041088fea9f34a5f7233ec11c17fcbf6cc0357ec213a7",
+            "w": 768
+          },
+          {
+            "bytes": 542064,
+            "h": 1056,
+            "path": "webp/circular-acanthus-wreath-1024.webp",
+            "sha256": "87ec0516cfdd4f77b3e657b5dc326539279828b6e1e6aabcfb11d1fdd23c7302",
+            "w": 1024
+          },
+          {
+            "bytes": 710162,
+            "h": 1274,
+            "path": "webp/circular-acanthus-wreath-1235.webp",
+            "sha256": "c7e48def22f1aabdd6b33fdce05c95f70c94516077e204cd35924f7f057abe05",
+            "w": 1235
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "wreath",
+        "acanthus",
+        "leaf",
+        "scroll",
+        "frame",
+        "flower",
+        "bud",
+        "fruit"
+      ],
+      "thumbhash": "JimCBQAnlytSlnv3CdBYHQ7mdziHeIaQJw==",
+      "title": "Circular acanthus wreath",
+      "transparent": true,
+      "type": "frame",
+      "usage_notes": [
+        "The open centre is about half the diameter of the ring; in the print it holds the two musicians at the well, so place that scene or a roundel of similar size inside it.",
+        "A circular ring, not a nine-slice frame; it is placed as an image, not as a CSS border-image."
+      ],
+      "width": 1235
+    },
+    "two-seated-musicians-with-shared-fountain": {
+      "attribution": "National Gallery of Art, Washington 1943.3.163",
+      "categories": [
+        "humans",
+        "music"
+      ],
+      "colors": [
+        "cream",
+        "brown",
+        "black"
+      ],
+      "composition": "multiple-figures",
+      "description": "An engraved scene of two musicians seated on stone blocks on either side of an octagonal well. At the left a barefoot young man with curly hair in a short tunic plays a lute with a plectrum, facing right; at the right a woman in a long gown with long hair plays a harp, facing left. Between them a small Gothic canopy on four posts with a cross finial and a perched bird rises over the water, a vessel hangs from a tripod above it, a bird drinks at the rim, and two potted trees stand behind. Dark brown ink line work on cream paper, background transparent.",
+      "display_width": [
+        300,
+        600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 176812,
+        "webpTopBytes": 342762
+      },
+      "facing": "mixed",
+      "group": "1943-3-163",
+      "height": 1109,
+      "master": {
+        "bytes": 1384670,
+        "h": 1109,
+        "path": "masters/two-seated-musicians-with-shared-fountain.webp",
+        "sha256": "eda04cda30af5e0aa0bf7bd87911ccdaca04dda8475dfcf136fbbab4f5f9fece",
+        "w": 1248
+      },
+      "palette": [
+        "#d7c3aa",
+        "#978572",
+        "#b3a18a",
+        "#615348",
+        "#7c6c5d"
+      ],
+      "provenance": {
+        "artist": "Israhel van Meckenem",
+        "date": "c. 1495/1503",
+        "image_url": "https://api.nga.gov/iiif/402edd12-ca6a-4c3c-b9d0-507e8f95e985/full/full/0/default.jpg",
+        "institution": "National Gallery of Art, Washington",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1943.3.163",
+        "object_title": "Circular Ornament with Musicians Playing near a Well",
+        "record_url": "https://www.nga.gov/collection/art-object-page.3375.html",
+        "rights_text": "Open Access / public domain; official image dataset openaccess=1",
+        "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+        "source_sha256": "e60d9b77c83e40852274de9b27356b17f0dc4fb3d00abc058b5c5229c5a40336"
+      },
+      "related": [
+        {
+          "asset": "meckenem-prints/circular-acanthus-wreath",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2402,
+            "h": 57,
+            "path": "avif/two-seated-musicians-with-shared-fountain-64.avif",
+            "sha256": "9017cb0facc792c4c0ec2ffbf31b1a4c254e151c19befc2d518d5112dcd1fca4",
+            "w": 64
+          },
+          {
+            "bytes": 4047,
+            "h": 85,
+            "path": "avif/two-seated-musicians-with-shared-fountain-96.avif",
+            "sha256": "af7dffc4ce849b44b56fdec7f69041cc8e679d8944baef779b379bb8b97c3f4a",
+            "w": 96
+          },
+          {
+            "bytes": 5544,
+            "h": 114,
+            "path": "avif/two-seated-musicians-with-shared-fountain-128.avif",
+            "sha256": "78883ef4da361147aea7c9616d7c83e321d086a65df613d4bf16507c2027a22b",
+            "w": 128
+          },
+          {
+            "bytes": 9618,
+            "h": 171,
+            "path": "avif/two-seated-musicians-with-shared-fountain-192.avif",
+            "sha256": "57b90e6dcde5a743f298edb5ac493e4e82ac09b1ffa9815ef239f8852ee00c3f",
+            "w": 192
+          },
+          {
+            "bytes": 14946,
+            "h": 227,
+            "path": "avif/two-seated-musicians-with-shared-fountain-256.avif",
+            "sha256": "1739dba96b76cad28b8fa1d749e1c0e55092746f1635be35240ba3ec132b09b4",
+            "w": 256
+          },
+          {
+            "bytes": 29637,
+            "h": 341,
+            "path": "avif/two-seated-musicians-with-shared-fountain-384.avif",
+            "sha256": "37d58340a27ca7e5925b86f7bc0364f8b0106068daa490957c1b3b0153985988",
+            "w": 384
+          },
+          {
+            "bytes": 47257,
+            "h": 455,
+            "path": "avif/two-seated-musicians-with-shared-fountain-512.avif",
+            "sha256": "26278371fdbeb41f26fddc8e32bcbba636bf3e1f2e7e68bc54c86387965c5d85",
+            "w": 512
+          },
+          {
+            "bytes": 91312,
+            "h": 682,
+            "path": "avif/two-seated-musicians-with-shared-fountain-768.avif",
+            "sha256": "1275d2a4e75fe71684195c81028388d68afafb551d3245ac4456ab3a05a4f421",
+            "w": 768
+          },
+          {
+            "bytes": 136511,
+            "h": 910,
+            "path": "avif/two-seated-musicians-with-shared-fountain-1024.avif",
+            "sha256": "54512b667d0c65e780b45b244848b69b004059c316aefaca38340c1e07028bbd",
+            "w": 1024
+          },
+          {
+            "bytes": 176812,
+            "h": 1109,
+            "path": "avif/two-seated-musicians-with-shared-fountain-1248.avif",
+            "sha256": "8c838d5ffe3db3641491d80ea11669c2c4ab50310f7bdd892142c069a2e66992",
+            "w": 1248
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3262,
+            "h": 57,
+            "path": "webp/two-seated-musicians-with-shared-fountain-64.webp",
+            "sha256": "509bc8fce93c931adcd53e78884a89aba910cbb4c9b03a5e8140c591d35fd391",
+            "w": 64
+          },
+          {
+            "bytes": 5922,
+            "h": 85,
+            "path": "webp/two-seated-musicians-with-shared-fountain-96.webp",
+            "sha256": "3f53537ec91ac344d616e8b9ad0f65d0e00b3666641fb1d15ffda671dc84ba11",
+            "w": 96
+          },
+          {
+            "bytes": 8818,
+            "h": 114,
+            "path": "webp/two-seated-musicians-with-shared-fountain-128.webp",
+            "sha256": "655c768b2b7bc7add8bf88daf4d1a5572543eea00652573db5a7e37034e44e4c",
+            "w": 128
+          },
+          {
+            "bytes": 16410,
+            "h": 171,
+            "path": "webp/two-seated-musicians-with-shared-fountain-192.webp",
+            "sha256": "c8793fbf33d8fd54d2fe11e990d863d4a82822ee2899268066d5e312f9eeb462",
+            "w": 192
+          },
+          {
+            "bytes": 24978,
+            "h": 227,
+            "path": "webp/two-seated-musicians-with-shared-fountain-256.webp",
+            "sha256": "b065f9532623cac5d95dcd3d14b92a93d77c9db25224756ae99c21786065f83d",
+            "w": 256
+          },
+          {
+            "bytes": 49800,
+            "h": 341,
+            "path": "webp/two-seated-musicians-with-shared-fountain-384.webp",
+            "sha256": "85b39e5eb036f8252626e3d713f73cfc0d8d29a2be62579994279a0e0b6fa108",
+            "w": 384
+          },
+          {
+            "bytes": 80658,
+            "h": 455,
+            "path": "webp/two-seated-musicians-with-shared-fountain-512.webp",
+            "sha256": "4aecaa2e99e258f602da74e117111021b04e92ee7ed6ae8ec22a570b419f47d7",
+            "w": 512
+          },
+          {
+            "bytes": 162222,
+            "h": 682,
+            "path": "webp/two-seated-musicians-with-shared-fountain-768.webp",
+            "sha256": "ba5e94dc868adb006d1c623a418fb85f974b4a88f2c174d096db3cb314583f30",
+            "w": 768
+          },
+          {
+            "bytes": 258156,
+            "h": 910,
+            "path": "webp/two-seated-musicians-with-shared-fountain-1024.webp",
+            "sha256": "05684c131950d19c1d946fd280228fef335a32982fa6da6083992ac6c2ffcf30",
+            "w": 1024
+          },
+          {
+            "bytes": 342762,
+            "h": 1109,
+            "path": "webp/two-seated-musicians-with-shared-fountain-1248.webp",
+            "sha256": "d4e6d044e904b09ee2cae87e2c1a865eb4459afa748288f93f992ac02661e320",
+            "w": 1248
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "musician",
+        "lute",
+        "harp",
+        "fountain",
+        "woman",
+        "human",
+        "bird",
+        "tree",
+        "tower",
+        "cross",
+        "architecture"
+      ],
+      "thumbhash": "5CiCBIAo+ilxi2bUtz86xPZ0cgZ5CIaKBQ==",
+      "title": "Two musicians at a well",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The centre of the same print; it fits inside the open ring of the circular wreath at about half the wreath's width."
+      ],
+      "width": 1248
+    }
+  },
+  "attribution": "National Gallery of Art, Washington",
+  "builtAt": "2026-10-28T19:33:25.179Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-meckenem-prints@1.0.0/",
+  "contentHash": "sha256:fdcc675fcffd8f9dfc5bee71e65f8d4a228bc25a9d4e2f35f6108c6a2e76cc92",
+  "inputsHash": "sha256:36b2e6f76f1a940a31779338ec6f8640b008d7d3eb8aecf6b52860d4779aae84",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from National Gallery of Art open access (CC0) images; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-meckenem-prints-masters",
+  "package": "@ranx729/ducktape-assets-meckenem-prints",
+  "period": "ca. 1490–1503",
+  "region": "Bocholt, Lower Rhine",
+  "schema": 1,
+  "set": "meckenem-prints",
+  "style": "late Gothic engraving",
+  "summary": "An acanthus panel with two lovers, a Tree of Jesse ornament and a circular ornament with musicians at a well, engraved by Israhel van Meckenem in Bocholt around 1490–1503, from three sheets in the National Gallery of Art, Washington; loose prints, grouped by sheet.",
+  "title": "Israhel van Meckenem ornament prints",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,691 @@
+{
+  "assets": {
+    "acanthus-double-medallion-winged-figures": {
+      "attribution": "Metropolitan Museum of Art 63.546.1",
+      "categories": [
+        "humans",
+        "fantasy",
+        "scrollwork"
+      ],
+      "colors": [
+        "cream",
+        "brown",
+        "black"
+      ],
+      "composition": "multiple-figures",
+      "description": "Two engraved circular medallion rings joined side by side by a leaf clasp, each tied with a leaf knot at top and bottom. In the left ring a naked winged putto sits on clouds facing right with a flaming torch and a bow, a quiver beside him; in the right ring a robed winged child sits on clouds facing left, one arm outstretched, holding a tall cross on a staff. Acanthus tendrils spring from the four corners and two small serpent-like creatures curl under the rings. Black ink with hatched shading; the cream paper tone is kept inside the forms, the field inside and around the rings is transparent.",
+      "display_width": [
+        400,
+        900
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 438716,
+        "webpTopBytes": 697706
+      },
+      "facing": "mixed",
+      "group": null,
+      "height": 1178,
+      "master": {
+        "bytes": 2384342,
+        "h": 1178,
+        "path": "masters/acanthus-double-medallion-winged-figures.webp",
+        "sha256": "cb1de2adbdf9baea85a463a41e2c88d3bc024ae231e45e7ca3c2c12c830fe737",
+        "w": 1900
+      },
+      "palette": [
+        "#a79b8b",
+        "#b9ad9a",
+        "#ccbfab",
+        "#8a7f72",
+        "#998e7e"
+      ],
+      "provenance": {
+        "artist": "Lucas van Leyden",
+        "date": "1517",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP819073.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "63.546.1",
+        "object_title": "Two Putti Seated in Clouds in Circles with Tendrils",
+        "record_url": "https://www.metmuseum.org/art/collection/search/364800",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "bbc95013cba018fc6acffad61f1ae5644e2a937c9998078f452dec37bac42e39"
+      },
+      "quality": "The outermost tendrils at the left and right edges run to the plate edge and are cut there.",
+      "related": [
+        {
+          "asset": "lucas-van-leyden-prints/winged-child-with-bow-on-clouds",
+          "role": "variant"
+        },
+        {
+          "asset": "lucas-van-leyden-prints/winged-child-with-cross-on-clouds",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2611,
+            "h": 40,
+            "path": "avif/acanthus-double-medallion-winged-figures-64.avif",
+            "sha256": "3d142d71c8ed83979bf38432def8ba50795afafc0a5dd47fe1daa1c1124d8ed3",
+            "w": 64
+          },
+          {
+            "bytes": 4915,
+            "h": 60,
+            "path": "avif/acanthus-double-medallion-winged-figures-96.avif",
+            "sha256": "d558efd88944c47fa545050461ae408515a622989ed3cc4873bc564a2c628c49",
+            "w": 96
+          },
+          {
+            "bytes": 7373,
+            "h": 79,
+            "path": "avif/acanthus-double-medallion-winged-figures-128.avif",
+            "sha256": "a54047a0cb8ae75276e91bdf91f96609a16d1abc17c3000fb94f36cabec32da7",
+            "w": 128
+          },
+          {
+            "bytes": 13466,
+            "h": 119,
+            "path": "avif/acanthus-double-medallion-winged-figures-192.avif",
+            "sha256": "537ee6be5b83a8137be1939d0d9f22758d6d5238f2a0262bc66240e904d3716d",
+            "w": 192
+          },
+          {
+            "bytes": 20483,
+            "h": 159,
+            "path": "avif/acanthus-double-medallion-winged-figures-256.avif",
+            "sha256": "ae1452f28cc5ef1f3949063aab713febee730a847731157c39ffecfe1d6d62a2",
+            "w": 256
+          },
+          {
+            "bytes": 38387,
+            "h": 238,
+            "path": "avif/acanthus-double-medallion-winged-figures-384.avif",
+            "sha256": "b42a04725f569e8155ad24ed10e80c3bc2d8b0dc27a1cb10b03563c79ec1e6e7",
+            "w": 384
+          },
+          {
+            "bytes": 61289,
+            "h": 317,
+            "path": "avif/acanthus-double-medallion-winged-figures-512.avif",
+            "sha256": "b3bc9d44796bce7f31a591390264ddaa4eda3b03d566f9ba40d4f41d9318b8d6",
+            "w": 512
+          },
+          {
+            "bytes": 123196,
+            "h": 476,
+            "path": "avif/acanthus-double-medallion-winged-figures-768.avif",
+            "sha256": "af04a945890a2df4dc5415a3c6123c77691166ed98a40b4e9ea35b4dbb6875b1",
+            "w": 768
+          },
+          {
+            "bytes": 195233,
+            "h": 635,
+            "path": "avif/acanthus-double-medallion-winged-figures-1024.avif",
+            "sha256": "29f27ce6f1ec3fceaa42c2ab2bdb4c3a088b5a5c4f7dfd22848b092d0e5869df",
+            "w": 1024
+          },
+          {
+            "bytes": 344903,
+            "h": 952,
+            "path": "avif/acanthus-double-medallion-winged-figures-1536.avif",
+            "sha256": "e6e14868fbd34ae0cc54b3af3634df93bc89a9fccf178c673f1f9e3359197d48",
+            "w": 1536
+          },
+          {
+            "bytes": 438716,
+            "h": 1178,
+            "path": "avif/acanthus-double-medallion-winged-figures-1900.avif",
+            "sha256": "14bcaf112e6099f21f32ae69b2106b023d89ae2ac9710e23d3f9a676fbd88572",
+            "w": 1900
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3146,
+            "h": 40,
+            "path": "webp/acanthus-double-medallion-winged-figures-64.webp",
+            "sha256": "e1e61728bc03c63acc4ea145521643800f09e8c03ceeccc70edf2b8ba70c452e",
+            "w": 64
+          },
+          {
+            "bytes": 6300,
+            "h": 60,
+            "path": "webp/acanthus-double-medallion-winged-figures-96.webp",
+            "sha256": "46453b8fa71f090d68d02375e09a0d1ad1717cb25ce8acd63373ef955b10de4f",
+            "w": 96
+          },
+          {
+            "bytes": 9970,
+            "h": 79,
+            "path": "webp/acanthus-double-medallion-winged-figures-128.webp",
+            "sha256": "8409379b0fe86095a5af95510e1701cf3a8c24aec6dd373f2cf56cdcf2b6c8d8",
+            "w": 128
+          },
+          {
+            "bytes": 19556,
+            "h": 119,
+            "path": "webp/acanthus-double-medallion-winged-figures-192.webp",
+            "sha256": "18a325ededd078e386a5f8efb59fc8259cd81e98cde42762ba3a66e419f7601b",
+            "w": 192
+          },
+          {
+            "bytes": 30754,
+            "h": 159,
+            "path": "webp/acanthus-double-medallion-winged-figures-256.webp",
+            "sha256": "2eb54a962ce66b324c133748e60f5f16e3a3de862bf74ed0fcfe767eca30e96b",
+            "w": 256
+          },
+          {
+            "bytes": 59356,
+            "h": 238,
+            "path": "webp/acanthus-double-medallion-winged-figures-384.webp",
+            "sha256": "c08a5e39eec83058b47e67cd0c72295502aa3f170eda367114d35b0e92c396f0",
+            "w": 384
+          },
+          {
+            "bytes": 94790,
+            "h": 317,
+            "path": "webp/acanthus-double-medallion-winged-figures-512.webp",
+            "sha256": "7c9ee74a4915fdcea03d5f36967bfb02e041c7b00415b65e38368590744e726e",
+            "w": 512
+          },
+          {
+            "bytes": 189834,
+            "h": 476,
+            "path": "webp/acanthus-double-medallion-winged-figures-768.webp",
+            "sha256": "ac3e9482e372b92e13614851f0aab3b7ce518ed2a27b834e8e0e4998fe8c325e",
+            "w": 768
+          },
+          {
+            "bytes": 312058,
+            "h": 635,
+            "path": "webp/acanthus-double-medallion-winged-figures-1024.webp",
+            "sha256": "1469021794f405b2ac8fb75d9cdb785c28cf28d1c1cca2d2c5a3ca4f162aec37",
+            "w": 1024
+          },
+          {
+            "bytes": 593186,
+            "h": 952,
+            "path": "webp/acanthus-double-medallion-winged-figures-1536.webp",
+            "sha256": "a579509fcb4dac629459c1c335480f18d793c2fb967cd6cbdc0762873498e620",
+            "w": 1536
+          },
+          {
+            "bytes": 697706,
+            "h": 1178,
+            "path": "webp/acanthus-double-medallion-winged-figures-1900.webp",
+            "sha256": "852c878bd7f91d72c19ff8d5def049c2782fb6af75ce46a4b9faaa05447d259f",
+            "w": 1900
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "medallion",
+        "putto",
+        "wings",
+        "cloud",
+        "torch",
+        "bow",
+        "quiver",
+        "cross",
+        "robe",
+        "acanthus",
+        "leaf",
+        "scroll",
+        "creature"
+      ],
+      "thumbhash": "qBiCA4Aa9qhidJjyhmwLmaYVhnhw1gc=",
+      "title": "Two linked medallions with winged children on clouds",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Complete piece; the two children are also available on their own without the rings, as separate assets of this set.",
+        "Wide (about 1.6:1); it reads as a headpiece or a paired-roundel ornament."
+      ],
+      "width": 1900
+    },
+    "winged-child-with-bow-on-clouds": {
+      "attribution": "Metropolitan Museum of Art 63.546.1",
+      "categories": [
+        "humans",
+        "fantasy"
+      ],
+      "colors": [
+        "cream",
+        "brown",
+        "black"
+      ],
+      "composition": "single-figure",
+      "description": "A naked winged putto sits on a rounded bank of clouds, body turned three-quarter to the viewer and head turned to the right. His raised left hand holds a flaming torch, his right hand holds a bow across his lap, a tubular quiver on a strap lies beside his right leg and a globe rests in the clouds at the lower left. Black ink with hatched shading; the cream paper tone is kept inside the figure and clouds, and the background is transparent.",
+      "display_width": [
+        150,
+        350
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 79820,
+        "webpTopBytes": 124156
+      },
+      "facing": "right",
+      "group": null,
+      "height": 731,
+      "master": {
+        "bytes": 474416,
+        "h": 731,
+        "path": "masters/winged-child-with-bow-on-clouds.webp",
+        "sha256": "7efa137edc5f4b03e57d346c94083296115fc95da9dce82ce9eec13689fe7f76",
+        "w": 710
+      },
+      "palette": [
+        "#c1b6a4",
+        "#a09586",
+        "#8c8274",
+        "#6e655a",
+        "#7e7569"
+      ],
+      "provenance": {
+        "artist": "Lucas van Leyden",
+        "date": "1517",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP819073.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "63.546.1",
+        "object_title": "Two Putti Seated in Clouds in Circles with Tendrils",
+        "record_url": "https://www.metmuseum.org/art/collection/search/364800",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "bbc95013cba018fc6acffad61f1ae5644e2a937c9998078f452dec37bac42e39"
+      },
+      "related": [
+        {
+          "asset": "lucas-van-leyden-prints/acanthus-double-medallion-winged-figures",
+          "role": "variant"
+        },
+        {
+          "asset": "lucas-van-leyden-prints/winged-child-with-cross-on-clouds",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2226,
+            "h": 66,
+            "path": "avif/winged-child-with-bow-on-clouds-64.avif",
+            "sha256": "af78b283b9f3f575505b54fed2086282c8b9c4fbb98dd5e416434e87a4d92258",
+            "w": 64
+          },
+          {
+            "bytes": 3840,
+            "h": 99,
+            "path": "avif/winged-child-with-bow-on-clouds-96.avif",
+            "sha256": "4e99383e57b88dcc7c6ee1c3bdf759bba4766dfb088da169c782f36a554c39d1",
+            "w": 96
+          },
+          {
+            "bytes": 5649,
+            "h": 132,
+            "path": "avif/winged-child-with-bow-on-clouds-128.avif",
+            "sha256": "5f24a3c0ea791d0a34dbce485695742ba2a04c23c50a2d17bc2b250b8855c7b3",
+            "w": 128
+          },
+          {
+            "bytes": 10208,
+            "h": 198,
+            "path": "avif/winged-child-with-bow-on-clouds-192.avif",
+            "sha256": "01ed971a89b5f605b92405972e97655832ec38a19221863a3f3e3b9b61d766b0",
+            "w": 192
+          },
+          {
+            "bytes": 17035,
+            "h": 264,
+            "path": "avif/winged-child-with-bow-on-clouds-256.avif",
+            "sha256": "66214884d42d97b1f1f5a733b972355084a368d70eeadfa10a32ed93508020d8",
+            "w": 256
+          },
+          {
+            "bytes": 35014,
+            "h": 395,
+            "path": "avif/winged-child-with-bow-on-clouds-384.avif",
+            "sha256": "1991c43c47d070e87c0859da044fbd36ceeca279c0b93fbcf61d3bd940903cbb",
+            "w": 384
+          },
+          {
+            "bytes": 53435,
+            "h": 527,
+            "path": "avif/winged-child-with-bow-on-clouds-512.avif",
+            "sha256": "3c1fe345bd130366812745975b612e8521fdbbae19583ec826a2ebdf89d6cbf0",
+            "w": 512
+          },
+          {
+            "bytes": 79820,
+            "h": 731,
+            "path": "avif/winged-child-with-bow-on-clouds-710.avif",
+            "sha256": "6f5068bc4073f903ef14d94914c6296593c667f26497cc78173efb1f5b306a8c",
+            "w": 710
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2994,
+            "h": 66,
+            "path": "webp/winged-child-with-bow-on-clouds-64.webp",
+            "sha256": "5ceb9f15af2ed3d152951d63d68d817bdbd5eacd02947dccc1c2168075d03e10",
+            "w": 64
+          },
+          {
+            "bytes": 5396,
+            "h": 99,
+            "path": "webp/winged-child-with-bow-on-clouds-96.webp",
+            "sha256": "e179df8801490d2d25af5e489b4e04624c5142b00dc05f0e93c7dbcc12e0469d",
+            "w": 96
+          },
+          {
+            "bytes": 8198,
+            "h": 132,
+            "path": "webp/winged-child-with-bow-on-clouds-128.webp",
+            "sha256": "378847cc22257c4673234b08749b11b578cd2ce412336a59096c8f027d4f48bb",
+            "w": 128
+          },
+          {
+            "bytes": 15398,
+            "h": 198,
+            "path": "webp/winged-child-with-bow-on-clouds-192.webp",
+            "sha256": "36de5a88b9d40d98adc6a79c8e41ed881eac7bff08eefdb1b75277ec245d3aab",
+            "w": 192
+          },
+          {
+            "bytes": 24984,
+            "h": 264,
+            "path": "webp/winged-child-with-bow-on-clouds-256.webp",
+            "sha256": "ebe633902f8dd4765a646796389bf6790edb31f4ba9676edf7514ca91ea635e7",
+            "w": 256
+          },
+          {
+            "bytes": 52082,
+            "h": 395,
+            "path": "webp/winged-child-with-bow-on-clouds-384.webp",
+            "sha256": "13078a60bfe335147ee81803ad28f3b50f0e37ab1d5c575753c395294bc7eb63",
+            "w": 384
+          },
+          {
+            "bytes": 85042,
+            "h": 527,
+            "path": "webp/winged-child-with-bow-on-clouds-512.webp",
+            "sha256": "32806d8534757954cdceea18df11dead67aad5d1bf7e8be6f0f3c3c8abc65d83",
+            "w": 512
+          },
+          {
+            "bytes": 124156,
+            "h": 731,
+            "path": "webp/winged-child-with-bow-on-clouds-710.webp",
+            "sha256": "877c4ecca2b656560308b81933f7952b7a2c310681462236ed2bce9a9ec5711c",
+            "w": 710
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "putto",
+        "wings",
+        "cloud",
+        "torch",
+        "bow",
+        "quiver"
+      ],
+      "thumbhash": "pxiCBQA6dv9XhJq2efhRax+HCWeFd3OHSA==",
+      "title": "Winged child with torch and bow on clouds",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Cut from the left medallion of the double-medallion ornament; the clouds give it a soft rounded base, so it sits on a line or in a roundel.",
+        "Faces right; pairs with the cross-bearing child, which faces left."
+      ],
+      "view": "three-quarter",
+      "width": 710
+    },
+    "winged-child-with-cross-on-clouds": {
+      "attribution": "Metropolitan Museum of Art 63.546.1",
+      "categories": [
+        "humans",
+        "fantasy"
+      ],
+      "colors": [
+        "cream",
+        "brown",
+        "black"
+      ],
+      "composition": "single-figure",
+      "description": "A winged child in a loose robe sits on a bank of clouds, seen three-quarter from behind and facing left. The left arm stretches straight out to the left across the face, the right hand holds a tall thin cross on a staff that leans to the upper left, and one bare foot rests on the cloud below. Black ink with hatched shading; the cream paper tone is kept inside the figure, robe and clouds, and the background is transparent.",
+      "display_width": [
+        150,
+        350
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 100604,
+        "webpTopBytes": 179816
+      },
+      "facing": "left",
+      "group": null,
+      "height": 723,
+      "master": {
+        "bytes": 602686,
+        "h": 723,
+        "path": "masters/winged-child-with-cross-on-clouds.webp",
+        "sha256": "eca349014c2b236d1a957bd7808e264b8879c5166b118b07ed22fa673debda3b",
+        "w": 649
+      },
+      "palette": [
+        "#a4927d",
+        "#bfad95",
+        "#dac8af",
+        "#796959",
+        "#8f7e6b"
+      ],
+      "provenance": {
+        "artist": "Lucas van Leyden",
+        "date": "1517",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP819073.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "63.546.1",
+        "object_title": "Two Putti Seated in Clouds in Circles with Tendrils",
+        "record_url": "https://www.metmuseum.org/art/collection/search/364800",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "bbc95013cba018fc6acffad61f1ae5644e2a937c9998078f452dec37bac42e39"
+      },
+      "related": [
+        {
+          "asset": "lucas-van-leyden-prints/acanthus-double-medallion-winged-figures",
+          "role": "variant"
+        },
+        {
+          "asset": "lucas-van-leyden-prints/winged-child-with-bow-on-clouds",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2608,
+            "h": 71,
+            "path": "avif/winged-child-with-cross-on-clouds-64.avif",
+            "sha256": "668c590964e38563e7f3869637bcd7f961105153500aa75d05686eeca2cb2940",
+            "w": 64
+          },
+          {
+            "bytes": 4141,
+            "h": 107,
+            "path": "avif/winged-child-with-cross-on-clouds-96.avif",
+            "sha256": "b5e88b708955e1d3c90d382e96a987133a4acfdfa70be12d9b87eb4e28501433",
+            "w": 96
+          },
+          {
+            "bytes": 6232,
+            "h": 143,
+            "path": "avif/winged-child-with-cross-on-clouds-128.avif",
+            "sha256": "fe2e8e9591581d3de3c4516bd06f347fe871b695a22d549d10cab7bbda3e39f6",
+            "w": 128
+          },
+          {
+            "bytes": 11692,
+            "h": 214,
+            "path": "avif/winged-child-with-cross-on-clouds-192.avif",
+            "sha256": "b8753ab48d21cae6616093fbc2e7e91ca63acaacf81f4328b0658c717bcf8cac",
+            "w": 192
+          },
+          {
+            "bytes": 19383,
+            "h": 285,
+            "path": "avif/winged-child-with-cross-on-clouds-256.avif",
+            "sha256": "41a82443827567e3d464acfe0e1afadbe5f278b89ec6a0baf4699fd39801e327",
+            "w": 256
+          },
+          {
+            "bytes": 40701,
+            "h": 428,
+            "path": "avif/winged-child-with-cross-on-clouds-384.avif",
+            "sha256": "63818cf92011f9fedf73473089671f8ccffe6dd02d1da6e95114db871ae84f75",
+            "w": 384
+          },
+          {
+            "bytes": 66612,
+            "h": 570,
+            "path": "avif/winged-child-with-cross-on-clouds-512.avif",
+            "sha256": "c0eca6b25f1e940b7c2c092b1e669fede2afdef18124cda69e2c8047ec617cbe",
+            "w": 512
+          },
+          {
+            "bytes": 100604,
+            "h": 723,
+            "path": "avif/winged-child-with-cross-on-clouds-649.avif",
+            "sha256": "daa2c530593b9daf156205ba5d85d3ecb674d1dc8202aa04d799cfd457a32a60",
+            "w": 649
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3980,
+            "h": 71,
+            "path": "webp/winged-child-with-cross-on-clouds-64.webp",
+            "sha256": "59ed7e6d985723323343f09f8dfb5a6b11cc577a17bec425ce8db8679fc92574",
+            "w": 64
+          },
+          {
+            "bytes": 7368,
+            "h": 107,
+            "path": "webp/winged-child-with-cross-on-clouds-96.webp",
+            "sha256": "3b0e446d6c2b4659647b96b2fafc5f4a760eea9a1c17e3e1eeb2f063a51cbfe1",
+            "w": 96
+          },
+          {
+            "bytes": 10924,
+            "h": 143,
+            "path": "webp/winged-child-with-cross-on-clouds-128.webp",
+            "sha256": "fec652f7d46cf1053b2ff294329437b2d2148cb4abe603dc2bad390bbd58b396",
+            "w": 128
+          },
+          {
+            "bytes": 21290,
+            "h": 214,
+            "path": "webp/winged-child-with-cross-on-clouds-192.webp",
+            "sha256": "5a1ce67825f47a03604c5255c6677fb255aa21a90657981e06337f2a8e1729f1",
+            "w": 192
+          },
+          {
+            "bytes": 34844,
+            "h": 285,
+            "path": "webp/winged-child-with-cross-on-clouds-256.webp",
+            "sha256": "e5ee88c77501c9ae1414e65aba3ab794beba7a196d87e7c5a23fe1b2ed6350ca",
+            "w": 256
+          },
+          {
+            "bytes": 72698,
+            "h": 428,
+            "path": "webp/winged-child-with-cross-on-clouds-384.webp",
+            "sha256": "f29d64fda180ce8768caf5cb04b8a34de8735babf63f8d65072fa6cfae574e65",
+            "w": 384
+          },
+          {
+            "bytes": 121630,
+            "h": 570,
+            "path": "webp/winged-child-with-cross-on-clouds-512.webp",
+            "sha256": "27df853829871da9c8e034deed79fa5d525194f16779aa638a89496a30e1aaf9",
+            "w": 512
+          },
+          {
+            "bytes": 179816,
+            "h": 723,
+            "path": "webp/winged-child-with-cross-on-clouds-649.webp",
+            "sha256": "85ff59d0d1cf2e42c546559ba7ebd13b9d342790abf29018e75b039f511db7c3",
+            "w": 649
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "putto",
+        "wings",
+        "cloud",
+        "cross",
+        "robe"
+      ],
+      "thumbhash": "5yiGBQAqgEqZeId2dYCOhvVmBFpjmJSmSg==",
+      "title": "Winged child with a cross on clouds",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Cut from the right medallion of the double-medallion ornament; the clouds give it a soft rounded base, so it sits on a line or in a roundel.",
+        "Faces left; pairs with the torch-and-bow child, which faces right."
+      ],
+      "view": "three-quarter",
+      "width": 649
+    }
+  },
+  "attribution": "Metropolitan Museum of Art",
+  "builtAt": "2026-10-28T19:32:14.924Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-lucas-van-leyden-prints@1.0.0/",
+  "contentHash": "sha256:4761eb3317f654daa06ce1e9ab17afc4075c91df6f85384e38a362f2f65eb273",
+  "inputsHash": "sha256:b6b8fdbf63efeb92a6e59ca65fa3db35f27a030797b28cc33d5c37ebf2e9ab26",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from Metropolitan Museum of Art Open Access (CC0) images; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-lucas-van-leyden-prints-masters",
+  "package": "@ranx729/ducktape-assets-lucas-van-leyden-prints",
+  "period": "1517",
+  "region": "Leiden, Netherlands",
+  "schema": 1,
+  "set": "lucas-van-leyden-prints",
+  "style": "Renaissance engraving",
+  "summary": "Acanthus medallions with winged putti seated in clouds, engraved by Lucas van Leyden in Leiden in 1517, from one sheet in the Metropolitan Museum of Art; loose prints by one artist, grouped by sheet.",
+  "title": "Lucas van Leyden ornament prints",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

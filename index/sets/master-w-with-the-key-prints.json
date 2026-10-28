@@ -1,0 +1,248 @@
+{
+  "assets": {
+    "oak-leaf-corner-flourish": {
+      "attribution": "Cleveland Museum of Art 1952.100",
+      "categories": [
+        "botanical"
+      ],
+      "colors": [
+        "cream",
+        "gray",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "An L-shaped engraved ornament for a top-right corner. A dense mass of large, deeply lobed oak leaves, folded and interlaced with looping ribbon-like stems, fills the top-left arm; from the vertex at the top right a long curling stem descends the right side, throwing off smaller lobed leaves and curls, and ends at the bottom in a single acorn in its scaly cup. Black ink with fine hatched shading; the pale grey-cream paper tone is kept inside the leaves and stems, and the background is transparent.",
+      "display_width": [
+        250,
+        500
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 248911,
+        "webpTopBytes": 482186
+      },
+      "facing": "down",
+      "group": null,
+      "height": 1386,
+      "master": {
+        "bytes": 1415616,
+        "h": 1386,
+        "path": "masters/oak-leaf-corner-flourish.webp",
+        "sha256": "a79fcaa957ca9cc9ed81eb2f34aa1ce192041f190ed503c6fc9635c926c30f22",
+        "w": 1091
+      },
+      "palette": [
+        "#888174",
+        "#9e9687",
+        "#6d675c",
+        "#c3bbac",
+        "#b0a899"
+      ],
+      "provenance": {
+        "artist": "Master W with the Key (Netherlandish, active about 1465–1490)",
+        "date": "c. 1470",
+        "image_rights": "CC0-1.0",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1952.100",
+        "object_title": "An Oak Leaf Ornament",
+        "record_url": "https://clevelandart.org/art/1952.100",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "0cb346b2ff82a2f89bde6063714edca04ea9c292611c0c50cdfa635f4f9559e6"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3851,
+            "h": 81,
+            "path": "avif/oak-leaf-corner-flourish-64.avif",
+            "sha256": "ac385482ca6931af4c2ef3c99289eaa9c67c91380854b8ad846e87699422f66e",
+            "w": 64
+          },
+          {
+            "bytes": 6586,
+            "h": 122,
+            "path": "avif/oak-leaf-corner-flourish-96.avif",
+            "sha256": "1a8a7a33753dec5f0d7ee4e0cdc985cef52b0d6f5c8dc2ff3c1ef9a051710ac3",
+            "w": 96
+          },
+          {
+            "bytes": 10616,
+            "h": 163,
+            "path": "avif/oak-leaf-corner-flourish-128.avif",
+            "sha256": "6cfba49700c1d012a3c08fadb481b6382a54b9626fcb25fadad17b720fca3f05",
+            "w": 128
+          },
+          {
+            "bytes": 18653,
+            "h": 244,
+            "path": "avif/oak-leaf-corner-flourish-192.avif",
+            "sha256": "c4e4e3711ff0d55a183f685b4329c7132932f0456eff8d188b2eee56febe940a",
+            "w": 192
+          },
+          {
+            "bytes": 27539,
+            "h": 325,
+            "path": "avif/oak-leaf-corner-flourish-256.avif",
+            "sha256": "4934bcb71056266bb148c6899120da75868b2f5de2864afca887832ce1650303",
+            "w": 256
+          },
+          {
+            "bytes": 49423,
+            "h": 488,
+            "path": "avif/oak-leaf-corner-flourish-384.avif",
+            "sha256": "0483749d3bd9b21f5e331a4e9f91b6f8ec2bedfcf7109b35bfc2807b4868e652",
+            "w": 384
+          },
+          {
+            "bytes": 76441,
+            "h": 650,
+            "path": "avif/oak-leaf-corner-flourish-512.avif",
+            "sha256": "837c7c1acbf7f72d2dd489dcf447da2df30ba1cc52f3df8c28c0a45242348806",
+            "w": 512
+          },
+          {
+            "bytes": 149753,
+            "h": 976,
+            "path": "avif/oak-leaf-corner-flourish-768.avif",
+            "sha256": "e84e2bdceb3725ad8d0a1e81fb6259e48928e5cef925165cd7ebd350a650d513",
+            "w": 768
+          },
+          {
+            "bytes": 224687,
+            "h": 1301,
+            "path": "avif/oak-leaf-corner-flourish-1024.avif",
+            "sha256": "e7ed1034621535627d342548194a7f66666dd5d81963d43d7539cd3cf6ef7ef6",
+            "w": 1024
+          },
+          {
+            "bytes": 248911,
+            "h": 1386,
+            "path": "avif/oak-leaf-corner-flourish-1091.avif",
+            "sha256": "edb6f4e35dbdf6fe1e6504d2eb9143e1cfbd5f51e8871709648eb11d8124ad06",
+            "w": 1091
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4802,
+            "h": 81,
+            "path": "webp/oak-leaf-corner-flourish-64.webp",
+            "sha256": "eb72fdd20c790afcef311d6182095603f75055651efe59e1b05b0bda56e9b5fa",
+            "w": 64
+          },
+          {
+            "bytes": 9574,
+            "h": 122,
+            "path": "webp/oak-leaf-corner-flourish-96.webp",
+            "sha256": "c36e73c8df54d1ea71b014ccf4d4e3709f413fbafd043f674254cd148f56f9f4",
+            "w": 96
+          },
+          {
+            "bytes": 15200,
+            "h": 163,
+            "path": "webp/oak-leaf-corner-flourish-128.webp",
+            "sha256": "2ec1ba4bcc5cdec3ba116e3f02d2d8d58b790c27f989b53abd9ab41f711f7308",
+            "w": 128
+          },
+          {
+            "bytes": 28746,
+            "h": 244,
+            "path": "webp/oak-leaf-corner-flourish-192.webp",
+            "sha256": "959390538a9efdccf2334d0fe1409ad97c1c83b25a5af9c8633b35ea7a410eb9",
+            "w": 192
+          },
+          {
+            "bytes": 45168,
+            "h": 325,
+            "path": "webp/oak-leaf-corner-flourish-256.webp",
+            "sha256": "1ce7d40f50ee2ce8cc71dfdb05619f5b1b5db38a6ec81531543859e6d1ceadb2",
+            "w": 256
+          },
+          {
+            "bytes": 84200,
+            "h": 488,
+            "path": "webp/oak-leaf-corner-flourish-384.webp",
+            "sha256": "54e1ed86e8eb3af3457f97f2a87bcd6ff72387d4079b0e3fb6b25ec2f63c0f71",
+            "w": 384
+          },
+          {
+            "bytes": 133434,
+            "h": 650,
+            "path": "webp/oak-leaf-corner-flourish-512.webp",
+            "sha256": "1f01c72a9bf77cbf5ad922f25c9f0182e846314ad6f2002d5409959842abcbc0",
+            "w": 512
+          },
+          {
+            "bytes": 270708,
+            "h": 976,
+            "path": "webp/oak-leaf-corner-flourish-768.webp",
+            "sha256": "70c2eac01b7f2b6936003b67d03a800ef59dedef33a8de3c8b0903bc17d5e53e",
+            "w": 768
+          },
+          {
+            "bytes": 442530,
+            "h": 1301,
+            "path": "webp/oak-leaf-corner-flourish-1024.webp",
+            "sha256": "92a31969182d8f44beaa2e1b089245b6dd4a7ef9f830a8d05f05b2d5640c0784",
+            "w": 1024
+          },
+          {
+            "bytes": 482186,
+            "h": 1386,
+            "path": "webp/oak-leaf-corner-flourish-1091.webp",
+            "sha256": "552d5ac8c4a7646f159132e8254d7c3a24a4c73e47bf8acf33bd348a22d2abd2",
+            "w": 1091
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "oak",
+        "leaf",
+        "acorn",
+        "stem",
+        "flourish"
+      ],
+      "thumbhash": "ogiCBAAm0GJY2XqqE5v38ZNcl/RMWHlyBw==",
+      "title": "Oak leaf corner with a long stem and acorn",
+      "transparent": true,
+      "type": "corner",
+      "usage_notes": [
+        "Fits a top-right corner as engraved (leaves along the top, stem down the right side); mirror or rotate it for the other corners.",
+        "The leaf mass alone crops out as a square ornament, and the stem with the acorn as a vertical sprig."
+      ],
+      "width": 1091
+    }
+  },
+  "attribution": "Cleveland Museum of Art",
+  "builtAt": "2026-10-28T19:32:56.009Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-master-w-with-the-key-prints@1.0.0/",
+  "contentHash": "sha256:2f5779a62fcd1a32b857af0fb555f396612f8f1f94301654601fac572d10f388",
+  "inputsHash": "sha256:a459c155a96ab4e14fc2b7f3b9fb3c3a45c927e4f6afced42b5d1e63db481e24",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from Cleveland Museum of Art open access (CC0) images; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-master-w-with-the-key-prints-masters",
+  "package": "@ranx729/ducktape-assets-master-w-with-the-key-prints",
+  "period": "ca. 1470",
+  "region": "Netherlands",
+  "schema": 1,
+  "set": "master-w-with-the-key-prints",
+  "style": "late Gothic engraving",
+  "summary": "An oak leaf ornament engraved by the Netherlandish Master W with the Key around 1470, from one sheet in the Cleveland Museum of Art; a loose print by one artist, grouped by sheet.",
+  "title": "Master W with the Key ornament prints",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}
