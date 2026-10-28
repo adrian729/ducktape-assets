@@ -78,7 +78,7 @@ for n in "${missing[@]}"; do
   # the script runs without a terminal (for example through an assistant that backgrounds long commands).
   # `script` keeps npm on a pseudo-terminal (capturing its output with $(...) makes npm print the auth URL and give up
   # instead of opening the browser and waiting) while recording the output so the "already published" case can be told apart.
-  log="$d/publish.log"
+  log="$d.publish.log" # outside the package directory, or npm packs the half-written log and fails with EOF
   if (cd "$d" && script -qefc "npm publish --access public" "$log"); then :
   elif grep -q "cannot publish over" "$log"; then echo "  (placeholder already published for $n; continuing)"
   else echo; echo "publish of $n failed; nothing was dispatched. Answer the passkey prompt when it appears (the script needs a real terminal), then rerun."; exit 1; fi
