@@ -5775,7 +5775,7 @@ entries:
     group: null
     wave: 2
     status: dropped
-    notes: "png is the master; traced svg dropped (see #svg entry); id \"plate-26-eight-petal-rosette\" renamed to \"plate-26-five-disc-cross\" after review; master 52x56 is under the 64 px build minimum; dropped (2026-10-28)"
+    notes: "png is the master; traced svg dropped (see #svg entry); master 52x56 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-26-eight-petal-rosette#border_image"
     set: "numbered-plate"
     id: null
@@ -5789,7 +5789,7 @@ entries:
     group: null
     wave: 2
     status: dropped
-    notes: "true master component, folded into the asset as component corner; id \"plate-26-eight-petal-rosette\" renamed to \"plate-26-five-disc-cross\" after review; master 52x56 is under the 64 px build minimum; dropped (2026-10-28)"
+    notes: "true master component, folded into the asset as component corner; master 52x56 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-26-eight-petal-rosette#reference_crop"
     set: "numbered-plate"
     id: null
