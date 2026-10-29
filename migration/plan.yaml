@@ -31,11 +31,11 @@ entries:
     notes: "loose print by Israhel van Meckenem: artist set, group = holding object (National Gallery of Art, Washington 1943.3.170); id candidate \"acanthus-panel-with-two-lovers-and-inhabiting-animals\" is 53 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "acanthus-scroll-with-copper-vase-and-seated-wind-player"
     set: "cma-1524-psalter"
-    id: null
+    id: "cma-1524-psalter/acanthus-scroll-with-vase-and-satyr"
     group: "2006-15-a"
     wave: 2
     status: renamed
-    notes: "id candidate \"acanthus-scroll-with-copper-vase-and-seated-wind-player\" is 55 chars (> 48); shorten by hand"
+    notes: "id candidate \"acanthus-scroll-with-copper-vase-and-seated-wind-player\" is 55 chars (> 48); shorten by hand; id shortened by hand (2026-10-28); id \"acanthus-scroll-with-vase-and-wind-player\" renamed to \"acanthus-scroll-with-vase-and-satyr\" after review"
   - old: "acanthus-tailpiece"
     set: "authored-ornaments"
     id: "authored-ornaments/acanthus-tailpiece"
@@ -80,18 +80,18 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "alternating-blue-cup-and-burst-flowers-on-green-stem"
     set: "cma-2014-22"
-    id: null
+    id: "cma-2014-22/blue-cornflower-chain-tile"
     group: null
     wave: 2
     status: renamed
-    notes: "id candidate \"alternating-blue-cup-and-burst-flowers-on-green-stem\" is 52 chars (> 48); shorten by hand"
+    notes: "id candidate \"alternating-blue-cup-and-burst-flowers-on-green-stem\" is 52 chars (> 48); shorten by hand; id shortened by hand (2026-10-28); id \"blue-cup-and-burst-flowers-on-stem\" renamed to \"blue-cornflower-chain-tile\" after review"
   - old: "alternating-blue-cup-and-burst-flowers-on-green-stem#bar"
     set: "cma-2014-22"
-    id: null
+    id: "cma-2014-22/blue-cornflower-chain-tile#bar"
     group: null
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component bar"
+    notes: "true master component, folded into the asset as component bar; id shortened by hand (2026-10-28); id \"blue-cup-and-burst-flowers-on-stem\" renamed to \"blue-cornflower-chain-tile\" after review"
   - old: "alternating-blue-cup-and-burst-flowers-on-green-stem#border_image"
     set: "cma-2014-22"
     id: null
@@ -101,32 +101,32 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "alternating-blue-cup-and-burst-flowers-on-green-stem#corner-bottom-left"
     set: "cma-2014-22"
-    id: null
+    id: "cma-2014-22/blue-cornflower-chain-tile#corner-bottom-left"
     group: null
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner-bottom-left"
+    notes: "true master component, folded into the asset as component corner-bottom-left; id shortened by hand (2026-10-28); id \"blue-cup-and-burst-flowers-on-stem\" renamed to \"blue-cornflower-chain-tile\" after review"
   - old: "alternating-blue-cup-and-burst-flowers-on-green-stem#corner-bottom-right"
     set: "cma-2014-22"
-    id: null
+    id: "cma-2014-22/blue-cornflower-chain-tile#corner-bottom-right"
     group: null
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner-bottom-right"
+    notes: "true master component, folded into the asset as component corner-bottom-right; id shortened by hand (2026-10-28); id \"blue-cup-and-burst-flowers-on-stem\" renamed to \"blue-cornflower-chain-tile\" after review"
   - old: "alternating-blue-cup-and-burst-flowers-on-green-stem#corner-top-left"
     set: "cma-2014-22"
-    id: null
+    id: "cma-2014-22/blue-cornflower-chain-tile#corner-top-left"
     group: null
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner-top-left"
+    notes: "true master component, folded into the asset as component corner-top-left; id shortened by hand (2026-10-28); id \"blue-cup-and-burst-flowers-on-stem\" renamed to \"blue-cornflower-chain-tile\" after review"
   - old: "alternating-blue-cup-and-burst-flowers-on-green-stem#corner-top-right"
     set: "cma-2014-22"
-    id: null
+    id: "cma-2014-22/blue-cornflower-chain-tile#corner-top-right"
     group: null
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner-top-right"
+    notes: "true master component, folded into the asset as component corner-top-right; id shortened by hand (2026-10-28); id \"blue-cup-and-burst-flowers-on-stem\" renamed to \"blue-cornflower-chain-tile\" after review"
   - old: "alternating-blue-cup-and-burst-flowers-on-green-stem#rotated_bar"
     set: "cma-2014-22"
     id: null
@@ -164,11 +164,11 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "angel-chasing-devil-in-gold-oval"
     set: "cma-2005-206"
-    id: "cma-2005-206/angel-chasing-devil-in-gold-oval"
+    id: "cma-2005-206/angel-chasing-devil-roundel"
     group: "a"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"angel-chasing-devil-in-gold-oval\" renamed to \"angel-chasing-devil-roundel\" after review"
   - old: "animal-choir-landscape"
     set: "medieval-cutouts"
     id: "medieval-cutouts/animal-choir-landscape"
@@ -192,11 +192,11 @@ entries:
     notes: "loose print by Virgil Solis: artist set, group = holding object (Museum für Kunst und Gewerbe Hamburg O1911.604); id \"animals-in-finite-leafy-frieze\" renamed to \"animal-frieze\" after review"
   - old: "announcing-angel-with-clouds-and-curled-blank-scroll"
     set: "cma-2014-22"
-    id: null
+    id: "cma-2014-22/announcing-angel-with-blank-scroll"
     group: null
     wave: 2
     status: renamed
-    notes: "id candidate \"announcing-angel-with-clouds-and-curled-blank-scroll\" is 52 chars (> 48); shorten by hand"
+    notes: "id candidate \"announcing-angel-with-clouds-and-curled-blank-scroll\" is 52 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "ape-gripping-leafy-stalk"
     set: "walters-w82"
     id: "walters-w82/ape-gripping-leafy-stalk"
@@ -213,18 +213,18 @@ entries:
     notes: ""
   - old: "ape-rider-and-interacting-hounds"
     set: "walters-w82"
-    id: "walters-w82/ape-rider-and-interacting-hounds"
+    id: "walters-w82/ape-riding-unicorn-with-hound"
     group: "62v"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"ape-rider-and-interacting-hounds\" renamed to \"ape-riding-unicorn-with-hound\" after review"
   - old: "arched-canopy-with-two-hanging-birdcages"
     set: "du-cerceau-prints"
-    id: "du-cerceau-prints/arched-canopy-with-two-hanging-birdcages"
+    id: "du-cerceau-prints/arched-canopy-with-two-hanging-cages"
     group: "49-95-321"
     wave: 2
     status: moved
-    notes: "moved from met-du-cerceau by the loose-print rule (2026-10-27): loose print by Jacques Androuet Du Cerceau: artist set, group = holding object (Metropolitan Museum of Art 49.95.321)"
+    notes: "moved from met-du-cerceau by the loose-print rule (2026-10-27): loose print by Jacques Androuet Du Cerceau: artist set, group = holding object (Metropolitan Museum of Art 49.95.321); id \"arched-canopy-with-two-hanging-birdcages\" renamed to \"arched-canopy-with-two-hanging-cages\" after review"
   - old: "arched-lace-with-checker-fans-and-square-star"
     set: "met-latomus-lace"
     id: "met-latomus-lace/arched-lace-with-checker-fans-and-square-star"
@@ -234,11 +234,11 @@ entries:
     notes: ""
   - old: "arched-lace-with-compass-star-and-dense-small-petals"
     set: "met-latomus-lace"
-    id: null
+    id: "met-latomus-lace/arched-lace-with-compass-star"
     group: null
     wave: 2
     status: renamed
-    notes: "id candidate \"arched-lace-with-compass-star-and-dense-small-petals\" is 52 chars (> 48); shorten by hand"
+    notes: "id candidate \"arched-lace-with-compass-star-and-dense-small-petals\" is 52 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "arched-lace-with-concentric-petal-rosette"
     set: "met-latomus-lace"
     id: "met-latomus-lace/arched-lace-with-concentric-petal-rosette"
@@ -255,11 +255,11 @@ entries:
     notes: ""
   - old: "arched-lace-with-eight-point-stars-and-small-roundels"
     set: "met-latomus-lace"
-    id: null
+    id: "met-latomus-lace/arched-lace-with-wheels-and-star"
     group: null
     wave: 2
     status: renamed
-    notes: "id candidate \"arched-lace-with-eight-point-stars-and-small-roundels\" is 53 chars (> 48); shorten by hand"
+    notes: "id candidate \"arched-lace-with-eight-point-stars-and-small-roundels\" is 53 chars (> 48); shorten by hand; id shortened by hand (2026-10-28); id \"arched-lace-with-eight-point-stars\" renamed to \"arched-lace-with-wheels-and-star\" after review"
   - old: "arched-lace-with-four-floral-diamonds"
     set: "met-latomus-lace"
     id: "met-latomus-lace/arched-lace-with-four-floral-diamonds"
@@ -276,11 +276,11 @@ entries:
     notes: ""
   - old: "arched-lace-with-radiating-spokes-and-pointed-petals"
     set: "met-latomus-lace"
-    id: null
+    id: "met-latomus-lace/arched-lace-with-radiating-spokes"
     group: null
     wave: 2
     status: renamed
-    notes: "id candidate \"arched-lace-with-radiating-spokes-and-pointed-petals\" is 52 chars (> 48); shorten by hand"
+    notes: "id candidate \"arched-lace-with-radiating-spokes-and-pointed-petals\" is 52 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "armored-rhinoceros"
     set: "gessner-historiae-animalium"
     id: "gessner-historiae-animalium/armored-rhinoceros"
@@ -367,11 +367,11 @@ entries:
     notes: ""
   - old: "blue-acanthus-and-seed-head-panel"
     set: "supplied-sheets"
-    id: "supplied-sheets/blue-acanthus-and-seed-head-panel"
+    id: "supplied-sheets/blue-oak-leaf-and-acorn-strip"
     group: "blue-sheet"
     wave: 2
     status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    notes: "png is the master; traced svg dropped (see #svg entry); id \"blue-acanthus-and-seed-head-panel\" renamed to \"blue-oak-leaf-and-acorn-strip\" after review"
   - old: "blue-acanthus-and-seed-head-panel#reference_crop"
     set: "supplied-sheets"
     id: null
@@ -472,25 +472,25 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "blue-and-pink-bud-with-two-green-leaves"
     set: "cma-1524-psalter"
-    id: "cma-1524-psalter/blue-and-pink-bud-with-two-green-leaves"
+    id: "cma-1524-psalter/blue-and-red-bud-with-two-green-leaves"
     group: "1999-136-a"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"blue-and-pink-bud-with-two-green-leaves\" renamed to \"blue-and-red-bud-with-two-green-leaves\" after review"
   - old: "blue-brown-discs-and-diamonds-six-motif-repeat-cma-2005-206-a"
     set: "cma-2005-206"
-    id: null
+    id: "cma-2005-206/discs-and-diamonds-repeat-a"
     group: "a"
     wave: 2
     status: renamed
-    notes: "id candidate \"blue-brown-discs-and-diamonds-six-motif-repeat-cma-2005-206-a\" is 61 chars (> 48); shorten by hand"
+    notes: "id candidate \"blue-brown-discs-and-diamonds-six-motif-repeat-cma-2005-206-a\" is 61 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "blue-brown-discs-and-diamonds-six-motif-repeat-cma-2005-206-a#bar"
     set: "cma-2005-206"
-    id: null
+    id: "cma-2005-206/discs-and-diamonds-repeat-a#bar"
     group: "a"
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component bar"
+    notes: "true master component, folded into the asset as component bar; id shortened by hand (2026-10-28)"
   - old: "blue-brown-discs-and-diamonds-six-motif-repeat-cma-2005-206-a#border_image"
     set: "cma-2005-206"
     id: null
@@ -500,32 +500,32 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "blue-brown-discs-and-diamonds-six-motif-repeat-cma-2005-206-a#corner-bottom-left"
     set: "cma-2005-206"
-    id: null
+    id: "cma-2005-206/discs-and-diamonds-repeat-a#corner-bottom-left"
     group: "a"
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner-bottom-left"
+    notes: "true master component, folded into the asset as component corner-bottom-left; id shortened by hand (2026-10-28)"
   - old: "blue-brown-discs-and-diamonds-six-motif-repeat-cma-2005-206-a#corner-bottom-right"
     set: "cma-2005-206"
-    id: null
+    id: "cma-2005-206/discs-and-diamonds-repeat-a#corner-bottom-right"
     group: "a"
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner-bottom-right"
+    notes: "true master component, folded into the asset as component corner-bottom-right; id shortened by hand (2026-10-28)"
   - old: "blue-brown-discs-and-diamonds-six-motif-repeat-cma-2005-206-a#corner-top-left"
     set: "cma-2005-206"
-    id: null
+    id: "cma-2005-206/discs-and-diamonds-repeat-a#corner-top-left"
     group: "a"
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner-top-left"
+    notes: "true master component, folded into the asset as component corner-top-left; id shortened by hand (2026-10-28)"
   - old: "blue-brown-discs-and-diamonds-six-motif-repeat-cma-2005-206-a#corner-top-right"
     set: "cma-2005-206"
-    id: null
+    id: "cma-2005-206/discs-and-diamonds-repeat-a#corner-top-right"
     group: "a"
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner-top-right"
+    notes: "true master component, folded into the asset as component corner-top-right; id shortened by hand (2026-10-28)"
   - old: "blue-brown-discs-and-diamonds-six-motif-repeat-cma-2005-206-a#rotated_bar"
     set: "cma-2005-206"
     id: null
@@ -542,18 +542,18 @@ entries:
     notes: "generated rotated tile; geometry goes to render.tile"
   - old: "blue-brown-discs-and-diamonds-six-motif-repeat-cma-2005-206-b"
     set: "cma-2005-206"
-    id: null
+    id: "cma-2005-206/discs-and-diamonds-repeat-b"
     group: "b"
     wave: 2
     status: renamed
-    notes: "id candidate \"blue-brown-discs-and-diamonds-six-motif-repeat-cma-2005-206-b\" is 61 chars (> 48); shorten by hand"
+    notes: "id candidate \"blue-brown-discs-and-diamonds-six-motif-repeat-cma-2005-206-b\" is 61 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "blue-brown-discs-and-diamonds-six-motif-repeat-cma-2005-206-b#bar"
     set: "cma-2005-206"
-    id: null
+    id: "cma-2005-206/discs-and-diamonds-repeat-b#bar"
     group: "b"
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component bar"
+    notes: "true master component, folded into the asset as component bar; id shortened by hand (2026-10-28)"
   - old: "blue-brown-discs-and-diamonds-six-motif-repeat-cma-2005-206-b#border_image"
     set: "cma-2005-206"
     id: null
@@ -563,32 +563,32 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "blue-brown-discs-and-diamonds-six-motif-repeat-cma-2005-206-b#corner-bottom-left"
     set: "cma-2005-206"
-    id: null
+    id: "cma-2005-206/discs-and-diamonds-repeat-b#corner-bottom-left"
     group: "b"
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner-bottom-left"
+    notes: "true master component, folded into the asset as component corner-bottom-left; id shortened by hand (2026-10-28)"
   - old: "blue-brown-discs-and-diamonds-six-motif-repeat-cma-2005-206-b#corner-bottom-right"
     set: "cma-2005-206"
-    id: null
+    id: "cma-2005-206/discs-and-diamonds-repeat-b#corner-bottom-right"
     group: "b"
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner-bottom-right"
+    notes: "true master component, folded into the asset as component corner-bottom-right; id shortened by hand (2026-10-28)"
   - old: "blue-brown-discs-and-diamonds-six-motif-repeat-cma-2005-206-b#corner-top-left"
     set: "cma-2005-206"
-    id: null
+    id: "cma-2005-206/discs-and-diamonds-repeat-b#corner-top-left"
     group: "b"
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner-top-left"
+    notes: "true master component, folded into the asset as component corner-top-left; id shortened by hand (2026-10-28)"
   - old: "blue-brown-discs-and-diamonds-six-motif-repeat-cma-2005-206-b#corner-top-right"
     set: "cma-2005-206"
-    id: null
+    id: "cma-2005-206/discs-and-diamonds-repeat-b#corner-top-right"
     group: "b"
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner-top-right"
+    notes: "true master component, folded into the asset as component corner-top-right; id shortened by hand (2026-10-28)"
   - old: "blue-brown-discs-and-diamonds-six-motif-repeat-cma-2005-206-b#rotated_bar"
     set: "cma-2005-206"
     id: null
@@ -612,11 +612,11 @@ entries:
     notes: ""
   - old: "blue-curled-flower-with-rose-lobes-and-two-green-leaves"
     set: "cma-1524-psalter"
-    id: null
+    id: "cma-1524-psalter/blue-curled-flower-with-rose-lobes"
     group: "2011-67-a"
     wave: 2
     status: renamed
-    notes: "id candidate \"blue-curled-flower-with-rose-lobes-and-two-green-leaves\" is 55 chars (> 48); shorten by hand"
+    notes: "id candidate \"blue-curled-flower-with-rose-lobes-and-two-green-leaves\" is 55 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "blue-diamond-leaf-stencil-band"
     set: "supplied-sheets"
     id: "supplied-sheets/blue-diamond-leaf-stencil-band"
@@ -717,18 +717,18 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "blue-gold-floral-frame"
     set: "cma-2005-206"
-    id: "cma-2005-206/blue-gold-floral-frame"
+    id: "cma-2005-206/verso-floral-border"
     group: "a"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"blue-gold-floral-frame\" renamed to \"verso-floral-border\" after review"
   - old: "blue-gold-floral-manuscript-frame"
     set: "cma-2005-206"
-    id: "cma-2005-206/blue-gold-floral-manuscript-frame"
+    id: "cma-2005-206/recto-floral-border"
     group: "b"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"blue-gold-floral-manuscript-frame\" renamed to \"recto-floral-border\" after review"
   - old: "blue-inlay-with-white-opposed-chevron-chain"
     set: "walters-w171"
     id: "walters-w171/blue-inlay-with-white-opposed-chevron-chain"
@@ -738,11 +738,11 @@ entries:
     notes: ""
   - old: "blue-line-filler-with-white-waves-hatching-and-curled-terminal"
     set: "walters-w82"
-    id: null
+    id: "walters-w82/blue-line-filler-with-white-waves"
     group: "179v"
     wave: 2
     status: renamed
-    notes: "id candidate \"blue-line-filler-with-white-waves-hatching-and-curled-terminal\" is 62 chars (> 48); shorten by hand"
+    notes: "id candidate \"blue-line-filler-with-white-waves-hatching-and-curled-terminal\" is 62 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "blue-looped-quatrefoils"
     set: "supplied-sheets"
     id: "supplied-sheets/blue-looped-quatrefoils"
@@ -787,11 +787,11 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "blue-paired-birds-and-palmettes"
     set: "supplied-sheets"
-    id: "supplied-sheets/blue-paired-birds-and-palmettes"
+    id: "supplied-sheets/blue-bird-and-fan-scroll-border"
     group: "blue-sheet"
     wave: 2
     status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    notes: "png is the master; traced svg dropped (see #svg entry); id \"blue-paired-birds-and-palmettes\" renamed to \"blue-bird-and-fan-scroll-border\" after review"
   - old: "blue-paired-birds-and-palmettes#border_image"
     set: "supplied-sheets"
     id: null
@@ -801,11 +801,11 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "blue-paired-birds-and-palmettes#corner"
     set: "supplied-sheets"
-    id: "supplied-sheets/blue-paired-birds-and-palmettes#corner"
+    id: "supplied-sheets/blue-bird-and-fan-scroll-border#corner"
     group: "blue-sheet"
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner"
+    notes: "true master component, folded into the asset as component corner; id \"blue-paired-birds-and-palmettes\" renamed to \"blue-bird-and-fan-scroll-border\" after review"
   - old: "blue-paired-birds-and-palmettes#reference_crop"
     set: "supplied-sheets"
     id: null
@@ -829,11 +829,11 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "blue-pointed-flower-with-rose-petals-on-upright-stem"
     set: "cma-1524-psalter"
-    id: null
+    id: "cma-1524-psalter/blue-pointed-flower-on-upright-stem"
     group: "1999-136-b"
     wave: 2
     status: renamed
-    notes: "id candidate \"blue-pointed-flower-with-rose-petals-on-upright-stem\" is 52 chars (> 48); shorten by hand"
+    notes: "id candidate \"blue-pointed-flower-with-rose-petals-on-upright-stem\" is 52 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "blue-red-and-gray-radial-flower"
     set: "cma-1524-psalter"
     id: "cma-1524-psalter/blue-red-and-gray-radial-flower"
@@ -843,11 +843,11 @@ entries:
     notes: ""
   - old: "blue-ringed-red-and-violet-acanthus-medallion"
     set: "cma-2014-22"
-    id: "cma-2014-22/blue-ringed-red-and-violet-acanthus-medallion"
+    id: "cma-2014-22/acanthus-initial-infill"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"blue-ringed-red-and-violet-acanthus-medallion\" renamed to \"acanthus-initial-infill\" after review"
   - old: "blue-rose-and-gray-flower-on-long-green-stem"
     set: "cma-1524-psalter"
     id: "cma-1524-psalter/blue-rose-and-gray-flower-on-long-green-stem"
@@ -1284,18 +1284,18 @@ entries:
     notes: "moved from nga-ornament-prints by the loose-print rule (2026-10-27): loose print by Israhel van Meckenem: artist set, group = holding object (National Gallery of Art, Washington 1943.3.163); id \"circular-acanthus-and-grotesque-ornament\" renamed to \"circular-acanthus-wreath\" after review"
   - old: "clustered-small-flowers-with-long-sword-shaped-leaves"
     set: "met-livre-nouveau-de-fleurs"
-    id: null
+    id: "met-livre-nouveau-de-fleurs/clustered-flowers-with-sword-shaped-leaves"
     group: "425800"
     wave: 2
     status: renamed
-    notes: "id candidate \"clustered-small-flowers-with-long-sword-shaped-leaves\" is 53 chars (> 48); shorten by hand"
+    notes: "id candidate \"clustered-small-flowers-with-long-sword-shaped-leaves\" is 53 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "complete-annunciation-to-the-shepherds-with-angel-and-night-landscape"
     set: "cma-2014-22"
-    id: null
+    id: "cma-2014-22/annunciation-to-the-shepherds-miniature"
     group: null
     wave: 2
     status: renamed
-    notes: "id candidate \"complete-annunciation-to-the-shepherds-with-angel-and-night-landscape\" is 69 chars (> 48); shorten by hand"
+    notes: "id candidate \"complete-annunciation-to-the-shepherds-with-angel-and-night-landscape\" is 69 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "complete-apostle-city-scene-with-blue-vine-frame"
     set: "cma-1950-154"
     id: "cma-1950-154/apostle-city-miniature"
@@ -1305,18 +1305,18 @@ entries:
     notes: "id \"complete-apostle-city-scene-with-blue-vine-frame\" renamed to \"apostle-city-miniature\" after review"
   - old: "complete-circular-wind-diagram-with-twelve-profile-heads"
     set: "walters-w73"
-    id: null
+    id: "walters-w73/wind-diagram-with-twelve-profile-heads"
     group: "1v"
     wave: 2
     status: renamed
-    notes: "id candidate \"complete-circular-wind-diagram-with-twelve-profile-heads\" is 56 chars (> 48); shorten by hand"
+    notes: "id candidate \"complete-circular-wind-diagram-with-twelve-profile-heads\" is 56 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "connected-gray-acanthus-network-with-three-curled-lobes"
     set: "cma-2011-65"
-    id: null
+    id: "cma-2011-65/gray-acanthus-network-with-three-lobes"
     group: null
     wave: 2
     status: renamed
-    notes: "id candidate \"connected-gray-acanthus-network-with-three-curled-lobes\" is 55 chars (> 48); shorten by hand"
+    notes: "id candidate \"connected-gray-acanthus-network-with-three-curled-lobes\" is 55 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "cook-with-ladle-dish-and-soup-cauldron"
     set: "cma-1524-psalter"
     id: "cma-1524-psalter/cook-with-ladle-dish-and-soup-cauldron"
@@ -1340,18 +1340,18 @@ entries:
     notes: ""
   - old: "courting-landscape-with-trees-flock-and-distant-town"
     set: "met-livre-nouveau-de-fleurs"
-    id: null
+    id: "met-livre-nouveau-de-fleurs/courting-landscape-with-flock-and-town"
     group: "425823"
     wave: 2
     status: renamed
-    notes: "id candidate \"courting-landscape-with-trees-flock-and-distant-town\" is 52 chars (> 48); shorten by hand"
+    notes: "id candidate \"courting-landscape-with-trees-flock-and-distant-town\" is 52 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "courting-pair-clasping-hands-with-two-long-staffs"
     set: "met-livre-nouveau-de-fleurs"
-    id: null
+    id: "met-livre-nouveau-de-fleurs/courting-pair-with-two-staffs"
     group: "425823"
     wave: 2
     status: renamed
-    notes: "id candidate \"courting-pair-clasping-hands-with-two-long-staffs\" is 49 chars (> 48); shorten by hand"
+    notes: "id candidate \"courting-pair-clasping-hands-with-two-long-staffs\" is 49 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "courting-pair-in-long-robes-right-of-centre"
     set: "met-livre-nouveau-de-fleurs"
     id: "met-livre-nouveau-de-fleurs/courting-pair-in-long-robes-right-of-centre"
@@ -1459,11 +1459,11 @@ entries:
     notes: ""
   - old: "crouching-hairy-figure-with-long-bent-implement"
     set: "cma-2006-13"
-    id: "cma-2006-13/crouching-hairy-figure-with-long-bent-implement"
+    id: "cma-2006-13/ape-with-fishing-rod"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"crouching-hairy-figure-with-long-bent-implement\" renamed to \"ape-with-fishing-rod\" after review"
   - old: "crouching-unicorn-with-gold-horn"
     set: "walters-w82"
     id: "walters-w82/crouching-unicorn-with-gold-horn"
@@ -1494,11 +1494,11 @@ entries:
     notes: ""
   - old: "crowned-seated-bell-ringer-with-bell-set-and-hammers"
     set: "walters-w82"
-    id: null
+    id: "walters-w82/crowned-bell-ringer-with-hammers"
     group: "75v"
     wave: 2
     status: renamed
-    notes: "id candidate \"crowned-seated-bell-ringer-with-bell-set-and-hammers\" is 52 chars (> 48); shorten by hand"
+    notes: "id candidate \"crowned-seated-bell-ringer-with-bell-set-and-hammers\" is 52 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "crowned-winged-figure-with-chalice"
     set: "openn-lewis-e-m"
     id: "openn-lewis-e-m/crowned-winged-figure-with-chalice"
@@ -1550,11 +1550,11 @@ entries:
     notes: ""
   - old: "dark-green-long-beaked-bird"
     set: "walters-w171"
-    id: "walters-w171/dark-green-long-beaked-bird"
+    id: "walters-w171/dark-green-scorpion-with-raised-tail"
     group: "12r"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"dark-green-long-beaked-bird\" renamed to \"dark-green-scorpion-with-raised-tail\" after review"
   - old: "dark-seed-pod-sprig"
     set: "openn-lewis-e-m"
     id: "openn-lewis-e-m/dark-seed-pod-sprig"
@@ -1655,18 +1655,18 @@ entries:
     notes: "moved from met-hopfer-friezes by the loose-print rule (2026-10-27): loose print by Daniel Hopfer: artist set, group = holding object (Metropolitan Museum of Art 2012.136.734); id \"dragon-head-scroll-with-long-bearded-mask\" renamed to \"scroll-with-horned-bearded-mask\" after review"
   - old: "drooping-flower-whorl-beneath-long-crown-leaves"
     set: "met-livre-nouveau-de-fleurs"
-    id: "met-livre-nouveau-de-fleurs/drooping-flower-whorl-beneath-long-crown-leaves"
+    id: "met-livre-nouveau-de-fleurs/crown-imperial"
     group: "425800"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"drooping-flower-whorl-beneath-long-crown-leaves\" renamed to \"crown-imperial\" after review"
   - old: "drooping-rosebud-with-curved-stem-and-two-basal-leaves"
     set: "met-livre-nouveau-de-fleurs"
-    id: null
+    id: "met-livre-nouveau-de-fleurs/nodding-bloom-on-arching-stem"
     group: "425823"
     wave: 2
     status: renamed
-    notes: "id candidate \"drooping-rosebud-with-curved-stem-and-two-basal-leaves\" is 54 chars (> 48); shorten by hand"
+    notes: "id candidate \"drooping-rosebud-with-curved-stem-and-two-basal-leaves\" is 54 chars (> 48); shorten by hand; id shortened by hand (2026-10-28); id \"drooping-rosebud-on-curved-stem\" renamed to \"nodding-bloom-on-arching-stem\" after review"
   - old: "eight-legged-zodiac-crab"
     set: "walters-w73"
     id: "walters-w73/eight-legged-zodiac-crab"
@@ -1697,11 +1697,11 @@ entries:
     notes: ""
   - old: "embracing-nude-couple-with-raised-clasped-hands"
     set: "cma-1524-psalter"
-    id: "cma-1524-psalter/embracing-nude-couple-with-raised-clasped-hands"
+    id: "cma-1524-psalter/embracing-nude-couple-with-raised-fist"
     group: "2011-67-a"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"embracing-nude-couple-with-raised-clasped-hands\" renamed to \"embracing-nude-couple-with-raised-fist\" after review"
   - old: "embracing-zodiac-twins"
     set: "walters-w171"
     id: "walters-w171/embracing-zodiac-twins"
@@ -1718,25 +1718,25 @@ entries:
     notes: ""
   - old: "figure-in-woven-basket-with-red-cord-and-crowned-face"
     set: "walters-w82"
-    id: null
+    id: "walters-w82/man-in-basket-of-eggs"
     group: "179v"
     wave: 2
     status: renamed
-    notes: "id candidate \"figure-in-woven-basket-with-red-cord-and-crowned-face\" is 53 chars (> 48); shorten by hand"
+    notes: "id candidate \"figure-in-woven-basket-with-red-cord-and-crowned-face\" is 53 chars (> 48); shorten by hand; id shortened by hand (2026-10-28); id \"figure-in-woven-basket\" renamed to \"man-in-basket-of-eggs\" after review"
   - old: "fine-vertical-hatching-between-parallel-rules"
     set: "met-schoen-modelbuch"
-    id: "met-schoen-modelbuch/fine-vertical-hatching-between-parallel-rules"
+    id: "met-schoen-modelbuch/hatched-rule-cell"
     group: "681256"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"fine-vertical-hatching-between-parallel-rules\" renamed to \"hatched-rule-cell\" after review"
   - old: "fine-vertical-hatching-between-parallel-rules#bar"
     set: "met-schoen-modelbuch"
-    id: "met-schoen-modelbuch/fine-vertical-hatching-between-parallel-rules#bar"
+    id: "met-schoen-modelbuch/hatched-rule-cell#bar"
     group: "681256"
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component bar"
+    notes: "true master component, folded into the asset as component bar; id \"fine-vertical-hatching-between-parallel-rules\" renamed to \"hatched-rule-cell\" after review"
   - old: "fine-vertical-hatching-between-parallel-rules#border_image"
     set: "met-schoen-modelbuch"
     id: null
@@ -1746,32 +1746,32 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "fine-vertical-hatching-between-parallel-rules#corner-bottom-left"
     set: "met-schoen-modelbuch"
-    id: "met-schoen-modelbuch/fine-vertical-hatching-between-parallel-rules#corner-bottom-left"
+    id: "met-schoen-modelbuch/hatched-rule-cell#corner-bottom-left"
     group: "681256"
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner-bottom-left"
+    notes: "true master component, folded into the asset as component corner-bottom-left; id \"fine-vertical-hatching-between-parallel-rules\" renamed to \"hatched-rule-cell\" after review"
   - old: "fine-vertical-hatching-between-parallel-rules#corner-bottom-right"
     set: "met-schoen-modelbuch"
-    id: "met-schoen-modelbuch/fine-vertical-hatching-between-parallel-rules#corner-bottom-right"
+    id: "met-schoen-modelbuch/hatched-rule-cell#corner-bottom-right"
     group: "681256"
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner-bottom-right"
+    notes: "true master component, folded into the asset as component corner-bottom-right; id \"fine-vertical-hatching-between-parallel-rules\" renamed to \"hatched-rule-cell\" after review"
   - old: "fine-vertical-hatching-between-parallel-rules#corner-top-left"
     set: "met-schoen-modelbuch"
-    id: "met-schoen-modelbuch/fine-vertical-hatching-between-parallel-rules#corner-top-left"
+    id: "met-schoen-modelbuch/hatched-rule-cell#corner-top-left"
     group: "681256"
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner-top-left"
+    notes: "true master component, folded into the asset as component corner-top-left; id \"fine-vertical-hatching-between-parallel-rules\" renamed to \"hatched-rule-cell\" after review"
   - old: "fine-vertical-hatching-between-parallel-rules#corner-top-right"
     set: "met-schoen-modelbuch"
-    id: "met-schoen-modelbuch/fine-vertical-hatching-between-parallel-rules#corner-top-right"
+    id: "met-schoen-modelbuch/hatched-rule-cell#corner-top-right"
     group: "681256"
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner-top-right"
+    notes: "true master component, folded into the asset as component corner-top-right; id \"fine-vertical-hatching-between-parallel-rules\" renamed to \"hatched-rule-cell\" after review"
   - old: "fine-vertical-hatching-between-parallel-rules#rotated_bar"
     set: "met-schoen-modelbuch"
     id: null
@@ -1788,32 +1788,32 @@ entries:
     notes: "generated rotated tile; geometry goes to render.tile"
   - old: "finite-blue-and-rose-band-with-gold-pips-and-white-curls"
     set: "walters-w82"
-    id: null
+    id: "walters-w82/blue-and-rose-band-with-gold-pips"
     group: "52r"
     wave: 2
     status: renamed
-    notes: "id candidate \"finite-blue-and-rose-band-with-gold-pips-and-white-curls\" is 56 chars (> 48); shorten by hand"
+    notes: "id candidate \"finite-blue-and-rose-band-with-gold-pips-and-white-curls\" is 56 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "finite-blue-gold-discs-and-diamonds-line-filler"
     set: "cma-2005-206"
-    id: "cma-2005-206/finite-blue-gold-discs-and-diamonds-line-filler"
+    id: "cma-2005-206/discs-and-diamonds-line-filler"
     group: "b"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"finite-blue-gold-discs-and-diamonds-line-filler\" renamed to \"discs-and-diamonds-line-filler\" after review"
   - old: "finite-blue-gold-discs-and-paired-diamonds-line-filler"
     set: "cma-2005-206"
-    id: null
+    id: "cma-2005-206/discs-and-three-diamonds-line-filler"
     group: "a"
     wave: 2
     status: renamed
-    notes: "id candidate \"finite-blue-gold-discs-and-paired-diamonds-line-filler\" is 54 chars (> 48); shorten by hand"
+    notes: "id candidate \"finite-blue-gold-discs-and-paired-diamonds-line-filler\" is 54 chars (> 48); shorten by hand; id shortened by hand (2026-10-28); id \"discs-and-paired-diamonds-line-filler\" renamed to \"discs-and-three-diamonds-line-filler\" after review"
   - old: "finite-blue-rose-white-foliate-waves-and-gold-roundels"
     set: "walters-w82"
-    id: null
+    id: "walters-w82/foliate-waves-and-gold-roundels-band"
     group: "194v"
     wave: 2
     status: renamed
-    notes: "id candidate \"finite-blue-rose-white-foliate-waves-and-gold-roundels\" is 54 chars (> 48); shorten by hand"
+    notes: "id candidate \"finite-blue-rose-white-foliate-waves-and-gold-roundels\" is 54 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "finite-blue-vine-and-red-gold-miniature-frame"
     set: "cma-1950-154"
     id: "cma-1950-154/blue-vine-frame"
@@ -1830,11 +1830,11 @@ entries:
     notes: ""
   - old: "finite-gold-foliate-wave-on-blue-line-filler"
     set: "cma-2005-206"
-    id: "cma-2005-206/finite-gold-foliate-wave-on-blue-line-filler"
+    id: "cma-2005-206/gold-foliate-wave-line-filler"
     group: "a"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"finite-gold-foliate-wave-on-blue-line-filler\" renamed to \"gold-foliate-wave-line-filler\" after review"
   - old: "finite-gold-foliate-wave-on-blue-red-line-filler"
     set: "cma-2006-13"
     id: "cma-2006-13/finite-gold-foliate-wave-on-blue-red-line-filler"
@@ -1851,11 +1851,11 @@ entries:
     notes: ""
   - old: "finite-gold-pip-and-white-double-ended-curl-on-rose"
     set: "walters-w82"
-    id: null
+    id: "walters-w82/gold-pip-and-double-ended-curl-on-rose"
     group: "62v"
     wave: 2
     status: renamed
-    notes: "id candidate \"finite-gold-pip-and-white-double-ended-curl-on-rose\" is 51 chars (> 48); shorten by hand"
+    notes: "id candidate \"finite-gold-pip-and-white-double-ended-curl-on-rose\" is 51 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "finite-gold-pip-and-white-wave-on-blue"
     set: "walters-w82"
     id: "walters-w82/finite-gold-pip-and-white-wave-on-blue"
@@ -1893,18 +1893,18 @@ entries:
     notes: "loose print by Virgil Solis: artist set, group = holding object (Metropolitan Museum of Art 33.70.39); id \"finite-interlaced-arabesque-cartouche\" renamed to \"arabesque-cartouche\" after review"
   - old: "finite-paired-gold-roundels-and-foliate-white-wave-on-rose-blue"
     set: "walters-w82"
-    id: null
+    id: "walters-w82/paired-roundels-and-foliate-wave-band"
     group: "62v"
     wave: 2
     status: renamed
-    notes: "id candidate \"finite-paired-gold-roundels-and-foliate-white-wave-on-rose-blue\" is 63 chars (> 48); shorten by hand"
+    notes: "id candidate \"finite-paired-gold-roundels-and-foliate-white-wave-on-rose-blue\" is 63 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "finite-paired-gold-roundels-and-white-waves-on-blue-rose"
     set: "walters-w82"
-    id: null
+    id: "walters-w82/paired-roundels-and-white-waves-band"
     group: "194v"
     wave: 2
     status: renamed
-    notes: "id candidate \"finite-paired-gold-roundels-and-white-waves-on-blue-rose\" is 56 chars (> 48); shorten by hand"
+    notes: "id candidate \"finite-paired-gold-roundels-and-white-waves-on-blue-rose\" is 56 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "finite-paired-gold-roundels-on-rose-band"
     set: "walters-w82"
     id: "walters-w82/finite-paired-gold-roundels-on-rose-band"
@@ -1914,25 +1914,25 @@ entries:
     notes: ""
   - old: "finite-single-gold-roundel-and-looped-white-wave-on-rose-blue"
     set: "walters-w82"
-    id: null
+    id: "walters-w82/single-roundel-and-looped-wave-band"
     group: "194v"
     wave: 2
     status: renamed
-    notes: "id candidate \"finite-single-gold-roundel-and-looped-white-wave-on-rose-blue\" is 61 chars (> 48); shorten by hand"
+    notes: "id candidate \"finite-single-gold-roundel-and-looped-white-wave-on-rose-blue\" is 61 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "finite-three-gold-roundels-and-white-zigzag-on-blue-rose"
     set: "walters-w82"
-    id: null
+    id: "walters-w82/three-roundels-and-white-zigzag-band"
     group: "194v"
     wave: 2
     status: renamed
-    notes: "id candidate \"finite-three-gold-roundels-and-white-zigzag-on-blue-rose\" is 56 chars (> 48); shorten by hand"
+    notes: "id candidate \"finite-three-gold-roundels-and-white-zigzag-on-blue-rose\" is 56 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "finite-white-crossed-strokes-and-gold-pip-on-blue"
     set: "walters-w82"
-    id: null
+    id: "walters-w82/crossed-strokes-and-gold-pip-on-blue"
     group: "31r"
     wave: 2
     status: renamed
-    notes: "id candidate \"finite-white-crossed-strokes-and-gold-pip-on-blue\" is 49 chars (> 48); shorten by hand"
+    notes: "id candidate \"finite-white-crossed-strokes-and-gold-pip-on-blue\" is 49 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "finite-white-zigzag-and-alternating-dots-on-rose"
     set: "walters-w82"
     id: "walters-w82/finite-white-zigzag-and-alternating-dots-on-rose"
@@ -1963,67 +1963,67 @@ entries:
     notes: ""
   - old: "fixed-blue-gold-foliate-left-and-bottom-margin-border"
     set: "walters-w82"
-    id: null
+    id: "walters-w82/foliate-left-and-bottom-margin-border"
     group: "62v"
     wave: 2
     status: renamed
-    notes: "id candidate \"fixed-blue-gold-foliate-left-and-bottom-margin-border\" is 53 chars (> 48); shorten by hand"
+    notes: "id candidate \"fixed-blue-gold-foliate-left-and-bottom-margin-border\" is 53 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "fixed-blue-gold-foliate-left-and-top-margin-border"
     set: "walters-w82"
-    id: null
+    id: "walters-w82/foliate-left-and-top-margin-border"
     group: "194v"
     wave: 2
     status: renamed
-    notes: "id candidate \"fixed-blue-gold-foliate-left-and-top-margin-border\" is 50 chars (> 48); shorten by hand"
+    notes: "id candidate \"fixed-blue-gold-foliate-left-and-top-margin-border\" is 50 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "fixed-floral-page-margin-with-acanthus-and-gold-ivy-walters-w186-285r"
     set: "walters-w186"
-    id: null
+    id: "walters-w186/floral-page-margin-285r"
     group: "285r"
     wave: 2
     status: renamed
-    notes: "id candidate \"fixed-floral-page-margin-with-acanthus-and-gold-ivy-walters-w186-285r\" is 69 chars (> 48); shorten by hand"
+    notes: "id candidate \"fixed-floral-page-margin-with-acanthus-and-gold-ivy-walters-w186-285r\" is 69 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "fixed-floral-page-margin-with-acanthus-and-gold-ivy-walters-w186-291v"
     set: "walters-w186"
-    id: null
+    id: "walters-w186/floral-page-margin-291v"
     group: "291v"
     wave: 2
     status: renamed
-    notes: "id candidate \"fixed-floral-page-margin-with-acanthus-and-gold-ivy-walters-w186-291v\" is 69 chars (> 48); shorten by hand"
+    notes: "id candidate \"fixed-floral-page-margin-with-acanthus-and-gold-ivy-walters-w186-291v\" is 69 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "fixed-floral-u-border-with-gold-and-black-ivy"
     set: "cma-2014-22"
-    id: "cma-2014-22/fixed-floral-u-border-with-gold-and-black-ivy"
+    id: "cma-2014-22/flowered-u-page-border"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"fixed-floral-u-border-with-gold-and-black-ivy\" renamed to \"flowered-u-page-border\" after review"
   - old: "fixed-gold-columned-pond-frame-with-scroll-capitals"
     set: "cma-2006-13"
-    id: null
+    id: "cma-2006-13/gold-columned-pond-frame"
     group: null
     wave: 2
     status: renamed
-    notes: "id candidate \"fixed-gold-columned-pond-frame-with-scroll-capitals\" is 51 chars (> 48); shorten by hand"
+    notes: "id candidate \"fixed-gold-columned-pond-frame-with-scroll-capitals\" is 51 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "fixed-polychrome-floral-frame-with-knotted-medallions"
     set: "cma-1953-24"
-    id: null
+    id: "cma-1953-24/polychrome-floral-frame-with-knotted-medallions"
     group: null
     wave: 2
     status: renamed
-    notes: "id candidate \"fixed-polychrome-floral-frame-with-knotted-medallions\" is 53 chars (> 48); shorten by hand"
+    notes: "id candidate \"fixed-polychrome-floral-frame-with-knotted-medallions\" is 53 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "fixed-rectangular-gold-blue-and-red-foliate-panel"
     set: "openn-lewis-e-m"
-    id: null
+    id: "openn-lewis-e-m/gold-blue-and-red-foliate-panel"
     group: "012-020"
     wave: 2
     status: renamed
-    notes: "id candidate \"fixed-rectangular-gold-blue-and-red-foliate-panel\" is 49 chars (> 48); shorten by hand"
+    notes: "id candidate \"fixed-rectangular-gold-blue-and-red-foliate-panel\" is 49 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "fixed-twisted-column-arcade-with-scalloped-arch"
     set: "walters-w7"
-    id: "walters-w7/fixed-twisted-column-arcade-with-scalloped-arch"
+    id: "walters-w7/twisted-column-arcade"
     group: "15v"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"fixed-twisted-column-arcade-with-scalloped-arch\" renamed to \"twisted-column-arcade\" after review"
   - old: "floral-bird-panel-blue"
     set: "supplied-sheets"
     id: "supplied-sheets/floral-bird-panel-blue"
@@ -2061,11 +2061,11 @@ entries:
     notes: "loose print by Heinrich Aldegrever: artist set, group = holding object (National Gallery of Art, Washington 1943.3.298)"
   - old: "flying-brown-bird-with-red-beak"
     set: "openn-lewis-e-m"
-    id: "openn-lewis-e-m/flying-brown-bird-with-red-beak"
+    id: "openn-lewis-e-m/diving-brown-bird-with-red-face"
     group: "031-029"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"flying-brown-bird-with-red-beak\" renamed to \"diving-brown-bird-with-red-face\" after review"
   - old: "flying-pig"
     set: "medieval-cutouts"
     id: "medieval-cutouts/flying-pig"
@@ -2103,11 +2103,11 @@ entries:
     notes: ""
   - old: "four-armed-green-feathered-floret-with-red-gold-center"
     set: "openn-lewis-e-m"
-    id: null
+    id: "openn-lewis-e-m/green-feathered-floret-with-red-gold-center"
     group: "067-003"
     wave: 2
     status: renamed
-    notes: "id candidate \"four-armed-green-feathered-floret-with-red-gold-center\" is 54 chars (> 48); shorten by hand"
+    notes: "id candidate \"four-armed-green-feathered-floret-with-red-gold-center\" is 54 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "four-contacting-shepherds-with-dog-and-two-sheep"
     set: "cma-2014-22"
     id: "cma-2014-22/four-contacting-shepherds-with-dog-and-two-sheep"
@@ -2152,32 +2152,32 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "framed-mounted-figure-and-attendant-vignette"
     set: "du-cerceau-prints"
-    id: "du-cerceau-prints/framed-mounted-figure-and-attendant-vignette"
+    id: "du-cerceau-prints/framed-rider-vignette"
     group: "21-10-1-31"
     wave: 2
     status: moved
-    notes: "moved from met-du-cerceau by the loose-print rule (2026-10-27): loose print by Jacques Androuet Du Cerceau: artist set, group = holding object (Metropolitan Museum of Art 21.10.1(31))"
+    notes: "moved from met-du-cerceau by the loose-print rule (2026-10-27): loose print by Jacques Androuet Du Cerceau: artist set, group = holding object (Metropolitan Museum of Art 21.10.1(31)); id \"framed-mounted-figure-and-attendant-vignette\" renamed to \"framed-rider-vignette\" after review"
   - old: "framed-reclining-figure-with-round-shield"
     set: "du-cerceau-prints"
-    id: "du-cerceau-prints/framed-reclining-figure-with-round-shield"
+    id: "du-cerceau-prints/framed-reclining-figure-on-curled-tail"
     group: "21-10-1-31"
     wave: 2
     status: moved
-    notes: "moved from met-du-cerceau by the loose-print rule (2026-10-27): loose print by Jacques Androuet Du Cerceau: artist set, group = holding object (Metropolitan Museum of Art 21.10.1(31))"
+    notes: "moved from met-du-cerceau by the loose-print rule (2026-10-27): loose print by Jacques Androuet Du Cerceau: artist set, group = holding object (Metropolitan Museum of Art 21.10.1(31)); id \"framed-reclining-figure-with-round-shield\" renamed to \"framed-reclining-figure-on-curled-tail\" after review"
   - old: "framed-standing-statue-and-two-foreground-figures"
     set: "du-cerceau-prints"
-    id: null
+    id: "du-cerceau-prints/framed-statue-with-two-foreground-figures"
     group: "21-10-1-31"
     wave: 2
     status: renamed
-    notes: "id candidate \"framed-standing-statue-and-two-foreground-figures\" is 49 chars (> 48); shorten by hand; moved from met-du-cerceau by the loose-print rule (2026-10-27): loose print by Jacques Androuet Du Cerceau: artist set, group = holding object (Metropolitan Museum of Art 21.10.1(31))"
+    notes: "id candidate \"framed-standing-statue-and-two-foreground-figures\" is 49 chars (> 48); shorten by hand; moved from met-du-cerceau by the loose-print rule (2026-10-27): loose print by Jacques Androuet Du Cerceau: artist set, group = holding object (Metropolitan Museum of Art 21.10.1(31)); id shortened by hand (2026-10-28)"
   - old: "framed-standing-statue-with-two-attending-figures"
     set: "du-cerceau-prints"
-    id: null
+    id: "du-cerceau-prints/framed-statue-with-two-attending-figures"
     group: "21-10-1-31"
     wave: 2
     status: renamed
-    notes: "id candidate \"framed-standing-statue-with-two-attending-figures\" is 49 chars (> 48); shorten by hand; moved from met-du-cerceau by the loose-print rule (2026-10-27): loose print by Jacques Androuet Du Cerceau: artist set, group = holding object (Metropolitan Museum of Art 21.10.1(31))"
+    notes: "id candidate \"framed-standing-statue-with-two-attending-figures\" is 49 chars (> 48); shorten by hand; moved from met-du-cerceau by the loose-print rule (2026-10-27): loose print by Jacques Androuet Du Cerceau: artist set, group = holding object (Metropolitan Museum of Art 21.10.1(31)); id shortened by hand (2026-10-28)"
   - old: "framed-two-figures-contesting-on-shared-ground"
     set: "du-cerceau-prints"
     id: "du-cerceau-prints/framed-two-figures-contesting-on-shared-ground"
@@ -2215,18 +2215,18 @@ entries:
     notes: ""
   - old: "garlanded-grotesque-with-birds-musicians-and-central-mask"
     set: "du-cerceau-prints"
-    id: null
+    id: "du-cerceau-prints/garlanded-grotesque-with-musicians-and-mask"
     group: "23-34-2-28"
     wave: 2
     status: renamed
-    notes: "loose print by Jacques Androuet Du Cerceau: artist set, group = holding object (Metropolitan Museum of Art 23.34.2(28)); id candidate \"garlanded-grotesque-with-birds-musicians-and-central-mask\" is 57 chars (> 48); shorten by hand"
+    notes: "loose print by Jacques Androuet Du Cerceau: artist set, group = holding object (Metropolitan Museum of Art 23.34.2(28)); id candidate \"garlanded-grotesque-with-birds-musicians-and-central-mask\" is 57 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "girl-kneading-bread-at-table-with-basket"
     set: "cma-1524-psalter"
-    id: "cma-1524-psalter/girl-kneading-bread-at-table-with-basket"
+    id: "cma-1524-psalter/girl-kneading-bread-at-table-with-pail"
     group: "1999-136-a"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"girl-kneading-bread-at-table-with-basket\" renamed to \"girl-kneading-bread-at-table-with-pail\" after review"
   - old: "goat-headed-fish-tailed-capricorn"
     set: "walters-w73"
     id: "walters-w73/goat-headed-fish-tailed-capricorn"
@@ -2285,11 +2285,11 @@ entries:
     notes: ""
   - old: "gold-ground-portrait-of-saint-paul-with-sword-and-book"
     set: "cma-2011-53"
-    id: null
+    id: "cma-2011-53/saint-paul-with-sword-and-book"
     group: null
     wave: 2
     status: renamed
-    notes: "id candidate \"gold-ground-portrait-of-saint-paul-with-sword-and-book\" is 54 chars (> 48); shorten by hand"
+    notes: "id candidate \"gold-ground-portrait-of-saint-paul-with-sword-and-book\" is 54 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "gold-hatched-fruit-on-green-leafy-stem"
     set: "cma-1524-psalter"
     id: "cma-1524-psalter/gold-hatched-fruit-on-green-leafy-stem"
@@ -2460,18 +2460,18 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "grapevine-with-two-purple-clusters-and-lobed-leaves"
     set: "openn-lewis-e-m"
-    id: null
+    id: "openn-lewis-e-m/grapevine-with-two-purple-clusters"
     group: "031-029"
     wave: 2
     status: renamed
-    notes: "id candidate \"grapevine-with-two-purple-clusters-and-lobed-leaves\" is 51 chars (> 48); shorten by hand"
+    notes: "id candidate \"grapevine-with-two-purple-clusters-and-lobed-leaves\" is 51 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "gray-acanthus-s-scroll-with-curled-leaf-terminals"
     set: "cma-2011-65"
-    id: null
+    id: "cma-2011-65/gray-acanthus-s-scroll"
     group: null
     wave: 2
     status: renamed
-    notes: "id candidate \"gray-acanthus-s-scroll-with-curled-leaf-terminals\" is 49 chars (> 48); shorten by hand"
+    notes: "id candidate \"gray-acanthus-s-scroll-with-curled-leaf-terminals\" is 49 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "gray-bird-among-grapes-on-long-floral-vine"
     set: "cma-1524-psalter"
     id: "cma-1524-psalter/gray-bird-among-grapes-on-long-floral-vine"
@@ -2481,11 +2481,11 @@ entries:
     notes: ""
   - old: "gray-blue-flower-with-red-center-and-green-leaf-scroll"
     set: "cma-1524-psalter"
-    id: null
+    id: "cma-1524-psalter/gray-blue-flower-with-red-center"
     group: "1999-136-a"
     wave: 2
     status: renamed
-    notes: "id candidate \"gray-blue-flower-with-red-center-and-green-leaf-scroll\" is 54 chars (> 48); shorten by hand"
+    notes: "id candidate \"gray-blue-flower-with-red-center-and-green-leaf-scroll\" is 54 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "gray-curled-horn-ram"
     set: "walters-w171"
     id: "walters-w171/gray-curled-horn-ram"
@@ -2495,11 +2495,11 @@ entries:
     notes: ""
   - old: "gray-folded-bud-with-rose-petals-and-green-leaves"
     set: "cma-1524-psalter"
-    id: null
+    id: "cma-1524-psalter/gray-folded-bud-with-rose-petals"
     group: "1999-136-b"
     wave: 2
     status: renamed
-    notes: "id candidate \"gray-folded-bud-with-rose-petals-and-green-leaves\" is 49 chars (> 48); shorten by hand"
+    notes: "id candidate \"gray-folded-bud-with-rose-petals-and-green-leaves\" is 49 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "gray-long-horned-goat"
     set: "walters-w171"
     id: "walters-w171/gray-long-horned-goat"
@@ -2516,18 +2516,18 @@ entries:
     notes: ""
   - old: "gray-red-blue-lobed-leaves-in-gold-medallions-cycle"
     set: "walters-w148"
-    id: null
+    id: "walters-w148/lobed-leaves-in-gold-medallions"
     group: "31r"
     wave: 2
     status: renamed
-    notes: "id candidate \"gray-red-blue-lobed-leaves-in-gold-medallions-cycle\" is 51 chars (> 48); shorten by hand"
+    notes: "id candidate \"gray-red-blue-lobed-leaves-in-gold-medallions-cycle\" is 51 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "gray-red-blue-lobed-leaves-in-gold-medallions-cycle#bar"
     set: "walters-w148"
     id: null
     group: "31r"
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component bar"
+    status: dropped
+    notes: "true master component, folded into the asset as component bar; id shortened by hand (2026-10-28); generated derivative (a mirror or repeat of a listed component), not a component; removed after review"
   - old: "gray-red-blue-lobed-leaves-in-gold-medallions-cycle#border_image"
     set: "walters-w148"
     id: null
@@ -2540,29 +2540,29 @@ entries:
     id: null
     group: "31r"
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner-bottom-left"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner-bottom-left; id shortened by hand (2026-10-28); generated derivative (a mirror or repeat of a listed component), not a component; removed after review"
   - old: "gray-red-blue-lobed-leaves-in-gold-medallions-cycle#corner-bottom-right"
     set: "walters-w148"
     id: null
     group: "31r"
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner-bottom-right"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner-bottom-right; id shortened by hand (2026-10-28); generated derivative (a mirror or repeat of a listed component), not a component; removed after review"
   - old: "gray-red-blue-lobed-leaves-in-gold-medallions-cycle#corner-top-left"
     set: "walters-w148"
-    id: null
+    id: "walters-w148/lobed-leaves-in-gold-medallions#corner-top-left"
     group: "31r"
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner-top-left"
+    notes: "true master component, folded into the asset as component corner-top-left; id shortened by hand (2026-10-28)"
   - old: "gray-red-blue-lobed-leaves-in-gold-medallions-cycle#corner-top-right"
     set: "walters-w148"
-    id: null
+    id: "walters-w148/lobed-leaves-in-gold-medallions#corner-top-right"
     group: "31r"
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner-top-right"
+    notes: "true master component, folded into the asset as component corner-top-right; id shortened by hand (2026-10-28)"
   - old: "gray-red-blue-lobed-leaves-in-gold-medallions-cycle#rotated_bar"
     set: "walters-w148"
     id: null
@@ -2600,60 +2600,60 @@ entries:
     notes: ""
   - old: "grotesque-architecture-with-bird-canopies-and-framed-scenes"
     set: "du-cerceau-prints"
-    id: null
+    id: "du-cerceau-prints/grotesque-architecture-with-bird-canopies"
     group: "21-10-1-31"
     wave: 2
     status: renamed
-    notes: "id candidate \"grotesque-architecture-with-bird-canopies-and-framed-scenes\" is 59 chars (> 48); shorten by hand; moved from met-du-cerceau by the loose-print rule (2026-10-27): loose print by Jacques Androuet Du Cerceau: artist set, group = holding object (Metropolitan Museum of Art 21.10.1(31))"
+    notes: "id candidate \"grotesque-architecture-with-bird-canopies-and-framed-scenes\" is 59 chars (> 48); shorten by hand; moved from met-du-cerceau by the loose-print rule (2026-10-27): loose print by Jacques Androuet Du Cerceau: artist set, group = holding object (Metropolitan Museum of Art 21.10.1(31)); id shortened by hand (2026-10-28)"
   - old: "grotesque-candelabrum-with-satyrs-griffins-and-music"
     set: "du-cerceau-prints"
-    id: null
+    id: "du-cerceau-prints/grotesque-candelabrum-with-horned-hybrids"
     group: "21-10-1-18"
     wave: 2
     status: renamed
-    notes: "joined met-du-cerceau: same accession family 21.10.1; id candidate \"grotesque-candelabrum-with-satyrs-griffins-and-music\" is 52 chars (> 48); shorten by hand; moved from met-du-cerceau by the loose-print rule (2026-10-27): loose print by Jacques Androuet Du Cerceau: artist set, group = holding object (Metropolitan Museum of Art 21.10.1(18))"
+    notes: "joined met-du-cerceau: same accession family 21.10.1; id candidate \"grotesque-candelabrum-with-satyrs-griffins-and-music\" is 52 chars (> 48); shorten by hand; moved from met-du-cerceau by the loose-print rule (2026-10-27): loose print by Jacques Androuet Du Cerceau: artist set, group = holding object (Metropolitan Museum of Art 21.10.1(18)); id shortened by hand (2026-10-28); id \"grotesque-candelabrum-with-satyrs-and-griffins\" renamed to \"grotesque-candelabrum-with-horned-hybrids\" after review"
   - old: "grotesque-canopy-with-birds-and-suspended-miniature"
     set: "du-cerceau-prints"
-    id: null
+    id: "du-cerceau-prints/grotesque-canopy-with-suspended-miniature"
     group: "49-95-321"
     wave: 2
     status: renamed
-    notes: "id candidate \"grotesque-canopy-with-birds-and-suspended-miniature\" is 51 chars (> 48); shorten by hand; moved from met-du-cerceau by the loose-print rule (2026-10-27): loose print by Jacques Androuet Du Cerceau: artist set, group = holding object (Metropolitan Museum of Art 49.95.321)"
+    notes: "id candidate \"grotesque-canopy-with-birds-and-suspended-miniature\" is 51 chars (> 48); shorten by hand; moved from met-du-cerceau by the loose-print rule (2026-10-27): loose print by Jacques Androuet Du Cerceau: artist set, group = holding object (Metropolitan Museum of Art 49.95.321); id shortened by hand (2026-10-28)"
   - old: "grotesque-vines-with-winged-hybrids-and-figure-canopies"
     set: "du-cerceau-prints"
-    id: null
+    id: "du-cerceau-prints/grotesque-vines-with-winged-hybrids"
     group: "21-10-1-30"
     wave: 2
     status: renamed
-    notes: "joined met-du-cerceau: same accession family 21.10.1; id candidate \"grotesque-vines-with-winged-hybrids-and-figure-canopies\" is 55 chars (> 48); shorten by hand; moved from met-du-cerceau by the loose-print rule (2026-10-27): loose print by Jacques Androuet Du Cerceau: artist set, group = holding object (Metropolitan Museum of Art 21.10.1(30))"
+    notes: "joined met-du-cerceau: same accession family 21.10.1; id candidate \"grotesque-vines-with-winged-hybrids-and-figure-canopies\" is 55 chars (> 48); shorten by hand; moved from met-du-cerceau by the loose-print rule (2026-10-27): loose print by Jacques Androuet Du Cerceau: artist set, group = holding object (Metropolitan Museum of Art 21.10.1(30)); id shortened by hand (2026-10-28)"
   - old: "grotesque-with-paired-curled-hybrids-and-framed-scene"
     set: "du-cerceau-prints"
-    id: null
+    id: "du-cerceau-prints/grotesque-with-paired-hybrids-and-scene"
     group: "49-95-321"
     wave: 2
     status: renamed
-    notes: "id candidate \"grotesque-with-paired-curled-hybrids-and-framed-scene\" is 53 chars (> 48); shorten by hand; moved from met-du-cerceau by the loose-print rule (2026-10-27): loose print by Jacques Androuet Du Cerceau: artist set, group = holding object (Metropolitan Museum of Art 49.95.321)"
+    notes: "id candidate \"grotesque-with-paired-curled-hybrids-and-framed-scene\" is 53 chars (> 48); shorten by hand; moved from met-du-cerceau by the loose-print rule (2026-10-27): loose print by Jacques Androuet Du Cerceau: artist set, group = holding object (Metropolitan Museum of Art 49.95.321); id shortened by hand (2026-10-28)"
   - old: "hairy-hunter-and-diving-bird-in-columned-pond-scene"
     set: "cma-2006-13"
-    id: null
+    id: "cma-2006-13/ape-fishing-pond-scene"
     group: null
     wave: 2
     status: renamed
-    notes: "id candidate \"hairy-hunter-and-diving-bird-in-columned-pond-scene\" is 51 chars (> 48); shorten by hand"
+    notes: "id candidate \"hairy-hunter-and-diving-bird-in-columned-pond-scene\" is 51 chars (> 48); shorten by hand; id shortened by hand (2026-10-28); id \"hairy-hunter-and-diving-bird-pond-scene\" renamed to \"ape-fishing-pond-scene\" after review"
   - old: "haloed-bearded-bust-holding-lettered-scroll"
     set: "walters-w82"
-    id: "walters-w82/haloed-bearded-bust-holding-lettered-scroll"
+    id: "walters-w82/apostle-bust-with-scroll"
     group: "194v"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"haloed-bearded-bust-holding-lettered-scroll\" renamed to \"apostle-bust-with-scroll\" after review"
   - old: "haloed-bust-with-cross-marked-orb-and-raised-hand"
     set: "walters-w82"
-    id: null
+    id: "walters-w82/god-blessing-bust-with-orb"
     group: "62v"
     wave: 2
     status: renamed
-    notes: "id candidate \"haloed-bust-with-cross-marked-orb-and-raised-hand\" is 49 chars (> 48); shorten by hand"
+    notes: "id candidate \"haloed-bust-with-cross-marked-orb-and-raised-hand\" is 49 chars (> 48); shorten by hand; id shortened by hand (2026-10-28); id \"haloed-bust-with-orb-and-raised-hand\" renamed to \"god-blessing-bust-with-orb\" after review"
   - old: "haloed-eagle-head-with-pale-blue-wings"
     set: "walters-w7"
     id: "walters-w7/haloed-eagle-head-with-pale-blue-wings"
@@ -2740,11 +2740,11 @@ entries:
     notes: ""
   - old: "hanging-rosette-and-bell-finial"
     set: "met-latomus-lace"
-    id: "met-latomus-lace/hanging-rosette-and-bell-finial"
+    id: "met-latomus-lace/hanging-bell-drop"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"hanging-rosette-and-bell-finial\" renamed to \"hanging-bell-drop\" after review"
   - old: "hare-and-hound-in-contact"
     set: "walters-w82"
     id: "walters-w82/hare-and-hound-in-contact"
@@ -2810,11 +2810,11 @@ entries:
     notes: ""
   - old: "horizontal-floral-spray-with-blue-flowers-and-green-curled-stem"
     set: "openn-lewis-e-m"
-    id: null
+    id: "openn-lewis-e-m/floral-spray-with-blue-flowers"
     group: "067-003"
     wave: 2
     status: renamed
-    notes: "id candidate \"horizontal-floral-spray-with-blue-flowers-and-green-curled-stem\" is 63 chars (> 48); shorten by hand"
+    notes: "id candidate \"horizontal-floral-spray-with-blue-flowers-and-green-curled-stem\" is 63 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "horizontal-palmettes-and-four-lobed-scroll-cycle"
     set: "met-schoen-modelbuch"
     id: "met-schoen-modelbuch/horizontal-palmettes-and-four-lobed-scroll-cycle"
@@ -2943,11 +2943,11 @@ entries:
     notes: ""
   - old: "human-headed-bird-with-curved-gold-neck-and-brown-wings"
     set: "cma-2005-206"
-    id: null
+    id: "cma-2005-206/human-headed-bird-with-gold-neck"
     group: "b"
     wave: 2
     status: renamed
-    notes: "id candidate \"human-headed-bird-with-curved-gold-neck-and-brown-wings\" is 55 chars (> 48); shorten by hand"
+    notes: "id candidate \"human-headed-bird-with-curved-gold-neck-and-brown-wings\" is 55 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "human-headed-fleecy-quadruped-with-gold-spiral"
     set: "walters-w82"
     id: "walters-w82/human-headed-fleecy-quadruped-with-gold-spiral"
@@ -3342,11 +3342,11 @@ entries:
     notes: "generated rotated tile; geometry goes to render.tile"
   - old: "interlocking-ribbon"
     set: "floral-vector-borders"
-    id: "floral-vector-borders/interlocking-ribbon"
+    id: "floral-vector-borders/gold-wave-ribbon"
     group: null
     wave: 2
     status: moved
-    notes: "hand-made vector: the svg is the master (copied as master.svg); png kept for the raster ladder"
+    notes: "hand-made vector: the svg is the master (copied as master.svg); png kept for the raster ladder; id \"interlocking-ribbon\" renamed to \"gold-wave-ribbon\" after review"
   - old: "interlocking-ribbon#border_image"
     set: "floral-vector-borders"
     id: null
@@ -3356,11 +3356,11 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "interlocking-ribbon#corner"
     set: "floral-vector-borders"
-    id: "floral-vector-borders/interlocking-ribbon#corner"
+    id: "floral-vector-borders/gold-wave-ribbon#corner"
     group: null
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner"
+    notes: "true master component, folded into the asset as component corner; id \"interlocking-ribbon\" renamed to \"gold-wave-ribbon\" after review"
   - old: "interlocking-ribbon#rotated_tile"
     set: "floral-vector-borders"
     id: null
@@ -3517,18 +3517,18 @@ entries:
     notes: "loose print by Sebald Beham: artist set, group = holding object (National Gallery of Art, Washington 1941.2.6)"
   - old: "large-hanging-blue-flower-with-long-green-leaves"
     set: "cma-1524-psalter"
-    id: "cma-1524-psalter/large-hanging-blue-flower-with-long-green-leaves"
+    id: "cma-1524-psalter/large-blue-flower-with-drooping-petals"
     group: "2011-67-b"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"large-hanging-blue-flower-with-long-green-leaves\" renamed to \"large-blue-flower-with-drooping-petals\" after review"
   - old: "large-knotted-ribbons-with-flowers-and-curled-leaves"
     set: "met-schoen-modelbuch"
-    id: null
+    id: "met-schoen-modelbuch/knotted-straps-with-flowers-and-leaves"
     group: "681251"
     wave: 2
     status: renamed
-    notes: "id candidate \"large-knotted-ribbons-with-flowers-and-curled-leaves\" is 52 chars (> 48); shorten by hand"
+    notes: "id candidate \"large-knotted-ribbons-with-flowers-and-curled-leaves\" is 52 chars (> 48); shorten by hand; id shortened by hand (2026-10-28); id \"knotted-ribbons-with-flowers-and-leaves\" renamed to \"knotted-straps-with-flowers-and-leaves\" after review"
   - old: "large-left-tulip-with-long-folded-leaf"
     set: "met-livre-nouveau-de-fleurs"
     id: "met-livre-nouveau-de-fleurs/large-left-tulip-with-long-folded-leaf"
@@ -3545,11 +3545,11 @@ entries:
     notes: ""
   - old: "large-red-flower-and-small-bud-on-branching-green-stem"
     set: "cma-1524-psalter"
-    id: null
+    id: "cma-1524-psalter/large-red-flower-and-bud-on-branching-stem"
     group: "1999-136-b"
     wave: 2
     status: renamed
-    notes: "id candidate \"large-red-flower-and-small-bud-on-branching-green-stem\" is 54 chars (> 48); shorten by hand"
+    notes: "id candidate \"large-red-flower-and-small-bud-on-branching-green-stem\" is 54 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "large-red-tulip-with-blue-sepals-and-side-bud"
     set: "cma-1524-psalter"
     id: "cma-1524-psalter/large-red-tulip-with-blue-sepals-and-side-bud"
@@ -3566,11 +3566,11 @@ entries:
     notes: ""
   - old: "large-side-facing-rose-with-curved-leafy-stem"
     set: "met-livre-nouveau-de-fleurs"
-    id: "met-livre-nouveau-de-fleurs/large-side-facing-rose-with-curved-leafy-stem"
+    id: "met-livre-nouveau-de-fleurs/large-double-bloom-on-curved-stem"
     group: "425823"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"large-side-facing-rose-with-curved-leafy-stem\" renamed to \"large-double-bloom-on-curved-stem\" after review"
   - old: "leafy-tree-on-mound-with-contacting-figures"
     set: "met-livre-nouveau-de-fleurs"
     id: "met-livre-nouveau-de-fleurs/leafy-tree-on-mound-with-contacting-figures"
@@ -3587,11 +3587,11 @@ entries:
     notes: ""
   - old: "left-and-lower-floral-margin-with-acanthus-and-gold-ivy"
     set: "walters-w186"
-    id: null
+    id: "walters-w186/left-and-lower-floral-margin"
     group: "276v"
     wave: 2
     status: renamed
-    notes: "id candidate \"left-and-lower-floral-margin-with-acanthus-and-gold-ivy\" is 55 chars (> 48); shorten by hand"
+    notes: "id candidate \"left-and-lower-floral-margin-with-acanthus-and-gold-ivy\" is 55 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "left-blue-robed-angel-musician"
     set: "walters-w186"
     id: "walters-w186/left-blue-robed-angel-musician"
@@ -3608,11 +3608,11 @@ entries:
     notes: ""
   - old: "left-facing-brown-quadruped-with-gold-trefoil-in-curled-tail"
     set: "walters-w148"
-    id: null
+    id: "walters-w148/brown-beast-facing-left"
     group: "52r"
     wave: 2
     status: renamed
-    notes: "id candidate \"left-facing-brown-quadruped-with-gold-trefoil-in-curled-tail\" is 60 chars (> 48); shorten by hand"
+    notes: "id candidate \"left-facing-brown-quadruped-with-gold-trefoil-in-curled-tail\" is 60 chars (> 48); shorten by hand; id shortened by hand (2026-10-28); id \"brown-quadruped-facing-left\" renamed to \"brown-beast-facing-left\" after review"
   - old: "left-gray-blue-acanthus-scroll-with-green-stem"
     set: "cma-2014-22"
     id: "cma-2014-22/left-gray-blue-acanthus-scroll-with-green-stem"
@@ -3622,11 +3622,11 @@ entries:
     notes: ""
   - old: "left-green-robed-angel-with-small-stringed-instrument"
     set: "walters-w186"
-    id: null
+    id: "walters-w186/green-robed-angel-with-lute"
     group: "285r"
     wave: 2
     status: renamed
-    notes: "id candidate \"left-green-robed-angel-with-small-stringed-instrument\" is 53 chars (> 48); shorten by hand"
+    notes: "id candidate \"left-green-robed-angel-with-small-stringed-instrument\" is 53 chars (> 48); shorten by hand; id shortened by hand (2026-10-28); id \"green-robed-angel-with-stringed-instrument\" renamed to \"green-robed-angel-with-lute\" after review"
   - old: "left-mounted-hunter-on-running-horse"
     set: "met-livre-nouveau-de-fleurs"
     id: "met-livre-nouveau-de-fleurs/left-mounted-hunter-on-running-horse"
@@ -3720,25 +3720,25 @@ entries:
     notes: ""
   - old: "long-brown-foliate-vine-with-blue-green-and-gold-leaves"
     set: "walters-w82"
-    id: null
+    id: "walters-w82/long-brown-foliate-vine"
     group: "52r"
     wave: 2
     status: renamed
-    notes: "id candidate \"long-brown-foliate-vine-with-blue-green-and-gold-leaves\" is 55 chars (> 48); shorten by hand"
+    notes: "id candidate \"long-brown-foliate-vine-with-blue-green-and-gold-leaves\" is 55 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "long-left-blue-and-gold-rod-with-two-profile-heads"
     set: "walters-w88"
-    id: null
+    id: "walters-w88/left-rod-with-two-profile-heads"
     group: "52r"
     wave: 2
     status: renamed
-    notes: "id candidate \"long-left-blue-and-gold-rod-with-two-profile-heads\" is 50 chars (> 48); shorten by hand"
+    notes: "id candidate \"long-left-blue-and-gold-rod-with-two-profile-heads\" is 50 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "long-snouted-running-quadruped"
     set: "walters-w82"
-    id: "walters-w82/long-snouted-running-quadruped"
+    id: "walters-w82/running-collared-hound"
     group: "182v"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"long-snouted-running-quadruped\" renamed to \"running-collared-hound\" after review"
   - old: "looped-lattice-knots-and-curled-palmettes"
     set: "met-schoen-modelbuch"
     id: "met-schoen-modelbuch/looped-lattice-knots-and-curled-palmettes"
@@ -3888,18 +3888,18 @@ entries:
     notes: "moved from nga-ornament-prints by the loose-print rule (2026-10-27): loose print by Martin Schongauer: artist set, group = holding object (National Gallery of Art, Washington 1943.3.93)"
   - old: "lower-gold-rod-with-red-blue-and-gold-foliate-branch-walters-w171-19v"
     set: "walters-w171"
-    id: null
+    id: "walters-w171/lower-gold-rod-with-foliate-branch-19v"
     group: "19v"
     wave: 2
     status: renamed
-    notes: "id candidate \"lower-gold-rod-with-red-blue-and-gold-foliate-branch-walters-w171-19v\" is 69 chars (> 48); shorten by hand"
+    notes: "id candidate \"lower-gold-rod-with-red-blue-and-gold-foliate-branch-walters-w171-19v\" is 69 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "lower-gold-rod-with-red-blue-and-gold-foliate-branch-walters-w171-74r"
     set: "walters-w171"
-    id: null
+    id: "walters-w171/lower-gold-rod-with-foliate-branch-74r"
     group: "74r"
     wave: 2
     status: renamed
-    notes: "id candidate \"lower-gold-rod-with-red-blue-and-gold-foliate-branch-walters-w171-74r\" is 69 chars (> 48); shorten by hand"
+    notes: "id candidate \"lower-gold-rod-with-red-blue-and-gold-foliate-branch-walters-w171-74r\" is 69 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "lower-grotesque-face-mask"
     set: "mkg-de-bry-alphabet"
     id: null
@@ -3909,18 +3909,18 @@ entries:
     notes: "id \"lower-grotesque-face-mask\" renamed to \"small-face-mask\" after review; master is 33x41 px, under the 64 px minimum; dropped after review"
   - old: "lower-left-gold-and-pink-rod-with-ivy-flourish-walters-w171-10r"
     set: "walters-w171"
-    id: null
+    id: "walters-w171/lower-left-rod-with-ivy-flourish-10r"
     group: "10r"
     wave: 2
     status: renamed
-    notes: "id candidate \"lower-left-gold-and-pink-rod-with-ivy-flourish-walters-w171-10r\" is 63 chars (> 48); shorten by hand"
+    notes: "id candidate \"lower-left-gold-and-pink-rod-with-ivy-flourish-walters-w171-10r\" is 63 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "lower-left-gold-and-pink-rod-with-ivy-flourish-walters-w171-12r"
     set: "walters-w171"
-    id: null
+    id: "walters-w171/lower-left-rod-with-ivy-flourish-12r"
     group: "12r"
     wave: 2
     status: renamed
-    notes: "id candidate \"lower-left-gold-and-pink-rod-with-ivy-flourish-walters-w171-12r\" is 63 chars (> 48); shorten by hand"
+    notes: "id candidate \"lower-left-gold-and-pink-rod-with-ivy-flourish-walters-w171-12r\" is 63 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "lower-left-green-leaf-branch-with-pink-flowers"
     set: "cma-2014-22"
     id: "cma-2014-22/lower-left-green-leaf-branch-with-pink-flowers"
@@ -3930,25 +3930,25 @@ entries:
     notes: ""
   - old: "lower-left-knotted-red-and-blue-leaf"
     set: "openn-lewis-e-m"
-    id: "openn-lewis-e-m/lower-left-knotted-red-and-blue-leaf"
+    id: "openn-lewis-e-m/red-lobed-leaf-on-looping-blue-stem"
     group: "013-005"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"lower-left-knotted-red-and-blue-leaf\" renamed to \"red-lobed-leaf-on-looping-blue-stem\" after review"
   - old: "lower-left-pair-of-contacting-figures"
     set: "cma-2003-171"
-    id: "cma-2003-171/lower-left-pair-of-contacting-figures"
+    id: "cma-2003-171/saint-seized-by-hair-left"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"lower-left-pair-of-contacting-figures\" renamed to \"saint-seized-by-hair-left\" after review"
   - old: "lower-oval-red-cream-flower-and-two-green-leaves"
     set: "cma-1524-psalter"
-    id: "cma-1524-psalter/lower-oval-red-cream-flower-and-two-green-leaves"
+    id: "cma-1524-psalter/split-oval-bud-with-two-green-leaves"
     group: "2006-15-a"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"lower-oval-red-cream-flower-and-two-green-leaves\" renamed to \"split-oval-bud-with-two-green-leaves\" after review"
   - old: "lower-profile-head-on-long-blue-and-gold-rod"
     set: "walters-w88"
     id: "walters-w88/lower-profile-head-on-long-blue-and-gold-rod"
@@ -3979,11 +3979,11 @@ entries:
     notes: ""
   - old: "lower-right-pair-of-contacting-figures"
     set: "cma-2003-171"
-    id: "cma-2003-171/lower-right-pair-of-contacting-figures"
+    id: "cma-2003-171/saint-seized-by-hair-right"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"lower-right-pair-of-contacting-figures\" renamed to \"saint-seized-by-hair-right\" after review"
   - old: "lower-silver-fish-with-red-fins"
     set: "walters-w171"
     id: "walters-w171/lower-silver-fish-with-red-fins"
@@ -4014,18 +4014,18 @@ entries:
     notes: ""
   - old: "matthew-writing-at-lectern-with-seat-and-footstool"
     set: "walters-w7"
-    id: null
+    id: "walters-w7/matthew-writing-at-lectern"
     group: "15v"
     wave: 2
     status: renamed
-    notes: "id candidate \"matthew-writing-at-lectern-with-seat-and-footstool\" is 50 chars (> 48); shorten by hand"
+    notes: "id candidate \"matthew-writing-at-lectern-with-seat-and-footstool\" is 50 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "may-calendar-fixed-floral-frame-with-paired-forest-arches"
     set: "cma-2011-65"
-    id: null
+    id: "cma-2011-65/may-calendar-floral-frame-with-forest-arches"
     group: null
     wave: 2
     status: renamed
-    notes: "id candidate \"may-calendar-fixed-floral-frame-with-paired-forest-arches\" is 57 chars (> 48); shorten by hand"
+    notes: "id candidate \"may-calendar-fixed-floral-frame-with-paired-forest-arches\" is 57 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "michael-and-angels-battling-winged-demons"
     set: "openn-lewis-e-m"
     id: "openn-lewis-e-m/michael-and-angels-battling-winged-demons"
@@ -4049,11 +4049,11 @@ entries:
     notes: ""
   - old: "mirrored-figure-eight-loops-and-floral-diamonds-panel"
     set: "met-schoen-modelbuch"
-    id: null
+    id: "met-schoen-modelbuch/figure-eight-loops-and-floral-diamonds"
     group: "681253"
     wave: 2
     status: renamed
-    notes: "id candidate \"mirrored-figure-eight-loops-and-floral-diamonds-panel\" is 53 chars (> 48); shorten by hand"
+    notes: "id candidate \"mirrored-figure-eight-loops-and-floral-diamonds-panel\" is 53 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "mirrored-floral-wave-with-central-interlace"
     set: "met-schoen-modelbuch"
     id: "met-schoen-modelbuch/mirrored-floral-wave-with-central-interlace"
@@ -4210,18 +4210,18 @@ entries:
     notes: "drawn vector sheet piece without provenance; imported set"
   - old: "opposed-blue-red-leaves-with-gray-interlace-cycle"
     set: "walters-w148"
-    id: null
+    id: "walters-w148/opposed-leaves-with-gray-interlace"
     group: "31r"
     wave: 2
     status: renamed
-    notes: "id candidate \"opposed-blue-red-leaves-with-gray-interlace-cycle\" is 49 chars (> 48); shorten by hand"
+    notes: "id candidate \"opposed-blue-red-leaves-with-gray-interlace-cycle\" is 49 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "opposed-blue-red-leaves-with-gray-interlace-cycle#bar"
     set: "walters-w148"
     id: null
     group: "31r"
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component bar"
+    status: dropped
+    notes: "true master component, folded into the asset as component bar; id shortened by hand (2026-10-28); generated derivative (a mirror or repeat of a listed component), not a component; removed after review"
   - old: "opposed-blue-red-leaves-with-gray-interlace-cycle#border_image"
     set: "walters-w148"
     id: null
@@ -4234,29 +4234,29 @@ entries:
     id: null
     group: "31r"
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner-bottom-left"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner-bottom-left; id shortened by hand (2026-10-28); generated derivative (a mirror or repeat of a listed component), not a component; removed after review"
   - old: "opposed-blue-red-leaves-with-gray-interlace-cycle#corner-bottom-right"
     set: "walters-w148"
     id: null
     group: "31r"
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner-bottom-right"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner-bottom-right; id shortened by hand (2026-10-28); generated derivative (a mirror or repeat of a listed component), not a component; removed after review"
   - old: "opposed-blue-red-leaves-with-gray-interlace-cycle#corner-top-left"
     set: "walters-w148"
-    id: null
+    id: "walters-w148/opposed-leaves-with-gray-interlace#corner-top-left"
     group: "31r"
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner-top-left"
+    notes: "true master component, folded into the asset as component corner-top-left; id shortened by hand (2026-10-28)"
   - old: "opposed-blue-red-leaves-with-gray-interlace-cycle#corner-top-right"
     set: "walters-w148"
-    id: null
+    id: "walters-w148/opposed-leaves-with-gray-interlace#corner-top-right"
     group: "31r"
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner-top-right"
+    notes: "true master component, folded into the asset as component corner-top-right; id shortened by hand (2026-10-28)"
   - old: "opposed-blue-red-leaves-with-gray-interlace-cycle#rotated_bar"
     set: "walters-w148"
     id: null
@@ -4273,11 +4273,11 @@ entries:
     notes: "generated rotated tile; geometry goes to render.tile"
   - old: "orange-clad-floating-figure-with-green-cloak-and-crossed-implement"
     set: "walters-w82"
-    id: null
+    id: "walters-w82/merman-with-spoon"
     group: "179v"
     wave: 2
     status: renamed
-    notes: "id candidate \"orange-clad-floating-figure-with-green-cloak-and-crossed-implement\" is 66 chars (> 48); shorten by hand"
+    notes: "id candidate \"orange-clad-floating-figure-with-green-cloak-and-crossed-implement\" is 66 chars (> 48); shorten by hand; id shortened by hand (2026-10-28); id \"orange-clad-floating-figure\" renamed to \"merman-with-spoon\" after review"
   - old: "orange-clad-trumpeter-with-green-staff"
     set: "walters-w82"
     id: "walters-w82/orange-clad-trumpeter-with-green-staff"
@@ -4287,11 +4287,11 @@ entries:
     notes: ""
   - old: "orange-maned-hybrid-with-blue-wing-and-green-claws"
     set: "openn-lewis-e-m"
-    id: null
+    id: "openn-lewis-e-m/orange-maned-hybrid-with-blue-wing"
     group: "023-019"
     wave: 2
     status: renamed
-    notes: "id candidate \"orange-maned-hybrid-with-blue-wing-and-green-claws\" is 50 chars (> 48); shorten by hand"
+    notes: "id candidate \"orange-maned-hybrid-with-blue-wing-and-green-claws\" is 50 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "orange-robed-human-headed-winged-figure"
     set: "walters-w82"
     id: "walters-w82/orange-robed-human-headed-winged-figure"
@@ -4301,11 +4301,11 @@ entries:
     notes: ""
   - old: "orange-trefoil-flower-with-white-painted-outline"
     set: "walters-w88"
-    id: "walters-w88/orange-trefoil-flower-with-white-painted-outline"
+    id: "walters-w88/orange-trefoil-flower"
     group: "52r"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"orange-trefoil-flower-with-white-painted-outline\" renamed to \"orange-trefoil-flower\" after review"
   - old: "ornate-double-cup-with-two-children"
     set: "beham-prints"
     id: "beham-prints/double-cup-with-two-putti"
@@ -4315,11 +4315,11 @@ entries:
     notes: "loose print by Sebald Beham: artist set, group = holding object (Museum für Kunst und Gewerbe Hamburg O1919.19); id \"ornate-double-cup-with-two-children\" renamed to \"double-cup-with-two-putti\" after review"
   - old: "oval-blue-celestial-scene-with-gold-stars-and-crescent"
     set: "walters-w171"
-    id: null
+    id: "walters-w171/oval-celestial-scene-with-stars-and-crescent"
     group: "10r"
     wave: 2
     status: renamed
-    notes: "id candidate \"oval-blue-celestial-scene-with-gold-stars-and-crescent\" is 54 chars (> 48); shorten by hand"
+    notes: "id candidate \"oval-blue-celestial-scene-with-gold-stars-and-crescent\" is 54 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "owl-and-perching-birds-in-leafy-scroll"
     set: "schongauer-prints"
     id: "schongauer-prints/owl-and-perching-birds-in-leafy-scroll"
@@ -4616,11 +4616,11 @@ entries:
     notes: ""
   - old: "pale-yellow-daisy-on-lobed-green-leaf-scroll"
     set: "cma-1524-psalter"
-    id: "cma-1524-psalter/pale-yellow-daisy-on-lobed-green-leaf-scroll"
+    id: "cma-1524-psalter/pale-yellow-daisy-on-leafy-stem"
     group: "2006-15-b"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"pale-yellow-daisy-on-lobed-green-leaf-scroll\" renamed to \"pale-yellow-daisy-on-leafy-stem\" after review"
   - old: "pale-yellow-flower-with-long-green-leaf-stem"
     set: "cma-1524-psalter"
     id: "cma-1524-psalter/pale-yellow-flower-with-long-green-leaf-stem"
@@ -4658,11 +4658,11 @@ entries:
     notes: ""
   - old: "pink-and-blue-upright-flower-on-curving-stem"
     set: "cma-1524-psalter"
-    id: "cma-1524-psalter/pink-and-blue-upright-flower-on-curving-stem"
+    id: "cma-1524-psalter/red-and-blue-upright-flower-on-curving-stem"
     group: "1999-136-a"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"pink-and-blue-upright-flower-on-curving-stem\" renamed to \"red-and-blue-upright-flower-on-curving-stem\" after review"
   - old: "pink-and-red-lobed-leaves-on-blue-stem"
     set: "openn-lewis-e-m"
     id: "openn-lewis-e-m/pink-and-red-lobed-leaves-on-blue-stem"
@@ -4763,11 +4763,11 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "plate-01-linked-scrolls"
     set: "numbered-plate"
-    id: "numbered-plate/plate-01-linked-scrolls"
+    id: null
     group: null
     wave: 2
-    status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    status: dropped
+    notes: "png is the master; traced svg dropped (see #svg entry); master 55x35 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-01-linked-scrolls#border_image"
     set: "numbered-plate"
     id: null
@@ -4777,11 +4777,11 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "plate-01-linked-scrolls#corner"
     set: "numbered-plate"
-    id: "numbered-plate/plate-01-linked-scrolls#corner"
+    id: null
     group: null
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner; master 55x35 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-01-linked-scrolls#reference_crop"
     set: "numbered-plate"
     id: null
@@ -4889,11 +4889,11 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "plate-04-heart-and-diamond"
     set: "numbered-plate"
-    id: "numbered-plate/plate-04-heart-and-diamond"
+    id: "numbered-plate/plate-04-hearts-on-ribbon"
     group: null
     wave: 2
     status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    notes: "png is the master; traced svg dropped (see #svg entry); id \"plate-04-heart-and-diamond\" renamed to \"plate-04-hearts-on-ribbon\" after review"
   - old: "plate-04-heart-and-diamond#border_image"
     set: "numbered-plate"
     id: null
@@ -4903,11 +4903,11 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "plate-04-heart-and-diamond#corner"
     set: "numbered-plate"
-    id: "numbered-plate/plate-04-heart-and-diamond#corner"
+    id: "numbered-plate/plate-04-hearts-on-ribbon#corner"
     group: null
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner"
+    notes: "true master component, folded into the asset as component corner; id \"plate-04-heart-and-diamond\" renamed to \"plate-04-hearts-on-ribbon\" after review"
   - old: "plate-04-heart-and-diamond#reference_crop"
     set: "numbered-plate"
     id: null
@@ -5057,11 +5057,11 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "plate-08-diagonal-cross"
     set: "numbered-plate"
-    id: "numbered-plate/plate-08-diagonal-cross"
+    id: null
     group: null
     wave: 2
-    status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    status: dropped
+    notes: "png is the master; traced svg dropped (see #svg entry); master 55x55 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-08-diagonal-cross#border_image"
     set: "numbered-plate"
     id: null
@@ -5071,11 +5071,11 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "plate-08-diagonal-cross#corner"
     set: "numbered-plate"
-    id: "numbered-plate/plate-08-diagonal-cross#corner"
+    id: null
     group: null
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner; master 55x55 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-08-diagonal-cross#reference_crop"
     set: "numbered-plate"
     id: null
@@ -5099,11 +5099,11 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "plate-09-interlaced-knot"
     set: "numbered-plate"
-    id: "numbered-plate/plate-09-interlaced-knot"
+    id: null
     group: null
     wave: 2
-    status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    status: dropped
+    notes: "png is the master; traced svg dropped (see #svg entry); master 55x55 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-09-interlaced-knot#border_image"
     set: "numbered-plate"
     id: null
@@ -5113,11 +5113,11 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "plate-09-interlaced-knot#corner"
     set: "numbered-plate"
-    id: "numbered-plate/plate-09-interlaced-knot#corner"
+    id: null
     group: null
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner; master 55x55 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-09-interlaced-knot#reference_crop"
     set: "numbered-plate"
     id: null
@@ -5204,11 +5204,11 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "plate-12-arched-diamonds"
     set: "numbered-plate"
-    id: "numbered-plate/plate-12-arched-diamonds"
+    id: "numbered-plate/plate-12-interlocking-arches"
     group: null
     wave: 2
     status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    notes: "png is the master; traced svg dropped (see #svg entry); id \"plate-12-arched-diamonds\" renamed to \"plate-12-interlocking-arches\" after review"
   - old: "plate-12-arched-diamonds#border_image"
     set: "numbered-plate"
     id: null
@@ -5218,11 +5218,11 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "plate-12-arched-diamonds#corner"
     set: "numbered-plate"
-    id: "numbered-plate/plate-12-arched-diamonds#corner"
+    id: "numbered-plate/plate-12-interlocking-arches#corner"
     group: null
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner"
+    notes: "true master component, folded into the asset as component corner; id \"plate-12-arched-diamonds\" renamed to \"plate-12-interlocking-arches\" after review"
   - old: "plate-12-arched-diamonds#reference_crop"
     set: "numbered-plate"
     id: null
@@ -5288,11 +5288,11 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "plate-14-crossed-diamonds"
     set: "numbered-plate"
-    id: "numbered-plate/plate-14-crossed-diamonds"
+    id: "numbered-plate/plate-14-cross-lattice"
     group: null
     wave: 2
     status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    notes: "png is the master; traced svg dropped (see #svg entry); id \"plate-14-crossed-diamonds\" renamed to \"plate-14-cross-lattice\" after review"
   - old: "plate-14-crossed-diamonds#border_image"
     set: "numbered-plate"
     id: null
@@ -5302,11 +5302,11 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "plate-14-crossed-diamonds#corner"
     set: "numbered-plate"
-    id: "numbered-plate/plate-14-crossed-diamonds#corner"
+    id: "numbered-plate/plate-14-cross-lattice#corner"
     group: null
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner"
+    notes: "true master component, folded into the asset as component corner; id \"plate-14-crossed-diamonds\" renamed to \"plate-14-cross-lattice\" after review"
   - old: "plate-14-crossed-diamonds#reference_crop"
     set: "numbered-plate"
     id: null
@@ -5330,11 +5330,11 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "plate-15-diamond-square"
     set: "numbered-plate"
-    id: "numbered-plate/plate-15-diamond-square"
+    id: null
     group: null
     wave: 2
-    status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    status: dropped
+    notes: "png is the master; traced svg dropped (see #svg entry); master 55x50 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-15-diamond-square#border_image"
     set: "numbered-plate"
     id: null
@@ -5344,11 +5344,11 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "plate-15-diamond-square#corner"
     set: "numbered-plate"
-    id: "numbered-plate/plate-15-diamond-square#corner"
+    id: null
     group: null
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner; master 55x50 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-15-diamond-square#reference_crop"
     set: "numbered-plate"
     id: null
@@ -5372,11 +5372,11 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "plate-16-stepped-corner"
     set: "numbered-plate"
-    id: "numbered-plate/plate-16-stepped-corner"
+    id: null
     group: null
     wave: 2
-    status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    status: dropped
+    notes: "png is the master; traced svg dropped (see #svg entry); master 55x50 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-16-stepped-corner#reference_crop"
     set: "numbered-plate"
     id: null
@@ -5519,11 +5519,11 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "plate-20-segmented-medallions"
     set: "numbered-plate"
-    id: "numbered-plate/plate-20-segmented-medallions"
+    id: null
     group: null
     wave: 2
-    status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    status: dropped
+    notes: "png is the master; traced svg dropped (see #svg entry); master 51x50 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-20-segmented-medallions#border_image"
     set: "numbered-plate"
     id: null
@@ -5533,11 +5533,11 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "plate-20-segmented-medallions#corner"
     set: "numbered-plate"
-    id: "numbered-plate/plate-20-segmented-medallions#corner"
+    id: null
     group: null
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner; master 51x50 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-20-segmented-medallions#reference_crop"
     set: "numbered-plate"
     id: null
@@ -5561,11 +5561,11 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "plate-21-green-flower-medallions"
     set: "numbered-plate"
-    id: "numbered-plate/plate-21-green-flower-medallions"
+    id: null
     group: null
     wave: 2
-    status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    status: dropped
+    notes: "png is the master; traced svg dropped (see #svg entry); master 55x53 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-21-green-flower-medallions#border_image"
     set: "numbered-plate"
     id: null
@@ -5575,11 +5575,11 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "plate-21-green-flower-medallions#corner"
     set: "numbered-plate"
-    id: "numbered-plate/plate-21-green-flower-medallions#corner"
+    id: null
     group: null
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner; master 55x53 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-21-green-flower-medallions#reference_crop"
     set: "numbered-plate"
     id: null
@@ -5603,11 +5603,11 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "plate-22-white-petal-grid"
     set: "numbered-plate"
-    id: "numbered-plate/plate-22-white-petal-grid"
+    id: "numbered-plate/plate-22-petal-cross"
     group: null
     wave: 2
     status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    notes: "png is the master; traced svg dropped (see #svg entry); id \"plate-22-white-petal-grid\" renamed to \"plate-22-petal-cross\" after review"
   - old: "plate-22-white-petal-grid#border_image"
     set: "numbered-plate"
     id: null
@@ -5617,11 +5617,11 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "plate-22-white-petal-grid#corner"
     set: "numbered-plate"
-    id: "numbered-plate/plate-22-white-petal-grid#corner"
+    id: "numbered-plate/plate-22-petal-cross#corner"
     group: null
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner"
+    notes: "true master component, folded into the asset as component corner; id \"plate-22-white-petal-grid\" renamed to \"plate-22-petal-cross\" after review"
   - old: "plate-22-white-petal-grid#reference_crop"
     set: "numbered-plate"
     id: null
@@ -5645,11 +5645,11 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "plate-23-crossed-ribbon-knots"
     set: "numbered-plate"
-    id: "numbered-plate/plate-23-crossed-ribbon-knots"
+    id: null
     group: null
     wave: 2
-    status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    status: dropped
+    notes: "png is the master; traced svg dropped (see #svg entry); master 50x56 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-23-crossed-ribbon-knots#border_image"
     set: "numbered-plate"
     id: null
@@ -5659,11 +5659,11 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "plate-23-crossed-ribbon-knots#corner"
     set: "numbered-plate"
-    id: "numbered-plate/plate-23-crossed-ribbon-knots#corner"
+    id: null
     group: null
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner; master 50x56 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-23-crossed-ribbon-knots#reference_crop"
     set: "numbered-plate"
     id: null
@@ -5729,11 +5729,11 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "plate-25-greek-crosses"
     set: "numbered-plate"
-    id: "numbered-plate/plate-25-greek-crosses"
+    id: null
     group: null
     wave: 2
-    status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    status: dropped
+    notes: "png is the master; traced svg dropped (see #svg entry); master 57x56 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-25-greek-crosses#border_image"
     set: "numbered-plate"
     id: null
@@ -5743,11 +5743,11 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "plate-25-greek-crosses#corner"
     set: "numbered-plate"
-    id: "numbered-plate/plate-25-greek-crosses#corner"
+    id: null
     group: null
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner; master 57x56 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-25-greek-crosses#reference_crop"
     set: "numbered-plate"
     id: null
@@ -5771,11 +5771,11 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "plate-26-eight-petal-rosette"
     set: "numbered-plate"
-    id: "numbered-plate/plate-26-eight-petal-rosette"
+    id: null
     group: null
     wave: 2
-    status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    status: dropped
+    notes: "png is the master; traced svg dropped (see #svg entry); id \"plate-26-eight-petal-rosette\" renamed to \"plate-26-five-disc-cross\" after review; master 52x56 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-26-eight-petal-rosette#border_image"
     set: "numbered-plate"
     id: null
@@ -5785,11 +5785,11 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "plate-26-eight-petal-rosette#corner"
     set: "numbered-plate"
-    id: "numbered-plate/plate-26-eight-petal-rosette#corner"
+    id: null
     group: null
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner; id \"plate-26-eight-petal-rosette\" renamed to \"plate-26-five-disc-cross\" after review; master 52x56 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-26-eight-petal-rosette#reference_crop"
     set: "numbered-plate"
     id: null
@@ -5813,11 +5813,11 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "plate-27-blue-flower-medallions"
     set: "numbered-plate"
-    id: "numbered-plate/plate-27-blue-flower-medallions"
+    id: null
     group: null
     wave: 2
-    status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    status: dropped
+    notes: "png is the master; traced svg dropped (see #svg entry); master 57x54 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-27-blue-flower-medallions#border_image"
     set: "numbered-plate"
     id: null
@@ -5827,11 +5827,11 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "plate-27-blue-flower-medallions#corner"
     set: "numbered-plate"
-    id: "numbered-plate/plate-27-blue-flower-medallions#corner"
+    id: null
     group: null
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner; master 57x54 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-27-blue-flower-medallions#reference_crop"
     set: "numbered-plate"
     id: null
@@ -5855,11 +5855,11 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "plate-28-angular-blue-meander"
     set: "numbered-plate"
-    id: "numbered-plate/plate-28-angular-blue-meander"
+    id: null
     group: null
     wave: 2
-    status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    status: dropped
+    notes: "png is the master; traced svg dropped (see #svg entry); master 58x48 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-28-angular-blue-meander#border_image"
     set: "numbered-plate"
     id: null
@@ -5869,11 +5869,11 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "plate-28-angular-blue-meander#corner"
     set: "numbered-plate"
-    id: "numbered-plate/plate-28-angular-blue-meander#corner"
+    id: null
     group: null
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner; master 58x48 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-28-angular-blue-meander#reference_crop"
     set: "numbered-plate"
     id: null
@@ -6149,11 +6149,11 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "plate-35-crossed-white-stems"
     set: "numbered-plate"
-    id: "numbered-plate/plate-35-crossed-white-stems"
+    id: null
     group: null
     wave: 2
-    status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    status: dropped
+    notes: "png is the master; traced svg dropped (see #svg entry); master 41x50 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-35-crossed-white-stems#border_image"
     set: "numbered-plate"
     id: null
@@ -6163,11 +6163,11 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "plate-35-crossed-white-stems#corner"
     set: "numbered-plate"
-    id: "numbered-plate/plate-35-crossed-white-stems#corner"
+    id: null
     group: null
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner; master 41x50 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-35-crossed-white-stems#reference_crop"
     set: "numbered-plate"
     id: null
@@ -6191,11 +6191,11 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "plate-36-greek-key"
     set: "numbered-plate"
-    id: "numbered-plate/plate-36-greek-key"
+    id: "numbered-plate/plate-36-greek-key-corner"
     group: null
     wave: 2
     status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    notes: "png is the master; traced svg dropped (see #svg entry); id \"plate-36-greek-key\" renamed to \"plate-36-greek-key-corner\" after review"
   - old: "plate-36-greek-key#reference_crop"
     set: "numbered-plate"
     id: null
@@ -6212,11 +6212,11 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "plate-37-diamond-scroll"
     set: "numbered-plate"
-    id: "numbered-plate/plate-37-diamond-scroll"
+    id: "numbered-plate/plate-37-zigzag-ribbon-corner"
     group: null
     wave: 2
     status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    notes: "png is the master; traced svg dropped (see #svg entry); id \"plate-37-diamond-scroll\" renamed to \"plate-37-zigzag-ribbon-corner\" after review"
   - old: "plate-37-diamond-scroll#reference_crop"
     set: "numbered-plate"
     id: null
@@ -6233,11 +6233,11 @@ entries:
     notes: "auto-traced SVG of the raster master; no delivery value"
   - old: "plate-38-diagonal-meander"
     set: "numbered-plate"
-    id: "numbered-plate/plate-38-diagonal-meander"
+    id: null
     group: null
     wave: 2
-    status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    status: dropped
+    notes: "png is the master; traced svg dropped (see #svg entry); master 47x50 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-38-diagonal-meander#border_image"
     set: "numbered-plate"
     id: null
@@ -6247,11 +6247,11 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "plate-38-diagonal-meander#corner"
     set: "numbered-plate"
-    id: "numbered-plate/plate-38-diagonal-meander#corner"
+    id: null
     group: null
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner; master 47x50 is under the 64 px build minimum; dropped (2026-10-28)"
   - old: "plate-38-diagonal-meander#reference_crop"
     set: "numbered-plate"
     id: null
@@ -6282,11 +6282,11 @@ entries:
     notes: ""
   - old: "pointed-rose-flower-with-gray-sepals-on-green-twig"
     set: "cma-1524-psalter"
-    id: null
+    id: "cma-1524-psalter/pointed-rose-flower-with-gray-sepals"
     group: "1999-136-b"
     wave: 2
     status: renamed
-    notes: "id candidate \"pointed-rose-flower-with-gray-sepals-on-green-twig\" is 50 chars (> 48); shorten by hand"
+    notes: "id candidate \"pointed-rose-flower-with-gray-sepals-on-green-twig\" is 50 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "polyhymnia"
     set: "illuminated-acanthus"
     id: "illuminated-acanthus/polyhymnia"
@@ -6450,11 +6450,11 @@ entries:
     notes: ""
   - old: "rabbit-lutenist-painted"
     set: "shaggy-bestiary"
-    id: "shaggy-bestiary/rabbit-lutenist-painted"
+    id: "shaggy-bestiary/rabbit-lutenist"
     group: null
     wave: 2
     status: moved
-    notes: "style test: bestiary"
+    notes: "style test: bestiary; id \"rabbit-lutenist-painted\" renamed to \"rabbit-lutenist\" after review"
   - old: "rabbit-reading-book"
     set: "medieval-cutouts"
     id: "medieval-cutouts/rabbit-reading-book"
@@ -6485,11 +6485,11 @@ entries:
     notes: ""
   - old: "reclining-green-robed-figure-with-patterned-object"
     set: "walters-w82"
-    id: null
+    id: "walters-w82/reclining-green-robed-figure"
     group: "75v"
     wave: 2
     status: renamed
-    notes: "id candidate \"reclining-green-robed-figure-with-patterned-object\" is 50 chars (> 48); shorten by hand"
+    notes: "id candidate \"reclining-green-robed-figure-with-patterned-object\" is 50 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "red-and-blue-round-flower-with-two-leaves"
     set: "cma-1524-psalter"
     id: "cma-1524-psalter/red-and-blue-round-flower-with-two-leaves"
@@ -6541,25 +6541,25 @@ entries:
     notes: ""
   - old: "red-flower-and-blue-leaf-on-pale-forked-stem"
     set: "openn-lewis-e-m"
-    id: "openn-lewis-e-m/red-flower-and-blue-leaf-on-pale-forked-stem"
+    id: "openn-lewis-e-m/red-and-blue-lobed-leaves-on-forked-stem"
     group: "013-004"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"red-flower-and-blue-leaf-on-pale-forked-stem\" renamed to \"red-and-blue-lobed-leaves-on-forked-stem\" after review"
   - old: "red-four-lobed-quatrefoil-from-wind-wheel"
     set: "walters-w73"
-    id: "walters-w73/red-four-lobed-quatrefoil-from-wind-wheel"
+    id: "walters-w73/red-quatrefoil-from-wind-wheel"
     group: "1v"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"red-four-lobed-quatrefoil-from-wind-wheel\" renamed to \"red-quatrefoil-from-wind-wheel\" after review"
   - old: "red-four-petaled-flower-on-curved-stem-with-green-leaves"
     set: "cma-1524-psalter"
-    id: null
+    id: "cma-1524-psalter/red-four-petaled-flower-on-curved-stem"
     group: "2011-67-a"
     wave: 2
     status: renamed
-    notes: "id candidate \"red-four-petaled-flower-on-curved-stem-with-green-leaves\" is 56 chars (> 48); shorten by hand"
+    notes: "id candidate \"red-four-petaled-flower-on-curved-stem-with-green-leaves\" is 56 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "red-gray-radial-flower-on-green-leaf-spray"
     set: "cma-1524-psalter"
     id: "cma-1524-psalter/red-gray-radial-flower-on-green-leaf-spray"
@@ -6667,11 +6667,11 @@ entries:
     notes: ""
   - old: "right-blue-robed-angel-with-lute"
     set: "walters-w186"
-    id: "walters-w186/right-blue-robed-angel-with-lute"
+    id: "walters-w186/right-blue-robed-angel-with-vielle"
     group: "285r"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"right-blue-robed-angel-with-lute\" renamed to \"right-blue-robed-angel-with-vielle\" after review"
   - old: "right-dark-leafy-tree"
     set: "walters-w171"
     id: "walters-w171/right-dark-leafy-tree"
@@ -6681,11 +6681,11 @@ entries:
     notes: ""
   - old: "right-facing-brown-quadruped-with-gold-trefoil-in-curled-tail"
     set: "walters-w148"
-    id: null
+    id: "walters-w148/brown-beast-facing-right"
     group: "52r"
     wave: 2
     status: renamed
-    notes: "id candidate \"right-facing-brown-quadruped-with-gold-trefoil-in-curled-tail\" is 61 chars (> 48); shorten by hand"
+    notes: "id candidate \"right-facing-brown-quadruped-with-gold-trefoil-in-curled-tail\" is 61 chars (> 48); shorten by hand; id shortened by hand (2026-10-28); id \"brown-quadruped-facing-right\" renamed to \"brown-beast-facing-right\" after review"
   - old: "right-facing-gray-and-cream-profile-head"
     set: "walters-w171"
     id: "walters-w171/right-facing-gray-and-cream-profile-head"
@@ -6744,25 +6744,25 @@ entries:
     notes: "loose print by Sebald Beham: artist set, group = holding object (Museum für Kunst und Gewerbe Hamburg JB1891.590)"
   - old: "rose-and-blue-bud-on-curved-stem-with-green-leaves"
     set: "cma-1524-psalter"
-    id: null
+    id: "cma-1524-psalter/rose-and-blue-bud-on-curved-stem"
     group: "2011-67-a"
     wave: 2
     status: renamed
-    notes: "id candidate \"rose-and-blue-bud-on-curved-stem-with-green-leaves\" is 50 chars (> 48); shorten by hand"
+    notes: "id candidate \"rose-and-blue-bud-on-curved-stem-with-green-leaves\" is 50 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "rose-blue-and-gold-layered-flower-with-two-green-leaves"
     set: "cma-1524-psalter"
-    id: null
+    id: "cma-1524-psalter/rose-blue-and-gold-layered-flower"
     group: "2011-67-a"
     wave: 2
     status: renamed
-    notes: "id candidate \"rose-blue-and-gold-layered-flower-with-two-green-leaves\" is 55 chars (> 48); shorten by hand"
+    notes: "id candidate \"rose-blue-and-gold-layered-flower-with-two-green-leaves\" is 55 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "rose-fan-flower-with-small-red-bud-and-green-leaves"
     set: "cma-1524-psalter"
-    id: null
+    id: "cma-1524-psalter/rose-fan-flower-with-small-red-bud"
     group: "2011-67-a"
     wave: 2
     status: renamed
-    notes: "id candidate \"rose-fan-flower-with-small-red-bud-and-green-leaves\" is 51 chars (> 48); shorten by hand"
+    notes: "id candidate \"rose-fan-flower-with-small-red-bud-and-green-leaves\" is 51 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "rosselli-foliate-border"
     set: "met-356741"
     id: "met-356741/foliate-tile"
@@ -6877,11 +6877,11 @@ entries:
     notes: "id \"rosselli-roundel-top\" renamed to \"roundel-top\" after review"
   - old: "running-long-snouted-quadruped-with-curled-tail"
     set: "walters-w82"
-    id: "walters-w82/running-long-snouted-quadruped-with-curled-tail"
+    id: "walters-w82/running-hound-with-curled-tail"
     group: "194v"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"running-long-snouted-quadruped-with-curled-tail\" renamed to \"running-hound-with-curled-tail\" after review"
   - old: "running-spotted-hound"
     set: "walters-w82"
     id: "walters-w82/running-spotted-hound"
@@ -7073,11 +7073,11 @@ entries:
     notes: "loose print by Heinrich Aldegrever: artist set, group = holding object (National Gallery of Art, Washington 1943.3.299)"
   - old: "seated-embracing-couple-in-blue-red-and-green-clothes"
     set: "cma-1524-psalter"
-    id: null
+    id: "cma-1524-psalter/seated-embracing-couple"
     group: "2011-67-a"
     wave: 2
     status: renamed
-    notes: "id candidate \"seated-embracing-couple-in-blue-red-and-green-clothes\" is 53 chars (> 48); shorten by hand"
+    notes: "id candidate \"seated-embracing-couple-in-blue-red-and-green-clothes\" is 53 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "seated-harp-player"
     set: "walters-w88"
     id: "walters-w88/seated-harp-player"
@@ -7087,11 +7087,11 @@ entries:
     notes: ""
   - old: "seated-long-eared-rabbit-above-top-vine"
     set: "walters-w82"
-    id: "walters-w82/seated-long-eared-rabbit-above-top-vine"
+    id: "walters-w82/crouching-hare"
     group: "194v"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"seated-long-eared-rabbit-above-top-vine\" renamed to \"crouching-hare\" after review"
   - old: "seated-maiden-holding-small-flowers"
     set: "walters-w171"
     id: "walters-w171/seated-maiden-holding-small-flowers"
@@ -7283,11 +7283,11 @@ entries:
     notes: ""
   - old: "sideways-red-blue-gray-flower-on-green-leaf-scroll"
     set: "cma-1524-psalter"
-    id: null
+    id: "cma-1524-psalter/sideways-red-blue-gray-flower-on-scroll"
     group: "2011-67-b"
     wave: 2
     status: renamed
-    notes: "id candidate \"sideways-red-blue-gray-flower-on-green-leaf-scroll\" is 50 chars (> 48); shorten by hand"
+    notes: "id candidate \"sideways-red-blue-gray-flower-on-green-leaf-scroll\" is 50 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "six-leaf-blue-vine"
     set: "openn-lewis-e-m"
     id: "openn-lewis-e-m/six-leaf-blue-vine"
@@ -7311,11 +7311,11 @@ entries:
     notes: ""
   - old: "small-brown-round-flower-on-leafy-stem"
     set: "cma-1524-psalter"
-    id: "cma-1524-psalter/small-brown-round-flower-on-leafy-stem"
+    id: "cma-1524-psalter/brown-round-bud-on-leafy-stem"
     group: "2006-15-b"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"small-brown-round-flower-on-leafy-stem\" renamed to \"brown-round-bud-on-leafy-stem\" after review"
   - old: "small-contacting-courting-pair-at-right"
     set: "met-livre-nouveau-de-fleurs"
     id: "met-livre-nouveau-de-fleurs/small-contacting-courting-pair-at-right"
@@ -7346,11 +7346,11 @@ entries:
     notes: ""
   - old: "small-five-petalled-flower-on-sparse-stem"
     set: "met-livre-nouveau-de-fleurs"
-    id: "met-livre-nouveau-de-fleurs/small-five-petalled-flower-on-sparse-stem"
+    id: "met-livre-nouveau-de-fleurs/small-star-flower-on-slender-stem"
     group: "425800"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"small-five-petalled-flower-on-sparse-stem\" renamed to \"small-star-flower-on-slender-stem\" after review"
   - old: "small-folded-blue-bud-on-green-stem"
     set: "cma-1524-psalter"
     id: "cma-1524-psalter/small-folded-blue-bud-on-green-stem"
@@ -7388,11 +7388,11 @@ entries:
     notes: ""
   - old: "small-left-red-and-blue-leaf-terminal"
     set: "cma-2014-22"
-    id: "cma-2014-22/small-left-red-and-blue-leaf-terminal"
+    id: "cma-2014-22/blue-bloom-on-red-stalk-a"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"small-left-red-and-blue-leaf-terminal\" renamed to \"blue-bloom-on-red-stalk-a\" after review"
   - old: "small-left-tulip-with-bent-leaf"
     set: "met-livre-nouveau-de-fleurs"
     id: "met-livre-nouveau-de-fleurs/small-left-tulip-with-bent-leaf"
@@ -7437,18 +7437,18 @@ entries:
     notes: ""
   - old: "small-red-gold-painted-roundel"
     set: "openn-lewis-e-m"
-    id: "openn-lewis-e-m/small-red-gold-painted-roundel"
+    id: "openn-lewis-e-m/gold-centred-red-dot"
     group: "067-003"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"small-red-gold-painted-roundel\" renamed to \"gold-centred-red-dot\" after review"
   - old: "small-right-red-and-blue-leaf-terminal"
     set: "cma-2014-22"
-    id: "cma-2014-22/small-right-red-and-blue-leaf-terminal"
+    id: "cma-2014-22/blue-bloom-on-red-stalk-b"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"small-right-red-and-blue-leaf-terminal\" renamed to \"blue-bloom-on-red-stalk-b\" after review"
   - old: "small-right-tulip-with-pointed-leaves"
     set: "met-livre-nouveau-de-fleurs"
     id: "met-livre-nouveau-de-fleurs/small-right-tulip-with-pointed-leaves"
@@ -7493,11 +7493,11 @@ entries:
     notes: ""
   - old: "small-upright-rosebud-with-one-leaf"
     set: "met-livre-nouveau-de-fleurs"
-    id: "met-livre-nouveau-de-fleurs/small-upright-rosebud-with-one-leaf"
+    id: "met-livre-nouveau-de-fleurs/cup-shaped-bloom-with-dark-centre"
     group: "425823"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"small-upright-rosebud-with-one-leaf\" renamed to \"cup-shaped-bloom-with-dark-centre\" after review"
   - old: "snail"
     set: "medieval-cutouts"
     id: "medieval-cutouts/snail"
@@ -7556,32 +7556,32 @@ entries:
     notes: ""
   - old: "square-lace-with-concentric-cross-and-star-corners"
     set: "met-latomus-lace"
-    id: null
+    id: "met-latomus-lace/square-lace-with-cross-and-star-corners"
     group: null
     wave: 2
     status: renamed
-    notes: "id candidate \"square-lace-with-concentric-cross-and-star-corners\" is 50 chars (> 48); shorten by hand"
+    notes: "id candidate \"square-lace-with-concentric-cross-and-star-corners\" is 50 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "square-lace-with-radiating-petals-and-triangle-fans"
     set: "met-latomus-lace"
-    id: null
+    id: "met-latomus-lace/square-lace-with-petals-and-triangle-fans"
     group: null
     wave: 2
     status: renamed
-    notes: "id candidate \"square-lace-with-radiating-petals-and-triangle-fans\" is 51 chars (> 48); shorten by hand"
+    notes: "id candidate \"square-lace-with-radiating-petals-and-triangle-fans\" is 51 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "square-lace-with-six-looped-petal-medallion"
     set: "met-latomus-lace"
-    id: "met-latomus-lace/square-lace-with-six-looped-petal-medallion"
+    id: "met-latomus-lace/square-lace-with-looped-petal-medallion"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"square-lace-with-six-looped-petal-medallion\" renamed to \"square-lace-with-looped-petal-medallion\" after review"
   - old: "square-lace-with-triangle-star-and-small-oval-petals"
     set: "met-latomus-lace"
-    id: null
+    id: "met-latomus-lace/square-lace-with-triangle-star"
     group: null
     wave: 2
     status: renamed
-    notes: "id candidate \"square-lace-with-triangle-star-and-small-oval-petals\" is 52 chars (> 48); shorten by hand"
+    notes: "id candidate \"square-lace-with-triangle-star-and-small-oval-petals\" is 52 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "stacked-star-loops-and-knotted-floral-diamonds"
     set: "met-schoen-modelbuch"
     id: "met-schoen-modelbuch/stacked-star-loops-and-knotted-floral-diamonds"
@@ -7647,11 +7647,11 @@ entries:
     notes: "generated rotated tile; geometry goes to render.tile"
   - old: "stag-hunting-landscape-with-three-mounted-hunters"
     set: "met-livre-nouveau-de-fleurs"
-    id: null
+    id: "met-livre-nouveau-de-fleurs/stag-hunt-with-three-mounted-hunters"
     group: "425840"
     wave: 2
     status: renamed
-    notes: "id candidate \"stag-hunting-landscape-with-three-mounted-hunters\" is 49 chars (> 48); shorten by hand"
+    notes: "id candidate \"stag-hunting-landscape-with-three-mounted-hunters\" is 49 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "standing-ape-archer-with-red-bow-and-long-arrow"
     set: "walters-w82"
     id: "walters-w82/standing-ape-archer-with-red-bow-and-long-arrow"
@@ -7689,11 +7689,11 @@ entries:
     notes: "moved from nga-ornament-prints by the loose-print rule (2026-10-27): loose print by Heinrich Aldegrever: artist set, group = holding object (National Gallery of Art, Washington 1943.3.301); id \"standing-contacting-couple-with-small-stem\" renamed to \"nude-couple-standing\" after review"
   - old: "standing-robed-man-holding-long-tailed-bird-on-foliated-support"
     set: "walters-w82"
-    id: null
+    id: "walters-w82/falconer-with-hawk"
     group: "184r"
     wave: 2
     status: renamed
-    notes: "id candidate \"standing-robed-man-holding-long-tailed-bird-on-foliated-support\" is 63 chars (> 48); shorten by hand"
+    notes: "id candidate \"standing-robed-man-holding-long-tailed-bird-on-foliated-support\" is 63 chars (> 48); shorten by hand; id shortened by hand (2026-10-28); id \"robed-man-holding-long-tailed-bird\" renamed to \"falconer-with-hawk\" after review"
   - old: "sunburst-rays-with-open-center"
     set: "mkg-de-bry-alphabet"
     id: "mkg-de-bry-alphabet/sunburst-rays-with-open-center"
@@ -7703,11 +7703,11 @@ entries:
     notes: ""
   - old: "suspended-foliate-roundel"
     set: "met-latomus-lace"
-    id: "met-latomus-lace/suspended-foliate-roundel"
+    id: "met-latomus-lace/hanging-pointed-loop-drop"
     group: null
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"suspended-foliate-roundel\" renamed to \"hanging-pointed-loop-drop\" after review"
   - old: "tall-canopy-with-framed-figure-and-winged-mask"
     set: "du-cerceau-prints"
     id: "du-cerceau-prints/tall-canopy-with-framed-figure-and-winged-mask"
@@ -7773,11 +7773,11 @@ entries:
     notes: "loose print by Zoan Andrea: artist set, group = holding object (National Gallery of Art, Washington 1943.3.449)"
   - old: "tall-silver-acanthus-scroll-with-red-and-blue-flowers"
     set: "cma-2001-79"
-    id: null
+    id: "cma-2001-79/silver-acanthus-scroll-with-blue-and-red-flowers"
     group: null
     wave: 2
     status: renamed
-    notes: "single leaf, own set by the object rule; id candidate \"tall-silver-acanthus-scroll-with-red-and-blue-flowers\" is 53 chars (> 48); shorten by hand"
+    notes: "single leaf, own set by the object rule; id candidate \"tall-silver-acanthus-scroll-with-red-and-blue-flowers\" is 53 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "thin-red-and-gold-fixed-miniature-frame"
     set: "openn-lewis-e-m"
     id: "openn-lewis-e-m/thin-red-and-gold-fixed-miniature-frame"
@@ -7794,25 +7794,25 @@ entries:
     notes: ""
   - old: "three-gold-trefoils-on-connected-serpentine-scroll"
     set: "walters-w148"
-    id: null
+    id: "walters-w148/three-gold-trefoils-on-serpentine-scroll"
     group: "31r"
     wave: 2
     status: renamed
-    notes: "id candidate \"three-gold-trefoils-on-connected-serpentine-scroll\" is 50 chars (> 48); shorten by hand"
+    notes: "id candidate \"three-gold-trefoils-on-connected-serpentine-scroll\" is 50 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "three-undulations-between-fine-rules"
     set: "met-schoen-modelbuch"
-    id: "met-schoen-modelbuch/three-undulations-between-fine-rules"
+    id: "met-schoen-modelbuch/wavy-rule-band"
     group: "681251"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"three-undulations-between-fine-rules\" renamed to \"wavy-rule-band\" after review"
   - old: "three-undulations-between-fine-rules#bar"
     set: "met-schoen-modelbuch"
-    id: "met-schoen-modelbuch/three-undulations-between-fine-rules#bar"
+    id: "met-schoen-modelbuch/wavy-rule-band#bar"
     group: "681251"
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component bar"
+    notes: "true master component, folded into the asset as component bar; id \"three-undulations-between-fine-rules\" renamed to \"wavy-rule-band\" after review"
   - old: "three-undulations-between-fine-rules#border_image"
     set: "met-schoen-modelbuch"
     id: null
@@ -7822,32 +7822,32 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "three-undulations-between-fine-rules#corner-bottom-left"
     set: "met-schoen-modelbuch"
-    id: "met-schoen-modelbuch/three-undulations-between-fine-rules#corner-bottom-left"
+    id: "met-schoen-modelbuch/wavy-rule-band#corner-bottom-left"
     group: "681251"
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner-bottom-left"
+    notes: "true master component, folded into the asset as component corner-bottom-left; id \"three-undulations-between-fine-rules\" renamed to \"wavy-rule-band\" after review"
   - old: "three-undulations-between-fine-rules#corner-bottom-right"
     set: "met-schoen-modelbuch"
-    id: "met-schoen-modelbuch/three-undulations-between-fine-rules#corner-bottom-right"
+    id: "met-schoen-modelbuch/wavy-rule-band#corner-bottom-right"
     group: "681251"
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner-bottom-right"
+    notes: "true master component, folded into the asset as component corner-bottom-right; id \"three-undulations-between-fine-rules\" renamed to \"wavy-rule-band\" after review"
   - old: "three-undulations-between-fine-rules#corner-top-left"
     set: "met-schoen-modelbuch"
-    id: "met-schoen-modelbuch/three-undulations-between-fine-rules#corner-top-left"
+    id: "met-schoen-modelbuch/wavy-rule-band#corner-top-left"
     group: "681251"
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner-top-left"
+    notes: "true master component, folded into the asset as component corner-top-left; id \"three-undulations-between-fine-rules\" renamed to \"wavy-rule-band\" after review"
   - old: "three-undulations-between-fine-rules#corner-top-right"
     set: "met-schoen-modelbuch"
-    id: "met-schoen-modelbuch/three-undulations-between-fine-rules#corner-top-right"
+    id: "met-schoen-modelbuch/wavy-rule-band#corner-top-right"
     group: "681251"
     wave: 2
     status: merged
-    notes: "true master component, folded into the asset as component corner-top-right"
+    notes: "true master component, folded into the asset as component corner-top-right; id \"three-undulations-between-fine-rules\" renamed to \"wavy-rule-band\" after review"
   - old: "three-undulations-between-fine-rules#rotated_bar"
     set: "met-schoen-modelbuch"
     id: null
@@ -7864,11 +7864,11 @@ entries:
     notes: "generated rotated tile; geometry goes to render.tile"
   - old: "tilted-rose-on-straight-stem-with-three-side-leaves"
     set: "met-livre-nouveau-de-fleurs"
-    id: null
+    id: "met-livre-nouveau-de-fleurs/opening-bloom-on-straight-stem"
     group: "425823"
     wave: 2
     status: renamed
-    notes: "id candidate \"tilted-rose-on-straight-stem-with-three-side-leaves\" is 51 chars (> 48); shorten by hand"
+    notes: "id candidate \"tilted-rose-on-straight-stem-with-three-side-leaves\" is 51 chars (> 48); shorten by hand; id shortened by hand (2026-10-28); id \"tilted-rose-on-straight-stem\" renamed to \"opening-bloom-on-straight-stem\" after review"
   - old: "two-boys-with-connected-acanthus-scroll"
     set: "aldegrever-prints"
     id: "aldegrever-prints/two-boys-with-vine-scroll"
@@ -7885,18 +7885,18 @@ entries:
     notes: "loose print by Heinrich Aldegrever: artist set, group = holding object (Museum für Kunst und Gewerbe Hamburg O1907.751)"
   - old: "two-dancing-black-horned-figures-with-touching-feet"
     set: "cma-2005-206"
-    id: null
+    id: "cma-2005-206/two-dancing-horned-figures"
     group: "b"
     wave: 2
     status: renamed
-    notes: "id candidate \"two-dancing-black-horned-figures-with-touching-feet\" is 51 chars (> 48); shorten by hand"
+    notes: "id candidate \"two-dancing-black-horned-figures-with-touching-feet\" is 51 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "two-dancing-devils-in-gold-landscape-oval"
     set: "cma-2005-206"
-    id: "cma-2005-206/two-dancing-devils-in-gold-landscape-oval"
+    id: "cma-2005-206/two-dancing-devils-roundel"
     group: "b"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"two-dancing-devils-in-gold-landscape-oval\" renamed to \"two-dancing-devils-roundel\" after review"
   - old: "two-dancing-monkeys"
     set: "walters-w88"
     id: "walters-w88/two-dancing-monkeys"
@@ -7976,11 +7976,11 @@ entries:
     notes: ""
   - old: "upper-blue-and-gold-margin-with-three-grotesque-heads"
     set: "walters-w88"
-    id: null
+    id: "walters-w88/upper-margin-with-three-grotesque-heads"
     group: "52r"
     wave: 2
     status: renamed
-    notes: "id candidate \"upper-blue-and-gold-margin-with-three-grotesque-heads\" is 53 chars (> 48); shorten by hand"
+    notes: "id candidate \"upper-blue-and-gold-margin-with-three-grotesque-heads\" is 53 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "upper-blue-and-rust-ivy-sprig"
     set: "walters-w171"
     id: "walters-w171/upper-blue-and-rust-ivy-sprig"
@@ -7997,18 +7997,18 @@ entries:
     notes: "moved from nga-ornament-prints by the loose-print rule (2026-10-27): loose print by Martin Schongauer: artist set, group = holding object (National Gallery of Art, Washington 1943.3.93)"
   - old: "upper-gold-rod-with-red-blue-and-gold-foliate-branch-walters-w171-19v"
     set: "walters-w171"
-    id: null
+    id: "walters-w171/upper-gold-rod-with-foliate-branch-19v"
     group: "19v"
     wave: 2
     status: renamed
-    notes: "id candidate \"upper-gold-rod-with-red-blue-and-gold-foliate-branch-walters-w171-19v\" is 69 chars (> 48); shorten by hand"
+    notes: "id candidate \"upper-gold-rod-with-red-blue-and-gold-foliate-branch-walters-w171-19v\" is 69 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "upper-gold-rod-with-red-blue-and-gold-foliate-branch-walters-w171-74r"
     set: "walters-w171"
-    id: null
+    id: "walters-w171/upper-gold-rod-with-foliate-branch-74r"
     group: "74r"
     wave: 2
     status: renamed
-    notes: "id candidate \"upper-gold-rod-with-red-blue-and-gold-foliate-branch-walters-w171-74r\" is 69 chars (> 48); shorten by hand"
+    notes: "id candidate \"upper-gold-rod-with-red-blue-and-gold-foliate-branch-walters-w171-74r\" is 69 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "upper-grotesque-face-mask"
     set: "mkg-de-bry-alphabet"
     id: null
@@ -8018,32 +8018,32 @@ entries:
     notes: "id \"upper-grotesque-face-mask\" renamed to \"lion-mask-with-ring\" after review; master is 29x35 px, under the 64 px minimum; dropped after review"
   - old: "upper-hooded-head-on-bent-gold-rod"
     set: "walters-w88"
-    id: "walters-w88/upper-hooded-head-on-bent-gold-rod"
+    id: "walters-w88/corner-rod-with-hooded-head"
     group: "136r"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"upper-hooded-head-on-bent-gold-rod\" renamed to \"corner-rod-with-hooded-head\" after review"
   - old: "upper-left-angel-with-musical-instrument-visible-bust"
     set: "walters-w186"
-    id: null
+    id: "walters-w186/angel-bust-with-musical-instrument"
     group: "291v"
     wave: 2
     status: renamed
-    notes: "id candidate \"upper-left-angel-with-musical-instrument-visible-bust\" is 53 chars (> 48); shorten by hand"
+    notes: "id candidate \"upper-left-angel-with-musical-instrument-visible-bust\" is 53 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "upper-left-gray-curled-ivy-with-gold-and-blue-trefoils"
     set: "walters-w171"
-    id: null
+    id: "walters-w171/upper-left-curled-ivy-with-trefoils"
     group: "10r"
     wave: 2
     status: renamed
-    notes: "id candidate \"upper-left-gray-curled-ivy-with-gold-and-blue-trefoils\" is 54 chars (> 48); shorten by hand"
+    notes: "id candidate \"upper-left-gray-curled-ivy-with-gold-and-blue-trefoils\" is 54 chars (> 48); shorten by hand; id shortened by hand (2026-10-28)"
   - old: "upper-left-paired-green-leaves"
     set: "cma-1524-psalter"
-    id: "cma-1524-psalter/upper-left-paired-green-leaves"
+    id: "cma-1524-psalter/crossed-green-leaf-pair"
     group: "1999-136-a"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"upper-left-paired-green-leaves\" renamed to \"crossed-green-leaf-pair\" after review"
   - old: "upper-left-pink-ivy-flourish"
     set: "walters-w171"
     id: "walters-w171/upper-left-pink-ivy-flourish"
@@ -8074,11 +8074,11 @@ entries:
     notes: ""
   - old: "upper-right-angel-with-trumpet-visible-bust"
     set: "walters-w186"
-    id: "walters-w186/upper-right-angel-with-trumpet-visible-bust"
+    id: "walters-w186/angel-bust-with-trumpets-behind"
     group: "291v"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"upper-right-angel-with-trumpet-visible-bust\" renamed to \"angel-bust-with-trumpets-behind\" after review"
   - old: "upper-right-pink-flowers-on-green-leaf-sprays"
     set: "cma-2014-22"
     id: "cma-2014-22/upper-right-pink-flowers-on-green-leaf-sprays"
@@ -8340,11 +8340,11 @@ entries:
     notes: ""
   - old: "white-curled-stroke-pattern-on-blue#bar"
     set: "walters-w82"
-    id: "walters-w82/white-curled-stroke-pattern-on-blue#bar"
+    id: null
     group: "marginalia"
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component bar"
+    status: dropped
+    notes: "true master component, folded into the asset as component bar; generated derivative (a mirror or repeat of a listed component), not a component; removed after review"
   - old: "white-curled-stroke-pattern-on-blue#border_image"
     set: "walters-w82"
     id: null
@@ -8354,18 +8354,18 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "white-curled-stroke-pattern-on-blue#corner-bottom-left"
     set: "walters-w82"
-    id: "walters-w82/white-curled-stroke-pattern-on-blue#corner-bottom-left"
+    id: null
     group: "marginalia"
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner-bottom-left"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner-bottom-left; generated derivative (a mirror or repeat of a listed component), not a component; removed after review"
   - old: "white-curled-stroke-pattern-on-blue#corner-bottom-right"
     set: "walters-w82"
-    id: "walters-w82/white-curled-stroke-pattern-on-blue#corner-bottom-right"
+    id: null
     group: "marginalia"
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner-bottom-right"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner-bottom-right; generated derivative (a mirror or repeat of a listed component), not a component; removed after review"
   - old: "white-curled-stroke-pattern-on-blue#corner-top-left"
     set: "walters-w82"
     id: "walters-w82/white-curled-stroke-pattern-on-blue#corner-top-left"
@@ -8375,11 +8375,11 @@ entries:
     notes: "true master component, folded into the asset as component corner-top-left"
   - old: "white-curled-stroke-pattern-on-blue#corner-top-right"
     set: "walters-w82"
-    id: "walters-w82/white-curled-stroke-pattern-on-blue#corner-top-right"
+    id: null
     group: "marginalia"
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner-top-right"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner-top-right; generated derivative (a mirror or repeat of a listed component), not a component; removed after review"
   - old: "white-curled-stroke-pattern-on-blue#rotated_bar"
     set: "walters-w82"
     id: null
@@ -8872,88 +8872,88 @@ entries:
     notes: "generated rotated tile; geometry goes to render.tile"
   - old: "wind-head-01-from-reverse-wheel"
     set: "walters-w73"
-    id: "walters-w73/wind-head-01-from-reverse-wheel"
+    id: "walters-w73/wind-head-01"
     group: "1v"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"wind-head-01-from-reverse-wheel\" renamed to \"wind-head-01\" after review"
   - old: "wind-head-02-from-reverse-wheel"
     set: "walters-w73"
-    id: "walters-w73/wind-head-02-from-reverse-wheel"
+    id: "walters-w73/wind-head-02"
     group: "1v"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"wind-head-02-from-reverse-wheel\" renamed to \"wind-head-02\" after review"
   - old: "wind-head-03-from-reverse-wheel"
     set: "walters-w73"
-    id: "walters-w73/wind-head-03-from-reverse-wheel"
+    id: "walters-w73/wind-head-03"
     group: "1v"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"wind-head-03-from-reverse-wheel\" renamed to \"wind-head-03\" after review"
   - old: "wind-head-04-from-reverse-wheel"
     set: "walters-w73"
-    id: "walters-w73/wind-head-04-from-reverse-wheel"
+    id: "walters-w73/wind-head-04"
     group: "1v"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"wind-head-04-from-reverse-wheel\" renamed to \"wind-head-04\" after review"
   - old: "wind-head-05-from-reverse-wheel"
     set: "walters-w73"
-    id: "walters-w73/wind-head-05-from-reverse-wheel"
+    id: "walters-w73/wind-head-05"
     group: "1v"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"wind-head-05-from-reverse-wheel\" renamed to \"wind-head-05\" after review"
   - old: "wind-head-06-from-reverse-wheel"
     set: "walters-w73"
-    id: "walters-w73/wind-head-06-from-reverse-wheel"
+    id: "walters-w73/wind-head-06"
     group: "1v"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"wind-head-06-from-reverse-wheel\" renamed to \"wind-head-06\" after review"
   - old: "wind-head-07-from-reverse-wheel"
     set: "walters-w73"
-    id: "walters-w73/wind-head-07-from-reverse-wheel"
+    id: "walters-w73/wind-head-07"
     group: "1v"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"wind-head-07-from-reverse-wheel\" renamed to \"wind-head-07\" after review"
   - old: "wind-head-08-from-reverse-wheel"
     set: "walters-w73"
-    id: "walters-w73/wind-head-08-from-reverse-wheel"
+    id: "walters-w73/wind-head-08"
     group: "1v"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"wind-head-08-from-reverse-wheel\" renamed to \"wind-head-08\" after review"
   - old: "wind-head-09-from-reverse-wheel"
     set: "walters-w73"
-    id: "walters-w73/wind-head-09-from-reverse-wheel"
+    id: "walters-w73/wind-head-09"
     group: "1v"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"wind-head-09-from-reverse-wheel\" renamed to \"wind-head-09\" after review"
   - old: "wind-head-10-from-reverse-wheel"
     set: "walters-w73"
-    id: "walters-w73/wind-head-10-from-reverse-wheel"
+    id: "walters-w73/wind-head-10"
     group: "1v"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"wind-head-10-from-reverse-wheel\" renamed to \"wind-head-10\" after review"
   - old: "wind-head-11-from-reverse-wheel"
     set: "walters-w73"
-    id: "walters-w73/wind-head-11-from-reverse-wheel"
+    id: "walters-w73/wind-head-11"
     group: "1v"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"wind-head-11-from-reverse-wheel\" renamed to \"wind-head-11\" after review"
   - old: "wind-head-12-from-reverse-wheel"
     set: "walters-w73"
-    id: "walters-w73/wind-head-12-from-reverse-wheel"
+    id: "walters-w73/wind-head-12"
     group: "1v"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"wind-head-12-from-reverse-wheel\" renamed to \"wind-head-12\" after review"
   - old: "winged-child-with-bow-on-clouds"
     set: "lucas-van-leyden-prints"
     id: "lucas-van-leyden-prints/winged-child-with-bow-on-clouds"
@@ -8970,11 +8970,11 @@ entries:
     notes: "moved from met-acanthus-prints by the loose-print rule (2026-10-27): loose print by Lucas van Leyden: artist set, group = holding object (Metropolitan Museum of Art 63.546.1)"
   - old: "winged-dragon-with-curling-red-body-and-foliage"
     set: "openn-lewis-e-m"
-    id: "openn-lewis-e-m/winged-dragon-with-curling-red-body-and-foliage"
+    id: "openn-lewis-e-m/inhabited-initial-s-with-winged-dragon"
     group: "012-003"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"winged-dragon-with-curling-red-body-and-foliage\" renamed to \"inhabited-initial-s-with-winged-dragon\" after review"
   - old: "winged-haloed-angel-holding-closed-book"
     set: "walters-w7"
     id: "walters-w7/winged-haloed-angel-holding-closed-book"
@@ -9019,11 +9019,11 @@ entries:
     notes: ""
   - old: "worn-gold-crescent-moon"
     set: "walters-w171"
-    id: "walters-w171/worn-gold-crescent-moon"
+    id: "walters-w171/tarnished-crescent-moon"
     group: "10r"
     wave: 2
     status: moved
-    notes: ""
+    notes: "id \"worn-gold-crescent-moon\" renamed to \"tarnished-crescent-moon\" after review"
   - old: "worn-gold-curled-celestial-roundel"
     set: "walters-w171"
     id: "walters-w171/worn-gold-curled-celestial-roundel"

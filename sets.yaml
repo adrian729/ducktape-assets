@@ -26,3 +26,30 @@ sets:
   - { id: giancarli-prints, status: active, added: 2026-10-28 }
   - { id: master-w-with-the-key-prints, status: active, added: 2026-10-28 }
   - { id: authored-ornaments, status: active, added: 2026-10-28 }
+  - { id: cma-1524-psalter, status: active, added: 2026-10-28 }
+  - { id: walters-w82, status: active, added: 2026-10-28 }
+  - { id: met-livre-nouveau-de-fleurs, status: active, added: 2026-10-28 }
+  - { id: openn-lewis-e-m, status: active, added: 2026-10-28 }
+  - { id: numbered-plate, status: active, added: 2026-10-28 }
+  - { id: walters-w171, status: active, added: 2026-10-28 }
+  - { id: supplied-sheets, status: active, added: 2026-10-28 }
+  - { id: walters-w73, status: active, added: 2026-10-28 }
+  - { id: met-schoen-modelbuch, status: active, added: 2026-10-28 }
+  - { id: met-latomus-lace, status: active, added: 2026-10-28 }
+  - { id: shaggy-bestiary, status: active, added: 2026-10-28 }
+  - { id: cma-2014-22, status: active, added: 2026-10-28 }
+  - { id: du-cerceau-prints, status: active, added: 2026-10-28 }
+  - { id: cma-2005-206, status: active, added: 2026-10-28 }
+  - { id: walters-w88, status: active, added: 2026-10-28 }
+  - { id: walters-w186, status: active, added: 2026-10-28 }
+  - { id: walters-w7, status: active, added: 2026-10-28 }
+  - { id: cma-2011-53, status: active, added: 2026-10-28 }
+  - { id: cma-2006-13, status: active, added: 2026-10-28 }
+  - { id: floral-vector-borders, status: active, added: 2026-10-28 }
+  - { id: walters-w148, status: active, added: 2026-10-28 }
+  - { id: cma-2003-171, status: active, added: 2026-10-28 }
+  - { id: cma-2011-65, status: active, added: 2026-10-28 }
+  - { id: cma-1953-24, status: active, added: 2026-10-28 }
+  - { id: cma-1999-127, status: active, added: 2026-10-28 }
+  - { id: fitzwilliam-ms1-2005, status: active, added: 2026-10-28 }
+  - { id: cma-2001-79, status: active, added: 2026-10-28 }
