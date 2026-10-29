@@ -25,6 +25,8 @@ Run it in a real terminal, never through Claude Code's `!` prefix: that backgrou
 
 If `npm trust` rejects the flags, `npm help trust` shows the current syntax; the two lines are marked ADJUST in the script.
 
+Batch 3 (2026-10-29) is one sitting for 54 names, the owner's decision ("a single release"): the placeholder loop takes about five minutes and the trust loop another five, so expect the passkey prompt two or three times (each `npm trust` call asks again once the five-minute window closes). The script is the same; nothing to pass.
+
 ## Every publish: none
 
 The owner removed the required reviewer on 2026-10-26, so a dispatch of `publish.yml` publishes without a click. The run summary table is the record. Drafts are never in it. To restore the gate: Settings → Environments → release → Required reviewers.
