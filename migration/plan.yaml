@@ -675,11 +675,11 @@ entries:
     notes: ""
   - old: "blue-four-petal-stencil-vine"
     set: "supplied-sheets"
-    id: "supplied-sheets/blue-four-petal-stencil-vine"
+    id: null
     group: "stencil-sheet"
     wave: 2
-    status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    status: dropped
+    notes: "png is the master; traced svg dropped (see #svg entry); master 60x52 is under the 64 px build minimum; dropped (2026-10-29)"
   - old: "blue-four-petal-stencil-vine#border_image"
     set: "supplied-sheets"
     id: null
@@ -689,11 +689,11 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "blue-four-petal-stencil-vine#corner"
     set: "supplied-sheets"
-    id: "supplied-sheets/blue-four-petal-stencil-vine#corner"
+    id: null
     group: "stencil-sheet"
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner; master 60x52 is under the 64 px build minimum; dropped (2026-10-29)"
   - old: "blue-four-petal-stencil-vine#reference_crop"
     set: "supplied-sheets"
     id: null
@@ -1725,18 +1725,18 @@ entries:
     notes: "id candidate \"figure-in-woven-basket-with-red-cord-and-crowned-face\" is 53 chars (> 48); shorten by hand; id shortened by hand (2026-10-28); id \"figure-in-woven-basket\" renamed to \"man-in-basket-of-eggs\" after review"
   - old: "fine-vertical-hatching-between-parallel-rules"
     set: "met-schoen-modelbuch"
-    id: "met-schoen-modelbuch/hatched-rule-cell"
+    id: null
     group: "681256"
     wave: 2
-    status: moved
-    notes: "id \"fine-vertical-hatching-between-parallel-rules\" renamed to \"hatched-rule-cell\" after review"
+    status: dropped
+    notes: "id \"fine-vertical-hatching-between-parallel-rules\" renamed to \"hatched-rule-cell\" after review; master 42x38 is under the 64 px build minimum; dropped (2026-10-29)"
   - old: "fine-vertical-hatching-between-parallel-rules#bar"
     set: "met-schoen-modelbuch"
-    id: "met-schoen-modelbuch/hatched-rule-cell#bar"
+    id: null
     group: "681256"
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component bar; id \"fine-vertical-hatching-between-parallel-rules\" renamed to \"hatched-rule-cell\" after review"
+    status: dropped
+    notes: "true master component, folded into the asset as component bar; id \"fine-vertical-hatching-between-parallel-rules\" renamed to \"hatched-rule-cell\" after review; master 42x38 is under the 64 px build minimum; dropped (2026-10-29)"
   - old: "fine-vertical-hatching-between-parallel-rules#border_image"
     set: "met-schoen-modelbuch"
     id: null
@@ -1746,32 +1746,32 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "fine-vertical-hatching-between-parallel-rules#corner-bottom-left"
     set: "met-schoen-modelbuch"
-    id: "met-schoen-modelbuch/hatched-rule-cell#corner-bottom-left"
+    id: null
     group: "681256"
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner-bottom-left; id \"fine-vertical-hatching-between-parallel-rules\" renamed to \"hatched-rule-cell\" after review"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner-bottom-left; id \"fine-vertical-hatching-between-parallel-rules\" renamed to \"hatched-rule-cell\" after review; master 42x38 is under the 64 px build minimum; dropped (2026-10-29)"
   - old: "fine-vertical-hatching-between-parallel-rules#corner-bottom-right"
     set: "met-schoen-modelbuch"
-    id: "met-schoen-modelbuch/hatched-rule-cell#corner-bottom-right"
+    id: null
     group: "681256"
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner-bottom-right; id \"fine-vertical-hatching-between-parallel-rules\" renamed to \"hatched-rule-cell\" after review"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner-bottom-right; id \"fine-vertical-hatching-between-parallel-rules\" renamed to \"hatched-rule-cell\" after review; master 42x38 is under the 64 px build minimum; dropped (2026-10-29)"
   - old: "fine-vertical-hatching-between-parallel-rules#corner-top-left"
     set: "met-schoen-modelbuch"
-    id: "met-schoen-modelbuch/hatched-rule-cell#corner-top-left"
+    id: null
     group: "681256"
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner-top-left; id \"fine-vertical-hatching-between-parallel-rules\" renamed to \"hatched-rule-cell\" after review"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner-top-left; id \"fine-vertical-hatching-between-parallel-rules\" renamed to \"hatched-rule-cell\" after review; master 42x38 is under the 64 px build minimum; dropped (2026-10-29)"
   - old: "fine-vertical-hatching-between-parallel-rules#corner-top-right"
     set: "met-schoen-modelbuch"
-    id: "met-schoen-modelbuch/hatched-rule-cell#corner-top-right"
+    id: null
     group: "681256"
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner-top-right; id \"fine-vertical-hatching-between-parallel-rules\" renamed to \"hatched-rule-cell\" after review"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner-top-right; id \"fine-vertical-hatching-between-parallel-rules\" renamed to \"hatched-rule-cell\" after review; master 42x38 is under the 64 px build minimum; dropped (2026-10-29)"
   - old: "fine-vertical-hatching-between-parallel-rules#rotated_bar"
     set: "met-schoen-modelbuch"
     id: null
@@ -6310,11 +6310,11 @@ entries:
     notes: ""
   - old: "purple-fine-scroll-lattice"
     set: "supplied-sheets"
-    id: "supplied-sheets/purple-fine-scroll-lattice"
+    id: null
     group: "blue-sheet"
     wave: 2
-    status: moved
-    notes: "png is the master; traced svg dropped (see #svg entry)"
+    status: dropped
+    notes: "png is the master; traced svg dropped (see #svg entry); master 41x35 is under the 64 px build minimum; dropped (2026-10-29)"
   - old: "purple-fine-scroll-lattice#border_image"
     set: "supplied-sheets"
     id: null
@@ -6324,11 +6324,11 @@ entries:
     notes: "generated border-image atlas; geometry goes to render.frame"
   - old: "purple-fine-scroll-lattice#corner"
     set: "supplied-sheets"
-    id: "supplied-sheets/purple-fine-scroll-lattice#corner"
+    id: null
     group: "blue-sheet"
     wave: 2
-    status: merged
-    notes: "true master component, folded into the asset as component corner"
+    status: dropped
+    notes: "true master component, folded into the asset as component corner; master 41x35 is under the 64 px build minimum; dropped (2026-10-29)"
   - old: "purple-fine-scroll-lattice#reference_crop"
     set: "supplied-sheets"
     id: null

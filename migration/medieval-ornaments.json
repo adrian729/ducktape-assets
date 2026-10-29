@@ -1604,16 +1604,10 @@
         "path": "png/blue-four-petal-stencil-vine.png",
         "masterSha256": "62ea32593e3591dc3e76885b5a2b4fd4ad2d25ce3f3c3f728f83eb1556b87ce8"
       },
-      "new": {
-        "id": "supplied-sheets/blue-four-petal-stencil-vine",
-        "set": "supplied-sheets",
-        "package": "@ranx729/ducktape-assets-supplied-sheets",
-        "version": null,
-        "mastersPackage": "@ranx729/ducktape-assets-supplied-sheets-masters"
-      },
-      "status": "moved",
+      "new": null,
+      "status": "dropped",
       "verified": "pixels-identical",
-      "notes": "png is the master; traced svg dropped (see #svg entry)"
+      "notes": "master 60x52 is under the 64 px build minimum; dropped (2026-10-29)"
     },
     {
       "old": {
@@ -1634,16 +1628,10 @@
         "path": "png/blue-four-petal-stencil-vine-corner.png",
         "masterSha256": "b9b8796d2330f5f67887b0e9c80b075092583c3e2527a154e843e98b646ca635"
       },
-      "new": {
-        "id": "supplied-sheets/blue-four-petal-stencil-vine#corner",
-        "set": "supplied-sheets",
-        "package": "@ranx729/ducktape-assets-supplied-sheets",
-        "version": null,
-        "mastersPackage": "@ranx729/ducktape-assets-supplied-sheets-masters"
-      },
-      "status": "merged",
+      "new": null,
+      "status": "dropped",
       "verified": "pixels-identical",
-      "notes": "true master component, folded into the asset as component corner"
+      "notes": "master 60x52 is under the 64 px build minimum; dropped (2026-10-29)"
     },
     {
       "old": {
@@ -4181,16 +4169,10 @@
         "path": "png/fine-vertical-hatching-between-parallel-rules.png",
         "masterSha256": "ef06834eb12bf0dea4ef5a0d89b83faef834644b14b57987323bf562930922c0"
       },
-      "new": {
-        "id": "met-schoen-modelbuch/hatched-rule-cell",
-        "set": "met-schoen-modelbuch",
-        "package": "@ranx729/ducktape-assets-met-schoen-modelbuch",
-        "version": null,
-        "mastersPackage": "@ranx729/ducktape-assets-met-schoen-modelbuch-masters"
-      },
-      "status": "moved",
+      "new": null,
+      "status": "dropped",
       "verified": "pixels-identical",
-      "notes": ""
+      "notes": "master 42x38 is under the 64 px build minimum; dropped (2026-10-29)"
     },
     {
       "old": {
@@ -4201,16 +4183,10 @@
         "path": "png/fine-vertical-hatching-between-parallel-rules-bar.png",
         "masterSha256": "e33624e6265cf9ff58b5e85945d4cacade838bdc3f2397777268fad777dd3602"
       },
-      "new": {
-        "id": "met-schoen-modelbuch/hatched-rule-cell#bar",
-        "set": "met-schoen-modelbuch",
-        "package": "@ranx729/ducktape-assets-met-schoen-modelbuch",
-        "version": null,
-        "mastersPackage": "@ranx729/ducktape-assets-met-schoen-modelbuch-masters"
-      },
-      "status": "merged",
+      "new": null,
+      "status": "dropped",
       "verified": "pixels-identical",
-      "notes": "true master component, folded into the asset as component bar"
+      "notes": "master 42x38 is under the 64 px build minimum; dropped (2026-10-29)"
     },
     {
       "old": {
@@ -4231,16 +4207,10 @@
         "path": "png/fine-vertical-hatching-between-parallel-rules-corner-bottom-left.png",
         "masterSha256": "9e8808e118bed01589265454b653822b0b30582b364ef182548fe7084cc014c9"
       },
-      "new": {
-        "id": "met-schoen-modelbuch/hatched-rule-cell#corner-bottom-left",
-        "set": "met-schoen-modelbuch",
-        "package": "@ranx729/ducktape-assets-met-schoen-modelbuch",
-        "version": null,
-        "mastersPackage": "@ranx729/ducktape-assets-met-schoen-modelbuch-masters"
-      },
-      "status": "merged",
+      "new": null,
+      "status": "dropped",
       "verified": "pixels-identical",
-      "notes": "true master component, folded into the asset as component corner-bottom-left"
+      "notes": "master 42x38 is under the 64 px build minimum; dropped (2026-10-29)"
     },
     {
       "old": {
@@ -4251,16 +4221,10 @@
         "path": "png/fine-vertical-hatching-between-parallel-rules-corner-bottom-right.png",
         "masterSha256": "4c061c79167b3752ad8374a5b7453dff2084bb38bfe6ad2207f25aa9d59fcfaa"
       },
-      "new": {
-        "id": "met-schoen-modelbuch/hatched-rule-cell#corner-bottom-right",
-        "set": "met-schoen-modelbuch",
-        "package": "@ranx729/ducktape-assets-met-schoen-modelbuch",
-        "version": null,
-        "mastersPackage": "@ranx729/ducktape-assets-met-schoen-modelbuch-masters"
-      },
-      "status": "merged",
+      "new": null,
+      "status": "dropped",
       "verified": "pixels-identical",
-      "notes": "true master component, folded into the asset as component corner-bottom-right"
+      "notes": "master 42x38 is under the 64 px build minimum; dropped (2026-10-29)"
     },
     {
       "old": {
@@ -4271,16 +4235,10 @@
         "path": "png/fine-vertical-hatching-between-parallel-rules-corner-top-left.png",
         "masterSha256": "8aa7d4ab5cbcebfcbb1c5f5c18d0b85b7a315197d7a90b9a5448a4bef3c99f58"
       },
-      "new": {
-        "id": "met-schoen-modelbuch/hatched-rule-cell#corner-top-left",
-        "set": "met-schoen-modelbuch",
-        "package": "@ranx729/ducktape-assets-met-schoen-modelbuch",
-        "version": null,
-        "mastersPackage": "@ranx729/ducktape-assets-met-schoen-modelbuch-masters"
-      },
-      "status": "merged",
+      "new": null,
+      "status": "dropped",
       "verified": "pixels-identical",
-      "notes": "true master component, folded into the asset as component corner-top-left"
+      "notes": "master 42x38 is under the 64 px build minimum; dropped (2026-10-29)"
     },
     {
       "old": {
@@ -4291,16 +4249,10 @@
         "path": "png/fine-vertical-hatching-between-parallel-rules-corner-top-right.png",
         "masterSha256": "6e6d9f23d989ddf75de542a2d161bc881191b4c70a46f96fd3c8606bf354d971"
       },
-      "new": {
-        "id": "met-schoen-modelbuch/hatched-rule-cell#corner-top-right",
-        "set": "met-schoen-modelbuch",
-        "package": "@ranx729/ducktape-assets-met-schoen-modelbuch",
-        "version": null,
-        "mastersPackage": "@ranx729/ducktape-assets-met-schoen-modelbuch-masters"
-      },
-      "status": "merged",
+      "new": null,
+      "status": "dropped",
       "verified": "pixels-identical",
-      "notes": "true master component, folded into the asset as component corner-top-right"
+      "notes": "master 42x38 is under the 64 px build minimum; dropped (2026-10-29)"
     },
     {
       "old": {
@@ -14664,16 +14616,10 @@
         "path": "png/purple-fine-scroll-lattice.png",
         "masterSha256": "39e223efb17143b292e01426ea77db134884b9b47fa59410333d7d7e1e92f80a"
       },
-      "new": {
-        "id": "supplied-sheets/purple-fine-scroll-lattice",
-        "set": "supplied-sheets",
-        "package": "@ranx729/ducktape-assets-supplied-sheets",
-        "version": null,
-        "mastersPackage": "@ranx729/ducktape-assets-supplied-sheets-masters"
-      },
-      "status": "moved",
+      "new": null,
+      "status": "dropped",
       "verified": "pixels-identical",
-      "notes": "png is the master; traced svg dropped (see #svg entry)"
+      "notes": "master 41x35 is under the 64 px build minimum; dropped (2026-10-29)"
     },
     {
       "old": {
@@ -14694,16 +14640,10 @@
         "path": "png/purple-fine-scroll-lattice-corner.png",
         "masterSha256": "f6ec646e522fbcb894c6821435470468bcef9ffc7859bca4fa4ae0a38d31c569"
       },
-      "new": {
-        "id": "supplied-sheets/purple-fine-scroll-lattice#corner",
-        "set": "supplied-sheets",
-        "package": "@ranx729/ducktape-assets-supplied-sheets",
-        "version": null,
-        "mastersPackage": "@ranx729/ducktape-assets-supplied-sheets-masters"
-      },
-      "status": "merged",
+      "new": null,
+      "status": "dropped",
       "verified": "pixels-identical",
-      "notes": "true master component, folded into the asset as component corner"
+      "notes": "master 41x35 is under the 64 px build minimum; dropped (2026-10-29)"
     },
     {
       "old": {
