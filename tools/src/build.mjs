@@ -108,7 +108,12 @@ async function buildAsset(ctx, dir, asset) {
     const { axis } = asset.render.tile;
     const along = axis === 'x' ? main.width : main.height, across = axis === 'x' ? main.height : main.width;
     // A square swatch is a legitimate repeat unit (cma-1950-154's 70 px leaf band); only an axis along the shorter side is a mistake.
-    if (along / across < 1) refuse(`render.tile axis ${axis} but the master is ${main.width}x${main.height}: the axis runs along the shorter side, so it is the wrong axis`);
+    // When a frame corner is declared, its side is the band's thickness and settles the axis instead: a cycle shorter than the
+    // band is thick is then a one-motif tile (Walters W.82's 79x214 segment with a 214 px corner), not a wrong axis.
+    const corner = asset.render.frame?.corner && components[asset.render.frame.corner]?.loaded;
+    if (corner) {
+      if (Math.abs(corner.height - across) > 1) refuse(`render.tile axis ${axis} but the corner "${asset.render.frame.corner}" is ${corner.width}x${corner.height} and the master ${main.width}x${main.height}: the master's side across the axis must match the corner's side`);
+    } else if (along / across < 1) refuse(`render.tile axis ${axis} but the master is ${main.width}x${main.height}: the axis runs along the shorter side, so it is the wrong axis`);
   }
 
   const out = {};
