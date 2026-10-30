@@ -40,18 +40,20 @@ Owner actions, once, when the level is reached: create a free Cloudflare account
 
 Drill: Phase 1 writes and tests the `deploy-cdn` step against a throwaway Worker on the owner's account once, then the token is deleted. The step then sits unused until needed, and the drill result is in the release records so nobody has to trust an untested fallback.
 
+Status 2026-10-30: `tools deploy-cdn` is written (`tools/src/deploy-cdn.mjs`): retention from the release records (`retainedVersions`, tested), one tree per set with the delivery, part and masters packages folded under `/<version>/`, `_headers`, a `wrangler.jsonc` per Worker, `wrangler` pinned, header verification after the deploy, and `--dry-run`, which laid out W.102's three versions (187 files, 9 MB) from the real npm tarballs without an account. The index switch is the `cdnTemplate` option of the index generator, fed by the `DUCKTAPE_CDN_TEMPLATE` environment variable from the `CDN_TEMPLATE` repository variable (`https://ducktape-assets-<set>.<account>.workers.dev/<version>/`); the resolver's URL builder already folds parts into one base. Arming is three repository settings (`CDN_PROVIDER`, `CDN_ACCOUNT`, `CDN_TEMPLATE`) plus the token secret. The drill against a real Worker still needs the owner's account; the steps are in [[Owner runbook]].
+
 ### Level 2: npm refuses the project
 
 Cause: tarball cap tightened, scope dispute, or trusted publishing changing again after the January 2027 token removal. Then both the archive of record and the host move:
 
-- Archive: GitHub Releases on each set repo, already produced as zips by the publish job, become the record. Each release holds the package tree for that version.
-- Host: Cloudflare Workers as in level 1, fed from the Release zips instead of npm tarballs.
+- Archive: the GitHub Releases of the main repository, one per publisher run (`run-<id>`, written by `tools archive` since 2026-10-30), become the record. Each holds the npm tarball of every package that run published, with bytes and sha256 in the release notes and in the run's record (`archive`). Decided 2026-10-30: on the main repository rather than on each set repository, because the publish job can write its own repository with its job token and anything cross-repository would need a long-lived credential, which the invariants forbid.
+- Host: Cloudflare Workers as in level 1, fed from those tarballs instead of the registry (`deploy-cdn` fetches with `npm pack <name>@<version>`; at this level the fetch is pointed at the release assets).
 - The index package: published to npm if npm still allows the small metadata package, otherwise committed to the main repo only and served by the gallery's GitHub Page, which the resolver and the copy command can read as a URL (`index: 'https://…/index.json'`).
 - Build-time consumers are unaffected because the copy command fetches from the `cdn` base, not from npm.
 
 ### Level 3: GitHub itself
 
-Public repos get free Actions and Pages; the only realistic failure is rate limiting, which the tooling already handles with backoff. A total loss of GitHub is a loss of the git hosting, not of any artwork: masters are in git and cloned locally, sources are in Release zips mirrored locally by `tools sources pull`. Not planned beyond keeping local clones.
+Public repos get free Actions and Pages; the only realistic failure is rate limiting, which the tooling already handles with backoff. A total loss of GitHub is a loss of the git hosting, not of any artwork: masters are in git and cloned locally, sources are in the set repositories' Releases and mirrored locally by `tools sources pull`, which verifies every hash against `sources.yaml`. Not planned beyond keeping local clones.
 
 ## What is never the fallback
 

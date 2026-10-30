@@ -5,15 +5,18 @@ import { fileUrl } from './urls.mjs';
 
 const REPO = 'https://github.com/adrian729';
 
-export function indexEntry(manifest, { status = 'active' } = {}) {
-  const mastersCdn = manifest.cdn.replace(`${manifest.package}@`, `${manifest.mastersPackage}@`);
+// `cdnTemplate` (CDN contingency, level 1) replaces the jsDelivr bases with a host that folds a set's packages into
+// one tree: `<set>` and `<version>` are substituted, and masters share the base.
+export function indexEntry(manifest, { status = 'active', cdnTemplate } = {}) {
+  const cdn = cdnTemplate ? cdnTemplate.replaceAll('<set>', manifest.set).replaceAll('<version>', manifest.version) : manifest.cdn;
+  const mastersCdn = cdnTemplate ? cdn : manifest.cdn.replace(`${manifest.package}@`, `${manifest.mastersPackage}@`);
   return {
     version: manifest.version,
     package: manifest.package,
     parts: manifest.parts ?? [],
     mastersPackage: manifest.mastersPackage,
     mastersParts: manifest.mastersParts ?? [],
-    cdn: manifest.cdn,
+    cdn,
     mastersCdn,
     assets: Object.keys(manifest.assets).length,
     license: { artwork: manifest.license.artwork },
@@ -58,12 +61,12 @@ export function catalogEntry(setId, manifest, entry, assetId, asset) {
  * @param {string} [o.generatedAt]
  * @returns {{index, catalog, sets, readme, agents}}
  */
-export function generateIndex({ manifests, previous, generatedAt } = {}) {
+export function generateIndex({ manifests, previous, generatedAt, cdnTemplate } = {}) {
   const list = [...manifests].sort((a, b) => a.setId.localeCompare(b.setId));
   const sets = {};
   const entries = {};
   for (const { setId, manifest, status } of list) {
-    sets[setId] = indexEntry(manifest, { status });
+    sets[setId] = indexEntry(manifest, { status, cdnTemplate });
     entries[setId] = manifest;
   }
   const unchanged = previous && JSON.stringify(previous.sets) === JSON.stringify(sets);

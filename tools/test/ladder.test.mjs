@@ -87,6 +87,42 @@ test('every listed file exists with the listed size and hash, under a measured p
   }
 });
 
+test('a hand-made SVG is delivered optimised, rasterised into a ladder, and kept authored in the masters tree', async () => {
+  const { cp, mkdir, writeFile } = await import('node:fs/promises');
+  const { computeInputsHash, hashInputs, optimiseSvg } = await import('../src/build.mjs');
+  const repo = path.join(await tempDir('ducktape-vec-'), 'ducktape-assets-fixture-set');
+  await cp(fixture, repo, { recursive: true });
+  const dir = path.join(repo, 'assets', 'ribbon-vine');
+  await mkdir(dir);
+  // Editor metadata, a comment and six-decimal coordinates: everything the pinned config is meant to drop.
+  const authored = Buffer.from('<?xml version="1.0"?>\n<!-- made in an editor -->\n<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="400" height="100" viewBox="0 0 400 100"><metadata>editor junk</metadata><path inkscape:label="vine" d="M0.123456 50.654321 L400.000001 50.000002" stroke="#a00" stroke-width="8.123456"/><circle cx="200.5" cy="50.5" r="30.123456" fill="#c90"/></svg>\n');
+  await writeFile(path.join(dir, 'master.svg'), authored);
+  await writeFile(path.join(dir, 'asset.yaml'), [
+    'id: ribbon-vine', 'title: Ribbon vine', 'description: A red rule with a gold disc, hand-made as a vector strip on a transparent background.',
+    'type: border', 'categories: [floral]', 'subjects: [ribbon]', 'colors: [red, gold]', 'facing: none', 'view: front', 'composition: single-ornament',
+    'render: { image: {} }', 'usage_notes: [Vector strip.]', 'display_width: [200, 800]', 'status: approved', 'created: 2026-11-02', 'master: master.svg',
+    'provenance: { method: native-source-extraction, institution: Walters Art Museum, object_identifier: W.82, image_rights: CC0-1.0 }', 'license: null', '',
+  ].join('\n'));
+  const vecOut = await tempDir('ducktape-vec-out-');
+  const { manifest: m } = await buildSet(repo, vecOut, { version: '1.0.0', concurrency: 2 });
+  const a = m.assets['ribbon-vine'];
+  assert.deepEqual([a.width, a.height], [400, 100]);
+  const delivered = await readFile(path.join(vecOut, a.sources.svg.path));
+  assert.ok(delivered.length < authored.length, 'the delivery SVG is smaller than the authored one');
+  assert.ok(!delivered.includes('metadata') && !delivered.includes('inkscape') && !delivered.includes('editor'), 'editor metadata is gone');
+  assert.ok(delivered.includes('viewBox="0 0 400 100"'), 'the viewBox is kept');
+  assert.ok(!/\d\.\d{4}/.test(delivered.toString()), 'at most three decimals');
+  assert.deepEqual(delivered, optimiseSvg(authored), 'the delivery file is the pinned optimisation of the master');
+  assert.deepEqual(await readFile(path.join(vecOut, a.master.path)), authored, 'the masters tree keeps the authored bytes');
+  assert.deepEqual(widths(a.sources.webp), [64, 96, 128, 192, 256, 384, 512, 768, 1024, 1536, 2048]);
+  assert.match(m.tooling.svgo, /^\d+\.\d+\.\d+$/);
+  // svgo is in the inputs hash of a vector set (and of nothing else: the raster fixture hashes the same without it).
+  assert.equal(await computeInputsHash(repo), m.inputsHash);
+  const { svgo, ...withoutSvgo } = m.tooling;
+  assert.notEqual(hashInputs({ masters: { 'assets/ribbon-vine/master.svg': 'x' }, yaml: {}, tooling: m.tooling }), hashInputs({ masters: { 'assets/ribbon-vine/master.svg': 'x' }, yaml: {}, tooling: withoutSvgo }));
+  assert.equal(hashInputs({ masters: { 'assets/a/master.png': 'x' }, yaml: {}, tooling: m.tooling }), hashInputs({ masters: { 'assets/a/master.png': 'x' }, yaml: {}, tooling: withoutSvgo }));
+});
+
 test('volume assignment is sticky, fills the newest part and never exceeds the limit', () => {
   const file = (p, bytes, pkg) => ({ path: p, bytes, ...(pkg ? { package: pkg } : {}) });
   const existing = { assets: { a: { sources: { webp: [file('webp/a-1', 60), file('webp/a-2', 30), file('webp/a-3', 50, 'part2')] }, render: {} } } };

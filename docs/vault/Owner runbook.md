@@ -41,5 +41,5 @@ elder-scrolls and polyhymnia-ear-training are on `@ranx729/ducktape-assets@1.2.0
 
 ## Later, optional
 
-- Cloudflare drill for the fallback host ([[Design/CDN contingency]]): free account, one API token, one dry deployment, token deleted.
+- Cloudflare drill for the fallback host ([[Design/CDN contingency]]; the command exists since 2026-10-30 and its dry run passed): create a free Cloudflare account and note the `workers.dev` subdomain it gives you (Workers & Pages → Overview); create an API token from the "Edit Cloudflare Workers" template and copy the account id from the same page; then in a real terminal from the main repository root run `CLOUDFLARE_API_TOKEN=<token> CLOUDFLARE_ACCOUNT_ID=<account id> node tools/src/cli.mjs deploy-cdn --sets walters-w102 --account <subdomain> 2>&1 | tee tmp/cdn-drill-$(date +%Y%m%d).log`. It prints a table whose last column must say `ok` (status 200, `immutable`, CORS `*` on the Worker's `manifest.json`). Then delete the Worker (`npx --yes wrangler@4.156.0 delete --name ducktape-assets-walters-w102`) and the token, and tell an agent to note the result in [[Design/CDN contingency]]. Nothing in this drill touches npm, jsDelivr or the index.
 - Decide the single-object-holding rule before wave 2 ([[Investigation/Importer dry run]]).

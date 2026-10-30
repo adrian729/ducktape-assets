@@ -21,7 +21,7 @@ Resize filter: Lanczos3 with premultiplied alpha (sharp's default), sRGB, metada
 
 ## Outputs per vector asset
 
-`svgo` with a pinned config (keep `viewBox`, remove editor metadata, 3-decimal precision, no path merging that alters rendering). The optimised SVG is the only delivery file; a raster ladder (AVIF/WebP) is also built from a 2048 px rasterisation so that consumers that want `<img srcset>` or need thumbnails do not have to rasterise. Only hand-made vectors qualify. Auto-tracing paintings is banned; the 48 MB traces of the old library are dropped in the migration.
+`svgo` with a pinned config (keep `viewBox`, remove editor metadata, 3-decimal precision, no path merging that alters rendering; single pass, in the build since 2026-10-30, `svgo` 4.1.0 exact). The optimised SVG is the only delivery file and what the raster ladder is rasterised from; the masters package keeps the authored bytes. The svgo version is recorded in the manifest's `tooling` block for every set but is part of the inputs hash only for sets with a vector master, so adding or bumping svgo republishes the vector sets and nothing else; a raster ladder (AVIF/WebP) is also built from a 2048 px rasterisation so that consumers that want `<img srcset>` or need thumbnails do not have to rasterise. Only hand-made vectors qualify. Auto-tracing paintings is banned; the 48 MB traces of the old library are dropped in the migration.
 
 ## Determinism and the publish gate
 

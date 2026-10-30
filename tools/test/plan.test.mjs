@@ -271,6 +271,55 @@ test('a set that fails validation is excluded with its reason and the rest of th
   assert.match(p.excluded[0].reason, /validation failed/);
 });
 
+test('archive packs only what the run published, the index included, into one GitHub Release and notes it in the record', async () => {
+  const { archiveRun } = await import('../src/archive.mjs');
+  const dir = await tempDir('ducktape-archive-');
+  const records = path.join(dir, 'releases');
+  await mkdir(records);
+  const record = { schema: 1, runId: 'r1', packages: [
+    { name: PKG, version: '1.0.0', set: 'fixture-set', kind: 'delivery', result: 'published' },
+    { name: `${PKG}-masters`, version: '1.0.0', set: 'fixture-set', kind: 'masters', result: 'already published' },
+    { name: '@ranx729/ducktape-assets', version: '1.0.0', set: null, kind: 'index', result: 'published' },
+  ] };
+  await writeFile(path.join(records, '2026-11-02-r1.json'), JSON.stringify(record));
+  const calls = [];
+  const exec = async (cmd, args, opts) => {
+    calls.push([cmd, ...args]);
+    if (cmd !== 'npm') return { stdout: '' };
+    const pj = await readJson(path.join(opts.cwd, 'package.json'));
+    const name = `${pj.name.replace('@', '').replace('/', '-')}-${pj.version}.tgz`;
+    await writeFile(path.join(args[args.indexOf('--pack-destination') + 1], name), `tarball of ${pj.name}`);
+    return { stdout: JSON.stringify([{ filename: name }]) };
+  };
+  const { tag, assets } = await archiveRun({ planFile: planFileA, cacheDir: cacheA, recordDir: records, indexDir, runId: 'r1', exec });
+  assert.equal(tag, 'run-r1');
+  assert.deepEqual(assets.map((a) => a.name), [PKG, '@ranx729/ducktape-assets'], 'the already-published package is not re-archived');
+  assert.ok(assets.every((a) => /^sha256:[0-9a-f]{64}$/.test(a.sha256) && a.bytes > 0));
+  const gh = calls.find((c) => c[0] === 'gh');
+  assert.deepEqual(gh.slice(0, 6), ['gh', 'release', 'create', 'run-r1', '-R', 'adrian729/ducktape-assets']);
+  assert.equal(gh.filter((a) => a.endsWith('.tgz')).length, 2);
+  const saved = await readJson(path.join(records, '2026-11-02-r1.json'));
+  assert.equal(saved.archive.url, 'https://github.com/adrian729/ducktape-assets/releases/tag/run-r1');
+  assert.deepEqual(saved.archive.assets.map((a) => a.version), ['1.0.0', '1.0.0']);
+});
+
+test('deploy-cdn retains the current pin plus every version an index release pinned in the window', async () => {
+  const { retainedVersions } = await import('../src/deploy-cdn.mjs');
+  const dir = await tempDir('ducktape-retain-');
+  const idx = path.join(dir, 'index'), records = path.join(dir, 'releases');
+  await mkdir(idx); await mkdir(records);
+  await writeFile(path.join(idx, 'index.json'), JSON.stringify({ schema: 1, sets: { a: { version: '1.2.0' }, b: { version: '2.0.0' } } }));
+  const rec = (name, startedAt, pins, extra = {}) => writeFile(path.join(records, name), JSON.stringify({ startedAt, index: { result: 'published', pins }, ...extra }));
+  await rec('2026-01-01-old.json', '2026-01-01T00:00:00Z', { a: '1.0.0', b: '1.0.0' });
+  await rec('2026-09-01-mid.json', '2026-09-01T00:00:00Z', { a: '1.1.0', b: '2.0.0' });
+  await rec('2026-10-01-dry.json', '2026-10-01T00:00:00Z', { a: '9.9.9' }, { dryRun: true });
+  await rec('2026-10-02-gone.json', '2026-10-02T00:00:00Z', { c: '1.0.0' });
+  const kept = await retainedVersions({ indexDir: idx, recordDir: records, months: 12, now: new Date('2026-11-02T00:00:00Z') });
+  assert.deepEqual(kept, { a: ['1.0.0', '1.1.0', '1.2.0'], b: ['1.0.0', '2.0.0'] });
+  const short = await retainedVersions({ indexDir: idx, recordDir: records, months: 3, now: new Date('2026-11-02T00:00:00Z') });
+  assert.deepEqual(short, { a: ['1.1.0', '1.2.0'], b: ['2.0.0'] });
+});
+
 // ---- check-cdn ----
 
 async function cdnFake(cache, { status = () => 200, tamper = () => false } = {}) {

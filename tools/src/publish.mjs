@@ -79,7 +79,8 @@ export async function publishPlan({ planFile, cacheDir = '.ducktape-cache', reco
       if (dryRun) { await rm(target, { recursive: true, force: true }); await cp(indexDir, target, { recursive: true }); }
       const manifests = await collectManifests({ plan, registered, cacheDir, indexDir, registry });
       const previous = await readJsonIf(path.join(indexDir, 'index.json'));
-      const out = generateIndex({ manifests, previous });
+      // DUCKTAPE_CDN_TEMPLATE switches every base to the fallback host (CDN contingency, level 1; set from the CDN_TEMPLATE repository variable).
+      const out = generateIndex({ manifests, previous, cdnTemplate: process.env.DUCKTAPE_CDN_TEMPLATE || undefined });
       await writeIndex(target, out);
       const pkgFile = path.join(target, 'package.json');
       const pj = await readJson(pkgFile);

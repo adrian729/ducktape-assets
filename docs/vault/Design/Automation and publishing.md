@@ -49,8 +49,8 @@ Why the publisher lives in the main repo and not in each set repo: trusted publi
 `tools new-set <id> --title … --kind …` run locally by an agent: creates the repo from the template with `gh repo create`, pushes `set.yaml`, registers the set in `sets.yaml` in a PR to main. The first publish of its two packages needs the names to exist on npm. The bootstrap procedure, batched:
 
 1. The plan job lists packages that do not exist on the registry (`E404`).
-2. The owner, once per batch, runs `tools bootstrap` locally. It publishes a `0.0.0` placeholder for each missing name (one passkey tap starts the 5-minute 2FA-skip window), then runs `npm trust github <pkg> --repo adrian729/ducktape-assets --file publish.yml --env release --allow-publish --yes` for each, with a 2-second sleep. About 80 names fit in one window; our migration needs roughly 80 (40 sets × 2), so at most two taps.
-3. The trust configuration expires after 2 days if unused, so `tools bootstrap` ends by triggering the publisher run itself, and the owner approves it in the same sitting.
+2. The owner, once per batch, runs `scripts/owner-npm-bootstrap.sh` locally (decided 2026-10-30 to stay a shell script rather than become `tools bootstrap`: it needs the owner's terminal and passkey, logs to `tmp/`, and depends on nothing installed). It publishes a `0.0.0` placeholder for each missing name (one passkey tap starts the 5-minute 2FA-skip window), then runs `npm trust github <pkg> --repo adrian729/ducktape-assets --file publish.yml --env release --allow-publish --yes` for each, with a 2-second sleep. About 80 names fit in one window; our migration needs roughly 80 (40 sets × 2), so at most two taps.
+3. The trust configuration expires after 2 days if unused, so the script ends by triggering the publisher run itself, and the owner approves it in the same sitting.
 
 If `npm stage publish` turns out to create placeholders for new names from CI, step 2 shrinks to the `npm trust` loop only. This is the first thing to test in implementation.
 
@@ -80,13 +80,13 @@ The owner's npm bootstrap also needed three attempts: the passkey prompt must re
 
 ## Release records
 
-`releases/<date>-<run-id>.json` in the main repo: what was published, versions, hashes, sizes, the approver and timestamps. Machine-readable, appended by the publish job, replaces the hand-written QA log of the old library. A short generated `CHANGELOG.md` per set repo is written from the same data.
+`releases/<date>-<run-id>.json` in the main repo: what was published, versions, hashes, sizes, the approver and timestamps. Machine-readable, appended by the publish job, replaces the hand-written QA log of the old library. A short generated `CHANGELOG.md` per set repo is written from the same data by `tools readme <set-repo-dir> --manifest index/sets/<set>.json --records releases` (since 2026-10-30): one section per run that published the set, with the bump, the counts, the run link, the packages and their CDN verification. The publish job cannot push to the set repositories (no cross-repository credential, by design), so the agent that drives a release regenerates and pushes README and CHANGELOG in every set the run published, from its local clones, right after the record is in. The job also attaches the run's tarballs to a GitHub Release of the main repository (`tools archive`, tag `run-<id>`, best effort, noted under `archive` in the record), the archive of record of [[CDN contingency]] level 2.
 
 ## Adding assets with an agent
 
 The agent workflow in a set repo is: drop masters into `assets/<id>/`, write `asset.yaml` (description, categories, subjects, colours, usage notes, provenance), run `tools validate && tools build --preview`, open a PR. CI repeats the checks and posts the preview. The owner looks at the contact sheet and merges. Everything after merge is the publisher.
 
-For historical imports, the agent also writes the provenance record and adds the raw source to the sources archive (uploaded as a Release asset by `tools sources add`, which hashes it and updates `sources.yaml`).
+For historical imports, the agent also writes the provenance record and adds the raw source to the sources archive: `tools sources add <set-repo-dir> <file>...` (since 2026-10-30) uploads each file to a GitHub Release of the set repository (`sources-<date>`, created on first use with the owner's `gh` session), appends `{ file, sha256, bytes, release, added }` to `sources.yaml` and prints the hash to put in `provenance.source_sha256`; a file whose hash is already listed is skipped. `tools sources pull` downloads and verifies everything listed. The 50 imported sets have empty inventories: their sources were the old library's checkouts, which are not kept.
 
 ## What stays manual, and why
 

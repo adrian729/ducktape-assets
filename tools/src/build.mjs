@@ -7,6 +7,7 @@ import { createHash } from 'node:crypto';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import sharp from 'sharp';
+import { optimize as svgoOptimize, VERSION as SVGO_VERSION } from 'svgo';
 import YAML from 'yaml';
 import { validateSet, formatProblems } from './validate.mjs';
 import { loadManifestValidator } from './schemas.mjs';
@@ -36,8 +37,14 @@ async function inspectMaster(file, label, { main }) {
   return { vector: false, width: meta.width, height: meta.height };
 }
 
-// Rasterises a hand-made SVG at 2048 px wide; the SVG itself is copied through.
-// TODO: svgo optimisation with a pinned config (keep viewBox, drop editor metadata, 3-decimal precision) before the copy.
+// The pinned svgo config (Image pipeline): keep the viewBox, drop editor metadata and comments (the preset does),
+// three decimals, and no path merging, which can change rendering where paths overlap. Single pass, so the output
+// is a pure function of the input. The optimised SVG is the delivery file and what the ladder is rasterised from;
+// the masters tree keeps the authored bytes.
+const SVGO_CONFIG = { multipass: false, floatPrecision: 3, plugins: [{ name: 'preset-default', params: { overrides: { removeViewBox: false, mergePaths: false } } }] };
+export const optimiseSvg = (buf) => Buffer.from(svgoOptimize(buf.toString('utf8'), SVGO_CONFIG).data, 'utf8');
+
+// Rasterises a hand-made SVG at 2048 px wide.
 async function rasteriseSvg(buf) {
   const meta = await sharp(buf).metadata();
   const raw = await decodeRaw(buf, { density: Math.min(100000, (72 * ENCODING.vectorRasterWidth) / meta.width) });
@@ -94,8 +101,9 @@ async function buildAsset(ctx, dir, asset) {
     const bytes = await readFile(fromDir(file));
     ctx.inputs[`assets/${dir}/${file}`] = sha256(bytes);
     if (info.vector) {
-      const r = await rasteriseSvg(bytes);
-      return { vector: true, svg: bytes, raw: r.raw, width: r.width, height: r.height };
+      const svg = optimiseSvg(bytes);
+      const r = await rasteriseSvg(svg);
+      return { vector: true, svg, authored: bytes, raw: r.raw, width: r.width, height: r.height };
     }
     const raw = await decodeRaw(bytes);
     return { vector: false, raw, width: raw.width, height: raw.height };
@@ -133,8 +141,8 @@ async function buildAsset(ctx, dir, asset) {
   out.sources = primary.ladder;
   out.encoding = primary.encoding;
   if (main.vector) {
-    out.sources.svg = ctx.emit(`svg/${id}.svg`, main.svg, main.width, main.height, id); // copied through, see the svgo TODO in rasteriseSvg
-    out.master = ctx.emit(`masters/${id}.svg`, main.svg, main.width, main.height, id, 'masters');
+    out.sources.svg = ctx.emit(`svg/${id}.svg`, main.svg, main.width, main.height, id);
+    out.master = ctx.emit(`masters/${id}.svg`, main.authored, main.width, main.height, id, 'masters');
   } else {
     out.master = await masterEntry(ctx, id, id, main.raw);
   }
@@ -144,7 +152,7 @@ async function buildAsset(ctx, dir, asset) {
     const l = await makeLadder(ctx, id, c.loaded.raw, { pathFor: rungPath(`${id}.${name}`) });
     compOut[name] = {
       ...(c.description ? { description: c.description } : {}),
-      master: c.loaded.vector ? ctx.emit(`masters/${id}.${name}.svg`, c.loaded.svg, c.loaded.width, c.loaded.height, id, 'masters') : await masterEntry(ctx, id, `${id}.${name}`, c.loaded.raw),
+      master: c.loaded.vector ? ctx.emit(`masters/${id}.${name}.svg`, c.loaded.authored, c.loaded.width, c.loaded.height, id, 'masters') : await masterEntry(ctx, id, `${id}.${name}`, c.loaded.raw),
       sources: l.ladder,
       encoding: l.encoding,
     };
@@ -195,12 +203,16 @@ function setAttribution(set, assets) {
 
 export async function toolingInfo() {
   const toolsVersion = JSON.parse(await readFile(path.join(here, '..', 'package.json'), 'utf8')).version;
-  return { tools: toolsVersion, sharp: sharp.versions.sharp, libvips: sharp.versions.vips, concurrency: sharp.concurrency() };
+  return { tools: toolsVersion, sharp: sharp.versions.sharp, libvips: sharp.versions.vips, svgo: SVGO_VERSION, concurrency: sharp.concurrency() };
 }
 
 // masters: { 'assets/<dir>/<file>': sha256 }, yaml: { 'set.yaml' | 'assets/<dir>/asset.yaml': text }.
+// svgo only touches vector masters, so its version is part of the hash only for sets that have one: a svgo bump
+// then republishes the vector sets and nothing else (added 2026-10-30 without a republish of the 49 raster sets).
 export function hashInputs({ masters, yaml, tooling }) {
-  return 'sha256:' + createHash('sha256').update(stableJson({ masters, yaml, encoding: ENCODING, tooling })).digest('hex');
+  const hasVectors = Object.keys(masters).some((f) => f.endsWith('.svg'));
+  const { svgo, ...rest } = tooling;
+  return 'sha256:' + createHash('sha256').update(stableJson({ masters, yaml, encoding: ENCODING, tooling: hasVectors ? tooling : rest })).digest('hex');
 }
 
 // The same hash buildSet stores in the manifest, computed without encoding anything: hashes the masters and YAML

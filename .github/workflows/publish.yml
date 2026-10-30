@@ -68,6 +68,7 @@ jobs:
           restore-keys: publish-${{ runner.os }}-
       - name: Publish everything in the plan (idempotent; "already published" is success)
         run: node tools/src/cli.mjs publish --plan plan.json --cache .ducktape-cache --record releases/
+        env: { DUCKTAPE_CDN_TEMPLATE: "${{ vars.CDN_TEMPLATE }}" }   # empty unless the fallback host is armed
       # npm's public replication can lag many minutes behind a publish (seen 2026-10-26), and jsDelivr reads from it:
       # wait up to 15 minutes. The record and the regenerated index/ are committed whatever the outcome, so a slow CDN
       # never loses what was published; the job still fails afterwards if the CDN did not confirm.
@@ -75,6 +76,13 @@ jobs:
         id: verify
         continue-on-error: true
         run: node tools/src/cli.mjs check-cdn --plan plan.json --record releases/ --retries 30 --delay 30
+      # The tarballs of everything published, as a GitHub Release of this repository (tag run-<id>): the archive of
+      # record if npm ever refuses the project. Best effort; the record below notes it when it worked.
+      - name: Archive the published tarballs as a GitHub Release
+        if: ${{ always() && steps.verify.conclusion != 'skipped' }}
+        continue-on-error: true
+        run: node tools/src/cli.mjs archive --plan plan.json --cache .ducktape-cache --record releases/
+        env: { GH_TOKEN: "${{ github.token }}" }
       - name: Commit release record and index
         if: ${{ always() && steps.verify.conclusion != 'skipped' }}
         run: |
@@ -88,7 +96,10 @@ jobs:
         run: |
           echo "jsDelivr did not serve every package within the retry window; rerun locally: node tools/src/cli.mjs check-cdn --record releases/"
           exit 1
+      # Armed by three repository settings: the variable CDN_PROVIDER=cloudflare, the variable CDN_ACCOUNT (the
+      # workers.dev subdomain) and the secret CLOUDFLARE_API_TOKEN in the release environment; CDN_TEMPLATE switches
+      # the index bases (see docs/vault/Design/CDN contingency.md).
       - name: Deploy to the fallback CDN (only when armed; see docs/vault/Design/CDN contingency.md)
         if: ${{ vars.CDN_PROVIDER == 'cloudflare' }}
-        run: node tools/src/cli.mjs deploy-cdn --plan plan.json
-        env: { CLOUDFLARE_API_TOKEN: "${{ secrets.CLOUDFLARE_API_TOKEN }}" }
+        run: node tools/src/cli.mjs deploy-cdn --records releases/ --account "${{ vars.CDN_ACCOUNT }}"
+        env: { CLOUDFLARE_API_TOKEN: "${{ secrets.CLOUDFLARE_API_TOKEN }}", CLOUDFLARE_ACCOUNT_ID: "${{ secrets.CLOUDFLARE_ACCOUNT_ID }}" }
