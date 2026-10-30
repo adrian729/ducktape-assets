@@ -1,0 +1,1342 @@
+{
+  "assets": {
+    "ape-fishing-pond-scene": {
+      "categories": [
+        "animals",
+        "fantasy",
+        "botanical"
+      ],
+      "colors": [
+        "green",
+        "blue",
+        "gold",
+        "brown",
+        "tan"
+      ],
+      "composition": "framed-scene",
+      "description": "The whole pond miniature of the leaf. Between two gold columns with scroll capitals, a brown ape crouches at the left on a green bank holding a fishing rod whose line drops into a blue pond, while a grey-brown long-beaked waterbird dives head first into the water at the right. Green hills, trees with red and gold fruit, clumps of gold-lined reeds and a pale blue sky fill the ground, bounded by a thin gold bar above and a gold plinth below. Opaque inside the frame, transparent outside.",
+      "display_width": [
+        600,
+        1600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 124506,
+        "webpTopBytes": 165354
+      },
+      "facing": "mixed",
+      "group": null,
+      "height": 909,
+      "master": {
+        "bytes": 1366948,
+        "h": 689,
+        "path": "masters/ape-fishing-pond-scene.webp",
+        "sha256": "6d606ef67a0f17bca4e28465f9650ae1c07aa70709582cf0e6c179f0f67e3480",
+        "w": 2048
+      },
+      "palette": [
+        "#9a7a51",
+        "#61664a",
+        "#7d998a",
+        "#a0b3b3",
+        "#afa37d"
+      ],
+      "provenance": {
+        "date": "c. 1500–1510",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2006.13.b/2006.13.b_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2006.13.b",
+        "object_title": "Leaf from a Book of Hours: Ape Fishing (verso)",
+        "record_url": "https://clevelandart.org/art/2006.13.b",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "322f38d25a86c70b91250334aa623d87403eaf9f2b3a4544e69a80de17ba733f"
+      },
+      "quality": "The frame is slightly skewed as painted and the gold of the columns and bars is worn through in places.",
+      "related": [
+        {
+          "asset": "cma-2006-13/gold-columned-pond-frame",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2006-13/ape-with-fishing-rod",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2006-13/diving-long-beaked-waterbird",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 980,
+            "h": 22,
+            "path": "avif/ape-fishing-pond-scene-64.avif",
+            "sha256": "75c3521d9beec4b5e76ada8a008699b4800e510fb09d3f511f1ae5f15c0b7e18",
+            "w": 64
+          },
+          {
+            "bytes": 1472,
+            "h": 32,
+            "path": "avif/ape-fishing-pond-scene-96.avif",
+            "sha256": "782d5a1973bc73ccf3a2984fdea3bae1b4996470ae696b68951eef3a65a3d695",
+            "w": 96
+          },
+          {
+            "bytes": 2427,
+            "h": 43,
+            "path": "avif/ape-fishing-pond-scene-128.avif",
+            "sha256": "ec824069a57bee0a93716beb0ee4842ad4e839389cbe536fb0113a4db3da394d",
+            "w": 128
+          },
+          {
+            "bytes": 3920,
+            "h": 65,
+            "path": "avif/ape-fishing-pond-scene-192.avif",
+            "sha256": "41cb6871c008c804a3f1f284e24fd82b6b1aec4b2c52c25b1d93dc10bf50c22f",
+            "w": 192
+          },
+          {
+            "bytes": 6562,
+            "h": 86,
+            "path": "avif/ape-fishing-pond-scene-256.avif",
+            "sha256": "32da9b9dd13ec4fed2fde19e2f396b6fb17fb1097023f011546385624640af8b",
+            "w": 256
+          },
+          {
+            "bytes": 11380,
+            "h": 129,
+            "path": "avif/ape-fishing-pond-scene-384.avif",
+            "sha256": "8283b7bd9317df32d3f4280b6ef281c409e9c39e3bad23cd4e9a1394a30880a7",
+            "w": 384
+          },
+          {
+            "bytes": 18853,
+            "h": 172,
+            "path": "avif/ape-fishing-pond-scene-512.avif",
+            "sha256": "418e79c1fba78cea4c9da0ff7bd9681cf1bbcd55a1991a0ba39a8a864f3db24f",
+            "w": 512
+          },
+          {
+            "bytes": 34385,
+            "h": 258,
+            "path": "avif/ape-fishing-pond-scene-768.avif",
+            "sha256": "8d0395e9c26da27d00e3038eb2d5d68cb35b8da3da1f5bf2f0cb0b393b19cd57",
+            "w": 768
+          },
+          {
+            "bytes": 51680,
+            "h": 344,
+            "path": "avif/ape-fishing-pond-scene-1024.avif",
+            "sha256": "a318f4943ad5c3ae2e912b2b3ab2ab1c568cab73bd23bccf43964f95059d15bb",
+            "w": 1024
+          },
+          {
+            "bytes": 86941,
+            "h": 517,
+            "path": "avif/ape-fishing-pond-scene-1536.avif",
+            "sha256": "53e9688544b4fc932beedd2cbb41487fc0a1eaf777a153bf361afc0494183a76",
+            "w": 1536
+          },
+          {
+            "bytes": 124506,
+            "h": 689,
+            "path": "avif/ape-fishing-pond-scene-2048.avif",
+            "sha256": "2bf5cc639cf412706e66a9eab1888aff78661a6c28d3de9d617884f2ed706183",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1104,
+            "h": 22,
+            "path": "webp/ape-fishing-pond-scene-64.webp",
+            "sha256": "e0de1b6205878ed773e25285473a3d878e8898140ebf1f942154c135abdc1f36",
+            "w": 64
+          },
+          {
+            "bytes": 1974,
+            "h": 32,
+            "path": "webp/ape-fishing-pond-scene-96.webp",
+            "sha256": "c62a619101f7a8a49af9136e6c250b5ad5a0406c076de96ad12109ab9413dd87",
+            "w": 96
+          },
+          {
+            "bytes": 3262,
+            "h": 43,
+            "path": "webp/ape-fishing-pond-scene-128.webp",
+            "sha256": "86b23b0ebb2245f4ae0b7b81539b00cd5b5453c0d2531d6838964097a15a10a1",
+            "w": 128
+          },
+          {
+            "bytes": 6234,
+            "h": 65,
+            "path": "webp/ape-fishing-pond-scene-192.webp",
+            "sha256": "2f2872e0d8cee15e093e40345c4363f4e995625662125cfea382b6ead3515522",
+            "w": 192
+          },
+          {
+            "bytes": 9888,
+            "h": 86,
+            "path": "webp/ape-fishing-pond-scene-256.webp",
+            "sha256": "a51bebeeb87effacd6aae1e6fbbc16f442bf99c27169c9817a1aef19246be86b",
+            "w": 256
+          },
+          {
+            "bytes": 17796,
+            "h": 129,
+            "path": "webp/ape-fishing-pond-scene-384.webp",
+            "sha256": "cd8e02dc1d251e7190d9863990e4664c97fe1cee39a35dccde6c2783ba3d0729",
+            "w": 384
+          },
+          {
+            "bytes": 27336,
+            "h": 172,
+            "path": "webp/ape-fishing-pond-scene-512.webp",
+            "sha256": "1d332650bc873625e912f9475cecf114ae1584abd91b0f6a82e582847655d82b",
+            "w": 512
+          },
+          {
+            "bytes": 49134,
+            "h": 258,
+            "path": "webp/ape-fishing-pond-scene-768.webp",
+            "sha256": "f8556c5e4201bc8070d1ed6716b57b2bc1f4e2d7966921d4c380bad9e9574937",
+            "w": 768
+          },
+          {
+            "bytes": 71106,
+            "h": 344,
+            "path": "webp/ape-fishing-pond-scene-1024.webp",
+            "sha256": "a5c3ddf7924111365b8f016d6895b904c6711c3c54b84bf1b4d7d1207bb62642",
+            "w": 1024
+          },
+          {
+            "bytes": 117300,
+            "h": 517,
+            "path": "webp/ape-fishing-pond-scene-1536.webp",
+            "sha256": "473e7ab850013c2986da51a0bb38345e18198cdea603aef43a6095d675e273a5",
+            "w": 1536
+          },
+          {
+            "bytes": 165354,
+            "h": 689,
+            "path": "webp/ape-fishing-pond-scene-2048.webp",
+            "sha256": "b7e6606f7d0c5d1d4b0a2bf791917a2abfb127d5eadcbcdc39511a5e782205b6",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "ape",
+        "bird",
+        "rod",
+        "pond",
+        "landscape",
+        "tree",
+        "grass",
+        "column",
+        "frame",
+        "drollery"
+      ],
+      "thumbhash": "3/iFGoYtDqiBaXL3holvqGdniIdwiQg=",
+      "title": "Ape fishing at a pond, framed miniature",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Complete framed miniature; place it as a picture. The emptied frame is gold-columned-pond-frame, the ape is crouching-hairy-figure-with-long-bent-implement and the bird is diving-long-beaked-waterbird."
+      ],
+      "view": "side",
+      "width": 2702
+    },
+    "ape-with-fishing-rod": {
+      "categories": [
+        "animals",
+        "fantasy"
+      ],
+      "colors": [
+        "brown",
+        "tan",
+        "gold"
+      ],
+      "composition": "single-figure",
+      "description": "A brown ape with gold-hatched fur crouches on its haunches facing right, its tail curling behind, and holds a long thin fishing rod in both hands; the rod rises to a peak above and the line bends down to the right. Round ear, dark eye and a long muzzle. The paint is worn, with pale parchment showing through the fur. Cut from the pond miniature of the leaf; the background is transparent.",
+      "display_width": [
+        200,
+        700
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 23510,
+        "webpTopBytes": 37626
+      },
+      "facing": "right",
+      "group": null,
+      "height": 666,
+      "master": {
+        "bytes": 146338,
+        "h": 666,
+        "path": "masters/ape-with-fishing-rod.webp",
+        "sha256": "f86d04a820ce6b62f0d0fd10d093b7087e7526077b2fc6e59767ad039fa9f8dc",
+        "w": 738
+      },
+      "palette": [
+        "#86694a",
+        "#a18057",
+        "#a98f6d",
+        "#6b5e42",
+        "#59412b"
+      ],
+      "provenance": {
+        "date": "c. 1500–1510",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2006.13.b/2006.13.b_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2006.13.b",
+        "object_title": "Leaf from a Book of Hours: Ape Fishing (verso)",
+        "record_url": "https://clevelandart.org/art/2006.13.b",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "322f38d25a86c70b91250334aa623d87403eaf9f2b3a4544e69a80de17ba733f"
+      },
+      "quality": "Original paint loss, with pale parchment showing through the fur and along the rod.",
+      "related": [
+        {
+          "asset": "cma-2006-13/ape-fishing-pond-scene",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2006-13/diving-long-beaked-waterbird",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1923,
+            "h": 58,
+            "path": "avif/ape-with-fishing-rod-64.avif",
+            "sha256": "e0344038902b4580ce5a27e57d9faac98d73a83d41df44a79d72af57187fdc07",
+            "w": 64
+          },
+          {
+            "bytes": 2967,
+            "h": 87,
+            "path": "avif/ape-with-fishing-rod-96.avif",
+            "sha256": "3ef084d7315291e33b7452179c50ec043fb9e6305e15b4293b6f16e811ef29ce",
+            "w": 96
+          },
+          {
+            "bytes": 3968,
+            "h": 116,
+            "path": "avif/ape-with-fishing-rod-128.avif",
+            "sha256": "4be06475716edd4a82efedd42fb80fbc0476787451f52173f053069eb4fd1b75",
+            "w": 128
+          },
+          {
+            "bytes": 6181,
+            "h": 173,
+            "path": "avif/ape-with-fishing-rod-192.avif",
+            "sha256": "c8b9a560070fa3c51dda441df6d75d6117f4561564d48b3712b2aeeb608a93f0",
+            "w": 192
+          },
+          {
+            "bytes": 8440,
+            "h": 231,
+            "path": "avif/ape-with-fishing-rod-256.avif",
+            "sha256": "04cb5ae7b2a6b35f268d7053a1489708948ffe66d2ae0a6d2c4ad2c68d098b77",
+            "w": 256
+          },
+          {
+            "bytes": 12130,
+            "h": 347,
+            "path": "avif/ape-with-fishing-rod-384.avif",
+            "sha256": "b2af398b8228578ab36d4802513ba8803b218af576cd0b3338f00e777e87a3ba",
+            "w": 384
+          },
+          {
+            "bytes": 16895,
+            "h": 462,
+            "path": "avif/ape-with-fishing-rod-512.avif",
+            "sha256": "44957c8dce78973c66ee9c63b23d9092d30c560a9edb56cce039dde459d1a466",
+            "w": 512
+          },
+          {
+            "bytes": 23510,
+            "h": 666,
+            "path": "avif/ape-with-fishing-rod-738.avif",
+            "sha256": "4482dbb8b9afe3b38f9634caf5fe0c93e8a2769c6dcd09d27c1b94c15368a5a3",
+            "w": 738
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2430,
+            "h": 58,
+            "path": "webp/ape-with-fishing-rod-64.webp",
+            "sha256": "43aa9f5a5c1bbc81b012a3052152555d752e7e4f6a29c9b9bbe0d4497d604b57",
+            "w": 64
+          },
+          {
+            "bytes": 3952,
+            "h": 87,
+            "path": "webp/ape-with-fishing-rod-96.webp",
+            "sha256": "f5c2c02ea08e293c9259f564e674a8f62629373ffba52a2c891ad7c3a31a37b5",
+            "w": 96
+          },
+          {
+            "bytes": 5728,
+            "h": 116,
+            "path": "webp/ape-with-fishing-rod-128.webp",
+            "sha256": "2299292a9d99236e38d7d9b997173d273df6a15c770aeed1f3819605d5d6b102",
+            "w": 128
+          },
+          {
+            "bytes": 9360,
+            "h": 173,
+            "path": "webp/ape-with-fishing-rod-192.webp",
+            "sha256": "6ffabcbc0b6eb59fdab7daead3684781685cd538fc1bd97aab5980f47ade28bd",
+            "w": 192
+          },
+          {
+            "bytes": 13336,
+            "h": 231,
+            "path": "webp/ape-with-fishing-rod-256.webp",
+            "sha256": "e30014b3df0283f4e1b5bee93e334c7b2f1f027a362b109440da6c9e4e974a17",
+            "w": 256
+          },
+          {
+            "bytes": 21404,
+            "h": 347,
+            "path": "webp/ape-with-fishing-rod-384.webp",
+            "sha256": "bbdfe17805c196172e189dc28781c16737f1a72ee54ab55a66a014345f40e5c6",
+            "w": 384
+          },
+          {
+            "bytes": 29794,
+            "h": 462,
+            "path": "webp/ape-with-fishing-rod-512.webp",
+            "sha256": "d758d28dc00561f4c97fd968a6b7fd7d62de789f54ae8a3bd14aea3b2c05b024",
+            "w": 512
+          },
+          {
+            "bytes": 37626,
+            "h": 666,
+            "path": "webp/ape-with-fishing-rod-738.webp",
+            "sha256": "7eb50c7ccb63141c7994e9fd698a1c2b97d25ea0873f70e1d6e19dd3844f1739",
+            "w": 738
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "ape",
+        "rod",
+        "drollery"
+      ],
+      "thumbhash": "WzmCBYAj6ganmiCxqL+88WwYfzNmdlN4eA==",
+      "title": "Crouching ape holding a fishing rod",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The ape of hairy-hunter-and-diving-bird-pond-scene; the line of the rod ends in the air, so point it at water or at diving-long-beaked-waterbird as on the leaf."
+      ],
+      "view": "side",
+      "width": 738
+    },
+    "diving-long-beaked-waterbird": {
+      "categories": [
+        "animals"
+      ],
+      "colors": [
+        "brown",
+        "gray",
+        "gold",
+        "tan"
+      ],
+      "composition": "single-figure",
+      "description": "A grey-brown waterbird with a long pointed beak plunges head first towards the lower left, both wings raised over its back with gold feather hatching and its two long gold legs trailing behind to the right. The breast is pale grey, the head dark with a small gold-ringed eye. Cut from the pond miniature of the leaf; the background is transparent.",
+      "display_width": [
+        200,
+        700
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 19762,
+        "webpTopBytes": 30316
+      },
+      "facing": "left",
+      "group": null,
+      "height": 588,
+      "master": {
+        "bytes": 135218,
+        "h": 588,
+        "path": "masters/diving-long-beaked-waterbird.webp",
+        "sha256": "31b0b00e2851a4150f437d2f84e451996d557bee817bc1631dbb48fe520f6a72",
+        "w": 724
+      },
+      "palette": [
+        "#554734",
+        "#867251",
+        "#979177",
+        "#b5aa8f",
+        "#c6c4aa"
+      ],
+      "provenance": {
+        "date": "c. 1500–1510",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2006.13.b/2006.13.b_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2006.13.b",
+        "object_title": "Leaf from a Book of Hours: Ape Fishing (verso)",
+        "record_url": "https://clevelandart.org/art/2006.13.b",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "322f38d25a86c70b91250334aa623d87403eaf9f2b3a4544e69a80de17ba733f"
+      },
+      "quality": "The paint is thin and worn on the breast and wing edges, with parchment showing through.",
+      "related": [
+        {
+          "asset": "cma-2006-13/ape-fishing-pond-scene",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2006-13/ape-with-fishing-rod",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1687,
+            "h": 52,
+            "path": "avif/diving-long-beaked-waterbird-64.avif",
+            "sha256": "8e1e16970df9034e5f9ddfc26970bf9b3e620fab7d9839e84c91d3bb5f23c318",
+            "w": 64
+          },
+          {
+            "bytes": 2778,
+            "h": 78,
+            "path": "avif/diving-long-beaked-waterbird-96.avif",
+            "sha256": "37310a33f75bd499d7782abd1f6404c6a8b0075de75703f640161781a5b1e020",
+            "w": 96
+          },
+          {
+            "bytes": 3604,
+            "h": 104,
+            "path": "avif/diving-long-beaked-waterbird-128.avif",
+            "sha256": "0eff1dbce3992d19c4cd77574e5b382fc33e8ff6ca64e78f0c9e3aa5412b3c49",
+            "w": 128
+          },
+          {
+            "bytes": 5566,
+            "h": 156,
+            "path": "avif/diving-long-beaked-waterbird-192.avif",
+            "sha256": "e02a0f95387d05cd7cfc6b196dc4afd420111d5b96862dff962c4ff77eac3237",
+            "w": 192
+          },
+          {
+            "bytes": 7391,
+            "h": 208,
+            "path": "avif/diving-long-beaked-waterbird-256.avif",
+            "sha256": "c1a7b5adcc47a019ac2a5c5831fa8682d12254d556f773de2d872563ad7c498f",
+            "w": 256
+          },
+          {
+            "bytes": 10386,
+            "h": 312,
+            "path": "avif/diving-long-beaked-waterbird-384.avif",
+            "sha256": "a22bf306e8725923d4549f060c036afb50ae4800a158dba1f8abecb2d752d01b",
+            "w": 384
+          },
+          {
+            "bytes": 14406,
+            "h": 416,
+            "path": "avif/diving-long-beaked-waterbird-512.avif",
+            "sha256": "babe2459be45f7d8f5c0826ba2f8bd98d3db750b17e38313c1abc8069656230a",
+            "w": 512
+          },
+          {
+            "bytes": 19762,
+            "h": 588,
+            "path": "avif/diving-long-beaked-waterbird-724.avif",
+            "sha256": "e33b71e3036a0f9b49beb8f5a5874f47698af153b0aa50bf574f0fbfe1fd93a0",
+            "w": 724
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2044,
+            "h": 52,
+            "path": "webp/diving-long-beaked-waterbird-64.webp",
+            "sha256": "4b25012805c4cc58ff925d67ee5cc5ba7350fc5b213f323e79773359157c635b",
+            "w": 64
+          },
+          {
+            "bytes": 3314,
+            "h": 78,
+            "path": "webp/diving-long-beaked-waterbird-96.webp",
+            "sha256": "179ed01d2a0511113709ecb1a5467fc17445bf55e5dc9e2d8aa63a98992ad3c1",
+            "w": 96
+          },
+          {
+            "bytes": 4896,
+            "h": 104,
+            "path": "webp/diving-long-beaked-waterbird-128.webp",
+            "sha256": "a1b323bb4d97b858b5e659ae3a58ab32c54e78de22fa3e566c56f5fbfc89f86b",
+            "w": 128
+          },
+          {
+            "bytes": 8202,
+            "h": 156,
+            "path": "webp/diving-long-beaked-waterbird-192.webp",
+            "sha256": "2cf06f351ec1740a38272c229606671ab3f32cd4b667a4247c85304394dc3adc",
+            "w": 192
+          },
+          {
+            "bytes": 11678,
+            "h": 208,
+            "path": "webp/diving-long-beaked-waterbird-256.webp",
+            "sha256": "bef0ccbe7efd39329c7ba080a6083130316beb0f1a58dc95e1356735e453fa68",
+            "w": 256
+          },
+          {
+            "bytes": 17952,
+            "h": 312,
+            "path": "webp/diving-long-beaked-waterbird-384.webp",
+            "sha256": "8fe0723da077c70795127fe86165df80a92b1020128acf64eefee3a7a2355c02",
+            "w": 384
+          },
+          {
+            "bytes": 24702,
+            "h": 416,
+            "path": "webp/diving-long-beaked-waterbird-512.webp",
+            "sha256": "510beccef3778d8f3dfad7a9a2868a95ba4ccc2bc1a04cb47d5772ffb804d0f4",
+            "w": 512
+          },
+          {
+            "bytes": 30316,
+            "h": 588,
+            "path": "webp/diving-long-beaked-waterbird-724.webp",
+            "sha256": "540262752de6111b72eed6e6592ccda0de599e91d6c31a0af398c17b1e4b8353",
+            "w": 724
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "bird",
+        "wings"
+      ],
+      "thumbhash": "2RiCBIATaYmQW6XppQp4W2Uf0JiEGqyzAw==",
+      "title": "Long-beaked waterbird diving head first",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The bird of hairy-hunter-and-diving-bird-pond-scene, painted diving into water; it reads best with its beak just above a surface or an edge."
+      ],
+      "view": "side",
+      "width": 724
+    },
+    "finite-gold-foliate-wave-on-blue-red-line-filler": {
+      "categories": [
+        "floral",
+        "scrollwork"
+      ],
+      "colors": [
+        "blue",
+        "red",
+        "gold"
+      ],
+      "composition": "single-ornament",
+      "description": "A short horizontal line filler. A gold stem waves along a narrow bar whose left half is blue and right half red-brown, throwing gold leaves above and below, with a small gold curl hanging under the blue half at the left end. The ends are finite and slightly ragged; the painted bar is opaque and the background is transparent.",
+      "display_width": [
+        300,
+        633
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 9790,
+        "webpTopBytes": 14102
+      },
+      "facing": "none",
+      "group": null,
+      "height": 128,
+      "master": {
+        "bytes": 64786,
+        "h": 128,
+        "path": "masters/finite-gold-foliate-wave-on-blue-red-line-filler.webp",
+        "sha256": "b6674d1cb9572b24bf42ba5015e8856eb04170f40e3196f1745cab68ceaf4d41",
+        "w": 633
+      },
+      "palette": [
+        "#af9e7e",
+        "#75584a",
+        "#a17a53",
+        "#335a82",
+        "#586a7c"
+      ],
+      "provenance": {
+        "date": "c. 1500–1510",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2006.13.b/2006.13.b_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2006.13.b",
+        "object_title": "Leaf from a Book of Hours: Ape Fishing (verso)",
+        "record_url": "https://clevelandart.org/art/2006.13.b",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "322f38d25a86c70b91250334aa623d87403eaf9f2b3a4544e69a80de17ba733f"
+      },
+      "quality": "Only 128 px tall, so it softens when enlarged; the painted ends are ragged.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1098,
+            "h": 13,
+            "path": "avif/finite-gold-foliate-wave-on-blue-red-line-filler-64.avif",
+            "sha256": "545cb858b6f25bba4d669162d2e4fa0b51dfff8954a55ee6385de781cd8ffa8d",
+            "w": 64
+          },
+          {
+            "bytes": 1558,
+            "h": 19,
+            "path": "avif/finite-gold-foliate-wave-on-blue-red-line-filler-96.avif",
+            "sha256": "87a8a7d6c5aa5b4d4cb505008af11d6b96f96d0359dadc75aa1a88b96bd1829f",
+            "w": 96
+          },
+          {
+            "bytes": 2219,
+            "h": 26,
+            "path": "avif/finite-gold-foliate-wave-on-blue-red-line-filler-128.avif",
+            "sha256": "8809e32bc6de22481b52c8eecd9df501a72ccf6f117caa69d2be8e837cc0cdca",
+            "w": 128
+          },
+          {
+            "bytes": 2995,
+            "h": 39,
+            "path": "avif/finite-gold-foliate-wave-on-blue-red-line-filler-192.avif",
+            "sha256": "430df6671325456b2dba449f19faebe83d5abad62b4daa69b8f28ffdb9b2f0bd",
+            "w": 192
+          },
+          {
+            "bytes": 4080,
+            "h": 52,
+            "path": "avif/finite-gold-foliate-wave-on-blue-red-line-filler-256.avif",
+            "sha256": "553745b4111a96919efa212e343c37224a9f84c051856ea81a76fc81dafab7a4",
+            "w": 256
+          },
+          {
+            "bytes": 6176,
+            "h": 78,
+            "path": "avif/finite-gold-foliate-wave-on-blue-red-line-filler-384.avif",
+            "sha256": "f558f54f87201b1b96389e65cb1bc88b4e5973b4d917ce29ed5b31d4e01e492c",
+            "w": 384
+          },
+          {
+            "bytes": 8710,
+            "h": 104,
+            "path": "avif/finite-gold-foliate-wave-on-blue-red-line-filler-512.avif",
+            "sha256": "e540c88fb389a5679184b070a991eb7a7403b9f001f5ce2cd27578fbf5d323a0",
+            "w": 512
+          },
+          {
+            "bytes": 9790,
+            "h": 128,
+            "path": "avif/finite-gold-foliate-wave-on-blue-red-line-filler-633.avif",
+            "sha256": "75bae6c97e7ae120f151914789bdf3e4ef1e6e2c0095d0d4dd9b3ec4fc902514",
+            "w": 633
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1132,
+            "h": 13,
+            "path": "webp/finite-gold-foliate-wave-on-blue-red-line-filler-64.webp",
+            "sha256": "3f343ad2cc9be0a117fba8af06ddf7c84e06af4224817f53fff4765711ff7504",
+            "w": 64
+          },
+          {
+            "bytes": 1732,
+            "h": 19,
+            "path": "webp/finite-gold-foliate-wave-on-blue-red-line-filler-96.webp",
+            "sha256": "9b403c08a798f922cc7705369a2e37e693e440ce2998c4680cff8d5c9aec37cb",
+            "w": 96
+          },
+          {
+            "bytes": 2780,
+            "h": 26,
+            "path": "webp/finite-gold-foliate-wave-on-blue-red-line-filler-128.webp",
+            "sha256": "752ce3ecca704163ebf69173bc0429808b8ace4c9d70f58c47ee00a54291b51b",
+            "w": 128
+          },
+          {
+            "bytes": 4470,
+            "h": 39,
+            "path": "webp/finite-gold-foliate-wave-on-blue-red-line-filler-192.webp",
+            "sha256": "829872fdc094742fa3ed51c174425bff8fc6654cd1a3eefd58cf4f11f4b0eeb0",
+            "w": 192
+          },
+          {
+            "bytes": 6590,
+            "h": 52,
+            "path": "webp/finite-gold-foliate-wave-on-blue-red-line-filler-256.webp",
+            "sha256": "5bf6949f78b52d8ba087f0c0a7a1482351b4a4fd5a264e957b48c66f33a10fec",
+            "w": 256
+          },
+          {
+            "bytes": 10540,
+            "h": 78,
+            "path": "webp/finite-gold-foliate-wave-on-blue-red-line-filler-384.webp",
+            "sha256": "c632c8413b6d9d86926932cbb2302e2ffc6be9e9c8544f2d768980e0e8e681ce",
+            "w": 384
+          },
+          {
+            "bytes": 14406,
+            "h": 104,
+            "path": "webp/finite-gold-foliate-wave-on-blue-red-line-filler-512.webp",
+            "sha256": "27dac239d272d12b0bbbff02674d335db9a4bd29831e29c3df1c4c1614122b5b",
+            "w": 512
+          },
+          {
+            "bytes": 14102,
+            "h": 128,
+            "path": "webp/finite-gold-foliate-wave-on-blue-red-line-filler-633.webp",
+            "sha256": "281c651faceae10262780719c32e36eaf9d8faf0c341dd65aa5dabc01d3c0214",
+            "w": 633
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "leaf",
+        "vine",
+        "rule"
+      ],
+      "thumbhash": "nBiCGYQ5YH80drdgSAeGdHh4f3dzaIg=",
+      "title": "Gold leaf wave on blue and red line filler",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "A text-line filler, use it to close a short line or as a small divider at native width; it does not repeat."
+      ],
+      "width": 633
+    },
+    "gold-columned-pond-frame": {
+      "categories": [
+        "geometric"
+      ],
+      "colors": [
+        "gold",
+        "tan",
+        "brown"
+      ],
+      "composition": "single-ornament",
+      "description": "The architectural frame of the pond miniature with its interior removed. A wide horizontal rectangle bounded by two gold columns with spiral-scroll capitals and bases, a thin gold bar with a red-brown rule along the top and a slightly deeper gold plinth bar along the bottom. The gold is worn and shows green and tan ground in places. Only the paint is opaque; the interior and the surround are transparent.",
+      "display_width": [
+        600,
+        1600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 73336,
+        "webpTopBytes": 117378
+      },
+      "facing": "none",
+      "group": null,
+      "height": 902,
+      "master": {
+        "bytes": 581156,
+        "h": 688,
+        "path": "masters/gold-columned-pond-frame.webp",
+        "sha256": "500c5aac1302b4fba2ed258ad27e0e9d8a72d7f5a977935940ae893b473513ea",
+        "w": 2048
+      },
+      "palette": [
+        "#a77f51",
+        "#ae9671",
+        "#c0a176",
+        "#90734b",
+        "#7c5230"
+      ],
+      "provenance": {
+        "date": "c. 1500–1510",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2006.13.b/2006.13.b_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2006.13.b",
+        "object_title": "Leaf from a Book of Hours: Ape Fishing (verso)",
+        "record_url": "https://clevelandart.org/art/2006.13.b",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "322f38d25a86c70b91250334aa623d87403eaf9f2b3a4544e69a80de17ba733f"
+      },
+      "quality": "Not quite rectangular as painted, the bars slope and the columns lean, and the gold is worn through to the ground along the bars.",
+      "related": [
+        {
+          "asset": "cma-2006-13/ape-fishing-pond-scene",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1043,
+            "h": 22,
+            "path": "avif/gold-columned-pond-frame-64.avif",
+            "sha256": "154e02861733d7c796bdf044a0922c3243621032d78cd3c5a84a7b4a2be59c52",
+            "w": 64
+          },
+          {
+            "bytes": 1422,
+            "h": 32,
+            "path": "avif/gold-columned-pond-frame-96.avif",
+            "sha256": "e4feb8b069d566e8dd9710079c6e9aabca082d6be42019fdd8de26fc8f663cdc",
+            "w": 96
+          },
+          {
+            "bytes": 2125,
+            "h": 43,
+            "path": "avif/gold-columned-pond-frame-128.avif",
+            "sha256": "55cfcd64b771459e84890821325b416a30a0a6a8e680ee8b064a50b709dedd40",
+            "w": 128
+          },
+          {
+            "bytes": 3166,
+            "h": 65,
+            "path": "avif/gold-columned-pond-frame-192.avif",
+            "sha256": "87b2b926fe3b26e0c1961616184a3d5b849daeb2f287efc617647c020ba32fa7",
+            "w": 192
+          },
+          {
+            "bytes": 5037,
+            "h": 86,
+            "path": "avif/gold-columned-pond-frame-256.avif",
+            "sha256": "c35d6d9fc93afdea33033dc84aff7723218abbbdf353322075e5c3f7a1e55a6d",
+            "w": 256
+          },
+          {
+            "bytes": 8772,
+            "h": 129,
+            "path": "avif/gold-columned-pond-frame-384.avif",
+            "sha256": "b8ff130b7ea817b13ca52707b6a8426982ed2aca440b20c21bc6aff5e865f872",
+            "w": 384
+          },
+          {
+            "bytes": 13269,
+            "h": 172,
+            "path": "avif/gold-columned-pond-frame-512.avif",
+            "sha256": "9be35079a0d7cd6746baea115d32b03748ab659c22090c196018b0ada1a0a0ec",
+            "w": 512
+          },
+          {
+            "bytes": 23034,
+            "h": 258,
+            "path": "avif/gold-columned-pond-frame-768.avif",
+            "sha256": "2e8611cdab795e9f2475331d95ee12ecdd0e52e4ee569e5241ac9d1a563d6b0d",
+            "w": 768
+          },
+          {
+            "bytes": 34402,
+            "h": 344,
+            "path": "avif/gold-columned-pond-frame-1024.avif",
+            "sha256": "cc82b801c3d534931813547581c93a894556d29951bc44fcdf250abe6469aeac",
+            "w": 1024
+          },
+          {
+            "bytes": 51183,
+            "h": 516,
+            "path": "avif/gold-columned-pond-frame-1536.avif",
+            "sha256": "ccfc8aac08d727b29023346c44d9c0538f3896d8c20a2d86ba58217e29af1d38",
+            "w": 1536
+          },
+          {
+            "bytes": 73336,
+            "h": 688,
+            "path": "avif/gold-columned-pond-frame-2048.avif",
+            "sha256": "487da56655a70deb67722334fc9c7947b41ea4838899a85659ce364cdebf22a9",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1316,
+            "h": 22,
+            "path": "webp/gold-columned-pond-frame-64.webp",
+            "sha256": "bf43b92f16d4f45ed65a860ce45fcdae6e88f734d5fc852ed9e09593ba163d19",
+            "w": 64
+          },
+          {
+            "bytes": 1980,
+            "h": 32,
+            "path": "webp/gold-columned-pond-frame-96.webp",
+            "sha256": "ab50c9cfa4981bcdf7f88a65b2f0f4b077313e9a1fe33ac477c9936c49ee1400",
+            "w": 96
+          },
+          {
+            "bytes": 3404,
+            "h": 43,
+            "path": "webp/gold-columned-pond-frame-128.webp",
+            "sha256": "3c862c236d44745374ac26bf4f39e0e637279921edab73bb9640dc437b30267f",
+            "w": 128
+          },
+          {
+            "bytes": 5530,
+            "h": 65,
+            "path": "webp/gold-columned-pond-frame-192.webp",
+            "sha256": "30fe63bb15a5556fda3cdc25e32f594ecc7f4fa495e3e885f700cd3cc7622041",
+            "w": 192
+          },
+          {
+            "bytes": 8560,
+            "h": 86,
+            "path": "webp/gold-columned-pond-frame-256.webp",
+            "sha256": "717358fbd5f0bde33b99bb92d102ecf5a4dd1d687b917ed0773751fd61583215",
+            "w": 256
+          },
+          {
+            "bytes": 14624,
+            "h": 129,
+            "path": "webp/gold-columned-pond-frame-384.webp",
+            "sha256": "c668afba7d15a53d7a4d117be7b2b1eb05ab7074b768af804261d1cb6655cbb5",
+            "w": 384
+          },
+          {
+            "bytes": 21154,
+            "h": 172,
+            "path": "webp/gold-columned-pond-frame-512.webp",
+            "sha256": "b7ff9e3d437f2d17354558d956f83553080b3854881a64664b7b3b0818db3baa",
+            "w": 512
+          },
+          {
+            "bytes": 37058,
+            "h": 258,
+            "path": "webp/gold-columned-pond-frame-768.webp",
+            "sha256": "7bbcec1289234f30a2b7f94f151b3d0b104e55b5fe7a23f2ec7a80d8de3f1668",
+            "w": 768
+          },
+          {
+            "bytes": 52612,
+            "h": 344,
+            "path": "webp/gold-columned-pond-frame-1024.webp",
+            "sha256": "b56e986e42918301abc201a0116df30b9e621f93628be65c1e549cea167dc1af",
+            "w": 1024
+          },
+          {
+            "bytes": 82228,
+            "h": 516,
+            "path": "webp/gold-columned-pond-frame-1536.webp",
+            "sha256": "b5ba676f53a417a298bca1cf01090690950dc8199d766d0fb96edaf4cba65e14",
+            "w": 1536
+          },
+          {
+            "bytes": 117378,
+            "h": 688,
+            "path": "webp/gold-columned-pond-frame-2048.webp",
+            "sha256": "4f0e613716390253f4cd2ae689b1aa7728b748bbf5553fa171b9ce2933cb1bc0",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "frame",
+        "column",
+        "capital",
+        "architecture"
+      ],
+      "thumbhash": "oDmCAoAkP11seZv4dnN/OPfXhoh9dpg=",
+      "title": "Gold columned frame of the pond miniature",
+      "transparent": true,
+      "type": "frame",
+      "usage_notes": [
+        "Fixed picture frame, scaled as a whole with content placed in its transparent interior; the top and bottom bars are thin and the two columns differ, so it is not a border-image."
+      ],
+      "width": 2685
+    },
+    "red-blue-gold-acanthus-and-green-leaf-l-border": {
+      "categories": [
+        "floral",
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "gold",
+        "blue",
+        "red",
+        "green"
+      ],
+      "composition": "single-ornament",
+      "description": "An L-shaped page border along the top and right edges with its vertex at the top right. The top bar is a gold band speckled with black dots carrying green leaf sprigs, a red-brown caterpillar and a red fruit with a green calyx, ending in blue and red-brown acanthus curls at the left. The vertex is a knot of blue, red and gold acanthus. The long right bar alternates diagonal panels of speckled gold with green leaves, a blue flower, a red flower and red buds against openwork sections of blue and gold acanthus scrolls. The background is transparent.",
+      "display_width": [
+        600,
+        1500
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 269085,
+        "webpTopBytes": 527236
+      },
+      "facing": "down",
+      "group": null,
+      "height": 3484,
+      "master": {
+        "bytes": 1436300,
+        "h": 2048,
+        "path": "masters/red-blue-gold-acanthus-and-green-leaf-l-border.webp",
+        "sha256": "0472ddbc63353ce3f5296e33f62cbe24970fe9f0f83291cc0cf635e69991d325",
+        "w": 1572
+      },
+      "palette": [
+        "#a88860",
+        "#bda36e",
+        "#827352",
+        "#54748d",
+        "#7e847f"
+      ],
+      "provenance": {
+        "date": "c. 1500–1510",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2006.13.b/2006.13.b_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2006.13.b",
+        "object_title": "Leaf from a Book of Hours: Ape Fishing (verso)",
+        "record_url": "https://clevelandart.org/art/2006.13.b",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "322f38d25a86c70b91250334aa623d87403eaf9f2b3a4544e69a80de17ba733f"
+      },
+      "quality": "The inner edge of the right bar is cut around the acanthus scrolls, so the bar is not straight-sided; the arms were cut where the page's text block began.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2627,
+            "h": 83,
+            "path": "avif/red-blue-gold-acanthus-and-green-leaf-l-border-64.avif",
+            "sha256": "d4500cfcf58c0ea7cf0e4c83a54edcd39cc1102d4842acb0e334309dff9bcaf3",
+            "w": 64
+          },
+          {
+            "bytes": 4321,
+            "h": 125,
+            "path": "avif/red-blue-gold-acanthus-and-green-leaf-l-border-96.avif",
+            "sha256": "85aa8c3ffc8138fe19dfb35c7261c718271112b03219e8a3cc9936d0bc8a8f8d",
+            "w": 96
+          },
+          {
+            "bytes": 6575,
+            "h": 167,
+            "path": "avif/red-blue-gold-acanthus-and-green-leaf-l-border-128.avif",
+            "sha256": "5f9e4f5cdbd7ea6565eedbdf6cb6abf0b4c3f5b2f9e301ffef1babf44c19d836",
+            "w": 128
+          },
+          {
+            "bytes": 10991,
+            "h": 250,
+            "path": "avif/red-blue-gold-acanthus-and-green-leaf-l-border-192.avif",
+            "sha256": "dc14c8aafb14cfc05ead22c1e1ec29cb1262c02f584a84c9754c8eefc7fe5547",
+            "w": 192
+          },
+          {
+            "bytes": 16619,
+            "h": 334,
+            "path": "avif/red-blue-gold-acanthus-and-green-leaf-l-border-256.avif",
+            "sha256": "7b9f56e975e5e1bf75b19cf274abe44afdab34ed883a647d26655de56f7e694a",
+            "w": 256
+          },
+          {
+            "bytes": 28446,
+            "h": 500,
+            "path": "avif/red-blue-gold-acanthus-and-green-leaf-l-border-384.avif",
+            "sha256": "998e5f212c35e56b0ff2fb709a8fb801173961c52be09fcbacd2c48220d4ea32",
+            "w": 384
+          },
+          {
+            "bytes": 43521,
+            "h": 667,
+            "path": "avif/red-blue-gold-acanthus-and-green-leaf-l-border-512.avif",
+            "sha256": "638eee2d88226bb79c8f2a6cc15fa463fa031241d022d85233d08947fee2580b",
+            "w": 512
+          },
+          {
+            "bytes": 72188,
+            "h": 1001,
+            "path": "avif/red-blue-gold-acanthus-and-green-leaf-l-border-768.avif",
+            "sha256": "68654c3e2a1bf071f1868abe3f1496dc31f256fd60b17f4c4717ac73b2d3632b",
+            "w": 768
+          },
+          {
+            "bytes": 106586,
+            "h": 1334,
+            "path": "avif/red-blue-gold-acanthus-and-green-leaf-l-border-1024.avif",
+            "sha256": "786a48ed1f0c67c835a065c5adc29d69df01fde71dfb6106cdf550543ba5b73c",
+            "w": 1024
+          },
+          {
+            "bytes": 184562,
+            "h": 2001,
+            "path": "avif/red-blue-gold-acanthus-and-green-leaf-l-border-1536.avif",
+            "sha256": "e049c45473ea7b7a749bdcdb2492b51c0131f249aa54f7d2642ac91fac6ddc7d",
+            "w": 1536
+          },
+          {
+            "bytes": 269085,
+            "h": 2668,
+            "path": "avif/red-blue-gold-acanthus-and-green-leaf-l-border-2048.avif",
+            "sha256": "1e6967d89bb9972f06c888697c30e2e90876d79c7b15a68ef8270e6d8d833dcf",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3152,
+            "h": 83,
+            "path": "webp/red-blue-gold-acanthus-and-green-leaf-l-border-64.webp",
+            "sha256": "b90e161ecff14748767a49e3e1444ade5a19053f313cecfdbd387d232ad88a52",
+            "w": 64
+          },
+          {
+            "bytes": 5566,
+            "h": 125,
+            "path": "webp/red-blue-gold-acanthus-and-green-leaf-l-border-96.webp",
+            "sha256": "0eca5b3aac4cd27da27c5d8c066d885d459162482d87e9237d327aa163ebbaba",
+            "w": 96
+          },
+          {
+            "bytes": 8754,
+            "h": 167,
+            "path": "webp/red-blue-gold-acanthus-and-green-leaf-l-border-128.webp",
+            "sha256": "bc2d4983ef6e34f01f543017b9deb69a2da466a6074a2b1c4e95f2f87fb63188",
+            "w": 128
+          },
+          {
+            "bytes": 16130,
+            "h": 250,
+            "path": "webp/red-blue-gold-acanthus-and-green-leaf-l-border-192.webp",
+            "sha256": "b780b8d9a9cb1543dccc0fb940ed18fca8e85749f2cd8e154e741c814904da8c",
+            "w": 192
+          },
+          {
+            "bytes": 25386,
+            "h": 334,
+            "path": "webp/red-blue-gold-acanthus-and-green-leaf-l-border-256.webp",
+            "sha256": "ecd4b5c17ef8427b7e8a010a730d24df29b2ba4730689db84891c9543067d6dd",
+            "w": 256
+          },
+          {
+            "bytes": 47750,
+            "h": 500,
+            "path": "webp/red-blue-gold-acanthus-and-green-leaf-l-border-384.webp",
+            "sha256": "a93eaf8b5c8daa8e6720930e9c0f376fd43ec52b9a77457ad6c75a186ca2edb2",
+            "w": 384
+          },
+          {
+            "bytes": 74018,
+            "h": 667,
+            "path": "webp/red-blue-gold-acanthus-and-green-leaf-l-border-512.webp",
+            "sha256": "40bb7a28b47847ed47446902c6eea0bf848c0bcd3d208e557311456a98515e03",
+            "w": 512
+          },
+          {
+            "bytes": 131720,
+            "h": 1001,
+            "path": "webp/red-blue-gold-acanthus-and-green-leaf-l-border-768.webp",
+            "sha256": "e9b10cb2583221523cd85dd3f7be14be21dfeb29c7bb4925ba341243d96c4a3f",
+            "w": 768
+          },
+          {
+            "bytes": 197206,
+            "h": 1334,
+            "path": "webp/red-blue-gold-acanthus-and-green-leaf-l-border-1024.webp",
+            "sha256": "7e987fb96c71ebd3e71db509d699734eadca2c21bd0ac0f4eafcfff86613094a",
+            "w": 1024
+          },
+          {
+            "bytes": 350106,
+            "h": 2001,
+            "path": "webp/red-blue-gold-acanthus-and-green-leaf-l-border-1536.webp",
+            "sha256": "aa7b63d2c732f72cfd71f71a5fd9b99ae24ee2f2631cca250b419146e6da129b",
+            "w": 1536
+          },
+          {
+            "bytes": 527236,
+            "h": 2668,
+            "path": "webp/red-blue-gold-acanthus-and-green-leaf-l-border-2048.webp",
+            "sha256": "22be33030015a08b0773487db55373fb41407c10761e7c4cbf03a3e09c94c321",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "acanthus",
+        "leaf",
+        "flower",
+        "fruit",
+        "bud",
+        "insect",
+        "margin"
+      ],
+      "thumbhash": "IBmCBAAjpXalVpfAoXL5SmwPbLZ4t3iKCg==",
+      "title": "Acanthus and flower L-border, top and right",
+      "transparent": true,
+      "type": "corner",
+      "usage_notes": [
+        "Fixed L-border for the top-right of a page; the top bar is short and the right bar long, so place the vertex at the corner and let the arms set the margins. It does not repeat."
+      ],
+      "width": 2674
+    }
+  },
+  "attribution": "Cleveland Museum of Art 2006.13.b",
+  "builtAt": "2026-10-30T12:40:38.780Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-cma-2006-13@1.0.0/",
+  "contentHash": "sha256:c9a32291209873ab6fe6361b4b19d272e1b40cbde9578ddec68bf3f3a374d236",
+  "inputsHash": "sha256:6ec5e55280813d125a3084636f3b309aac6c69538a89c76f13f6ed80fa6ecb11",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from Cleveland Museum of Art open access (CC0) images; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-cma-2006-13-masters",
+  "package": "@ranx729/ducktape-assets-cma-2006-13",
+  "period": "c. 1500–1510",
+  "region": "Paris or Rouen, France",
+  "schema": 1,
+  "set": "cma-2006-13",
+  "style": "late Gothic illumination",
+  "summary": "An ape fishing, a hairy hunter, birds and the gold-columned pond frame of a Book of Hours leaf painted in Paris or Rouen about 1500–1510, in the Cleveland Museum of Art.",
+  "title": "Cleveland 2006.13, Ape Fishing leaf",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

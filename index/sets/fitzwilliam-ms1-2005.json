@@ -1,0 +1,238 @@
+{
+  "assets": {
+    "rabbit-horn-hound-rider": {
+      "attribution": "Fitzwilliam Museum MS 1-2005; Macclesfield Psalter, fol. 115v",
+      "categories": [
+        "animals",
+        "fantasy",
+        "music"
+      ],
+      "colors": [
+        "brown",
+        "red",
+        "cream",
+        "gray",
+        "gold"
+      ],
+      "composition": "multiple-figures",
+      "description": "A russet rabbit in a short red belted tunic sits astride a trotting gray-and-white hound facing right, holding the reins in one paw and blowing a curved gold hunting horn with the other; the hound wears a gold collar and its long tail curls up behind. Painted in a stippled manuscript manner with thin brown contours; the background is transparent.",
+      "display_width": [
+        300,
+        1024
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 98550,
+        "webpTopBytes": 206086
+      },
+      "facing": "right",
+      "group": null,
+      "height": 843,
+      "master": {
+        "bytes": 603604,
+        "h": 843,
+        "path": "masters/rabbit-horn-hound-rider.webp",
+        "sha256": "842fe914818ba93c887aea2ef7fb664ec1630c47f8bf02f9826b7143984789bf",
+        "w": 1024
+      },
+      "palette": [
+        "#764c2c",
+        "#7d6e5d",
+        "#d5bb97",
+        "#a76e44",
+        "#b19776"
+      ],
+      "provenance": {
+        "date": "ca. 1330-1340",
+        "institution": "Fitzwilliam Museum",
+        "method": "independent-ai-interpretation",
+        "object_identifier": "MS 1-2005; Macclesfield Psalter, fol. 115v",
+        "object_title": "Rabbit blowing a hunting horn and riding a hound",
+        "record_url": "https://www.fitzmuseum.cam.ac.uk/illuminated/manuscript/discover/the-macclesfield-psalter/folio/folio-115v-294",
+        "rights_text": "Restricted reference image; no scan used",
+        "rights_url": "https://fitzmuseum.cam.ac.uk/about-us/terms-of-use-of-our-website"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2561,
+            "h": 53,
+            "path": "avif/rabbit-horn-hound-rider-64.avif",
+            "sha256": "9df6fbe5a97e8ad7624d2ddda6bb692c2e487eda8f549e53379a42504ecefa9f",
+            "w": 64
+          },
+          {
+            "bytes": 3825,
+            "h": 79,
+            "path": "avif/rabbit-horn-hound-rider-96.avif",
+            "sha256": "5a093339a1074fd69fad3549481a5b9fe9c70af94563d5e1d0753be4cc20bde5",
+            "w": 96
+          },
+          {
+            "bytes": 4965,
+            "h": 105,
+            "path": "avif/rabbit-horn-hound-rider-128.avif",
+            "sha256": "9b17e05b40938b5d640d27c438fbb2651506b6e4a5cf166c4556a927f94eb5ab",
+            "w": 128
+          },
+          {
+            "bytes": 7808,
+            "h": 158,
+            "path": "avif/rabbit-horn-hound-rider-192.avif",
+            "sha256": "68d659ebdd457e15d7cca7fa847df4f4c2a99aaceda6d6225b61e7852f7ebf4a",
+            "w": 192
+          },
+          {
+            "bytes": 11595,
+            "h": 211,
+            "path": "avif/rabbit-horn-hound-rider-256.avif",
+            "sha256": "67dc8ffb7ca53660c8cfaa1e6c9714b9c78b3a0d92ecd76d8699ecd7acd6da70",
+            "w": 256
+          },
+          {
+            "bytes": 21396,
+            "h": 316,
+            "path": "avif/rabbit-horn-hound-rider-384.avif",
+            "sha256": "b5af0b23c2de9e12452910d97933c1fc032441f9b4bd4aeae9e6eff41424e961",
+            "w": 384
+          },
+          {
+            "bytes": 33999,
+            "h": 422,
+            "path": "avif/rabbit-horn-hound-rider-512.avif",
+            "sha256": "84ecabce5aa899bf478c74be0c8bf3ffd6f1e6dc8327489454b6d7a80fe25b82",
+            "w": 512
+          },
+          {
+            "bytes": 64008,
+            "h": 632,
+            "path": "avif/rabbit-horn-hound-rider-768.avif",
+            "sha256": "dbcbb0c9a60f41165ee491ebc55b8a701ac6520f5916bf1912c448e866842c5d",
+            "w": 768
+          },
+          {
+            "bytes": 98550,
+            "h": 843,
+            "path": "avif/rabbit-horn-hound-rider-1024.avif",
+            "sha256": "049ae5b9023fecfda41581afa8a77854664f5f07c89a0d2c2561c267f1c70a37",
+            "w": 1024
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3402,
+            "h": 53,
+            "path": "webp/rabbit-horn-hound-rider-64.webp",
+            "sha256": "5750b70f5f18ad86bf08c3f58e16da95cc420ba35b94bcc5df4e361b7d8546c2",
+            "w": 64
+          },
+          {
+            "bytes": 5636,
+            "h": 79,
+            "path": "webp/rabbit-horn-hound-rider-96.webp",
+            "sha256": "2c341dfb2fde7c72254b6d1a58c9f2e28c64dfc4ae136b18cf3bbaf02accf0bc",
+            "w": 96
+          },
+          {
+            "bytes": 8560,
+            "h": 105,
+            "path": "webp/rabbit-horn-hound-rider-128.webp",
+            "sha256": "eb43d1cc6ed0aad08062299c972e525ba3f4fece9e4d75a61831e36920db41b2",
+            "w": 128
+          },
+          {
+            "bytes": 14436,
+            "h": 158,
+            "path": "webp/rabbit-horn-hound-rider-192.webp",
+            "sha256": "36aecb9cd57fe8fc3b58a1031c51fc2ca7bd7a66b0fbe3b49d79f4b044c3ce5e",
+            "w": 192
+          },
+          {
+            "bytes": 21822,
+            "h": 211,
+            "path": "webp/rabbit-horn-hound-rider-256.webp",
+            "sha256": "0d4c5b442ed430722c58c2e785e8db8002f3c8889428d55e876d3d53a3c8ec29",
+            "w": 256
+          },
+          {
+            "bytes": 39508,
+            "h": 316,
+            "path": "webp/rabbit-horn-hound-rider-384.webp",
+            "sha256": "ab598acbe1b490757186cb5c19197720fcae92425a566c0144370c12ecf4c26c",
+            "w": 384
+          },
+          {
+            "bytes": 62258,
+            "h": 422,
+            "path": "webp/rabbit-horn-hound-rider-512.webp",
+            "sha256": "596b46a65eafe1f871e80544268fb1fd7782660173a9e0c14257071f7e65407d",
+            "w": 512
+          },
+          {
+            "bytes": 130916,
+            "h": 632,
+            "path": "webp/rabbit-horn-hound-rider-768.webp",
+            "sha256": "4f09f3b43c08562c6125bf4e3f7eb56b5347b91e2886f6944668c1e7ec54513e",
+            "w": 768
+          },
+          {
+            "bytes": 206086,
+            "h": 843,
+            "path": "webp/rabbit-horn-hound-rider-1024.webp",
+            "sha256": "168cb070fb590bab606e9f1cfd5a823003f790d2d9066a27b8f93119accebdb8",
+            "w": 1024
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "rabbit",
+        "dog",
+        "rider",
+        "horn",
+        "musician",
+        "drollery"
+      ],
+      "thumbhash": "XjmCBIAkuiSAeXf1eNT3CI5qkGdmB6icCQ==",
+      "title": "Rabbit blowing a horn, riding a hound",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "A modern interpretation of the Macclesfield Psalter drollery, not a reproduction of the manuscript; credit adrian729 under CC-BY-4.0 when used.",
+        "Runs to the right along a baseline; the hound's forepaws are the lowest point."
+      ],
+      "view": "side",
+      "width": 1024
+    }
+  },
+  "attribution": "adrian729",
+  "builtAt": "2026-10-30T12:47:43.004Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-fitzwilliam-ms1-2005@1.0.0/",
+  "contentHash": "sha256:1a432bb4fc6b72810fdc80c05e9492f8897d9c7f184f139f6c521072acdbce24",
+  "inputsHash": "sha256:efa34e6d913e22e43ea53744ddb5fe6b0fe82dc0aac1c49a587d8674282bd860",
+  "kind": "authored",
+  "license": {
+    "artwork": "CC-BY-4.0",
+    "notes": "An original interpretation, attribution to adrian729; the Fitzwilliam reference image is restricted and was not reproduced."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-fitzwilliam-ms1-2005-masters",
+  "package": "@ranx729/ducktape-assets-fitzwilliam-ms1-2005",
+  "period": "ca. 1330–1340, in the style of",
+  "region": "East Anglia, England, in the style of",
+  "schema": 1,
+  "set": "fitzwilliam-ms1-2005",
+  "style": "Gothic marginal drollery, AI interpretation of a described motif",
+  "summary": "A rabbit blowing a hunting horn while riding a hound, an independent interpretation by adrian729 of a marginal drollery on folio 115v of the Macclesfield Psalter (Fitzwilliam Museum MS 1-2005, ca. 1330–1340); no scan of the restricted museum image was used.",
+  "title": "Macclesfield Psalter rabbit",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

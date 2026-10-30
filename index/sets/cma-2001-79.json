@@ -1,0 +1,211 @@
+{
+  "assets": {
+    "silver-acanthus-scroll-with-blue-and-red-flowers": {
+      "categories": [
+        "floral",
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "gray",
+        "red",
+        "green",
+        "blue",
+        "white"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall vertical border piece. A silver-gray acanthus scroll with white highlights curls through two large C-shapes in the middle, threaded by thin red stems that carry four red roses with gold centres at the top, bell-shaped blue flowers and two brownish-red blossoms below, and green leaves and small round buds throughout. Painted with fine dark contours; the background is transparent.",
+      "display_width": [
+        215,
+        430
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 192778,
+        "webpTopBytes": 385962
+      },
+      "facing": "none",
+      "group": null,
+      "height": 2172,
+      "master": {
+        "bytes": 987882,
+        "h": 2046,
+        "path": "masters/silver-acanthus-scroll-with-blue-and-red-flowers.webp",
+        "sha256": "d1524471c2252b908587a6e1731c864886dd26233f0696d8824f90d8bf9db288",
+        "w": 405
+      },
+      "palette": [
+        "#a19492",
+        "#655e3f",
+        "#a15540",
+        "#757066",
+        "#297176"
+      ],
+      "provenance": {
+        "date": "c. 1510",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2001.79.b/2001.79.b_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "2001.79.b",
+        "object_title": "Leaf from a Book of Hours: Text with Illustrated Border (verso)",
+        "record_url": "https://clevelandart.org/art/2001.79.b",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "0d90fea64ea8ab48fbd455ce35394aad89858f0753d88cfec28f46db1aaea748"
+      },
+      "quality": "The upper left rose and the lowest leaves reach the edges of the master where the border met the edge of the leaf.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 14634,
+            "h": 323,
+            "path": "avif/silver-acanthus-scroll-with-blue-and-red-flowers-64.avif",
+            "sha256": "d15a11dc5435dd0580e2189a6c5099f6282cb276f7de4f03127579281a1e6c64",
+            "w": 64
+          },
+          {
+            "bytes": 26818,
+            "h": 485,
+            "path": "avif/silver-acanthus-scroll-with-blue-and-red-flowers-96.avif",
+            "sha256": "40d6c023c82354b06187454b36200e75a7218b444bcbab858e585915f3a812f0",
+            "w": 96
+          },
+          {
+            "bytes": 37495,
+            "h": 647,
+            "path": "avif/silver-acanthus-scroll-with-blue-and-red-flowers-128.avif",
+            "sha256": "b19dd196a4a8f88973d472b2c94ade3bfc40374c4176823db59174987eb7fec3",
+            "w": 128
+          },
+          {
+            "bytes": 63622,
+            "h": 970,
+            "path": "avif/silver-acanthus-scroll-with-blue-and-red-flowers-192.avif",
+            "sha256": "4e5925f244a6b7bd5400d9d9d98696900178def5f93fadbfbfc35a10cb7930a8",
+            "w": 192
+          },
+          {
+            "bytes": 93559,
+            "h": 1293,
+            "path": "avif/silver-acanthus-scroll-with-blue-and-red-flowers-256.avif",
+            "sha256": "f5b81886f8de490e22d1a3d3bf946afd7e1520fac4c2c429f908a5f248bb4bbd",
+            "w": 256
+          },
+          {
+            "bytes": 165114,
+            "h": 1940,
+            "path": "avif/silver-acanthus-scroll-with-blue-and-red-flowers-384.avif",
+            "sha256": "21fc2ea84630049c5d44ba2e39955890b9617fbc9fda457f4fdda68b03d55537",
+            "w": 384
+          },
+          {
+            "bytes": 192778,
+            "h": 2172,
+            "path": "avif/silver-acanthus-scroll-with-blue-and-red-flowers-430.avif",
+            "sha256": "e5673c3b30bb7544d5f285eb82a9fc2b5c06b0154bd28bde0bd3e8b786c46798",
+            "w": 430
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 22202,
+            "h": 323,
+            "path": "webp/silver-acanthus-scroll-with-blue-and-red-flowers-64.webp",
+            "sha256": "2f5be40fbf4effa50ac6fb959984ca3e113e80016ea9ec59e261306cfae54819",
+            "w": 64
+          },
+          {
+            "bytes": 41768,
+            "h": 485,
+            "path": "webp/silver-acanthus-scroll-with-blue-and-red-flowers-96.webp",
+            "sha256": "97416bb0b91c47ca77a2637d4cef676178def354263344836504bdaf50ba0971",
+            "w": 96
+          },
+          {
+            "bytes": 63870,
+            "h": 647,
+            "path": "webp/silver-acanthus-scroll-with-blue-and-red-flowers-128.webp",
+            "sha256": "88bc226b73219d3dfbc989b242108a2a3e1b971a47faa22dc721e5ce255a34ab",
+            "w": 128
+          },
+          {
+            "bytes": 117378,
+            "h": 970,
+            "path": "webp/silver-acanthus-scroll-with-blue-and-red-flowers-192.webp",
+            "sha256": "36a5d7d7972d5ada91282ef8b1087ff7f1b5c6ab81870ec536df0518a78cf9d0",
+            "w": 192
+          },
+          {
+            "bytes": 179162,
+            "h": 1293,
+            "path": "webp/silver-acanthus-scroll-with-blue-and-red-flowers-256.webp",
+            "sha256": "f105ac3a3581f7817ff3220c63fa0bda6f152809e776c92bd6979ad3b2cbdb43",
+            "w": 256
+          },
+          {
+            "bytes": 332318,
+            "h": 1940,
+            "path": "webp/silver-acanthus-scroll-with-blue-and-red-flowers-384.webp",
+            "sha256": "aa777495c8775ead662e2043bd8e1ff1d9f0fcdbd3ebbe8deacbfa95b384b696",
+            "w": 384
+          },
+          {
+            "bytes": 385962,
+            "h": 2172,
+            "path": "webp/silver-acanthus-scroll-with-blue-and-red-flowers-430.webp",
+            "sha256": "5fd6b7f084beb61fa63b0997fc6cfe230caaabadaffc023afa65ff8da2155a20",
+            "w": 430
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "acanthus",
+        "rose",
+        "flower",
+        "leaf",
+        "stem",
+        "scroll",
+        "bud"
+      ],
+      "thumbhash": "miiGCQIXeHkHZ6mbfr/6xykImYl1iYg=",
+      "title": "Silver acanthus with roses and blue flowers",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Runs down an outer margin; the roses sit at the top, so flip vertically only if the flowers may hang."
+      ],
+      "width": 430
+    }
+  },
+  "attribution": "Cleveland Museum of Art 2001.79.b",
+  "builtAt": "2026-10-30T12:38:06.022Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-cma-2001-79@1.0.0/",
+  "contentHash": "sha256:37ab81344906bbdb43aee215de95e5359555c5866147f9b8d90ef7e70ae470f0",
+  "inputsHash": "sha256:48dfb191769f7ce2752ab47a078132694015ae9e39e3b0b97eca80fcb31280b9",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from Cleveland Museum of Art open access (CC0) images; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-cma-2001-79-masters",
+  "package": "@ranx729/ducktape-assets-cma-2001-79",
+  "period": "c. 1510",
+  "region": "Rouen, France",
+  "schema": 1,
+  "set": "cma-2001-79",
+  "style": "late Gothic illumination",
+  "summary": "A silver acanthus scroll with red and blue flowers from the border of a Rouen Book of Hours leaf of about 1510, in the Cleveland Museum of Art.",
+  "title": "Cleveland 2001.79, illustrated border leaf",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

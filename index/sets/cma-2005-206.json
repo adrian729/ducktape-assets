@@ -1,0 +1,4357 @@
+{
+  "assets": {
+    "angel-chasing-devil-roundel": {
+      "attribution": "Cleveland Museum of Art 2005.206.a",
+      "categories": [
+        "humans",
+        "fantasy"
+      ],
+      "colors": [
+        "gold",
+        "blue",
+        "green",
+        "white",
+        "black"
+      ],
+      "composition": "framed-scene",
+      "description": "The whole round miniature from the recto. A white-robed angel with a pale gold halo and dark red wings strides to the right holding a long thin gold staff diagonally, one hand reaching towards a black horned devil who runs off to the right while looking back at the angel; the devil is painted black with fine gold hatching. They stand on a yellow-green hillside with blue-green trees under a blue sky with a few gold streaks. A thin gold rim closes the scene. Opaque inside the rim, transparent outside.",
+      "display_width": [
+        300,
+        800
+      ],
+      "encoding": {
+        "avif": false,
+        "avifTopBytes": 46581,
+        "webpTopBytes": 52740
+      },
+      "facing": "mixed",
+      "group": "a",
+      "height": 828,
+      "master": {
+        "bytes": 624288,
+        "h": 828,
+        "path": "masters/angel-chasing-devil-roundel.webp",
+        "sha256": "ff077573a109c2c1e50971853f7a9a39bb19354bf411704facee064aecd9b331",
+        "w": 823
+      },
+      "palette": [
+        "#778894",
+        "#ae9e54",
+        "#beb69e",
+        "#444646",
+        "#887a53"
+      ],
+      "provenance": {
+        "artist": "Coëtivy Master (French)",
+        "date": "c. 1460",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.a/2005.206.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-source-mask",
+        "object_identifier": "2005.206.a",
+        "object_title": "Leaf from a Book of Hours: Office of the Dead: Angel Chasing a Devil (recto)",
+        "record_url": "https://clevelandart.org/art/2005.206.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "3f5adfecfe574825b8e47db6e3b7975029c48443187a5b1b888befc893dd618c"
+      },
+      "quality": "The gold rim is worn and chipped, with dark patches where the ground shows through.",
+      "related": [
+        {
+          "asset": "cma-2005-206/white-robed-winged-angel",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2005-206/black-horned-devil",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2005-206/verso-floral-border",
+          "role": "companion"
+        },
+        {
+          "asset": "cma-2005-206/two-dancing-devils-roundel",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "webp": [
+          {
+            "bytes": 2538,
+            "h": 64,
+            "path": "webp/angel-chasing-devil-roundel-64.webp",
+            "sha256": "542c444a37b6154e9ef0f4623b3ae0a4e3cbee801e393bb41310b619f423c6b6",
+            "w": 64
+          },
+          {
+            "bytes": 4352,
+            "h": 97,
+            "path": "webp/angel-chasing-devil-roundel-96.webp",
+            "sha256": "b6569038d7459e598c494d4c3401537545d44f6ebff15041d786f7bdd0d99ea7",
+            "w": 96
+          },
+          {
+            "bytes": 6196,
+            "h": 129,
+            "path": "webp/angel-chasing-devil-roundel-128.webp",
+            "sha256": "a6b5ceb0b86e5ac22acc40aba19086ce673cc1719cbc098f8c59783d1e2605a0",
+            "w": 128
+          },
+          {
+            "bytes": 10360,
+            "h": 193,
+            "path": "webp/angel-chasing-devil-roundel-192.webp",
+            "sha256": "bd845bd9467ef396fd3c7e09009035bf7e0d07f71182a21bbdd0ea51aa0a570c",
+            "w": 192
+          },
+          {
+            "bytes": 14980,
+            "h": 258,
+            "path": "webp/angel-chasing-devil-roundel-256.webp",
+            "sha256": "9887c366a788c9561b5000e546052eb5f9d39386ed9a94ee64822a6950a5cfa4",
+            "w": 256
+          },
+          {
+            "bytes": 23824,
+            "h": 386,
+            "path": "webp/angel-chasing-devil-roundel-384.webp",
+            "sha256": "df8f44c5cfb073eb4262f8cd5c2c6e7a1e69b42d0ec2b1900425040b3c0301fa",
+            "w": 384
+          },
+          {
+            "bytes": 32884,
+            "h": 515,
+            "path": "webp/angel-chasing-devil-roundel-512.webp",
+            "sha256": "ef6a2ab1e96701756cec07d2c413b87472129f444da2b869d1399c66eb599357",
+            "w": 512
+          },
+          {
+            "bytes": 53566,
+            "h": 773,
+            "path": "webp/angel-chasing-devil-roundel-768.webp",
+            "sha256": "29140c3ed3715e68f41b4aed3cc53e18862de6d61b6a433baaf24d70529f7e7a",
+            "w": 768
+          },
+          {
+            "bytes": 52740,
+            "h": 828,
+            "path": "webp/angel-chasing-devil-roundel-823.webp",
+            "sha256": "440d09bf3d5f2f8575e61a6dcf9a6285e7bdd38a1e38e45c4cf9764f85d94da4",
+            "w": 823
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "angel",
+        "devil",
+        "wings",
+        "halo",
+        "staff",
+        "tree",
+        "landscape",
+        "roundel"
+      ],
+      "thumbhash": "4giGHQIrTKB2mFh7Z4mApglpB1eIiICERw==",
+      "title": "Angel chasing a devil, roundel",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Complete roundel with its own rim and painted ground; place it as a picture, not as a cut-out.",
+        "The figures alone are white-robed-winged-angel and black-horned-devil; the empty gold ring at the right of blue-gold-floral-frame is this roundel's seat."
+      ],
+      "width": 823
+    },
+    "bearded-profile-head": {
+      "attribution": "Cleveland Museum of Art 2005.206.a",
+      "categories": [
+        "humans"
+      ],
+      "colors": [
+        "brown",
+        "cream",
+        "gray",
+        "gold"
+      ],
+      "composition": "single-figure",
+      "description": "The head and shoulders of a man in left-facing profile with a large hooked nose, a pointed grey beard, long ochre-brown hair falling behind the ear and a gold hoop earring. The skin is pale with grey-blue shading and he wears a plain white collar. Cut from the recto text block; the background is transparent.",
+      "display_width": [
+        100,
+        300
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 12305,
+        "webpTopBytes": 22908
+      },
+      "facing": "left",
+      "group": "a",
+      "height": 247,
+      "master": {
+        "bytes": 76300,
+        "h": 247,
+        "path": "masters/bearded-profile-head.webp",
+        "sha256": "4f00d3f4af3300bfbca5e1ff97feb3674f51b21b69b260f85a6757305be57b74",
+        "w": 301
+      },
+      "palette": [
+        "#95877a",
+        "#c5b299",
+        "#d3c9be",
+        "#8d6e3d",
+        "#524334"
+      ],
+      "provenance": {
+        "artist": "Coëtivy Master (French)",
+        "date": "c. 1460",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.a/2005.206.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "2005.206.a",
+        "object_title": "Leaf from a Book of Hours: Office of the Dead: Angel Chasing a Devil (recto)",
+        "record_url": "https://clevelandart.org/art/2005.206.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "3f5adfecfe574825b8e47db6e3b7975029c48443187a5b1b888befc893dd618c"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1843,
+            "h": 53,
+            "path": "avif/bearded-profile-head-64.avif",
+            "sha256": "6425c21a1b162374ac05a64c2f019a979c33dd108df3cd857ac0b8a5864d6209",
+            "w": 64
+          },
+          {
+            "bytes": 2821,
+            "h": 79,
+            "path": "avif/bearded-profile-head-96.avif",
+            "sha256": "8743844e105e5da5f7b79c8500f2c2b0fb4e4d36bb1c4906298814b5fb3a6fda",
+            "w": 96
+          },
+          {
+            "bytes": 3907,
+            "h": 105,
+            "path": "avif/bearded-profile-head-128.avif",
+            "sha256": "9bd0489c6fcd031ae1f8879120b024039a0b45bad54b6a1f6de538895a1235ba",
+            "w": 128
+          },
+          {
+            "bytes": 6266,
+            "h": 158,
+            "path": "avif/bearded-profile-head-192.avif",
+            "sha256": "3e670f6e17416bb1f9af00e967149a96d0f81919cb39cf7716f2c4407ef176a8",
+            "w": 192
+          },
+          {
+            "bytes": 9177,
+            "h": 210,
+            "path": "avif/bearded-profile-head-256.avif",
+            "sha256": "0fb0d0680c415fe86964ab691cff253fc18a2464118dfb135a2e07446d9538c7",
+            "w": 256
+          },
+          {
+            "bytes": 12305,
+            "h": 247,
+            "path": "avif/bearded-profile-head-301.avif",
+            "sha256": "e32fb7c00b3860dfa3e3d20558b56a4a8de03d633ceb599a7b00613ad3addddb",
+            "w": 301
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2632,
+            "h": 53,
+            "path": "webp/bearded-profile-head-64.webp",
+            "sha256": "4cabd63306135bd11cf608c4b01a3ef46d2fb726b0269969ef79e1edcf0d5969",
+            "w": 64
+          },
+          {
+            "bytes": 4422,
+            "h": 79,
+            "path": "webp/bearded-profile-head-96.webp",
+            "sha256": "04a3d707c6f19d923ab56b645fd412810965bfcb3a1d867d14e5b6d88878f208",
+            "w": 96
+          },
+          {
+            "bytes": 6632,
+            "h": 105,
+            "path": "webp/bearded-profile-head-128.webp",
+            "sha256": "160db84f2de6f39e158b218350662fc49ede4a367cadcb91ce06d7e4d0ec8367",
+            "w": 128
+          },
+          {
+            "bytes": 11940,
+            "h": 158,
+            "path": "webp/bearded-profile-head-192.webp",
+            "sha256": "832f4d4e20ba79401a3b00f1938133562501b0deb8a3a05e00dbcce1d4c32bce",
+            "w": 192
+          },
+          {
+            "bytes": 19284,
+            "h": 210,
+            "path": "webp/bearded-profile-head-256.webp",
+            "sha256": "3d87675b639f994ddd0c26274b2e4951b4cc5bdf04a140db23a40620ace20c08",
+            "w": 256
+          },
+          {
+            "bytes": 22908,
+            "h": 247,
+            "path": "webp/bearded-profile-head-301.webp",
+            "sha256": "a6c9b38d42c9b515c1f12e01564c3383deff763ce3624bef98b4ec04f9ccc2be",
+            "w": 301
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "man",
+        "head",
+        "beard",
+        "earring"
+      ],
+      "thumbhash": "5SiGDIA4C+eWaFlKJ/olpF9QoGaHOIiHBg==",
+      "title": "Bearded man's head in profile",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Only the head and collar are kept; the initial it belongs to is not included."
+      ],
+      "view": "side",
+      "width": 301
+    },
+    "black-horned-devil": {
+      "attribution": "Cleveland Museum of Art 2005.206.a",
+      "categories": [
+        "fantasy"
+      ],
+      "colors": [
+        "black",
+        "gold"
+      ],
+      "composition": "single-figure",
+      "description": "A slender black devil with two straight horns and pointed ears strides to the right on long legs while its head turns back to the left in profile. The body, limbs and face are drawn in fine gold hatching over black; one arm is bent before the chest, the other stretched back, and a thin curved tail hangs between the legs. The feet end in claws. Cut from the recto roundel; the background is transparent.",
+      "display_width": [
+        100,
+        300
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 15100,
+        "webpTopBytes": 21424
+      },
+      "facing": "left",
+      "group": "a",
+      "height": 643,
+      "master": {
+        "bytes": 95906,
+        "h": 643,
+        "path": "masters/black-horned-devil.webp",
+        "sha256": "f2bb691fc5fa4d180c4295b7c6032728cd73b2c4b59b9fd392843c568b0c7e6f",
+        "w": 343
+      },
+      "palette": [
+        "#353a41",
+        "#4a4c4c",
+        "#56544e",
+        "#6c685e",
+        "#66604e"
+      ],
+      "provenance": {
+        "artist": "Coëtivy Master (French)",
+        "date": "c. 1460",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.a/2005.206.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2005.206.a",
+        "object_title": "Leaf from a Book of Hours: Office of the Dead: Angel Chasing a Devil (recto)",
+        "record_url": "https://clevelandart.org/art/2005.206.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "3f5adfecfe574825b8e47db6e3b7975029c48443187a5b1b888befc893dd618c"
+      },
+      "related": [
+        {
+          "asset": "cma-2005-206/angel-chasing-devil-roundel",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2005-206/white-robed-winged-angel",
+          "role": "companion"
+        },
+        {
+          "asset": "cma-2005-206/two-dancing-horned-figures",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2867,
+            "h": 120,
+            "path": "avif/black-horned-devil-64.avif",
+            "sha256": "ed33564f292bb47c606f5ff9709af5262ed30e942417556da5a489acab6fd21f",
+            "w": 64
+          },
+          {
+            "bytes": 4742,
+            "h": 180,
+            "path": "avif/black-horned-devil-96.avif",
+            "sha256": "4c6ea4b4598d59197d9565a719a0e1e0f5e582d95f3a8b328b21581d35ca6446",
+            "w": 96
+          },
+          {
+            "bytes": 5995,
+            "h": 240,
+            "path": "avif/black-horned-devil-128.avif",
+            "sha256": "d2bc33fee4c62b42ff538c5da81593ef1c95d9dd562b51d3b53257e12e51637a",
+            "w": 128
+          },
+          {
+            "bytes": 8430,
+            "h": 360,
+            "path": "avif/black-horned-devil-192.avif",
+            "sha256": "8eb97c6dcfbe0d5736796f6ca569db4a56bfe4c0ca4df206f662305852d26081",
+            "w": 192
+          },
+          {
+            "bytes": 11378,
+            "h": 480,
+            "path": "avif/black-horned-devil-256.avif",
+            "sha256": "f1d21d1e7688bac0f59d56ea392979744866c70c502d0f4803d26d08903909de",
+            "w": 256
+          },
+          {
+            "bytes": 15100,
+            "h": 643,
+            "path": "avif/black-horned-devil-343.avif",
+            "sha256": "7b73fbabd1c6b849ceada82be58b4fbb686321ad344f817e7e18aef6c5cff835",
+            "w": 343
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4082,
+            "h": 120,
+            "path": "webp/black-horned-devil-64.webp",
+            "sha256": "9aad05ba75309b9a9be5f8570541eec4e882a54c84e6b4fe81a2c3a481c714f7",
+            "w": 64
+          },
+          {
+            "bytes": 6792,
+            "h": 180,
+            "path": "webp/black-horned-devil-96.webp",
+            "sha256": "2ff6398c9da8cecbe295d489d84483cb4a4b4c909de01fef857108bca8cad28d",
+            "w": 96
+          },
+          {
+            "bytes": 9452,
+            "h": 240,
+            "path": "webp/black-horned-devil-128.webp",
+            "sha256": "3dbe1394d49c078ad1fc9492bdd65ee6789d5c339ace2e2faa66c6d59f530eea",
+            "w": 128
+          },
+          {
+            "bytes": 14880,
+            "h": 360,
+            "path": "webp/black-horned-devil-192.webp",
+            "sha256": "66d7b1520cf3c2e0078d30ef6948fc255ed9e1bab1e71b573494d0af9267fd6a",
+            "w": 192
+          },
+          {
+            "bytes": 20764,
+            "h": 480,
+            "path": "webp/black-horned-devil-256.webp",
+            "sha256": "f9fb5fec684c626ea9ada734c44e26f20ec28c8f762f5b7422c5b0481f44fd0f",
+            "w": 256
+          },
+          {
+            "bytes": 21424,
+            "h": 643,
+            "path": "webp/black-horned-devil-343.webp",
+            "sha256": "f40928ec0dd7cd583ba9208edb472705dcb6172737a55d51695338434c13522b",
+            "w": 343
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "devil",
+        "horn"
+      ],
+      "thumbhash": "0feBAwAlTr331Dl6cJgGZwZ4iGakamY=",
+      "title": "Running black devil looking back",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Cut from angel-chasing-devil-in-gold-oval; pairs with white-robed-winged-angel at the same scale, placed to its left."
+      ],
+      "view": "side",
+      "width": 343
+    },
+    "discs-and-diamonds-line-filler": {
+      "attribution": "Cleveland Museum of Art 2005.206.b",
+      "categories": [
+        "geometric"
+      ],
+      "colors": [
+        "gold",
+        "blue",
+        "brown",
+        "black"
+      ],
+      "composition": "standalone",
+      "description": "A finite horizontal line filler from the verso, a burnished gold bar with a black outline carrying eight motifs that alternate blue and brown, each with fine gold hatching, from left to right a blue diamond, brown disc, blue diamond, brown disc, blue disc, brown disc, blue diamond and brown diamond. Only the painted bar is opaque; the background is transparent.",
+      "display_width": [
+        250,
+        700
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 10246,
+        "webpTopBytes": 15934
+      },
+      "facing": "none",
+      "group": "b",
+      "height": 127,
+      "master": {
+        "bytes": 76278,
+        "h": 127,
+        "path": "masters/discs-and-diamonds-line-filler.webp",
+        "sha256": "5db7c5dc2744523c21b8718c43bee69bf100dedcbc8355549eb2a35215155be3",
+        "w": 715
+      },
+      "palette": [
+        "#4d4742",
+        "#4a5463",
+        "#756952",
+        "#877b5e",
+        "#a79569"
+      ],
+      "provenance": {
+        "artist": "Coëtivy Master (French)",
+        "date": "c. 1460",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.b/2005.206.b_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2005.206.b",
+        "object_title": "Leaf from a Book of Hours: Office of the Dead: Two Devils (verso)",
+        "record_url": "https://clevelandart.org/art/2005.206.b",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "95460394e5a6c2947fef91eaa47c0dd9d8b038169ba47711ba7c3b4f4a812cf1"
+      },
+      "quality": "A speck of a neighbouring gold dot remains just outside the lower left end of the bar.",
+      "related": [
+        {
+          "asset": "cma-2005-206/discs-and-diamonds-repeat-b",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2005-206/discs-and-three-diamonds-line-filler",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 887,
+            "h": 11,
+            "path": "avif/discs-and-diamonds-line-filler-64.avif",
+            "sha256": "63fbb59a955078c1201b7c7336e4fac7c7a23c0b30b553a96cf3e75d61daff7e",
+            "w": 64
+          },
+          {
+            "bytes": 1374,
+            "h": 17,
+            "path": "avif/discs-and-diamonds-line-filler-96.avif",
+            "sha256": "f03827dfd6704ef82a5e1d7af345710ae08c0a2bc08ce15adf311da163d92957",
+            "w": 96
+          },
+          {
+            "bytes": 1990,
+            "h": 23,
+            "path": "avif/discs-and-diamonds-line-filler-128.avif",
+            "sha256": "674abb8c85a87946164185921b71f910a69711fa6849970ec4ae2ed1431b186d",
+            "w": 128
+          },
+          {
+            "bytes": 2806,
+            "h": 34,
+            "path": "avif/discs-and-diamonds-line-filler-192.avif",
+            "sha256": "541accc21aa9919d057d8e1539d3c9e9e6de2806541e60dabe0661d1fbf3c600",
+            "w": 192
+          },
+          {
+            "bytes": 3188,
+            "h": 45,
+            "path": "avif/discs-and-diamonds-line-filler-256.avif",
+            "sha256": "fbb97e40f4084d23b0fe30451bbda1cfbf99321ca62b0b15dd425adf016c12ed",
+            "w": 256
+          },
+          {
+            "bytes": 5098,
+            "h": 68,
+            "path": "avif/discs-and-diamonds-line-filler-384.avif",
+            "sha256": "c515d5462ad6bb247a5929290151c1572df3128c53d721a25f7dae5bcbfdf891",
+            "w": 384
+          },
+          {
+            "bytes": 7696,
+            "h": 91,
+            "path": "avif/discs-and-diamonds-line-filler-512.avif",
+            "sha256": "99474945187eb28223e8ed1e58ee7c5f811847aefa86a07751398d36f8c68491",
+            "w": 512
+          },
+          {
+            "bytes": 10246,
+            "h": 127,
+            "path": "avif/discs-and-diamonds-line-filler-715.avif",
+            "sha256": "e6d112c765467dcedec5249740d84963b3e64c506424a8540cf30f81c4532617",
+            "w": 715
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 954,
+            "h": 11,
+            "path": "webp/discs-and-diamonds-line-filler-64.webp",
+            "sha256": "6d9356b9eb1a8013c24d1630713457730dd19365b5ef3af64d6ebf554f2fdff0",
+            "w": 64
+          },
+          {
+            "bytes": 1758,
+            "h": 17,
+            "path": "webp/discs-and-diamonds-line-filler-96.webp",
+            "sha256": "52f24385ea8b897107287f5bb84230fbcc3099aa0ed1f1a217bc1f23165c0d14",
+            "w": 96
+          },
+          {
+            "bytes": 2922,
+            "h": 23,
+            "path": "webp/discs-and-diamonds-line-filler-128.webp",
+            "sha256": "ac1779912ee3677e160b192102e941b45918f13af843a1ebea64ce994321a72d",
+            "w": 128
+          },
+          {
+            "bytes": 4478,
+            "h": 34,
+            "path": "webp/discs-and-diamonds-line-filler-192.webp",
+            "sha256": "f3ee946e7a4d47a1dd82fe60b4d44b2a8e7361859fadb646c5a2a1632342c0cf",
+            "w": 192
+          },
+          {
+            "bytes": 6304,
+            "h": 45,
+            "path": "webp/discs-and-diamonds-line-filler-256.webp",
+            "sha256": "9669d3c5fd6dd2970dbf6981495fd5cad94c5cc55df2ff7f6b806c30a967c6b9",
+            "w": 256
+          },
+          {
+            "bytes": 9388,
+            "h": 68,
+            "path": "webp/discs-and-diamonds-line-filler-384.webp",
+            "sha256": "19f66ec2e91051676503516e43a2a96e063905d7a74f3ae8ab07865856a1ee48",
+            "w": 384
+          },
+          {
+            "bytes": 13416,
+            "h": 91,
+            "path": "webp/discs-and-diamonds-line-filler-512.webp",
+            "sha256": "5f7414ab281bc676a29151cc095f409c6118c9cc1380121afaad756258921482",
+            "w": 512
+          },
+          {
+            "bytes": 15934,
+            "h": 127,
+            "path": "webp/discs-and-diamonds-line-filler-715.webp",
+            "sha256": "f8774513b7296e8a51274dca01ecbc6d1d7683c118f3da4f88d566b817a7b004",
+            "w": 715
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "line-filler",
+        "disc",
+        "diamond"
+      ],
+      "thumbhash": "WAiCAYBKtpl0epDXYAkNRnd3iIdweEc=",
+      "title": "Discs and diamonds line filler, eight motifs",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Finite strip at a fixed length; for a band of any length use discs-and-diamonds-repeat-b, which carries the same motifs as a seamless tile."
+      ],
+      "width": 715
+    },
+    "discs-and-diamonds-repeat-a": {
+      "attribution": "Cleveland Museum of Art 2005.206.a",
+      "categories": [
+        "geometric"
+      ],
+      "colors": [
+        "gold",
+        "blue",
+        "brown",
+        "black"
+      ],
+      "components": {
+        "bar": {
+          "description": "The whole deskewed source strip the cycle was cut from, at native scale, with its original uneven spacing.",
+          "encoding": {
+            "avif": true,
+            "avifTopBytes": 25885,
+            "webpTopBytes": 47390
+          },
+          "master": {
+            "bytes": 228198,
+            "h": 92,
+            "path": "masters/discs-and-diamonds-repeat-a.bar.webp",
+            "sha256": "ed2c4f941ac68158573fbbf13bd749e86521889422683929ca185946bf957515",
+            "w": 2048
+          },
+          "sources": {
+            "avif": [
+              {
+                "bytes": 638,
+                "h": 3,
+                "path": "avif/discs-and-diamonds-repeat-a.bar-64.avif",
+                "sha256": "5f7727c6580f68615b3eb7b1a7664911431e125f9b498fe9118c51d692fbb24c",
+                "w": 64
+              },
+              {
+                "bytes": 773,
+                "h": 4,
+                "path": "avif/discs-and-diamonds-repeat-a.bar-96.avif",
+                "sha256": "7f851658c7d24796fd83c13c3837545c7766d805e557ef7c651779dec3b9962f",
+                "w": 96
+              },
+              {
+                "bytes": 924,
+                "h": 6,
+                "path": "avif/discs-and-diamonds-repeat-a.bar-128.avif",
+                "sha256": "c3f1dce9f3d8f402b9859cb6ee9bb112868e05aaf44d881613b5d0913000bac5",
+                "w": 128
+              },
+              {
+                "bytes": 1584,
+                "h": 9,
+                "path": "avif/discs-and-diamonds-repeat-a.bar-192.avif",
+                "sha256": "9c442b13bbbfa7f13eea8fab140087769533ccc85d4af9f8e46f46da67b95f42",
+                "w": 192
+              },
+              {
+                "bytes": 2245,
+                "h": 11,
+                "path": "avif/discs-and-diamonds-repeat-a.bar-256.avif",
+                "sha256": "dbb7b98ba3253db88e7fb6f8a5f0d456f7650aa92e96cca599a6242c52c1bb44",
+                "w": 256
+              },
+              {
+                "bytes": 3449,
+                "h": 17,
+                "path": "avif/discs-and-diamonds-repeat-a.bar-384.avif",
+                "sha256": "0d2cff425d32cfc499d280058d363b59fcbf8cc1d10484992c939ff16774ae5e",
+                "w": 384
+              },
+              {
+                "bytes": 4904,
+                "h": 23,
+                "path": "avif/discs-and-diamonds-repeat-a.bar-512.avif",
+                "sha256": "50867a3f57074926e6ce885f607bc6d4aa222ca3ef3ff6f50709660556e163db",
+                "w": 512
+              },
+              {
+                "bytes": 8024,
+                "h": 34,
+                "path": "avif/discs-and-diamonds-repeat-a.bar-768.avif",
+                "sha256": "970709052ec2509f8f16785da9073a8bd3c4b7ab1c3f8ca2d4acf371be68ac4d",
+                "w": 768
+              },
+              {
+                "bytes": 9968,
+                "h": 46,
+                "path": "avif/discs-and-diamonds-repeat-a.bar-1024.avif",
+                "sha256": "728b1cf48c570a7164cdedd239486e2c84eb1eff1be23ba973cc5d28f14938a6",
+                "w": 1024
+              },
+              {
+                "bytes": 16974,
+                "h": 69,
+                "path": "avif/discs-and-diamonds-repeat-a.bar-1536.avif",
+                "sha256": "f89d82b9a24eec84245cba843faff8625abec13d2e0474feb0e65466032db99c",
+                "w": 1536
+              },
+              {
+                "bytes": 25885,
+                "h": 92,
+                "path": "avif/discs-and-diamonds-repeat-a.bar-2048.avif",
+                "sha256": "a46344a20f27144d1eb28d219d2fd431f49d4bf25054b9788cbb521c60ddf64b",
+                "w": 2048
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 396,
+                "h": 3,
+                "path": "webp/discs-and-diamonds-repeat-a.bar-64.webp",
+                "sha256": "9228beff3621df68f9af23bc4969a5924727935abf602095455cb87daee51c49",
+                "w": 64
+              },
+              {
+                "bytes": 580,
+                "h": 4,
+                "path": "webp/discs-and-diamonds-repeat-a.bar-96.webp",
+                "sha256": "1c5d005cb12a9cf983805dcee8e8ed466db32d3ce073c9d38f0a6959133718fd",
+                "w": 96
+              },
+              {
+                "bytes": 1140,
+                "h": 6,
+                "path": "webp/discs-and-diamonds-repeat-a.bar-128.webp",
+                "sha256": "485ae67ea7b5cb05fa275959134637560bad6c028fc9e2c6e0c4f6d217bc91d3",
+                "w": 128
+              },
+              {
+                "bytes": 1970,
+                "h": 9,
+                "path": "webp/discs-and-diamonds-repeat-a.bar-192.webp",
+                "sha256": "5c6b28632314aef11f359e559c1453dfcc569801bc6621913ad0705ba554efa5",
+                "w": 192
+              },
+              {
+                "bytes": 2776,
+                "h": 11,
+                "path": "webp/discs-and-diamonds-repeat-a.bar-256.webp",
+                "sha256": "13ab0c289aa473e37f941af08ab6b5f057259c48c504210384ff15d0311c8ac0",
+                "w": 256
+              },
+              {
+                "bytes": 4274,
+                "h": 17,
+                "path": "webp/discs-and-diamonds-repeat-a.bar-384.webp",
+                "sha256": "ac594f3e44637e5b68bdc27b5edb99cd3115d7d03f5bb51cb7f2a0e53b25ce99",
+                "w": 384
+              },
+              {
+                "bytes": 8152,
+                "h": 23,
+                "path": "webp/discs-and-diamonds-repeat-a.bar-512.webp",
+                "sha256": "d4774f4d89abe4bbfcd1cb3dadda069df0a82f9304d9673f3bbcd68277530e43",
+                "w": 512
+              },
+              {
+                "bytes": 13426,
+                "h": 34,
+                "path": "webp/discs-and-diamonds-repeat-a.bar-768.webp",
+                "sha256": "6dc9e14ccc40a391d7a696ab919ac059b6fdd3daf840209f20c390dc589d5ea0",
+                "w": 768
+              },
+              {
+                "bytes": 19682,
+                "h": 46,
+                "path": "webp/discs-and-diamonds-repeat-a.bar-1024.webp",
+                "sha256": "3023d5a6dcbfd08c997aca27f987f96a6fbc6bf52dc847c524bc623e9098873a",
+                "w": 1024
+              },
+              {
+                "bytes": 31756,
+                "h": 69,
+                "path": "webp/discs-and-diamonds-repeat-a.bar-1536.webp",
+                "sha256": "6e95760f0765872a734398a4596ffae80e0a2cfcccc8f945103541910a97afc5",
+                "w": 1536
+              },
+              {
+                "bytes": 47390,
+                "h": 92,
+                "path": "webp/discs-and-diamonds-repeat-a.bar-2048.webp",
+                "sha256": "8515d284df29d6f2f3ba0755e95683b384bd7a70d3f5ddb0cda6a0581fb9f505",
+                "w": 2048
+              }
+            ]
+          }
+        },
+        "corner-bottom-left": {
+          "description": "Bottom-left mitred corner cut from the source, a brown disc on gold; not used by the generated atlas.",
+          "encoding": {
+            "avif": true,
+            "avifTopBytes": 2062,
+            "webpTopBytes": 3022
+          },
+          "master": {
+            "bytes": 14710,
+            "h": 117,
+            "path": "masters/discs-and-diamonds-repeat-a.corner-bottom-left.webp",
+            "sha256": "22ee65124b86449bcfb2a1cb18b827a1c14a741fae84e7aeeed959eabf6376d2",
+            "w": 117
+          },
+          "sources": {
+            "avif": [
+              {
+                "bytes": 1187,
+                "h": 64,
+                "path": "avif/discs-and-diamonds-repeat-a.corner-bottom-left-64.avif",
+                "sha256": "9115beeaf599170a5fa2ca0cdb806c14ebe0576ec1381a06e5b8a74a121ae067",
+                "w": 64
+              },
+              {
+                "bytes": 1903,
+                "h": 96,
+                "path": "avif/discs-and-diamonds-repeat-a.corner-bottom-left-96.avif",
+                "sha256": "1a053b043d62af63dfbcda43c080e039396243fe00381060463bed5d0148bede",
+                "w": 96
+              },
+              {
+                "bytes": 2062,
+                "h": 117,
+                "path": "avif/discs-and-diamonds-repeat-a.corner-bottom-left-117.avif",
+                "sha256": "d94bfed3900360d4302c248e46a68f23622e27dced99b62b1f67772b02eba212",
+                "w": 117
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 1870,
+                "h": 64,
+                "path": "webp/discs-and-diamonds-repeat-a.corner-bottom-left-64.webp",
+                "sha256": "a6baae37e34fe5fdd90184ed90d29b953f2d84ab77ffb26e6f777403f193f3c2",
+                "w": 64
+              },
+              {
+                "bytes": 2846,
+                "h": 96,
+                "path": "webp/discs-and-diamonds-repeat-a.corner-bottom-left-96.webp",
+                "sha256": "03473a593488379d8ae9ed074bf78a28f97c748baaed479428039175634ac59e",
+                "w": 96
+              },
+              {
+                "bytes": 3022,
+                "h": 117,
+                "path": "webp/discs-and-diamonds-repeat-a.corner-bottom-left-117.webp",
+                "sha256": "9ac225e8caead37e0522b62520f04aa9bde02e6db389ae7c32b645cd131aff40",
+                "w": 117
+              }
+            ]
+          }
+        },
+        "corner-bottom-right": {
+          "description": "Bottom-right mitred corner cut from the source, a blue disc on gold; not used by the generated atlas.",
+          "encoding": {
+            "avif": true,
+            "avifTopBytes": 2080,
+            "webpTopBytes": 2846
+          },
+          "master": {
+            "bytes": 13958,
+            "h": 117,
+            "path": "masters/discs-and-diamonds-repeat-a.corner-bottom-right.webp",
+            "sha256": "d2e12d8d57903187e376f6e6f0db265e8b497c97e73392117ad859a07d16f322",
+            "w": 117
+          },
+          "sources": {
+            "avif": [
+              {
+                "bytes": 1244,
+                "h": 64,
+                "path": "avif/discs-and-diamonds-repeat-a.corner-bottom-right-64.avif",
+                "sha256": "e7cf62003ac310a975298bddd1ea1b6f36989d7d3d0a400b8abb048bc5612533",
+                "w": 64
+              },
+              {
+                "bytes": 1988,
+                "h": 96,
+                "path": "avif/discs-and-diamonds-repeat-a.corner-bottom-right-96.avif",
+                "sha256": "0091dce802a78dae01872e4c040b837443bef7095b1d72ef169f5c572a9bea69",
+                "w": 96
+              },
+              {
+                "bytes": 2080,
+                "h": 117,
+                "path": "avif/discs-and-diamonds-repeat-a.corner-bottom-right-117.avif",
+                "sha256": "6cbb7cab2ce1d49c23a80efb7591a1b2d374fee7bd12fc142452887e003a3e97",
+                "w": 117
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 1638,
+                "h": 64,
+                "path": "webp/discs-and-diamonds-repeat-a.corner-bottom-right-64.webp",
+                "sha256": "a1b49f9a118bc9d37ceb14df70d86fbe48f2cc348c52d1548cdc75a0bf83a8d0",
+                "w": 64
+              },
+              {
+                "bytes": 2624,
+                "h": 96,
+                "path": "webp/discs-and-diamonds-repeat-a.corner-bottom-right-96.webp",
+                "sha256": "e8d5bb885fafd0620dbe3366ee0bafa4f34927dd24c566480e3c2a824e4fbc05",
+                "w": 96
+              },
+              {
+                "bytes": 2846,
+                "h": 117,
+                "path": "webp/discs-and-diamonds-repeat-a.corner-bottom-right-117.webp",
+                "sha256": "d9802e197e75eaa63cee9b54be0f854ed69d12c154667c58a3c881417df3058a",
+                "w": 117
+              }
+            ]
+          }
+        },
+        "corner-top-left": {
+          "description": "Top-left mitred corner cut from the source, a blue disc on gold; mirrored by the build for the other three corners of the atlas.",
+          "encoding": {
+            "avif": true,
+            "avifTopBytes": 2062,
+            "webpTopBytes": 2956
+          },
+          "master": {
+            "bytes": 14038,
+            "h": 117,
+            "path": "masters/discs-and-diamonds-repeat-a.corner-top-left.webp",
+            "sha256": "327ec78f66ad3d857d2713515e5e20f48f9895ab60969d6de8b97f9d2608e1f5",
+            "w": 117
+          },
+          "sources": {
+            "avif": [
+              {
+                "bytes": 1222,
+                "h": 64,
+                "path": "avif/discs-and-diamonds-repeat-a.corner-top-left-64.avif",
+                "sha256": "57cbc38acb93d750937a073a48971528117703c0c00d8c6ead36aa34bd204af7",
+                "w": 64
+              },
+              {
+                "bytes": 1856,
+                "h": 96,
+                "path": "avif/discs-and-diamonds-repeat-a.corner-top-left-96.avif",
+                "sha256": "4751fab589f97d8829584a504718171adac620a05dc3dba7115bb214c2b27016",
+                "w": 96
+              },
+              {
+                "bytes": 2062,
+                "h": 117,
+                "path": "avif/discs-and-diamonds-repeat-a.corner-top-left-117.avif",
+                "sha256": "76df2d08a913d0312386ac3a5443760b8ec63b188ceb4265578f81bcbbef118e",
+                "w": 117
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 1600,
+                "h": 64,
+                "path": "webp/discs-and-diamonds-repeat-a.corner-top-left-64.webp",
+                "sha256": "6b3e5c8c726a356d190f0002a3c31e8d8d2a204c224ca6fd7d6c341f11edfe33",
+                "w": 64
+              },
+              {
+                "bytes": 2570,
+                "h": 96,
+                "path": "webp/discs-and-diamonds-repeat-a.corner-top-left-96.webp",
+                "sha256": "cce1b3e6f32316eb5ad72193b948f04eefeeb6ddbc061f93113abf43e5dc7122",
+                "w": 96
+              },
+              {
+                "bytes": 2956,
+                "h": 117,
+                "path": "webp/discs-and-diamonds-repeat-a.corner-top-left-117.webp",
+                "sha256": "6dbb329916d8e960b774710df576cfc5f0a7018d2e4b0c75ab9d9cc22d6404be",
+                "w": 117
+              }
+            ]
+          }
+        },
+        "corner-top-right": {
+          "description": "Top-right mitred corner cut from the source, a brown disc on gold; not used by the generated atlas.",
+          "encoding": {
+            "avif": true,
+            "avifTopBytes": 2054,
+            "webpTopBytes": 2990
+          },
+          "master": {
+            "bytes": 14198,
+            "h": 117,
+            "path": "masters/discs-and-diamonds-repeat-a.corner-top-right.webp",
+            "sha256": "220ba9a72e0a9f20128f360a1b717c1ea274ae16ee8ff300951e35fb082e54f7",
+            "w": 117
+          },
+          "sources": {
+            "avif": [
+              {
+                "bytes": 1204,
+                "h": 64,
+                "path": "avif/discs-and-diamonds-repeat-a.corner-top-right-64.avif",
+                "sha256": "31164dddaabd78ca822169b8e68c975776e5d09a3174ddfff7e27b3d72ced2eb",
+                "w": 64
+              },
+              {
+                "bytes": 1894,
+                "h": 96,
+                "path": "avif/discs-and-diamonds-repeat-a.corner-top-right-96.avif",
+                "sha256": "ca3e2fe7230f81d264a593c0637b4eea6a7493ff92a819a806e410979767688d",
+                "w": 96
+              },
+              {
+                "bytes": 2054,
+                "h": 117,
+                "path": "avif/discs-and-diamonds-repeat-a.corner-top-right-117.avif",
+                "sha256": "86be43b8047d8b0ca2301969f95c86c80ef0d7507fe6bd75c9481e600c08e931",
+                "w": 117
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 1878,
+                "h": 64,
+                "path": "webp/discs-and-diamonds-repeat-a.corner-top-right-64.webp",
+                "sha256": "2f69b320233507153ed43292a2b29d2227faa1d2e5473381a512faf0ced3f736",
+                "w": 64
+              },
+              {
+                "bytes": 2834,
+                "h": 96,
+                "path": "webp/discs-and-diamonds-repeat-a.corner-top-right-96.webp",
+                "sha256": "63dc99e4a9a1c0ab21c597bcb005a96f4fb42296a2d9f0b1486e1d150b8bd8af",
+                "w": 96
+              },
+              {
+                "bytes": 2990,
+                "h": 117,
+                "path": "webp/discs-and-diamonds-repeat-a.corner-top-right-117.webp",
+                "sha256": "c02db3572a3c8995afa4bd186a333d0a4a71e0c137f27d4760e1f5799e166797",
+                "w": 117
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "One six-motif cycle of the recto line fillers, a burnished gold band between two black rules carrying, from left to right, a brown disc, blue disc, brown diamond, blue diamond, brown diamond and blue disc, each with fine gold hatching. The pattern continues across the left and right edges. Only the painted band is opaque; the thin strips above and below it are transparent.",
+      "display_width": [
+        260,
+        520
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 6876,
+        "webpTopBytes": 10652
+      },
+      "facing": "none",
+      "group": "a",
+      "height": 117,
+      "master": {
+        "bytes": 59878,
+        "h": 117,
+        "path": "masters/discs-and-diamonds-repeat-a.webp",
+        "sha256": "0802ffc1c643a4b92a6ad53676bc0388e52c2cc7613542da396c5a1013b20f22",
+        "w": 523
+      },
+      "palette": [
+        "#3d3b3b",
+        "#3f4859",
+        "#695f52",
+        "#a69166",
+        "#8b7757"
+      ],
+      "provenance": {
+        "artist": "Coëtivy Master (French)",
+        "date": "c. 1460",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.a/2005.206.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-repeat",
+        "object_identifier": "2005.206.a",
+        "object_title": "Leaf from a Book of Hours: Office of the Dead: Angel Chasing a Devil (recto)",
+        "record_url": "https://clevelandart.org/art/2005.206.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "3f5adfecfe574825b8e47db6e3b7975029c48443187a5b1b888befc893dd618c"
+      },
+      "quality": "The outer edges of the band are soft at partial alpha; the hand-drawn corners keep the uneven spacing of the original.",
+      "related": [
+        {
+          "asset": "cma-2005-206/discs-and-three-diamonds-line-filler",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2005-206/discs-and-diamonds-repeat-b",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "frame": {
+          "atlas": {
+            "avif": [
+              {
+                "bytes": 1712,
+                "h": 64,
+                "path": "frames/discs-and-diamonds-repeat-a-atlas-64.avif",
+                "sha256": "a58230e2289bd480df241eb4bd5a4507b4332d09c169ecdf64d5141aaf1bcc49",
+                "w": 64
+              },
+              {
+                "bytes": 2776,
+                "h": 96,
+                "path": "frames/discs-and-diamonds-repeat-a-atlas-96.avif",
+                "sha256": "29b1798d0c1c3396e986f5af62fcb77a3cacfe0ce457a54e0d547199cb1fd790",
+                "w": 96
+              },
+              {
+                "bytes": 3753,
+                "h": 128,
+                "path": "frames/discs-and-diamonds-repeat-a-atlas-128.avif",
+                "sha256": "34339a3937148346e17e6f9965691bb0e57f402aeb3bb19a73dee20445572213",
+                "w": 128
+              },
+              {
+                "bytes": 6471,
+                "h": 192,
+                "path": "frames/discs-and-diamonds-repeat-a-atlas-192.avif",
+                "sha256": "8259fb44cd52a6decbdc4e0eb45715f6114fb7ee899d72efb04bef0761491caf",
+                "w": 192
+              },
+              {
+                "bytes": 8411,
+                "h": 256,
+                "path": "frames/discs-and-diamonds-repeat-a-atlas-256.avif",
+                "sha256": "a141dbb22d71afb72b0bf2de6673d8e85a7bd3ebef9ec60176f3b842f16e3cce",
+                "w": 256
+              },
+              {
+                "bytes": 13600,
+                "h": 384,
+                "path": "frames/discs-and-diamonds-repeat-a-atlas-384.avif",
+                "sha256": "47d3700ec5a9095ff6d0721cf61d123170398ac4989a86cfb6cc542f5866de91",
+                "w": 384
+              },
+              {
+                "bytes": 20349,
+                "h": 512,
+                "path": "frames/discs-and-diamonds-repeat-a-atlas-512.avif",
+                "sha256": "84ca3eb568a352a2c40f2ea14836648e331a9f12606f4e101ee5155cae1eac13",
+                "w": 512
+              },
+              {
+                "bytes": 30996,
+                "h": 757,
+                "path": "frames/discs-and-diamonds-repeat-a-atlas-757.avif",
+                "sha256": "3b6359d06c8876c2b44b9a1cc075ad8ba0823b836c4b7d4f507b850de1bafaed",
+                "w": 757
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 2484,
+                "h": 64,
+                "path": "frames/discs-and-diamonds-repeat-a-atlas-64.webp",
+                "sha256": "61dd2578807a43383342392addaaf1ca92d5aea272857f6ead878675fd1f6a1d",
+                "w": 64
+              },
+              {
+                "bytes": 4240,
+                "h": 96,
+                "path": "frames/discs-and-diamonds-repeat-a-atlas-96.webp",
+                "sha256": "f83bdc49368ae3c20bb677e67abe30dae91d752cd561a327bcae379a63938a73",
+                "w": 96
+              },
+              {
+                "bytes": 6480,
+                "h": 128,
+                "path": "frames/discs-and-diamonds-repeat-a-atlas-128.webp",
+                "sha256": "c2eec8efd761e1cd533702c61de3b6d56a032e640caef93b1bdf04ff367fbba3",
+                "w": 128
+              },
+              {
+                "bytes": 11736,
+                "h": 192,
+                "path": "frames/discs-and-diamonds-repeat-a-atlas-192.webp",
+                "sha256": "50a32b10b8f922dcdd323232eec4f4cb4f760b36e0bb46699e1f32f4cdfd038a",
+                "w": 192
+              },
+              {
+                "bytes": 16796,
+                "h": 256,
+                "path": "frames/discs-and-diamonds-repeat-a-atlas-256.webp",
+                "sha256": "19c0068631db5443ef7c3e7a2554fe08a0c38668496a7aa3e184bc7aae3953ae",
+                "w": 256
+              },
+              {
+                "bytes": 26538,
+                "h": 384,
+                "path": "frames/discs-and-diamonds-repeat-a-atlas-384.webp",
+                "sha256": "6ffdf5ada63c123ef8996c61a491b19b0e911aba6bdad6e4f3b4d28e3bf274fe",
+                "w": 384
+              },
+              {
+                "bytes": 38228,
+                "h": 512,
+                "path": "frames/discs-and-diamonds-repeat-a-atlas-512.webp",
+                "sha256": "095cc3ed90befda7064a6b9131fdd4282adb5e012672f069854a7fa5bd29b256",
+                "w": 512
+              },
+              {
+                "bytes": 52526,
+                "h": 757,
+                "path": "frames/discs-and-diamonds-repeat-a-atlas-757.webp",
+                "sha256": "db3a8a4397cfa0ea3825c888b2ee8bfa93b0ff159edc0c10872146def9f2444f",
+                "w": 757
+              }
+            ]
+          },
+          "corner": "corner-top-left",
+          "slice": 15.46
+        },
+        "image": {},
+        "tile": {
+          "axis": "x",
+          "period": 1,
+          "rotated": {
+            "avif": [
+              {
+                "bytes": 863,
+                "h": 64,
+                "path": "tiles/discs-and-diamonds-repeat-a-rotated-14.avif",
+                "sha256": "d9a94bf567dca1681ca60ada68143508b7cff932af62e1cc4e7a0b78d73db056",
+                "w": 14
+              },
+              {
+                "bytes": 1284,
+                "h": 96,
+                "path": "tiles/discs-and-diamonds-repeat-a-rotated-21.avif",
+                "sha256": "7be5a8442f4fd5240f7d3134e8127f784b0b46c221d8bc8a0506b4af5b20d47d",
+                "w": 21
+              },
+              {
+                "bytes": 1815,
+                "h": 128,
+                "path": "tiles/discs-and-diamonds-repeat-a-rotated-29.avif",
+                "sha256": "cc5459d5c0194e9d9104597d54142e20b5c8e34b58d47894ec6b8771c6a67ec4",
+                "w": 29
+              },
+              {
+                "bytes": 2233,
+                "h": 192,
+                "path": "tiles/discs-and-diamonds-repeat-a-rotated-43.avif",
+                "sha256": "e77e3b2912292e2233d166121efe00433684dcc8a9eda3e07a0d27541ee2bcfd",
+                "w": 43
+              },
+              {
+                "bytes": 3020,
+                "h": 256,
+                "path": "tiles/discs-and-diamonds-repeat-a-rotated-57.avif",
+                "sha256": "12ef9722361eb3040d85a73bc714275b85d6553a1cd64f88ff4d36bf50a30194",
+                "w": 57
+              },
+              {
+                "bytes": 5089,
+                "h": 384,
+                "path": "tiles/discs-and-diamonds-repeat-a-rotated-86.avif",
+                "sha256": "e43296ea2bc4225d4d6500d0273e6640c83f805efa280f456d957817aaf9e0a0",
+                "w": 86
+              },
+              {
+                "bytes": 6909,
+                "h": 512,
+                "path": "tiles/discs-and-diamonds-repeat-a-rotated-115.avif",
+                "sha256": "b75c44e04105090ccdb835fc4195cfe0dfc760effbfc39e557e506dc365d0d80",
+                "w": 115
+              },
+              {
+                "bytes": 6617,
+                "h": 523,
+                "path": "tiles/discs-and-diamonds-repeat-a-rotated-117.avif",
+                "sha256": "e7ccb49ca2e02a2a6aee73bb13fa00a32e5f9cccacf247de4b28d3cdadc2f361",
+                "w": 117
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 970,
+                "h": 64,
+                "path": "tiles/discs-and-diamonds-repeat-a-rotated-14.webp",
+                "sha256": "3a61e14caead97800a88f687287bae93df9138c3ca9b16c37a62eb0faabd3a26",
+                "w": 14
+              },
+              {
+                "bytes": 1704,
+                "h": 96,
+                "path": "tiles/discs-and-diamonds-repeat-a-rotated-21.webp",
+                "sha256": "a298e5f85fd7d0129139b0b0ed5f732e240af01649907cea1f1ea178cd77f3d4",
+                "w": 21
+              },
+              {
+                "bytes": 2688,
+                "h": 128,
+                "path": "tiles/discs-and-diamonds-repeat-a-rotated-29.webp",
+                "sha256": "349ac9019bac784ff16399d8cdc15f3b699cb94e0c3e9ee8ed3d2029203e4e06",
+                "w": 29
+              },
+              {
+                "bytes": 4136,
+                "h": 192,
+                "path": "tiles/discs-and-diamonds-repeat-a-rotated-43.webp",
+                "sha256": "8039ae0c2e85850ae080d210f5038e7d489e986f442f25a060bb44cdd41f23a4",
+                "w": 43
+              },
+              {
+                "bytes": 6174,
+                "h": 256,
+                "path": "tiles/discs-and-diamonds-repeat-a-rotated-57.webp",
+                "sha256": "4b461f05bd7094ae4ed00b30553cdea18827c4b0f1c3fd5684355abd2c34018b",
+                "w": 57
+              },
+              {
+                "bytes": 9294,
+                "h": 384,
+                "path": "tiles/discs-and-diamonds-repeat-a-rotated-86.webp",
+                "sha256": "1528224fde210eef71a4d4696c7c3e804653b970dbdb096e623a2b82e00784d8",
+                "w": 86
+              },
+              {
+                "bytes": 12736,
+                "h": 512,
+                "path": "tiles/discs-and-diamonds-repeat-a-rotated-115.webp",
+                "sha256": "6271e05158d9e3f86f0ea7d930ca3b088be0276239838800607739ab238bef1b",
+                "w": 115
+              },
+              {
+                "bytes": 11412,
+                "h": 523,
+                "path": "tiles/discs-and-diamonds-repeat-a-rotated-117.webp",
+                "sha256": "2ab9b59be6fe2682821640f4952c6eac5368027a7e6c41b2b5d2466d94f2e09f",
+                "w": 117
+              }
+            ]
+          }
+        }
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 854,
+            "h": 14,
+            "path": "avif/discs-and-diamonds-repeat-a-64.avif",
+            "sha256": "d614b7e0fe78a8d2b4d7a8f55d1da915351a17ce1222e6738d9ec30bd85c7fc5",
+            "w": 64
+          },
+          {
+            "bytes": 1341,
+            "h": 21,
+            "path": "avif/discs-and-diamonds-repeat-a-96.avif",
+            "sha256": "141f93e1bc850e1104bd006dbf539e1d904bd46ef9c007e116956d579ee47b34",
+            "w": 96
+          },
+          {
+            "bytes": 1791,
+            "h": 29,
+            "path": "avif/discs-and-diamonds-repeat-a-128.avif",
+            "sha256": "c2e6fe7de132d79673383587dfb6000cdc976350cc906dd1e859f04646b7d0e2",
+            "w": 128
+          },
+          {
+            "bytes": 2307,
+            "h": 43,
+            "path": "avif/discs-and-diamonds-repeat-a-192.avif",
+            "sha256": "d86b260cbfcc8b0764f59ef3de3acfb2ce9b9be8d4315178103a934ef08cc119",
+            "w": 192
+          },
+          {
+            "bytes": 2972,
+            "h": 57,
+            "path": "avif/discs-and-diamonds-repeat-a-256.avif",
+            "sha256": "f39e7c9576a0dfdc4abdfd32538e8ba7367dac32ef799501d3bb7570610ef418",
+            "w": 256
+          },
+          {
+            "bytes": 5220,
+            "h": 86,
+            "path": "avif/discs-and-diamonds-repeat-a-384.avif",
+            "sha256": "8fd99048a0320a379cc4071e4da1f5b73fc33bce24f7f8dc3c7e7b6503447a62",
+            "w": 384
+          },
+          {
+            "bytes": 7005,
+            "h": 115,
+            "path": "avif/discs-and-diamonds-repeat-a-512.avif",
+            "sha256": "ea1979e989cb0c39d73affdb159024b7e1ea62fd9e680c1156349808dac74b28",
+            "w": 512
+          },
+          {
+            "bytes": 6876,
+            "h": 117,
+            "path": "avif/discs-and-diamonds-repeat-a-523.avif",
+            "sha256": "4f1b10be76643079cc9d45b678c93ab9a075e4ea285f5e293e82e4649e76e5b2",
+            "w": 523
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 852,
+            "h": 14,
+            "path": "webp/discs-and-diamonds-repeat-a-64.webp",
+            "sha256": "1de919f64c80aa9c177f19f31c16bc72fbebd2ded4b6a386d7708044b4ffe7f7",
+            "w": 64
+          },
+          {
+            "bytes": 1464,
+            "h": 21,
+            "path": "webp/discs-and-diamonds-repeat-a-96.webp",
+            "sha256": "831704f1432d040c0442e26e08f2508ba0f84900295fc8ca2e0d31c3ef38239e",
+            "w": 96
+          },
+          {
+            "bytes": 2518,
+            "h": 29,
+            "path": "webp/discs-and-diamonds-repeat-a-128.webp",
+            "sha256": "b136dceb4beb402a6dee2c16bb8a7b9271bfd6c3f10c8396ae8c909e09fe5fd6",
+            "w": 128
+          },
+          {
+            "bytes": 3846,
+            "h": 43,
+            "path": "webp/discs-and-diamonds-repeat-a-192.webp",
+            "sha256": "3cf556667cc50ba89247a6d12abe4b3bc5aef9cec4417f144cb8257069fcbe46",
+            "w": 192
+          },
+          {
+            "bytes": 5770,
+            "h": 57,
+            "path": "webp/discs-and-diamonds-repeat-a-256.webp",
+            "sha256": "74b686c5d187cb48d3082833f9c35bc9025842fe65f86cf10ea3cb1fca408867",
+            "w": 256
+          },
+          {
+            "bytes": 8808,
+            "h": 86,
+            "path": "webp/discs-and-diamonds-repeat-a-384.webp",
+            "sha256": "8e87b537c70b9f33f7dd9849f44c5ee0a367ffb66f762edfa1ed23ad2ca49737",
+            "w": 384
+          },
+          {
+            "bytes": 12334,
+            "h": 115,
+            "path": "webp/discs-and-diamonds-repeat-a-512.webp",
+            "sha256": "fa71a8e7eef98a94ebad873e045c4c83c211e6729d2b87612acba25a74dea49a",
+            "w": 512
+          },
+          {
+            "bytes": 10652,
+            "h": 117,
+            "path": "webp/discs-and-diamonds-repeat-a-523.webp",
+            "sha256": "3bd5d9c2a8c3b6d172a78462205ae3ff452076ee33cfa9cdfbb178efac5c3910",
+            "w": 523
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "line-filler",
+        "disc",
+        "diamond"
+      ],
+      "thumbhash": "VgiGCYA8bJmKaHBfivaoSXh3h4iAdyg=",
+      "title": "Discs and diamonds on gold, recto repeat tile",
+      "transparent": true,
+      "type": "border",
+      "usage_notes": [
+        "Repeat along x; use the generated rotated tile for a vertical band and the generated atlas for a border-image frame.",
+        "Keep it at or below native size; the band is 117 px tall and blurs when enlarged."
+      ],
+      "width": 523
+    },
+    "discs-and-diamonds-repeat-b": {
+      "attribution": "Cleveland Museum of Art 2005.206.b",
+      "categories": [
+        "geometric"
+      ],
+      "colors": [
+        "gold",
+        "blue",
+        "brown",
+        "black"
+      ],
+      "components": {
+        "bar": {
+          "description": "The whole deskewed source strip the cycle was cut from, at native scale, with its original uneven spacing.",
+          "encoding": {
+            "avif": true,
+            "avifTopBytes": 27947,
+            "webpTopBytes": 51070
+          },
+          "master": {
+            "bytes": 220908,
+            "h": 94,
+            "path": "masters/discs-and-diamonds-repeat-b.bar.webp",
+            "sha256": "75ffc63b353e674e28b1743ee32346db510d977236044dff08d5eb38b5db3394",
+            "w": 2048
+          },
+          "sources": {
+            "avif": [
+              {
+                "bytes": 607,
+                "h": 3,
+                "path": "avif/discs-and-diamonds-repeat-b.bar-64.avif",
+                "sha256": "d5f9dd673424164395cd2e163994dbf961a59519168a3dfd37633af1edf4ab76",
+                "w": 64
+              },
+              {
+                "bytes": 733,
+                "h": 4,
+                "path": "avif/discs-and-diamonds-repeat-b.bar-96.avif",
+                "sha256": "4fff8de32ce45d0ebbfa41f5d9b378396748e8228661c9a7735aa1ae645baf16",
+                "w": 96
+              },
+              {
+                "bytes": 999,
+                "h": 6,
+                "path": "avif/discs-and-diamonds-repeat-b.bar-128.avif",
+                "sha256": "de605a6573cf440c508903e31a0aa07347324b52f344a8ac95540811f6e6be30",
+                "w": 128
+              },
+              {
+                "bytes": 1699,
+                "h": 9,
+                "path": "avif/discs-and-diamonds-repeat-b.bar-192.avif",
+                "sha256": "3407440565cfcf7c0423a96e7ea1c5c07bc757b57a105e241b1c25de5e691210",
+                "w": 192
+              },
+              {
+                "bytes": 2127,
+                "h": 12,
+                "path": "avif/discs-and-diamonds-repeat-b.bar-256.avif",
+                "sha256": "cc61c448f2fa9e7247388836acf5a1b5dac23a4e4fdd001d8048bd3c9df9ffba",
+                "w": 256
+              },
+              {
+                "bytes": 4035,
+                "h": 18,
+                "path": "avif/discs-and-diamonds-repeat-b.bar-384.avif",
+                "sha256": "1c2fc017140d71f39230238e58ceee3d6aa3876efdf78c289f92c58c23b55f00",
+                "w": 384
+              },
+              {
+                "bytes": 5357,
+                "h": 24,
+                "path": "avif/discs-and-diamonds-repeat-b.bar-512.avif",
+                "sha256": "1a0f192c4dac4af9bd29edc140e1772ae878b0fe9e8c37a7feca0c4d52281a2d",
+                "w": 512
+              },
+              {
+                "bytes": 9307,
+                "h": 35,
+                "path": "avif/discs-and-diamonds-repeat-b.bar-768.avif",
+                "sha256": "697ea99bc04f5d948bc754f6581b3256d4bd913ecd2013d53fc02032e94a1082",
+                "w": 768
+              },
+              {
+                "bytes": 10841,
+                "h": 47,
+                "path": "avif/discs-and-diamonds-repeat-b.bar-1024.avif",
+                "sha256": "aa39170aa9ccee03700bfe9770ddff80328cbb11fe95184878d4eb2540daaeda",
+                "w": 1024
+              },
+              {
+                "bytes": 19524,
+                "h": 71,
+                "path": "avif/discs-and-diamonds-repeat-b.bar-1536.avif",
+                "sha256": "a5358a88c11747ba03ac49a4ea9491eb76234b173bfb3a51cd2ba78e77791d5b",
+                "w": 1536
+              },
+              {
+                "bytes": 27947,
+                "h": 94,
+                "path": "avif/discs-and-diamonds-repeat-b.bar-2048.avif",
+                "sha256": "c61f1f3f3bad2df8c2633a775171f43aee38ed5d7008c773d5e0fe7181e15073",
+                "w": 2048
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 370,
+                "h": 3,
+                "path": "webp/discs-and-diamonds-repeat-b.bar-64.webp",
+                "sha256": "3d92796b86cf749f797729c4e04f31040dc736822e8dddd6a266e9716ded2f8d",
+                "w": 64
+              },
+              {
+                "bytes": 548,
+                "h": 4,
+                "path": "webp/discs-and-diamonds-repeat-b.bar-96.webp",
+                "sha256": "3650a2a434d0203a181799146cac2e8ea64c1079a58c624a35f0f0b30a7961de",
+                "w": 96
+              },
+              {
+                "bytes": 1250,
+                "h": 6,
+                "path": "webp/discs-and-diamonds-repeat-b.bar-128.webp",
+                "sha256": "80ac1591742d402519f53c51c88759d821a5d17e72711cafdbf0cf7e39c76ca7",
+                "w": 128
+              },
+              {
+                "bytes": 2256,
+                "h": 9,
+                "path": "webp/discs-and-diamonds-repeat-b.bar-192.webp",
+                "sha256": "38bc5d479c60feca01faacd2fecad8319b2f58e9b8862004ee8c89506886a178",
+                "w": 192
+              },
+              {
+                "bytes": 2632,
+                "h": 12,
+                "path": "webp/discs-and-diamonds-repeat-b.bar-256.webp",
+                "sha256": "b48e8ce7f253838b05ae7ccf1573b2ecb4c4d8f000c725912aa802e41208bd6a",
+                "w": 256
+              },
+              {
+                "bytes": 6338,
+                "h": 18,
+                "path": "webp/discs-and-diamonds-repeat-b.bar-384.webp",
+                "sha256": "8a6e6c29240a5060c0fb68c985a0e6d75c46ae9a1ab799e197c11529a40239c3",
+                "w": 384
+              },
+              {
+                "bytes": 9162,
+                "h": 24,
+                "path": "webp/discs-and-diamonds-repeat-b.bar-512.webp",
+                "sha256": "3b55b302ecce1ac120f31d44239dfa7d79c444c2e2e3e35a243022cb01a2c1aa",
+                "w": 512
+              },
+              {
+                "bytes": 16466,
+                "h": 35,
+                "path": "webp/discs-and-diamonds-repeat-b.bar-768.webp",
+                "sha256": "0922e435e1bc1d28d5a9a774fb2cdaa4268cf0a5a1d0dc84aea6ec601b6d03f0",
+                "w": 768
+              },
+              {
+                "bytes": 22044,
+                "h": 47,
+                "path": "webp/discs-and-diamonds-repeat-b.bar-1024.webp",
+                "sha256": "56368f7872cc86f4fb560f1b193d11b4288d20df155aeeca10ad5419d1a48482",
+                "w": 1024
+              },
+              {
+                "bytes": 35738,
+                "h": 71,
+                "path": "webp/discs-and-diamonds-repeat-b.bar-1536.webp",
+                "sha256": "14d0e01089fcfe8ba1cf63a2f3dd69d640e4f5700c22a501466dab405b4fbe66",
+                "w": 1536
+              },
+              {
+                "bytes": 51070,
+                "h": 94,
+                "path": "webp/discs-and-diamonds-repeat-b.bar-2048.webp",
+                "sha256": "1fb02c157bff938a507fbea7630321ec02a4087f1720e8d13d47a4f1d4980204",
+                "w": 2048
+              }
+            ]
+          }
+        },
+        "corner-bottom-left": {
+          "description": "Bottom-left mitred corner cut from the source, a brown diamond on gold; not used by the generated atlas.",
+          "encoding": {
+            "avif": true,
+            "avifTopBytes": 2319,
+            "webpTopBytes": 3026
+          },
+          "master": {
+            "bytes": 14352,
+            "h": 113,
+            "path": "masters/discs-and-diamonds-repeat-b.corner-bottom-left.webp",
+            "sha256": "ee59c8548f3ceec97d73d4ddaeff1d148d1639c71ebc9decbff07d5640968606",
+            "w": 113
+          },
+          "sources": {
+            "avif": [
+              {
+                "bytes": 1352,
+                "h": 64,
+                "path": "avif/discs-and-diamonds-repeat-b.corner-bottom-left-64.avif",
+                "sha256": "75521d375ee9bbee96aac895068875603391f0bd6814d70c05a4ececfb2d0500",
+                "w": 64
+              },
+              {
+                "bytes": 2026,
+                "h": 96,
+                "path": "avif/discs-and-diamonds-repeat-b.corner-bottom-left-96.avif",
+                "sha256": "c61fb57c9cf0a911286c1198f7915f9e1bd416e9dd5dd65147e655a05e470360",
+                "w": 96
+              },
+              {
+                "bytes": 2319,
+                "h": 113,
+                "path": "avif/discs-and-diamonds-repeat-b.corner-bottom-left-113.avif",
+                "sha256": "045409501455b6622aa576620bd8897dfe5a44626f12fc299d4ce2da44a5754c",
+                "w": 113
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 1866,
+                "h": 64,
+                "path": "webp/discs-and-diamonds-repeat-b.corner-bottom-left-64.webp",
+                "sha256": "80e9d36d888cb9b41da8b15443d83632f0de87642191f4521c96309549c1c8c7",
+                "w": 64
+              },
+              {
+                "bytes": 3104,
+                "h": 96,
+                "path": "webp/discs-and-diamonds-repeat-b.corner-bottom-left-96.webp",
+                "sha256": "abb13145024a9e201e93d4898a22bc878c93ad3de208d09ad669c8e5509cbe9e",
+                "w": 96
+              },
+              {
+                "bytes": 3026,
+                "h": 113,
+                "path": "webp/discs-and-diamonds-repeat-b.corner-bottom-left-113.webp",
+                "sha256": "f2a2b08e63c521a7f0bef5e3b2f413b48a46335b36db5a29fbb150472c8eb7f8",
+                "w": 113
+              }
+            ]
+          }
+        },
+        "corner-bottom-right": {
+          "description": "Bottom-right mitred corner cut from the source, a blue disc on gold; not used by the generated atlas.",
+          "encoding": {
+            "avif": true,
+            "avifTopBytes": 2060,
+            "webpTopBytes": 2970
+          },
+          "master": {
+            "bytes": 13784,
+            "h": 113,
+            "path": "masters/discs-and-diamonds-repeat-b.corner-bottom-right.webp",
+            "sha256": "f3307499e5a0c7df8f8a2e2f289a90cc79453ca42f13e749bc415e544873a213",
+            "w": 113
+          },
+          "sources": {
+            "avif": [
+              {
+                "bytes": 1269,
+                "h": 64,
+                "path": "avif/discs-and-diamonds-repeat-b.corner-bottom-right-64.avif",
+                "sha256": "f07b09c7e9dcaa7e318c00a31753394fab5e4405afd9422553b2ce1bb4b81a0e",
+                "w": 64
+              },
+              {
+                "bytes": 2008,
+                "h": 96,
+                "path": "avif/discs-and-diamonds-repeat-b.corner-bottom-right-96.avif",
+                "sha256": "1d7a7f244735c1856981a2bce34e2bc51e9a923f3aa4efb85adc671fe9c69689",
+                "w": 96
+              },
+              {
+                "bytes": 2060,
+                "h": 113,
+                "path": "avif/discs-and-diamonds-repeat-b.corner-bottom-right-113.avif",
+                "sha256": "f316b2ad3794383182314f856fec74ad85d73e07a8248577e9951ddcafa9e60f",
+                "w": 113
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 1816,
+                "h": 64,
+                "path": "webp/discs-and-diamonds-repeat-b.corner-bottom-right-64.webp",
+                "sha256": "98f722d517034e0a9081161be29fe1f13124aff6c8cb103c27fae81b4360532c",
+                "w": 64
+              },
+              {
+                "bytes": 2856,
+                "h": 96,
+                "path": "webp/discs-and-diamonds-repeat-b.corner-bottom-right-96.webp",
+                "sha256": "8c2c488d8d286ca62e4ac08f8f33ad05813a6ee495eb61ce5298fff9a17c04d3",
+                "w": 96
+              },
+              {
+                "bytes": 2970,
+                "h": 113,
+                "path": "webp/discs-and-diamonds-repeat-b.corner-bottom-right-113.webp",
+                "sha256": "4330bead83dad89b1ad803593b8c5c52f10ffa3e1e7b63d668dc5d6212854f81",
+                "w": 113
+              }
+            ]
+          }
+        },
+        "corner-top-left": {
+          "description": "Top-left mitred corner cut from the source, a blue diamond on gold; mirrored by the build for the other three corners of the atlas.",
+          "encoding": {
+            "avif": true,
+            "avifTopBytes": 2088,
+            "webpTopBytes": 3006
+          },
+          "master": {
+            "bytes": 13438,
+            "h": 113,
+            "path": "masters/discs-and-diamonds-repeat-b.corner-top-left.webp",
+            "sha256": "c95336038d02fc6fd10de44c5fe62246d56b986c8f74c0bd466bacea1bdd22b9",
+            "w": 113
+          },
+          "sources": {
+            "avif": [
+              {
+                "bytes": 1216,
+                "h": 64,
+                "path": "avif/discs-and-diamonds-repeat-b.corner-top-left-64.avif",
+                "sha256": "fbcb8b48cc48e5ab06392332ef3b78bf3fb984fe078ea1905376c972341ec60f",
+                "w": 64
+              },
+              {
+                "bytes": 1893,
+                "h": 96,
+                "path": "avif/discs-and-diamonds-repeat-b.corner-top-left-96.avif",
+                "sha256": "9cba0bfa3c787b786a566b664b29132c1c425ca099c31861bc0e7450ba59ceda",
+                "w": 96
+              },
+              {
+                "bytes": 2088,
+                "h": 113,
+                "path": "avif/discs-and-diamonds-repeat-b.corner-top-left-113.avif",
+                "sha256": "8358ff5c47d7b1757165a3f2394145bad2ccb8e1fb39a8144dc56aeb84d16187",
+                "w": 113
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 1784,
+                "h": 64,
+                "path": "webp/discs-and-diamonds-repeat-b.corner-top-left-64.webp",
+                "sha256": "b5bf83a2090e8de5e6aab272b68a80f6e49a206dc719beea2eea76a8667a4e2a",
+                "w": 64
+              },
+              {
+                "bytes": 2844,
+                "h": 96,
+                "path": "webp/discs-and-diamonds-repeat-b.corner-top-left-96.webp",
+                "sha256": "af1901226ffc515d20ea1f09e14f3c25f72b3fa4c66607706e93b60aa8daa221",
+                "w": 96
+              },
+              {
+                "bytes": 3006,
+                "h": 113,
+                "path": "webp/discs-and-diamonds-repeat-b.corner-top-left-113.webp",
+                "sha256": "c26d8de217ff67d3904cb636cc4a67174c6168903f9561623fdaac2974274f89",
+                "w": 113
+              }
+            ]
+          }
+        },
+        "corner-top-right": {
+          "description": "Top-right mitred corner cut from the source, a brown diamond on gold; not used by the generated atlas.",
+          "encoding": {
+            "avif": true,
+            "avifTopBytes": 2308,
+            "webpTopBytes": 3012
+          },
+          "master": {
+            "bytes": 14240,
+            "h": 113,
+            "path": "masters/discs-and-diamonds-repeat-b.corner-top-right.webp",
+            "sha256": "265a6c6292eb3fb6ea1d2916f6449f226d3df1cf8193da0873f9118a52c63baf",
+            "w": 113
+          },
+          "sources": {
+            "avif": [
+              {
+                "bytes": 1360,
+                "h": 64,
+                "path": "avif/discs-and-diamonds-repeat-b.corner-top-right-64.avif",
+                "sha256": "436b27e2dee5139d27e04e304f9218f28fdf72f9f9315b840a313558258bc414",
+                "w": 64
+              },
+              {
+                "bytes": 2068,
+                "h": 96,
+                "path": "avif/discs-and-diamonds-repeat-b.corner-top-right-96.avif",
+                "sha256": "355963d3a4050181a2d00ec1371fcf75413f061006dd71be2caba942cc1e47cf",
+                "w": 96
+              },
+              {
+                "bytes": 2308,
+                "h": 113,
+                "path": "avif/discs-and-diamonds-repeat-b.corner-top-right-113.avif",
+                "sha256": "a3d854865bfaf17ac92ffb76738c5fdc25cf1058dce4ffb2c84e6105e5957d9b",
+                "w": 113
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 1848,
+                "h": 64,
+                "path": "webp/discs-and-diamonds-repeat-b.corner-top-right-64.webp",
+                "sha256": "998682529af8c07dc993b3c4c556bdefe57da49cd3ecd73d8039fb6400fbfc3b",
+                "w": 64
+              },
+              {
+                "bytes": 3140,
+                "h": 96,
+                "path": "webp/discs-and-diamonds-repeat-b.corner-top-right-96.webp",
+                "sha256": "39cd5efea41222c58f53916d2b3b14c98e60e92a19bf21e9b7ee475ea69027b3",
+                "w": 96
+              },
+              {
+                "bytes": 3012,
+                "h": 113,
+                "path": "webp/discs-and-diamonds-repeat-b.corner-top-right-113.webp",
+                "sha256": "10aa9f771b0262ea369f20baddf94949c45b9aa3d2bf60583b1f2d2a9c9cea14",
+                "w": 113
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "One six-motif cycle of the verso line fillers, a burnished gold band between two black rules carrying a brown diamond split across the join, then a blue disc, brown disc, blue disc, brown disc and blue diamond, each with fine gold hatching. The pattern continues across the left and right edges. Only the painted band is opaque; the thin strips above and below it are transparent.",
+      "display_width": [
+        245,
+        490
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 7022,
+        "webpTopBytes": 10394
+      },
+      "facing": "none",
+      "group": "b",
+      "height": 113,
+      "master": {
+        "bytes": 54854,
+        "h": 113,
+        "path": "masters/discs-and-diamonds-repeat-b.webp",
+        "sha256": "15886fc2db4517684411f4dffd5b14723b06b4c7c257e4f1d81c6ae47e3fe06b",
+        "w": 490
+      },
+      "palette": [
+        "#455062",
+        "#9e8e64",
+        "#494340",
+        "#776f5d",
+        "#706049"
+      ],
+      "provenance": {
+        "artist": "Coëtivy Master (French)",
+        "date": "c. 1460",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.b/2005.206.b_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-repeat",
+        "object_identifier": "2005.206.b",
+        "object_title": "Leaf from a Book of Hours: Office of the Dead: Two Devils (verso)",
+        "record_url": "https://clevelandart.org/art/2005.206.b",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "95460394e5a6c2947fef91eaa47c0dd9d8b038169ba47711ba7c3b4f4a812cf1"
+      },
+      "quality": "The outer edges of the band are soft at partial alpha; the hand-drawn corners keep the uneven spacing of the original.",
+      "related": [
+        {
+          "asset": "cma-2005-206/discs-and-diamonds-line-filler",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2005-206/discs-and-diamonds-repeat-a",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "frame": {
+          "atlas": {
+            "avif": [
+              {
+                "bytes": 1885,
+                "h": 64,
+                "path": "frames/discs-and-diamonds-repeat-b-atlas-64.avif",
+                "sha256": "3cb9cee7fc247b8bbfb731f354cdd410de2472b37f324b0def28f345da2fd30f",
+                "w": 64
+              },
+              {
+                "bytes": 2892,
+                "h": 96,
+                "path": "frames/discs-and-diamonds-repeat-b-atlas-96.avif",
+                "sha256": "1b0c974420165e64ea08fe3ded55d16c41cffd93fdcfa6909d185ddfb7612951",
+                "w": 96
+              },
+              {
+                "bytes": 4533,
+                "h": 128,
+                "path": "frames/discs-and-diamonds-repeat-b-atlas-128.avif",
+                "sha256": "c0c7598cd2e6a8e3762f29e351ce4aa790f0e5eea71ba8c6dc40626833f45ab7",
+                "w": 128
+              },
+              {
+                "bytes": 7330,
+                "h": 192,
+                "path": "frames/discs-and-diamonds-repeat-b-atlas-192.avif",
+                "sha256": "fb486033d268e3bbe8da0f2d6ccb518bf8b7f6f1642e7f1db3657d9ceac0f8d7",
+                "w": 192
+              },
+              {
+                "bytes": 8937,
+                "h": 256,
+                "path": "frames/discs-and-diamonds-repeat-b-atlas-256.avif",
+                "sha256": "8de6ed231df702719e746e13787387addbae99f7797da85fed4c049ae8e11c2f",
+                "w": 256
+              },
+              {
+                "bytes": 14229,
+                "h": 384,
+                "path": "frames/discs-and-diamonds-repeat-b-atlas-384.avif",
+                "sha256": "0faf06d179709ac86602c5ed73f40ff3fc8dc778e2d52ad350c22671841c215c",
+                "w": 384
+              },
+              {
+                "bytes": 22934,
+                "h": 512,
+                "path": "frames/discs-and-diamonds-repeat-b-atlas-512.avif",
+                "sha256": "e9db69efbf999e00b359529505fc66857181a95701a1bf9076ac9d433f71d7fa",
+                "w": 512
+              },
+              {
+                "bytes": 31979,
+                "h": 716,
+                "path": "frames/discs-and-diamonds-repeat-b-atlas-716.avif",
+                "sha256": "b17e133d3987197c5fb4d0364a5c42a16391784e04156ace03f8f1ac715bd4fd",
+                "w": 716
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 2824,
+                "h": 64,
+                "path": "frames/discs-and-diamonds-repeat-b-atlas-64.webp",
+                "sha256": "bb7f801ea2c030c2d45a6d119b55c27e3fd48f01853cce32481ffadffc5c7c11",
+                "w": 64
+              },
+              {
+                "bytes": 4150,
+                "h": 96,
+                "path": "frames/discs-and-diamonds-repeat-b-atlas-96.webp",
+                "sha256": "082eaceaa683552c3e9ea71321c766555d7070e51c6dc2fc85cefcb985fa399c",
+                "w": 96
+              },
+              {
+                "bytes": 7770,
+                "h": 128,
+                "path": "frames/discs-and-diamonds-repeat-b-atlas-128.webp",
+                "sha256": "b44aee64e3a9520c3541dbde676d22f4b48fac87ae52c93113ae4410656963ba",
+                "w": 128
+              },
+              {
+                "bytes": 13296,
+                "h": 192,
+                "path": "frames/discs-and-diamonds-repeat-b-atlas-192.webp",
+                "sha256": "db65e2586741eef12cba6d728b8fdaffa9a8bf12a67d5e68a1e5b85ac564ec13",
+                "w": 192
+              },
+              {
+                "bytes": 18446,
+                "h": 256,
+                "path": "frames/discs-and-diamonds-repeat-b-atlas-256.webp",
+                "sha256": "9f0d9d8b0826b6b7311bde0d8c73548126940e8342512dea1d1e7f3f9e6a3793",
+                "w": 256
+              },
+              {
+                "bytes": 29490,
+                "h": 384,
+                "path": "frames/discs-and-diamonds-repeat-b-atlas-384.webp",
+                "sha256": "1e35849404602814c11fbf632cc922ef3860fbefc3a6054d0f01db3e279840cd",
+                "w": 384
+              },
+              {
+                "bytes": 40696,
+                "h": 512,
+                "path": "frames/discs-and-diamonds-repeat-b-atlas-512.webp",
+                "sha256": "24857c9942b2e67fe3a687e4a92f5c6b37d8d5fee37e9c2fd97bfec32a88efc1",
+                "w": 512
+              },
+              {
+                "bytes": 51042,
+                "h": 716,
+                "path": "frames/discs-and-diamonds-repeat-b-atlas-716.webp",
+                "sha256": "dbf9292eefc1b7c1157b86f4bd388f781bfaac06f8331cb6d8dae84b119e24bb",
+                "w": 716
+              }
+            ]
+          },
+          "corner": "corner-top-left",
+          "slice": 15.78
+        },
+        "image": {},
+        "tile": {
+          "axis": "x",
+          "period": 1,
+          "rotated": {
+            "avif": [
+              {
+                "bytes": 930,
+                "h": 64,
+                "path": "tiles/discs-and-diamonds-repeat-b-rotated-15.avif",
+                "sha256": "367872676b17debb4d2d43c124bbde39d739306ee15bed1dfdec9326692cf198",
+                "w": 15
+              },
+              {
+                "bytes": 1461,
+                "h": 96,
+                "path": "tiles/discs-and-diamonds-repeat-b-rotated-22.avif",
+                "sha256": "0f9c073f63359ae2304279eae2b7b108092a519aacf1410388bb2ef63d3978a8",
+                "w": 22
+              },
+              {
+                "bytes": 1937,
+                "h": 128,
+                "path": "tiles/discs-and-diamonds-repeat-b-rotated-30.avif",
+                "sha256": "825b209c9b6da5f645675f6faa5b8ecfaea217290c4a18a24bf9a3a4e00455f1",
+                "w": 30
+              },
+              {
+                "bytes": 2597,
+                "h": 192,
+                "path": "tiles/discs-and-diamonds-repeat-b-rotated-44.avif",
+                "sha256": "fdd135a8f210c00ba2671aaa373ce7a21b209e78b2934ea623275e301f359f89",
+                "w": 44
+              },
+              {
+                "bytes": 3259,
+                "h": 256,
+                "path": "tiles/discs-and-diamonds-repeat-b-rotated-59.avif",
+                "sha256": "b8a884e76d32fe3aa1b3706a0c42f257e0af458b0e7bd54cde4c5770b1f97511",
+                "w": 59
+              },
+              {
+                "bytes": 5727,
+                "h": 384,
+                "path": "tiles/discs-and-diamonds-repeat-b-rotated-89.avif",
+                "sha256": "0ad8866ab9d496a58443c3077bbfa710c0a8a68b312ecb2e559eb3c94fc9f3da",
+                "w": 89
+              },
+              {
+                "bytes": 6723,
+                "h": 490,
+                "path": "tiles/discs-and-diamonds-repeat-b-rotated-113.avif",
+                "sha256": "3ceb5f8d664b0e87aee95dc8da9859a3b35d4ca63b5e3d2d436ffeea027f6814",
+                "w": 113
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 1038,
+                "h": 64,
+                "path": "tiles/discs-and-diamonds-repeat-b-rotated-15.webp",
+                "sha256": "b54d2729c1ba775f2a0cd88605029fc94f923bf75f1a7cb8bcbb2c97223eee68",
+                "w": 15
+              },
+              {
+                "bytes": 2106,
+                "h": 96,
+                "path": "tiles/discs-and-diamonds-repeat-b-rotated-22.webp",
+                "sha256": "abb8ad801c533a2d0ac9059be46cb9b4891eeddeb24abc4614a8db1c856eb70b",
+                "w": 22
+              },
+              {
+                "bytes": 3132,
+                "h": 128,
+                "path": "tiles/discs-and-diamonds-repeat-b-rotated-30.webp",
+                "sha256": "2385dd63890348cdd9d5663b14593158e36459307cc2a10edb904ed818e8eaa3",
+                "w": 30
+              },
+              {
+                "bytes": 4606,
+                "h": 192,
+                "path": "tiles/discs-and-diamonds-repeat-b-rotated-44.webp",
+                "sha256": "2137d667290deaf714e453b859c9b8ff94cb44878e698c96730dc10c78665569",
+                "w": 44
+              },
+              {
+                "bytes": 6518,
+                "h": 256,
+                "path": "tiles/discs-and-diamonds-repeat-b-rotated-59.webp",
+                "sha256": "ac0de85eddc1304d47c7e06e41e0abfd3f5b98fd84f918a78e4dc8c0e0140579",
+                "w": 59
+              },
+              {
+                "bytes": 10204,
+                "h": 384,
+                "path": "tiles/discs-and-diamonds-repeat-b-rotated-89.webp",
+                "sha256": "9f7bd7159af09fd5a894d3429936cef0867d4094abac47d0ce52bed70edfdd30",
+                "w": 89
+              },
+              {
+                "bytes": 11142,
+                "h": 490,
+                "path": "tiles/discs-and-diamonds-repeat-b-rotated-113.webp",
+                "sha256": "0a71c7cda61ba890e971bf67ec96c2c8fea3d24bd9a5aed9a43907fb9520bf82",
+                "w": 113
+              }
+            ]
+          }
+        }
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1050,
+            "h": 15,
+            "path": "avif/discs-and-diamonds-repeat-b-64.avif",
+            "sha256": "99c12cb759a2559f38828075297fdd57e9668f7affbd95a40247f5a0a3d740ba",
+            "w": 64
+          },
+          {
+            "bytes": 1449,
+            "h": 22,
+            "path": "avif/discs-and-diamonds-repeat-b-96.avif",
+            "sha256": "6b74f996dcfaef9c8c20eb5059190cf1bb55d4db03b4abed9e8da0ab92c3200a",
+            "w": 96
+          },
+          {
+            "bytes": 1922,
+            "h": 30,
+            "path": "avif/discs-and-diamonds-repeat-b-128.avif",
+            "sha256": "00b0756344fbcc7a19f3e4564ab00dbc78affc32597a270bd2847d30f55104de",
+            "w": 128
+          },
+          {
+            "bytes": 2609,
+            "h": 44,
+            "path": "avif/discs-and-diamonds-repeat-b-192.avif",
+            "sha256": "f48958ba2b9c08bbe727f3915aa710d9b83fc5b0d36a9a1080918f47e4e27fe6",
+            "w": 192
+          },
+          {
+            "bytes": 3277,
+            "h": 59,
+            "path": "avif/discs-and-diamonds-repeat-b-256.avif",
+            "sha256": "1c00f83aada1b9da62a60d164a507cbf2417dacb3ee55efa5ce9e011aca4ae5e",
+            "w": 256
+          },
+          {
+            "bytes": 5892,
+            "h": 89,
+            "path": "avif/discs-and-diamonds-repeat-b-384.avif",
+            "sha256": "075764d6723ba38e87cc606cb0fa0cb6b5d8bfb5432d992c4371003117ef0c85",
+            "w": 384
+          },
+          {
+            "bytes": 7022,
+            "h": 113,
+            "path": "avif/discs-and-diamonds-repeat-b-490.avif",
+            "sha256": "4778526fadc05aad80c351e26eb704a64a586e13ba8e4f598343cff8a986bfb6",
+            "w": 490
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 968,
+            "h": 15,
+            "path": "webp/discs-and-diamonds-repeat-b-64.webp",
+            "sha256": "36e155eb1d935ad0c24e55d57e174afc504863e5b4662e90ab5446bde846489f",
+            "w": 64
+          },
+          {
+            "bytes": 2018,
+            "h": 22,
+            "path": "webp/discs-and-diamonds-repeat-b-96.webp",
+            "sha256": "8b945467496de6728cfd1508190b633737a3025529813b6e900a2edf74d0fe6e",
+            "w": 96
+          },
+          {
+            "bytes": 3054,
+            "h": 30,
+            "path": "webp/discs-and-diamonds-repeat-b-128.webp",
+            "sha256": "23c9e0f4de0346ba882e9095dfd58aa34197122e80220dad93150ff4d41e6e79",
+            "w": 128
+          },
+          {
+            "bytes": 4480,
+            "h": 44,
+            "path": "webp/discs-and-diamonds-repeat-b-192.webp",
+            "sha256": "87aa92f1a94eec3b93c6f803ef51e2335816d1f1ff056ff8bd8ff777fe141356",
+            "w": 192
+          },
+          {
+            "bytes": 6206,
+            "h": 59,
+            "path": "webp/discs-and-diamonds-repeat-b-256.webp",
+            "sha256": "b71be03f9aec37782032ea07aa0136732c0ace68a5a823b9d2fc89ba25a8f3b0",
+            "w": 256
+          },
+          {
+            "bytes": 9838,
+            "h": 89,
+            "path": "webp/discs-and-diamonds-repeat-b-384.webp",
+            "sha256": "bee1546e66bb8a3c311fa6b300465a8c8f4735e04f16bcbf8f17ac0351265ced",
+            "w": 384
+          },
+          {
+            "bytes": 10394,
+            "h": 113,
+            "path": "webp/discs-and-diamonds-repeat-b-490.webp",
+            "sha256": "5d02efa604c0c06fc4939edd8c454bbb1810488305981d1dea0f4fc28f68295b",
+            "w": 490
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "line-filler",
+        "disc",
+        "diamond"
+      ],
+      "thumbhash": "WAiCAYA7tLZwZ7CbYPsndoeHeIdwiCc=",
+      "title": "Discs and diamonds on gold, verso repeat tile",
+      "transparent": true,
+      "type": "border",
+      "usage_notes": [
+        "Repeat along x; use the generated rotated tile for a vertical band and the generated atlas for a border-image frame.",
+        "Keep it at or below native size; the band is 113 px tall and blurs when enlarged."
+      ],
+      "width": 490
+    },
+    "discs-and-three-diamonds-line-filler": {
+      "attribution": "Cleveland Museum of Art 2005.206.a",
+      "categories": [
+        "geometric"
+      ],
+      "colors": [
+        "gold",
+        "blue",
+        "brown",
+        "black"
+      ],
+      "composition": "standalone",
+      "description": "A finite horizontal line filler from the recto, a burnished gold bar with a black outline carrying ten motifs that alternate blue and brown, each with fine gold hatching, from left to right a blue disc, brown disc, blue disc, brown diamond, blue diamond, brown diamond, blue disc, brown disc, blue disc and brown diamond. The bar is slightly thicker at the left end than at the right. Only the painted bar is opaque; the background is transparent.",
+      "display_width": [
+        300,
+        900
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 12053,
+        "webpTopBytes": 19428
+      },
+      "facing": "none",
+      "group": "a",
+      "height": 136,
+      "master": {
+        "bytes": 98124,
+        "h": 136,
+        "path": "masters/discs-and-three-diamonds-line-filler.webp",
+        "sha256": "88e1ac0e79b4961164a51adb69f72e339986d2272818249bab9d256fcc662d95",
+        "w": 950
+      },
+      "palette": [
+        "#444c5a",
+        "#46413c",
+        "#6a5e4f",
+        "#a08b63",
+        "#7e755e"
+      ],
+      "provenance": {
+        "artist": "Coëtivy Master (French)",
+        "date": "c. 1460",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.a/2005.206.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2005.206.a",
+        "object_title": "Leaf from a Book of Hours: Office of the Dead: Angel Chasing a Devil (recto)",
+        "record_url": "https://clevelandart.org/art/2005.206.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "3f5adfecfe574825b8e47db6e3b7975029c48443187a5b1b888befc893dd618c"
+      },
+      "quality": "The outer edges of the bar are soft and slightly ragged as painted.",
+      "related": [
+        {
+          "asset": "cma-2005-206/discs-and-diamonds-repeat-a",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2005-206/gold-foliate-wave-line-filler",
+          "role": "companion"
+        },
+        {
+          "asset": "cma-2005-206/discs-and-diamonds-line-filler",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 873,
+            "h": 9,
+            "path": "avif/discs-and-three-diamonds-line-filler-64.avif",
+            "sha256": "c44d0a2f2133b4b15ad42be81cf70155a07376b52b06f7bf78eb314b85e72c0e",
+            "w": 64
+          },
+          {
+            "bytes": 1215,
+            "h": 14,
+            "path": "avif/discs-and-three-diamonds-line-filler-96.avif",
+            "sha256": "c48855657a61c2d844de81bc9e80731f8727ecd733d1fde91f04ece3140cefac",
+            "w": 96
+          },
+          {
+            "bytes": 1631,
+            "h": 18,
+            "path": "avif/discs-and-three-diamonds-line-filler-128.avif",
+            "sha256": "cd132495b1e52a193dbdebaf36a3fd3841c122e1b8299f753534c12c2d49d369",
+            "w": 128
+          },
+          {
+            "bytes": 2507,
+            "h": 27,
+            "path": "avif/discs-and-three-diamonds-line-filler-192.avif",
+            "sha256": "897f100848b8d42197b5ff1f9336010642caa8953ee787c6b21557f2a45f6d01",
+            "w": 192
+          },
+          {
+            "bytes": 3190,
+            "h": 37,
+            "path": "avif/discs-and-three-diamonds-line-filler-256.avif",
+            "sha256": "7ab5af1fc6c9d559c822c0c94dcdfe7c430147c8188da3fe6949bfb34699d101",
+            "w": 256
+          },
+          {
+            "bytes": 4439,
+            "h": 55,
+            "path": "avif/discs-and-three-diamonds-line-filler-384.avif",
+            "sha256": "d1065880e9c29ac657e3bd921314f2c212b57113cff8ae3a8ba9f8f2fccdf768",
+            "w": 384
+          },
+          {
+            "bytes": 6264,
+            "h": 73,
+            "path": "avif/discs-and-three-diamonds-line-filler-512.avif",
+            "sha256": "3ae3dc96486d00b2b05fade3d894fcd07672cda7a4c64cd0dd6ddeb9391afae4",
+            "w": 512
+          },
+          {
+            "bytes": 10428,
+            "h": 110,
+            "path": "avif/discs-and-three-diamonds-line-filler-768.avif",
+            "sha256": "83cb73b4a1a4764036990d53a8d1fa454515005373cff65e80cc466921f9fe7b",
+            "w": 768
+          },
+          {
+            "bytes": 12053,
+            "h": 136,
+            "path": "avif/discs-and-three-diamonds-line-filler-950.avif",
+            "sha256": "35c4fc649ed21f19141f0ad8bbed6c00a7e75f425f971b03a3b458916f098379",
+            "w": 950
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 888,
+            "h": 9,
+            "path": "webp/discs-and-three-diamonds-line-filler-64.webp",
+            "sha256": "66f51e04fc7dc4030e393f855d3b7b55ff3afc03000e5f6c38af11cb52049281",
+            "w": 64
+          },
+          {
+            "bytes": 1532,
+            "h": 14,
+            "path": "webp/discs-and-three-diamonds-line-filler-96.webp",
+            "sha256": "3aa537a64b3c5fa116d40e8974039557ba220f9334aea49f4d541674a7059bbb",
+            "w": 96
+          },
+          {
+            "bytes": 2148,
+            "h": 18,
+            "path": "webp/discs-and-three-diamonds-line-filler-128.webp",
+            "sha256": "2f68e95051f3e3ae34dfaa053e49dd1252f12fcb99f148316d3756f8703228fd",
+            "w": 128
+          },
+          {
+            "bytes": 3914,
+            "h": 27,
+            "path": "webp/discs-and-three-diamonds-line-filler-192.webp",
+            "sha256": "8235b6803fd9279f13dad45d7648e34b60c42417403aaed684d8cc74493c563f",
+            "w": 192
+          },
+          {
+            "bytes": 5488,
+            "h": 37,
+            "path": "webp/discs-and-three-diamonds-line-filler-256.webp",
+            "sha256": "da3f85a61fd73221e463f1552d4d72f4b50a473f3bfac156934e84abad31d42f",
+            "w": 256
+          },
+          {
+            "bytes": 8504,
+            "h": 55,
+            "path": "webp/discs-and-three-diamonds-line-filler-384.webp",
+            "sha256": "2cb4bc07520ffe18b6b31c9900d1666b8ba592307462756b0cfbb9951a4fa29c",
+            "w": 384
+          },
+          {
+            "bytes": 11748,
+            "h": 73,
+            "path": "webp/discs-and-three-diamonds-line-filler-512.webp",
+            "sha256": "b52bd51fa72710d9a29d518888a5974fdc352058a606e4e92179694bd6570ff1",
+            "w": 512
+          },
+          {
+            "bytes": 18664,
+            "h": 110,
+            "path": "webp/discs-and-three-diamonds-line-filler-768.webp",
+            "sha256": "1829a5e50419872fcaa1dd850e6f8e754ca3ed9ff732d5496ea70635f6bd8902",
+            "w": 768
+          },
+          {
+            "bytes": 19428,
+            "h": 136,
+            "path": "webp/discs-and-three-diamonds-line-filler-950.webp",
+            "sha256": "aac90904ade241252492e01b757f39ac1084db2621a80579e800f759a6836985",
+            "w": 950
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "line-filler",
+        "disc",
+        "diamond"
+      ],
+      "thumbhash": "VgiCAYBKzpd6d1D8PGCcB2h3lohweFg=",
+      "title": "Discs and diamonds line filler, ten motifs",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Finite strip at a fixed length; for a band of any length use discs-and-diamonds-repeat-a, which carries the same motifs as a seamless tile."
+      ],
+      "width": 950
+    },
+    "gold-foliate-wave-line-filler": {
+      "attribution": "Cleveland Museum of Art 2005.206.a",
+      "categories": [
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "gold",
+        "blue",
+        "brown",
+        "black"
+      ],
+      "composition": "standalone",
+      "description": "A short finite horizontal line filler from the recto, a burnished gold bar with a black outline in which two curling acanthus leaves lie end to end in a wave, a brown and gold leaf on the left and a blue and gold leaf on the right, their lobes drawn in black line over gold. Only the painted bar is opaque; the background is transparent.",
+      "display_width": [
+        200,
+        550
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 7598,
+        "webpTopBytes": 12136
+      },
+      "facing": "none",
+      "group": "a",
+      "height": 142,
+      "master": {
+        "bytes": 61032,
+        "h": 142,
+        "path": "masters/gold-foliate-wave-line-filler.webp",
+        "sha256": "ca216f56b03919ac417ccd17773d33fce0c64e208edeba1faa4efb2667e7180f",
+        "w": 552
+      },
+      "palette": [
+        "#444648",
+        "#3d3834",
+        "#6b614e",
+        "#a18b5f",
+        "#897757"
+      ],
+      "provenance": {
+        "artist": "Coëtivy Master (French)",
+        "date": "c. 1460",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.a/2005.206.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2005.206.a",
+        "object_title": "Leaf from a Book of Hours: Office of the Dead: Angel Chasing a Devil (recto)",
+        "record_url": "https://clevelandart.org/art/2005.206.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "3f5adfecfe574825b8e47db6e3b7975029c48443187a5b1b888befc893dd618c"
+      },
+      "related": [
+        {
+          "asset": "cma-2005-206/discs-and-three-diamonds-line-filler",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 933,
+            "h": 16,
+            "path": "avif/gold-foliate-wave-line-filler-64.avif",
+            "sha256": "cd53f90fd3cf94bf58bd90c80c7ac2d6164b4f970caa1be9e88b703d5b053edd",
+            "w": 64
+          },
+          {
+            "bytes": 1581,
+            "h": 25,
+            "path": "avif/gold-foliate-wave-line-filler-96.avif",
+            "sha256": "9f80efb7cdbd7155918650648f8750e96f3a74eb7dac16ebb8b4af40a9599cc8",
+            "w": 96
+          },
+          {
+            "bytes": 1799,
+            "h": 33,
+            "path": "avif/gold-foliate-wave-line-filler-128.avif",
+            "sha256": "de214fdcd70b3aa07b77593505f021aca86af144c1ff5ec66d0d5be454a0aa33",
+            "w": 128
+          },
+          {
+            "bytes": 2394,
+            "h": 49,
+            "path": "avif/gold-foliate-wave-line-filler-192.avif",
+            "sha256": "d788f9307e0c0d0a2926b70258ea6c9da346edbb03f995f5ae895a9b997c4296",
+            "w": 192
+          },
+          {
+            "bytes": 3098,
+            "h": 66,
+            "path": "avif/gold-foliate-wave-line-filler-256.avif",
+            "sha256": "8d8d997e2f817aa93ca5faa796d344b375cd41102c34699fc53161899b63d4e5",
+            "w": 256
+          },
+          {
+            "bytes": 5579,
+            "h": 99,
+            "path": "avif/gold-foliate-wave-line-filler-384.avif",
+            "sha256": "03c55f18a7254321fd28d63cdf8a50b4f7e18488efa39ef30a5e8fbd952ee619",
+            "w": 384
+          },
+          {
+            "bytes": 7466,
+            "h": 132,
+            "path": "avif/gold-foliate-wave-line-filler-512.avif",
+            "sha256": "f2962c83abfb1c9cdf8fe6bfb05939c1efac892e01e4fe323c7510083c1a47fe",
+            "w": 512
+          },
+          {
+            "bytes": 7598,
+            "h": 142,
+            "path": "avif/gold-foliate-wave-line-filler-552.avif",
+            "sha256": "aa040590b1dc8448e1ac96fe7665df04a99a1328a4e10aa1fed3964a77859236",
+            "w": 552
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1110,
+            "h": 16,
+            "path": "webp/gold-foliate-wave-line-filler-64.webp",
+            "sha256": "422efdf4b53b215e57fde07881259bd98026c81706efc8947876f793617b8d05",
+            "w": 64
+          },
+          {
+            "bytes": 2186,
+            "h": 25,
+            "path": "webp/gold-foliate-wave-line-filler-96.webp",
+            "sha256": "4c257d93ef2a09ae3ff1c61c4f01286ba89d833c13c885bc1fda296210ee6025",
+            "w": 96
+          },
+          {
+            "bytes": 2810,
+            "h": 33,
+            "path": "webp/gold-foliate-wave-line-filler-128.webp",
+            "sha256": "dc09946231df2318935ae9c38173dd430ee1367aaf3415a5bd4dbfb1eb019109",
+            "w": 128
+          },
+          {
+            "bytes": 4456,
+            "h": 49,
+            "path": "webp/gold-foliate-wave-line-filler-192.webp",
+            "sha256": "6e30f1878a16cd7af0551771ab52eee5374dfd75e537ea069ceae2167b6bdb0c",
+            "w": 192
+          },
+          {
+            "bytes": 6136,
+            "h": 66,
+            "path": "webp/gold-foliate-wave-line-filler-256.webp",
+            "sha256": "df2e50dc55ea45e52491397c3009f47ec9aa0d5a49be9725d64eb032a66ed6a1",
+            "w": 256
+          },
+          {
+            "bytes": 9898,
+            "h": 99,
+            "path": "webp/gold-foliate-wave-line-filler-384.webp",
+            "sha256": "cd8e7db1d793b0d1aea5a055a55367deaa484374a0e6e60731e894f04a24e89a",
+            "w": 384
+          },
+          {
+            "bytes": 13830,
+            "h": 132,
+            "path": "webp/gold-foliate-wave-line-filler-512.webp",
+            "sha256": "9982d5dbb99d7a71d29e89bd58be01d6d802b652a432cbfafdb591cede3854be",
+            "w": 512
+          },
+          {
+            "bytes": 12136,
+            "h": 142,
+            "path": "webp/gold-foliate-wave-line-filler-552.webp",
+            "sha256": "35aab355762758e4d935a236663330285745c26f2db17a3a9d260ea3131b265d",
+            "w": 552
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "line-filler",
+        "acanthus",
+        "leaf"
+      ],
+      "thumbhash": "lRiCCYJJnYd5iGCPafWHR2hoh4hweDg=",
+      "title": "Acanthus wave line filler",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Finite strip at a fixed length; the bar is too short to carry a repeating cycle. Its height matches the discs-and-diamonds fillers of the same page."
+      ],
+      "width": 552
+    },
+    "human-headed-bird": {
+      "attribution": "Cleveland Museum of Art 2005.206.a",
+      "categories": [
+        "hybrids",
+        "fantasy",
+        "animals"
+      ],
+      "colors": [
+        "brown",
+        "gold",
+        "cream"
+      ],
+      "composition": "single-figure",
+      "description": "A grotesque bird walking to the right on two thin legs with spread claws. Its brown body carries a folded wing dotted with rows of yellow-gold spots, a pointed tail of three feathers to the left and a long curved neck ending in a pale bearded man's head with short brown hair, turned slightly towards the viewer. Cut from the lower margin of the recto border; the background is transparent.",
+      "display_width": [
+        150,
+        450
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 32673,
+        "webpTopBytes": 55796
+      },
+      "facing": "right",
+      "group": "a",
+      "height": 575,
+      "master": {
+        "bytes": 194516,
+        "h": 575,
+        "path": "masters/human-headed-bird.webp",
+        "sha256": "93016f22c952bbea13244eff0badb8a724af934626e9fa40772ac286d7851733",
+        "w": 607
+      },
+      "palette": [
+        "#61544c",
+        "#8b775f",
+        "#92806b",
+        "#a4947b",
+        "#beb19e"
+      ],
+      "provenance": {
+        "artist": "Coëtivy Master (French)",
+        "date": "c. 1460",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.a/2005.206.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "2005.206.a",
+        "object_title": "Leaf from a Book of Hours: Office of the Dead: Angel Chasing a Devil (recto)",
+        "record_url": "https://clevelandart.org/art/2005.206.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "3f5adfecfe574825b8e47db6e3b7975029c48443187a5b1b888befc893dd618c"
+      },
+      "related": [
+        {
+          "asset": "cma-2005-206/verso-floral-border",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2005-206/human-headed-bird-with-gold-neck",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2105,
+            "h": 61,
+            "path": "avif/human-headed-bird-64.avif",
+            "sha256": "c7d54ac3d471b8cb127dcc6f5264bc2c65b99548df8d7178788403bbc251baa9",
+            "w": 64
+          },
+          {
+            "bytes": 3270,
+            "h": 91,
+            "path": "avif/human-headed-bird-96.avif",
+            "sha256": "bd0189727b1327698079bfd058c6dbb4b19e85a68da73c421961dfbd99e5eb48",
+            "w": 96
+          },
+          {
+            "bytes": 4398,
+            "h": 121,
+            "path": "avif/human-headed-bird-128.avif",
+            "sha256": "c02c416a1bc3d239b43489ca224c32a54ecac6c27d038974ee26d4e33324e998",
+            "w": 128
+          },
+          {
+            "bytes": 6703,
+            "h": 182,
+            "path": "avif/human-headed-bird-192.avif",
+            "sha256": "2cc82506b14a1ec0d8e9e4b12e60f6829e623cd42daf56bb1184d489fec3a97a",
+            "w": 192
+          },
+          {
+            "bytes": 10083,
+            "h": 243,
+            "path": "avif/human-headed-bird-256.avif",
+            "sha256": "6307ccf8635b8d32b106826465f1114fa3014dc9a40f13da3af60d1d55df8f76",
+            "w": 256
+          },
+          {
+            "bytes": 18004,
+            "h": 364,
+            "path": "avif/human-headed-bird-384.avif",
+            "sha256": "5c131723fc8d06391a51b91d3c7677373350e3aa911119ef543d80fae10531e6",
+            "w": 384
+          },
+          {
+            "bytes": 26024,
+            "h": 485,
+            "path": "avif/human-headed-bird-512.avif",
+            "sha256": "7174b0ede2c671f00e87247298cefce35e582267e989affb05038e42c9b0781a",
+            "w": 512
+          },
+          {
+            "bytes": 32673,
+            "h": 575,
+            "path": "avif/human-headed-bird-607.avif",
+            "sha256": "825533f0f7d9391fd8b892a402caac6d7572abf0e91d8442bd5a38295d75b874",
+            "w": 607
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2820,
+            "h": 61,
+            "path": "webp/human-headed-bird-64.webp",
+            "sha256": "a3fff9d8b8c2311768640fb81f3a4326f1b9f71005646417f725a01982c17a96",
+            "w": 64
+          },
+          {
+            "bytes": 4734,
+            "h": 91,
+            "path": "webp/human-headed-bird-96.webp",
+            "sha256": "db7685575cb77c711168fa2828a1c1fb83a6b60201eeec05c579f6c3ee1f5cdd",
+            "w": 96
+          },
+          {
+            "bytes": 6854,
+            "h": 121,
+            "path": "webp/human-headed-bird-128.webp",
+            "sha256": "05bf9744478b4c0a3e5a30713d862f0d81e773bfb1e145f2103b844506111347",
+            "w": 128
+          },
+          {
+            "bytes": 11750,
+            "h": 182,
+            "path": "webp/human-headed-bird-192.webp",
+            "sha256": "d33bd8514d032ae0690feb3754d81cde0c7bf50e40e9a828a2ce16710f24dc4d",
+            "w": 192
+          },
+          {
+            "bytes": 17356,
+            "h": 243,
+            "path": "webp/human-headed-bird-256.webp",
+            "sha256": "182b02456ad146d2cf5736a2427f85000d67520556bbc850db0d58817a39e6aa",
+            "w": 256
+          },
+          {
+            "bytes": 30192,
+            "h": 364,
+            "path": "webp/human-headed-bird-384.webp",
+            "sha256": "b70f62379685a1e42eead7055d145889cfe1afb8a281da5882cf06ca22843f8e",
+            "w": 384
+          },
+          {
+            "bytes": 45764,
+            "h": 485,
+            "path": "webp/human-headed-bird-512.webp",
+            "sha256": "50c170f551e0b968476ffd02098adeea2b2d98b5bc0eccd02548ff40ce0bd0a4",
+            "w": 512
+          },
+          {
+            "bytes": 55796,
+            "h": 575,
+            "path": "webp/human-headed-bird-607.webp",
+            "sha256": "b39d078f5557239003004c507cfc63c34527d9499a100096f92cd08396a6b2c1",
+            "w": 607
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "bird",
+        "grotesque",
+        "head",
+        "beard"
+      ],
+      "thumbhash": "mhiCBYAltGlbmF+VRZHQWwg9UmpnmYDJpw==",
+      "title": "Walking bird with a bearded man's head",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Cut from the lower margin of blue-gold-floral-frame; the verso has a second human-headed bird, human-headed-bird-with-gold-neck."
+      ],
+      "view": "side",
+      "width": 607
+    },
+    "human-headed-bird-with-gold-neck": {
+      "attribution": "Cleveland Museum of Art 2005.206.b",
+      "categories": [
+        "hybrids",
+        "fantasy",
+        "animals"
+      ],
+      "colors": [
+        "brown",
+        "gold",
+        "cream"
+      ],
+      "composition": "single-figure",
+      "description": "A grotesque bird lying with its brown body and pointed tail stretched to the right and a long gold neck curving up and over to the left, ending in a pale bearded man's head that hangs face down. The folded wing carries rows of yellow-gold spots and the gold neck is shaded with brown. Cut from the lower margin of the verso border; the background is transparent.",
+      "display_width": [
+        150,
+        450
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 18993,
+        "webpTopBytes": 29260
+      },
+      "facing": "left",
+      "group": "b",
+      "height": 469,
+      "master": {
+        "bytes": 131918,
+        "h": 469,
+        "path": "masters/human-headed-bird-with-gold-neck.webp",
+        "sha256": "8ce30aee719b269317f6931ee76be4aa9f3b7090c1680f1aae85358de3917e63",
+        "w": 601
+      },
+      "palette": [
+        "#5c514b",
+        "#918063",
+        "#968a76",
+        "#c1b9a7",
+        "#ada084"
+      ],
+      "provenance": {
+        "artist": "Coëtivy Master (French)",
+        "date": "c. 1460",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.b/2005.206.b_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2005.206.b",
+        "object_title": "Leaf from a Book of Hours: Office of the Dead: Two Devils (verso)",
+        "record_url": "https://clevelandart.org/art/2005.206.b",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "95460394e5a6c2947fef91eaa47c0dd9d8b038169ba47711ba7c3b4f4a812cf1"
+      },
+      "related": [
+        {
+          "asset": "cma-2005-206/recto-floral-border",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2005-206/human-headed-bird",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1751,
+            "h": 50,
+            "path": "avif/human-headed-bird-with-gold-neck-64.avif",
+            "sha256": "5f40a3dcadc26f6dbfeeb311bdc2da293b548a5145faa6e8c30ae62dc962bad5",
+            "w": 64
+          },
+          {
+            "bytes": 2731,
+            "h": 75,
+            "path": "avif/human-headed-bird-with-gold-neck-96.avif",
+            "sha256": "c47cc8074f312b87cc55cddb8394f5524ef1b56b53869f5fb609316f529d7101",
+            "w": 96
+          },
+          {
+            "bytes": 3708,
+            "h": 100,
+            "path": "avif/human-headed-bird-with-gold-neck-128.avif",
+            "sha256": "99af18bec997a657017a2ad093e43024985f7d841cbae2fcdc0fc07abb02d849",
+            "w": 128
+          },
+          {
+            "bytes": 5380,
+            "h": 150,
+            "path": "avif/human-headed-bird-with-gold-neck-192.avif",
+            "sha256": "ac8929ad762c6c4af900e609344709ca4181dcf44174646eca29bb584eb231d2",
+            "w": 192
+          },
+          {
+            "bytes": 7085,
+            "h": 200,
+            "path": "avif/human-headed-bird-with-gold-neck-256.avif",
+            "sha256": "53f54b45c7e75d9098c2f69f773bce993531a0eaf8ad6d29f341fe1b7877d651",
+            "w": 256
+          },
+          {
+            "bytes": 11829,
+            "h": 300,
+            "path": "avif/human-headed-bird-with-gold-neck-384.avif",
+            "sha256": "7d789d5718e2cb1a2994a32a857beccbd3ac468ad1e090253354e45960219643",
+            "w": 384
+          },
+          {
+            "bytes": 17027,
+            "h": 400,
+            "path": "avif/human-headed-bird-with-gold-neck-512.avif",
+            "sha256": "e1eb01cc345f3c628eada8fa5b165d09247c25ee882c7a486c4ecab0e8114d50",
+            "w": 512
+          },
+          {
+            "bytes": 18993,
+            "h": 469,
+            "path": "avif/human-headed-bird-with-gold-neck-601.avif",
+            "sha256": "55f4b25f152a430fd577f83d14b5b070a97b7f132474033d9ad61f9d102c4ea7",
+            "w": 601
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2212,
+            "h": 50,
+            "path": "webp/human-headed-bird-with-gold-neck-64.webp",
+            "sha256": "213507477e927b6e263aeb4ffa56fbe66bc4cfe2d22ed7b5042b281ec5ebf18f",
+            "w": 64
+          },
+          {
+            "bytes": 3746,
+            "h": 75,
+            "path": "webp/human-headed-bird-with-gold-neck-96.webp",
+            "sha256": "93859d45cb678b3c0ff0b6d5440632d81c3bbbe5051eb33e2539c9a943c060d0",
+            "w": 96
+          },
+          {
+            "bytes": 5624,
+            "h": 100,
+            "path": "webp/human-headed-bird-with-gold-neck-128.webp",
+            "sha256": "484d924ea6a5057b5c4f19ea314eb71443bceae7e2448969015c89dfd2684550",
+            "w": 128
+          },
+          {
+            "bytes": 9042,
+            "h": 150,
+            "path": "webp/human-headed-bird-with-gold-neck-192.webp",
+            "sha256": "07d3a338713665ed5ce48fe0a4947ef11539d0eb0f8980b88c26ca5079a12b83",
+            "w": 192
+          },
+          {
+            "bytes": 12002,
+            "h": 200,
+            "path": "webp/human-headed-bird-with-gold-neck-256.webp",
+            "sha256": "81d1582ebc0cbbd97fe010eb143468cb2ed6d743943011fcd97215ea021ab5fd",
+            "w": 256
+          },
+          {
+            "bytes": 19620,
+            "h": 300,
+            "path": "webp/human-headed-bird-with-gold-neck-384.webp",
+            "sha256": "62c1e2f280bc4ee91a674642ad2639b030972848c5e82dcf722e5c115e20be71",
+            "w": 384
+          },
+          {
+            "bytes": 28886,
+            "h": 400,
+            "path": "webp/human-headed-bird-with-gold-neck-512.webp",
+            "sha256": "919f30af9867428c31b99dea2d1437088a146e0a9659fb9ec2577dc90b819d5b",
+            "w": 512
+          },
+          {
+            "bytes": 29260,
+            "h": 469,
+            "path": "webp/human-headed-bird-with-gold-neck-601.webp",
+            "sha256": "5055c6c9afbb6a7bcc4799dbe0c9c797e9d0f0a54e8564a612a21b060358f1d3",
+            "w": 601
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "bird",
+        "grotesque",
+        "head",
+        "beard"
+      ],
+      "thumbhash": "mxiCBIAmrUSfVqwV92zinBD8NBSpVmZ9AA==",
+      "title": "Lying bird with a bearded man's head",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Cut from the lower margin of blue-gold-floral-manuscript-frame; the recto has a walking counterpart, human-headed-bird."
+      ],
+      "view": "side",
+      "width": 601
+    },
+    "recto-floral-border": {
+      "attribution": "Cleveland Museum of Art 2005.206.b",
+      "categories": [
+        "floral",
+        "botanical",
+        "scrollwork",
+        "fantasy",
+        "hybrids"
+      ],
+      "colors": [
+        "blue",
+        "gold",
+        "green",
+        "red",
+        "brown"
+      ],
+      "composition": "single-ornament",
+      "description": "The complete painted border of the verso, a dense field of hairline tendrils with gold dots, green and yellow leaves, blue and red flowers and red fruits, with large blue and gold acanthus scrolls in the four corners and along the top. The round miniature of two dancing black devils in a landscape sits in the left margin and a human-headed bird with a gold neck lies in the lower margin. The text block is framed by a thin brown and gold rule with a blue finial at each upper corner. The text block is transparent; the parchment between the sprigs is kept at partial opacity.",
+      "display_width": [
+        600,
+        1600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 807821,
+        "webpTopBytes": 1899702
+      },
+      "facing": "none",
+      "group": "b",
+      "height": 4174,
+      "master": {
+        "bytes": 4088458,
+        "h": 2048,
+        "path": "masters/recto-floral-border.webp",
+        "sha256": "7ed670d70a134e50144d6c10ce01b3e5c1fad92eb3154c22a78d6bcefe7332bc",
+        "w": 1558
+      },
+      "palette": [
+        "#9a967f",
+        "#707c87",
+        "#9c8d68",
+        "#6f675b",
+        "#828067"
+      ],
+      "provenance": {
+        "artist": "Coëtivy Master (French)",
+        "date": "c. 1460",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.b/2005.206.b_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2005.206.b",
+        "object_title": "Leaf from a Book of Hours: Office of the Dead: Two Devils (verso)",
+        "record_url": "https://clevelandart.org/art/2005.206.b",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "95460394e5a6c2947fef91eaa47c0dd9d8b038169ba47711ba7c3b4f4a812cf1"
+      },
+      "quality": "Parchment between the sprigs is kept at partial alpha across the whole border, so it carries a faint cream haze on dark backgrounds.",
+      "related": [
+        {
+          "asset": "cma-2005-206/two-dancing-devils-roundel",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2005-206/human-headed-bird-with-gold-neck",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2005-206/verso-floral-border",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3964,
+            "h": 84,
+            "path": "avif/recto-floral-border-64.avif",
+            "sha256": "7d6030153816bd393df342c9c4ca0a8a52b00ea21f41b064463a7999f6e3a5db",
+            "w": 64
+          },
+          {
+            "bytes": 8196,
+            "h": 126,
+            "path": "avif/recto-floral-border-96.avif",
+            "sha256": "7f5f065045f87344cf2daa13f48dc78f2e42ddb7c899534ef7e634a60d3b9e54",
+            "w": 96
+          },
+          {
+            "bytes": 13820,
+            "h": 168,
+            "path": "avif/recto-floral-border-128.avif",
+            "sha256": "9a02a2ccef903a595e690eeefb5fd6ac8c61255ee7f728672beb76aff7f2178d",
+            "w": 128
+          },
+          {
+            "bytes": 28751,
+            "h": 252,
+            "path": "avif/recto-floral-border-192.avif",
+            "sha256": "190841af317fe847c912d34973940a209dd184e89ee1d33da19bb67b73617335",
+            "w": 192
+          },
+          {
+            "bytes": 45937,
+            "h": 336,
+            "path": "avif/recto-floral-border-256.avif",
+            "sha256": "f463eff8d0d664aa79ad4d1121654c6ccdd6464de92185369f471826dd9267a3",
+            "w": 256
+          },
+          {
+            "bytes": 84497,
+            "h": 505,
+            "path": "avif/recto-floral-border-384.avif",
+            "sha256": "f87080db00d0f475b919b61e91f153e258ae0f05fd0bb501e89f9a23413985e6",
+            "w": 384
+          },
+          {
+            "bytes": 126226,
+            "h": 673,
+            "path": "avif/recto-floral-border-512.avif",
+            "sha256": "bd2be7e17554432dc3e4651908f061139edbb113556619bd9c56bf80fa0868fc",
+            "w": 512
+          },
+          {
+            "bytes": 222055,
+            "h": 1009,
+            "path": "avif/recto-floral-border-768.avif",
+            "sha256": "3265ca309bfe1f3c545bc1ba06cd1b8ff6b5f9f5b129faa4013be5e0d1df89ce",
+            "w": 768
+          },
+          {
+            "bytes": 327150,
+            "h": 1346,
+            "path": "avif/recto-floral-border-1024.avif",
+            "sha256": "f69c96c06a83e2f3db0fd22b5d3ea0f62fb2319b90a5553a51a41a53247c85cf",
+            "w": 1024
+          },
+          {
+            "bytes": 556322,
+            "h": 2019,
+            "path": "avif/recto-floral-border-1536.avif",
+            "sha256": "3547601c4bdb2af7990c5c2a7aa69f7978db19bb5a0a06045be5488c9b5d0283",
+            "w": 1536
+          },
+          {
+            "bytes": 807821,
+            "h": 2692,
+            "path": "avif/recto-floral-border-2048.avif",
+            "sha256": "82b3de95b93a0ac3d6b6484839564526aa5de76d58332b7e6ba4a2a6bbad2c1c",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 6086,
+            "h": 84,
+            "path": "webp/recto-floral-border-64.webp",
+            "sha256": "64bd008134af638460424d4d6b71e8dc22b441088b4f317af09438d22a4543ae",
+            "w": 64
+          },
+          {
+            "bytes": 12274,
+            "h": 126,
+            "path": "webp/recto-floral-border-96.webp",
+            "sha256": "c1653b07117dac4802d3eff7759b6cf9ad2f5a42f21dd6648c3b87589cde8e18",
+            "w": 96
+          },
+          {
+            "bytes": 20948,
+            "h": 168,
+            "path": "webp/recto-floral-border-128.webp",
+            "sha256": "6e921b8b461aa8ed84e31aa086c87974fa3746d13373bd0aae7b50d92864ec2b",
+            "w": 128
+          },
+          {
+            "bytes": 43210,
+            "h": 252,
+            "path": "webp/recto-floral-border-192.webp",
+            "sha256": "59ea7aac4333d4b6c69863d258557aaf52f7df68b26ce641a59733c7bbba4a4f",
+            "w": 192
+          },
+          {
+            "bytes": 71712,
+            "h": 336,
+            "path": "webp/recto-floral-border-256.webp",
+            "sha256": "886593364a8e4c042ae699a34009e8a24804109a6981d112f3514a2e8c4c92cc",
+            "w": 256
+          },
+          {
+            "bytes": 145896,
+            "h": 505,
+            "path": "webp/recto-floral-border-384.webp",
+            "sha256": "184da0c36396f2653ca04332c2b35672d33088306971b6eeb2f2343965a756d3",
+            "w": 384
+          },
+          {
+            "bytes": 238626,
+            "h": 673,
+            "path": "webp/recto-floral-border-512.webp",
+            "sha256": "02fae45c9c40e94d2750e9379854c5f9b8eef58d3bee08f634152cf6c5c4d47c",
+            "w": 512
+          },
+          {
+            "bytes": 435536,
+            "h": 1009,
+            "path": "webp/recto-floral-border-768.webp",
+            "sha256": "354797827d859cd7b7fba7e3661c145fad5fdb114ad216d0e223f6b9b8583cc7",
+            "w": 768
+          },
+          {
+            "bytes": 675026,
+            "h": 1346,
+            "path": "webp/recto-floral-border-1024.webp",
+            "sha256": "c99a1835fe5e941a393ab3cd7fffbde42bfc1117555d7d921ef6c682d209d8df",
+            "w": 1024
+          },
+          {
+            "bytes": 1233070,
+            "h": 2019,
+            "path": "webp/recto-floral-border-1536.webp",
+            "sha256": "2045024e245fd66b53a4d35de54e0efee389d1aeb04752e2273aaa06e82ea72c",
+            "w": 1536
+          },
+          {
+            "bytes": 1899702,
+            "h": 2692,
+            "path": "webp/recto-floral-border-2048.webp",
+            "sha256": "be27d3e02594ec603db7169430ffe1145db8f8db0834714e35f49d1f7e3eab6d",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "frame",
+        "vine",
+        "leaf",
+        "flower",
+        "fruit",
+        "acanthus",
+        "devil",
+        "roundel",
+        "landscape",
+        "bird",
+        "grotesque",
+        "rule"
+      ],
+      "thumbhash": "oAiCBAAodGtY9nWLdLYJsIrFf2WH5zV4CQ==",
+      "title": "Verso floral page border with devils roundel",
+      "transparent": true,
+      "type": "frame",
+      "usage_notes": [
+        "Fixed page border, scaled as a whole with content placed in the transparent text block; it is not a border-image, the four sides and corners all differ.",
+        "The roundel and the bird are painted into the border and are also available alone as two-dancing-devils-in-gold-landscape-oval and human-headed-bird-with-gold-neck.",
+        "Reads best on a light ground because of the partially opaque parchment between the sprigs."
+      ],
+      "width": 3176
+    },
+    "two-dancing-devils-roundel": {
+      "attribution": "Cleveland Museum of Art 2005.206.b",
+      "categories": [
+        "fantasy"
+      ],
+      "colors": [
+        "blue",
+        "yellow",
+        "green",
+        "gold",
+        "black"
+      ],
+      "composition": "framed-scene",
+      "description": "The whole round miniature from the verso. Two black horned devils with fine gold hatching dance side by side facing right, the left one with hands clasped before the chest, the right one with one arm thrown out and a leg kicked up, their clawed feet meeting at the bottom. They stand on a yellow-green hillside with blue-green trees under a blue sky that carries a short white inscription and two gold streaks. A thin gold rim closes the scene. Opaque inside the rim, transparent outside.",
+      "display_width": [
+        300,
+        800
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 50434,
+        "webpTopBytes": 69632
+      },
+      "facing": "right",
+      "group": "b",
+      "height": 855,
+      "master": {
+        "bytes": 549784,
+        "h": 855,
+        "path": "masters/two-dancing-devils-roundel.webp",
+        "sha256": "23ca3957b5b89716d5ae6410dea9d37472c26b742452af6a2a8a8b5456ceee66",
+        "w": 870
+      },
+      "palette": [
+        "#798787",
+        "#494a42",
+        "#aea256",
+        "#a6afaf",
+        "#a6a073"
+      ],
+      "provenance": {
+        "artist": "Coëtivy Master (French)",
+        "date": "c. 1460",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.b/2005.206.b_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2005.206.b",
+        "object_title": "Leaf from a Book of Hours: Office of the Dead: Two Devils (verso)",
+        "record_url": "https://clevelandart.org/art/2005.206.b",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "95460394e5a6c2947fef91eaa47c0dd9d8b038169ba47711ba7c3b4f4a812cf1"
+      },
+      "quality": "A wedge of the page with a red flower, a gold dot and bare parchment remains at the lower left outside the rim; crop it away when the roundel is used alone.",
+      "related": [
+        {
+          "asset": "cma-2005-206/two-dancing-horned-figures",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2005-206/recto-floral-border",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2005-206/angel-chasing-devil-roundel",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1899,
+            "h": 63,
+            "path": "avif/two-dancing-devils-roundel-64.avif",
+            "sha256": "0640980ec5d56db2cd16e025b781a8d31b0c88b3ddbeced20048dccb9aca11cb",
+            "w": 64
+          },
+          {
+            "bytes": 3231,
+            "h": 94,
+            "path": "avif/two-dancing-devils-roundel-96.avif",
+            "sha256": "580fe9046c75ff2240a18ecba0966602dff90e998746f320a32035c831c43f57",
+            "w": 96
+          },
+          {
+            "bytes": 4254,
+            "h": 126,
+            "path": "avif/two-dancing-devils-roundel-128.avif",
+            "sha256": "e09a5073a90ac2bfdee0295382721e4c32759d1b1529ea94a78e12f823fac8d4",
+            "w": 128
+          },
+          {
+            "bytes": 7644,
+            "h": 189,
+            "path": "avif/two-dancing-devils-roundel-192.avif",
+            "sha256": "4e8ae3077c553e770a8a8c67deca04074f1dab4b9cc7e14a48b5cc498d76ba45",
+            "w": 192
+          },
+          {
+            "bytes": 10958,
+            "h": 252,
+            "path": "avif/two-dancing-devils-roundel-256.avif",
+            "sha256": "ec293dbc001707ec92c625483a4c8f01841ad5b9ded4a26433021a5dce12f389",
+            "w": 256
+          },
+          {
+            "bytes": 19123,
+            "h": 377,
+            "path": "avif/two-dancing-devils-roundel-384.avif",
+            "sha256": "3d5f7c210dc66fa813e2a21fd7f7bf3693a15dbb364666079bbbe7c74f341dc8",
+            "w": 384
+          },
+          {
+            "bytes": 27715,
+            "h": 503,
+            "path": "avif/two-dancing-devils-roundel-512.avif",
+            "sha256": "6dfac7130211f096abc2135cda3ab33155b9c083b834dc5870477580eca5acf0",
+            "w": 512
+          },
+          {
+            "bytes": 45920,
+            "h": 755,
+            "path": "avif/two-dancing-devils-roundel-768.avif",
+            "sha256": "251073742532d8e6734b0661d67d0a3e1afa8a65d1d16a55772cc28e5d059112",
+            "w": 768
+          },
+          {
+            "bytes": 50434,
+            "h": 855,
+            "path": "avif/two-dancing-devils-roundel-870.avif",
+            "sha256": "45bd7cbf0dfe832727ed221201a63435e9c3b1435b0b0c99b06bc95cef1f03f1",
+            "w": 870
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2460,
+            "h": 63,
+            "path": "webp/two-dancing-devils-roundel-64.webp",
+            "sha256": "a7db16953b38acb6bf6febd4db26351780c56f62a5fe5d2faa1921d6bba51e01",
+            "w": 64
+          },
+          {
+            "bytes": 4320,
+            "h": 94,
+            "path": "webp/two-dancing-devils-roundel-96.webp",
+            "sha256": "7e4f94b11e0fdb17b293de2e49aad44e2a756a0e00ac79a2a476f942051735c2",
+            "w": 96
+          },
+          {
+            "bytes": 6696,
+            "h": 126,
+            "path": "webp/two-dancing-devils-roundel-128.webp",
+            "sha256": "538f2b1f9d662eff4969dc9e2e614f349ffd09bb0c44a4b7f4ed99d7eea41c5f",
+            "w": 128
+          },
+          {
+            "bytes": 11290,
+            "h": 189,
+            "path": "webp/two-dancing-devils-roundel-192.webp",
+            "sha256": "edec698fb673a4aed99df14ec58f167e179e574e3c42bc932450c167ef2c27aa",
+            "w": 192
+          },
+          {
+            "bytes": 16578,
+            "h": 252,
+            "path": "webp/two-dancing-devils-roundel-256.webp",
+            "sha256": "588e58ade6828380f799dbf83bc8e10774b1f26268af6c1ac8f9edc22b68cfee",
+            "w": 256
+          },
+          {
+            "bytes": 27100,
+            "h": 377,
+            "path": "webp/two-dancing-devils-roundel-384.webp",
+            "sha256": "f5c7e977041c3fc2c1a7b3cda42491bfad69b33325b47ccf7bb7d5a598dea66d",
+            "w": 384
+          },
+          {
+            "bytes": 38908,
+            "h": 503,
+            "path": "webp/two-dancing-devils-roundel-512.webp",
+            "sha256": "f0b1c5b327ba27a2b73b2538ca034b56e495453d02537e108eb3ee05e3792c90",
+            "w": 512
+          },
+          {
+            "bytes": 65596,
+            "h": 755,
+            "path": "webp/two-dancing-devils-roundel-768.webp",
+            "sha256": "364aa6d385722dfa3057ddca1e91df6c90aafa92fdc863c3db8f9a50372245c4",
+            "w": 768
+          },
+          {
+            "bytes": 69632,
+            "h": 855,
+            "path": "webp/two-dancing-devils-roundel-870.webp",
+            "sha256": "51fdb56e875fb8a55fe66b928b3fb3f1949db7906b4719dd0c271a9df2373fa1",
+            "w": 870
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "devil",
+        "horn",
+        "dancer",
+        "tree",
+        "landscape",
+        "roundel"
+      ],
+      "thumbhash": "3/iFJYIs35VYdm1UWImAlwiXCllVdpB1Rw==",
+      "title": "Two dancing devils, roundel",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Complete roundel with its own rim and painted ground; place it as a picture, not as a cut-out.",
+        "The figures alone are two-dancing-horned-figures; the roundel is still in place in blue-gold-floral-manuscript-frame."
+      ],
+      "width": 870
+    },
+    "two-dancing-horned-figures": {
+      "attribution": "Cleveland Museum of Art 2005.206.b",
+      "categories": [
+        "fantasy"
+      ],
+      "colors": [
+        "black",
+        "gold"
+      ],
+      "composition": "multiple-figures",
+      "description": "Two black devils with straight horns and pointed ears dance side by side facing right, drawn in fine gold hatching over black. The left one holds its clawed hands before its chest and steps forward; the right one throws one arm out to the right and lifts a bent leg, its other foot overlapping the first devil's foot so the pair forms one piece. Cut from the verso roundel; the background is transparent.",
+      "display_width": [
+        150,
+        450
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 23663,
+        "webpTopBytes": 40526
+      },
+      "facing": "right",
+      "group": "b",
+      "height": 672,
+      "master": {
+        "bytes": 167616,
+        "h": 672,
+        "path": "masters/two-dancing-horned-figures.webp",
+        "sha256": "6a484847b3f19a19da8db643c8451054b617420ecd06200b595730ab16bb86e6",
+        "w": 607
+      },
+      "palette": [
+        "#2e3339",
+        "#3c4145",
+        "#474a4c",
+        "#545248",
+        "#5c5c57"
+      ],
+      "provenance": {
+        "artist": "Coëtivy Master (French)",
+        "date": "c. 1460",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.b/2005.206.b_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2005.206.b",
+        "object_title": "Leaf from a Book of Hours: Office of the Dead: Two Devils (verso)",
+        "record_url": "https://clevelandart.org/art/2005.206.b",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "95460394e5a6c2947fef91eaa47c0dd9d8b038169ba47711ba7c3b4f4a812cf1"
+      },
+      "quality": "A small pale parchment patch remains at the left devil's muzzle.",
+      "related": [
+        {
+          "asset": "cma-2005-206/two-dancing-devils-roundel",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2005-206/black-horned-devil",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2495,
+            "h": 71,
+            "path": "avif/two-dancing-horned-figures-64.avif",
+            "sha256": "6ec2e5228fb2a1817b95bd7bd86be60d6d990512dece4b3508dcfd647567c862",
+            "w": 64
+          },
+          {
+            "bytes": 3756,
+            "h": 106,
+            "path": "avif/two-dancing-horned-figures-96.avif",
+            "sha256": "898d476370fa4596d9aad5733b3d493a988255512eae245d09285c19807465f9",
+            "w": 96
+          },
+          {
+            "bytes": 4992,
+            "h": 142,
+            "path": "avif/two-dancing-horned-figures-128.avif",
+            "sha256": "40d9afbc00dca2e3d20b6f14059ebabbc94f53a375f2f8fc4e73e5f7df2ce270",
+            "w": 128
+          },
+          {
+            "bytes": 7301,
+            "h": 213,
+            "path": "avif/two-dancing-horned-figures-192.avif",
+            "sha256": "59b58166f6889ae1eb170d27949bbc1816d6d165d6158f80e57c7df328e83a0b",
+            "w": 192
+          },
+          {
+            "bytes": 9405,
+            "h": 283,
+            "path": "avif/two-dancing-horned-figures-256.avif",
+            "sha256": "dcdc81e649168c345e87db8d48e98c98674c135932cfb855e00e6e5ff6a1b1ec",
+            "w": 256
+          },
+          {
+            "bytes": 15271,
+            "h": 425,
+            "path": "avif/two-dancing-horned-figures-384.avif",
+            "sha256": "f75fd0779648e73ef244ae03559bb5f09feee69a09c7e7b23e9697c2656fb5e4",
+            "w": 384
+          },
+          {
+            "bytes": 21377,
+            "h": 567,
+            "path": "avif/two-dancing-horned-figures-512.avif",
+            "sha256": "e7da9b948232c6fbfa6c6a891b83eb68729ffc17b187e9874276d41e85c5395c",
+            "w": 512
+          },
+          {
+            "bytes": 23663,
+            "h": 672,
+            "path": "avif/two-dancing-horned-figures-607.avif",
+            "sha256": "4104a10f393d1e5034084970d43c4f3b59a4b4c67c04f5e7442a6ed43dbe14fa",
+            "w": 607
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3354,
+            "h": 71,
+            "path": "webp/two-dancing-horned-figures-64.webp",
+            "sha256": "4ae190bd532d9a761c51434ad76995b1945f7edb018c4d094a256a16cfddf8a1",
+            "w": 64
+          },
+          {
+            "bytes": 5614,
+            "h": 106,
+            "path": "webp/two-dancing-horned-figures-96.webp",
+            "sha256": "6d4852f780d35624791ae95854307f7795de478856105603ad4b8f4d001fdafa",
+            "w": 96
+          },
+          {
+            "bytes": 8056,
+            "h": 142,
+            "path": "webp/two-dancing-horned-figures-128.webp",
+            "sha256": "2f93c3e14cec58eb8684d93518fa247b11b292bee28a56f8bd062ad3bb2a3ae2",
+            "w": 128
+          },
+          {
+            "bytes": 12522,
+            "h": 213,
+            "path": "webp/two-dancing-horned-figures-192.webp",
+            "sha256": "10b0cc8e7d73898ca6e80017739eaa3a13d6f18380e16ee8e7b504f92c491aee",
+            "w": 192
+          },
+          {
+            "bytes": 17682,
+            "h": 283,
+            "path": "webp/two-dancing-horned-figures-256.webp",
+            "sha256": "ab84af6822d1e1cb9d0f9fd4c44e198a0eaf6f847f74ce02f03ef779ca4583ec",
+            "w": 256
+          },
+          {
+            "bytes": 28460,
+            "h": 425,
+            "path": "webp/two-dancing-horned-figures-384.webp",
+            "sha256": "501b7a4eeac09f431ad785d3891693b667c33057709f1c1282aec9e7e2d85d4e",
+            "w": 384
+          },
+          {
+            "bytes": 40700,
+            "h": 567,
+            "path": "webp/two-dancing-horned-figures-512.webp",
+            "sha256": "d27c971acc3423b9ddee23fb02e0b264e0e4173f4805ba6992084d4893603abf",
+            "w": 512
+          },
+          {
+            "bytes": 40526,
+            "h": 672,
+            "path": "webp/two-dancing-horned-figures-607.webp",
+            "sha256": "93032a10f0492b4ccd8570dabe3042c012158ae5ec23a09067b307758ea6f904",
+            "w": 607
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "devil",
+        "horn",
+        "dancer"
+      ],
+      "thumbhash": "z/eBBQAl76KfaI1HdnlwhwZnSQqIiINYVw==",
+      "title": "Two dancing black devils",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Cut from two-dancing-devils-in-gold-landscape-oval; the figures touch at the feet and are kept as one piece."
+      ],
+      "view": "side",
+      "width": 607
+    },
+    "verso-floral-border": {
+      "attribution": "Cleveland Museum of Art 2005.206.a",
+      "categories": [
+        "floral",
+        "botanical",
+        "scrollwork",
+        "hybrids"
+      ],
+      "colors": [
+        "blue",
+        "gold",
+        "green",
+        "red",
+        "brown"
+      ],
+      "composition": "single-ornament",
+      "description": "The complete painted border of the recto, a dense field of hairline tendrils with gold dots, green and yellow leaves, red and blue flowers and red fruits, with large blue and gold acanthus scrolls at the top centre, the upper right and both lower corners. A human-headed bird walks in the lower margin. The text block is framed by a thin brown and gold rule with a blue and a red finial at its upper corners; a thin gold ring at the right is the empty seat of the removed roundel. The text block, the ring's interior and the parchment between the sprigs are transparent.",
+      "display_width": [
+        600,
+        1600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 1348149,
+        "webpTopBytes": 2147526
+      },
+      "facing": "none",
+      "group": "a",
+      "height": 4157,
+      "master": {
+        "bytes": 3366702,
+        "h": 2048,
+        "path": "masters/verso-floral-border.webp",
+        "sha256": "f2ffc2d0285549e935157295d90cdf7ce5021bcf9c47ed837c746e6f2366fedd",
+        "w": 1570
+      },
+      "palette": [
+        "#5e6f86",
+        "#746e5e",
+        "#928260",
+        "#b5a176",
+        "#8e8d73"
+      ],
+      "provenance": {
+        "artist": "Coëtivy Master (French)",
+        "date": "c. 1460",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.a/2005.206.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-source-mask",
+        "object_identifier": "2005.206.a",
+        "object_title": "Leaf from a Book of Hours: Office of the Dead: Angel Chasing a Devil (recto)",
+        "record_url": "https://clevelandart.org/art/2005.206.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "3f5adfecfe574825b8e47db6e3b7975029c48443187a5b1b888befc893dd618c"
+      },
+      "quality": "The trimmed leaf edge runs as a thin dark line along the outer sides; flaked spots inside some leaves show parchment tone, and a sliver of blue sky remains inside the top of the empty ring.",
+      "related": [
+        {
+          "asset": "cma-2005-206/angel-chasing-devil-roundel",
+          "role": "companion"
+        },
+        {
+          "asset": "cma-2005-206/human-headed-bird",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2005-206/recto-floral-border",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4125,
+            "h": 84,
+            "path": "avif/verso-floral-border-64.avif",
+            "sha256": "918801a876aa0dc5903479d22e92d178ba822b5f2ada2a28632a2a61dee519b3",
+            "w": 64
+          },
+          {
+            "bytes": 8793,
+            "h": 125,
+            "path": "avif/verso-floral-border-96.avif",
+            "sha256": "20f83ffd9b630e81caf1fac03d6cf7d41bddf43b16ee62c88362e43d5d480fad",
+            "w": 96
+          },
+          {
+            "bytes": 15372,
+            "h": 167,
+            "path": "avif/verso-floral-border-128.avif",
+            "sha256": "cdfafbf03b5a75cc50f0dfdcae7b9258cf5904c5489c2a951d969bce2abc1fed",
+            "w": 128
+          },
+          {
+            "bytes": 34256,
+            "h": 251,
+            "path": "avif/verso-floral-border-192.avif",
+            "sha256": "d2a30e49b878f8510ad1bfb3a224ad4ec09c6b869fb55cfaba677daa7c781302",
+            "w": 192
+          },
+          {
+            "bytes": 58115,
+            "h": 334,
+            "path": "avif/verso-floral-border-256.avif",
+            "sha256": "3bc23f88a9a02a7da7e3ea3c84b0d2dc69f447f8cab37e6f798d835861175484",
+            "w": 256
+          },
+          {
+            "bytes": 117987,
+            "h": 501,
+            "path": "avif/verso-floral-border-384.avif",
+            "sha256": "2e1696bbd8538682d93f65e4e93c36dc3e1ab7acd638888aae8c8de7d59e0720",
+            "w": 384
+          },
+          {
+            "bytes": 189421,
+            "h": 668,
+            "path": "avif/verso-floral-border-512.avif",
+            "sha256": "6f19bc05d591c689733d7e77aa2d561d45abf66da619c2d028b9bf3d60caa589",
+            "w": 512
+          },
+          {
+            "bytes": 360302,
+            "h": 1002,
+            "path": "avif/verso-floral-border-768.avif",
+            "sha256": "a9c85f7429d809b42f6999ca7f84e52994dd2214f020ef2d11314b9aaf3d7057",
+            "w": 768
+          },
+          {
+            "bytes": 545302,
+            "h": 1336,
+            "path": "avif/verso-floral-border-1024.avif",
+            "sha256": "1296c9a3dd510590045ac603d98dfe7ddce79c7b260e27303ba1fe02abe8f775",
+            "w": 1024
+          },
+          {
+            "bytes": 938822,
+            "h": 2004,
+            "path": "avif/verso-floral-border-1536.avif",
+            "sha256": "d646ea4bd7f8b4c01ee7e021b43b5a9e573e740902a168a1d29a6c01542951fe",
+            "w": 1536
+          },
+          {
+            "bytes": 1348149,
+            "h": 2672,
+            "path": "avif/verso-floral-border-2048.avif",
+            "sha256": "3340e8ca3f8fbf3333ae6930565864466c61e69126c593a476a6f07f4a45e303",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 6498,
+            "h": 84,
+            "path": "webp/verso-floral-border-64.webp",
+            "sha256": "9945538d2fb14183a201951cce53be03aada4532676ee03cb4fc0485e26b4898",
+            "w": 64
+          },
+          {
+            "bytes": 13384,
+            "h": 125,
+            "path": "webp/verso-floral-border-96.webp",
+            "sha256": "a7522b456af1cb2226b26ae910cc62ac4b2328727365ff011c783c7954e2ae5b",
+            "w": 96
+          },
+          {
+            "bytes": 22966,
+            "h": 167,
+            "path": "webp/verso-floral-border-128.webp",
+            "sha256": "3ed43c2ff8c5fceae4f32de7dc460f930a883e2694ce6e3bb4012f47e7f7a18d",
+            "w": 128
+          },
+          {
+            "bytes": 47662,
+            "h": 251,
+            "path": "webp/verso-floral-border-192.webp",
+            "sha256": "d335713c552c85940aa984c6d0e77454c9ad0b74853941f418e079ef7ceeac52",
+            "w": 192
+          },
+          {
+            "bytes": 78514,
+            "h": 334,
+            "path": "webp/verso-floral-border-256.webp",
+            "sha256": "cc22ba7a737e65b125427bbb182f5def846550f70a02729d03b5f5854b23d481",
+            "w": 256
+          },
+          {
+            "bytes": 161850,
+            "h": 501,
+            "path": "webp/verso-floral-border-384.webp",
+            "sha256": "0f35bbd4e8a03216f2d4cae1bc40b6b0251d6f894cc25c83a9ae3a75d1e20dcf",
+            "w": 384
+          },
+          {
+            "bytes": 266012,
+            "h": 668,
+            "path": "webp/verso-floral-border-512.webp",
+            "sha256": "5c56828d8b928a05e65c95dfbbbe021eee26e0c78d30440927c2c07ae6a63665",
+            "w": 512
+          },
+          {
+            "bytes": 516100,
+            "h": 1002,
+            "path": "webp/verso-floral-border-768.webp",
+            "sha256": "13e9c9a7e4834dfb25c351c8a2c13ae859f51257e6f34ffef481061495146fab",
+            "w": 768
+          },
+          {
+            "bytes": 802820,
+            "h": 1336,
+            "path": "webp/verso-floral-border-1024.webp",
+            "sha256": "a19614ff6043fd299193105dab742d78a7abdcb916f32dd032e822c168f02a37",
+            "w": 1024
+          },
+          {
+            "bytes": 1450362,
+            "h": 2004,
+            "path": "webp/verso-floral-border-1536.webp",
+            "sha256": "78f2f1b6f2e1cca802c23a961bc68302b749deb412432ddd3ff60f28e88077ed",
+            "w": 1536
+          },
+          {
+            "bytes": 2147526,
+            "h": 2672,
+            "path": "webp/verso-floral-border-2048.webp",
+            "sha256": "91a6a3852bd389efe56f03d545496dbaa2e37f3e01ca43ab58e010f9d497a72d",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "frame",
+        "vine",
+        "leaf",
+        "flower",
+        "fruit",
+        "acanthus",
+        "bird",
+        "grotesque",
+        "roundel",
+        "rule"
+      ],
+      "thumbhash": "ngiCBAAVogKZ+HhZiOYGu1tQnGWH90eJBQ==",
+      "title": "Recto floral page border with empty roundel",
+      "transparent": true,
+      "type": "frame",
+      "usage_notes": [
+        "Fixed page border, scaled as a whole with content placed in the transparent text block; it is not a border-image, the four sides and corners all differ and the text-block rule is not quite straight.",
+        "The roundel angel-chasing-devil-in-gold-oval fits back into the empty gold ring at the right; the bird in the lower margin is also available as human-headed-bird."
+      ],
+      "width": 3186
+    },
+    "white-robed-winged-angel": {
+      "attribution": "Cleveland Museum of Art 2005.206.a",
+      "categories": [
+        "humans",
+        "fantasy"
+      ],
+      "colors": [
+        "white",
+        "red",
+        "brown",
+        "gold"
+      ],
+      "composition": "single-figure",
+      "description": "An angel in a long white robe stands turned to the right, head in three-quarter view with fair hair and a halo kept only as a thin gold line, two long dark red wings with gold speckling rising behind the shoulders. A thin gold staff with a small knob runs diagonally from the upper left across the body to the lower right; the right hand is raised before the chest and the left arm reaches forward. Cut from the recto roundel; the background is transparent.",
+      "display_width": [
+        150,
+        400
+      ],
+      "encoding": {
+        "avif": false,
+        "avifTopBytes": 15607,
+        "webpTopBytes": 13460
+      },
+      "facing": "right",
+      "group": "a",
+      "height": 662,
+      "master": {
+        "bytes": 118738,
+        "h": 662,
+        "path": "masters/white-robed-winged-angel.webp",
+        "sha256": "43272365b80f44c85f61764631190b2915562a11a3fb531dd61095bedddd8131",
+        "w": 516
+      },
+      "palette": [
+        "#cec8b8",
+        "#977f67",
+        "#b5afa0",
+        "#7c6254",
+        "#b2a078"
+      ],
+      "provenance": {
+        "artist": "Coëtivy Master (French)",
+        "date": "c. 1460",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2005.206.a/2005.206.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-source-mask",
+        "object_identifier": "2005.206.a",
+        "object_title": "Leaf from a Book of Hours: Office of the Dead: Angel Chasing a Devil (recto)",
+        "record_url": "https://clevelandart.org/art/2005.206.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "3f5adfecfe574825b8e47db6e3b7975029c48443187a5b1b888befc893dd618c"
+      },
+      "quality": "Soft mask edge all round; the halo survives only as a thin gold outline.",
+      "related": [
+        {
+          "asset": "cma-2005-206/angel-chasing-devil-roundel",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2005-206/black-horned-devil",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "webp": [
+          {
+            "bytes": 3428,
+            "h": 82,
+            "path": "webp/white-robed-winged-angel-64.webp",
+            "sha256": "ad909d75bf3de5f750176a89554820f27d676cf570488b333beea0d8a1420cdb",
+            "w": 64
+          },
+          {
+            "bytes": 5530,
+            "h": 123,
+            "path": "webp/white-robed-winged-angel-96.webp",
+            "sha256": "0d2ffa71aee05e1d6871d1d0139fafc7ca1d753a1b90844ab95d1ff85ebb5915",
+            "w": 96
+          },
+          {
+            "bytes": 7600,
+            "h": 164,
+            "path": "webp/white-robed-winged-angel-128.webp",
+            "sha256": "a4eb4b04674d2db44b2dae555925382c92c65c88b1690ab75e41e9921d02bc2c",
+            "w": 128
+          },
+          {
+            "bytes": 11960,
+            "h": 246,
+            "path": "webp/white-robed-winged-angel-192.webp",
+            "sha256": "d085880fa06aa17eee727c15cb13d47a72280685961050cdce61de3e165dc15f",
+            "w": 192
+          },
+          {
+            "bytes": 16118,
+            "h": 328,
+            "path": "webp/white-robed-winged-angel-256.webp",
+            "sha256": "922f88fb1a23ddb81751f7e2b6167d2fbac43d3af01c428f12580269f1a90682",
+            "w": 256
+          },
+          {
+            "bytes": 24496,
+            "h": 493,
+            "path": "webp/white-robed-winged-angel-384.webp",
+            "sha256": "252cc57ef3b231f8ce66d30429a953594c45d7411fc616fe6dfd3cd93f83e87f",
+            "w": 384
+          },
+          {
+            "bytes": 31080,
+            "h": 657,
+            "path": "webp/white-robed-winged-angel-512.webp",
+            "sha256": "a61d57f7df992ddcb9baf24b76f849cb01d58680076f81583176b0c1774e31fc",
+            "w": 512
+          },
+          {
+            "bytes": 13460,
+            "h": 662,
+            "path": "webp/white-robed-winged-angel-516.webp",
+            "sha256": "7e85b5e7202b6a2c3dff853bf692a5e20858863a54f84f32117ad20997314a09",
+            "w": 516
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "angel",
+        "wings",
+        "halo",
+        "staff",
+        "robe"
+      ],
+      "thumbhash": "6RiCBAA2BAfHeLqGt8+Ky6+ZcHmIZ4d2Bw==",
+      "title": "Angel with a gold staff",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Cut from angel-chasing-devil-in-gold-oval; pairs with black-horned-devil at the same scale, placed to its right."
+      ],
+      "view": "three-quarter",
+      "width": 516
+    }
+  },
+  "attribution": "Cleveland Museum of Art 2005.206",
+  "builtAt": "2026-10-30T12:38:48.823Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-cma-2005-206@1.0.0/",
+  "contentHash": "sha256:c88c86b1e877e4ae423b6110c914397405a13aa475723d22773733ab4e203b25",
+  "inputsHash": "sha256:12e6bb4a7176399c4b7eaacf0e4ce1b46a37c3ef749151c66b80710598d4610b",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from Cleveland Museum of Art open access (CC0) images; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-cma-2005-206-masters",
+  "package": "@ranx729/ducktape-assets-cma-2005-206",
+  "period": "c. 1460",
+  "region": "Paris, France",
+  "schema": 1,
+  "set": "cma-2005-206",
+  "style": "late Gothic illumination",
+  "summary": "Angels, devils, hybrids and the disc-and-diamond line fillers of a Book of Hours leaf (Office of the Dead) painted by the Coëtivy Master in Paris about 1460, in the Cleveland Museum of Art; recto (a) and verso (b) as groups.",
+  "title": "Cleveland 2005.206, Office of the Dead leaf",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

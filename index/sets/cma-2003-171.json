@@ -1,0 +1,934 @@
+{
+  "assets": {
+    "saint-paul-with-long-sword-and-book": {
+      "categories": [
+        "humans",
+        "reading"
+      ],
+      "colors": [
+        "cream",
+        "blue",
+        "white",
+        "gray"
+      ],
+      "composition": "single-figure",
+      "description": "A standing bearded man with receding brown hair and a blue halo dotted in white, in a long cream mantle over a blue robe, holds a tall sword upright against his shoulder in one hand and a closed book in the other; his head turns to the left and the mantle falls in deep folds to his feet. Black contours and flat colours with pale shading; the background is transparent.",
+      "display_width": [
+        120,
+        360
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 46384,
+        "webpTopBytes": 94246
+      },
+      "facing": "left",
+      "group": null,
+      "height": 957,
+      "master": {
+        "bytes": 373510,
+        "h": 957,
+        "path": "masters/saint-paul-with-long-sword-and-book.webp",
+        "sha256": "74cba7581e580e2173b95d50e4823c8324aba9ca61b20e051f4eb63089936e07",
+        "w": 361
+      },
+      "palette": [
+        "#dcd0b9",
+        "#8c8374",
+        "#b7a78e",
+        "#4d5255",
+        "#3a607d"
+      ],
+      "provenance": {
+        "date": "c. 1325",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2003.171/2003.171_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "2003.171",
+        "object_title": "Leaf Excised from an Antiphonary: Initial Q with Saints Peter and Paul",
+        "record_url": "https://clevelandart.org/art/2003.171",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "eba9a7e7aae900dc5b3f090a900bc62e526b68ff6465527c35efafed8ae4e501"
+      },
+      "related": [
+        {
+          "asset": "cma-2003-171/saint-peter-with-large-key",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4353,
+            "h": 170,
+            "path": "avif/saint-paul-with-long-sword-and-book-64.avif",
+            "sha256": "3031a00d4f23accc8c137f3f93af23555eca90ab9dbc2197c240f83eb6b58afd",
+            "w": 64
+          },
+          {
+            "bytes": 7410,
+            "h": 254,
+            "path": "avif/saint-paul-with-long-sword-and-book-96.avif",
+            "sha256": "c95cf05deed3976826c08990ef9e70eb346c4526f4c7c1ac48a337f819708c5f",
+            "w": 96
+          },
+          {
+            "bytes": 10308,
+            "h": 339,
+            "path": "avif/saint-paul-with-long-sword-and-book-128.avif",
+            "sha256": "53af86be88f6093b4bd986b6e81ee88b1105374a27e77a7594a1cdca1bfa197e",
+            "w": 128
+          },
+          {
+            "bytes": 18392,
+            "h": 509,
+            "path": "avif/saint-paul-with-long-sword-and-book-192.avif",
+            "sha256": "b73dd5808ca6b67217fb7e14504e294cb11534241f1b4020d291e59cce6bd487",
+            "w": 192
+          },
+          {
+            "bytes": 27366,
+            "h": 679,
+            "path": "avif/saint-paul-with-long-sword-and-book-256.avif",
+            "sha256": "37e58362d8e48bfd7237aa9b7d0aa83c4c2a2645ead2cee169ca040bb29464d3",
+            "w": 256
+          },
+          {
+            "bytes": 46384,
+            "h": 957,
+            "path": "avif/saint-paul-with-long-sword-and-book-361.avif",
+            "sha256": "c4b3f92052fcedc1bfdaaafff44719cc22524b37cd063b4748b0a162d37e8916",
+            "w": 361
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 7422,
+            "h": 170,
+            "path": "webp/saint-paul-with-long-sword-and-book-64.webp",
+            "sha256": "48e24df8aca4e1d19f67da077d614f68647e43cf8cc60893627483013f944284",
+            "w": 64
+          },
+          {
+            "bytes": 13410,
+            "h": 254,
+            "path": "webp/saint-paul-with-long-sword-and-book-96.webp",
+            "sha256": "8df7e3a32fb289c381d8dbc3685bc4d95dbe4a8c48e0e762a5f202eeb1c21816",
+            "w": 96
+          },
+          {
+            "bytes": 19872,
+            "h": 339,
+            "path": "webp/saint-paul-with-long-sword-and-book-128.webp",
+            "sha256": "280398c58ebba9aa039cff4b939e7786f2cc5ab2f84317fda7c77fea6611c6ec",
+            "w": 128
+          },
+          {
+            "bytes": 36534,
+            "h": 509,
+            "path": "webp/saint-paul-with-long-sword-and-book-192.webp",
+            "sha256": "5c2e709691570a14a73c496176b50585cc76a3b2f66c2f60475472b1bf75dfa6",
+            "w": 192
+          },
+          {
+            "bytes": 57114,
+            "h": 679,
+            "path": "webp/saint-paul-with-long-sword-and-book-256.webp",
+            "sha256": "d14e4d0b62b8bac6160fda4dc42ffb23bd5348c5a2acaf170ec81d7eb0f6c950",
+            "w": 256
+          },
+          {
+            "bytes": 94246,
+            "h": 957,
+            "path": "webp/saint-paul-with-long-sword-and-book-361.webp",
+            "sha256": "6690e869353d890592bd8f6c8c505cbb506ee4ec52f22b2bef13ab76434e809f",
+            "w": 361
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "apostle",
+        "sword",
+        "book",
+        "halo",
+        "robe",
+        "beard"
+      ],
+      "thumbhash": "ZAiGCgJJaYUn9gqqh6B6CAlnWIeGeHg=",
+      "title": "Saint Paul with sword and book",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Faces left, toward saint-peter-with-large-key in the initial; place the two saints facing each other on either side of a heading."
+      ],
+      "view": "three-quarter",
+      "width": 361
+    },
+    "saint-peter-with-large-key": {
+      "categories": [
+        "humans"
+      ],
+      "colors": [
+        "blue",
+        "orange",
+        "cream",
+        "gray",
+        "white"
+      ],
+      "composition": "single-figure",
+      "description": "A standing bearded man with curly gray hair and a cream halo, in a blue mantle lined in gray over an orange-red robe, holds a large cream key over his shoulder in one hand and raises the other hand open; his head turns to the right and the mantle hangs in long folds edged with white dots. Black contours and flat colours with pale shading; the background is transparent.",
+      "display_width": [
+        140,
+        410
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 59085,
+        "webpTopBytes": 114012
+      },
+      "facing": "right",
+      "group": null,
+      "height": 962,
+      "master": {
+        "bytes": 466904,
+        "h": 962,
+        "path": "masters/saint-peter-with-large-key.webp",
+        "sha256": "fb51a077c525b4291bd8eb469f9cedd22302fffc34d15e08f8dd10b3d20f5778",
+        "w": 413
+      },
+      "palette": [
+        "#4b5358",
+        "#557486",
+        "#b1afa5",
+        "#c2683e",
+        "#8c7362"
+      ],
+      "provenance": {
+        "date": "c. 1325",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2003.171/2003.171_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "2003.171",
+        "object_title": "Leaf Excised from an Antiphonary: Initial Q with Saints Peter and Paul",
+        "record_url": "https://clevelandart.org/art/2003.171",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "eba9a7e7aae900dc5b3f090a900bc62e526b68ff6465527c35efafed8ae4e501"
+      },
+      "related": [
+        {
+          "asset": "cma-2003-171/saint-paul-with-long-sword-and-book",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4205,
+            "h": 149,
+            "path": "avif/saint-peter-with-large-key-64.avif",
+            "sha256": "08e8595881a10c759b090d5ef36822b09e699e9229dc7be1cba99ddc90bba441",
+            "w": 64
+          },
+          {
+            "bytes": 7609,
+            "h": 224,
+            "path": "avif/saint-peter-with-large-key-96.avif",
+            "sha256": "6bc98ca2ca395fb49af7e1eae1e6d7aafa7b15412c318d8e86faa048ae7c6e63",
+            "w": 96
+          },
+          {
+            "bytes": 10762,
+            "h": 298,
+            "path": "avif/saint-peter-with-large-key-128.avif",
+            "sha256": "45c7f8b779de044e9fc859d395a36eee6c51b32fd304a02f578c332aee0ffcfc",
+            "w": 128
+          },
+          {
+            "bytes": 18288,
+            "h": 447,
+            "path": "avif/saint-peter-with-large-key-192.avif",
+            "sha256": "5fca1e778f99d31f8700912724c27b709297ace84342b7dbde472b492b74c744",
+            "w": 192
+          },
+          {
+            "bytes": 28102,
+            "h": 596,
+            "path": "avif/saint-peter-with-large-key-256.avif",
+            "sha256": "1bc758097222c4d9e5f3e8f1f32c64b687fe2f84bec01169e1fd1beb10228fee",
+            "w": 256
+          },
+          {
+            "bytes": 52109,
+            "h": 894,
+            "path": "avif/saint-peter-with-large-key-384.avif",
+            "sha256": "154fba7bf76995e19aaf37fb7a6cffa6219667eade78ae342c50a2dc1609ff9f",
+            "w": 384
+          },
+          {
+            "bytes": 59085,
+            "h": 962,
+            "path": "avif/saint-peter-with-large-key-413.avif",
+            "sha256": "53f9a5587b6904a4ca3d41067f5625ef15867f33a9f9b5addf206afc5b4f399a",
+            "w": 413
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 7076,
+            "h": 149,
+            "path": "webp/saint-peter-with-large-key-64.webp",
+            "sha256": "fb49cc3f22dbba8f16a13e9d50a661263d2957db6950059313f689fbb7c599dc",
+            "w": 64
+          },
+          {
+            "bytes": 12494,
+            "h": 224,
+            "path": "webp/saint-peter-with-large-key-96.webp",
+            "sha256": "e3f09b279992b363ee4c9c6f618b34c26bb7a791f6ab2d9c95a5495319e229bc",
+            "w": 96
+          },
+          {
+            "bytes": 19240,
+            "h": 298,
+            "path": "webp/saint-peter-with-large-key-128.webp",
+            "sha256": "7d195119e81ba8bf5ddb849b945aca7439ac97e96ca608799e9a5eee3add2f67",
+            "w": 128
+          },
+          {
+            "bytes": 35136,
+            "h": 447,
+            "path": "webp/saint-peter-with-large-key-192.webp",
+            "sha256": "49e268b6defb2db7c9deb542da71fc6542a17cffc1d6ee5d62d8b7cae0ac6709",
+            "w": 192
+          },
+          {
+            "bytes": 54496,
+            "h": 596,
+            "path": "webp/saint-peter-with-large-key-256.webp",
+            "sha256": "77efd941bbb692455d18db0463f86657f57342d700ea9665c45dee5e384f1d4c",
+            "w": 256
+          },
+          {
+            "bytes": 102254,
+            "h": 894,
+            "path": "webp/saint-peter-with-large-key-384.webp",
+            "sha256": "2a28d885cf289edd267d13c1b4c18500881baf5702a2d6cbbd6cea195b47729d",
+            "w": 384
+          },
+          {
+            "bytes": 114012,
+            "h": 962,
+            "path": "webp/saint-peter-with-large-key-413.webp",
+            "sha256": "9bf64342de785a441386aa8d8e6077b930e0fbe8f980beae818f5691271d0740",
+            "w": 413
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "apostle",
+        "key",
+        "halo",
+        "robe",
+        "beard"
+      ],
+      "thumbhash": "HgiGEgQ5aq/kqFdZiK90+AhXp2iUd2Y=",
+      "title": "Saint Peter with a large key",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Faces right, toward saint-paul-with-long-sword-and-book in the initial; place the two saints facing each other on either side of a heading."
+      ],
+      "view": "three-quarter",
+      "width": 413
+    },
+    "saint-seized-by-hair-left": {
+      "categories": [
+        "humans"
+      ],
+      "colors": [
+        "blue",
+        "cream",
+        "red",
+        "orange",
+        "black"
+      ],
+      "composition": "multiple-figures",
+      "description": "A haloed man in a blue mantle over a red robe kneels at the left with hands joined in prayer, facing right, while a bareheaded man in a short cream tunic, orange-red hose and black shoes strides toward him from the right, grips the top of his head with one hand and holds a pale object at his hip with the other, looking back over his shoulder. Black contours, gold halo, flat colours; the background is transparent.",
+      "display_width": [
+        200,
+        500
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 58605,
+        "webpTopBytes": 105922
+      },
+      "facing": "mixed",
+      "group": null,
+      "height": 706,
+      "master": {
+        "bytes": 407440,
+        "h": 706,
+        "path": "masters/saint-seized-by-hair-left.webp",
+        "sha256": "ca9917169370f32d27ddad4f348674b7b790833c6facf52e8e1cc23fe7e8c4d5",
+        "w": 695
+      },
+      "palette": [
+        "#63777f",
+        "#cec0ae",
+        "#524a46",
+        "#9f907d",
+        "#b76241"
+      ],
+      "provenance": {
+        "date": "c. 1325",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2003.171/2003.171_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "2003.171",
+        "object_title": "Leaf Excised from an Antiphonary: Initial Q with Saints Peter and Paul",
+        "record_url": "https://clevelandart.org/art/2003.171",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "eba9a7e7aae900dc5b3f090a900bc62e526b68ff6465527c35efafed8ae4e501"
+      },
+      "related": [
+        {
+          "asset": "cma-2003-171/saint-seized-by-hair-right",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2448,
+            "h": 65,
+            "path": "avif/saint-seized-by-hair-left-64.avif",
+            "sha256": "fb105bb826730e3fad0d16c0e94005434e5d5d8b59ec76d0552e28da046c51f6",
+            "w": 64
+          },
+          {
+            "bytes": 3981,
+            "h": 98,
+            "path": "avif/saint-seized-by-hair-left-96.avif",
+            "sha256": "9d42246b54ad38242c3d7b3dc481b816370762494e557d238d08928dc24649b2",
+            "w": 96
+          },
+          {
+            "bytes": 5294,
+            "h": 130,
+            "path": "avif/saint-seized-by-hair-left-128.avif",
+            "sha256": "1b100b13138d7424b9e920ef983dd4f3a9bb263d4784f6803b15b9ca207e1462",
+            "w": 128
+          },
+          {
+            "bytes": 9120,
+            "h": 195,
+            "path": "avif/saint-seized-by-hair-left-192.avif",
+            "sha256": "68fc471a6bf2b55da8766c9f9ac29455ceea10d015223b432d7d2306cacc30cd",
+            "w": 192
+          },
+          {
+            "bytes": 13657,
+            "h": 260,
+            "path": "avif/saint-seized-by-hair-left-256.avif",
+            "sha256": "6f2d161c629a704d4aa34645951f797accf615aa730f496b7cf7e3484f6e1b17",
+            "w": 256
+          },
+          {
+            "bytes": 24614,
+            "h": 390,
+            "path": "avif/saint-seized-by-hair-left-384.avif",
+            "sha256": "c035b51ad6ed0bd6a0a7383df395998b27d9efc20c8d3b08d0f9b8f5a1b9c1b0",
+            "w": 384
+          },
+          {
+            "bytes": 37129,
+            "h": 520,
+            "path": "avif/saint-seized-by-hair-left-512.avif",
+            "sha256": "780f4a3a7ca1cf432494fbd80fd0d64f8a38d83668a374ebd64596d21dad8b70",
+            "w": 512
+          },
+          {
+            "bytes": 58605,
+            "h": 706,
+            "path": "avif/saint-seized-by-hair-left-695.avif",
+            "sha256": "a1a6eeb9a1a083713c39c22b0c259bce36e9f14d79c8559103f7c9cb95a08711",
+            "w": 695
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3442,
+            "h": 65,
+            "path": "webp/saint-seized-by-hair-left-64.webp",
+            "sha256": "bcc569a7a02130d12fb4cfe6e373afc93619d4b0ac1c4171e9d6511be1dca14c",
+            "w": 64
+          },
+          {
+            "bytes": 6020,
+            "h": 98,
+            "path": "webp/saint-seized-by-hair-left-96.webp",
+            "sha256": "d96a917ef867cbf99cc1bd4388208f8de2d80ba0375f85fbade53feba34dd1ea",
+            "w": 96
+          },
+          {
+            "bytes": 8590,
+            "h": 130,
+            "path": "webp/saint-seized-by-hair-left-128.webp",
+            "sha256": "8e730cd2f0e73d76761383ecf097819892fb92e1342289ea61d3e225a4ac5382",
+            "w": 128
+          },
+          {
+            "bytes": 15516,
+            "h": 195,
+            "path": "webp/saint-seized-by-hair-left-192.webp",
+            "sha256": "7da460caa155c48302d91e05f394018cf9540db76e89e561fee366c72aac9daf",
+            "w": 192
+          },
+          {
+            "bytes": 23364,
+            "h": 260,
+            "path": "webp/saint-seized-by-hair-left-256.webp",
+            "sha256": "597b6dc325ba797e5846ef012eef166df1b1bc2dbb8be3880109517e77b81e27",
+            "w": 256
+          },
+          {
+            "bytes": 42242,
+            "h": 390,
+            "path": "webp/saint-seized-by-hair-left-384.webp",
+            "sha256": "677cbab5147d5a0dc58a3f97b2a9c26fde66ee2f7fbe4818a4f8ea902c98b67f",
+            "w": 384
+          },
+          {
+            "bytes": 66790,
+            "h": 520,
+            "path": "webp/saint-seized-by-hair-left-512.webp",
+            "sha256": "e9bf66a77892c6b7679e4f677354539c81cad0a1a501afe8d7f75e94feaf5ccc",
+            "w": 512
+          },
+          {
+            "bytes": 105922,
+            "h": 706,
+            "path": "webp/saint-seized-by-hair-left-695.webp",
+            "sha256": "0ba264d364bf3c38f02d7a475112751eb2a16c2b0201854d69cb9d31c5faeff7",
+            "w": 695
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "apostle",
+        "man",
+        "halo",
+        "robe"
+      ],
+      "thumbhash": "nxiGDQImcU5vd6Y4dlC6CHSMNRZHh2CbOg==",
+      "title": "Kneeling saint seized by the hair, left scene",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The two figures touch, so keep the scene whole; it sits at the lower left of the initial and pairs with the mirror scene at the lower right."
+      ],
+      "view": "side",
+      "width": 695
+    },
+    "saint-seized-by-hair-right": {
+      "categories": [
+        "humans"
+      ],
+      "colors": [
+        "orange",
+        "blue",
+        "red",
+        "cream",
+        "black"
+      ],
+      "composition": "multiple-figures",
+      "description": "A bearded, haloed man in an orange-red robe kneels at the left with hands joined in prayer, facing right, while a curly-haired man in a blue tunic with red sleeves and buttons, red hose and black shoes stands over him, bends to grip his hair with one hand and raises the other arm high holding a small pale object. Black contours, gold halo, flat colours; the background is transparent.",
+      "display_width": [
+        200,
+        500
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 89979,
+        "webpTopBytes": 167806
+      },
+      "facing": "right",
+      "group": null,
+      "height": 817,
+      "master": {
+        "bytes": 587926,
+        "h": 817,
+        "path": "masters/saint-seized-by-hair-right.webp",
+        "sha256": "3a9fc48f40286da9bd60b1d70eef000a75721bbde10ee7a3c7d3734d3bc67680",
+        "w": 678
+      },
+      "palette": [
+        "#5f4032",
+        "#c15f35",
+        "#66757b",
+        "#c98767",
+        "#b6ada4"
+      ],
+      "provenance": {
+        "date": "c. 1325",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2003.171/2003.171_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "2003.171",
+        "object_title": "Leaf Excised from an Antiphonary: Initial Q with Saints Peter and Paul",
+        "record_url": "https://clevelandart.org/art/2003.171",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "eba9a7e7aae900dc5b3f090a900bc62e526b68ff6465527c35efafed8ae4e501"
+      },
+      "related": [
+        {
+          "asset": "cma-2003-171/saint-seized-by-hair-left",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2888,
+            "h": 77,
+            "path": "avif/saint-seized-by-hair-right-64.avif",
+            "sha256": "b6d160a18c8f4001f0c5a6a9a5b091e16372e92b76c60bb9c776b9d53d4b699d",
+            "w": 64
+          },
+          {
+            "bytes": 5965,
+            "h": 116,
+            "path": "avif/saint-seized-by-hair-right-96.avif",
+            "sha256": "165c1163d41c760de55e40af26d50774c5ca9b96eb9c46600a147a42f543a709",
+            "w": 96
+          },
+          {
+            "bytes": 7319,
+            "h": 154,
+            "path": "avif/saint-seized-by-hair-right-128.avif",
+            "sha256": "1ada32b78b31ede4fab9e99b0a9225a3a9bc432ec2d8c9d7ce9b2b2e3cd32bfb",
+            "w": 128
+          },
+          {
+            "bytes": 12592,
+            "h": 231,
+            "path": "avif/saint-seized-by-hair-right-192.avif",
+            "sha256": "89a68783c64e21438e5a86af4e43240f6d844a18f9f6ac5dc87c229aa3a2350d",
+            "w": 192
+          },
+          {
+            "bytes": 19245,
+            "h": 308,
+            "path": "avif/saint-seized-by-hair-right-256.avif",
+            "sha256": "f9be181134a8909bc10719bd190912a9f7a36f8964803fa1141cae0dbbc1a00a",
+            "w": 256
+          },
+          {
+            "bytes": 37176,
+            "h": 463,
+            "path": "avif/saint-seized-by-hair-right-384.avif",
+            "sha256": "fce98d7cdbe35e28de7393bbf6ad346e78376e9aa3a1de09bc747b5cffd1f006",
+            "w": 384
+          },
+          {
+            "bytes": 58208,
+            "h": 617,
+            "path": "avif/saint-seized-by-hair-right-512.avif",
+            "sha256": "a43588769f9d6556c081047e64a40a6fb18bc6d5ee308b0a4caac47082915462",
+            "w": 512
+          },
+          {
+            "bytes": 89979,
+            "h": 817,
+            "path": "avif/saint-seized-by-hair-right-678.avif",
+            "sha256": "67d3a369a69dc76dda8667f4f389c5a2609c56d29171462e6a2adae9658e4018",
+            "w": 678
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4282,
+            "h": 77,
+            "path": "webp/saint-seized-by-hair-right-64.webp",
+            "sha256": "b50cb2b55474ed0b4aa7843f67a7fb606ad3cc4ab4279a524a717a63b2970ef8",
+            "w": 64
+          },
+          {
+            "bytes": 7862,
+            "h": 116,
+            "path": "webp/saint-seized-by-hair-right-96.webp",
+            "sha256": "1e04890720b346ad3884fd025bc2e060ec5a773e55b8f5090fd07fef7dbe8dbf",
+            "w": 96
+          },
+          {
+            "bytes": 11906,
+            "h": 154,
+            "path": "webp/saint-seized-by-hair-right-128.webp",
+            "sha256": "3a7ddabf5481c1c87cc677cdaad836c7da6e663651f34408722033b485525273",
+            "w": 128
+          },
+          {
+            "bytes": 21760,
+            "h": 231,
+            "path": "webp/saint-seized-by-hair-right-192.webp",
+            "sha256": "b22278d4fbc7bba04007461bb849a38405270073908bebc53a453511b9cc9852",
+            "w": 192
+          },
+          {
+            "bytes": 33302,
+            "h": 308,
+            "path": "webp/saint-seized-by-hair-right-256.webp",
+            "sha256": "894d891524d1a8e999f48a3d8c6be0070fd2e2efb729e8fd832a967b90712cf6",
+            "w": 256
+          },
+          {
+            "bytes": 63946,
+            "h": 463,
+            "path": "webp/saint-seized-by-hair-right-384.webp",
+            "sha256": "9420f3a96d944b162f7465f3c1326ace8935b9563eb33d1057dac63036c2fecc",
+            "w": 384
+          },
+          {
+            "bytes": 107642,
+            "h": 617,
+            "path": "webp/saint-seized-by-hair-right-512.webp",
+            "sha256": "e6c25f679c4e1fc462959826da6d8444ef37cf996064bbf6d6c73371c875cb47",
+            "w": 512
+          },
+          {
+            "bytes": 167806,
+            "h": 817,
+            "path": "webp/saint-seized-by-hair-right-678.webp",
+            "sha256": "af0264d618d438484699d327e57cb105a5bec6d22e4ff12b951ffe943d2458aa",
+            "w": 678
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "apostle",
+        "man",
+        "halo",
+        "robe",
+        "beard"
+      ],
+      "thumbhash": "HEmCDAInDONmG6hr9x3y/iBecER1SqmHBg==",
+      "title": "Kneeling saint seized by the hair, right scene",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The two figures touch, so keep the scene whole; it sits at the lower right of the initial and pairs with the mirror scene at the lower left."
+      ],
+      "view": "side",
+      "width": 678
+    },
+    "small-gray-bird-with-long-tail": {
+      "categories": [
+        "animals"
+      ],
+      "colors": [
+        "gray",
+        "black",
+        "white"
+      ],
+      "composition": "single-figure",
+      "description": "A small pale gray-green bird stands in profile facing right with its head raised, a short crest of black strokes behind the head, a dark eye and beak, black-lined wing feathers folded along the back, a long tail dropping to the lower left and thin black legs with spread claws. Black contours over mottled pale pigment with a few pink flecks; the background is transparent.",
+      "display_width": [
+        100,
+        315
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 21645,
+        "webpTopBytes": 36770
+      },
+      "facing": "right",
+      "group": null,
+      "height": 532,
+      "master": {
+        "bytes": 116788,
+        "h": 532,
+        "path": "masters/small-gray-bird-with-long-tail.webp",
+        "sha256": "71926ca425826e462053335403da258d79182383c632b30396d5b433c4329df2",
+        "w": 315
+      },
+      "palette": [
+        "#48423c",
+        "#6f675c",
+        "#cfcabb",
+        "#baaf9c",
+        "#968d80"
+      ],
+      "provenance": {
+        "date": "c. 1325",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2003.171/2003.171_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "2003.171",
+        "object_title": "Leaf Excised from an Antiphonary: Initial Q with Saints Peter and Paul",
+        "record_url": "https://clevelandart.org/art/2003.171",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "eba9a7e7aae900dc5b3f090a900bc62e526b68ff6465527c35efafed8ae4e501"
+      },
+      "quality": "The pale pigment is mottled and the black contours slightly broken, as painted.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2577,
+            "h": 108,
+            "path": "avif/small-gray-bird-with-long-tail-64.avif",
+            "sha256": "7c2a4c4c1d12fdb3cb7f5f9460bd307c487ae0eebecefeac5562bad83ba4d040",
+            "w": 64
+          },
+          {
+            "bytes": 4361,
+            "h": 162,
+            "path": "avif/small-gray-bird-with-long-tail-96.avif",
+            "sha256": "13cbd63b2df33860f369660102412cd0715005903176b889cf9debaca0620c1d",
+            "w": 96
+          },
+          {
+            "bytes": 6039,
+            "h": 216,
+            "path": "avif/small-gray-bird-with-long-tail-128.avif",
+            "sha256": "567a22bc645a517c924ac65c65e49c3d5bb827e17873b59b44fe1e651d793d51",
+            "w": 128
+          },
+          {
+            "bytes": 10285,
+            "h": 324,
+            "path": "avif/small-gray-bird-with-long-tail-192.avif",
+            "sha256": "b3907d7a1f5f8866f59e1d8f5588d1a0749632e129e6b179bbb2dc8a7d0f4c57",
+            "w": 192
+          },
+          {
+            "bytes": 14777,
+            "h": 432,
+            "path": "avif/small-gray-bird-with-long-tail-256.avif",
+            "sha256": "6f19abf92c7ffd0908804a39fd838d2f1586ad857e9de0784071b415b77ff720",
+            "w": 256
+          },
+          {
+            "bytes": 21645,
+            "h": 532,
+            "path": "avif/small-gray-bird-with-long-tail-315.avif",
+            "sha256": "72a476304565977483bd97ef9bbd04316a5bd4c6e70dd8a8b6b2dc4e45cba241",
+            "w": 315
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3684,
+            "h": 108,
+            "path": "webp/small-gray-bird-with-long-tail-64.webp",
+            "sha256": "8588f83c8a0fc9454cb7ef4b76a579011d69ed70091b9fbc512466c1cb735ac7",
+            "w": 64
+          },
+          {
+            "bytes": 6638,
+            "h": 162,
+            "path": "webp/small-gray-bird-with-long-tail-96.webp",
+            "sha256": "3b79aeff3e49b122136591a9424f92c2b2760f4f7d138837df93cf112501cbf3",
+            "w": 96
+          },
+          {
+            "bytes": 9928,
+            "h": 216,
+            "path": "webp/small-gray-bird-with-long-tail-128.webp",
+            "sha256": "b0b8396b896dfe2d5203a94d9639ab846a69743c62736b86dfb0f3ad2686d2cd",
+            "w": 128
+          },
+          {
+            "bytes": 17882,
+            "h": 324,
+            "path": "webp/small-gray-bird-with-long-tail-192.webp",
+            "sha256": "1a539ff9dda5b1d4217e9c12553ae3c9bab3fa172258a9c8595d2dc5d7dae495",
+            "w": 192
+          },
+          {
+            "bytes": 27278,
+            "h": 432,
+            "path": "webp/small-gray-bird-with-long-tail-256.webp",
+            "sha256": "0c19dfba5c8e0d9b0338e1af8018c15329a75a0f116031bab666c2ac3a8a849a",
+            "w": 256
+          },
+          {
+            "bytes": 36770,
+            "h": 532,
+            "path": "webp/small-gray-bird-with-long-tail-315.webp",
+            "sha256": "d181b907736589fda7dcb2cf7d06952e496e72dbc0e7f20d8d2f447d7f4a8896",
+            "w": 315
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "bird"
+      ],
+      "thumbhash": "YAiCAwAlMY1oCXgKtfURSwdaGrZhjno=",
+      "title": "Crested gray bird with long tail",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Perches naturally on a rule or the top of a frame; the claws are the lowest point."
+      ],
+      "view": "side",
+      "width": 315
+    }
+  },
+  "attribution": "Cleveland Museum of Art 2003.171",
+  "builtAt": "2026-10-30T12:38:32.742Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-cma-2003-171@1.0.0/",
+  "contentHash": "sha256:9e669c09c03f195737656f204146f98820c4c1acda4c51c09ad4c092f760caf4",
+  "inputsHash": "sha256:2e2f68c82b86e78355c4335636a8239bee7e2c05887813e9bc839c7a6fc0cb57",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from Cleveland Museum of Art open access (CC0) images; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-cma-2003-171-masters",
+  "package": "@ranx729/ducktape-assets-cma-2003-171",
+  "period": "c. 1325",
+  "region": "South Flanders",
+  "schema": 1,
+  "set": "cma-2003-171",
+  "style": "Gothic illumination",
+  "summary": "Saints Peter and Paul in the initial Q and its border foliage, excised from a South Flemish antiphonary of about 1325, in the Cleveland Museum of Art.",
+  "title": "Cleveland 2003.171, Saints Peter and Paul initial",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

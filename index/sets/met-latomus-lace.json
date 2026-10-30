@@ -1,0 +1,3209 @@
+{
+  "assets": {
+    "arched-lace-with-checker-fans-and-square-star": {
+      "categories": [
+        "geometric"
+      ],
+      "colors": [
+        "tan",
+        "cream",
+        "beige"
+      ],
+      "composition": "single-ornament",
+      "description": "An arched lace point. A central square framed by rows of sawtooth triangles holds a circle with eight spokes and a dotted scalloped rim. Above it rises a semicircular checkerboard fan under lobed scallops with pointed tips; smaller checkerboard fans sit at the left and right, and a small spoked wheel stands at each corner of the square. Tan printed lace lines on a transparent ground, cut straight along the lower edge.",
+      "display_width": [
+        340,
+        680
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 51335,
+        "webpTopBytes": 86034
+      },
+      "facing": "none",
+      "group": null,
+      "height": 548,
+      "master": {
+        "bytes": 85152,
+        "h": 548,
+        "path": "masters/arched-lace-with-checker-fans-and-square-star.webp",
+        "sha256": "efedbd5d2ee6eadb2fdb63e0ea73f5896bce208cffc958c769554854090111a2",
+        "w": 683
+      },
+      "palette": [
+        "#c8aa8b",
+        "#c9ab8c",
+        "#cbac8d",
+        "#caab8c"
+      ],
+      "provenance": {
+        "artist": "Sigismundus Latomus",
+        "date": "1617",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "53.600.8(1r)",
+        "object_title": "Schon newes Modelbuch...Page 1(r)",
+        "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3"
+      },
+      "quality": "The lines carry the paper tone at partial alpha; the lower edge is a straight cut at the page cell boundary.",
+      "related": [],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2313,
+            "h": 51,
+            "path": "avif/arched-lace-with-checker-fans-and-square-star-64.avif",
+            "sha256": "b1af1cf4e7334576dd3f5cfc1055328590eaf5841f87c5ff05af612738790831",
+            "w": 64
+          },
+          {
+            "bytes": 4443,
+            "h": 77,
+            "path": "avif/arched-lace-with-checker-fans-and-square-star-96.avif",
+            "sha256": "94270b66344012ae672148b77b17f6fd75cb96d3c4a2048e33fb5110eee9973d",
+            "w": 96
+          },
+          {
+            "bytes": 7656,
+            "h": 103,
+            "path": "avif/arched-lace-with-checker-fans-and-square-star-128.avif",
+            "sha256": "3a8a4a30153474425e857c81574364f93bb7e6ffe96fa8437620a853373d8e02",
+            "w": 128
+          },
+          {
+            "bytes": 14964,
+            "h": 154,
+            "path": "avif/arched-lace-with-checker-fans-and-square-star-192.avif",
+            "sha256": "84b3ea5c8686e90767c21b13650c0e9c62692875037e877386fd796f2538a1d1",
+            "w": 192
+          },
+          {
+            "bytes": 23070,
+            "h": 205,
+            "path": "avif/arched-lace-with-checker-fans-and-square-star-256.avif",
+            "sha256": "0a2abff69ba5a00ed3786217f2cef805ab58fb91d3cbb6dbf6e37d4abb5b422f",
+            "w": 256
+          },
+          {
+            "bytes": 46051,
+            "h": 308,
+            "path": "avif/arched-lace-with-checker-fans-and-square-star-384.avif",
+            "sha256": "eafc20b221116b07e5fb75ed436c00f596e39ef83c9976c0b30c5c595d942d67",
+            "w": 384
+          },
+          {
+            "bytes": 70310,
+            "h": 411,
+            "path": "avif/arched-lace-with-checker-fans-and-square-star-512.avif",
+            "sha256": "a519e5c95af815f96ad7a18ae903549f3948d6a6d6bd19ad04679b9a63f47f76",
+            "w": 512
+          },
+          {
+            "bytes": 51335,
+            "h": 548,
+            "path": "avif/arched-lace-with-checker-fans-and-square-star-683.avif",
+            "sha256": "a0966e87619e574c6f79f5c081d92047e47ea10a07bd7685940442e909a8d0ca",
+            "w": 683
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3138,
+            "h": 51,
+            "path": "webp/arched-lace-with-checker-fans-and-square-star-64.webp",
+            "sha256": "0b87a7d021965e71c7bba2b7e550effd311d5523dba5b2001b5e2fde4d8e77c4",
+            "w": 64
+          },
+          {
+            "bytes": 5884,
+            "h": 77,
+            "path": "webp/arched-lace-with-checker-fans-and-square-star-96.webp",
+            "sha256": "1d245fefe32681abf8eef38d402314c47cfd43e925b11f3318fd05032797f038",
+            "w": 96
+          },
+          {
+            "bytes": 10016,
+            "h": 103,
+            "path": "webp/arched-lace-with-checker-fans-and-square-star-128.webp",
+            "sha256": "d580b7c0bde6848dcfd13502f62086a9974a3a83bedc649f17f8fd9a8ebb0c17",
+            "w": 128
+          },
+          {
+            "bytes": 20442,
+            "h": 154,
+            "path": "webp/arched-lace-with-checker-fans-and-square-star-192.webp",
+            "sha256": "6add7b3eea35b9fa13eccb4a37986e9d13a4f68dee224f8c219d46eed9935f7a",
+            "w": 192
+          },
+          {
+            "bytes": 33986,
+            "h": 205,
+            "path": "webp/arched-lace-with-checker-fans-and-square-star-256.webp",
+            "sha256": "b2dd10a88f926fbe6e1031db71246622496317936193b8ba5f0db92d7149adbb",
+            "w": 256
+          },
+          {
+            "bytes": 67570,
+            "h": 308,
+            "path": "webp/arched-lace-with-checker-fans-and-square-star-384.webp",
+            "sha256": "2a01596032f91650c220e6c0f588c67ba8c693148b44e8d84e797df3ccc7673b",
+            "w": 384
+          },
+          {
+            "bytes": 107648,
+            "h": 411,
+            "path": "webp/arched-lace-with-checker-fans-and-square-star-512.webp",
+            "sha256": "ff0456ed9cdd7a7e02f48f76e70299b09a0ed9d18da9c7b1fb88478613b1568a",
+            "w": 512
+          },
+          {
+            "bytes": 86034,
+            "h": 548,
+            "path": "webp/arched-lace-with-checker-fans-and-square-star-683.webp",
+            "sha256": "d8f33169ef44d9f569fb438b1dfe507e99bc1d513a0a5a24d98f6f547753338b",
+            "w": 683
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "lace",
+        "arch",
+        "wheel",
+        "checkerboard",
+        "triangle",
+        "medallion"
+      ],
+      "thumbhash": "ajmCBIASlAqNoZLn9gzJ93h7gGZ3KJiIBQ==",
+      "title": "Arched lace point with checker fans and spoked star",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "The straight lower edge is where the printed cell ends, not a finished border; butt it against a rule or page edge, or hang one of the set's drop pieces below it.",
+        "The checkerboard fans and the corner wheels read well on their own at small sizes."
+      ],
+      "width": 683
+    },
+    "arched-lace-with-compass-star": {
+      "categories": [
+        "geometric"
+      ],
+      "colors": [
+        "tan",
+        "cream",
+        "beige"
+      ],
+      "composition": "single-ornament",
+      "description": "An arched lace point built on an eight-pointed compass star. Two concentric rings enclose a sunburst of triangular rays around a small lobed rosette; eight long pointed rays with net-hatched fill extend beyond the rings, and between them lobed scallops filled with fish-scale lace end in small pointed tips, the topmost rising as a spire. Tan printed lace lines on a transparent ground, cut straight along the lower edge.",
+      "display_width": [
+        310,
+        620
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 50440,
+        "webpTopBytes": 77734
+      },
+      "facing": "none",
+      "group": null,
+      "height": 531,
+      "master": {
+        "bytes": 76940,
+        "h": 531,
+        "path": "masters/arched-lace-with-compass-star.webp",
+        "sha256": "b2a7cf18a5adef2e0c10039298ee72190769522bf24ea089017d65247d2d7caf",
+        "w": 619
+      },
+      "palette": [
+        "#c5a98b",
+        "#c6aa8b",
+        "#c7a98b",
+        "#c8ab8c",
+        "#c7aa8c"
+      ],
+      "provenance": {
+        "artist": "Sigismundus Latomus",
+        "date": "1617",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "53.600.8(1r)",
+        "object_title": "Schon newes Modelbuch...Page 1(r)",
+        "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3"
+      },
+      "quality": "The lines carry the paper tone at partial alpha; the lower edge is a straight cut at the page cell boundary.",
+      "related": [],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2337,
+            "h": 55,
+            "path": "avif/arched-lace-with-compass-star-64.avif",
+            "sha256": "3ad7318f768f9a3a8c136faf2b3c73b98a80994573b208504d0db12b43921d1e",
+            "w": 64
+          },
+          {
+            "bytes": 4997,
+            "h": 82,
+            "path": "avif/arched-lace-with-compass-star-96.avif",
+            "sha256": "b12b370f6d000af4133f7ecfae257c5f64fc53588aaf94fcfc794eb54664b2b9",
+            "w": 96
+          },
+          {
+            "bytes": 8138,
+            "h": 110,
+            "path": "avif/arched-lace-with-compass-star-128.avif",
+            "sha256": "8a3b49e983739e1950fb4b271e61bfe555dc10308020470ce519ad6fdb1128cf",
+            "w": 128
+          },
+          {
+            "bytes": 16294,
+            "h": 165,
+            "path": "avif/arched-lace-with-compass-star-192.avif",
+            "sha256": "c07bf98897e0968a5981acd90033eecb1dca341bac18ac5a6699bf3c23b603ac",
+            "w": 192
+          },
+          {
+            "bytes": 26503,
+            "h": 220,
+            "path": "avif/arched-lace-with-compass-star-256.avif",
+            "sha256": "bdcb69011165feb3c2d6e6cfcc8578f32c2f68f5781947cf52625b14e69625d3",
+            "w": 256
+          },
+          {
+            "bytes": 52405,
+            "h": 329,
+            "path": "avif/arched-lace-with-compass-star-384.avif",
+            "sha256": "a3ccf2b83817710caef0141695d169a90cac5fd6cd2c68537df727d7c84b04ec",
+            "w": 384
+          },
+          {
+            "bytes": 78372,
+            "h": 439,
+            "path": "avif/arched-lace-with-compass-star-512.avif",
+            "sha256": "1d83943edfd2f00d794b679693b6bda1b695e257e04adb9ff4e6ea59fcf3c986",
+            "w": 512
+          },
+          {
+            "bytes": 50440,
+            "h": 531,
+            "path": "avif/arched-lace-with-compass-star-619.avif",
+            "sha256": "0d33ba89a48bba301a6748398d8920d480b2d679b234c621b935f69ed4dd769c",
+            "w": 619
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3350,
+            "h": 55,
+            "path": "webp/arched-lace-with-compass-star-64.webp",
+            "sha256": "6da36ad2718b88f24c192a8fdc5dbb7a723d6c292383104aca9ddd3d290afc4f",
+            "w": 64
+          },
+          {
+            "bytes": 6498,
+            "h": 82,
+            "path": "webp/arched-lace-with-compass-star-96.webp",
+            "sha256": "4b09d22a2a84a395d011944c2730ea36b596fb0151e18a2326382dee3bacb7ee",
+            "w": 96
+          },
+          {
+            "bytes": 10716,
+            "h": 110,
+            "path": "webp/arched-lace-with-compass-star-128.webp",
+            "sha256": "f6e0762ea32807c095bbbe2325b60793f980825be6aaf439d6f2d75f54ae26db",
+            "w": 128
+          },
+          {
+            "bytes": 21902,
+            "h": 165,
+            "path": "webp/arched-lace-with-compass-star-192.webp",
+            "sha256": "5ebe7db3c7ae6805a988fff0019a060aac1f86bfe9f845459716b66c7efc91fa",
+            "w": 192
+          },
+          {
+            "bytes": 37100,
+            "h": 220,
+            "path": "webp/arched-lace-with-compass-star-256.webp",
+            "sha256": "c4ca994d6e6ecd47245630e9407e76df06506c7ef5157d2af974a0dabb993787",
+            "w": 256
+          },
+          {
+            "bytes": 75358,
+            "h": 329,
+            "path": "webp/arched-lace-with-compass-star-384.webp",
+            "sha256": "5b38df570632ae23efa2b0a7d85001f9b95583349cffc4744f3c74e69281356d",
+            "w": 384
+          },
+          {
+            "bytes": 120054,
+            "h": 439,
+            "path": "webp/arched-lace-with-compass-star-512.webp",
+            "sha256": "64691328a16a902d5b32fa7267ae9ce6a34ab77ff655a34fbea2972374386ac7",
+            "w": 512
+          },
+          {
+            "bytes": 77734,
+            "h": 531,
+            "path": "webp/arched-lace-with-compass-star-619.webp",
+            "sha256": "44dfb7f9de2c167a60e73fcf663a2fa88cccd88ecd8ee338513a3853773eb6ae",
+            "w": 619
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "lace",
+        "arch",
+        "star",
+        "sunburst",
+        "rosette",
+        "medallion"
+      ],
+      "thumbhash": "ajmCBIASNm9sWKNZ6E+m+YQskFZ4CqmIBQ==",
+      "title": "Arched lace point with compass star",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "The straight lower edge is where the printed cell ends, not a finished border; butt it against a rule or page edge, or hang one of the set's drop pieces below it."
+      ],
+      "width": 619
+    },
+    "arched-lace-with-concentric-petal-rosette": {
+      "categories": [
+        "geometric",
+        "floral"
+      ],
+      "colors": [
+        "tan",
+        "cream",
+        "beige"
+      ],
+      "composition": "single-ornament",
+      "description": "An arched lace point. A ladder-like beaded ring encloses a rosette of twelve lobed petals around a small gridded centre; eight straight spokes run out from the ring to an outer beaded arch set with sawtooth triangles. Five lobed semicircles with dotted edges and small triangles sit around the arch and a pointed spire tops it. Tan printed lace lines on a transparent ground, cut straight along the lower edge.",
+      "display_width": [
+        290,
+        580
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 51841,
+        "webpTopBytes": 81950
+      },
+      "facing": "none",
+      "group": null,
+      "height": 543,
+      "master": {
+        "bytes": 80738,
+        "h": 543,
+        "path": "masters/arched-lace-with-concentric-petal-rosette.webp",
+        "sha256": "feaec2f8ca482c11af7c9aae5ca8a15ae6b3be829e96654e1bf62fee608b9a68",
+        "w": 584
+      },
+      "palette": [
+        "#c9ad8e",
+        "#caad8e",
+        "#cbad8e",
+        "#cdaf90",
+        "#cbae8f"
+      ],
+      "provenance": {
+        "artist": "Sigismundus Latomus",
+        "date": "1617",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "53.600.8(1r)",
+        "object_title": "Schon newes Modelbuch...Page 1(r)",
+        "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3"
+      },
+      "quality": "The lines carry the paper tone at partial alpha; the lower edge is a straight cut at the page cell boundary.",
+      "related": [],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3059,
+            "h": 60,
+            "path": "avif/arched-lace-with-concentric-petal-rosette-64.avif",
+            "sha256": "c3af9ca4a9dde470e39ea620fc5a743cd3acb1e833ded52981e6dcc06a4bece6",
+            "w": 64
+          },
+          {
+            "bytes": 6117,
+            "h": 89,
+            "path": "avif/arched-lace-with-concentric-petal-rosette-96.avif",
+            "sha256": "beac0a912340e1b7ff1e0e03c0328d71db31b888ae87ba4d99cdd5f7206fa67d",
+            "w": 96
+          },
+          {
+            "bytes": 9998,
+            "h": 119,
+            "path": "avif/arched-lace-with-concentric-petal-rosette-128.avif",
+            "sha256": "87f1787c276b03157b4ad39ec9b592be8b87c3e92324bddc488aebecc2a79842",
+            "w": 128
+          },
+          {
+            "bytes": 19530,
+            "h": 179,
+            "path": "avif/arched-lace-with-concentric-petal-rosette-192.avif",
+            "sha256": "6ce726fbff6d180b6778ecdb0df4732f22c3f86838f84fef515ad123c7123fdf",
+            "w": 192
+          },
+          {
+            "bytes": 29631,
+            "h": 238,
+            "path": "avif/arched-lace-with-concentric-petal-rosette-256.avif",
+            "sha256": "22c4e9dfa8a142af049ac275e0341bae4422a71eb36abe8ce2713c0bcf5b749d",
+            "w": 256
+          },
+          {
+            "bytes": 59054,
+            "h": 357,
+            "path": "avif/arched-lace-with-concentric-petal-rosette-384.avif",
+            "sha256": "7adeaceb8e847ae16a7759a1f344eb57e446147bf74ff4610ef50bebfd72ece9",
+            "w": 384
+          },
+          {
+            "bytes": 89365,
+            "h": 476,
+            "path": "avif/arched-lace-with-concentric-petal-rosette-512.avif",
+            "sha256": "85c51103f8a0ff373b51ecdc825b70fa282fba289cc4138a92a147280d45c0ef",
+            "w": 512
+          },
+          {
+            "bytes": 51841,
+            "h": 543,
+            "path": "avif/arched-lace-with-concentric-petal-rosette-584.avif",
+            "sha256": "7ddf09681375f03abda9bc1dc29f0537818fffd84a40d350d338d0806081fdbc",
+            "w": 584
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3978,
+            "h": 60,
+            "path": "webp/arched-lace-with-concentric-petal-rosette-64.webp",
+            "sha256": "0a8d3fbcf8c643b184258d491142d46ce0ca879d42d92ce6d3cf2121b08fe1ff",
+            "w": 64
+          },
+          {
+            "bytes": 8082,
+            "h": 89,
+            "path": "webp/arched-lace-with-concentric-petal-rosette-96.webp",
+            "sha256": "4301cb13b57a6d78a91df6bebad36562d137557b03eb4fdf2cfa7291c5aecf91",
+            "w": 96
+          },
+          {
+            "bytes": 13172,
+            "h": 119,
+            "path": "webp/arched-lace-with-concentric-petal-rosette-128.webp",
+            "sha256": "1b8cc002cade9340a0055436081b4d2640f613ab58d424fee4de76dc48450dc0",
+            "w": 128
+          },
+          {
+            "bytes": 26522,
+            "h": 179,
+            "path": "webp/arched-lace-with-concentric-petal-rosette-192.webp",
+            "sha256": "681542f1b713c91e35a656c6e9f8bacf4d006e1a95ff7a77ae12cdd7bab51391",
+            "w": 192
+          },
+          {
+            "bytes": 43616,
+            "h": 238,
+            "path": "webp/arched-lace-with-concentric-petal-rosette-256.webp",
+            "sha256": "b6a740ef1790c2dd8abd3fa184aa4bbb2c9336ee3e9eeb20363bbc1e0650b13b",
+            "w": 256
+          },
+          {
+            "bytes": 86122,
+            "h": 357,
+            "path": "webp/arched-lace-with-concentric-petal-rosette-384.webp",
+            "sha256": "646267842e2d8bbab941b6ad43edbffb5b02eca29f831f36d9cd8924f356e5f8",
+            "w": 384
+          },
+          {
+            "bytes": 135400,
+            "h": 476,
+            "path": "webp/arched-lace-with-concentric-petal-rosette-512.webp",
+            "sha256": "0afe2114c9303b0c1c098a175150a06ec43b38c2b03289f7fbef967e629ca943",
+            "w": 512
+          },
+          {
+            "bytes": 81950,
+            "h": 543,
+            "path": "webp/arched-lace-with-concentric-petal-rosette-584.webp",
+            "sha256": "797be2cd4db0b1df68f7d86153b49071f6bb592fee1740becd1028b023443f9b",
+            "w": 584
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "lace",
+        "arch",
+        "rosette",
+        "wheel",
+        "triangle",
+        "medallion"
+      ],
+      "thumbhash": "azmCBYATDnsnmOwY5x8IPNagCHhzdYG5Zw==",
+      "title": "Arched lace point with petal rosette and spokes",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "The straight lower edge is where the printed cell ends, not a finished border; butt it against a rule or page edge, or hang one of the set's drop pieces below it."
+      ],
+      "width": 584
+    },
+    "arched-lace-with-crossed-stars-and-small-petals": {
+      "categories": [
+        "geometric",
+        "floral"
+      ],
+      "colors": [
+        "tan",
+        "cream",
+        "beige"
+      ],
+      "composition": "single-ornament",
+      "description": "An arched lace point. Inside a tall beaded arch a quatrefoil of four long pointed petals filled with fish-scale lace meets at a small gridded centre, with crossed sawtooth rays between the petals forming a four-pointed star. Five lobed semicircles filled with scale lace crown the arch, each capped by a pointed tip, the top one a spire; dotted edges run along the rims. Tan printed lace lines on a transparent ground, cut straight along the lower edge.",
+      "display_width": [
+        340,
+        680
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 72597,
+        "webpTopBytes": 110374
+      },
+      "facing": "none",
+      "group": null,
+      "height": 631,
+      "master": {
+        "bytes": 109064,
+        "h": 631,
+        "path": "masters/arched-lace-with-crossed-stars-and-small-petals.webp",
+        "sha256": "dbb471180e809dbb4b82ac3a39c680c34748504c8caf4ac18033287e19b8a671",
+        "w": 686
+      },
+      "palette": [
+        "#c7aa8c",
+        "#c8ab8d",
+        "#caad8e",
+        "#c9ab8d"
+      ],
+      "provenance": {
+        "artist": "Sigismundus Latomus",
+        "date": "1617",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "53.600.8(1r)",
+        "object_title": "Schon newes Modelbuch...Page 1(r)",
+        "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3"
+      },
+      "quality": "The lines carry the paper tone at partial alpha; the lower edge is a straight cut at the page cell boundary.",
+      "related": [],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2932,
+            "h": 59,
+            "path": "avif/arched-lace-with-crossed-stars-and-small-petals-64.avif",
+            "sha256": "affbc687439df521988b1323734ac4aed5c79e21e368b2eac8b8eeb38e2d68ed",
+            "w": 64
+          },
+          {
+            "bytes": 7212,
+            "h": 88,
+            "path": "avif/arched-lace-with-crossed-stars-and-small-petals-96.avif",
+            "sha256": "74177f7284f66555c4e5281fe67bd103c2ac581ec0db2d133a9873fcc887de9b",
+            "w": 96
+          },
+          {
+            "bytes": 10780,
+            "h": 118,
+            "path": "avif/arched-lace-with-crossed-stars-and-small-petals-128.avif",
+            "sha256": "4742c92243218a3cd792990fbfab8a2be4f511934eab9d1d5c2f93a9b1fcc03c",
+            "w": 128
+          },
+          {
+            "bytes": 21664,
+            "h": 177,
+            "path": "avif/arched-lace-with-crossed-stars-and-small-petals-192.avif",
+            "sha256": "003c7ce0de61b3b8c1ba537be2160b1369d4ba0a7c20997d844f1232f0a7b96c",
+            "w": 192
+          },
+          {
+            "bytes": 34716,
+            "h": 235,
+            "path": "avif/arched-lace-with-crossed-stars-and-small-petals-256.avif",
+            "sha256": "4f34ff7fb300bda14f2d46f190168332475a1a36cde8f351ee58a9fe2685ab43",
+            "w": 256
+          },
+          {
+            "bytes": 69031,
+            "h": 353,
+            "path": "avif/arched-lace-with-crossed-stars-and-small-petals-384.avif",
+            "sha256": "c66054bb5bba259711d86e54354c5d7a958764ca462294427a25c9611f027ac2",
+            "w": 384
+          },
+          {
+            "bytes": 104980,
+            "h": 471,
+            "path": "avif/arched-lace-with-crossed-stars-and-small-petals-512.avif",
+            "sha256": "31f0e7b2541adafc191b8f5a15aab2ccf8a1795c875df390d78a68926fb200d7",
+            "w": 512
+          },
+          {
+            "bytes": 72597,
+            "h": 631,
+            "path": "avif/arched-lace-with-crossed-stars-and-small-petals-686.avif",
+            "sha256": "77244412149659674baea3273cc502bdb047d23dba8ea93bb1e868cc56fe4718",
+            "w": 686
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3978,
+            "h": 59,
+            "path": "webp/arched-lace-with-crossed-stars-and-small-petals-64.webp",
+            "sha256": "371d53e26eeed6c435f8c741bc652ca9f9d678371873d592fc9f7643ff9fb24e",
+            "w": 64
+          },
+          {
+            "bytes": 8368,
+            "h": 88,
+            "path": "webp/arched-lace-with-crossed-stars-and-small-petals-96.webp",
+            "sha256": "6be8e82b10f32112d53d0d81190f9757a673d96d9c2b7dad425ae223aaf4a366",
+            "w": 96
+          },
+          {
+            "bytes": 14118,
+            "h": 118,
+            "path": "webp/arched-lace-with-crossed-stars-and-small-petals-128.webp",
+            "sha256": "f0db7ce801c227fc1d82ee57c2cb2d22dddd65acde6a1e63c9d26c340af6f6ae",
+            "w": 128
+          },
+          {
+            "bytes": 28740,
+            "h": 177,
+            "path": "webp/arched-lace-with-crossed-stars-and-small-petals-192.webp",
+            "sha256": "d935738e71fdbd73d1f96e8519910faf7e61b5a2a5dc80e8b22d58fb6ac4aa31",
+            "w": 192
+          },
+          {
+            "bytes": 48506,
+            "h": 235,
+            "path": "webp/arched-lace-with-crossed-stars-and-small-petals-256.webp",
+            "sha256": "6c5106180456c1d7d5cce8568493ad91f280aa1f5aefcea3171ab3795281fe0b",
+            "w": 256
+          },
+          {
+            "bytes": 96822,
+            "h": 353,
+            "path": "webp/arched-lace-with-crossed-stars-and-small-petals-384.webp",
+            "sha256": "91dc8146f98768a1a8b2ed5f79046bab14419f4d63860ab6ea63b88a2beb857d",
+            "w": 384
+          },
+          {
+            "bytes": 155378,
+            "h": 471,
+            "path": "webp/arched-lace-with-crossed-stars-and-small-petals-512.webp",
+            "sha256": "c63e58b111261f25a97c8d5186783408c1d580b9d949ec6577fa9a1fd88c065b",
+            "w": 512
+          },
+          {
+            "bytes": 110374,
+            "h": 631,
+            "path": "webp/arched-lace-with-crossed-stars-and-small-petals-686.webp",
+            "sha256": "d299e04a5ab91a8a2d6b8bfcf328a4fdc062f0c241ba37112f5a98fc27201365",
+            "w": 686
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "lace",
+        "arch",
+        "flower",
+        "star",
+        "medallion"
+      ],
+      "thumbhash": "ajmCBYATfFt4nXwGNbBSCGs8KGiAh3SIRw==",
+      "title": "Arched lace point with pointed quatrefoil",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "The straight lower edge is where the printed cell ends, not a finished border; butt it against a rule or page edge, or hang one of the set's drop pieces below it."
+      ],
+      "width": 686
+    },
+    "arched-lace-with-four-floral-diamonds": {
+      "categories": [
+        "geometric",
+        "floral"
+      ],
+      "colors": [
+        "tan",
+        "cream",
+        "beige"
+      ],
+      "composition": "single-ornament",
+      "description": "An arched lace point. Under a beaded arch four diamond-shaped medallions are set two by two, each a straight-lined lozenge with a small lobed flower at its centre and lobed sprays at its points; four net-filled triangles meet at the middle. A dotted semicircle with sawtooth teeth and a tall spire tops the arch, and sawtooth bands with lobed scallops hang at both sides. Tan printed lace lines on a transparent ground, cut straight along the lower edge.",
+      "display_width": [
+        350,
+        700
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 56780,
+        "webpTopBytes": 87260
+      },
+      "facing": "none",
+      "group": null,
+      "height": 605,
+      "master": {
+        "bytes": 86304,
+        "h": 605,
+        "path": "masters/arched-lace-with-four-floral-diamonds.webp",
+        "sha256": "ea9fc89235e633f101bc749c139e7052f181294ec1d78f9093da80dc3ce5f499",
+        "w": 697
+      },
+      "palette": [
+        "#c7ac8e",
+        "#c6ac8e",
+        "#c6ab8d",
+        "#c6ab8e",
+        "#c6ac8d"
+      ],
+      "provenance": {
+        "artist": "Sigismundus Latomus",
+        "date": "1617",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "53.600.8(1r)",
+        "object_title": "Schon newes Modelbuch...Page 1(r)",
+        "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3"
+      },
+      "quality": "The lines carry the paper tone at partial alpha; the lower edge is a straight cut at the page cell boundary.",
+      "related": [],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2366,
+            "h": 56,
+            "path": "avif/arched-lace-with-four-floral-diamonds-64.avif",
+            "sha256": "55a52ca82edbe0da7b78ece2dc52a38dd9cae66d49341d67c8adabaa637d0ddb",
+            "w": 64
+          },
+          {
+            "bytes": 5001,
+            "h": 83,
+            "path": "avif/arched-lace-with-four-floral-diamonds-96.avif",
+            "sha256": "fb04e64426b6b9f221772f1d8cf53075922a4e7a0315c296da7f0abbd7948cf0",
+            "w": 96
+          },
+          {
+            "bytes": 8310,
+            "h": 111,
+            "path": "avif/arched-lace-with-four-floral-diamonds-128.avif",
+            "sha256": "5cfea247e95c75f62f8b3bc589020a9e231d48dedddcf3a1acd7f2f2d97651bb",
+            "w": 128
+          },
+          {
+            "bytes": 16593,
+            "h": 167,
+            "path": "avif/arched-lace-with-four-floral-diamonds-192.avif",
+            "sha256": "10a3f71c41912fb2fa00b64208e94d738e4a3ab428987dab5edff0ce5b47267c",
+            "w": 192
+          },
+          {
+            "bytes": 25830,
+            "h": 222,
+            "path": "avif/arched-lace-with-four-floral-diamonds-256.avif",
+            "sha256": "4aa9be007b468e95bbdce48daa6e4be37923dac35810cdaa2ef49162f8ebfbf6",
+            "w": 256
+          },
+          {
+            "bytes": 52212,
+            "h": 333,
+            "path": "avif/arched-lace-with-four-floral-diamonds-384.avif",
+            "sha256": "e0276bfe2ccb5f5bda9637c9e193dfdbe406510e94eecce905dab184cfb531d9",
+            "w": 384
+          },
+          {
+            "bytes": 78747,
+            "h": 444,
+            "path": "avif/arched-lace-with-four-floral-diamonds-512.avif",
+            "sha256": "789e9bfbe1f3b57a3cc2762b3d47966704714279a9444036819811eb7f1d25d7",
+            "w": 512
+          },
+          {
+            "bytes": 56780,
+            "h": 605,
+            "path": "avif/arched-lace-with-four-floral-diamonds-697.avif",
+            "sha256": "e27fb8c6297e5a867e1efcd324abc1b08426910607dbaecdf923ee866c654c4c",
+            "w": 697
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3246,
+            "h": 56,
+            "path": "webp/arched-lace-with-four-floral-diamonds-64.webp",
+            "sha256": "15633580f8fa0b76397292b78614c3efed0d03f7cdecf658fbc26f0798e85bc9",
+            "w": 64
+          },
+          {
+            "bytes": 6674,
+            "h": 83,
+            "path": "webp/arched-lace-with-four-floral-diamonds-96.webp",
+            "sha256": "fd8e45a424d15a8913c6cf6ba3511a8ba076048f0cb35868f2baa1cf63b35680",
+            "w": 96
+          },
+          {
+            "bytes": 10690,
+            "h": 111,
+            "path": "webp/arched-lace-with-four-floral-diamonds-128.webp",
+            "sha256": "b333c10d1134e074a196ca5cb232916e4cf4c5f915ead635622f6f3682fc5e91",
+            "w": 128
+          },
+          {
+            "bytes": 21914,
+            "h": 167,
+            "path": "webp/arched-lace-with-four-floral-diamonds-192.webp",
+            "sha256": "ebb0b598d0a670a5048bab1d6e701bca739cf5b36fc57f348a8e9900ec76c8d2",
+            "w": 192
+          },
+          {
+            "bytes": 35742,
+            "h": 222,
+            "path": "webp/arched-lace-with-four-floral-diamonds-256.webp",
+            "sha256": "75dc262daa5dc0f6b5b64a4f4f7bb1d9223d7284a2e99e23e2a6f9698a3277ea",
+            "w": 256
+          },
+          {
+            "bytes": 72158,
+            "h": 333,
+            "path": "webp/arched-lace-with-four-floral-diamonds-384.webp",
+            "sha256": "23091980c8596fbf40ff39f62e1d8c114c8bee39bde337537d6255e3a3c7b088",
+            "w": 384
+          },
+          {
+            "bytes": 116400,
+            "h": 444,
+            "path": "webp/arched-lace-with-four-floral-diamonds-512.webp",
+            "sha256": "24494f69a43d6643f2b9153950ec9c49812af3deb464b31dba6f1ad64583e6e0",
+            "w": 512
+          },
+          {
+            "bytes": 87260,
+            "h": 605,
+            "path": "webp/arched-lace-with-four-floral-diamonds-697.webp",
+            "sha256": "68246a137e57a037ee39099ee1c21b5bd68820ba0153db091b05c98ca867911d",
+            "w": 697
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "lace",
+        "arch",
+        "flower",
+        "triangle",
+        "medallion"
+      ],
+      "thumbhash": "ajmCBIASU4qvcoQYCqfZr0OFcCN3R4eGBg==",
+      "title": "Arched lace point with four floral diamonds",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "The straight lower edge is where the printed cell ends, not a finished border; butt it against a rule or page edge, or hang one of the set's drop pieces below it."
+      ],
+      "width": 697
+    },
+    "arched-lace-with-large-petalled-flower": {
+      "categories": [
+        "floral",
+        "geometric"
+      ],
+      "colors": [
+        "tan",
+        "cream",
+        "beige"
+      ],
+      "composition": "single-ornament",
+      "description": "An arched lace point. A large rosette of eight broad rounded petals in two layers, their rims scalloped and dotted, fills a beaded arch around a small gridded centre; eight pointed rays run out between the petals. Around the arch sit lobed scallops filled with scale lace and triangular points, with a pointed spire at the top; vertical beaded bands with sawtooth edges stand at the lower corners. Tan printed lace lines on a transparent ground, cut straight along the lower edge.",
+      "display_width": [
+        340,
+        690
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 68183,
+        "webpTopBytes": 104146
+      },
+      "facing": "none",
+      "group": null,
+      "height": 620,
+      "master": {
+        "bytes": 102808,
+        "h": 620,
+        "path": "masters/arched-lace-with-large-petalled-flower.webp",
+        "sha256": "6d691f5e681c065b49429af5d9dc43133e5b084c8cbd11a5eabbbb249a4f6c0b",
+        "w": 689
+      },
+      "palette": [
+        "#c9ac8e",
+        "#caad8e",
+        "#caad8f",
+        "#cbad8f",
+        "#ccae90"
+      ],
+      "provenance": {
+        "artist": "Sigismundus Latomus",
+        "date": "1617",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "53.600.8(1r)",
+        "object_title": "Schon newes Modelbuch...Page 1(r)",
+        "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3"
+      },
+      "quality": "The lines carry the paper tone at partial alpha; the lower edge is a straight cut at the page cell boundary.",
+      "related": [],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3043,
+            "h": 58,
+            "path": "avif/arched-lace-with-large-petalled-flower-64.avif",
+            "sha256": "231e0321c86c3985124c737baad276ac2bf923102d2abbcdf6ba9792f021801e",
+            "w": 64
+          },
+          {
+            "bytes": 6132,
+            "h": 86,
+            "path": "avif/arched-lace-with-large-petalled-flower-96.avif",
+            "sha256": "826ae30b18cd3ad3607da17e0fb33425268736e658a973afb190199e9422f507",
+            "w": 96
+          },
+          {
+            "bytes": 10254,
+            "h": 115,
+            "path": "avif/arched-lace-with-large-petalled-flower-128.avif",
+            "sha256": "9f45203fb98c1e8e5e671f6e9b715ddf83b465dd9ea0e0cc8a982c74fa935e17",
+            "w": 128
+          },
+          {
+            "bytes": 20163,
+            "h": 173,
+            "path": "avif/arched-lace-with-large-petalled-flower-192.avif",
+            "sha256": "6f5feacc08ef3c2dfe0161231303bfd38d2d2bde567ca08f67bd1a0c5eabc2ef",
+            "w": 192
+          },
+          {
+            "bytes": 31486,
+            "h": 230,
+            "path": "avif/arched-lace-with-large-petalled-flower-256.avif",
+            "sha256": "3cce618ae313190b652392a2e668e16508b952fd0dea8a3e90a0e0975458e772",
+            "w": 256
+          },
+          {
+            "bytes": 63665,
+            "h": 346,
+            "path": "avif/arched-lace-with-large-petalled-flower-384.avif",
+            "sha256": "56f9b6baeaf238127329e80cc7399817609ab393bbb23b938b03ed81f4321301",
+            "w": 384
+          },
+          {
+            "bytes": 94906,
+            "h": 461,
+            "path": "avif/arched-lace-with-large-petalled-flower-512.avif",
+            "sha256": "dcbdff0f7e6ca2c87b39f4d82598069e4bb92f0492dae43239caba5c0cc799e8",
+            "w": 512
+          },
+          {
+            "bytes": 68183,
+            "h": 620,
+            "path": "avif/arched-lace-with-large-petalled-flower-689.avif",
+            "sha256": "fd26dd0cccec605b8fa90a3c04cef97c744440d56316b8909baa49c378af6df0",
+            "w": 689
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3962,
+            "h": 58,
+            "path": "webp/arched-lace-with-large-petalled-flower-64.webp",
+            "sha256": "8a009f1fb4a6e6e9dc6f6f924bedff9b549a2697a26b8628927b6c5ccf10dc8a",
+            "w": 64
+          },
+          {
+            "bytes": 8370,
+            "h": 86,
+            "path": "webp/arched-lace-with-large-petalled-flower-96.webp",
+            "sha256": "ea831534aa296a9650ee2ea17490da019ad6992f466554f1540321260bd6e038",
+            "w": 96
+          },
+          {
+            "bytes": 13426,
+            "h": 115,
+            "path": "webp/arched-lace-with-large-petalled-flower-128.webp",
+            "sha256": "9e1f02df8886ed179b0629019aeecd6cd4ea8a3ec01387ae53b2336f6dfe6e5e",
+            "w": 128
+          },
+          {
+            "bytes": 27664,
+            "h": 173,
+            "path": "webp/arched-lace-with-large-petalled-flower-192.webp",
+            "sha256": "c61df1006ed4f00e5fcaf5f581d7e981026341645dd9b0d3571d3d9ab9cbb849",
+            "w": 192
+          },
+          {
+            "bytes": 45026,
+            "h": 230,
+            "path": "webp/arched-lace-with-large-petalled-flower-256.webp",
+            "sha256": "e748ab8dcea9b52a484f4c5a23b391d3de5f8f9c5f21566383460fb3da32b890",
+            "w": 256
+          },
+          {
+            "bytes": 89434,
+            "h": 346,
+            "path": "webp/arched-lace-with-large-petalled-flower-384.webp",
+            "sha256": "69f94ac09144f9acfdeb9b03fd056d4826e943f8cb7e96452688ec3d9120f290",
+            "w": 384
+          },
+          {
+            "bytes": 141872,
+            "h": 461,
+            "path": "webp/arched-lace-with-large-petalled-flower-512.webp",
+            "sha256": "4c5247512da084b8c832ff6ace123b63062bd7adcdd51abbb1fc73cd439880d7",
+            "w": 512
+          },
+          {
+            "bytes": 104146,
+            "h": 620,
+            "path": "webp/arched-lace-with-large-petalled-flower-689.webp",
+            "sha256": "143843f472e19773eb3267c1281b8d5c394a5a5e94c9dc9da36d7ce64440a890",
+            "w": 689
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "lace",
+        "arch",
+        "rosette",
+        "flower",
+        "medallion"
+      ],
+      "thumbhash": "ajmCBYACtTl2d3mJCUTRr5B0JydwhHFZKA==",
+      "title": "Arched lace point with large rosette",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "The straight lower edge is where the printed cell ends, not a finished border; butt it against a rule or page edge, or hang one of the set's drop pieces below it."
+      ],
+      "width": 689
+    },
+    "arched-lace-with-radiating-spokes": {
+      "categories": [
+        "geometric"
+      ],
+      "colors": [
+        "tan",
+        "cream",
+        "beige"
+      ],
+      "composition": "single-ornament",
+      "description": "An arched lace point. A wheel of about twenty-four thin spokes radiates from a small gridded centre to a dotted scalloped rim, with four longer pointed rays on the axes, all inside a beaded arch. Lobed scallops filled with scale lace, sawtooth triangles and a pointed spire surround the arch; small lobed arcs hang at the lower sides. Tan printed lace lines on a transparent ground, cut straight along the lower edge.",
+      "display_width": [
+        320,
+        640
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 52888,
+        "webpTopBytes": 79302
+      },
+      "facing": "none",
+      "group": null,
+      "height": 536,
+      "master": {
+        "bytes": 78460,
+        "h": 536,
+        "path": "masters/arched-lace-with-radiating-spokes.webp",
+        "sha256": "7ee49803abd4c5d3f4a550c8765337d1c41cfb22d067e4684036139e960e8347",
+        "w": 638
+      },
+      "palette": [
+        "#c4a88a",
+        "#c5a98a",
+        "#c6a88a",
+        "#c9ab8c",
+        "#c6a98b"
+      ],
+      "provenance": {
+        "artist": "Sigismundus Latomus",
+        "date": "1617",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "53.600.8(1r)",
+        "object_title": "Schon newes Modelbuch...Page 1(r)",
+        "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3"
+      },
+      "quality": "The lines carry the paper tone at partial alpha; the lower edge is a straight cut at the page cell boundary.",
+      "related": [],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2466,
+            "h": 54,
+            "path": "avif/arched-lace-with-radiating-spokes-64.avif",
+            "sha256": "7f0164e9486105bb8558cf7ee0568e3cb22ecbad2fea832e41cf697aded00135",
+            "w": 64
+          },
+          {
+            "bytes": 4807,
+            "h": 81,
+            "path": "avif/arched-lace-with-radiating-spokes-96.avif",
+            "sha256": "87348b6c6c5a168d7e17fb46f19083951378a84c828579f9c16eb6947f4b1ede",
+            "w": 96
+          },
+          {
+            "bytes": 8187,
+            "h": 108,
+            "path": "avif/arched-lace-with-radiating-spokes-128.avif",
+            "sha256": "2319f2957bd2629406e98a0389618464c9942759433e09540af1581031ec624c",
+            "w": 128
+          },
+          {
+            "bytes": 16735,
+            "h": 161,
+            "path": "avif/arched-lace-with-radiating-spokes-192.avif",
+            "sha256": "269f13d3852a0a6b8a80c7a6c65edd88a578b2f5ea769dfbacc6de99ba81924e",
+            "w": 192
+          },
+          {
+            "bytes": 26841,
+            "h": 215,
+            "path": "avif/arched-lace-with-radiating-spokes-256.avif",
+            "sha256": "d89e054b6176063fd67e8836f0a8b805bbdf18b553c73014f34adb7c74ef30f6",
+            "w": 256
+          },
+          {
+            "bytes": 52283,
+            "h": 323,
+            "path": "avif/arched-lace-with-radiating-spokes-384.avif",
+            "sha256": "b6c2849d10a3770578364e3652ba2b0af2bd94383a5a8c4047776214a769f2da",
+            "w": 384
+          },
+          {
+            "bytes": 80063,
+            "h": 430,
+            "path": "avif/arched-lace-with-radiating-spokes-512.avif",
+            "sha256": "d6e9133273e56bba783bb7a68c8522a284a251106f3e1e43450d7bc08d7140c0",
+            "w": 512
+          },
+          {
+            "bytes": 52888,
+            "h": 536,
+            "path": "avif/arched-lace-with-radiating-spokes-638.avif",
+            "sha256": "c25adcb97f8103dc7692cc3f08c83f56c1869f827c3e066dd080c8d60bc5cddd",
+            "w": 638
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3452,
+            "h": 54,
+            "path": "webp/arched-lace-with-radiating-spokes-64.webp",
+            "sha256": "01ed2c7c4d5eb5c5cb13e3e85899bbcec0720c56aeea0d7592f2bb0b502e6153",
+            "w": 64
+          },
+          {
+            "bytes": 6554,
+            "h": 81,
+            "path": "webp/arched-lace-with-radiating-spokes-96.webp",
+            "sha256": "4ac7bb6bf9655ff4555d648b7be0dca08a079bf771c1c326fb7c36a9f56e8673",
+            "w": 96
+          },
+          {
+            "bytes": 10966,
+            "h": 108,
+            "path": "webp/arched-lace-with-radiating-spokes-128.webp",
+            "sha256": "679e1bce1dec49a4b43d0caebe167d66b0582a35daa52873db2d1641900a8848",
+            "w": 128
+          },
+          {
+            "bytes": 21878,
+            "h": 161,
+            "path": "webp/arched-lace-with-radiating-spokes-192.webp",
+            "sha256": "97a38c9055177764cc2e3469c00f4fe1849ff25c036f05c5a0c21ca0ff2c09c5",
+            "w": 192
+          },
+          {
+            "bytes": 36516,
+            "h": 215,
+            "path": "webp/arched-lace-with-radiating-spokes-256.webp",
+            "sha256": "5fc04026998a8ecfd5d42fbd5ff006be4266d763ec3772e2687a1ecb2ede27df",
+            "w": 256
+          },
+          {
+            "bytes": 74226,
+            "h": 323,
+            "path": "webp/arched-lace-with-radiating-spokes-384.webp",
+            "sha256": "f94d7a7d6c0df104e080bb9e79e61aed2a4744b762a41027f57f96d23d89a030",
+            "w": 384
+          },
+          {
+            "bytes": 119156,
+            "h": 430,
+            "path": "webp/arched-lace-with-radiating-spokes-512.webp",
+            "sha256": "1e22a4b6f6043e2a192339ae098293667fe313357334f26b70f18e943babe28c",
+            "w": 512
+          },
+          {
+            "bytes": 79302,
+            "h": 536,
+            "path": "webp/arched-lace-with-radiating-spokes-638.webp",
+            "sha256": "fe415eb9254b9a26870a937c2c32057832dc29122147cebe19c75fc758ef84ec",
+            "w": 638
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "lace",
+        "arch",
+        "wheel",
+        "sunburst",
+        "medallion"
+      ],
+      "thumbhash": "aTmCBIASKruAPW90d3+oYmo/YBZ4GpmJBA==",
+      "title": "Arched lace point with spoked wheel",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "The straight lower edge is where the printed cell ends, not a finished border; butt it against a rule or page edge, or hang one of the set's drop pieces below it."
+      ],
+      "width": 638
+    },
+    "arched-lace-with-wheels-and-star": {
+      "categories": [
+        "geometric",
+        "floral"
+      ],
+      "colors": [
+        "tan",
+        "cream",
+        "beige"
+      ],
+      "composition": "single-ornament",
+      "description": "An arched lace point. Under a beaded arch a central star of eight triangular rays is surrounded by four lobed quatrefoils on the axes and four spoked wheels with dotted rims on the diagonals; the lower two wheels are cut by the lower edge. Around the arch run rows of sawtooth triangles and lobed scallops, with a scale-filled spire at the top. Tan printed lace lines on a transparent ground, cut straight along the lower edge.",
+      "display_width": [
+        350,
+        710
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 71731,
+        "webpTopBytes": 111752
+      },
+      "facing": "none",
+      "group": null,
+      "height": 642,
+      "master": {
+        "bytes": 110610,
+        "h": 642,
+        "path": "masters/arched-lace-with-wheels-and-star.webp",
+        "sha256": "6f89ebf51a3cd71261d49e91d340418c60fc31163cf4a7fac67c41d6b58ca158",
+        "w": 714
+      },
+      "palette": [
+        "#caae90",
+        "#c9ae8f",
+        "#c9ad8f",
+        "#caad8f",
+        "#c9ad90"
+      ],
+      "provenance": {
+        "artist": "Sigismundus Latomus",
+        "date": "1617",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "53.600.8(1r)",
+        "object_title": "Schon newes Modelbuch...Page 1(r)",
+        "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3"
+      },
+      "quality": "The lines carry the paper tone at partial alpha; the lower edge is a straight cut at the page cell boundary.",
+      "related": [],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2640,
+            "h": 58,
+            "path": "avif/arched-lace-with-wheels-and-star-64.avif",
+            "sha256": "ddeb872473df8f1b7364ba050e8df54186236e9922ae8f2f19414698bbb91d73",
+            "w": 64
+          },
+          {
+            "bytes": 5954,
+            "h": 86,
+            "path": "avif/arched-lace-with-wheels-and-star-96.avif",
+            "sha256": "b951c5de71bf3fde709583ce857632f8c592a6a185d5086ebd216a187c6f9422",
+            "w": 96
+          },
+          {
+            "bytes": 8915,
+            "h": 115,
+            "path": "avif/arched-lace-with-wheels-and-star-128.avif",
+            "sha256": "984b8cde5ac9e4e1ba0d926a632c09abfc752943523e1f699f7bfa75ea72b723",
+            "w": 128
+          },
+          {
+            "bytes": 18039,
+            "h": 173,
+            "path": "avif/arched-lace-with-wheels-and-star-192.avif",
+            "sha256": "37fc650326144007fc49b14d91768d3cc8f7e50875534500a86c06510de644d8",
+            "w": 192
+          },
+          {
+            "bytes": 28788,
+            "h": 230,
+            "path": "avif/arched-lace-with-wheels-and-star-256.avif",
+            "sha256": "f66d1d69967807cf02eebc85121b0ce22ffbbdd6632fa0fa210473787e353113",
+            "w": 256
+          },
+          {
+            "bytes": 58668,
+            "h": 345,
+            "path": "avif/arched-lace-with-wheels-and-star-384.avif",
+            "sha256": "08d2f610bab9634a65fa3d87dc62733332985e2e71b7c7e03fec192aa22f7a92",
+            "w": 384
+          },
+          {
+            "bytes": 89555,
+            "h": 460,
+            "path": "avif/arched-lace-with-wheels-and-star-512.avif",
+            "sha256": "785b885251871bcbd3c19b893029693535c36530a33941fe7f4fc66a03de9200",
+            "w": 512
+          },
+          {
+            "bytes": 71731,
+            "h": 642,
+            "path": "avif/arched-lace-with-wheels-and-star-714.avif",
+            "sha256": "601bef57eb8b9b8e1c18146057c6869baf4075712306427f89d0bcc20f4894d9",
+            "w": 714
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3714,
+            "h": 58,
+            "path": "webp/arched-lace-with-wheels-and-star-64.webp",
+            "sha256": "b3ca045a121eb6576777718f4d89ad55a61b08af8ee3b0da96454b133c9b50ba",
+            "w": 64
+          },
+          {
+            "bytes": 7422,
+            "h": 86,
+            "path": "webp/arched-lace-with-wheels-and-star-96.webp",
+            "sha256": "3293441f2ad6280f04924992b77fc4f109311ae844897c15f5ef3fe6b999e2d1",
+            "w": 96
+          },
+          {
+            "bytes": 12076,
+            "h": 115,
+            "path": "webp/arched-lace-with-wheels-and-star-128.webp",
+            "sha256": "24f1cb3ab51ad874540ec62ca1c90ced05828fe8ba6260ee39f0d4db1199cdd1",
+            "w": 128
+          },
+          {
+            "bytes": 23946,
+            "h": 173,
+            "path": "webp/arched-lace-with-wheels-and-star-192.webp",
+            "sha256": "eddfbf430dcaaa58b946a3fb3776dbd431796c97add3018f74c5784f6706f7fd",
+            "w": 192
+          },
+          {
+            "bytes": 40112,
+            "h": 230,
+            "path": "webp/arched-lace-with-wheels-and-star-256.webp",
+            "sha256": "6417fa1a1d6466ea9a31f87f17984f28b6d59c020033682ce1a517948460d6b6",
+            "w": 256
+          },
+          {
+            "bytes": 81596,
+            "h": 345,
+            "path": "webp/arched-lace-with-wheels-and-star-384.webp",
+            "sha256": "875d3131de2991b02a19a3e55e2694de505f6675613ae093930d1067152a1229",
+            "w": 384
+          },
+          {
+            "bytes": 132442,
+            "h": 460,
+            "path": "webp/arched-lace-with-wheels-and-star-512.webp",
+            "sha256": "6940490e530a664b63114263132e3a68189f89d1bf9258c8c1fbbefcf5b0d1e5",
+            "w": 512
+          },
+          {
+            "bytes": 111752,
+            "h": 642,
+            "path": "webp/arched-lace-with-wheels-and-star-714.webp",
+            "sha256": "24987742fed6cd9f026b0fba021a30be6daade06573e450d4ff97412722662c5",
+            "w": 714
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "lace",
+        "arch",
+        "star",
+        "wheel",
+        "flower",
+        "medallion"
+      ],
+      "thumbhash": "azmCBYASHSCabDGWhfZYZVz4CFeBeHKKZw==",
+      "title": "Arched lace point with wheels and star",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "The straight lower edge is where the printed cell ends, not a finished border; butt it against a rule or page edge, or hang one of the set's drop pieces below it."
+      ],
+      "width": 714
+    },
+    "hanging-bell-drop": {
+      "categories": [
+        "geometric"
+      ],
+      "colors": [
+        "tan",
+        "cream",
+        "beige"
+      ],
+      "composition": "single-ornament",
+      "description": "A small hanging lace drop. Two pierced bands run down in a V from the upper corners to a point, with short sprigs on either side and a stem with a small cross at the top; below the point hangs a bell-shaped pendant filled with a square lattice and ending in a looped base. A fragment of a neighbouring curved band remains at the upper right. Tan printed lace lines on a transparent ground.",
+      "display_width": [
+        115,
+        230
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 6122,
+        "webpTopBytes": 8848
+      },
+      "facing": "none",
+      "group": null,
+      "height": 213,
+      "master": {
+        "bytes": 8680,
+        "h": 213,
+        "path": "masters/hanging-bell-drop.webp",
+        "sha256": "2cbb31e45382d0f7c8cb190fee398e6cbc74b8b10525ef4346f245afba59ef9e",
+        "w": 230
+      },
+      "palette": [
+        "#c4a889",
+        "#c5a889",
+        "#c7aa8a",
+        "#c6a889"
+      ],
+      "provenance": {
+        "artist": "Sigismundus Latomus",
+        "date": "1617",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "53.600.8(1r)",
+        "object_title": "Schon newes Modelbuch...Page 1(r)",
+        "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3"
+      },
+      "quality": "A cut fragment, the bands are severed at the top edge and a stray piece of a neighbouring band sits at the upper right; the lines carry the paper tone at partial alpha.",
+      "related": [],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2134,
+            "h": 59,
+            "path": "avif/hanging-bell-drop-64.avif",
+            "sha256": "6646bf064359989e7f10597b27e736d0665f3a232c6adc084dfce57bbbcbedbe",
+            "w": 64
+          },
+          {
+            "bytes": 3592,
+            "h": 89,
+            "path": "avif/hanging-bell-drop-96.avif",
+            "sha256": "96d457b1b6bc59a0acf726172b166b5d3d58f4d2208d5214fdf5926dac2ba0da",
+            "w": 96
+          },
+          {
+            "bytes": 5282,
+            "h": 119,
+            "path": "avif/hanging-bell-drop-128.avif",
+            "sha256": "e615b9a82607a66470567adafa001a92662e66c9c66532002229f86d8d69ae4d",
+            "w": 128
+          },
+          {
+            "bytes": 8940,
+            "h": 178,
+            "path": "avif/hanging-bell-drop-192.avif",
+            "sha256": "e7734fc96d34bd7fab22e02f1d1f693afbd598f52e8e3bdd34a9acfd3a0fb867",
+            "w": 192
+          },
+          {
+            "bytes": 6122,
+            "h": 213,
+            "path": "avif/hanging-bell-drop-230.avif",
+            "sha256": "bbe2b9540481b15cd91b567080897826b14661ef8a0e4ab01803fa043c04ebe5",
+            "w": 230
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2612,
+            "h": 59,
+            "path": "webp/hanging-bell-drop-64.webp",
+            "sha256": "df3d8e92cb6c35ce3df4283fb09156af52b6f13080ea1d2abd309d456cb84669",
+            "w": 64
+          },
+          {
+            "bytes": 5046,
+            "h": 89,
+            "path": "webp/hanging-bell-drop-96.webp",
+            "sha256": "ae4ef945e03f7ad1e2efc9dd171172e43d4545d226379ec603b9d63ec723e64f",
+            "w": 96
+          },
+          {
+            "bytes": 7682,
+            "h": 119,
+            "path": "webp/hanging-bell-drop-128.webp",
+            "sha256": "75a9864f92f46ebfcc442f831c50cf6d73ca53bd8d4e21ef553da59bfd9adec1",
+            "w": 128
+          },
+          {
+            "bytes": 14232,
+            "h": 178,
+            "path": "webp/hanging-bell-drop-192.webp",
+            "sha256": "dffa413fdae414d4b5828f5f8567baf3c4d6dd3ae7b464b4070c0ef8c4385ee0",
+            "w": 192
+          },
+          {
+            "bytes": 8848,
+            "h": 213,
+            "path": "webp/hanging-bell-drop-230.webp",
+            "sha256": "dd7fa6bba65fc0ae325a83cc615bbebe5df3bf9f42ebcf1bfc852dd3f833f0a9",
+            "w": 230
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "lace",
+        "pendant",
+        "bell",
+        "lattice",
+        "finial"
+      ],
+      "thumbhash": "aTmCBYASV9aNcZAfeKuf/gHsBLhcaWlpaA==",
+      "title": "Hanging bell drop",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "A hanging drop cut where it left its medallion; place it directly under a flat-bottomed arched medallion of this set.",
+        "Crop away the loose band fragment at the upper right if the drop is used alone."
+      ],
+      "width": 230
+    },
+    "hanging-pointed-loop-drop": {
+      "categories": [
+        "botanical",
+        "geometric"
+      ],
+      "colors": [
+        "tan",
+        "cream",
+        "beige"
+      ],
+      "composition": "single-ornament",
+      "description": "A hanging lace drop. From a ring with crossed sprigs at the top, cut by the top edge, two pierced bands curve out and down to form a pointed loop; inside it a small bell-shaped tassel hangs over an arrow-shaped leaf pointing down. Smaller curled pierced bands hang at either side and the loop ends in a small forked tip. Tan printed lace lines on a transparent ground.",
+      "display_width": [
+        180,
+        360
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 13406,
+        "webpTopBytes": 19222
+      },
+      "facing": "none",
+      "group": null,
+      "height": 269,
+      "master": {
+        "bytes": 18972,
+        "h": 269,
+        "path": "masters/hanging-pointed-loop-drop.webp",
+        "sha256": "d4abffe247ea90888d1791bf349e068e4f71ba3419187daae963d478b1f5d781",
+        "w": 359
+      },
+      "palette": [
+        "#cbb094",
+        "#ccb094",
+        "#ccb195",
+        "#caaf93",
+        "#cbaf94"
+      ],
+      "provenance": {
+        "artist": "Sigismundus Latomus",
+        "date": "1617",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "53.600.8(1r)",
+        "object_title": "Schon newes Modelbuch...Page 1(r)",
+        "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3"
+      },
+      "quality": "The ring at the top is cut by the top edge, and the lines carry the paper tone at partial alpha.",
+      "related": [],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2180,
+            "h": 48,
+            "path": "avif/hanging-pointed-loop-drop-64.avif",
+            "sha256": "40921fcf1ea6c0d475e006edec24e8264364db65b2b7cff4ab14c726d9211690",
+            "w": 64
+          },
+          {
+            "bytes": 3976,
+            "h": 72,
+            "path": "avif/hanging-pointed-loop-drop-96.avif",
+            "sha256": "f2dd1969566040a6e5a5f6f0c6161f849639697cbd00d116848a773bd79f0516",
+            "w": 96
+          },
+          {
+            "bytes": 6127,
+            "h": 96,
+            "path": "avif/hanging-pointed-loop-drop-128.avif",
+            "sha256": "f5a20d9097a2138058bf8eb4c13cf36ac5b7018f7b78eaabfdb8591fed9b8094",
+            "w": 128
+          },
+          {
+            "bytes": 10482,
+            "h": 144,
+            "path": "avif/hanging-pointed-loop-drop-192.avif",
+            "sha256": "1857c21944046ca3765a396234fcf865697f0bf002aa42d0d86c87b9e12047b1",
+            "w": 192
+          },
+          {
+            "bytes": 15474,
+            "h": 192,
+            "path": "avif/hanging-pointed-loop-drop-256.avif",
+            "sha256": "8dbde24d978dbfd1dd05dc12a49506b6936fc99690a0459196f8c9010483703a",
+            "w": 256
+          },
+          {
+            "bytes": 13406,
+            "h": 269,
+            "path": "avif/hanging-pointed-loop-drop-359.avif",
+            "sha256": "2e26c23dd54554b6c35ee8e5e78f3a88453848cf5ece9451879db0a16cf94286",
+            "w": 359
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2618,
+            "h": 48,
+            "path": "webp/hanging-pointed-loop-drop-64.webp",
+            "sha256": "542f3175901da1affd7059affe1887189e674a974ee9d3970bb66f52e1abd2b1",
+            "w": 64
+          },
+          {
+            "bytes": 5114,
+            "h": 72,
+            "path": "webp/hanging-pointed-loop-drop-96.webp",
+            "sha256": "833b32a4a362f234c390b003e0daa392c7f0723a5c9dc2924c8a339444b753b3",
+            "w": 96
+          },
+          {
+            "bytes": 8224,
+            "h": 96,
+            "path": "webp/hanging-pointed-loop-drop-128.webp",
+            "sha256": "316e43ffade31a7e3eed8c50cb198df3591100a1e315713f0852c562b342dbd3",
+            "w": 128
+          },
+          {
+            "bytes": 15516,
+            "h": 144,
+            "path": "webp/hanging-pointed-loop-drop-192.webp",
+            "sha256": "1e0ccb5b144b3fdfea03786110b9f919f81711584dbe646a16de0df06ad93749",
+            "w": 192
+          },
+          {
+            "bytes": 24808,
+            "h": 192,
+            "path": "webp/hanging-pointed-loop-drop-256.webp",
+            "sha256": "c18855f8b7a6831e27f6cb8e6f6278e4595df6d7e9988672c5a9d0526d31dcef",
+            "w": 256
+          },
+          {
+            "bytes": 19222,
+            "h": 269,
+            "path": "webp/hanging-pointed-loop-drop-359.webp",
+            "sha256": "55cb8401f1a50b1f2d8eda36de3c12981c20c7934b8bcdefcc3883d0dc64a65a",
+            "w": 359
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "lace",
+        "pendant",
+        "leaf",
+        "sprig",
+        "finial"
+      ],
+      "thumbhash": "azmCBIAShapraJj+qNj3AkCRgMmYWKd1Bg==",
+      "title": "Hanging lace drop with pointed loop",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "A hanging drop cut where it left its medallion; place it directly under a flat-bottomed arched medallion of this set."
+      ],
+      "width": 359
+    },
+    "inverted-lattice-floral-triangle": {
+      "categories": [
+        "geometric",
+        "floral"
+      ],
+      "colors": [
+        "tan",
+        "cream",
+        "beige"
+      ],
+      "composition": "single-ornament",
+      "description": "An inverted triangular lace drop. Two pierced bands with barbed outer edges descend to a bottom point ending in a small tassel; inside, a flower of six pierced lattice petals surrounds a ring with a cross, and a lattice bud hangs from it on a vertical stem. The upper petals and the band ends are cut by the top edge. Tan printed lace lines on a transparent ground.",
+      "display_width": [
+        125,
+        250
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 8989,
+        "webpTopBytes": 13042
+      },
+      "facing": "none",
+      "group": null,
+      "height": 212,
+      "master": {
+        "bytes": 12864,
+        "h": 212,
+        "path": "masters/inverted-lattice-floral-triangle.webp",
+        "sha256": "573c398e860e76aced5e6acb7f02c9b833581135ab4540fe72d1ad91abb9bf59",
+        "w": 252
+      },
+      "palette": [
+        "#c7ad8f",
+        "#c8ad8f",
+        "#c9ad8f",
+        "#caaf90"
+      ],
+      "provenance": {
+        "artist": "Sigismundus Latomus",
+        "date": "1617",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "53.600.8(1r)",
+        "object_title": "Schon newes Modelbuch...Page 1(r)",
+        "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3"
+      },
+      "quality": "The top edge cuts through the upper petals and the band ends; the lines carry the paper tone at partial alpha.",
+      "related": [],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2435,
+            "h": 54,
+            "path": "avif/inverted-lattice-floral-triangle-64.avif",
+            "sha256": "312cef0980799496cbb3426755edf930f95d24f90fe31555e1ddbfe3e7a67b77",
+            "w": 64
+          },
+          {
+            "bytes": 4242,
+            "h": 81,
+            "path": "avif/inverted-lattice-floral-triangle-96.avif",
+            "sha256": "6f2fcadce42d24e7b89b47c77f0ea84a3c333a5fdd34c1816db7038bc95ac2dc",
+            "w": 96
+          },
+          {
+            "bytes": 6314,
+            "h": 108,
+            "path": "avif/inverted-lattice-floral-triangle-128.avif",
+            "sha256": "9dd0c195083075ab6dd54d117737de3fa529f3eea9cc60a422d5ee6a9de0a9a8",
+            "w": 128
+          },
+          {
+            "bytes": 11157,
+            "h": 162,
+            "path": "avif/inverted-lattice-floral-triangle-192.avif",
+            "sha256": "1ff40eb13ca403e8383c713e6da9980f41a77f60a400684425d0d49561454a4a",
+            "w": 192
+          },
+          {
+            "bytes": 8989,
+            "h": 212,
+            "path": "avif/inverted-lattice-floral-triangle-252.avif",
+            "sha256": "4c9ec941a64bb1421500ccd7ab45e8f222ac3e63991b0b4912e55f87b39cfe63",
+            "w": 252
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2934,
+            "h": 54,
+            "path": "webp/inverted-lattice-floral-triangle-64.webp",
+            "sha256": "524fa5bc6290213b92d9b9f8d79b6a7d907e0056b3acb34541119a3ae2fbbc8e",
+            "w": 64
+          },
+          {
+            "bytes": 5576,
+            "h": 81,
+            "path": "webp/inverted-lattice-floral-triangle-96.webp",
+            "sha256": "e2aaf7a94fe6330f95f6709c4a1501e8dabbd0f7d917b1d5f5276c5b438a4d97",
+            "w": 96
+          },
+          {
+            "bytes": 8904,
+            "h": 108,
+            "path": "webp/inverted-lattice-floral-triangle-128.webp",
+            "sha256": "ae962e179e6579732c3a095bc38014a3216e148f266c8b80e7fd04cb2ae7288c",
+            "w": 128
+          },
+          {
+            "bytes": 17118,
+            "h": 162,
+            "path": "webp/inverted-lattice-floral-triangle-192.webp",
+            "sha256": "5cf558709971c7f5354bc78b04c7b2cbdb990ea1c11285318db985684667ac71",
+            "w": 192
+          },
+          {
+            "bytes": 13042,
+            "h": 212,
+            "path": "webp/inverted-lattice-floral-triangle-252.webp",
+            "sha256": "2fc887d104703a34d17ff9b295af348e084bd8045b1cb9f99f8aba0149abf2b3",
+            "w": 252
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "lace",
+        "triangle",
+        "flower",
+        "lattice",
+        "pendant"
+      ],
+      "thumbhash": "ajmCBIASSKhusV/k+GPrrGCmYOiIWbeHBg==",
+      "title": "Inverted lace triangle with lattice flower",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "A hanging drop cut where it left its medallion; place it directly under a flat-bottomed arched medallion of this set."
+      ],
+      "width": 252
+    },
+    "small-lace-roundel-with-eight-point-star": {
+      "categories": [
+        "geometric"
+      ],
+      "colors": [
+        "tan",
+        "cream",
+        "beige"
+      ],
+      "composition": "single-ornament",
+      "description": "A small lace roundel. Two overlapping four-pointed stars form an eight-pointed star inside a circle; a ring of small arcs and triangular teeth surrounds it. The roundel sits in a diagonal lattice with small roundels at the crossings, and a straight page rule runs along the right edge; fragments of the neighbouring cells remain at all four edges. Tan printed lace lines on a transparent ground.",
+      "display_width": [
+        140,
+        275
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 21504,
+        "webpTopBytes": 32510
+      },
+      "facing": "none",
+      "group": null,
+      "height": 268,
+      "master": {
+        "bytes": 32118,
+        "h": 268,
+        "path": "masters/small-lace-roundel-with-eight-point-star.webp",
+        "sha256": "4bad3e9eb66c9528989227dfe7c202cbb66475c1cca709d9df4ad010f698326e",
+        "w": 276
+      },
+      "palette": [
+        "#ceb090",
+        "#cdaf8f",
+        "#ccae8e",
+        "#ccaf8f"
+      ],
+      "provenance": {
+        "artist": "Sigismundus Latomus",
+        "date": "1617",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "53.600.8(1r)",
+        "object_title": "Schon newes Modelbuch...Page 1(r)",
+        "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3"
+      },
+      "quality": "A crop from a larger pattern, all four edges cut through the surrounding lattice and a page rule remains at the right; the lines carry the paper tone at partial alpha.",
+      "related": [],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4132,
+            "h": 62,
+            "path": "avif/small-lace-roundel-with-eight-point-star-64.avif",
+            "sha256": "b6fc74362a91e98c07acfd05c1548282d33ba53774d95cc2636d3bc8e3baa7e6",
+            "w": 64
+          },
+          {
+            "bytes": 7959,
+            "h": 93,
+            "path": "avif/small-lace-roundel-with-eight-point-star-96.avif",
+            "sha256": "81972366db4c89c0a1d8fe6ebf65410770e68cdc5aa761f2fa185f7864301ffd",
+            "w": 96
+          },
+          {
+            "bytes": 12509,
+            "h": 124,
+            "path": "avif/small-lace-roundel-with-eight-point-star-128.avif",
+            "sha256": "eac0d2636b5d25e6460e2f0710242005e93de4b37f7122c2d346df1354e8bee4",
+            "w": 128
+          },
+          {
+            "bytes": 23114,
+            "h": 186,
+            "path": "avif/small-lace-roundel-with-eight-point-star-192.avif",
+            "sha256": "bd961e531f5ae3e20b11b0747a84c06c155110b24ecb637d99c907806f1ad7fc",
+            "w": 192
+          },
+          {
+            "bytes": 35124,
+            "h": 249,
+            "path": "avif/small-lace-roundel-with-eight-point-star-256.avif",
+            "sha256": "4b361132a0c2c1a8a439b8c1d76d01046eb3c89066640d4f9558065d22a2e81b",
+            "w": 256
+          },
+          {
+            "bytes": 21504,
+            "h": 268,
+            "path": "avif/small-lace-roundel-with-eight-point-star-276.avif",
+            "sha256": "bab404a1b1e79ec1bc4616982f4261d5d04c26cc29716ab3e2cb87ad0fbb8ab1",
+            "w": 276
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4956,
+            "h": 62,
+            "path": "webp/small-lace-roundel-with-eight-point-star-64.webp",
+            "sha256": "a263a7b87eca7272bc4b257b93b7e638c070db20f2e49b3b953572d2724a5d48",
+            "w": 64
+          },
+          {
+            "bytes": 10674,
+            "h": 93,
+            "path": "webp/small-lace-roundel-with-eight-point-star-96.webp",
+            "sha256": "ca061d2d7f7f573a3c67b60ec477a2a28e3c012be11c29b70d157fa14f677bfd",
+            "w": 96
+          },
+          {
+            "bytes": 17994,
+            "h": 124,
+            "path": "webp/small-lace-roundel-with-eight-point-star-128.webp",
+            "sha256": "d98205dc7a451149acbc061d5599315eee71528334b0d393d0888dd7e62da54f",
+            "w": 128
+          },
+          {
+            "bytes": 36680,
+            "h": 186,
+            "path": "webp/small-lace-roundel-with-eight-point-star-192.webp",
+            "sha256": "ebedbb703b54aa99e166179a0623620f190d12d4a1c81ddad73549a6f98e3ad8",
+            "w": 192
+          },
+          {
+            "bytes": 57670,
+            "h": 249,
+            "path": "webp/small-lace-roundel-with-eight-point-star-256.webp",
+            "sha256": "effbcb2c690fe299e5510cfc9fa8dee60e2cfd37515c02d3e5e907add9c0a756",
+            "w": 256
+          },
+          {
+            "bytes": 32510,
+            "h": 268,
+            "path": "webp/small-lace-roundel-with-eight-point-star-276.webp",
+            "sha256": "36e650054e21001f4d361c67bafeb0045765c26512ef11d02b4efdc4047d9226",
+            "w": 276
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "lace",
+        "roundel",
+        "star",
+        "lattice",
+        "rule"
+      ],
+      "thumbhash": "azmCBYAEdeWAZ2Si5FWl/5SJYMaah2KFyQ==",
+      "title": "Lace roundel with eight-pointed star",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Crop to the circle for a clean roundel; the lattice and the rule at the right edge belong to the surrounding page cell."
+      ],
+      "width": 276
+    },
+    "small-triangular-fleur-finial": {
+      "categories": [
+        "geometric",
+        "botanical"
+      ],
+      "colors": [
+        "tan",
+        "cream",
+        "beige"
+      ],
+      "composition": "single-ornament",
+      "description": "A very small triangular lace finial. A triangle outlined by dotted, barbed bands holds a vertical stem crossed by a horizontal bar with short leaves, like a small fir sprig, with a lobed tip at the apex. Tan printed lace lines on a transparent ground.",
+      "display_width": [
+        50,
+        100
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 2519,
+        "webpTopBytes": 2988
+      },
+      "facing": "none",
+      "group": null,
+      "height": 110,
+      "master": {
+        "bytes": 3054,
+        "h": 110,
+        "path": "masters/small-triangular-fleur-finial.webp",
+        "sha256": "74a373dcd15bc5abc2594f5578bcd47c1887776c17efcd82367a3cd54be9d1e5",
+        "w": 104
+      },
+      "palette": [
+        "#c3a78a",
+        "#c4a88a",
+        "#c3a88a",
+        "#c2a789",
+        "#c2a78a"
+      ],
+      "provenance": {
+        "artist": "Sigismundus Latomus",
+        "date": "1617",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "53.600.8(1r)",
+        "object_title": "Schon newes Modelbuch...Page 1(r)",
+        "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3"
+      },
+      "quality": "Very small and soft at native size, and the lines carry the paper tone at partial alpha.",
+      "related": [],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2747,
+            "h": 68,
+            "path": "avif/small-triangular-fleur-finial-64.avif",
+            "sha256": "88b5ee7f2d5ecd97778d416eace4254070b2fddbd6ceb36fb164f98099c3ac88",
+            "w": 64
+          },
+          {
+            "bytes": 4364,
+            "h": 102,
+            "path": "avif/small-triangular-fleur-finial-96.avif",
+            "sha256": "bde3f6316ee811b58ebe971f5a38130687fe544e4f214cfda23c56a1005435cf",
+            "w": 96
+          },
+          {
+            "bytes": 2519,
+            "h": 110,
+            "path": "avif/small-triangular-fleur-finial-104.avif",
+            "sha256": "6574a057c592243334fd223fa250de87bd1a8babb93671ff352bf918da006e5b",
+            "w": 104
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3586,
+            "h": 68,
+            "path": "webp/small-triangular-fleur-finial-64.webp",
+            "sha256": "adafd61812e4acaacbffc4a68a2e9e369d7c2a93e5504afc97716500e2eda638",
+            "w": 64
+          },
+          {
+            "bytes": 6212,
+            "h": 102,
+            "path": "webp/small-triangular-fleur-finial-96.webp",
+            "sha256": "92c998677bdb3269e0ce75d9ac780987c168ed20326dddb786f178e0c3246cfc",
+            "w": 96
+          },
+          {
+            "bytes": 2988,
+            "h": 110,
+            "path": "webp/small-triangular-fleur-finial-104.webp",
+            "sha256": "d0eaa02c0cb61fe4cf4ac548553db962510329bbca0f5a13b67cba06eb654458",
+            "w": 104
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "lace",
+        "triangle",
+        "finial",
+        "sprig"
+      ],
+      "thumbhash": "aTmCBQASBKe+Z3VqdZtRb0f7C4d0ZnOqWA==",
+      "title": "Small lace triangle finial",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Use at or below its native size; the drawing is only about a hundred pixels wide."
+      ],
+      "width": 104
+    },
+    "square-four-pointed-star-lace-cell": {
+      "categories": [
+        "geometric",
+        "floral"
+      ],
+      "colors": [
+        "tan",
+        "cream",
+        "beige"
+      ],
+      "composition": "single-ornament",
+      "description": "A small square lace cell. Straight bars bound the cell on the left, top and bottom, with a thinner partial bar at the right; inside, four long triangular rays on the diagonals meet at the centre, and four lobed petals sit between them on the axes, with small ties at the corners. Tan printed lace lines on a transparent ground.",
+      "display_width": [
+        75,
+        150
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 6291,
+        "webpTopBytes": 9382
+      },
+      "facing": "none",
+      "group": null,
+      "height": 145,
+      "master": {
+        "bytes": 9266,
+        "h": 145,
+        "path": "masters/square-four-pointed-star-lace-cell.webp",
+        "sha256": "af05bbb41c3c91a922c937f7f629492058f694841c467f3a6ac7806aaf4835d3",
+        "w": 152
+      },
+      "palette": [
+        "#c8af92",
+        "#c9af92",
+        "#c9b092",
+        "#caaf92",
+        "#cab093"
+      ],
+      "provenance": {
+        "artist": "Sigismundus Latomus",
+        "date": "1617",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "53.600.8(1r)",
+        "object_title": "Schon newes Modelbuch...Page 1(r)",
+        "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3"
+      },
+      "quality": "Small and ragged at native size, the right-hand bar is partly missing, and the lines carry the paper tone at partial alpha.",
+      "related": [],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3726,
+            "h": 61,
+            "path": "avif/square-four-pointed-star-lace-cell-64.avif",
+            "sha256": "0c89f212603c6adda9d83cd2a6bb1f7636e068a684cf6a077cf8c457a9b5cde6",
+            "w": 64
+          },
+          {
+            "bytes": 6354,
+            "h": 92,
+            "path": "avif/square-four-pointed-star-lace-cell-96.avif",
+            "sha256": "d9341c36b1319fe163013609e34f14682bcb21549b82ae8873328de2e09972b1",
+            "w": 96
+          },
+          {
+            "bytes": 9514,
+            "h": 122,
+            "path": "avif/square-four-pointed-star-lace-cell-128.avif",
+            "sha256": "9fc846afd9fd8ef4e52ac1c1d12ed96323467f3ea795a1ce9b39ec4b62ca8abc",
+            "w": 128
+          },
+          {
+            "bytes": 6291,
+            "h": 145,
+            "path": "avif/square-four-pointed-star-lace-cell-152.avif",
+            "sha256": "8654f9d3f089ac7bcc67e640f4b7d9c687c66aea32e5d1aca11fd01acad5eb59",
+            "w": 152
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4990,
+            "h": 61,
+            "path": "webp/square-four-pointed-star-lace-cell-64.webp",
+            "sha256": "7e7cab0d5d06f407732c002507deb41125da6a20b71ecb65bc619a00ec253a02",
+            "w": 64
+          },
+          {
+            "bytes": 10000,
+            "h": 92,
+            "path": "webp/square-four-pointed-star-lace-cell-96.webp",
+            "sha256": "595c8dc5cc3e9c31eaf0ce4c0f98091b63a3c301c0155d8463ce2c8697aab021",
+            "w": 96
+          },
+          {
+            "bytes": 15878,
+            "h": 122,
+            "path": "webp/square-four-pointed-star-lace-cell-128.webp",
+            "sha256": "656e674f0af861637857e016ae01e32e97fa84b9849f672d17881ead62e5b7a6",
+            "w": 128
+          },
+          {
+            "bytes": 9382,
+            "h": 145,
+            "path": "webp/square-four-pointed-star-lace-cell-152.webp",
+            "sha256": "812cbb9ee4c745d766dd4bd199023d3c8c8740e012a30adc248c656724a18221",
+            "w": 152
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "lace",
+        "star",
+        "flower",
+        "medallion"
+      ],
+      "thumbhash": "azmCBYAE/pudmr5oeLfvmzWvuX5/Z4mMlw==",
+      "title": "Square lace cell with four-pointed star",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "The right-hand bar is incomplete; crop inside the bars to use the star alone."
+      ],
+      "width": 152
+    },
+    "square-lace-with-cross-and-star-corners": {
+      "categories": [
+        "geometric",
+        "floral"
+      ],
+      "colors": [
+        "tan",
+        "cream",
+        "beige"
+      ],
+      "composition": "single-ornament",
+      "description": "A square lace panel of nine cells divided by straight lines. The central cell holds a medallion of four pointed petals in a cross around a dotted ring with a small ring at the centre, with lobed scale lace filling the quadrants. The side cells are split on the diagonals with sawtooth triangles and a small spoked roundel each, and the corner cells hold lobed quarter-circles. Tan printed lace lines on a transparent ground, cut at all four edges.",
+      "display_width": [
+        300,
+        590
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 74737,
+        "webpTopBytes": 124952
+      },
+      "facing": "none",
+      "group": null,
+      "height": 557,
+      "master": {
+        "bytes": 123716,
+        "h": 557,
+        "path": "masters/square-lace-with-cross-and-star-corners.webp",
+        "sha256": "67cc6d6f3c21e3a4b10c7b1ca1c83fa6d2c02616732ca957ecd3b90b42ebde08",
+        "w": 593
+      },
+      "palette": [
+        "#c7aa8c",
+        "#c8aa8c",
+        "#c8ab8d",
+        "#c9ac8e"
+      ],
+      "provenance": {
+        "artist": "Sigismundus Latomus",
+        "date": "1617",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "53.600.8(1r)",
+        "object_title": "Schon newes Modelbuch...Page 1(r)",
+        "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3"
+      },
+      "quality": "The lines carry the paper tone at partial alpha; all four edges cut through the neighbouring cells of the grid.",
+      "related": [],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3584,
+            "h": 60,
+            "path": "avif/square-lace-with-cross-and-star-corners-64.avif",
+            "sha256": "b299f2240d11d278c1f1c925867e9faed9314454edb2f3995b64b9f9c9fbcdd9",
+            "w": 64
+          },
+          {
+            "bytes": 8368,
+            "h": 90,
+            "path": "avif/square-lace-with-cross-and-star-corners-96.avif",
+            "sha256": "5e9acee54fdc73d6c0acc5e2597ff2bff19ee9a2e0726edf2ebcbb3350fe9ec4",
+            "w": 96
+          },
+          {
+            "bytes": 14293,
+            "h": 120,
+            "path": "avif/square-lace-with-cross-and-star-corners-128.avif",
+            "sha256": "4181b6669b1a2fcf6fe702629351af29b0f84ef7b5ee1125fc9f2a8d6b9689b7",
+            "w": 128
+          },
+          {
+            "bytes": 28979,
+            "h": 180,
+            "path": "avif/square-lace-with-cross-and-star-corners-192.avif",
+            "sha256": "7b357e1ac0d1e1e0dc275174eb234e43fbfc52f1e1cb213da8f3f924f30da914",
+            "w": 192
+          },
+          {
+            "bytes": 45338,
+            "h": 240,
+            "path": "avif/square-lace-with-cross-and-star-corners-256.avif",
+            "sha256": "d64c46789cee302c7680b84a192750656feebe99e2a1e997dca57ef0c26591b6",
+            "w": 256
+          },
+          {
+            "bytes": 89468,
+            "h": 361,
+            "path": "avif/square-lace-with-cross-and-star-corners-384.avif",
+            "sha256": "602b3330ce99be95fad15219336d9bab89334bd6b49de554b27ac51d6d8e52f4",
+            "w": 384
+          },
+          {
+            "bytes": 135127,
+            "h": 481,
+            "path": "avif/square-lace-with-cross-and-star-corners-512.avif",
+            "sha256": "242ec1811c9e81ade13143267c06bd59e745ce7dadd6661ad9967785b20f7d9a",
+            "w": 512
+          },
+          {
+            "bytes": 74737,
+            "h": 557,
+            "path": "avif/square-lace-with-cross-and-star-corners-593.avif",
+            "sha256": "54aa1f668a2963edb6969ddb5ad9e421d2ef09047ba8d8e19877175ea9a740f7",
+            "w": 593
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4394,
+            "h": 60,
+            "path": "webp/square-lace-with-cross-and-star-corners-64.webp",
+            "sha256": "8843317f924ebff72eeeea2355a58e13b6cfb5a56008003f51aac01e03a5674e",
+            "w": 64
+          },
+          {
+            "bytes": 10340,
+            "h": 90,
+            "path": "webp/square-lace-with-cross-and-star-corners-96.webp",
+            "sha256": "b59d6945511b6bdd31336ab18337109c9f9d1a4646a0ab4265371516032efe1f",
+            "w": 96
+          },
+          {
+            "bytes": 18366,
+            "h": 120,
+            "path": "webp/square-lace-with-cross-and-star-corners-128.webp",
+            "sha256": "bc6c5f2e24e861621fd18d79188d07de18621263d4573cf4eb4d543a1507cab4",
+            "w": 128
+          },
+          {
+            "bytes": 40206,
+            "h": 180,
+            "path": "webp/square-lace-with-cross-and-star-corners-192.webp",
+            "sha256": "1d441bc23e957947ee2d969df330ae8da5b119e5e3927a6c69b4f22309e49852",
+            "w": 192
+          },
+          {
+            "bytes": 68492,
+            "h": 240,
+            "path": "webp/square-lace-with-cross-and-star-corners-256.webp",
+            "sha256": "599429b41e4243a2f14c17f9bd8da988eebc2bfe2e6eb8b2d3b98c1e3568bc6d",
+            "w": 256
+          },
+          {
+            "bytes": 137380,
+            "h": 361,
+            "path": "webp/square-lace-with-cross-and-star-corners-384.webp",
+            "sha256": "6fab28cf03e06d8a8012f80be878c69a54a9c6748b22043ea164e7ecb0d7172c",
+            "w": 384
+          },
+          {
+            "bytes": 212290,
+            "h": 481,
+            "path": "webp/square-lace-with-cross-and-star-corners-512.webp",
+            "sha256": "538021ab1e6c83494cc438c538dec9c8e00290200bdf6c403df9603984003ae8",
+            "w": 512
+          },
+          {
+            "bytes": 124952,
+            "h": 557,
+            "path": "webp/square-lace-with-cross-and-star-corners-593.webp",
+            "sha256": "4bbd22084b4130d5ef9d6405207670fb5a479459f87fcccfb3112399c0f25253",
+            "w": 593
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "lace",
+        "cross",
+        "medallion",
+        "roundel",
+        "triangle"
+      ],
+      "thumbhash": "ajmCBYAEb3iZeXdURylDMAIWplV4Z4OAKA==",
+      "title": "Square lace panel with cross medallion",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Cut from a continuous grid, so the outer cells are incomplete; crop to the central cell for a clean medallion, or keep the whole for a lace-panel texture."
+      ],
+      "width": 593
+    },
+    "square-lace-with-looped-petal-medallion": {
+      "categories": [
+        "floral",
+        "geometric"
+      ],
+      "colors": [
+        "tan",
+        "cream",
+        "beige"
+      ],
+      "composition": "single-ornament",
+      "description": "A square lace panel. In the central cell eight narrow pierced petals with dotted edges radiate from a ring holding a small eight-lobed rosette; four large overlapping looped arcs enclose them, and pierced fir-like sprigs point outward on the diagonals and axes. Straight lines divide the panel, and lobed quarter-circles of scale lace fill the corners. Tan printed lace lines on a transparent ground, cut at all four edges.",
+      "display_width": [
+        300,
+        590
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 80385,
+        "webpTopBytes": 126022
+      },
+      "facing": "none",
+      "group": null,
+      "height": 552,
+      "master": {
+        "bytes": 125078,
+        "h": 552,
+        "path": "masters/square-lace-with-looped-petal-medallion.webp",
+        "sha256": "a1fe5790f71bddced6374efaf5702dce746c54fc16e7834f4a253940bdd5a616",
+        "w": 590
+      },
+      "palette": [
+        "#c3a88a",
+        "#c4a88a",
+        "#c5a88a",
+        "#c5aa8b",
+        "#c5a98a"
+      ],
+      "provenance": {
+        "artist": "Sigismundus Latomus",
+        "date": "1617",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "53.600.8(1r)",
+        "object_title": "Schon newes Modelbuch...Page 1(r)",
+        "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3"
+      },
+      "quality": "The lines carry the paper tone at partial alpha; all four edges cut through the neighbouring cells of the grid.",
+      "related": [],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3827,
+            "h": 60,
+            "path": "avif/square-lace-with-looped-petal-medallion-64.avif",
+            "sha256": "462341b50dfcc9ce30eb25ca93f99e97ec16347a7e03c9299b96f62d50d3b13b",
+            "w": 64
+          },
+          {
+            "bytes": 8549,
+            "h": 90,
+            "path": "avif/square-lace-with-looped-petal-medallion-96.avif",
+            "sha256": "a1f78fa65e74f3ad0ebf836f6fcb6a835f89abd5113c587df58e76b51d7eb18b",
+            "w": 96
+          },
+          {
+            "bytes": 12875,
+            "h": 120,
+            "path": "avif/square-lace-with-looped-petal-medallion-128.avif",
+            "sha256": "74f098c2f48c483ae612eaf62a27ce15b66ca030e0cb175095c7c9cc516335b9",
+            "w": 128
+          },
+          {
+            "bytes": 26727,
+            "h": 180,
+            "path": "avif/square-lace-with-looped-petal-medallion-192.avif",
+            "sha256": "b42f6719f591081ca7c005025055b9ee0c8ffd612d4075a98b8d4480edef72d5",
+            "w": 192
+          },
+          {
+            "bytes": 43445,
+            "h": 240,
+            "path": "avif/square-lace-with-looped-petal-medallion-256.avif",
+            "sha256": "cb6a1e62eb68bdf867e7e09454acd58b2d8d5fc2f7b7edab47bb9fac1f2ec1c5",
+            "w": 256
+          },
+          {
+            "bytes": 85280,
+            "h": 359,
+            "path": "avif/square-lace-with-looped-petal-medallion-384.avif",
+            "sha256": "6f99368813daaba6e6ddc92cdbd985dcd890d50639f6feebcb87b27cacdeddfb",
+            "w": 384
+          },
+          {
+            "bytes": 132068,
+            "h": 479,
+            "path": "avif/square-lace-with-looped-petal-medallion-512.avif",
+            "sha256": "e967350c731afba5cd5d1073d5fc08e112e14193ed7623934ad908e4bcd68f66",
+            "w": 512
+          },
+          {
+            "bytes": 80385,
+            "h": 552,
+            "path": "avif/square-lace-with-looped-petal-medallion-590.avif",
+            "sha256": "7b396f88638e85e1b8d6f6a98e8be91f6857f403bb3ea82419ff8bed1cce8f68",
+            "w": 590
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4742,
+            "h": 60,
+            "path": "webp/square-lace-with-looped-petal-medallion-64.webp",
+            "sha256": "46423320a07ac3fddb7edade64ddc4af3857a97aa2a8560a48c4d12b8bdb72d5",
+            "w": 64
+          },
+          {
+            "bytes": 10438,
+            "h": 90,
+            "path": "webp/square-lace-with-looped-petal-medallion-96.webp",
+            "sha256": "4eb9933cebf90f3a2a0bbdd2490ba71289498698babc7fdb594896a0724c75bd",
+            "w": 96
+          },
+          {
+            "bytes": 17842,
+            "h": 120,
+            "path": "webp/square-lace-with-looped-petal-medallion-128.webp",
+            "sha256": "8d90d924b0efde927143a11a03ac2f4ebed8256bab4fa2a218a15c4b3808031e",
+            "w": 128
+          },
+          {
+            "bytes": 36968,
+            "h": 180,
+            "path": "webp/square-lace-with-looped-petal-medallion-192.webp",
+            "sha256": "5a4609d4dbf6561777414359bc7f7004ff7150a673931933fcb136633b3aca7f",
+            "w": 192
+          },
+          {
+            "bytes": 62052,
+            "h": 240,
+            "path": "webp/square-lace-with-looped-petal-medallion-256.webp",
+            "sha256": "6a4d608c3f51fd15e666979678ad492f3f4e2b24d34afb56c223daa99badde60",
+            "w": 256
+          },
+          {
+            "bytes": 126904,
+            "h": 359,
+            "path": "webp/square-lace-with-looped-petal-medallion-384.webp",
+            "sha256": "7a2a13c00fbd7ffa76118ac5321cdc3b9efef225600cbba842ef5a502899bb5a",
+            "w": 384
+          },
+          {
+            "bytes": 201020,
+            "h": 479,
+            "path": "webp/square-lace-with-looped-petal-medallion-512.webp",
+            "sha256": "2484cbae14e0c452a34ff1e9cb63fab923fad4d31c68a2cb59281ae6dd3207d9",
+            "w": 512
+          },
+          {
+            "bytes": 126022,
+            "h": 552,
+            "path": "webp/square-lace-with-looped-petal-medallion-590.webp",
+            "sha256": "5157e46ff7994211399121502b7595bd775ceb324954ba0f7e9aa7edc5008f01",
+            "w": 590
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "lace",
+        "medallion",
+        "rosette",
+        "flower",
+        "sprig"
+      ],
+      "thumbhash": "aTmCBYAEgFpnd3dWiTCRbP7GFEhXiICPSA==",
+      "title": "Square lace panel with pierced-petal medallion",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Cut from a continuous grid, so the outer cells are incomplete; crop to the central cell for a clean medallion, or keep the whole for a lace-panel texture."
+      ],
+      "width": 590
+    },
+    "square-lace-with-petals-and-triangle-fans": {
+      "categories": [
+        "floral",
+        "geometric"
+      ],
+      "colors": [
+        "tan",
+        "cream",
+        "beige"
+      ],
+      "composition": "single-ornament",
+      "description": "A square lace panel of cells divided by straight lines. The central cell holds a rosette of many narrow petals radiating from a dotted ring, with net-filled triangles pointing into its four corners and a dotted lobed rim. Each side cell holds a semicircular fan filled with rows of sawtooth triangles and a scalloped rim, and the corner cells show lobed quarter-circles. Tan printed lace lines on a transparent ground, cut at all four edges.",
+      "display_width": [
+        300,
+        600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 72347,
+        "webpTopBytes": 123046
+      },
+      "facing": "none",
+      "group": null,
+      "height": 557,
+      "master": {
+        "bytes": 121546,
+        "h": 557,
+        "path": "masters/square-lace-with-petals-and-triangle-fans.webp",
+        "sha256": "a02173da647a84243f6d69f36503bd99cadeb26b64c233a7bc2d9c0d9cc6b846",
+        "w": 606
+      },
+      "palette": [
+        "#c9ab8b",
+        "#caac8c",
+        "#d1b191"
+      ],
+      "provenance": {
+        "artist": "Sigismundus Latomus",
+        "date": "1617",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "53.600.8(1r)",
+        "object_title": "Schon newes Modelbuch...Page 1(r)",
+        "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3"
+      },
+      "quality": "The lines carry the paper tone at partial alpha; all four edges cut through the neighbouring cells of the grid.",
+      "related": [],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3838,
+            "h": 59,
+            "path": "avif/square-lace-with-petals-and-triangle-fans-64.avif",
+            "sha256": "2dea3959304e4523e7e1493c5ba26b72416a02f7b5ad99147cc9ce6d3fb3418e",
+            "w": 64
+          },
+          {
+            "bytes": 8628,
+            "h": 88,
+            "path": "avif/square-lace-with-petals-and-triangle-fans-96.avif",
+            "sha256": "c2a53b4929afb28c363c07c63e41a86a4b090841c3b2f49b43ce385b424d47eb",
+            "w": 96
+          },
+          {
+            "bytes": 13458,
+            "h": 118,
+            "path": "avif/square-lace-with-petals-and-triangle-fans-128.avif",
+            "sha256": "f1056a9bfdaf62f458c8ec6f82eec66f8805fc65718f996328d052795d37a981",
+            "w": 128
+          },
+          {
+            "bytes": 26277,
+            "h": 176,
+            "path": "avif/square-lace-with-petals-and-triangle-fans-192.avif",
+            "sha256": "b0f55e6466398224d738e02b24e659d406db929b586387c993d2694825aa5831",
+            "w": 192
+          },
+          {
+            "bytes": 43051,
+            "h": 235,
+            "path": "avif/square-lace-with-petals-and-triangle-fans-256.avif",
+            "sha256": "e891c2acd63534ea28465f8a402a86cd739aa5e76363cc053032ba2f68925c98",
+            "w": 256
+          },
+          {
+            "bytes": 84624,
+            "h": 353,
+            "path": "avif/square-lace-with-petals-and-triangle-fans-384.avif",
+            "sha256": "e9107f9745d7d8734d10700c20dcd55fd3aac2f123ecc0ff227105b207168fb7",
+            "w": 384
+          },
+          {
+            "bytes": 126285,
+            "h": 471,
+            "path": "avif/square-lace-with-petals-and-triangle-fans-512.avif",
+            "sha256": "3db69bcbc9ab047361e6f9a7e2ec1ff3ec20f0a41d9838049d1f34b43baed20e",
+            "w": 512
+          },
+          {
+            "bytes": 72347,
+            "h": 557,
+            "path": "avif/square-lace-with-petals-and-triangle-fans-606.avif",
+            "sha256": "fa594c0b821dfdc4890a3f3f4c49b0e39c0302aa764b8581ae3aa9e9d62014e0",
+            "w": 606
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4462,
+            "h": 59,
+            "path": "webp/square-lace-with-petals-and-triangle-fans-64.webp",
+            "sha256": "0572d271da1eebb25e8ed78214f2b11fdb447c95c3db5f18d8aacd0ec4e48011",
+            "w": 64
+          },
+          {
+            "bytes": 10186,
+            "h": 88,
+            "path": "webp/square-lace-with-petals-and-triangle-fans-96.webp",
+            "sha256": "3864d4ddb93144f1ac32fadc3181f976a0212c03fd1c9b11fe90ce26ddf4b3e2",
+            "w": 96
+          },
+          {
+            "bytes": 17732,
+            "h": 118,
+            "path": "webp/square-lace-with-petals-and-triangle-fans-128.webp",
+            "sha256": "b076b1101ef18be5267248bd26513a40222b6eea61806dd6565f079cea2e5a7b",
+            "w": 128
+          },
+          {
+            "bytes": 37456,
+            "h": 176,
+            "path": "webp/square-lace-with-petals-and-triangle-fans-192.webp",
+            "sha256": "8e917b9a1aaf26cfb3e4a6cdb1cff79e4e2cb8688b0d1bd051cfa7a00c6b6e9b",
+            "w": 192
+          },
+          {
+            "bytes": 64798,
+            "h": 235,
+            "path": "webp/square-lace-with-petals-and-triangle-fans-256.webp",
+            "sha256": "80b7735f429c03150829f542664d888089a085c8fb061934412a28fe30206d2f",
+            "w": 256
+          },
+          {
+            "bytes": 130630,
+            "h": 353,
+            "path": "webp/square-lace-with-petals-and-triangle-fans-384.webp",
+            "sha256": "ab6c80ac39aa7be729ae7237b0cb24412b6c380a5f82579cba5e7a525fc31f4b",
+            "w": 384
+          },
+          {
+            "bytes": 203736,
+            "h": 471,
+            "path": "webp/square-lace-with-petals-and-triangle-fans-512.webp",
+            "sha256": "1e9d09cd4bdf82468ddc0799066c5334abde1c96896c0596dc0845c1a1f072df",
+            "w": 512
+          },
+          {
+            "bytes": 123046,
+            "h": 557,
+            "path": "webp/square-lace-with-petals-and-triangle-fans-606.webp",
+            "sha256": "cd5a66982bacc9def18b9ea79a26ee4e75b44718afd47c50fb9fd4d2b1af69c5",
+            "w": 606
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "lace",
+        "rosette",
+        "medallion",
+        "triangle"
+      ],
+      "thumbhash": "ajmCBYAEaVZwTa6AaTp/pbWvOFVzeZ1w6A==",
+      "title": "Square lace panel with petal rosette and fans",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Cut from a continuous grid, so the outer cells are incomplete; crop to the central cell for a clean medallion, or keep the whole for a lace-panel texture."
+      ],
+      "width": 606
+    },
+    "square-lace-with-triangle-star": {
+      "categories": [
+        "geometric"
+      ],
+      "colors": [
+        "tan",
+        "cream",
+        "beige"
+      ],
+      "composition": "single-ornament",
+      "description": "A square lace panel. A central roundel holds an eight-pointed star of triangles inside a dotted ring; straight double bands with sawtooth edges cross it on the axes and thin lines on the diagonals. Eight oval pierced medallions with central slits sit around the roundel, and net-filled triangles point in from the corners. Tan printed lace lines on a transparent ground, cut at all four edges.",
+      "display_width": [
+        290,
+        570
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 90099,
+        "webpTopBytes": 142698
+      },
+      "facing": "none",
+      "group": null,
+      "height": 554,
+      "master": {
+        "bytes": 141504,
+        "h": 554,
+        "path": "masters/square-lace-with-triangle-star.webp",
+        "sha256": "941d27eb8b6afbc3e872205c03dd4fc6af91cbb53014a7bee442c6e90f99bdbb",
+        "w": 571
+      },
+      "palette": [
+        "#cbad8e",
+        "#caac8e",
+        "#caad8e",
+        "#c9ac8d",
+        "#c9ad8d"
+      ],
+      "provenance": {
+        "artist": "Sigismundus Latomus",
+        "date": "1617",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP359638.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "53.600.8(1r)",
+        "object_title": "Schon newes Modelbuch...Page 1(r)",
+        "record_url": "https://www.metmuseum.org/art/collection/search/368267",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "4f557de2ff17a7eca2a09add818482321f4f47ae4f3b0c09cc48ae71d5808ce3"
+      },
+      "quality": "The lines carry the paper tone at partial alpha; all four edges cut through the neighbouring cells of the grid.",
+      "related": [],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3952,
+            "h": 62,
+            "path": "avif/square-lace-with-triangle-star-64.avif",
+            "sha256": "9e715a474b5162ffedbfb553370701ffc7bab938bca1988177cdd48d6020b986",
+            "w": 64
+          },
+          {
+            "bytes": 9106,
+            "h": 93,
+            "path": "avif/square-lace-with-triangle-star-96.avif",
+            "sha256": "88b2827f2c6a3b414c5165b5b4e7603e109030bd52857a25cdeb8ea4bc7f19ee",
+            "w": 96
+          },
+          {
+            "bytes": 15845,
+            "h": 124,
+            "path": "avif/square-lace-with-triangle-star-128.avif",
+            "sha256": "3bc62d98082e04466502729a6945e263573f3f14d99ca45df2a12171c9edd3db",
+            "w": 128
+          },
+          {
+            "bytes": 29182,
+            "h": 186,
+            "path": "avif/square-lace-with-triangle-star-192.avif",
+            "sha256": "f258a57df31ff74736e2b32fcc12421ef63d694abb42cb29655b8ac15e6a1368",
+            "w": 192
+          },
+          {
+            "bytes": 47399,
+            "h": 248,
+            "path": "avif/square-lace-with-triangle-star-256.avif",
+            "sha256": "ae756a53bf27ccd1e04dac9a384735c14169660e913d8f9d3b9c603ca30c99ad",
+            "w": 256
+          },
+          {
+            "bytes": 96239,
+            "h": 373,
+            "path": "avif/square-lace-with-triangle-star-384.avif",
+            "sha256": "019476cce6d192647b3e2a951911cebf8fa350b6566ebc15f6b45e3d6583b6e2",
+            "w": 384
+          },
+          {
+            "bytes": 150537,
+            "h": 497,
+            "path": "avif/square-lace-with-triangle-star-512.avif",
+            "sha256": "4b63286d4f0e778e34e33a7d2b5b7bc9c2a5d93783f67c82dd4ca0bfc935b8a7",
+            "w": 512
+          },
+          {
+            "bytes": 90099,
+            "h": 554,
+            "path": "avif/square-lace-with-triangle-star-571.avif",
+            "sha256": "079f1306a75c12340c05559ba2fe3bd3010d1df9fe8562e65ce500d30bcdeb81",
+            "w": 571
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4748,
+            "h": 62,
+            "path": "webp/square-lace-with-triangle-star-64.webp",
+            "sha256": "28a653f9b40d20608ae8ad597bcd1aea7a8006d1f8b36a5f9692a6010e24631b",
+            "w": 64
+          },
+          {
+            "bytes": 10810,
+            "h": 93,
+            "path": "webp/square-lace-with-triangle-star-96.webp",
+            "sha256": "cefff3ebf5c9c8157d7037e953911911def35cc89fbbcbf4b7e3d34eaa41a93f",
+            "w": 96
+          },
+          {
+            "bytes": 19252,
+            "h": 124,
+            "path": "webp/square-lace-with-triangle-star-128.webp",
+            "sha256": "a43780632cfa940d45ce93bd870a091ab6971dba8a0736ae7f3bed0f5c3d133c",
+            "w": 128
+          },
+          {
+            "bytes": 40910,
+            "h": 186,
+            "path": "webp/square-lace-with-triangle-star-192.webp",
+            "sha256": "f15f288de1d736e4bfdd634f03f3a9b8bd2d97e4a5ee148c0a08824e96d9acc3",
+            "w": 192
+          },
+          {
+            "bytes": 69292,
+            "h": 248,
+            "path": "webp/square-lace-with-triangle-star-256.webp",
+            "sha256": "50b77d8c1271a97a89102d2065ac0333258a33f44014717c8d107ddf0123eb35",
+            "w": 256
+          },
+          {
+            "bytes": 142242,
+            "h": 373,
+            "path": "webp/square-lace-with-triangle-star-384.webp",
+            "sha256": "e49887b687643ea9d84f6d501b53da8bbb3c59a17872c1c7def08f17d2ad8513",
+            "w": 384
+          },
+          {
+            "bytes": 228002,
+            "h": 497,
+            "path": "webp/square-lace-with-triangle-star-512.webp",
+            "sha256": "b73eeb77c65f120cce07270945f14a2fe2727c942d1626106fb3291054d795f0",
+            "w": 512
+          },
+          {
+            "bytes": 142698,
+            "h": 554,
+            "path": "webp/square-lace-with-triangle-star-571.webp",
+            "sha256": "d7307cdd5c2f5a80169c7c47fe01c7abd3155d14df59b8c679b465944af8be2a",
+            "w": 571
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "lace",
+        "star",
+        "roundel",
+        "medallion",
+        "triangle"
+      ],
+      "thumbhash": "azmCBYAFc4W3aWMJiGrPpKL3Cmp7d3K5qA==",
+      "title": "Square lace panel with triangle star and ovals",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Cut from a continuous grid, so the outer cells are incomplete; crop to the central cell for a clean medallion, or keep the whole for a lace-panel texture."
+      ],
+      "width": 571
+    }
+  },
+  "attribution": "Metropolitan Museum of Art 53.600.8(1r)",
+  "builtAt": "2026-10-30T12:50:12.960Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-met-latomus-lace@1.0.0/",
+  "contentHash": "sha256:0d4fa02ee1c7e9d79f6d4d04e5a36fdfc293ab7f3c3d600657d3d271a4b2d534",
+  "inputsHash": "sha256:69c826bcbfb6b55e5722e916745f0894de85f49b681ed37f8665fd89b7ff7851",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from Metropolitan Museum of Art Open Access (CC0) images; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-met-latomus-lace-masters",
+  "package": "@ranx729/ducktape-assets-met-latomus-lace",
+  "period": "1617",
+  "region": "Frankfurt am Main, Germany",
+  "schema": 1,
+  "set": "met-latomus-lace",
+  "style": "Renaissance lace pattern book",
+  "summary": "Eighteen arched and square lace medallions with stars, spokes, petals and roundels from the first page of Sigismundus Latomus's \"Schön newes Modelbuch\" (1617) in the Metropolitan Museum of Art; one page, no groups.",
+  "title": "Latomus, Schön newes Modelbuch lace (1617)",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,2792 @@
+{
+  "assets": {
+    "cat-angular-face": {
+      "categories": [
+        "animals",
+        "hybrids",
+        "fantasy"
+      ],
+      "colors": [
+        "cream",
+        "tan",
+        "brown"
+      ],
+      "composition": "single-figure",
+      "description": "A pale cream shaggy cat-like creature with a narrow, angular human face sits upright and scowls at the viewer, with slanted eyes under a heavy brow, a small red mouth, long whiskers and a forked beard. Tall pointed ears with pink interiors, matted fur speckled with brown, and a thick tail curling up behind it to the right. Painted in the manner of a bestiary miniature, on a transparent background.",
+      "display_width": [
+        160,
+        260
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 14619,
+        "webpTopBytes": 18682
+      },
+      "facing": "viewer",
+      "group": "cats",
+      "height": 222,
+      "master": {
+        "bytes": 71722,
+        "h": 222,
+        "path": "masters/cat-angular-face.webp",
+        "sha256": "b9ce7350fd548a18148a24f6a97d0212d948b02ebeb482360576239a989358c4",
+        "w": 270
+      },
+      "palette": [
+        "#a2846d",
+        "#ba9f89",
+        "#d7c1ad",
+        "#675140",
+        "#876d59"
+      ],
+      "provenance": {
+        "method": "reference-guided-ai-generation"
+      },
+      "quality": "Small master cut from a comparison sheet; the painting softens above its native size and the shaggy outline carries a pale fringe that shows on dark grounds.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2475,
+            "h": 53,
+            "path": "avif/cat-angular-face-64.avif",
+            "sha256": "58ae2b461b19065ce607e6457c541a6384af1a7e6d0d7eccb30e666cbafe851c",
+            "w": 64
+          },
+          {
+            "bytes": 4408,
+            "h": 79,
+            "path": "avif/cat-angular-face-96.avif",
+            "sha256": "762146501456acdec21a6817bd46514314b792386ea78e925b5d9cba497e6997",
+            "w": 96
+          },
+          {
+            "bytes": 6325,
+            "h": 105,
+            "path": "avif/cat-angular-face-128.avif",
+            "sha256": "d34c8b80347328d8d102ec3888434cf2f0bbf7cef05487feecc45817e23ea10e",
+            "w": 128
+          },
+          {
+            "bytes": 11191,
+            "h": 158,
+            "path": "avif/cat-angular-face-192.avif",
+            "sha256": "71207c21d9c7cd157cc4e9d0366bbe1ad3711595a9eb6d1d4eba17faf750fdd1",
+            "w": 192
+          },
+          {
+            "bytes": 16065,
+            "h": 210,
+            "path": "avif/cat-angular-face-256.avif",
+            "sha256": "63deef5cd927b03767ec173bcb26561af633868a5f5fdb0d56313d6d6a848a04",
+            "w": 256
+          },
+          {
+            "bytes": 14619,
+            "h": 222,
+            "path": "avif/cat-angular-face-270.avif",
+            "sha256": "8cdd1f86effb974f4ed3cfa91ec743e605a58ef50439635396e1baba84945be1",
+            "w": 270
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3230,
+            "h": 53,
+            "path": "webp/cat-angular-face-64.webp",
+            "sha256": "0e6d1118329bd58ee6933906060bce083b613bbcd18b6e0ff97da29f2f0b87d5",
+            "w": 64
+          },
+          {
+            "bytes": 5804,
+            "h": 79,
+            "path": "webp/cat-angular-face-96.webp",
+            "sha256": "7bb8b8f2ce25bdc97a25a392c1d28ee353a3c9e38f48d3e381402e01e07f0599",
+            "w": 96
+          },
+          {
+            "bytes": 9024,
+            "h": 105,
+            "path": "webp/cat-angular-face-128.webp",
+            "sha256": "9c52468a9dce4d72c0fd654df801936156b01d295ce33d65fe85cb076484ede4",
+            "w": 128
+          },
+          {
+            "bytes": 15890,
+            "h": 158,
+            "path": "webp/cat-angular-face-192.webp",
+            "sha256": "7dd7af077a600256ddf780fc34192a009cca9baeb83a6c1388ddbcd282cc96ef",
+            "w": 192
+          },
+          {
+            "bytes": 23332,
+            "h": 210,
+            "path": "webp/cat-angular-face-256.webp",
+            "sha256": "5d03ca624fed2b5a1cd0ff57aacc04ef13380e5efdab429dcd17ecf029c6a826",
+            "w": 256
+          },
+          {
+            "bytes": 18682,
+            "h": 222,
+            "path": "webp/cat-angular-face-270.webp",
+            "sha256": "edee809801d88061a19b8fbbd0c93fd6b7a2dee4289abb7b6abc4e376f579aa2",
+            "w": 270
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "cat",
+        "creature",
+        "face",
+        "beard",
+        "fur",
+        "tail",
+        "drollery"
+      ],
+      "thumbhash": "JDmCBIApeSUmjWD4ef53yJ9oQGSbNpd3Aw==",
+      "title": "Scowling pale cat with angular face",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Complete figure; keep proportions and do not display wider than its native size."
+      ],
+      "view": "three-quarter",
+      "width": 270
+    },
+    "cat-brown-bearded": {
+      "categories": [
+        "animals",
+        "hybrids",
+        "fantasy"
+      ],
+      "colors": [
+        "brown",
+        "tan",
+        "cream"
+      ],
+      "composition": "single-figure",
+      "description": "A brown and cream shaggy cat-like creature sits upright and looks at the viewer with a long, mournful human face, heavy-lidded eyes, a red mouth, long whiskers and a full pale beard flowing into a matted cream bib. Small pointed ears, brown speckled flanks and a thick brown tail curling up behind it to the right. Painted in the manner of a bestiary miniature, on a transparent background.",
+      "display_width": [
+        160,
+        300
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 17390,
+        "webpTopBytes": 23066
+      },
+      "facing": "viewer",
+      "group": "cats",
+      "height": 249,
+      "master": {
+        "bytes": 90672,
+        "h": 249,
+        "path": "masters/cat-brown-bearded.webp",
+        "sha256": "36e1c1b9360e1189ed334e90cad997b3c5767572d5a6c9736f4a42f61b96e543",
+        "w": 303
+      },
+      "palette": [
+        "#5e3f28",
+        "#886041",
+        "#a88466",
+        "#e5cfb8",
+        "#caac91"
+      ],
+      "provenance": {
+        "method": "reference-guided-ai-generation"
+      },
+      "quality": "Small master cut from a comparison sheet; the painting softens above its native size and the shaggy outline carries a pale fringe that shows on dark grounds.",
+      "related": [
+        {
+          "asset": "shaggy-bestiary/cat-pale-bearded",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2421,
+            "h": 53,
+            "path": "avif/cat-brown-bearded-64.avif",
+            "sha256": "313debcfb9f9432d3458cf6ce9f71dadd9a23f0fd1aefb93f57699523f3e20b2",
+            "w": 64
+          },
+          {
+            "bytes": 4172,
+            "h": 79,
+            "path": "avif/cat-brown-bearded-96.avif",
+            "sha256": "d0e0b155e5ce8e789d3667764739105d5205d72824c696f9ff101ef0770f1771",
+            "w": 96
+          },
+          {
+            "bytes": 6041,
+            "h": 105,
+            "path": "avif/cat-brown-bearded-128.avif",
+            "sha256": "26ed7712126391017b9b9510841a7392eaa9a81b12fb28a2edd92d60a9c3acb7",
+            "w": 128
+          },
+          {
+            "bytes": 10885,
+            "h": 158,
+            "path": "avif/cat-brown-bearded-192.avif",
+            "sha256": "606ce0fca76f04de9cb70fd573187f38c20920ecbe50442e279b322afa2c6dba",
+            "w": 192
+          },
+          {
+            "bytes": 15687,
+            "h": 210,
+            "path": "avif/cat-brown-bearded-256.avif",
+            "sha256": "1d8210ecad6449ef4cfb998c51fde104355f1e3de09a072676aae365bc3292ac",
+            "w": 256
+          },
+          {
+            "bytes": 17390,
+            "h": 249,
+            "path": "avif/cat-brown-bearded-303.avif",
+            "sha256": "d5d6fac2a3d68983fee92af34d60d7cf09732d9f3fccf51941be2ce51429d238",
+            "w": 303
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3178,
+            "h": 53,
+            "path": "webp/cat-brown-bearded-64.webp",
+            "sha256": "fe1a2fd7e40aba2ed71a86e852140ae8add127474426d95089bbf2067ff7a056",
+            "w": 64
+          },
+          {
+            "bytes": 5676,
+            "h": 79,
+            "path": "webp/cat-brown-bearded-96.webp",
+            "sha256": "fb152c79e0219dfa3e18fe386bd6692263cad3b40c7785b1db672a79cece6d45",
+            "w": 96
+          },
+          {
+            "bytes": 8652,
+            "h": 105,
+            "path": "webp/cat-brown-bearded-128.webp",
+            "sha256": "cdf6c22aead048249c4b2b1506bf73131c6ac1993ed1817ad7b833ca2f23528c",
+            "w": 128
+          },
+          {
+            "bytes": 15642,
+            "h": 158,
+            "path": "webp/cat-brown-bearded-192.webp",
+            "sha256": "6137ae3a4ef62b14ef02251c975396930495460379a0b13ea7d5731183a595ef",
+            "w": 192
+          },
+          {
+            "bytes": 23210,
+            "h": 210,
+            "path": "webp/cat-brown-bearded-256.webp",
+            "sha256": "ba3def7fe72ba009e1679b8ee80857e9956d1c12c91f87430a22095cb1580a9e",
+            "w": 256
+          },
+          {
+            "bytes": 23066,
+            "h": 249,
+            "path": "webp/cat-brown-bearded-303.webp",
+            "sha256": "9665ce953f44e443197d0cad6e64a5557f2e0083fff6ed1fe7365a6ce2be8b00",
+            "w": 303
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "cat",
+        "creature",
+        "face",
+        "beard",
+        "fur",
+        "tail",
+        "drollery"
+      ],
+      "thumbhash": "XkmGBIApj0FpmEeGCaq3kJu5MTCpBYeIAg==",
+      "title": "Mournful brown cat with long beard",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Complete figure; keep proportions and do not display wider than its native size.",
+        "Same pose and beard as cat-pale-bearded in a darker coat."
+      ],
+      "view": "three-quarter",
+      "width": 303
+    },
+    "cat-charcoal-hunched": {
+      "categories": [
+        "animals",
+        "hybrids",
+        "fantasy"
+      ],
+      "colors": [
+        "gray",
+        "brown",
+        "cream",
+        "black"
+      ],
+      "composition": "single-figure",
+      "description": "A rounded charcoal grey cat-like creature crouches with high hunched shoulders and looks at the viewer with a compact human face, wide eyes, a red mouth, a pale moustache and a short pale beard. Small pointed ears, dense dark fur streaked with cream, pale paws and a dark tail curled up behind it to the right. Painted in the manner of a bestiary miniature, on a transparent background.",
+      "display_width": [
+        160,
+        300
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 15578,
+        "webpTopBytes": 20832
+      },
+      "facing": "viewer",
+      "group": "cats",
+      "height": 224,
+      "master": {
+        "bytes": 83762,
+        "h": 224,
+        "path": "masters/cat-charcoal-hunched.webp",
+        "sha256": "9c89c282a1bdc1d4e3f9d6083dcec93925486170813eb5702409cc3df3da0328",
+        "w": 313
+      },
+      "palette": [
+        "#4b3d31",
+        "#765f4f",
+        "#947d6b",
+        "#d8c2ae",
+        "#b39c89"
+      ],
+      "provenance": {
+        "method": "reference-guided-ai-generation"
+      },
+      "quality": "Small master cut from a comparison sheet; the painting softens above its native size and the shaggy outline carries a pale fringe that shows on dark grounds.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2018,
+            "h": 46,
+            "path": "avif/cat-charcoal-hunched-64.avif",
+            "sha256": "09bae12cda02a032060fdb3c27da7425d369f72004eb973cf5c7c8f4082dd939",
+            "w": 64
+          },
+          {
+            "bytes": 3299,
+            "h": 69,
+            "path": "avif/cat-charcoal-hunched-96.avif",
+            "sha256": "aaea8c299468a51556681625996215826aa76018c0498215fdd10872fe79a2b8",
+            "w": 96
+          },
+          {
+            "bytes": 4988,
+            "h": 92,
+            "path": "avif/cat-charcoal-hunched-128.avif",
+            "sha256": "ace56daa534de8f751495eb1d4523b08fa5e4467eb19924777d30c86eb79a02a",
+            "w": 128
+          },
+          {
+            "bytes": 8650,
+            "h": 137,
+            "path": "avif/cat-charcoal-hunched-192.avif",
+            "sha256": "01f812d1ff5d04c30a4ac480a85b7d4cfee4b0a8720837d3e74bd04124e8be45",
+            "w": 192
+          },
+          {
+            "bytes": 12877,
+            "h": 183,
+            "path": "avif/cat-charcoal-hunched-256.avif",
+            "sha256": "7dd0a0514905502723b2ace2be83db06c13dc021b360f3c09b5c7f2852016813",
+            "w": 256
+          },
+          {
+            "bytes": 15578,
+            "h": 224,
+            "path": "avif/cat-charcoal-hunched-313.avif",
+            "sha256": "f95370ee507eb9e504b89d36425321ad25d880dbf94e05a2a5b7603a5734f10a",
+            "w": 313
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2606,
+            "h": 46,
+            "path": "webp/cat-charcoal-hunched-64.webp",
+            "sha256": "3ede03fc4bd2b08894456f78c7e3377477aef1c3d70ba4dc6f2c747f6a47c146",
+            "w": 64
+          },
+          {
+            "bytes": 4624,
+            "h": 69,
+            "path": "webp/cat-charcoal-hunched-96.webp",
+            "sha256": "5fc115af68e4552c3bd7bce04ab9043ba50b89db6dff74557be5335b8bc827ee",
+            "w": 96
+          },
+          {
+            "bytes": 7100,
+            "h": 92,
+            "path": "webp/cat-charcoal-hunched-128.webp",
+            "sha256": "1e770368f3c237f1270bde3cdc6709fef0953a222542e8bd73b46ad8459f827c",
+            "w": 128
+          },
+          {
+            "bytes": 12742,
+            "h": 137,
+            "path": "webp/cat-charcoal-hunched-192.webp",
+            "sha256": "5dedf6a67ee387f03b7cff6ccea94f1c9ec0e506175e20e4236896944a860679",
+            "w": 192
+          },
+          {
+            "bytes": 19534,
+            "h": 183,
+            "path": "webp/cat-charcoal-hunched-256.webp",
+            "sha256": "758e3b36ff6fa83e260f2bbb12ec4d6ad197420ff100ae9ce7acf3fe0c3289d8",
+            "w": 256
+          },
+          {
+            "bytes": 20832,
+            "h": 224,
+            "path": "webp/cat-charcoal-hunched-313.webp",
+            "sha256": "2aa33d5bb7d00a4f40fc5fdd4aa04be099e90e63ce810ecfaa4dcfc093a9984a",
+            "w": 313
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "cat",
+        "creature",
+        "face",
+        "beard",
+        "fur",
+        "tail",
+        "drollery"
+      ],
+      "thumbhash": "lyiGBIAqzyNomEWG+L1334y3UlaJBnd3BA==",
+      "title": "Hunched charcoal cat with moustache",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Complete figure; keep proportions and do not display wider than its native size."
+      ],
+      "view": "three-quarter",
+      "width": 313
+    },
+    "cat-cream-sleepy": {
+      "categories": [
+        "animals",
+        "hybrids",
+        "fantasy"
+      ],
+      "colors": [
+        "cream",
+        "tan",
+        "brown"
+      ],
+      "composition": "single-figure",
+      "description": "A low, round cream cat-like creature lies on its paws with a very broad, sleepy human face turned to the viewer, half-closed eyes, a faint smile and a stubbly chin. Small pointed ears with pink interiors, soft fur speckled with brown and a long tail wrapped around its forepaws at the lower right. Painted in the manner of a bestiary miniature, on a transparent background.",
+      "display_width": [
+        160,
+        300
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 15036,
+        "webpTopBytes": 19966
+      },
+      "facing": "viewer",
+      "group": "cats",
+      "height": 217,
+      "master": {
+        "bytes": 86996,
+        "h": 217,
+        "path": "masters/cat-cream-sleepy.webp",
+        "sha256": "fb96ff394effdfc5ddfc6cf9d9e997c43c8837595d99a0db15826e9d2a19535c",
+        "w": 333
+      },
+      "palette": [
+        "#a6886f",
+        "#d9c1aa",
+        "#c0a187",
+        "#715946",
+        "#8f725b"
+      ],
+      "provenance": {
+        "method": "reference-guided-ai-generation"
+      },
+      "quality": "Small master cut from a comparison sheet; the painting softens above its native size and the shaggy outline carries a pale fringe that shows on dark grounds.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1687,
+            "h": 42,
+            "path": "avif/cat-cream-sleepy-64.avif",
+            "sha256": "9a8dbcc318d253b1ea36063be46c5c3290938a1c9fc02760479fc44465226df5",
+            "w": 64
+          },
+          {
+            "bytes": 2762,
+            "h": 63,
+            "path": "avif/cat-cream-sleepy-96.avif",
+            "sha256": "e2abfb79665c9811e246c2bf29ad8f907966de9ab91a8f78d4767bd858fb6743",
+            "w": 96
+          },
+          {
+            "bytes": 4299,
+            "h": 83,
+            "path": "avif/cat-cream-sleepy-128.avif",
+            "sha256": "017ddd1593980b97ef9115ae3b91fc91b02f90c2c3b2df60423d15dface0995d",
+            "w": 128
+          },
+          {
+            "bytes": 7723,
+            "h": 125,
+            "path": "avif/cat-cream-sleepy-192.avif",
+            "sha256": "ebdd170abe5d5d92cd90dc09d1be6408fa4d75050a3b7a6b56da293960f08a3f",
+            "w": 192
+          },
+          {
+            "bytes": 11651,
+            "h": 167,
+            "path": "avif/cat-cream-sleepy-256.avif",
+            "sha256": "4e19e4c6750c8c909b9a51513cf879e775da6c9f06fa1cf4a4b66135922e2f87",
+            "w": 256
+          },
+          {
+            "bytes": 15036,
+            "h": 217,
+            "path": "avif/cat-cream-sleepy-333.avif",
+            "sha256": "ddef969822a562cdd592a64a84b0404b4484b56154cba04b7b5bff89bb857285",
+            "w": 333
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2064,
+            "h": 42,
+            "path": "webp/cat-cream-sleepy-64.webp",
+            "sha256": "654c18ac126b9e21baed39027f1f7913115ffe03c53ef697b8de5ae964c9b32f",
+            "w": 64
+          },
+          {
+            "bytes": 3738,
+            "h": 63,
+            "path": "webp/cat-cream-sleepy-96.webp",
+            "sha256": "f7dca7a1dd00b0d664440f293fc0b0689b7b610caaadb9e48bf1e901dd2025a3",
+            "w": 96
+          },
+          {
+            "bytes": 5760,
+            "h": 83,
+            "path": "webp/cat-cream-sleepy-128.webp",
+            "sha256": "a42ab58c3ded7caaa83d5f8923e81cd832cd99e941e26eba0f7d17d815fcc067",
+            "w": 128
+          },
+          {
+            "bytes": 10822,
+            "h": 125,
+            "path": "webp/cat-cream-sleepy-192.webp",
+            "sha256": "6c6440d3e6f1af0fb062ca864e63e02f11db757c8f0202a4e1e7c22d738a01d6",
+            "w": 192
+          },
+          {
+            "bytes": 16466,
+            "h": 167,
+            "path": "webp/cat-cream-sleepy-256.webp",
+            "sha256": "5a1edff8346d099e785c54517d351d50c92d289297e74e73c7cb829f763173b2",
+            "w": 256
+          },
+          {
+            "bytes": 19966,
+            "h": 217,
+            "path": "webp/cat-cream-sleepy-333.webp",
+            "sha256": "df5af40f55c7f74491002d179a58465e20dc35e57de20c27abe673fb9cfb047a",
+            "w": 333
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "cat",
+        "creature",
+        "face",
+        "fur",
+        "tail",
+        "drollery"
+      ],
+      "thumbhash": "JTmGA4AqX2Z6SFXkzzv7exlXpGZwl0c=",
+      "title": "Sleepy cream cat lying down",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Complete figure; keep proportions and do not display wider than its native size."
+      ],
+      "view": "three-quarter",
+      "width": 333
+    },
+    "cat-drooping-cheeks": {
+      "categories": [
+        "animals",
+        "hybrids",
+        "fantasy"
+      ],
+      "colors": [
+        "brown",
+        "tan",
+        "cream"
+      ],
+      "composition": "single-figure",
+      "description": "A long, reclining brown and cream cat-like creature rests on its forepaws and looks at the viewer with a sagging human face, drooping cheeks, uneven heavy-lidded eyes, a long closed mouth and pale whiskers parted over a shaggy beard. Small pointed ears, matted brown fur and a thick spotted tail looping up behind it to the right. Painted in the manner of a bestiary miniature, on a transparent background.",
+      "display_width": [
+        180,
+        380
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 17224,
+        "webpTopBytes": 23266
+      },
+      "facing": "viewer",
+      "group": "cats",
+      "height": 205,
+      "master": {
+        "bytes": 94604,
+        "h": 205,
+        "path": "masters/cat-drooping-cheeks.webp",
+        "sha256": "ef58b1d076cd22c585bfcaf6396892da6b351b0fc801a31f4c9024c10236601c",
+        "w": 388
+      },
+      "palette": [
+        "#7e583b",
+        "#5b3d27",
+        "#98755a",
+        "#d7bfa9",
+        "#b8997f"
+      ],
+      "provenance": {
+        "method": "reference-guided-ai-generation"
+      },
+      "quality": "Small master cut from a comparison sheet; the painting softens above its native size and the shaggy outline carries a pale fringe that shows on dark grounds.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1794,
+            "h": 34,
+            "path": "avif/cat-drooping-cheeks-64.avif",
+            "sha256": "08e43b8bf88e5627b569536e2359a1034c0d9d7a738dae662b0af4bd182e9c17",
+            "w": 64
+          },
+          {
+            "bytes": 2873,
+            "h": 51,
+            "path": "avif/cat-drooping-cheeks-96.avif",
+            "sha256": "d92c4ef57cdeda03cb701c6c93b2f2bad6347d8d05ca468f3a5d67adf5a4d0e5",
+            "w": 96
+          },
+          {
+            "bytes": 4150,
+            "h": 68,
+            "path": "avif/cat-drooping-cheeks-128.avif",
+            "sha256": "28887e882d25923a55160db80e7bd809925d02f36fa2c58ea6c32e1d242d2d62",
+            "w": 128
+          },
+          {
+            "bytes": 7302,
+            "h": 101,
+            "path": "avif/cat-drooping-cheeks-192.avif",
+            "sha256": "973d07465eb1624a7949e9eed7bbf1f08fa1124716f748e7fbc97f84274fa672",
+            "w": 192
+          },
+          {
+            "bytes": 11221,
+            "h": 135,
+            "path": "avif/cat-drooping-cheeks-256.avif",
+            "sha256": "c4e4c0024eadf655d405db3fe7d4a1c8d326812be5f3aff94d593ccddf26ea76",
+            "w": 256
+          },
+          {
+            "bytes": 18886,
+            "h": 203,
+            "path": "avif/cat-drooping-cheeks-384.avif",
+            "sha256": "8d982dd43e832374f6ed3b2f5048af42fd45805b03fdae9be8c1346eae536dee",
+            "w": 384
+          },
+          {
+            "bytes": 17224,
+            "h": 205,
+            "path": "avif/cat-drooping-cheeks-388.avif",
+            "sha256": "718e401caea6567e7ee8395b97ff45c881ea13a2daccbf4c971e23560b0ee5c6",
+            "w": 388
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2176,
+            "h": 34,
+            "path": "webp/cat-drooping-cheeks-64.webp",
+            "sha256": "8f0cad8e686d1b78a250430d734fa50c3338599eabfe0cae6da88766f7a0808c",
+            "w": 64
+          },
+          {
+            "bytes": 3968,
+            "h": 51,
+            "path": "webp/cat-drooping-cheeks-96.webp",
+            "sha256": "b8910397c72eacf57a56f402ad492e0ad8442e1648eac2a4aa4922794a76680b",
+            "w": 96
+          },
+          {
+            "bytes": 5950,
+            "h": 68,
+            "path": "webp/cat-drooping-cheeks-128.webp",
+            "sha256": "2eb66afba99c5ef68b869ff8c6858b752d35652947e3c453d754ee17d43ddb22",
+            "w": 128
+          },
+          {
+            "bytes": 10572,
+            "h": 101,
+            "path": "webp/cat-drooping-cheeks-192.webp",
+            "sha256": "2ddd21adfdda3d891b30d78e08e2103b73536a033b36f73d0debbe3828ec5615",
+            "w": 192
+          },
+          {
+            "bytes": 16294,
+            "h": 135,
+            "path": "webp/cat-drooping-cheeks-256.webp",
+            "sha256": "a1b9d255058a5a76d2203b94476e2e17e5ac843e02092ea2c08cad92bfd79c03",
+            "w": 256
+          },
+          {
+            "bytes": 27838,
+            "h": 203,
+            "path": "webp/cat-drooping-cheeks-384.webp",
+            "sha256": "705f8dd9de8bb00ed96b3d6a21444cea0390bb365ec318c59a5f366740d0aecc",
+            "w": 384
+          },
+          {
+            "bytes": 23266,
+            "h": 205,
+            "path": "webp/cat-drooping-cheeks-388.webp",
+            "sha256": "807639d960b89f45277004557b5f3411570e9411ed675f01c2ee9aa558a8c2eb",
+            "w": 388
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "cat",
+        "creature",
+        "face",
+        "beard",
+        "fur",
+        "tail",
+        "drollery"
+      ],
+      "thumbhash": "XDmGA4Apf1VoiFaAuwnJi0kkkVmAiFc=",
+      "title": "Reclining brown cat with drooping cheeks",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Complete figure; keep proportions and do not display wider than its native size.",
+        "The widest piece of the series; suits a low horizontal slot."
+      ],
+      "view": "three-quarter",
+      "width": 388
+    },
+    "cat-pale-bearded": {
+      "categories": [
+        "animals",
+        "hybrids",
+        "fantasy"
+      ],
+      "colors": [
+        "cream",
+        "tan",
+        "brown"
+      ],
+      "composition": "single-figure",
+      "description": "A pale cream cat-like creature sits upright and looks at the viewer with a high-browed human face, dark eyes, a red mouth, long whiskers and a long shaggy beard. Tall pointed ears, matted cream fur lightly speckled with brown, slender legs and a thin tail curling up behind it to the right. Painted in the manner of a bestiary miniature, on a transparent background.",
+      "display_width": [
+        160,
+        260
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 14021,
+        "webpTopBytes": 18752
+      },
+      "facing": "viewer",
+      "group": "cats",
+      "height": 242,
+      "master": {
+        "bytes": 71740,
+        "h": 242,
+        "path": "masters/cat-pale-bearded.webp",
+        "sha256": "af70b08a028558c1eefa99437a733b4fd189efc6bdfdb68ff6ba89e6f8b1a215",
+        "w": 266
+      },
+      "palette": [
+        "#ab8f79",
+        "#c1a993",
+        "#dac6b4",
+        "#927864",
+        "#6e5645"
+      ],
+      "provenance": {
+        "method": "reference-guided-ai-generation"
+      },
+      "quality": "Small master cut from a comparison sheet; the painting softens above its native size and the shaggy outline carries a pale fringe that shows on dark grounds.",
+      "related": [
+        {
+          "asset": "shaggy-bestiary/cat-brown-bearded",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2497,
+            "h": 58,
+            "path": "avif/cat-pale-bearded-64.avif",
+            "sha256": "de873e1fe89e37d472f6b269572f23f3e5e27710080c6151325886d198fd3109",
+            "w": 64
+          },
+          {
+            "bytes": 4232,
+            "h": 87,
+            "path": "avif/cat-pale-bearded-96.avif",
+            "sha256": "1d736e79b3908f3629236a1d9b1ea7b95156851a2b57db00e492f7cd83baeb74",
+            "w": 96
+          },
+          {
+            "bytes": 6163,
+            "h": 116,
+            "path": "avif/cat-pale-bearded-128.avif",
+            "sha256": "7ccc4e5e683229cfba81918e76212f9e1690b0607a36a5b5ee37844c169c090f",
+            "w": 128
+          },
+          {
+            "bytes": 11202,
+            "h": 175,
+            "path": "avif/cat-pale-bearded-192.avif",
+            "sha256": "a0d75d04cc4d08b89f0d7f14c962166b81cac841ad89bfbee92cda56aa01c6c8",
+            "w": 192
+          },
+          {
+            "bytes": 15639,
+            "h": 233,
+            "path": "avif/cat-pale-bearded-256.avif",
+            "sha256": "595bfa6af73c7dde637b92e16170b39f9901ebf97618ec270d1a05866b126050",
+            "w": 256
+          },
+          {
+            "bytes": 14021,
+            "h": 242,
+            "path": "avif/cat-pale-bearded-266.avif",
+            "sha256": "bdb42769b2a9d4208a0108afd452efe648f96edee87165ed04985a264b9227fb",
+            "w": 266
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3198,
+            "h": 58,
+            "path": "webp/cat-pale-bearded-64.webp",
+            "sha256": "ccf505c0055c954a0c6ba9b5fe9fb1114a9c7311e374fbe1b31aad942bc57c3a",
+            "w": 64
+          },
+          {
+            "bytes": 5922,
+            "h": 87,
+            "path": "webp/cat-pale-bearded-96.webp",
+            "sha256": "a540e63cd29e7c4001b4f56d4ba79b93dc79501c9d4cd58ee41c2e443ace3fec",
+            "w": 96
+          },
+          {
+            "bytes": 8788,
+            "h": 116,
+            "path": "webp/cat-pale-bearded-128.webp",
+            "sha256": "34a1f74aa1aaa5aa300570a79e0cacf7add617b36315d088b6c4d3cac70b7860",
+            "w": 128
+          },
+          {
+            "bytes": 15872,
+            "h": 175,
+            "path": "webp/cat-pale-bearded-192.webp",
+            "sha256": "8df7d7f11f567c2ee060acf8467da27ec2be4b36494c093ac6dfce55201b6937",
+            "w": 192
+          },
+          {
+            "bytes": 23280,
+            "h": 233,
+            "path": "webp/cat-pale-bearded-256.webp",
+            "sha256": "27a9f3a8e994fc9d8508b6bd95f9dc721ca2c70b2e8095481ecb8adba67bd78d",
+            "w": 256
+          },
+          {
+            "bytes": 18752,
+            "h": 242,
+            "path": "webp/cat-pale-bearded-266.webp",
+            "sha256": "c2ff0b7b82ba856480970a9b0457e216bdc8ad75732aec1071e1d4986c2b0147",
+            "w": 266
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "cat",
+        "creature",
+        "face",
+        "beard",
+        "fur",
+        "tail",
+        "drollery"
+      ],
+      "thumbhash": "5jiCBYApniJeanD4SOVvc/xYBzO0aYJ4Rw==",
+      "title": "Pale cat with long beard",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Complete figure; keep proportions and do not display wider than its native size.",
+        "Same pose and beard as cat-brown-bearded in a paler coat."
+      ],
+      "view": "three-quarter",
+      "width": 266
+    },
+    "cat-russet-striped": {
+      "categories": [
+        "animals",
+        "hybrids",
+        "fantasy"
+      ],
+      "colors": [
+        "orange",
+        "brown",
+        "cream",
+        "tan"
+      ],
+      "composition": "single-figure",
+      "description": "A russet cat-like creature with dark tabby stripes along its flanks sits on small paws and looks at the viewer with an anxious human face, wide eyes, a red mouth, long whiskers and a full pale beard. Pointed ears, cream chest fur and a bushy striped tail curling up behind it to the right. Painted in the manner of a bestiary miniature, on a transparent background.",
+      "display_width": [
+        160,
+        300
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 15946,
+        "webpTopBytes": 20896
+      },
+      "facing": "viewer",
+      "group": "cats",
+      "height": 243,
+      "master": {
+        "bytes": 86832,
+        "h": 243,
+        "path": "masters/cat-russet-striped.webp",
+        "sha256": "564e7dca87547ddf2daa86635aa797d1edac3f36eeb78ec910efd9c829fb9284",
+        "w": 301
+      },
+      "palette": [
+        "#644027",
+        "#8d6241",
+        "#af835f",
+        "#dac1a9",
+        "#c1a082"
+      ],
+      "provenance": {
+        "method": "reference-guided-ai-generation"
+      },
+      "quality": "Small master cut from a comparison sheet; the painting softens above its native size and the shaggy outline carries a pale fringe that shows on dark grounds.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2435,
+            "h": 52,
+            "path": "avif/cat-russet-striped-64.avif",
+            "sha256": "ffb8dc3d6e6ae6765a018cb699fd82cae51b35cc138fe7af0834f7f6d23a16d2",
+            "w": 64
+          },
+          {
+            "bytes": 3913,
+            "h": 78,
+            "path": "avif/cat-russet-striped-96.avif",
+            "sha256": "95886ab0e7ace96357185e1e5a2de39922ea3eb7526cdf1b9b36834c9d9daffd",
+            "w": 96
+          },
+          {
+            "bytes": 5560,
+            "h": 103,
+            "path": "avif/cat-russet-striped-128.avif",
+            "sha256": "cde4bfbf53f5e87a1e324fd2e1a3b241703e84bb1dd28aed6310236b433836aa",
+            "w": 128
+          },
+          {
+            "bytes": 10258,
+            "h": 155,
+            "path": "avif/cat-russet-striped-192.avif",
+            "sha256": "51a1b1c5cc5d747832c870cb78e23055bf1383df013ba537248e81a495b0caa5",
+            "w": 192
+          },
+          {
+            "bytes": 15075,
+            "h": 207,
+            "path": "avif/cat-russet-striped-256.avif",
+            "sha256": "1d083b3a568a9b151bd9d6c3de6b50a917086fe3f00532e9fae9b4332d32ac74",
+            "w": 256
+          },
+          {
+            "bytes": 15946,
+            "h": 243,
+            "path": "avif/cat-russet-striped-301.avif",
+            "sha256": "b73c4a64cfe3b5175865ecdedcd8ea70699aeda744c6a3d2bc06a4a839fa62e4",
+            "w": 301
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2900,
+            "h": 52,
+            "path": "webp/cat-russet-striped-64.webp",
+            "sha256": "ea7a2d2482481dd5a01b7365f4b4fa5434198ac5ed527d323eb21ed26182870f",
+            "w": 64
+          },
+          {
+            "bytes": 5248,
+            "h": 78,
+            "path": "webp/cat-russet-striped-96.webp",
+            "sha256": "a198b86fae280920e517d91ffc70512c6de8c8b2e5ba8d3467a913b1aedc581b",
+            "w": 96
+          },
+          {
+            "bytes": 7942,
+            "h": 103,
+            "path": "webp/cat-russet-striped-128.webp",
+            "sha256": "968920bd6b8b2f0f483831cbc341251aba83693f5997adc2fc7defe4b35bf39a",
+            "w": 128
+          },
+          {
+            "bytes": 14460,
+            "h": 155,
+            "path": "webp/cat-russet-striped-192.webp",
+            "sha256": "cc1e22a81fea014c1346ba97634d7997db4dec0cf9b7b5df69ebb44d3737a014",
+            "w": 192
+          },
+          {
+            "bytes": 21176,
+            "h": 207,
+            "path": "webp/cat-russet-striped-256.webp",
+            "sha256": "771ff87129b0a5f0f8b1117f054600e67c43a25672a0538a45d3f83cd0744a07",
+            "w": 256
+          },
+          {
+            "bytes": 20896,
+            "h": 243,
+            "path": "webp/cat-russet-striped-301.webp",
+            "sha256": "52eeff8bfd2583283f422f3c5a6ad09d466d45e8dbdc69be0621f1affa6531f5",
+            "w": 301
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "cat",
+        "creature",
+        "face",
+        "beard",
+        "fur",
+        "tail",
+        "drollery"
+      ],
+      "thumbhash": "nkmGBIIpj1FriFaHCHh4kId3MDK8BYhnBQ==",
+      "title": "Anxious russet tabby cat",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Complete figure; keep proportions and do not display wider than its native size."
+      ],
+      "view": "three-quarter",
+      "width": 301
+    },
+    "cat-tall-brow": {
+      "categories": [
+        "animals",
+        "hybrids",
+        "fantasy"
+      ],
+      "colors": [
+        "brown",
+        "orange",
+        "tan",
+        "cream"
+      ],
+      "composition": "single-figure",
+      "description": "A wiry russet cat-like creature sits upright and looks at the viewer with a tall, domed human forehead above a worried face, unequal hooded eyes, a slightly open mouth and a short pale beard. Pointed ears, matted fur speckled with brown, high narrow shoulders and a thin tail curling up behind it to the right. Painted in the manner of a bestiary miniature, on a transparent background.",
+      "display_width": [
+        160,
+        240
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 14148,
+        "webpTopBytes": 18500
+      },
+      "facing": "viewer",
+      "group": "cats",
+      "height": 224,
+      "master": {
+        "bytes": 70332,
+        "h": 224,
+        "path": "masters/cat-tall-brow.webp",
+        "sha256": "6057159d50e2de20f5f0a288cab6d11b432b2a1cee6e6114cb12355764d433df",
+        "w": 248
+      },
+      "palette": [
+        "#5e3e27",
+        "#855b3c",
+        "#a57651",
+        "#d4b79f",
+        "#bb9475"
+      ],
+      "provenance": {
+        "method": "reference-guided-ai-generation"
+      },
+      "quality": "Small master cut from a comparison sheet; the painting softens above its native size and the shaggy outline carries a pale fringe that shows on dark grounds.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2588,
+            "h": 58,
+            "path": "avif/cat-tall-brow-64.avif",
+            "sha256": "c02fb0f8a22e8b4381f0e4b8497f69d2025c7da4b542d88b83710c7f1813cdb9",
+            "w": 64
+          },
+          {
+            "bytes": 4603,
+            "h": 87,
+            "path": "avif/cat-tall-brow-96.avif",
+            "sha256": "80b5283979d69da78221c1766fe838b244be010eda5bcfae92839ce4ceb6ff11",
+            "w": 96
+          },
+          {
+            "bytes": 6394,
+            "h": 116,
+            "path": "avif/cat-tall-brow-128.avif",
+            "sha256": "c282a9d8df90b89d9e0e768555f9c97a29f00b1c7337f36ebbf6a4cef5cba9de",
+            "w": 128
+          },
+          {
+            "bytes": 11610,
+            "h": 173,
+            "path": "avif/cat-tall-brow-192.avif",
+            "sha256": "99c098b7da8677920c4ceb5c707762242f18cae811b93783a0fa801a6c77d387",
+            "w": 192
+          },
+          {
+            "bytes": 14148,
+            "h": 224,
+            "path": "avif/cat-tall-brow-248.avif",
+            "sha256": "437b48448d26ec258476617a9a0e53d76705578272466a030ba868b794f66169",
+            "w": 248
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3348,
+            "h": 58,
+            "path": "webp/cat-tall-brow-64.webp",
+            "sha256": "4ac9a48ed6f5375051a24cc45f9fcb984b116dd193d7ccb512c559fc5f11ff77",
+            "w": 64
+          },
+          {
+            "bytes": 6066,
+            "h": 87,
+            "path": "webp/cat-tall-brow-96.webp",
+            "sha256": "f30860479d7104ece73d587fdf7350b8f4ebf4dfca2773784e0397add048dfde",
+            "w": 96
+          },
+          {
+            "bytes": 9222,
+            "h": 116,
+            "path": "webp/cat-tall-brow-128.webp",
+            "sha256": "f784b336a814b606b1616c4d11986f0a654d4ad00cf71aaf082864cf0722ecc5",
+            "w": 128
+          },
+          {
+            "bytes": 16488,
+            "h": 173,
+            "path": "webp/cat-tall-brow-192.webp",
+            "sha256": "341833ca61d25180f97c84c8184b33470a94c99e61dcbf8984194db8b7e957ed",
+            "w": 192
+          },
+          {
+            "bytes": 18500,
+            "h": 224,
+            "path": "webp/cat-tall-brow-248.webp",
+            "sha256": "f0de1fbb15ec980c747631785b47b1c28f594fe4471ed4361b8914ea0b1e92e7",
+            "w": 248
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "cat",
+        "creature",
+        "face",
+        "beard",
+        "fur",
+        "tail",
+        "drollery"
+      ],
+      "thumbhash": "nEmGBYApr0ONaXllRpCZBplZGjS0anB4Nw==",
+      "title": "Worried russet cat with tall brow",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Complete figure; keep proportions and do not display wider than its native size."
+      ],
+      "view": "three-quarter",
+      "width": 248
+    },
+    "dog-broad-brow": {
+      "categories": [
+        "animals",
+        "hybrids",
+        "fantasy"
+      ],
+      "colors": [
+        "brown",
+        "tan",
+        "cream",
+        "black"
+      ],
+      "composition": "single-figure",
+      "description": "A stocky dark brown dog-like creature with a mane of shaggy curls crouches on its forepaws and looks at the viewer with a broad, square human face, a heavy flat brow, small stern eyes, a wide red mouth and a short pale beard. Dense curly fur over the whole body and a low plumed tail curling up at the right. Painted in the manner of a bestiary miniature, on a transparent background.",
+      "display_width": [
+        160,
+        300
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 15909,
+        "webpTopBytes": 22278
+      },
+      "facing": "viewer",
+      "group": "dogs",
+      "height": 234,
+      "master": {
+        "bytes": 91380,
+        "h": 234,
+        "path": "masters/dog-broad-brow.webp",
+        "sha256": "4b30014148e879fd17bd3781f326777d5059ebfff1c746fbbd7eb48076c932f0",
+        "w": 302
+      },
+      "palette": [
+        "#6e4e35",
+        "#8e684a",
+        "#4b3422",
+        "#cdb198",
+        "#a8866a"
+      ],
+      "provenance": {
+        "method": "reference-guided-ai-generation"
+      },
+      "quality": "Small master cut from a comparison sheet; the painting softens above its native size and the shaggy outline carries a pale fringe that shows on dark grounds.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2111,
+            "h": 50,
+            "path": "avif/dog-broad-brow-64.avif",
+            "sha256": "8a23f12345ae61d6d2ffd6fec34a01398c2632b219c594cabdd95a48c5e19306",
+            "w": 64
+          },
+          {
+            "bytes": 3601,
+            "h": 74,
+            "path": "avif/dog-broad-brow-96.avif",
+            "sha256": "7f92abc05ed745d0dc5e2e42265c3178dced646594da8ea8ef8c59bf829b57c9",
+            "w": 96
+          },
+          {
+            "bytes": 5183,
+            "h": 99,
+            "path": "avif/dog-broad-brow-128.avif",
+            "sha256": "4abd8eb0a01c7c237991847544692dddccb169470979e25a46cd90ce2b22e318",
+            "w": 128
+          },
+          {
+            "bytes": 9933,
+            "h": 149,
+            "path": "avif/dog-broad-brow-192.avif",
+            "sha256": "945328476ae459cdee77851dda550226fff793bdcec7c208f596463b96277d66",
+            "w": 192
+          },
+          {
+            "bytes": 13900,
+            "h": 198,
+            "path": "avif/dog-broad-brow-256.avif",
+            "sha256": "7771e241bd1c286eb085339953e8a4cd0ecb192f4ddabf21fe4f54760872f31b",
+            "w": 256
+          },
+          {
+            "bytes": 15909,
+            "h": 234,
+            "path": "avif/dog-broad-brow-302.avif",
+            "sha256": "b346b84350843853da8747a26e0060b7225cd781142ff4fc527148ec18a16c2b",
+            "w": 302
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2702,
+            "h": 50,
+            "path": "webp/dog-broad-brow-64.webp",
+            "sha256": "f8d2a7ccfdb6d465e7b141355041fa6babd64eb5e3ac4c890bcbac4c96ee27c9",
+            "w": 64
+          },
+          {
+            "bytes": 4920,
+            "h": 74,
+            "path": "webp/dog-broad-brow-96.webp",
+            "sha256": "a845a4f73297ac35fb983101278525c1273d17fc9fc3df176ab66c01b78ad8ae",
+            "w": 96
+          },
+          {
+            "bytes": 7600,
+            "h": 99,
+            "path": "webp/dog-broad-brow-128.webp",
+            "sha256": "fc2322875ceea90725ad3ad82b6c7f65102466b0969a050b73953b08da492185",
+            "w": 128
+          },
+          {
+            "bytes": 13934,
+            "h": 149,
+            "path": "webp/dog-broad-brow-192.webp",
+            "sha256": "977322dfd2c5b513a0d9ee2ae8dd0c597a6bf01a3802b39cf081a023b8d2d9ba",
+            "w": 192
+          },
+          {
+            "bytes": 21300,
+            "h": 198,
+            "path": "webp/dog-broad-brow-256.webp",
+            "sha256": "0e69176f024aef41633f1e4c3660e4b4e14fd6998202681e7286db2f1e5d8d76",
+            "w": 256
+          },
+          {
+            "bytes": 22278,
+            "h": 234,
+            "path": "webp/dog-broad-brow-302.webp",
+            "sha256": "3cb78cced6717a7caa9f4d971a5656704eaf641840fcb9df339ec7edc27813e9",
+            "w": 302
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "dog-like-creature",
+        "creature",
+        "face",
+        "beard",
+        "fur",
+        "tail",
+        "drollery"
+      ],
+      "thumbhash": "GDmGBIAqn0JpeUVXR0918mamUyR7BYh3BQ==",
+      "title": "Stern brown dog with broad brow",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Complete figure; keep proportions and do not display wider than its native size."
+      ],
+      "view": "three-quarter",
+      "width": 302
+    },
+    "dog-charcoal-bearded": {
+      "categories": [
+        "animals",
+        "hybrids",
+        "fantasy"
+      ],
+      "colors": [
+        "gray",
+        "black",
+        "cream",
+        "brown"
+      ],
+      "composition": "single-figure",
+      "description": "A charcoal grey dog-like creature with long cream-streaked fur sits and looks at the viewer with a solemn human face, a high forehead, dark eyes, a red mouth and a broad pale beard falling into a long shaggy bib. Dark flanks, pale paws and a tall feathered tail curling up at the right. Painted in the manner of a bestiary miniature, on a transparent background.",
+      "display_width": [
+        160,
+        280
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 15369,
+        "webpTopBytes": 21708
+      },
+      "facing": "viewer",
+      "group": "dogs",
+      "height": 255,
+      "master": {
+        "bytes": 89990,
+        "h": 255,
+        "path": "masters/dog-charcoal-bearded.webp",
+        "sha256": "bd91c44f8d2e79e928eb28fe5823e35466b264e85c4ccb43a19d9ae312bb7a72",
+        "w": 290
+      },
+      "palette": [
+        "#ceb8a3",
+        "#312923",
+        "#5c4c3f",
+        "#816c5a",
+        "#9e8671"
+      ],
+      "provenance": {
+        "method": "reference-guided-ai-generation"
+      },
+      "quality": "Small master cut from a comparison sheet; the painting softens above its native size and the shaggy outline carries a pale fringe that shows on dark grounds.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2316,
+            "h": 56,
+            "path": "avif/dog-charcoal-bearded-64.avif",
+            "sha256": "42bfa26d789cfd8f013960238c2351a47a3e6a96543cd868e8860fcdf0a7f8f7",
+            "w": 64
+          },
+          {
+            "bytes": 3900,
+            "h": 84,
+            "path": "avif/dog-charcoal-bearded-96.avif",
+            "sha256": "9aad90b79a25b2e478de8d035d6062dec7dda49490558ca07d3f58aff12879e5",
+            "w": 96
+          },
+          {
+            "bytes": 5390,
+            "h": 113,
+            "path": "avif/dog-charcoal-bearded-128.avif",
+            "sha256": "db18f3a08521d90cb53daea251f91ddba76c70cff62277a167de96738f72b860",
+            "w": 128
+          },
+          {
+            "bytes": 9930,
+            "h": 169,
+            "path": "avif/dog-charcoal-bearded-192.avif",
+            "sha256": "69837f58ab88e572b7c776e1bedd20006751b5ae9be5e3ad6592691402e14801",
+            "w": 192
+          },
+          {
+            "bytes": 14398,
+            "h": 225,
+            "path": "avif/dog-charcoal-bearded-256.avif",
+            "sha256": "3679fd5d2a05d0e5d85bcd158dfa3297c0d862ac85cde8759d0b0ef10b402c1e",
+            "w": 256
+          },
+          {
+            "bytes": 15369,
+            "h": 255,
+            "path": "avif/dog-charcoal-bearded-290.avif",
+            "sha256": "ebc5a177411703ec585c18b4f276d6f6c500849a5b052300561155bb14ec702d",
+            "w": 290
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2998,
+            "h": 56,
+            "path": "webp/dog-charcoal-bearded-64.webp",
+            "sha256": "2d59c2ddab0fea2283cca82d58a595a87f99cf186c3e4db4e0e5145b4e2e80b7",
+            "w": 64
+          },
+          {
+            "bytes": 5268,
+            "h": 84,
+            "path": "webp/dog-charcoal-bearded-96.webp",
+            "sha256": "e99dd969efc0261b6ec2320adbb6f49f7d88033e2961ae84624d3300a7985f80",
+            "w": 96
+          },
+          {
+            "bytes": 7978,
+            "h": 113,
+            "path": "webp/dog-charcoal-bearded-128.webp",
+            "sha256": "72db62c8c328450ceef62cc61a58783fb68606fc075a1efeae73ab80b065cc5f",
+            "w": 128
+          },
+          {
+            "bytes": 14800,
+            "h": 169,
+            "path": "webp/dog-charcoal-bearded-192.webp",
+            "sha256": "e69ebd30b9f8b242e51edecdc3d5bfefa679602d7df659b167adabc97b670fc6",
+            "w": 192
+          },
+          {
+            "bytes": 21800,
+            "h": 225,
+            "path": "webp/dog-charcoal-bearded-256.webp",
+            "sha256": "cd81c1af5c72156ee21afda61b8bc9762c6fdd9b194cca8e510d559e68e1ad3f",
+            "w": 256
+          },
+          {
+            "bytes": 21708,
+            "h": 255,
+            "path": "webp/dog-charcoal-bearded-290.webp",
+            "sha256": "c144e4a04a8df5405537c3f0f07855ebf084a5914a627c12265d79577a127346",
+            "w": 290
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "dog-like-creature",
+        "creature",
+        "face",
+        "beard",
+        "fur",
+        "tail",
+        "drollery"
+      ],
+      "thumbhash": "miiGBIAqnyFrmFSX+rpmr2ymVCOKBoh5BQ==",
+      "title": "Solemn charcoal dog with pale beard",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Complete figure; keep proportions and do not display wider than its native size."
+      ],
+      "view": "three-quarter",
+      "width": 290
+    },
+    "dog-crooked-face": {
+      "categories": [
+        "animals",
+        "hybrids",
+        "fantasy"
+      ],
+      "colors": [
+        "gray",
+        "brown",
+        "cream",
+        "black"
+      ],
+      "composition": "single-figure",
+      "description": "A long, dark grey-brown dog-like creature crouches low and looks at the viewer with an asymmetrical human face, uneven eyelids, one brow raised, a crooked red mouth and a sweeping pale moustache over a short beard. Shaggy curled fur along the back, dark paws and a broad low tail trailing out to the right. Painted in the manner of a bestiary miniature, on a transparent background.",
+      "display_width": [
+        180,
+        400
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 18491,
+        "webpTopBytes": 24914
+      },
+      "facing": "viewer",
+      "group": "dogs",
+      "height": 235,
+      "master": {
+        "bytes": 102974,
+        "h": 235,
+        "path": "masters/dog-crooked-face.webp",
+        "sha256": "ea69608be4d535087a7e64a0e5ef742ce2d98083dc92e6efbcf492cc2337540c",
+        "w": 400
+      },
+      "palette": [
+        "#43372d",
+        "#705c4d",
+        "#8c7767",
+        "#a58b76",
+        "#c0aa97"
+      ],
+      "provenance": {
+        "method": "reference-guided-ai-generation"
+      },
+      "quality": "Small master cut from a comparison sheet; the painting softens above its native size and the shaggy outline carries a pale fringe that shows on dark grounds.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1595,
+            "h": 38,
+            "path": "avif/dog-crooked-face-64.avif",
+            "sha256": "8c56215d42f6cf6cb644a70274f12bbcff367d1897a256268ea310a0ace02f68",
+            "w": 64
+          },
+          {
+            "bytes": 2614,
+            "h": 56,
+            "path": "avif/dog-crooked-face-96.avif",
+            "sha256": "b80e88f5f338c2b862bce0d4f0813e1125caff6dd7a8c94dcb155f34f2f2f2ca",
+            "w": 96
+          },
+          {
+            "bytes": 4056,
+            "h": 75,
+            "path": "avif/dog-crooked-face-128.avif",
+            "sha256": "e0d907d1e480efe59cddf881509609e02d7c326cc473265473ac1ddced8f0749",
+            "w": 128
+          },
+          {
+            "bytes": 7134,
+            "h": 113,
+            "path": "avif/dog-crooked-face-192.avif",
+            "sha256": "b4eba458841422a79fcdfb7f939b149c8c3f4b654b0531ed63264e7f6ce0aaa2",
+            "w": 192
+          },
+          {
+            "bytes": 11331,
+            "h": 150,
+            "path": "avif/dog-crooked-face-256.avif",
+            "sha256": "e3d314182dc39ce33a7cd64911e136aeb2c2d28fd6b50804f969df3801d1507b",
+            "w": 256
+          },
+          {
+            "bytes": 19100,
+            "h": 226,
+            "path": "avif/dog-crooked-face-384.avif",
+            "sha256": "c43247b857eb89c9a3ecd50f2ecd2342429ad524d0ff7e904129d32ae278d90f",
+            "w": 384
+          },
+          {
+            "bytes": 18491,
+            "h": 235,
+            "path": "avif/dog-crooked-face-400.avif",
+            "sha256": "ec1a1bee78d1b2e150e90fc431bd159d38f0121732dd12d95d359a6db99a5740",
+            "w": 400
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2174,
+            "h": 38,
+            "path": "webp/dog-crooked-face-64.webp",
+            "sha256": "b3771aaa65891ce220756d76a7900987aa1ddb2abeb6482d53cb6afcd3068fb1",
+            "w": 64
+          },
+          {
+            "bytes": 3802,
+            "h": 56,
+            "path": "webp/dog-crooked-face-96.webp",
+            "sha256": "44f5a5fb8b6eb5283a19bee5bd93f7d085aed3a196f586e1641fffec2ad123c7",
+            "w": 96
+          },
+          {
+            "bytes": 5680,
+            "h": 75,
+            "path": "webp/dog-crooked-face-128.webp",
+            "sha256": "0e3d0c0e56d149f7e0c12383471f50342ad3f890c6cb6d5b2ad7fca9479b7458",
+            "w": 128
+          },
+          {
+            "bytes": 10238,
+            "h": 113,
+            "path": "webp/dog-crooked-face-192.webp",
+            "sha256": "434db607b277e926c4d0430d1cb64eaaa43abee4918c8a6e29363f6b2fcf5e1e",
+            "w": 192
+          },
+          {
+            "bytes": 15986,
+            "h": 150,
+            "path": "webp/dog-crooked-face-256.webp",
+            "sha256": "a610d574c5d1869ed5bcb9bb535956da32d25ab5ad09fd3cffa7d85338ab1be9",
+            "w": 256
+          },
+          {
+            "bytes": 28614,
+            "h": 226,
+            "path": "webp/dog-crooked-face-384.webp",
+            "sha256": "3775d0d2839a45376b5e49da50b7ff9604b26e616125afa0587a86aa76753a92",
+            "w": 384
+          },
+          {
+            "bytes": 24914,
+            "h": 235,
+            "path": "webp/dog-crooked-face-400.webp",
+            "sha256": "b028c9a540ef2ed34d890bf3be97532db8662afad31fb979192c92c8db20eb34",
+            "w": 400
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "dog-like-creature",
+        "creature",
+        "face",
+        "beard",
+        "fur",
+        "tail",
+        "drollery"
+      ],
+      "thumbhash": "lSiGA4Ap+lSGuVb8hrd/eDtUxGhgqUU=",
+      "title": "Crouching dark dog with crooked face",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Complete figure; keep proportions and do not display wider than its native size.",
+        "The widest piece of the series; suits a low horizontal slot."
+      ],
+      "view": "three-quarter",
+      "width": 400
+    },
+    "dog-long-face": {
+      "categories": [
+        "animals",
+        "hybrids",
+        "fantasy"
+      ],
+      "colors": [
+        "cream",
+        "tan",
+        "brown"
+      ],
+      "composition": "single-figure",
+      "description": "A pale cream dog-like creature sits facing left and turns an elongated human face to the left in profile, with a long curved nose, hooded eyes, a red mouth, a pointed beard and long hanging locks in place of ears. Shaggy fur speckled with brown, slender legs and a flowing feathered tail curling up at the right. Painted in the manner of a bestiary miniature, on a transparent background.",
+      "display_width": [
+        160,
+        330
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 16707,
+        "webpTopBytes": 22130
+      },
+      "facing": "left",
+      "group": "dogs",
+      "height": 241,
+      "master": {
+        "bytes": 87622,
+        "h": 241,
+        "path": "masters/dog-long-face.webp",
+        "sha256": "977a453899640df6b45c8719202c91eb8b46397802764102a0eabb86ef831834",
+        "w": 334
+      },
+      "palette": [
+        "#d4bca8",
+        "#9f836c",
+        "#b99c83",
+        "#6b5442",
+        "#896e58"
+      ],
+      "provenance": {
+        "method": "reference-guided-ai-generation"
+      },
+      "quality": "Small master cut from a comparison sheet; the painting softens above its native size and the shaggy outline carries a pale fringe that shows on dark grounds.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2114,
+            "h": 46,
+            "path": "avif/dog-long-face-64.avif",
+            "sha256": "2d0f230e3dc4428d26fc223eff674407d9a92cd66cabc654db0653d7219824e1",
+            "w": 64
+          },
+          {
+            "bytes": 3454,
+            "h": 69,
+            "path": "avif/dog-long-face-96.avif",
+            "sha256": "38f9c2d06d5ab314f2306265b04b4f909c8da291e962d0e94d299508454d555c",
+            "w": 96
+          },
+          {
+            "bytes": 5101,
+            "h": 92,
+            "path": "avif/dog-long-face-128.avif",
+            "sha256": "fbf52a111a39a57ce1acefbbc2e52c18ce33861c1a3a2acce23a235e7a9cdbf0",
+            "w": 128
+          },
+          {
+            "bytes": 9161,
+            "h": 139,
+            "path": "avif/dog-long-face-192.avif",
+            "sha256": "7b6ccc2f0dd91ac6628ba53b317d88c8dd28e661598308cf0e30d2a40b128e50",
+            "w": 192
+          },
+          {
+            "bytes": 13692,
+            "h": 185,
+            "path": "avif/dog-long-face-256.avif",
+            "sha256": "f2af62d7753e478788c4679924ce3c2ac511c6f6caa759602028dd3328387cf7",
+            "w": 256
+          },
+          {
+            "bytes": 16707,
+            "h": 241,
+            "path": "avif/dog-long-face-334.avif",
+            "sha256": "879df92429674c948c3d8b1a00ee5b3527935afda108de02ad33ea39874d79d8",
+            "w": 334
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2588,
+            "h": 46,
+            "path": "webp/dog-long-face-64.webp",
+            "sha256": "cce6c6f62120d74a9c69fb9436e80d72fafe0c0c46ddc1703aa07db3632534ed",
+            "w": 64
+          },
+          {
+            "bytes": 4658,
+            "h": 69,
+            "path": "webp/dog-long-face-96.webp",
+            "sha256": "cb8a903177188984f61c6c89173429d60028197ca67ed3f9559b2811a447c7bc",
+            "w": 96
+          },
+          {
+            "bytes": 6890,
+            "h": 92,
+            "path": "webp/dog-long-face-128.webp",
+            "sha256": "45208491e3e671f25f3b72f2d23cb45c14c5af6a55ebaee53c5b68860797fbf9",
+            "w": 128
+          },
+          {
+            "bytes": 12590,
+            "h": 139,
+            "path": "webp/dog-long-face-192.webp",
+            "sha256": "27988f9b7c7f48e0ae6cfdc660ac1bd88fad04d78b82ccf9f6a65c6ad6994891",
+            "w": 192
+          },
+          {
+            "bytes": 19488,
+            "h": 185,
+            "path": "webp/dog-long-face-256.webp",
+            "sha256": "b03fd59f553e4e444ab302e33d1d8d2477e282f0f7eef8f7d3114128308f9076",
+            "w": 256
+          },
+          {
+            "bytes": 22130,
+            "h": 241,
+            "path": "webp/dog-long-face-334.webp",
+            "sha256": "f45790a71e7e4d1d2df0981d69018ff8fa19c43e0abf84c3ea2e821757b85b7f",
+            "w": 334
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "dog-like-creature",
+        "creature",
+        "face",
+        "beard",
+        "fur",
+        "tail",
+        "drollery"
+      ],
+      "thumbhash": "IzmCBIA4xvqKqbS5yf163K+nZUWrB4d4Bw==",
+      "title": "Pale dog with long face in profile",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Complete figure; keep proportions and do not display wider than its native size.",
+        "The only creature of the series in profile; place it at the right of a row so it looks inward."
+      ],
+      "view": "side",
+      "width": 334
+    },
+    "dog-pale-raised-paw": {
+      "categories": [
+        "animals",
+        "hybrids",
+        "fantasy"
+      ],
+      "colors": [
+        "cream",
+        "tan",
+        "brown"
+      ],
+      "composition": "single-figure",
+      "description": "A pale cream shaggy dog-like creature sits with its left forepaw lifted and looks at the viewer with a worried human face, raised brows, dark eyes, a red mouth and a long curling beard flowing into a matted bib. Long hanging locks, fur speckled with brown and a high plumed tail curling up at the right. Painted in the manner of a bestiary miniature, on a transparent background.",
+      "display_width": [
+        160,
+        250
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 13469,
+        "webpTopBytes": 18688
+      },
+      "facing": "viewer",
+      "group": "dogs",
+      "height": 256,
+      "master": {
+        "bytes": 73240,
+        "h": 256,
+        "path": "masters/dog-pale-raised-paw.webp",
+        "sha256": "876148da0e34b0967a57603c7780598585a07a2c070adf679f5923d0d1393867",
+        "w": 256
+      },
+      "palette": [
+        "#cdb59f",
+        "#a58972",
+        "#8a705b",
+        "#765d49",
+        "#554031"
+      ],
+      "provenance": {
+        "method": "reference-guided-ai-generation"
+      },
+      "quality": "Small master cut from a comparison sheet; the painting softens above its native size and the shaggy outline carries a pale fringe that shows on dark grounds.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2609,
+            "h": 64,
+            "path": "avif/dog-pale-raised-paw-64.avif",
+            "sha256": "e64d0582b7c79c378beca7906deb75ebeddb42d9d00e0bbb4d1b07a7baf7996f",
+            "w": 64
+          },
+          {
+            "bytes": 4313,
+            "h": 96,
+            "path": "avif/dog-pale-raised-paw-96.avif",
+            "sha256": "8a4529bfd4a66ff51af06f6b48c4772227b93dcac6dfcb2e271a3788824b6916",
+            "w": 96
+          },
+          {
+            "bytes": 6315,
+            "h": 128,
+            "path": "avif/dog-pale-raised-paw-128.avif",
+            "sha256": "acf48ff16831471705a9175d34b42e8f03a7d4f82e30765a2438f314fd0de80e",
+            "w": 128
+          },
+          {
+            "bytes": 11160,
+            "h": 192,
+            "path": "avif/dog-pale-raised-paw-192.avif",
+            "sha256": "0ea0e096a7ed9450ecbd1e003a9b703fcfdc70c43140c36b934e1b366fad6864",
+            "w": 192
+          },
+          {
+            "bytes": 13469,
+            "h": 256,
+            "path": "avif/dog-pale-raised-paw-256.avif",
+            "sha256": "559698e1438533bdcc735b14181ec9323110bf3d44ef43c14e259eecb27d01f8",
+            "w": 256
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3256,
+            "h": 64,
+            "path": "webp/dog-pale-raised-paw-64.webp",
+            "sha256": "decb18a4b937321e8e13ec28a054cc8010074d85d6c47d3c419db97781f86f31",
+            "w": 64
+          },
+          {
+            "bytes": 5782,
+            "h": 96,
+            "path": "webp/dog-pale-raised-paw-96.webp",
+            "sha256": "8a27386ab64ceb0a8b9ce283230a0965317c6e7b6e1edda3ff7f8a1dc7a32844",
+            "w": 96
+          },
+          {
+            "bytes": 8810,
+            "h": 128,
+            "path": "webp/dog-pale-raised-paw-128.webp",
+            "sha256": "9dc307943ac2af828c06e3318e4e151ea981b6f947bf4f6ca8df5ba021dfc2f7",
+            "w": 128
+          },
+          {
+            "bytes": 16120,
+            "h": 192,
+            "path": "webp/dog-pale-raised-paw-192.webp",
+            "sha256": "4d4a330af133291d51a8f64657cd555d3d895b9ab447bff23da1f006e2e45a2e",
+            "w": 192
+          },
+          {
+            "bytes": 18688,
+            "h": 256,
+            "path": "webp/dog-pale-raised-paw-256.webp",
+            "sha256": "e3ae72bff41407f05eb4471b6f55bd4a3433df532c32ea54a1d45ba6f8cd1934",
+            "w": 256
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "dog-like-creature",
+        "creature",
+        "face",
+        "beard",
+        "fur",
+        "tail",
+        "drollery"
+      ],
+      "thumbhash": "JTmCBQAot0GemIDYqaqekPk6SkS0aXCoZg==",
+      "title": "Pale dog lifting a forepaw",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Complete figure; keep proportions and do not display wider than its native size."
+      ],
+      "view": "three-quarter",
+      "width": 256
+    },
+    "dog-russet-seated": {
+      "categories": [
+        "animals",
+        "hybrids",
+        "fantasy"
+      ],
+      "colors": [
+        "orange",
+        "brown",
+        "cream",
+        "tan"
+      ],
+      "composition": "single-figure",
+      "description": "A squat russet dog-like creature sits on broad paws and looks at the viewer with a round, worried human face, raised brows, dark eyes, a red mouth and a short pale beard over curls of cream chest fur. A shaggy russet mane, speckled flanks and an upright plumed tail curling up at the right. Painted in the manner of a bestiary miniature, on a transparent background.",
+      "display_width": [
+        160,
+        260
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 14137,
+        "webpTopBytes": 19278
+      },
+      "facing": "viewer",
+      "group": "dogs",
+      "height": 229,
+      "master": {
+        "bytes": 76568,
+        "h": 229,
+        "path": "masters/dog-russet-seated.webp",
+        "sha256": "4998d10664f5361f108d38bb71791832076bea2bbebbdd8ef5f793b5853a24e1",
+        "w": 271
+      },
+      "palette": [
+        "#976847",
+        "#d5b8a0",
+        "#b58968",
+        "#7f5031",
+        "#5e371e"
+      ],
+      "provenance": {
+        "method": "reference-guided-ai-generation"
+      },
+      "quality": "Small master cut from a comparison sheet; the painting softens above its native size and the shaggy outline carries a pale fringe that shows on dark grounds.",
+      "related": [
+        {
+          "asset": "shaggy-bestiary/dog-russet-smiling",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2324,
+            "h": 54,
+            "path": "avif/dog-russet-seated-64.avif",
+            "sha256": "a5b579e796e6824c3027662a3735f0117d314745c900b12827886f6f903ec2cb",
+            "w": 64
+          },
+          {
+            "bytes": 3904,
+            "h": 81,
+            "path": "avif/dog-russet-seated-96.avif",
+            "sha256": "343f03b5004131343ab5e4ff18f329bdb300ea92268cb60848bf5637be02fc21",
+            "w": 96
+          },
+          {
+            "bytes": 5646,
+            "h": 108,
+            "path": "avif/dog-russet-seated-128.avif",
+            "sha256": "5cdc18a7beaef9472c6f620027ea2d6bb56e1d7a7aea3f8fbefa4459e867104f",
+            "w": 128
+          },
+          {
+            "bytes": 10175,
+            "h": 162,
+            "path": "avif/dog-russet-seated-192.avif",
+            "sha256": "117e51c1c87b453f6b0e4e9bc64e535e4523af9e61da5357bc5288caf672b167",
+            "w": 192
+          },
+          {
+            "bytes": 14972,
+            "h": 216,
+            "path": "avif/dog-russet-seated-256.avif",
+            "sha256": "e9a16daffdacf0a80f0744baa6646d907779d6a4fecf79e73b38f883f912cbb7",
+            "w": 256
+          },
+          {
+            "bytes": 14137,
+            "h": 229,
+            "path": "avif/dog-russet-seated-271.avif",
+            "sha256": "91f736999cbab2626ac7d713044c39f295992f115ef607c0a91375288c88ffe4",
+            "w": 271
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2990,
+            "h": 54,
+            "path": "webp/dog-russet-seated-64.webp",
+            "sha256": "0d1b796c6f2ede07bb1e15298b0e9230abfb023da7aab76eeee070ee26ed71f6",
+            "w": 64
+          },
+          {
+            "bytes": 5128,
+            "h": 81,
+            "path": "webp/dog-russet-seated-96.webp",
+            "sha256": "c38e8ed2c4eb0797905066180799f4c2c9a09a2ece928df57045d93102216ab4",
+            "w": 96
+          },
+          {
+            "bytes": 8034,
+            "h": 108,
+            "path": "webp/dog-russet-seated-128.webp",
+            "sha256": "527d2bea024f6ee2d387152900694544bcc7055560b809d788ff71db558e59e9",
+            "w": 128
+          },
+          {
+            "bytes": 14410,
+            "h": 162,
+            "path": "webp/dog-russet-seated-192.webp",
+            "sha256": "7ff6557e4a71fed581eb14c3b65d67aa7907a5a809750d5055c8c5d683128731",
+            "w": 192
+          },
+          {
+            "bytes": 21758,
+            "h": 216,
+            "path": "webp/dog-russet-seated-256.webp",
+            "sha256": "fea69e53e8bf40c2a589bd8ad8aaa40818185b2fdb2dac8832f819f900d2e9db",
+            "w": 256
+          },
+          {
+            "bytes": 19278,
+            "h": 229,
+            "path": "webp/dog-russet-seated-271.webp",
+            "sha256": "bb8582bdfbf6ba7472e7bb197f5c97a44eeaed924b8b86d67576f048004d4965",
+            "w": 271
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "dog-like-creature",
+        "creature",
+        "face",
+        "beard",
+        "fur",
+        "tail",
+        "drollery"
+      ],
+      "thumbhash": "n1mGBIAqfGBqh3WXCXt7oLmnQRR6BXhpBQ==",
+      "title": "Worried russet dog sitting",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Complete figure; keep proportions and do not display wider than its native size.",
+        "Same russet dog as dog-russet-smiling with both paws down and a worried face."
+      ],
+      "view": "three-quarter",
+      "width": 271
+    },
+    "dog-russet-smiling": {
+      "categories": [
+        "animals",
+        "hybrids",
+        "fantasy"
+      ],
+      "colors": [
+        "orange",
+        "brown",
+        "cream"
+      ],
+      "composition": "single-figure",
+      "description": "A round russet dog-like creature with a mane of shaggy curls sits with its left forepaw lifted and looks at the viewer with a cheerful human face, small eyes, a short broad nose, an uneven open smile and a short pale beard. Speckled russet fur and a bushy plumed tail curling up at the right. Painted in the manner of a bestiary miniature, on a transparent background.",
+      "display_width": [
+        160,
+        280
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 15252,
+        "webpTopBytes": 20092
+      },
+      "facing": "viewer",
+      "group": "dogs",
+      "height": 226,
+      "master": {
+        "bytes": 82720,
+        "h": 226,
+        "path": "masters/dog-russet-smiling.webp",
+        "sha256": "0f99bea168a761cfc507264131ea53932f0c60bdc5db3208aaf310b404ebf902",
+        "w": 291
+      },
+      "palette": [
+        "#d0b196",
+        "#986743",
+        "#b48662",
+        "#80502f",
+        "#62391f"
+      ],
+      "provenance": {
+        "method": "reference-guided-ai-generation"
+      },
+      "quality": "Small master cut from a comparison sheet; the painting softens above its native size and the shaggy outline carries a pale fringe that shows on dark grounds.",
+      "related": [
+        {
+          "asset": "shaggy-bestiary/dog-russet-seated",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2231,
+            "h": 50,
+            "path": "avif/dog-russet-smiling-64.avif",
+            "sha256": "e2390db86cf53d1be36ebe519ce9c06af6b2976fab28e7492ef503f9f09595d1",
+            "w": 64
+          },
+          {
+            "bytes": 3884,
+            "h": 75,
+            "path": "avif/dog-russet-smiling-96.avif",
+            "sha256": "e00e01ee1597eec7f6e2c2e5311d8a3d105617fcc96c0fe4a270df03c0360797",
+            "w": 96
+          },
+          {
+            "bytes": 5427,
+            "h": 99,
+            "path": "avif/dog-russet-smiling-128.avif",
+            "sha256": "9d689109ddb3ccc362b5b31f9e59931d1b7fc6370d0a53a25e5ea9654707395a",
+            "w": 128
+          },
+          {
+            "bytes": 10254,
+            "h": 149,
+            "path": "avif/dog-russet-smiling-192.avif",
+            "sha256": "fb235748cc3bf4670f2b691eae0aa8a4010baa42e6a86d9dc829643659b966d1",
+            "w": 192
+          },
+          {
+            "bytes": 14210,
+            "h": 199,
+            "path": "avif/dog-russet-smiling-256.avif",
+            "sha256": "cc883acae0d27feb83801e6c71ac060b6e0cadbed4b869e034e14704dcf4a69f",
+            "w": 256
+          },
+          {
+            "bytes": 15252,
+            "h": 226,
+            "path": "avif/dog-russet-smiling-291.avif",
+            "sha256": "abd06d52b4aaedbe7daf2c65de65e8b5fc336f9e770d25d0657ee6520685b2b2",
+            "w": 291
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2780,
+            "h": 50,
+            "path": "webp/dog-russet-smiling-64.webp",
+            "sha256": "93fd6d26d8dacdafad722df2327bd6abea889a4575d46790e7889c358ccb5189",
+            "w": 64
+          },
+          {
+            "bytes": 4944,
+            "h": 75,
+            "path": "webp/dog-russet-smiling-96.webp",
+            "sha256": "4e97735d53e727a801c07936a1bc27c27f331a27089297a10a6cff2ffb43afda",
+            "w": 96
+          },
+          {
+            "bytes": 7476,
+            "h": 99,
+            "path": "webp/dog-russet-smiling-128.webp",
+            "sha256": "de7d170f1804911d162b03fbe8fc728c7f39cafba50bd8256116c4b0d2d40dcd",
+            "w": 128
+          },
+          {
+            "bytes": 13996,
+            "h": 149,
+            "path": "webp/dog-russet-smiling-192.webp",
+            "sha256": "ffe4edc0f37e7612753af1d9bec704cc64438bfee716e67ebefe657defcf667e",
+            "w": 192
+          },
+          {
+            "bytes": 20816,
+            "h": 199,
+            "path": "webp/dog-russet-smiling-256.webp",
+            "sha256": "0ddaa51778e8c847a26ef9d8f582b47602534c3424246c85cdfc31c54ec7e35a",
+            "w": 256
+          },
+          {
+            "bytes": 20092,
+            "h": 226,
+            "path": "webp/dog-russet-smiling-291.webp",
+            "sha256": "49c0bb412f4047cf0cfa2335cae663c07fb358d577a30105f433c70337460644",
+            "w": 291
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "dog-like-creature",
+        "creature",
+        "face",
+        "beard",
+        "fur",
+        "tail",
+        "drollery"
+      ],
+      "thumbhash": "nlmGBIApnFB6h2VnCHiqgKmZQUSKBXh4Bg==",
+      "title": "Smiling russet dog lifting a forepaw",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Complete figure; keep proportions and do not display wider than its native size.",
+        "Same russet dog as dog-russet-seated with a lifted paw and a smile; the only smiling creature of the series."
+      ],
+      "view": "three-quarter",
+      "width": 291
+    },
+    "dog-umber-crouching": {
+      "categories": [
+        "animals",
+        "hybrids",
+        "fantasy"
+      ],
+      "colors": [
+        "brown",
+        "tan",
+        "cream",
+        "black"
+      ],
+      "composition": "single-figure",
+      "description": "A long, dark umber dog-like creature crouches on short legs and looks at the viewer with a narrow, sorrowful human face, raised brows, downturned eyes, a red mouth and a hanging pale beard. Dense shaggy fur in dark brown and tan over the whole body, dark paws and a large feathered tail curling up at the right. Painted in the manner of a bestiary miniature, on a transparent background.",
+      "display_width": [
+        160,
+        320
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 16837,
+        "webpTopBytes": 23062
+      },
+      "facing": "viewer",
+      "group": "dogs",
+      "height": 225,
+      "master": {
+        "bytes": 95554,
+        "h": 225,
+        "path": "masters/dog-umber-crouching.webp",
+        "sha256": "d9319f2cbf94ec169c45565e7fb90e66abaf06099f3d2844afe174235e8e2efd",
+        "w": 324
+      },
+      "palette": [
+        "#6e523b",
+        "#8c694c",
+        "#4b3626",
+        "#a38368",
+        "#c5a88f"
+      ],
+      "provenance": {
+        "method": "reference-guided-ai-generation"
+      },
+      "quality": "Small master cut from a comparison sheet; the painting softens above its native size and the shaggy outline carries a pale fringe that shows on dark grounds.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2102,
+            "h": 44,
+            "path": "avif/dog-umber-crouching-64.avif",
+            "sha256": "2691afc839713aef42804305acc199acec0ea56d3f7c2d542e2ae15fdfd64237",
+            "w": 64
+          },
+          {
+            "bytes": 3420,
+            "h": 67,
+            "path": "avif/dog-umber-crouching-96.avif",
+            "sha256": "7bfe6e390d45ef116eafc1173254bcf63a2879ef7a69d040c7ba4393421b2b9e",
+            "w": 96
+          },
+          {
+            "bytes": 5214,
+            "h": 89,
+            "path": "avif/dog-umber-crouching-128.avif",
+            "sha256": "c064e07cf6014c5feb7cb24b584f593413cae4635c5b92341502007723774340",
+            "w": 128
+          },
+          {
+            "bytes": 8965,
+            "h": 133,
+            "path": "avif/dog-umber-crouching-192.avif",
+            "sha256": "adf7560a3aa5905c074cc1aa8f135dc360eb043f5e489aba306c1c3dff9fed1e",
+            "w": 192
+          },
+          {
+            "bytes": 13527,
+            "h": 178,
+            "path": "avif/dog-umber-crouching-256.avif",
+            "sha256": "9c9464d56c8f078f7b9aad33f382ea5a5da85b78210fcb0a4e0d2064d6cf7df7",
+            "w": 256
+          },
+          {
+            "bytes": 16837,
+            "h": 225,
+            "path": "avif/dog-umber-crouching-324.avif",
+            "sha256": "c9fd03459746451cbc395e11b7a1ea5bed7e80e1041f258dd54a85917a3a89e3",
+            "w": 324
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2648,
+            "h": 44,
+            "path": "webp/dog-umber-crouching-64.webp",
+            "sha256": "36b5c2882106cfc093c12f38775a2fae3f7374eee98bcea0d99c3d39e60417c4",
+            "w": 64
+          },
+          {
+            "bytes": 4790,
+            "h": 67,
+            "path": "webp/dog-umber-crouching-96.webp",
+            "sha256": "570e5975c1aee1c86c5e20cce4bad9feebb1b13243d874b164b3689bb4f3f79f",
+            "w": 96
+          },
+          {
+            "bytes": 7288,
+            "h": 89,
+            "path": "webp/dog-umber-crouching-128.webp",
+            "sha256": "350a1e955eed29ec6f2fb35f44da9cc838f0b01ac25d0dc50266619770ce590c",
+            "w": 128
+          },
+          {
+            "bytes": 13232,
+            "h": 133,
+            "path": "webp/dog-umber-crouching-192.webp",
+            "sha256": "ce5897c20fc0e861a87aea31e17b7313dfc58badc23839821b7ced9e926144d7",
+            "w": 192
+          },
+          {
+            "bytes": 20162,
+            "h": 178,
+            "path": "webp/dog-umber-crouching-256.webp",
+            "sha256": "922ead3ded2a3ed4641e3704520c66a3030bc174426a7694cd20eeb9b2fafc2a",
+            "w": 256
+          },
+          {
+            "bytes": 23062,
+            "h": 225,
+            "path": "webp/dog-umber-crouching-324.webp",
+            "sha256": "0b2758beacf851618b0072f867c8f891dcda58360421a8e7f7644728179a5fd4",
+            "w": 324
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "dog-like-creature",
+        "creature",
+        "face",
+        "beard",
+        "fur",
+        "tail",
+        "drollery"
+      ],
+      "thumbhash": "GDmGA4A6z4h8m1i7X7f7ZmdGlnpweEc=",
+      "title": "Sorrowful umber dog crouching",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Complete figure; keep proportions and do not display wider than its native size."
+      ],
+      "view": "three-quarter",
+      "width": 324
+    },
+    "rabbit-lutenist": {
+      "categories": [
+        "animals",
+        "music",
+        "botanical"
+      ],
+      "colors": [
+        "brown",
+        "cream",
+        "green",
+        "gold",
+        "red"
+      ],
+      "composition": "single-figure",
+      "description": "A brown rabbit with a cream chest and belly stands upright on its hind legs in profile facing right and plays a red lute with a gilt rose, long ears raised, one paw on the neck and the other over the strings. Beneath it a green ivy vine with gold leaves and tendrils curls across the ground to both sides. Painted in the manner of a manuscript miniature with fine white fur strokes and gold details, on a transparent background.",
+      "display_width": [
+        300,
+        900
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 127952,
+        "webpTopBytes": 279534
+      },
+      "facing": "right",
+      "group": "musicians",
+      "height": 1314,
+      "master": {
+        "bytes": 927744,
+        "h": 1314,
+        "path": "masters/rabbit-lutenist.webp",
+        "sha256": "c22fcb7d9360c6bea3bff7b1e7c6e0f2c276af4f1670b16e64fa1a535d63e1bd",
+        "w": 1197
+      },
+      "palette": [
+        "#766340",
+        "#714a2e",
+        "#a17047",
+        "#b08963",
+        "#c0a68d"
+      ],
+      "quality": "The lowest ivy leaf reaches the bottom canvas edge, and almost every pixel of the figure sits a little below full alpha, which is invisible in use.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2344,
+            "h": 70,
+            "path": "avif/rabbit-lutenist-64.avif",
+            "sha256": "39588d89d850f7a8cbbbbc6aa8e7d4e26ec97a88af58dfb0b44dc98a0dc55ff3",
+            "w": 64
+          },
+          {
+            "bytes": 4399,
+            "h": 105,
+            "path": "avif/rabbit-lutenist-96.avif",
+            "sha256": "3a1cddda28e5199c56494a0c91eaf0c0c6c3126921b94a638068c8b92685f4f2",
+            "w": 96
+          },
+          {
+            "bytes": 5523,
+            "h": 141,
+            "path": "avif/rabbit-lutenist-128.avif",
+            "sha256": "738ef9eaa6b9bef6014d00fb8bb6b4f713f65045cb9263dcb62ee62ea3ea0da2",
+            "w": 128
+          },
+          {
+            "bytes": 9279,
+            "h": 211,
+            "path": "avif/rabbit-lutenist-192.avif",
+            "sha256": "0a46b30a91ecc8ece4b9320f4e6b0918b97cebf9a1becd706f10e4ee76f2f61d",
+            "w": 192
+          },
+          {
+            "bytes": 13455,
+            "h": 281,
+            "path": "avif/rabbit-lutenist-256.avif",
+            "sha256": "4c519933b7e94340c1dd5216ac1910df9bae7f2c3f6006e3e4066c9c3d3cf3d7",
+            "w": 256
+          },
+          {
+            "bytes": 24015,
+            "h": 422,
+            "path": "avif/rabbit-lutenist-384.avif",
+            "sha256": "56322c97921daab03f7d994ee916ce0f85e736de11f7c302944564967be43af2",
+            "w": 384
+          },
+          {
+            "bytes": 36560,
+            "h": 562,
+            "path": "avif/rabbit-lutenist-512.avif",
+            "sha256": "b9bf134a1b4c4810d6ecdb31e9e9004c87167820e590ec2ded38bea71fecd39c",
+            "w": 512
+          },
+          {
+            "bytes": 66595,
+            "h": 843,
+            "path": "avif/rabbit-lutenist-768.avif",
+            "sha256": "cfe2a652a28b138fec39b8a68d609b4ddef408d75d0aafb198c90d0c91ac4c26",
+            "w": 768
+          },
+          {
+            "bytes": 101546,
+            "h": 1124,
+            "path": "avif/rabbit-lutenist-1024.avif",
+            "sha256": "e5acacb751d7f6a3be300a710bdb152133b01d0347c0fddf43b3e081c49494c4",
+            "w": 1024
+          },
+          {
+            "bytes": 127952,
+            "h": 1314,
+            "path": "avif/rabbit-lutenist-1197.avif",
+            "sha256": "a827236d7a94d53af1fa7b476a877d80bfe3e6eef1da80cf74dd6d9184109e47",
+            "w": 1197
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3288,
+            "h": 70,
+            "path": "webp/rabbit-lutenist-64.webp",
+            "sha256": "52e8cab6ca27926c9f8244f305062275a430633e20e8ecce0b8394d173385464",
+            "w": 64
+          },
+          {
+            "bytes": 5674,
+            "h": 105,
+            "path": "webp/rabbit-lutenist-96.webp",
+            "sha256": "3f279d2faf39a7da5c6e59f8432010f1eba898a27c95d1798e40068d9299cfa9",
+            "w": 96
+          },
+          {
+            "bytes": 8692,
+            "h": 141,
+            "path": "webp/rabbit-lutenist-128.webp",
+            "sha256": "966fcf6cb5acf527fe3bf306ade039455fa7c45bd25bc248ad2cb9b38e8bdfc4",
+            "w": 128
+          },
+          {
+            "bytes": 15058,
+            "h": 211,
+            "path": "webp/rabbit-lutenist-192.webp",
+            "sha256": "69bb2e591e68fb5e2370909193f2f5df5c287c7e37bab2a083cb92413045dbd8",
+            "w": 192
+          },
+          {
+            "bytes": 23760,
+            "h": 281,
+            "path": "webp/rabbit-lutenist-256.webp",
+            "sha256": "c84d5a2a877a28acc34a80e55a10d3cc483b526b6903bb974dac61d6e3b31a2a",
+            "w": 256
+          },
+          {
+            "bytes": 43082,
+            "h": 422,
+            "path": "webp/rabbit-lutenist-384.webp",
+            "sha256": "8f033011fe315a52d0bfb10afac27f9a498b0f3e42af97476c98fcdbdea66607",
+            "w": 384
+          },
+          {
+            "bytes": 67880,
+            "h": 562,
+            "path": "webp/rabbit-lutenist-512.webp",
+            "sha256": "7b88613c3740bcd7529fc98898e1c9191aa38a4d2cd6a3b64673a2b103b905fb",
+            "w": 512
+          },
+          {
+            "bytes": 136458,
+            "h": 843,
+            "path": "webp/rabbit-lutenist-768.webp",
+            "sha256": "7dc903563949f114f00ed14e146281150f80db84e7255c615f43be2775f2582c",
+            "w": 768
+          },
+          {
+            "bytes": 218948,
+            "h": 1124,
+            "path": "webp/rabbit-lutenist-1024.webp",
+            "sha256": "a20b4f26d5f17edc7ada7d882f13671b5e80a2180fb1d95b7f99a302cf7a7803",
+            "w": 1024
+          },
+          {
+            "bytes": 279534,
+            "h": 1314,
+            "path": "webp/rabbit-lutenist-1197.webp",
+            "sha256": "9af6c43570e9c08a488829442056ae903a11f7e5380158e8973bce2bf2674bb7",
+            "w": 1197
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "rabbit",
+        "musician",
+        "lute",
+        "ivy",
+        "leaf",
+        "vine"
+      ],
+      "thumbhash": "m0mCBQAkF/2bR3aKZjZ7QMQIBZqEeYWZaA==",
+      "title": "Rabbit playing a lute among ivy",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Complete figure with its ivy ground; keep them together and keep proportions.",
+        "The ivy spreads wider than the rabbit at the base, so the piece sits best on a baseline with free space to both sides."
+      ],
+      "view": "side",
+      "width": 1197
+    }
+  },
+  "attribution": "adrian729",
+  "builtAt": "2026-10-30T13:00:54.013Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-shaggy-bestiary@1.0.0/",
+  "contentHash": "sha256:6356d959be9f782d4a87311f4064cafa014a2dc500590d09ffc3cfe28fb8362b",
+  "inputsHash": "sha256:264e81b79f5d7aca7299f38578116fd0d9d3dc2e396ed65341d509ee97f4897b",
+  "kind": "authored",
+  "license": {
+    "artwork": "CC-BY-4.0",
+    "notes": "Attribution to adrian729."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-shaggy-bestiary-masters",
+  "package": "@ranx729/ducktape-assets-shaggy-bestiary",
+  "period": "medieval, in the style of",
+  "region": "western Europe, in the style of",
+  "schema": 1,
+  "set": "shaggy-bestiary",
+  "style": "bestiary creature painting, AI-generated from style references",
+  "summary": "Shaggy, human-faced cats and dogs and a rabbit lutenist painted in the manner of a medieval bestiary, AI-generated by adrian729 from style references; the companion set of the illuminated acanthus for the Polyhymnia app.",
+  "title": "Shaggy bestiary",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,2668 @@
+{
+  "assets": {
+    "angel-bust-with-musical-instrument": {
+      "attribution": "Walters Art Museum W.186, fol. 291v",
+      "categories": [
+        "humans",
+        "music"
+      ],
+      "colors": [
+        "pink",
+        "blue",
+        "gold",
+        "green",
+        "cream"
+      ],
+      "composition": "single-figure",
+      "description": "Half-length angel turned to the right, in a mauve-pink mantle with gold highlights over a green gown, a pale green veil over the hair and a dark blue, gold-flecked wing behind. The left hand cradles a small rounded gold instrument bound with an orange strap, raised towards the mouth; the right hand is lifted beside it with the fingers at the mouth. The figure ends at the painted hem of the mantle, as much as was visible in the miniature. The background is transparent.",
+      "display_width": [
+        120,
+        360
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 51880,
+        "webpTopBytes": 89476
+      },
+      "facing": "right",
+      "group": "291v",
+      "height": 603,
+      "master": {
+        "bytes": 382428,
+        "h": 603,
+        "path": "masters/angel-bust-with-musical-instrument.webp",
+        "sha256": "e0b73c6bc3767a69512d7774fbb0f02043845a29b7a3b2666a8481227c5b87bb",
+        "w": 519
+      },
+      "palette": [
+        "#936a4b",
+        "#bc9374",
+        "#be894f",
+        "#62755a",
+        "#46493b"
+      ],
+      "provenance": {
+        "date": "Ca. 1460 CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000586_1200.tif",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.186, fol. 291v",
+        "object_title": "St. Margaret emerging from Dragon",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "c1fd00c6e1be1d51bc000cdd4c0a666a358a15d0eb83b2e9d4e19b90e0d18daf"
+      },
+      "quality": "Partly hidden in the source, so the figure stops at the mantle hem with nothing below it.",
+      "related": [
+        {
+          "asset": "walters-w186/angel-bust-with-trumpets-behind",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w186/saint-margaret-emerging-from-winged-dragon",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w186/floral-page-margin-291v",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2695,
+            "h": 74,
+            "path": "avif/angel-bust-with-musical-instrument-64.avif",
+            "sha256": "c06a265d9cdbc7da22dd8d55a720a2d92ad51facbef2019caa72249cd084d0a0",
+            "w": 64
+          },
+          {
+            "bytes": 3966,
+            "h": 112,
+            "path": "avif/angel-bust-with-musical-instrument-96.avif",
+            "sha256": "8c6802e6fad83dfea11d6e2f448140d85bff898fa8cb7a1af77800542e6f9f6d",
+            "w": 96
+          },
+          {
+            "bytes": 5571,
+            "h": 149,
+            "path": "avif/angel-bust-with-musical-instrument-128.avif",
+            "sha256": "85c455eb1c85e7f7afe572485d86b967d81420556e3e38988355e34c7a5422fc",
+            "w": 128
+          },
+          {
+            "bytes": 10400,
+            "h": 223,
+            "path": "avif/angel-bust-with-musical-instrument-192.avif",
+            "sha256": "537a1ac0107fce4339d8bc85a01d74dab5b0ba945d6fb64f3206614b5537eb03",
+            "w": 192
+          },
+          {
+            "bytes": 16117,
+            "h": 297,
+            "path": "avif/angel-bust-with-musical-instrument-256.avif",
+            "sha256": "6702566f7dcc070f2f758f6acaad11380680d8c43bcf3a60bd335a3c7fe245fd",
+            "w": 256
+          },
+          {
+            "bytes": 30939,
+            "h": 446,
+            "path": "avif/angel-bust-with-musical-instrument-384.avif",
+            "sha256": "3743a373f1ced8526c92464921b3ac04758505cd8b025d779f352a94babda300",
+            "w": 384
+          },
+          {
+            "bytes": 49162,
+            "h": 595,
+            "path": "avif/angel-bust-with-musical-instrument-512.avif",
+            "sha256": "0dfd925e21eed61fda821b0d7376b5ae1b072a00947c38d373be1acb9aa68264",
+            "w": 512
+          },
+          {
+            "bytes": 51880,
+            "h": 603,
+            "path": "avif/angel-bust-with-musical-instrument-519.avif",
+            "sha256": "050fe44b5c573a028bd2b87d0c2f044e0eaa2622b3e7312c2ada9f2db9191a53",
+            "w": 519
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3446,
+            "h": 74,
+            "path": "webp/angel-bust-with-musical-instrument-64.webp",
+            "sha256": "0d9c85d698266a332e3a5a4fec5d1d68be56142d7740baa1693e60920b562168",
+            "w": 64
+          },
+          {
+            "bytes": 6248,
+            "h": 112,
+            "path": "webp/angel-bust-with-musical-instrument-96.webp",
+            "sha256": "6bfb2897dd6f6ba635b26fe3dd6c52566683aa4709e6eefd9ffb0704e8b20a9d",
+            "w": 96
+          },
+          {
+            "bytes": 9452,
+            "h": 149,
+            "path": "webp/angel-bust-with-musical-instrument-128.webp",
+            "sha256": "693a4f3163b8daa582b98de8da43bd93c0af1a2932d73fa1fdd588b61f25d6de",
+            "w": 128
+          },
+          {
+            "bytes": 17910,
+            "h": 223,
+            "path": "webp/angel-bust-with-musical-instrument-192.webp",
+            "sha256": "6a4734051780362f7db57386887cc1ebe365cd402611cadd227e11959a69489a",
+            "w": 192
+          },
+          {
+            "bytes": 28038,
+            "h": 297,
+            "path": "webp/angel-bust-with-musical-instrument-256.webp",
+            "sha256": "74f23849b79e905b60e763cb28ddfc7b254cc6b89a9472f656858fafc1a7dcb8",
+            "w": 256
+          },
+          {
+            "bytes": 54628,
+            "h": 446,
+            "path": "webp/angel-bust-with-musical-instrument-384.webp",
+            "sha256": "a69b078495df85e97368b2efee963afae6518f893e6a39f8eeb9c0b5665c6ff6",
+            "w": 384
+          },
+          {
+            "bytes": 87956,
+            "h": 595,
+            "path": "webp/angel-bust-with-musical-instrument-512.webp",
+            "sha256": "4220db7d6109610cf6e192dbf2e18a86255cf950ffbd5a7be011bd1b327c3a33",
+            "w": 512
+          },
+          {
+            "bytes": 89476,
+            "h": 603,
+            "path": "webp/angel-bust-with-musical-instrument-519.webp",
+            "sha256": "17ad7c01e022d62dc2764ba3c59c47d4c007da6bd2e8ad6dc1e7f34c7f445850",
+            "w": 519
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "angel",
+        "musician",
+        "wings",
+        "robe",
+        "veil"
+      ],
+      "thumbhash": "nTmCDAI5W40S/ZBniAuEu2CYgXVlCYh5Bg==",
+      "title": "Angel bust with a small gold instrument",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Only the upper body was visible in the miniature; place it behind another element or at a lower edge so the missing lower half is not noticed."
+      ],
+      "view": "three-quarter",
+      "width": 519
+    },
+    "angel-bust-with-trumpets-behind": {
+      "attribution": "Walters Art Museum W.186, fol. 291v",
+      "categories": [
+        "humans",
+        "music"
+      ],
+      "colors": [
+        "green",
+        "red",
+        "gold",
+        "cream",
+        "pink"
+      ],
+      "composition": "single-figure",
+      "description": "Half-length angel in a green gown with a white collar, blond hair, the head turned slightly to the left and both hands joined in prayer at the chest; pinkish, gold-streaked wings rise behind the shoulders. Two red and gold trumpets stand up behind the figure, one long and leaning to the upper left, the other a short bell at the upper right; neither is held by this figure's hands. The lower body is cut flat across the chest where it was hidden in the source. The background is transparent.",
+      "display_width": [
+        150,
+        500
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 41637,
+        "webpTopBytes": 70076
+      },
+      "facing": "left",
+      "group": "291v",
+      "height": 669,
+      "master": {
+        "bytes": 279952,
+        "h": 669,
+        "path": "masters/angel-bust-with-trumpets-behind.webp",
+        "sha256": "0d40fe601c658d5e12bfe3e6feae0040ea24373a45b0927d78c4ce5476db4766",
+        "w": 805
+      },
+      "palette": [
+        "#406731",
+        "#a95b30",
+        "#897c5a",
+        "#c1bd9c",
+        "#b7915f"
+      ],
+      "provenance": {
+        "date": "Ca. 1460 CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000586_1200.tif",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.186, fol. 291v",
+        "object_title": "St. Margaret emerging from Dragon",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "c1fd00c6e1be1d51bc000cdd4c0a666a358a15d0eb83b2e9d4e19b90e0d18daf"
+      },
+      "quality": "Cut flat across the chest where the figure was hidden in the source.",
+      "related": [
+        {
+          "asset": "walters-w186/angel-bust-with-musical-instrument",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w186/saint-margaret-emerging-from-winged-dragon",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w186/floral-page-margin-291v",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1600,
+            "h": 53,
+            "path": "avif/angel-bust-with-trumpets-behind-64.avif",
+            "sha256": "0bf6481561079ef109166b2358b0c8e54200e4ba85bd0b42880efdeb84e4ee89",
+            "w": 64
+          },
+          {
+            "bytes": 2511,
+            "h": 80,
+            "path": "avif/angel-bust-with-trumpets-behind-96.avif",
+            "sha256": "9c291df4addeae85a4a2f33b9b979ffeb75e29ae23881ec9f41f1431c879f051",
+            "w": 96
+          },
+          {
+            "bytes": 3322,
+            "h": 106,
+            "path": "avif/angel-bust-with-trumpets-behind-128.avif",
+            "sha256": "9ceb56fcbb5c7adea69abb468aa84a2b299b8c170aa4b77ef117d38d09a2b171",
+            "w": 128
+          },
+          {
+            "bytes": 4755,
+            "h": 160,
+            "path": "avif/angel-bust-with-trumpets-behind-192.avif",
+            "sha256": "23a11bf8da21526f46acbc284697abcc988619315412210ab959e663c855632a",
+            "w": 192
+          },
+          {
+            "bytes": 7448,
+            "h": 213,
+            "path": "avif/angel-bust-with-trumpets-behind-256.avif",
+            "sha256": "60d94321860421a8370a6d77c6b26836e1031775e0b3f1e7cff4e877779f73be",
+            "w": 256
+          },
+          {
+            "bytes": 13120,
+            "h": 319,
+            "path": "avif/angel-bust-with-trumpets-behind-384.avif",
+            "sha256": "764634cfd50b933fcc7971946b58bc62fc572b9828b5794a2fdad34c644cd4de",
+            "w": 384
+          },
+          {
+            "bytes": 20303,
+            "h": 426,
+            "path": "avif/angel-bust-with-trumpets-behind-512.avif",
+            "sha256": "531d1985320acc4b739a14cb5358f8935e68e59adf3701915fb52c3049ea7ac7",
+            "w": 512
+          },
+          {
+            "bytes": 37836,
+            "h": 638,
+            "path": "avif/angel-bust-with-trumpets-behind-768.avif",
+            "sha256": "d9ecd142da5aaab59eff3b61e19d8d2a921251d1f99e2d37356892d7e31521d2",
+            "w": 768
+          },
+          {
+            "bytes": 41637,
+            "h": 669,
+            "path": "avif/angel-bust-with-trumpets-behind-805.avif",
+            "sha256": "8a031e7e5d8b56a113354c9d4d8d6c62dcbc169ed12711f98219fd55a1b81420",
+            "w": 805
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1980,
+            "h": 53,
+            "path": "webp/angel-bust-with-trumpets-behind-64.webp",
+            "sha256": "fe770f99217fbdb5f26b3e876255efc86f0a5b37b51f85f4538babe009b9e95e",
+            "w": 64
+          },
+          {
+            "bytes": 3078,
+            "h": 80,
+            "path": "webp/angel-bust-with-trumpets-behind-96.webp",
+            "sha256": "88000a199ac328be1c9cfb4cf71d861f5527831bc4dcf7d675e84edc200bf611",
+            "w": 96
+          },
+          {
+            "bytes": 4646,
+            "h": 106,
+            "path": "webp/angel-bust-with-trumpets-behind-128.webp",
+            "sha256": "fb7b95d096dee15d2272ef2b4a316e181f1a7689f4cc37eb8f699286f830f248",
+            "w": 128
+          },
+          {
+            "bytes": 7844,
+            "h": 160,
+            "path": "webp/angel-bust-with-trumpets-behind-192.webp",
+            "sha256": "87ed3664fb12d90b990eb102fe8266414c2d0a4665577ec06285a6c01787927e",
+            "w": 192
+          },
+          {
+            "bytes": 12240,
+            "h": 213,
+            "path": "webp/angel-bust-with-trumpets-behind-256.webp",
+            "sha256": "ad16166d3811c0674c65da8ee4a24ef3728cbe5ecb401bb85b43615d467c3c17",
+            "w": 256
+          },
+          {
+            "bytes": 21898,
+            "h": 319,
+            "path": "webp/angel-bust-with-trumpets-behind-384.webp",
+            "sha256": "04072b204f5c8e8abf8b0ef56802062f7d35c4c5ee5e3babb152b721a434883f",
+            "w": 384
+          },
+          {
+            "bytes": 34642,
+            "h": 426,
+            "path": "webp/angel-bust-with-trumpets-behind-512.webp",
+            "sha256": "c9f1d3e883390970f7a0481301a2832ef89cb37061c37096c1804e20118076aa",
+            "w": 512
+          },
+          {
+            "bytes": 67198,
+            "h": 638,
+            "path": "webp/angel-bust-with-trumpets-behind-768.webp",
+            "sha256": "51086ec2926fa1b0bb183a477eb3c36aa55c6d086f9bad41dce90113d216271a",
+            "w": 768
+          },
+          {
+            "bytes": 70076,
+            "h": 669,
+            "path": "webp/angel-bust-with-trumpets-behind-805.webp",
+            "sha256": "1d0a30424d819d57db0e794936913df18c02e57757947292e81ad6d72efb6ce6",
+            "w": 805
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "angel",
+        "trumpet",
+        "wings",
+        "robe"
+      ],
+      "thumbhash": "nCmCDIIUZ3p4d5L6lfwHqX4g0AfMU4lbCQ==",
+      "title": "Angel bust with trumpets behind",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Only the upper body survives from the miniature; place it behind another element or at a lower edge so the flat cut is hidden."
+      ],
+      "view": "three-quarter",
+      "width": 805
+    },
+    "floral-page-margin-285r": {
+      "attribution": "Walters Art Museum W.186, fol. 285r",
+      "categories": [
+        "floral",
+        "scrollwork"
+      ],
+      "colors": [
+        "gold",
+        "blue",
+        "green",
+        "orange",
+        "pink"
+      ],
+      "composition": "single-ornament",
+      "description": "Page margin surrounding a transparent text area on all four sides. The wide right column grows from blue and orange acanthus, with a green stem of strawberry plants bearing red fruit and pink flowers; the bottom strip has a grey-blue urn of orange flowers at the centre between blue and pink acanthus; the top and left sides are thin gold ivy sprigs with blue and red buds, broken into short pieces where the text and miniature stood. Gold ivy leaves on fine black stems fill the ground throughout. Transparent inside and outside the border.",
+      "display_width": [
+        400,
+        1000
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 358732,
+        "webpTopBytes": 700144
+      },
+      "facing": "none",
+      "group": "285r",
+      "height": 1445,
+      "master": {
+        "bytes": 1677558,
+        "h": 1445,
+        "path": "masters/floral-page-margin-285r.webp",
+        "sha256": "6c75d89d1d64f0a580b498f44ebfe4ea27bc252d7919410193d01d1adbb65ca3",
+        "w": 1082
+      },
+      "palette": [
+        "#226382",
+        "#a47c6b",
+        "#1b732b",
+        "#c24612",
+        "#7e6329"
+      ],
+      "provenance": {
+        "date": "Ca. 1460 CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000573_1200.tif",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.186, fol. 285r",
+        "object_title": "Two angels serenading St. Adrian, bounded by lute- and vielle-playing angels",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "090645bbb2b84caa5271ad86837e7db23c61e22cecec7d03a2afa39049fd2693"
+      },
+      "quality": "The fine gold ivy and tendrils sit at low alpha with a faint parchment fringe.",
+      "related": [
+        {
+          "asset": "walters-w186/green-robed-angel-with-lute",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w186/right-blue-robed-angel-with-vielle",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w186/saint-adrian-with-lion-sword-and-anvil",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4487,
+            "h": 85,
+            "path": "avif/floral-page-margin-285r-64.avif",
+            "sha256": "b3c8d8d257582aee8ceff46f6a46b8e0f9ce0e01618b54d300601b051984f99a",
+            "w": 64
+          },
+          {
+            "bytes": 9985,
+            "h": 128,
+            "path": "avif/floral-page-margin-285r-96.avif",
+            "sha256": "12fcb20e5e6d430ae7339e9b3f398e4ad10b7b94c52e84e3ed32b2cc7b7ba6e9",
+            "w": 96
+          },
+          {
+            "bytes": 14101,
+            "h": 171,
+            "path": "avif/floral-page-margin-285r-128.avif",
+            "sha256": "34eb9707e03cb7f4a2fa7e4d2c09b7458e7a0db9c5fb2a2aa96791db433bc7b2",
+            "w": 128
+          },
+          {
+            "bytes": 27420,
+            "h": 256,
+            "path": "avif/floral-page-margin-285r-192.avif",
+            "sha256": "94ae73e3ddfc3a3f74113d44c3b8cd70939717b8c8edfcd89396ae071611a328",
+            "w": 192
+          },
+          {
+            "bytes": 44656,
+            "h": 342,
+            "path": "avif/floral-page-margin-285r-256.avif",
+            "sha256": "fec871eebfcebf81790cf34a03d419784da7e5d7328ef16513aea740adeada7d",
+            "w": 256
+          },
+          {
+            "bytes": 80445,
+            "h": 513,
+            "path": "avif/floral-page-margin-285r-384.avif",
+            "sha256": "dbc5e01b1f5db4f2a95970ad815dc1e04c897131527291fb8122504fd46b6008",
+            "w": 384
+          },
+          {
+            "bytes": 125182,
+            "h": 684,
+            "path": "avif/floral-page-margin-285r-512.avif",
+            "sha256": "81d1500b194c2905448c9b72ea78e8d57424d696c4df2281bcca919e1088cc38",
+            "w": 512
+          },
+          {
+            "bytes": 223440,
+            "h": 1026,
+            "path": "avif/floral-page-margin-285r-768.avif",
+            "sha256": "3578dbe70929b3b022e76891048789d9c5a54098ea304b0167e1833030ebf884",
+            "w": 768
+          },
+          {
+            "bytes": 335394,
+            "h": 1368,
+            "path": "avif/floral-page-margin-285r-1024.avif",
+            "sha256": "d97d78b1383827dcba5c7eba2be2e50f3bad35914605ab288b7d63cfcfaac6a8",
+            "w": 1024
+          },
+          {
+            "bytes": 358732,
+            "h": 1445,
+            "path": "avif/floral-page-margin-285r-1082.avif",
+            "sha256": "9843bfdf9c2ca2021955118b1a552cf18f1e0fca7808b9d4f2414bb4759bb247",
+            "w": 1082
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 6098,
+            "h": 85,
+            "path": "webp/floral-page-margin-285r-64.webp",
+            "sha256": "9593e4f83461aa7df0f1177283ab69334ea2c369827e33de477e49f30e7d9eed",
+            "w": 64
+          },
+          {
+            "bytes": 11738,
+            "h": 128,
+            "path": "webp/floral-page-margin-285r-96.webp",
+            "sha256": "2f7a880244eb815cdbda32379cab61b1cbf371de81291834d7bd1ccf69dfee69",
+            "w": 96
+          },
+          {
+            "bytes": 19330,
+            "h": 171,
+            "path": "webp/floral-page-margin-285r-128.webp",
+            "sha256": "6f345fcf864d074404d2fa81cdabdbda0f78ee5e443a79072f360092343b30fe",
+            "w": 128
+          },
+          {
+            "bytes": 37836,
+            "h": 256,
+            "path": "webp/floral-page-margin-285r-192.webp",
+            "sha256": "9af9072978727748cc5add398d0f4b8a7055b4b980e9125991f5638d1d2b0bac",
+            "w": 192
+          },
+          {
+            "bytes": 61830,
+            "h": 342,
+            "path": "webp/floral-page-margin-285r-256.webp",
+            "sha256": "9de959b59bc7fce66ead76ef660970ea5f5dd1aa1b449763fc353913fe36455a",
+            "w": 256
+          },
+          {
+            "bytes": 122884,
+            "h": 513,
+            "path": "webp/floral-page-margin-285r-384.webp",
+            "sha256": "4b82995b751fb5fcf0e7f8d49454cecb8eb3d304d7fb12b2dddd0c4259eb50cd",
+            "w": 384
+          },
+          {
+            "bytes": 203800,
+            "h": 684,
+            "path": "webp/floral-page-margin-285r-512.webp",
+            "sha256": "d9ec74d27d786ae234389351fff7e95d26b704784aae6384a0aad43f0d86b733",
+            "w": 512
+          },
+          {
+            "bytes": 410670,
+            "h": 1026,
+            "path": "webp/floral-page-margin-285r-768.webp",
+            "sha256": "fe53f1c6426e54078a3f702a9ad574739b5d0d2d8d60eb08e1bcc35ee970ddcb",
+            "w": 768
+          },
+          {
+            "bytes": 663938,
+            "h": 1368,
+            "path": "webp/floral-page-margin-285r-1024.webp",
+            "sha256": "e4e983e3455bb9d8e56de18068c1e8019b7a40633d062345984f2ae71da07914",
+            "w": 1024
+          },
+          {
+            "bytes": 700144,
+            "h": 1445,
+            "path": "webp/floral-page-margin-285r-1082.webp",
+            "sha256": "034e6e931ae8ba08ea6cffdc23901846fac36471d66b8e01063ff951e1ef2934",
+            "w": 1082
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "margin",
+        "acanthus",
+        "ivy",
+        "flower",
+        "berry",
+        "leaf",
+        "urn"
+      ],
+      "thumbhash": "1eiBBAATJgiIxnZlg2wLn4MKjRSl2Fp3CA==",
+      "title": "Four-sided floral page margin, fol. 285r",
+      "transparent": true,
+      "type": "frame",
+      "usage_notes": [
+        "The top and left sides are fragmentary sprigs, so the frame reads best with content set in the open interior and the right column and bottom strip kept whole.",
+        "The three figures of fol. 285r stood inside this margin in the source."
+      ],
+      "width": 1082
+    },
+    "floral-page-margin-291v": {
+      "attribution": "Walters Art Museum W.186, fol. 291v",
+      "categories": [
+        "floral",
+        "scrollwork"
+      ],
+      "colors": [
+        "gold",
+        "blue",
+        "green",
+        "orange",
+        "pink"
+      ],
+      "composition": "single-ornament",
+      "description": "Page margin surrounding a transparent text area on all four sides. The wide left column has blue and orange acanthus at the top and bottom, with a green stem of red and pink flowers and blue flowers with yellow centres growing from a grey-blue urn at mid-height; the bottom strip has blue and orange acanthus at both ends with pink flowers between; the top and right sides are thin gold ivy sprigs with blue and red buds, the right side broken into two pieces. Gold ivy leaves on fine black stems fill the ground throughout. Transparent inside and outside the border.",
+      "display_width": [
+        400,
+        1000
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 351173,
+        "webpTopBytes": 679642
+      },
+      "facing": "none",
+      "group": "291v",
+      "height": 1443,
+      "master": {
+        "bytes": 1608398,
+        "h": 1443,
+        "path": "masters/floral-page-margin-291v.webp",
+        "sha256": "0c4f8c7b0d4dc0837e52d21ccca84fb010098efe8a0937575492bb404aa545ec",
+        "w": 1072
+      },
+      "palette": [
+        "#1462af",
+        "#216529",
+        "#8e511c",
+        "#706f6c",
+        "#b67061"
+      ],
+      "provenance": {
+        "date": "Ca. 1460 CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000586_1200.tif",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.186, fol. 291v",
+        "object_title": "St. Margaret emerging from Dragon",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "c1fd00c6e1be1d51bc000cdd4c0a666a358a15d0eb83b2e9d4e19b90e0d18daf"
+      },
+      "quality": "The fine gold ivy and tendrils sit at low alpha with a faint parchment fringe.",
+      "related": [
+        {
+          "asset": "walters-w186/saint-margaret-emerging-from-winged-dragon",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w186/angel-bust-with-musical-instrument",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w186/angel-bust-with-trumpets-behind",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4440,
+            "h": 86,
+            "path": "avif/floral-page-margin-291v-64.avif",
+            "sha256": "38af977cd551fa8e3059975be57359a48b7520c759b39da6b5a24a2233e7ac98",
+            "w": 64
+          },
+          {
+            "bytes": 8537,
+            "h": 129,
+            "path": "avif/floral-page-margin-291v-96.avif",
+            "sha256": "260d15b088edac186a12a02f4a100ba0397469c18085a3a415c30bab7104b8e5",
+            "w": 96
+          },
+          {
+            "bytes": 13815,
+            "h": 172,
+            "path": "avif/floral-page-margin-291v-128.avif",
+            "sha256": "a598d2459761a9f2d1185190b84f8f0acf798fccb2d0bfd2c41054e94b4367bd",
+            "w": 128
+          },
+          {
+            "bytes": 26962,
+            "h": 258,
+            "path": "avif/floral-page-margin-291v-192.avif",
+            "sha256": "f190ff648c4dec557d52ee7fa550a8dc754ed0132760da4965f0be74c212379d",
+            "w": 192
+          },
+          {
+            "bytes": 44332,
+            "h": 345,
+            "path": "avif/floral-page-margin-291v-256.avif",
+            "sha256": "05c2484e0fd411ad18a3a5bd1ec47bb5bc4c7b247a4e8aa1e03390f5d03a443b",
+            "w": 256
+          },
+          {
+            "bytes": 79639,
+            "h": 517,
+            "path": "avif/floral-page-margin-291v-384.avif",
+            "sha256": "5df6d5dbe99b12c29f0b6041ed9b06090da0154d9ad3f8b1de5f4a127b0cbaa6",
+            "w": 384
+          },
+          {
+            "bytes": 122589,
+            "h": 689,
+            "path": "avif/floral-page-margin-291v-512.avif",
+            "sha256": "1d5c7e3a8fb03f5a4b0504d83836afabfe7a55d7975034dc2dc82aceb2c2bb97",
+            "w": 512
+          },
+          {
+            "bytes": 218199,
+            "h": 1034,
+            "path": "avif/floral-page-margin-291v-768.avif",
+            "sha256": "03f842799b2b75d0d12a34162a2ad334b44090c71486c2a0dc381ad5e786ac36",
+            "w": 768
+          },
+          {
+            "bytes": 328831,
+            "h": 1378,
+            "path": "avif/floral-page-margin-291v-1024.avif",
+            "sha256": "0f64ee2b4071fc9cefc7c81d7d50e658684f24ac3a03e55fee4279e767f838b0",
+            "w": 1024
+          },
+          {
+            "bytes": 351173,
+            "h": 1443,
+            "path": "avif/floral-page-margin-291v-1072.avif",
+            "sha256": "6f4741c10bd80e816f997c0cf5c5d74bd499e6e09e0abdcf0d6e2244f06ed597",
+            "w": 1072
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 6196,
+            "h": 86,
+            "path": "webp/floral-page-margin-291v-64.webp",
+            "sha256": "332e993f419f3a7e8b6d5a30b03b5863dc88921714d3aa662905162dd82f6ed3",
+            "w": 64
+          },
+          {
+            "bytes": 11708,
+            "h": 129,
+            "path": "webp/floral-page-margin-291v-96.webp",
+            "sha256": "77c9485c6dd7cc2b32341847e0809eb014925231ff442774c90436149cb064a8",
+            "w": 96
+          },
+          {
+            "bytes": 18918,
+            "h": 172,
+            "path": "webp/floral-page-margin-291v-128.webp",
+            "sha256": "8d70b8e1a39f1d2e309195062ea6556d2ca72b3e212477fb38c47638c0065ebb",
+            "w": 128
+          },
+          {
+            "bytes": 37350,
+            "h": 258,
+            "path": "webp/floral-page-margin-291v-192.webp",
+            "sha256": "9987ba177e2e834d6c6eb652b00f7ea1b25fb060a37b2dff1676916680db704d",
+            "w": 192
+          },
+          {
+            "bytes": 61342,
+            "h": 345,
+            "path": "webp/floral-page-margin-291v-256.webp",
+            "sha256": "9ff991fc2486e4d8aeed080c7ae0393560aa00b1bd8c3ebc0a2deed0ae7aa604",
+            "w": 256
+          },
+          {
+            "bytes": 121668,
+            "h": 517,
+            "path": "webp/floral-page-margin-291v-384.webp",
+            "sha256": "06053cf86c76c27ba55aede1e89a3d30ddaf93955e8f067a9e0ddbfafd32e840",
+            "w": 384
+          },
+          {
+            "bytes": 200394,
+            "h": 689,
+            "path": "webp/floral-page-margin-291v-512.webp",
+            "sha256": "50d631ce3feb66821e9dd12f17aa0a2edbf935a52aadb3032dccf5e7f8fb9075",
+            "w": 512
+          },
+          {
+            "bytes": 403094,
+            "h": 1034,
+            "path": "webp/floral-page-margin-291v-768.webp",
+            "sha256": "bd836a92add1d2461efaff5e8ae590b4f4c369189535708f74181d79a87f2d0e",
+            "w": 768
+          },
+          {
+            "bytes": 651432,
+            "h": 1378,
+            "path": "webp/floral-page-margin-291v-1024.webp",
+            "sha256": "050cee072871cf473009f0c8e70ef1f19e1533ec30bda8e63fefb221c8066274",
+            "w": 1024
+          },
+          {
+            "bytes": 679642,
+            "h": 1443,
+            "path": "webp/floral-page-margin-291v-1072.webp",
+            "sha256": "2d1cd72f853ef42fc42bb8214285268a8b4f6b1f390602b1b4b3805abb36d520",
+            "w": 1072
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "margin",
+        "acanthus",
+        "ivy",
+        "flower",
+        "leaf",
+        "urn"
+      ],
+      "thumbhash": "U+iBBAATfzpUaoZFRvfKlo7/XSOZ1mV2Bw==",
+      "title": "Four-sided floral page margin, fol. 291v",
+      "transparent": true,
+      "type": "frame",
+      "usage_notes": [
+        "The top and right sides are fragmentary sprigs, so the frame reads best with content set in the open interior and the left column and bottom strip kept whole.",
+        "Saint Margaret and the two angel busts of fol. 291v stood inside this margin in the source."
+      ],
+      "width": 1072
+    },
+    "green-robed-angel-with-lute": {
+      "attribution": "Walters Art Museum W.186, fol. 285r",
+      "categories": [
+        "humans",
+        "music"
+      ],
+      "colors": [
+        "green",
+        "gold",
+        "red",
+        "blue",
+        "cream"
+      ],
+      "composition": "single-figure",
+      "description": "Full-length angel standing turned to the right, in a long green gown with gold-lined cuffs and hem and a white collar, blond hair, and tall wings of blue, red and pink rising behind the head. Both hands hold a gold lute across the body, its rounded back towards the viewer and the neck pointing right, the right hand plucking the strings. The background is transparent.",
+      "display_width": [
+        150,
+        450
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 129092,
+        "webpTopBytes": 225670
+      },
+      "facing": "right",
+      "group": "285r",
+      "height": 1728,
+      "master": {
+        "bytes": 1118592,
+        "h": 1728,
+        "path": "masters/green-robed-angel-with-lute.webp",
+        "sha256": "7d5ae750d73ad689286e2e89fdc3889016840a47c83ccc6780873cc53af72367",
+        "w": 542
+      },
+      "palette": [
+        "#1e7333",
+        "#a96d31",
+        "#618556",
+        "#c3a575",
+        "#597532"
+      ],
+      "provenance": {
+        "date": "Ca. 1460 CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000573_1200.tif",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.186, fol. 285r",
+        "object_title": "Two angels serenading St. Adrian, bounded by lute- and vielle-playing angels",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "090645bbb2b84caa5271ad86837e7db23c61e22cecec7d03a2afa39049fd2693"
+      },
+      "related": [
+        {
+          "asset": "walters-w186/right-blue-robed-angel-with-vielle",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w186/saint-adrian-with-lion-sword-and-anvil",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w186/floral-page-margin-285r",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 5042,
+            "h": 204,
+            "path": "avif/green-robed-angel-with-lute-64.avif",
+            "sha256": "fb191dfff82d6b4d36fc930ff9df241d78ea5ae1e90411b1b0666ec29ff9ba0b",
+            "w": 64
+          },
+          {
+            "bytes": 9033,
+            "h": 306,
+            "path": "avif/green-robed-angel-with-lute-96.avif",
+            "sha256": "b9c27afbc6a608e326ec06145f0d6c2d242c1059363d2a1d7573d2ce9a613522",
+            "w": 96
+          },
+          {
+            "bytes": 13042,
+            "h": 408,
+            "path": "avif/green-robed-angel-with-lute-128.avif",
+            "sha256": "a4748f8e1b1c5c76e15d60c59fd38a559f687de56ec851a25c13b9fe7561176d",
+            "w": 128
+          },
+          {
+            "bytes": 25243,
+            "h": 612,
+            "path": "avif/green-robed-angel-with-lute-192.avif",
+            "sha256": "a98aa2013620e12843eddcc0243dc389aff224383e5d87c8b952a544e4d03345",
+            "w": 192
+          },
+          {
+            "bytes": 39862,
+            "h": 816,
+            "path": "avif/green-robed-angel-with-lute-256.avif",
+            "sha256": "3d4af7e7977f2a12659ede2cc1b6be520cfc0d9f0e47e9c98314d5b4ac0d81ce",
+            "w": 256
+          },
+          {
+            "bytes": 76515,
+            "h": 1224,
+            "path": "avif/green-robed-angel-with-lute-384.avif",
+            "sha256": "2827c39a4f9ce48c75d649856c0cfc8fc319eab554dfef649119aed6239ffe79",
+            "w": 384
+          },
+          {
+            "bytes": 117897,
+            "h": 1632,
+            "path": "avif/green-robed-angel-with-lute-512.avif",
+            "sha256": "e5caaaea9cbdd03dd2bfe8ba974206ea982c9273b35fc6da91f3e7598f6f8bc4",
+            "w": 512
+          },
+          {
+            "bytes": 129092,
+            "h": 1728,
+            "path": "avif/green-robed-angel-with-lute-542.avif",
+            "sha256": "f2eb1d2799259ae8ad9ee05175aad6a3a93b9975a1cdb7354ac2eff94ffb7721",
+            "w": 542
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 8650,
+            "h": 204,
+            "path": "webp/green-robed-angel-with-lute-64.webp",
+            "sha256": "c55881df8652b4e1447a01f97a1905019033e66a28bc947cc2a101202bc468a7",
+            "w": 64
+          },
+          {
+            "bytes": 15320,
+            "h": 306,
+            "path": "webp/green-robed-angel-with-lute-96.webp",
+            "sha256": "97a174b08573712be1f8002730bc102831e1c132b4cac1d6ae9e659af261ec8b",
+            "w": 96
+          },
+          {
+            "bytes": 23588,
+            "h": 408,
+            "path": "webp/green-robed-angel-with-lute-128.webp",
+            "sha256": "763a2677e19e0b501c42d8fd25575a40880fbf58dc3460be515e51857b538974",
+            "w": 128
+          },
+          {
+            "bytes": 43990,
+            "h": 612,
+            "path": "webp/green-robed-angel-with-lute-192.webp",
+            "sha256": "5e5761aa211f242e3b6ef7e1e1a0c46110a407bf57b6f241340c403b15dc0171",
+            "w": 192
+          },
+          {
+            "bytes": 69790,
+            "h": 816,
+            "path": "webp/green-robed-angel-with-lute-256.webp",
+            "sha256": "7aeb9d55af7fdd7d55da7e6bd67e1eb170d55390b196f982d68f3f6a71ce7368",
+            "w": 256
+          },
+          {
+            "bytes": 135266,
+            "h": 1224,
+            "path": "webp/green-robed-angel-with-lute-384.webp",
+            "sha256": "4d72bff56d718150dc87c03ff8ea52d9857e8815f7b237b13d18f9f5bb4393b7",
+            "w": 384
+          },
+          {
+            "bytes": 209154,
+            "h": 1632,
+            "path": "webp/green-robed-angel-with-lute-512.webp",
+            "sha256": "cc8eb8b049c245772226819b0707417c64552696402a1e6950f2c27aab0b9348",
+            "w": 512
+          },
+          {
+            "bytes": 225670,
+            "h": 1728,
+            "path": "webp/green-robed-angel-with-lute-542.webp",
+            "sha256": "a3a0ea10d7da818fc4da89c51c881ae83f419cd053a96222947aef64e89afa95",
+            "w": 542
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "angel",
+        "musician",
+        "lute",
+        "wings",
+        "robe"
+      ],
+      "thumbhash": "FrmFCgg5SJ+VFzc6r4j4qQtJd5mWakY=",
+      "title": "Green-robed angel playing a lute",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Pairs with right-blue-robed-angel-with-lute, which faces left at the same scale; in the source they flank Saint Adrian."
+      ],
+      "view": "three-quarter",
+      "width": 542
+    },
+    "left-and-lower-floral-margin": {
+      "attribution": "Walters Art Museum W.186, fol. 276v",
+      "categories": [
+        "floral",
+        "scrollwork"
+      ],
+      "colors": [
+        "gold",
+        "blue",
+        "green",
+        "orange",
+        "pink"
+      ],
+      "composition": "single-ornament",
+      "description": "L-shaped page margin running down the left side and along the bottom. The left column holds blue and orange acanthus at the top and bottom with a green stem of pink carnation-like flowers, a blue flower, red and pink strawberries and green leaves between them; the bottom strip has blue and pink acanthus at both ends with an orange flower and a pink thistle between. Gold ivy leaves and tendrils on fine black stems fill the ground. Transparent, with the open interior above and to the right.",
+      "display_width": [
+        400,
+        1000
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 254859,
+        "webpTopBytes": 589452
+      },
+      "facing": "up",
+      "group": "276v",
+      "height": 1459,
+      "master": {
+        "bytes": 1608590,
+        "h": 1459,
+        "path": "masters/left-and-lower-floral-margin.webp",
+        "sha256": "284d13cce6d253f170903886c58b08dc0d2db9c5f82db92968cd40fe0dc597d4",
+        "w": 1045
+      },
+      "palette": [
+        "#32792f",
+        "#1d649a",
+        "#736035",
+        "#cd5720",
+        "#ca836b"
+      ],
+      "provenance": {
+        "date": "Ca. 1460 CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000556_1200.tif",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.186, fol. 276v",
+        "object_title": "Two angels serenading salvator mundi",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "831db9c73ade72a6ee4075f7252354fad8ca3af67aeefc6674ed4bda9d0c3dd7"
+      },
+      "quality": "The fine gold ivy and tendrils sit at low alpha with a faint parchment fringe.",
+      "related": [
+        {
+          "asset": "walters-w186/salvator-mundi-with-book-and-gold-orb",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w186/left-blue-robed-angel-musician",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w186/right-blue-robed-angel-with-harp",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4124,
+            "h": 89,
+            "path": "avif/left-and-lower-floral-margin-64.avif",
+            "sha256": "41a9c07e0a7cd3d2abad9f400bb494e736575b5eda09c08b777175f6f847318f",
+            "w": 64
+          },
+          {
+            "bytes": 7702,
+            "h": 134,
+            "path": "avif/left-and-lower-floral-margin-96.avif",
+            "sha256": "c6688b270b416254587f9e422e6e10a69b073ddec2152a671ed7b413118ff9dd",
+            "w": 96
+          },
+          {
+            "bytes": 12294,
+            "h": 179,
+            "path": "avif/left-and-lower-floral-margin-128.avif",
+            "sha256": "6a3b10cdc28fd48105734f7557fddf0bf8aec877928a21a04af154b06f7a58bf",
+            "w": 128
+          },
+          {
+            "bytes": 24178,
+            "h": 268,
+            "path": "avif/left-and-lower-floral-margin-192.avif",
+            "sha256": "d0942c48f2bb4bc208cfd349111314049a45b7eb73c326c7c3b34387a3b06cea",
+            "w": 192
+          },
+          {
+            "bytes": 38178,
+            "h": 357,
+            "path": "avif/left-and-lower-floral-margin-256.avif",
+            "sha256": "85e0e37d01480b0b04f02117d81e402d4d0137c3cfa3fc072a99e3312b0bb003",
+            "w": 256
+          },
+          {
+            "bytes": 68809,
+            "h": 536,
+            "path": "avif/left-and-lower-floral-margin-384.avif",
+            "sha256": "3d88e8c582cd2add70371cb602ddcbd2a0074a887206cf7bc55dc79d11c9d38c",
+            "w": 384
+          },
+          {
+            "bytes": 103238,
+            "h": 715,
+            "path": "avif/left-and-lower-floral-margin-512.avif",
+            "sha256": "71058e217b253f11bccb0ec9e0c5047ae71fb53644e5023da0932dd3eae9489b",
+            "w": 512
+          },
+          {
+            "bytes": 175346,
+            "h": 1072,
+            "path": "avif/left-and-lower-floral-margin-768.avif",
+            "sha256": "18f4a314a07ccb253b2536e0439f833d460442c818c94ddc38a7a8f07a6c538c",
+            "w": 768
+          },
+          {
+            "bytes": 257774,
+            "h": 1430,
+            "path": "avif/left-and-lower-floral-margin-1024.avif",
+            "sha256": "d1f484412d880fb5efee137f4eb380a3f7693ee6cd74e03bce90d443296d52a0",
+            "w": 1024
+          },
+          {
+            "bytes": 254859,
+            "h": 1459,
+            "path": "avif/left-and-lower-floral-margin-1045.avif",
+            "sha256": "95d4bf89692cadf328ffdc433393449ff0a5f7d8e69e2a7722af4a3fa4e2e890",
+            "w": 1045
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 5156,
+            "h": 89,
+            "path": "webp/left-and-lower-floral-margin-64.webp",
+            "sha256": "d349fc07e14ac7c4f55df799a19a8bdce05f0d937127b4978fafd1025444ad7b",
+            "w": 64
+          },
+          {
+            "bytes": 10406,
+            "h": 134,
+            "path": "webp/left-and-lower-floral-margin-96.webp",
+            "sha256": "4fa6be7f97ec0c07860795bf64ab2967775bb749e656b10a1755423c2929d494",
+            "w": 96
+          },
+          {
+            "bytes": 17246,
+            "h": 179,
+            "path": "webp/left-and-lower-floral-margin-128.webp",
+            "sha256": "ce965c334c85ae423f2f812c9df8428af11cf60c0488bdd5732a6bc039cd64ea",
+            "w": 128
+          },
+          {
+            "bytes": 35116,
+            "h": 268,
+            "path": "webp/left-and-lower-floral-margin-192.webp",
+            "sha256": "d60c540c0a4ce8f53d3fcf16ea4a9134612e2052eb494e4cc2a8610806cf16dc",
+            "w": 192
+          },
+          {
+            "bytes": 58418,
+            "h": 357,
+            "path": "webp/left-and-lower-floral-margin-256.webp",
+            "sha256": "f0ea763d78799f0754f3827cd823134df27939e3c2fe767e17889c523826505b",
+            "w": 256
+          },
+          {
+            "bytes": 117368,
+            "h": 536,
+            "path": "webp/left-and-lower-floral-margin-384.webp",
+            "sha256": "952979f17e97dd1a3767e5b86a118b7c373a06c1b9d149ac6d1d9b5fe86573a1",
+            "w": 384
+          },
+          {
+            "bytes": 187574,
+            "h": 715,
+            "path": "webp/left-and-lower-floral-margin-512.webp",
+            "sha256": "cce1fdb4ac0b5cca6e675c3dd50a60bfd440d0b24091c7bcd63ea0b0ab29a763",
+            "w": 512
+          },
+          {
+            "bytes": 367000,
+            "h": 1072,
+            "path": "webp/left-and-lower-floral-margin-768.webp",
+            "sha256": "a1b1c357169626699f7675a30c8c3a62db23065e4c66995a619a6fc1c6aca8f4",
+            "w": 768
+          },
+          {
+            "bytes": 591376,
+            "h": 1430,
+            "path": "webp/left-and-lower-floral-margin-1024.webp",
+            "sha256": "87243f99f3b00abbac69d34283afa2f7cf47c7269b14b9b9116da6ec2be489a8",
+            "w": 1024
+          },
+          {
+            "bytes": 589452,
+            "h": 1459,
+            "path": "webp/left-and-lower-floral-margin-1045.webp",
+            "sha256": "c8090e9e50e4dbe279582c27de9c16d20e687d007a5d091b60d22b7eddb1bbc2",
+            "w": 1045
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "margin",
+        "acanthus",
+        "ivy",
+        "flower",
+        "berry",
+        "leaf"
+      ],
+      "thumbhash": "lviBBAAjWwygdWmYAzAZEHH4ejSJt2aWCA==",
+      "title": "Left and lower floral page margin, fol. 276v",
+      "transparent": true,
+      "type": "corner",
+      "usage_notes": [
+        "Use as a bottom-left corner piece with content set in the open area above and to the right of it.",
+        "The Salvator Mundi and the two blue-robed angels of fol. 276v stood inside this margin in the source."
+      ],
+      "width": 1045
+    },
+    "left-blue-robed-angel-musician": {
+      "attribution": "Walters Art Museum W.186, fol. 276v",
+      "categories": [
+        "humans",
+        "music"
+      ],
+      "colors": [
+        "blue",
+        "red",
+        "gold",
+        "cream"
+      ],
+      "composition": "single-figure",
+      "description": "Full-length angel turned to the right, kneeling or floating with the robe gathered below, in a long blue gown with gold-dotted collar, cuffs and hem over a white undercollar, blond hair, and one tall wing of red, blue and gold rising high to the left. Both hands hold a straight cream and gold pipe to the mouth, pointing down to the right. The background is transparent.",
+      "display_width": [
+        150,
+        450
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 121381,
+        "webpTopBytes": 222202
+      },
+      "facing": "right",
+      "group": "276v",
+      "height": 2098,
+      "master": {
+        "bytes": 999224,
+        "h": 2049,
+        "path": "masters/left-blue-robed-angel-musician.webp",
+        "sha256": "e3307797d7a4df19ecd196c3dd231cc10ab63a0ae735aae631a214deba6b33b9",
+        "w": 589
+      },
+      "palette": [
+        "#0e386a",
+        "#973a28",
+        "#a07e53",
+        "#9f9987",
+        "#3d4b58"
+      ],
+      "provenance": {
+        "date": "Ca. 1460 CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000556_1200.tif",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.186, fol. 276v",
+        "object_title": "Two angels serenading salvator mundi",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "831db9c73ade72a6ee4075f7252354fad8ca3af67aeefc6674ed4bda9d0c3dd7"
+      },
+      "related": [
+        {
+          "asset": "walters-w186/right-blue-robed-angel-with-harp",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w186/salvator-mundi-with-book-and-gold-orb",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w186/left-and-lower-floral-margin",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4447,
+            "h": 223,
+            "path": "avif/left-blue-robed-angel-musician-64.avif",
+            "sha256": "b8345e8bb1fd244a15427a4092618f3ef7f3f81ff09b287f5a8102beee910f8f",
+            "w": 64
+          },
+          {
+            "bytes": 7693,
+            "h": 334,
+            "path": "avif/left-blue-robed-angel-musician-96.avif",
+            "sha256": "0e48a5562b3d105d0b0e4018cb369b6c46a6bdf4dd71f468199d8a37525d4234",
+            "w": 96
+          },
+          {
+            "bytes": 10726,
+            "h": 445,
+            "path": "avif/left-blue-robed-angel-musician-128.avif",
+            "sha256": "7327c931f73a3fa6a8dbbc047922465af356b066e2265cbf27f1f8ff0188258e",
+            "w": 128
+          },
+          {
+            "bytes": 20840,
+            "h": 668,
+            "path": "avif/left-blue-robed-angel-musician-192.avif",
+            "sha256": "0b9bb293e295c9cb8ee953d3dd42a255e438221eff5696240dc33f820f747e49",
+            "w": 192
+          },
+          {
+            "bytes": 32219,
+            "h": 891,
+            "path": "avif/left-blue-robed-angel-musician-256.avif",
+            "sha256": "6e29ff12585e6a0639774ad2ee468bf87bdfca1f09945ad3d33db8ac3a906eda",
+            "w": 256
+          },
+          {
+            "bytes": 63200,
+            "h": 1336,
+            "path": "avif/left-blue-robed-angel-musician-384.avif",
+            "sha256": "8814267bebb85273b0feab195f147c9b87f9ee5dd45cfb0d4e839c2dcf134644",
+            "w": 384
+          },
+          {
+            "bytes": 96106,
+            "h": 1781,
+            "path": "avif/left-blue-robed-angel-musician-512.avif",
+            "sha256": "1da048cad84f0624e60e5b487946eb3123c3ba84f23ede38493ccf31860b3152",
+            "w": 512
+          },
+          {
+            "bytes": 121381,
+            "h": 2098,
+            "path": "avif/left-blue-robed-angel-musician-603.avif",
+            "sha256": "7d46aa8275e0b9820a74a93883206149f582f875c4e465299f477cc9b6fc943e",
+            "w": 603
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 6968,
+            "h": 223,
+            "path": "webp/left-blue-robed-angel-musician-64.webp",
+            "sha256": "5b6856326fffcdf7a6d380c56316076a9a5c0ae5f9fce3d4886edba85f7a2738",
+            "w": 64
+          },
+          {
+            "bytes": 12766,
+            "h": 334,
+            "path": "webp/left-blue-robed-angel-musician-96.webp",
+            "sha256": "b3d15517ee56cc7b31031bbea8bf148987467601743f7f00423d5855592b438f",
+            "w": 96
+          },
+          {
+            "bytes": 18690,
+            "h": 445,
+            "path": "webp/left-blue-robed-angel-musician-128.webp",
+            "sha256": "7f2e9930312d1e9b7955c40b50c524bf4e4de37184ad02c73707cd84b5b21631",
+            "w": 128
+          },
+          {
+            "bytes": 35362,
+            "h": 668,
+            "path": "webp/left-blue-robed-angel-musician-192.webp",
+            "sha256": "7c45758e2b96d0996400f2e26f94b75a9e3dee630f7e343e0f751fa2bfa1ed83",
+            "w": 192
+          },
+          {
+            "bytes": 56634,
+            "h": 891,
+            "path": "webp/left-blue-robed-angel-musician-256.webp",
+            "sha256": "d2632f49eb52214e4f7809b87797f72d13a986ac7f72f23795cb6fc9509f7860",
+            "w": 256
+          },
+          {
+            "bytes": 108286,
+            "h": 1336,
+            "path": "webp/left-blue-robed-angel-musician-384.webp",
+            "sha256": "2b8f5f19665d3dfad7434112cae5fd6e56e3772329874402ebc55f539e40f6d9",
+            "w": 384
+          },
+          {
+            "bytes": 170826,
+            "h": 1781,
+            "path": "webp/left-blue-robed-angel-musician-512.webp",
+            "sha256": "a333001aa3d5ddd2acab03e44d242362f1dca921432dfac7382350113395b0e1",
+            "w": 512
+          },
+          {
+            "bytes": 222202,
+            "h": 2098,
+            "path": "webp/left-blue-robed-angel-musician-603.webp",
+            "sha256": "e856d674354683ec138da6ffc93f6a73454dccbc0394a5fd003b78f0117e60fc",
+            "w": 603
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "angel",
+        "musician",
+        "pipe",
+        "wind-instrument",
+        "wings",
+        "robe"
+      ],
+      "thumbhash": "VPeFGQQneK8FN/aHr3T4WQpXcXqTe3U=",
+      "title": "Blue-robed angel playing a pipe",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Pairs with right-blue-robed-angel-with-harp, which faces left at the same scale; in the source they flank the Salvator Mundi."
+      ],
+      "view": "three-quarter",
+      "width": 603
+    },
+    "right-blue-robed-angel-with-harp": {
+      "attribution": "Walters Art Museum W.186, fol. 276v",
+      "categories": [
+        "humans",
+        "music"
+      ],
+      "colors": [
+        "blue",
+        "gold",
+        "green",
+        "red",
+        "cream"
+      ],
+      "composition": "single-figure",
+      "description": "Full-length angel turned to the left, in a long blue gown with gold-dotted collar and hem over a white undercollar, blond hair, and two tall narrow wings of grey-green, blue, red and gold rising high above the head. A gold harp with a curved neck stands in front of the figure and is plucked with both hands. The robe gathers below as if kneeling or floating. The background is transparent.",
+      "display_width": [
+        150,
+        450
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 148881,
+        "webpTopBytes": 283482
+      },
+      "facing": "left",
+      "group": "276v",
+      "height": 2125,
+      "master": {
+        "bytes": 1229338,
+        "h": 2049,
+        "path": "masters/right-blue-robed-angel-with-harp.webp",
+        "sha256": "e7673819e5e26b9629c91f193a192b112f8a71274bed420610ef2c04bab0948a",
+        "w": 673
+      },
+      "palette": [
+        "#1c4267",
+        "#92784b",
+        "#7d806f",
+        "#beb499",
+        "#c3a66b"
+      ],
+      "provenance": {
+        "date": "Ca. 1460 CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000556_1200.tif",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.186, fol. 276v",
+        "object_title": "Two angels serenading salvator mundi",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "831db9c73ade72a6ee4075f7252354fad8ca3af67aeefc6674ed4bda9d0c3dd7"
+      },
+      "related": [
+        {
+          "asset": "walters-w186/left-blue-robed-angel-musician",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w186/salvator-mundi-with-book-and-gold-orb",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w186/left-and-lower-floral-margin",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4327,
+            "h": 195,
+            "path": "avif/right-blue-robed-angel-with-harp-64.avif",
+            "sha256": "c551e895751524b0c2b4669d515b17ca223ba33eed22dfbca23779c705b80a83",
+            "w": 64
+          },
+          {
+            "bytes": 8136,
+            "h": 292,
+            "path": "avif/right-blue-robed-angel-with-harp-96.avif",
+            "sha256": "d7753c2b03125d36f9bd08592b4da65eb66e5af00ce13ccb329dccaacd86fbb2",
+            "w": 96
+          },
+          {
+            "bytes": 11452,
+            "h": 390,
+            "path": "avif/right-blue-robed-angel-with-harp-128.avif",
+            "sha256": "66a93c1a5ce0e8b9a0877a67fd3ffdd254561e1e7e445bc8c5ab3548515fdea5",
+            "w": 128
+          },
+          {
+            "bytes": 21036,
+            "h": 585,
+            "path": "avif/right-blue-robed-angel-with-harp-192.avif",
+            "sha256": "928dcc40c3288b3389eb17110093e51871ffd5387cca52168952dea58dac6eee",
+            "w": 192
+          },
+          {
+            "bytes": 33221,
+            "h": 779,
+            "path": "avif/right-blue-robed-angel-with-harp-256.avif",
+            "sha256": "b1fbf06cbbda377ae78c1f1b57a523dd11fefd0e87a3d5feb86fb39fcde42d2c",
+            "w": 256
+          },
+          {
+            "bytes": 63476,
+            "h": 1169,
+            "path": "avif/right-blue-robed-angel-with-harp-384.avif",
+            "sha256": "20385c8af752527a870ae4549be29666dbdeac12ba3e922bca5786c071dcd541",
+            "w": 384
+          },
+          {
+            "bytes": 96790,
+            "h": 1559,
+            "path": "avif/right-blue-robed-angel-with-harp-512.avif",
+            "sha256": "c78dcaa3a0b34abd1cf8095fde5faa09053bd48c78fae870fafc3cc395ffbcd6",
+            "w": 512
+          },
+          {
+            "bytes": 148881,
+            "h": 2125,
+            "path": "avif/right-blue-robed-angel-with-harp-698.avif",
+            "sha256": "cf935281aad9c28d456a0c965fe86690df077948c93875048483ea03645fb238",
+            "w": 698
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 7774,
+            "h": 195,
+            "path": "webp/right-blue-robed-angel-with-harp-64.webp",
+            "sha256": "d134f7b019bc73adfe2a432921529e5f42d278b8713bdf8b510965e99246307f",
+            "w": 64
+          },
+          {
+            "bytes": 13720,
+            "h": 292,
+            "path": "webp/right-blue-robed-angel-with-harp-96.webp",
+            "sha256": "6b6bfdc3d2945bf92badfd20c1859ee784234ea83523808aa54841afaa0b8f3d",
+            "w": 96
+          },
+          {
+            "bytes": 21024,
+            "h": 390,
+            "path": "webp/right-blue-robed-angel-with-harp-128.webp",
+            "sha256": "c74dda7843efdc8e32854aa96f794cb990837b0f2db814c1bbbe924edecae993",
+            "w": 128
+          },
+          {
+            "bytes": 39126,
+            "h": 585,
+            "path": "webp/right-blue-robed-angel-with-harp-192.webp",
+            "sha256": "408bc99d3c8ec3fa7f75ea0234d76184b0c6b8895bbd0cead8fc6376b55134b4",
+            "w": 192
+          },
+          {
+            "bytes": 60920,
+            "h": 779,
+            "path": "webp/right-blue-robed-angel-with-harp-256.webp",
+            "sha256": "3b7900257e4cf0cba121e2f316548200019104f27f1ed4cd11a67f6719a20c4c",
+            "w": 256
+          },
+          {
+            "bytes": 115950,
+            "h": 1169,
+            "path": "webp/right-blue-robed-angel-with-harp-384.webp",
+            "sha256": "aeb4a64f282c0f1c43338c7799f65a948521589a6e3f59d4a4d5dd918aac171e",
+            "w": 384
+          },
+          {
+            "bytes": 179650,
+            "h": 1559,
+            "path": "webp/right-blue-robed-angel-with-harp-512.webp",
+            "sha256": "1349008bb406b084fb43bca999d746dac9161de582b11e79360888bcdb906fe1",
+            "w": 512
+          },
+          {
+            "bytes": 283482,
+            "h": 2125,
+            "path": "webp/right-blue-robed-angel-with-harp-698.webp",
+            "sha256": "aa2f16e0e55080743c1496f25de13c18911abc739c6811695c814fcc04e9e9c3",
+            "w": 698
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "angel",
+        "musician",
+        "harp",
+        "wings",
+        "robe"
+      ],
+      "thumbhash": "2OeFEgInbx0WWMyPHfPYERJccJllqmk=",
+      "title": "Blue-robed angel playing a harp",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Pairs with left-blue-robed-angel-musician, which faces right at the same scale; in the source they flank the Salvator Mundi."
+      ],
+      "view": "three-quarter",
+      "width": 698
+    },
+    "right-blue-robed-angel-with-vielle": {
+      "attribution": "Walters Art Museum W.186, fol. 285r",
+      "categories": [
+        "humans",
+        "music"
+      ],
+      "colors": [
+        "blue",
+        "gold",
+        "red",
+        "green",
+        "cream"
+      ],
+      "composition": "single-figure",
+      "description": "Full-length angel standing with the head bowed to the left, in a long teal-blue gown with gold highlights, cuffs and hem and a white collar, blond hair, and wings of red, green and blue spread above the shoulders. The left hand holds a flat gold vielle (a medieval fiddle) with a round sound hole against the chest, its neck pointing up to the right, while the right hand draws a long bow across the strings. The background is transparent.",
+      "display_width": [
+        150,
+        450
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 117131,
+        "webpTopBytes": 196984
+      },
+      "facing": "left",
+      "group": "285r",
+      "height": 1688,
+      "master": {
+        "bytes": 1028864,
+        "h": 1688,
+        "path": "masters/right-blue-robed-angel-with-vielle.webp",
+        "sha256": "98b4142dbcce475e81e69c47186ec62f5bbe395f5abb5bdd30f3ba0979330896",
+        "w": 548
+      },
+      "palette": [
+        "#3c5d59",
+        "#79694a",
+        "#9f8b52",
+        "#b5ab8e",
+        "#7a846c"
+      ],
+      "provenance": {
+        "date": "Ca. 1460 CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000573_1200.tif",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.186, fol. 285r",
+        "object_title": "Two angels serenading St. Adrian, bounded by lute- and vielle-playing angels",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "090645bbb2b84caa5271ad86837e7db23c61e22cecec7d03a2afa39049fd2693"
+      },
+      "related": [
+        {
+          "asset": "walters-w186/green-robed-angel-with-lute",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w186/saint-adrian-with-lion-sword-and-anvil",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w186/floral-page-margin-285r",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4284,
+            "h": 197,
+            "path": "avif/right-blue-robed-angel-with-vielle-64.avif",
+            "sha256": "295cc79bca285fe9874387f9682ae6559b4125d9d639e8eee18fde1ccf750ec2",
+            "w": 64
+          },
+          {
+            "bytes": 7611,
+            "h": 296,
+            "path": "avif/right-blue-robed-angel-with-vielle-96.avif",
+            "sha256": "ca440a3891fc40bf5281c22c038edb1cb924022ef42c508743261dfcca77cfe9",
+            "w": 96
+          },
+          {
+            "bytes": 10437,
+            "h": 394,
+            "path": "avif/right-blue-robed-angel-with-vielle-128.avif",
+            "sha256": "05538ba7761d0d580750f677115a2b443eb40cb3c7abbfaae6c6b4f43a6df58d",
+            "w": 128
+          },
+          {
+            "bytes": 19967,
+            "h": 591,
+            "path": "avif/right-blue-robed-angel-with-vielle-192.avif",
+            "sha256": "64a55f15b5292d2d7c473573b468edfafc5b22379342bba08fa9fb354ad0f71f",
+            "w": 192
+          },
+          {
+            "bytes": 32205,
+            "h": 789,
+            "path": "avif/right-blue-robed-angel-with-vielle-256.avif",
+            "sha256": "28f65a65b15e4343a0168b79d3f2da837c6727ec4d7151303985e28ad9346779",
+            "w": 256
+          },
+          {
+            "bytes": 67309,
+            "h": 1183,
+            "path": "avif/right-blue-robed-angel-with-vielle-384.avif",
+            "sha256": "51309dee12697a94b68393f85b3ed3c7fd73a867e275c308202948e45eff9780",
+            "w": 384
+          },
+          {
+            "bytes": 104172,
+            "h": 1577,
+            "path": "avif/right-blue-robed-angel-with-vielle-512.avif",
+            "sha256": "c0f4a4bbd23180b3626863481b98804ca71bc2f6e7fa14da5682fe6157d814f9",
+            "w": 512
+          },
+          {
+            "bytes": 117131,
+            "h": 1688,
+            "path": "avif/right-blue-robed-angel-with-vielle-548.avif",
+            "sha256": "1c45ecedb601de87957a8a0844787592493e5e7b73aa3b20184cec296b9e25bf",
+            "w": 548
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 7280,
+            "h": 197,
+            "path": "webp/right-blue-robed-angel-with-vielle-64.webp",
+            "sha256": "d3174c9e424e736f10c1e58f24d25d76cc54aee43e49414235d63fa07cbf8dda",
+            "w": 64
+          },
+          {
+            "bytes": 12894,
+            "h": 296,
+            "path": "webp/right-blue-robed-angel-with-vielle-96.webp",
+            "sha256": "43ca6e97d09b52d70e2f497e3d95f8ff4ba810977a67ee14ec5af29c059048f2",
+            "w": 96
+          },
+          {
+            "bytes": 19212,
+            "h": 394,
+            "path": "webp/right-blue-robed-angel-with-vielle-128.webp",
+            "sha256": "2b09d96566ba06948539bea3c4c111a9b8468cd22d95dba079ae989be3786002",
+            "w": 128
+          },
+          {
+            "bytes": 37290,
+            "h": 591,
+            "path": "webp/right-blue-robed-angel-with-vielle-192.webp",
+            "sha256": "c1d579ed26798de6d876831413dc0bb77585b7022a518a94049177bd32c71022",
+            "w": 192
+          },
+          {
+            "bytes": 58880,
+            "h": 789,
+            "path": "webp/right-blue-robed-angel-with-vielle-256.webp",
+            "sha256": "4f9f41fbd3c49ae61a7354ec8a429eab6ca4375233b929c0d1941db8bd59fad3",
+            "w": 256
+          },
+          {
+            "bytes": 115452,
+            "h": 1183,
+            "path": "webp/right-blue-robed-angel-with-vielle-384.webp",
+            "sha256": "175735a146da6672444762e6b4b01795bd61650dad4344702a680abbee2547dd",
+            "w": 384
+          },
+          {
+            "bytes": 178946,
+            "h": 1577,
+            "path": "webp/right-blue-robed-angel-with-vielle-512.webp",
+            "sha256": "c09dd052e211874699e22b4989ea457fff7818654ca6edf1171e3d5c3a03c01a",
+            "w": 512
+          },
+          {
+            "bytes": 196984,
+            "h": 1688,
+            "path": "webp/right-blue-robed-angel-with-vielle-548.webp",
+            "sha256": "da3395563a11e0080f5139360fb58987ad26d8c2870025d9fa999cfa22db45db",
+            "w": 548
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "angel",
+        "musician",
+        "fiddle",
+        "wings",
+        "robe"
+      ],
+      "thumbhash": "WOiBEgQpR011CRuWT3n6lQFIqGh1WVc=",
+      "title": "Blue-robed angel bowing a vielle",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Pairs with green-robed-angel-with-stringed-instrument, which faces right at the same scale; in the source they flank Saint Adrian.",
+        "The instrument is a bowed vielle, not a lute; the lute is played by the green-robed companion."
+      ],
+      "view": "three-quarter",
+      "width": 548
+    },
+    "saint-adrian-with-lion-sword-and-anvil": {
+      "attribution": "Walters Art Museum W.186, fol. 285r",
+      "categories": [
+        "humans",
+        "animals"
+      ],
+      "colors": [
+        "blue",
+        "white",
+        "green",
+        "gold",
+        "brown"
+      ],
+      "composition": "multiple-figures",
+      "description": "A standing man facing the viewer in a blue knee-length tunic trimmed with brown fur, green hose and black shoes, under a long mantle lined with white ermine and faced in pink with gold, fastened by a red jewelled brooch; he wears a white hat with a gold brim and a red jewel. The right hand raises a grey sword, the left holds a grey anvil on a block at shoulder height. A brown lion lies at his feet facing left. The background is transparent.",
+      "display_width": [
+        200,
+        600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 203087,
+        "webpTopBytes": 338182
+      },
+      "facing": "viewer",
+      "group": "285r",
+      "height": 1875,
+      "master": {
+        "bytes": 1836856,
+        "h": 1875,
+        "path": "masters/saint-adrian-with-lion-sword-and-anvil.webp",
+        "sha256": "72b509b2c9dfbd056579f92cf85e95c63b1266732ef71ae590c46d0d7007b685",
+        "w": 839
+      },
+      "palette": [
+        "#786741",
+        "#a47c4e",
+        "#cec2a3",
+        "#316639",
+        "#0d365b"
+      ],
+      "provenance": {
+        "date": "Ca. 1460 CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000573_1200.tif",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.186, fol. 285r",
+        "object_title": "Two angels serenading St. Adrian, bounded by lute- and vielle-playing angels",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "090645bbb2b84caa5271ad86837e7db23c61e22cecec7d03a2afa39049fd2693"
+      },
+      "related": [
+        {
+          "asset": "walters-w186/green-robed-angel-with-lute",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w186/right-blue-robed-angel-with-vielle",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w186/floral-page-margin-285r",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4216,
+            "h": 143,
+            "path": "avif/saint-adrian-with-lion-sword-and-anvil-64.avif",
+            "sha256": "ed7a85372432dc90892d81860b59720499fc8e160643470f8c3a97e2ccb64f0f",
+            "w": 64
+          },
+          {
+            "bytes": 7469,
+            "h": 215,
+            "path": "avif/saint-adrian-with-lion-sword-and-anvil-96.avif",
+            "sha256": "fbc2d52fa1f16c7b9956c6e9f28ab8df9154501d85613a51af16d7c513f8d048",
+            "w": 96
+          },
+          {
+            "bytes": 10901,
+            "h": 286,
+            "path": "avif/saint-adrian-with-lion-sword-and-anvil-128.avif",
+            "sha256": "69fb61498c08dc6473c28fbabb1129d75a6b060e26ddeb5c1f613f5eefd3414e",
+            "w": 128
+          },
+          {
+            "bytes": 19472,
+            "h": 429,
+            "path": "avif/saint-adrian-with-lion-sword-and-anvil-192.avif",
+            "sha256": "8a6dc5894b18094ea2f416b7f8ae43ae0ff3cc0d4b3e2d47e65eb31820dd9ef8",
+            "w": 192
+          },
+          {
+            "bytes": 30496,
+            "h": 572,
+            "path": "avif/saint-adrian-with-lion-sword-and-anvil-256.avif",
+            "sha256": "9e6b5f153264b8c0a0066c95b8558b354b40b943a77b4500a809d3d92db4ea28",
+            "w": 256
+          },
+          {
+            "bytes": 61366,
+            "h": 858,
+            "path": "avif/saint-adrian-with-lion-sword-and-anvil-384.avif",
+            "sha256": "6a417b57feb05bae3f0dca4c985ee7c69caf8c36ff8ca8cc5d89cde1eebda21c",
+            "w": 384
+          },
+          {
+            "bytes": 99457,
+            "h": 1144,
+            "path": "avif/saint-adrian-with-lion-sword-and-anvil-512.avif",
+            "sha256": "177b01f16fd561c2aaf54d5e19f9e2e584774a45623b3deb898087da0a57357c",
+            "w": 512
+          },
+          {
+            "bytes": 178111,
+            "h": 1716,
+            "path": "avif/saint-adrian-with-lion-sword-and-anvil-768.avif",
+            "sha256": "41c55b31117b2c10e2f87fdf2a829f4877cb85c9e12fe00064fbdb4ca9a95e2b",
+            "w": 768
+          },
+          {
+            "bytes": 203087,
+            "h": 1875,
+            "path": "avif/saint-adrian-with-lion-sword-and-anvil-839.avif",
+            "sha256": "187feff1d71643173a67eafc85b582b27c05bb1447b45ea27b0aa28ed1261028",
+            "w": 839
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 6464,
+            "h": 143,
+            "path": "webp/saint-adrian-with-lion-sword-and-anvil-64.webp",
+            "sha256": "1eb9d24ba4dd0cf7761ef1993656f2cf8fd25a0283ca605ef62e81fd16ae4ccc",
+            "w": 64
+          },
+          {
+            "bytes": 11852,
+            "h": 215,
+            "path": "webp/saint-adrian-with-lion-sword-and-anvil-96.webp",
+            "sha256": "a4ad785cae40001a9a82553a17e30223528cc46e695406aae3eeae5190de2381",
+            "w": 96
+          },
+          {
+            "bytes": 18014,
+            "h": 286,
+            "path": "webp/saint-adrian-with-lion-sword-and-anvil-128.webp",
+            "sha256": "3c4aacd377b8ccf5c861e8172ebc81fc0bdb358eddad09311e181534c6757a3f",
+            "w": 128
+          },
+          {
+            "bytes": 33068,
+            "h": 429,
+            "path": "webp/saint-adrian-with-lion-sword-and-anvil-192.webp",
+            "sha256": "d10257ea84ed90f08d967d292a7173cef6b8f0aea66252e21331b44c3a8f1aa5",
+            "w": 192
+          },
+          {
+            "bytes": 51704,
+            "h": 572,
+            "path": "webp/saint-adrian-with-lion-sword-and-anvil-256.webp",
+            "sha256": "13d998da37569d6368650e8915ca4feff58bba14108cd4584f18931fe9b5a245",
+            "w": 256
+          },
+          {
+            "bytes": 100794,
+            "h": 858,
+            "path": "webp/saint-adrian-with-lion-sword-and-anvil-384.webp",
+            "sha256": "382983dc609caf42241a2d14ea7167830229436affdd638a307b415f84bd8956",
+            "w": 384
+          },
+          {
+            "bytes": 159154,
+            "h": 1144,
+            "path": "webp/saint-adrian-with-lion-sword-and-anvil-512.webp",
+            "sha256": "7d77c33e8781e66e331ba20ed37f0255bbaa69867b15bebefdcd6db043931cbc",
+            "w": 512
+          },
+          {
+            "bytes": 296384,
+            "h": 1716,
+            "path": "webp/saint-adrian-with-lion-sword-and-anvil-768.webp",
+            "sha256": "d4bb985c98c944875ae3b3b99ff0e80ce77cef5655d9e3235a961380e58729da",
+            "w": 768
+          },
+          {
+            "bytes": 338182,
+            "h": 1875,
+            "path": "webp/saint-adrian-with-lion-sword-and-anvil-839.webp",
+            "sha256": "0644694ce8daa0d5b3b8396b83c01d4a8e542b821d5bd5d29ddf7315aacd149f",
+            "w": 839
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "saint",
+        "man",
+        "lion",
+        "sword",
+        "anvil",
+        "robe"
+      ],
+      "thumbhash": "HQmGEgQr8Zh16jbIdK9/1wVWkoeSV2c=",
+      "title": "Saint Adrian with sword, anvil and lion",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The lion is part of the cut-out and carries the figure's feet; keep them together.",
+        "In the source the lute- and vielle-playing angels of fol. 285r stand on either side of this figure."
+      ],
+      "view": "front",
+      "width": 839
+    },
+    "saint-margaret-emerging-from-winged-dragon": {
+      "attribution": "Walters Art Museum W.186, fol. 291v",
+      "categories": [
+        "humans",
+        "fantasy"
+      ],
+      "colors": [
+        "blue",
+        "gold",
+        "green",
+        "gray",
+        "yellow"
+      ],
+      "composition": "multiple-figures",
+      "description": "A haloed woman with long blond hair, in a blue mantle over a gold brocade gown, rises from the back of a pale yellow-green dragon and holds a gold cross-staff in her right hand. The dragon faces left with open jaws clutching the hem of her blue mantle, ribbed green wings, clawed feet and a curling tail at the right. Below, a low grey crenellated wall runs in from both sides over green grass with small white and red flowers. The wall is cut straight along the bottom and both outer edges; the background is transparent.",
+      "display_width": [
+        300,
+        900
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 156692,
+        "webpTopBytes": 285060
+      },
+      "facing": "left",
+      "group": "291v",
+      "height": 1261,
+      "master": {
+        "bytes": 1376604,
+        "h": 1261,
+        "path": "masters/saint-margaret-emerging-from-winged-dragon.webp",
+        "sha256": "93bc7733b12aaa35bd43ecba02f51a2438467543e3db1064e85a4778c3a95d52",
+        "w": 1200
+      },
+      "palette": [
+        "#b6a777",
+        "#657b5d",
+        "#a27e41",
+        "#47533c",
+        "#0a3b6b"
+      ],
+      "provenance": {
+        "date": "Ca. 1460 CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000586_1200.tif",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.186, fol. 291v",
+        "object_title": "St. Margaret emerging from Dragon",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "c1fd00c6e1be1d51bc000cdd4c0a666a358a15d0eb83b2e9d4e19b90e0d18daf"
+      },
+      "quality": "The foreground wall is cut straight at the bottom and at both sides.",
+      "related": [
+        {
+          "asset": "walters-w186/angel-bust-with-musical-instrument",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w186/angel-bust-with-trumpets-behind",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w186/floral-page-margin-291v",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2736,
+            "h": 67,
+            "path": "avif/saint-margaret-emerging-from-winged-dragon-64.avif",
+            "sha256": "d98525d0b7b6129b5a9ac9b099c001b3d471cd707394f7c61e7c083960a808cb",
+            "w": 64
+          },
+          {
+            "bytes": 4730,
+            "h": 101,
+            "path": "avif/saint-margaret-emerging-from-winged-dragon-96.avif",
+            "sha256": "e67bb4fee1fbd5288fb808806144cb7914b7a0bd2b7012f3f32b88f29eda7036",
+            "w": 96
+          },
+          {
+            "bytes": 6486,
+            "h": 135,
+            "path": "avif/saint-margaret-emerging-from-winged-dragon-128.avif",
+            "sha256": "5817f2d4ed665f14359cf70d6e5aaef6fd3ec65ecc048102b13826d6cd38d015",
+            "w": 128
+          },
+          {
+            "bytes": 11326,
+            "h": 202,
+            "path": "avif/saint-margaret-emerging-from-winged-dragon-192.avif",
+            "sha256": "84a1acc7c8a17d547082563a444a21cf62ef01e2bd562ac13a3203754144142f",
+            "w": 192
+          },
+          {
+            "bytes": 16505,
+            "h": 269,
+            "path": "avif/saint-margaret-emerging-from-winged-dragon-256.avif",
+            "sha256": "24953f3a5614ec2a726b38a634e964cb28bc0e199223ead19f0752c4041f125e",
+            "w": 256
+          },
+          {
+            "bytes": 30262,
+            "h": 404,
+            "path": "avif/saint-margaret-emerging-from-winged-dragon-384.avif",
+            "sha256": "3000b12d13346d5f3391d414d3080c7771fde0cfd0318722636c2afb44fdd991",
+            "w": 384
+          },
+          {
+            "bytes": 46518,
+            "h": 538,
+            "path": "avif/saint-margaret-emerging-from-winged-dragon-512.avif",
+            "sha256": "ebf005e4898248fc6a142ff3ae94a1a9ededc22b60c1f06734bfc804acbaaeb9",
+            "w": 512
+          },
+          {
+            "bytes": 83404,
+            "h": 807,
+            "path": "avif/saint-margaret-emerging-from-winged-dragon-768.avif",
+            "sha256": "3aa65d0533a824803982a6af52a2ccd037818b6193eaeb017906c9720d0537fc",
+            "w": 768
+          },
+          {
+            "bytes": 126741,
+            "h": 1076,
+            "path": "avif/saint-margaret-emerging-from-winged-dragon-1024.avif",
+            "sha256": "ce64791064491c5fd644d16b0fda2977cc5d4054e69a96060b2afa5b58bbdfae",
+            "w": 1024
+          },
+          {
+            "bytes": 156692,
+            "h": 1261,
+            "path": "avif/saint-margaret-emerging-from-winged-dragon-1200.avif",
+            "sha256": "be01c422b7cc556731cba3f235a131dfd140be30a6e267d21572862fe5bd71e7",
+            "w": 1200
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3922,
+            "h": 67,
+            "path": "webp/saint-margaret-emerging-from-winged-dragon-64.webp",
+            "sha256": "6a35ae7378d792ba595e434090563aee4d4c28c6cf30c51fa18ffcf121efcce0",
+            "w": 64
+          },
+          {
+            "bytes": 7184,
+            "h": 101,
+            "path": "webp/saint-margaret-emerging-from-winged-dragon-96.webp",
+            "sha256": "99211955e5dd1e8167ca92241ae5ad0c44ed45fa0d9568849458af4ad7995ddc",
+            "w": 96
+          },
+          {
+            "bytes": 10698,
+            "h": 135,
+            "path": "webp/saint-margaret-emerging-from-winged-dragon-128.webp",
+            "sha256": "8194c71b0decda08db903a330f3bd710bda7b4efdb375c3b4ff2588d777043c0",
+            "w": 128
+          },
+          {
+            "bytes": 19442,
+            "h": 202,
+            "path": "webp/saint-margaret-emerging-from-winged-dragon-192.webp",
+            "sha256": "56249c4d64b890eb401312c9215a704a1d41299726d9fe7aca7e1fec4daad493",
+            "w": 192
+          },
+          {
+            "bytes": 29228,
+            "h": 269,
+            "path": "webp/saint-margaret-emerging-from-winged-dragon-256.webp",
+            "sha256": "081f4e184029ebffe0201ca3825caf4eab55c168565e795b7144bce3e59dc5f6",
+            "w": 256
+          },
+          {
+            "bytes": 55766,
+            "h": 404,
+            "path": "webp/saint-margaret-emerging-from-winged-dragon-384.webp",
+            "sha256": "ecafaf8eb212549ac2df954a1af63e9271f2d18be461ce9e64ce0162bc4850a5",
+            "w": 384
+          },
+          {
+            "bytes": 85170,
+            "h": 538,
+            "path": "webp/saint-margaret-emerging-from-winged-dragon-512.webp",
+            "sha256": "8f6d43ff98f561904c359e3bf133219549561ec4e3d953d3177aca5f787ff92e",
+            "w": 512
+          },
+          {
+            "bytes": 152582,
+            "h": 807,
+            "path": "webp/saint-margaret-emerging-from-winged-dragon-768.webp",
+            "sha256": "692c8bc16541daa731d748b564a8fc98e21576477e4f048ced75291b2f749e76",
+            "w": 768
+          },
+          {
+            "bytes": 231722,
+            "h": 1076,
+            "path": "webp/saint-margaret-emerging-from-winged-dragon-1024.webp",
+            "sha256": "42ca33aa09b483af835672e8e6f45aa9a03d6b25fca06dc12f41d7c5a5f2434a",
+            "w": 1024
+          },
+          {
+            "bytes": 285060,
+            "h": 1261,
+            "path": "webp/saint-margaret-emerging-from-winged-dragon-1200.webp",
+            "sha256": "a6201bc376683b35360fe5b88b04775c5ffc09869e1bcc7e9b3470fe289cfe80",
+            "w": 1200
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "saint",
+        "woman",
+        "dragon",
+        "cross",
+        "halo",
+        "wall",
+        "grass"
+      ],
+      "thumbhash": "2/iBDQIoOKR5anb1BQWrZuA5BplwdYV7mQ==",
+      "title": "Saint Margaret rising from the dragon",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The crenellated wall is the painted foreground of the miniature and is cut flat; set it on a baseline, or crop above the wall tops to keep only the saint and the dragon."
+      ],
+      "view": "three-quarter",
+      "width": 1200
+    },
+    "salvator-mundi-with-book-and-gold-orb": {
+      "attribution": "Walters Art Museum W.186, fol. 276v",
+      "categories": [
+        "humans",
+        "reading"
+      ],
+      "colors": [
+        "brown",
+        "gold",
+        "green",
+        "cream",
+        "red"
+      ],
+      "composition": "single-figure",
+      "description": "Christ standing facing the viewer in a long brown robe with gold hatching and a gold hem, long brown hair and beard, and a gold rayed halo behind the head. The right hand is raised in blessing; the left holds an open book with red lettering. The bare feet rest on a gold orb banded in green at the bottom. The background is transparent.",
+      "display_width": [
+        150,
+        500
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 139228,
+        "webpTopBytes": 230374
+      },
+      "facing": "viewer",
+      "group": "276v",
+      "height": 1901,
+      "master": {
+        "bytes": 1282478,
+        "h": 1901,
+        "path": "masters/salvator-mundi-with-book-and-gold-orb.webp",
+        "sha256": "f94024b3c7d3887e8c9a67984cea8d2b21227380fb6c993ea5911cf7e2899c91",
+        "w": 731
+      },
+      "palette": [
+        "#7f6141",
+        "#9e7b3f",
+        "#afa07d",
+        "#96734f",
+        "#af8c50"
+      ],
+      "provenance": {
+        "date": "Ca. 1460 CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000556_1200.tif",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.186, fol. 276v",
+        "object_title": "Two angels serenading salvator mundi",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "831db9c73ade72a6ee4075f7252354fad8ca3af67aeefc6674ed4bda9d0c3dd7"
+      },
+      "related": [
+        {
+          "asset": "walters-w186/left-blue-robed-angel-musician",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w186/right-blue-robed-angel-with-harp",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w186/left-and-lower-floral-margin",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3712,
+            "h": 166,
+            "path": "avif/salvator-mundi-with-book-and-gold-orb-64.avif",
+            "sha256": "6536f156097b395b8ab410c0a5a4de5306bb5ee6c6f55f6472f8f78160b59d12",
+            "w": 64
+          },
+          {
+            "bytes": 6038,
+            "h": 250,
+            "path": "avif/salvator-mundi-with-book-and-gold-orb-96.avif",
+            "sha256": "a981977cb9010d8402f5c9317c53dc6086b62cf4e000d33ac57dfee4d1301d3c",
+            "w": 96
+          },
+          {
+            "bytes": 8510,
+            "h": 333,
+            "path": "avif/salvator-mundi-with-book-and-gold-orb-128.avif",
+            "sha256": "fb3a44efaa02556b44072f70bfc09df7412c5a6a64e022a3babce9d22f38dfd9",
+            "w": 128
+          },
+          {
+            "bytes": 15993,
+            "h": 499,
+            "path": "avif/salvator-mundi-with-book-and-gold-orb-192.avif",
+            "sha256": "48215995f207d0ffea1866b7338bdbc04bc8952e2192e700180c44bd6f26c661",
+            "w": 192
+          },
+          {
+            "bytes": 24980,
+            "h": 666,
+            "path": "avif/salvator-mundi-with-book-and-gold-orb-256.avif",
+            "sha256": "4231c1d537d0c03e7a9dfb345d139234106b48a6177b696554e6ef6c81997dc0",
+            "w": 256
+          },
+          {
+            "bytes": 51335,
+            "h": 999,
+            "path": "avif/salvator-mundi-with-book-and-gold-orb-384.avif",
+            "sha256": "9d5bcafcb3728afb95a68861df4a5f68c3da16f929ecdf5317aa62976bb608d9",
+            "w": 384
+          },
+          {
+            "bytes": 82036,
+            "h": 1331,
+            "path": "avif/salvator-mundi-with-book-and-gold-orb-512.avif",
+            "sha256": "71a31a6ec43d8ad25ef1932125c5532dc4485924128dca92c40ea498d1581fff",
+            "w": 512
+          },
+          {
+            "bytes": 139228,
+            "h": 1901,
+            "path": "avif/salvator-mundi-with-book-and-gold-orb-731.avif",
+            "sha256": "5e8f3264d82e9ac11233d8292d80d0954895927815d247e5ccda754411abc795",
+            "w": 731
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 5436,
+            "h": 166,
+            "path": "webp/salvator-mundi-with-book-and-gold-orb-64.webp",
+            "sha256": "8a7df3b6448efb8ed31490a0504ab71640aed5b1f5464adf1409c02d508d47d3",
+            "w": 64
+          },
+          {
+            "bytes": 9834,
+            "h": 250,
+            "path": "webp/salvator-mundi-with-book-and-gold-orb-96.webp",
+            "sha256": "bcbf2b804b8f07d31381fa61b2a62a21326ffdfabcbacc36dc64f589ed883613",
+            "w": 96
+          },
+          {
+            "bytes": 14814,
+            "h": 333,
+            "path": "webp/salvator-mundi-with-book-and-gold-orb-128.webp",
+            "sha256": "8907de41c7fba699b229682cf011a2473c47cd7a54e1a88b4ab66b387e5a2948",
+            "w": 128
+          },
+          {
+            "bytes": 28266,
+            "h": 499,
+            "path": "webp/salvator-mundi-with-book-and-gold-orb-192.webp",
+            "sha256": "8eb92b47e595d8b69d2f6c6d81142bafdb7f16fedd407a5b86ab74d32acd9897",
+            "w": 192
+          },
+          {
+            "bytes": 44650,
+            "h": 666,
+            "path": "webp/salvator-mundi-with-book-and-gold-orb-256.webp",
+            "sha256": "cae091bc894497f972a49b2fedee5fab57bf2276ff358cd86ea1a56b1826eb89",
+            "w": 256
+          },
+          {
+            "bytes": 89060,
+            "h": 999,
+            "path": "webp/salvator-mundi-with-book-and-gold-orb-384.webp",
+            "sha256": "0d2810c81b6a7d88f549216896cb87349c9a17ad39361b037584fe555e06a604",
+            "w": 384
+          },
+          {
+            "bytes": 139900,
+            "h": 1331,
+            "path": "webp/salvator-mundi-with-book-and-gold-orb-512.webp",
+            "sha256": "f7b256de9df881b14cef2e22a78756364ebc6e9edb1bbd421efb7c42470bf3db",
+            "w": 512
+          },
+          {
+            "bytes": 230374,
+            "h": 1901,
+            "path": "webp/salvator-mundi-with-book-and-gold-orb-731.webp",
+            "sha256": "28f88792f1d35fe3996a349421bcfb3c4531dd5c54b26d98d772ffdd2254bb39",
+            "w": 731
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "christ",
+        "halo",
+        "book",
+        "orb",
+        "robe"
+      ],
+      "thumbhash": "mzmCAgBIZVyGCSxIho9JCQZ4iHh1Z2c=",
+      "title": "Salvator Mundi with book and orb",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "In the source the two blue-robed angels of fol. 276v play on either side of this figure."
+      ],
+      "view": "front",
+      "width": 731
+    }
+  },
+  "attribution": "Walters Art Museum W.186",
+  "builtAt": "2026-10-30T13:04:53.359Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-walters-w186@1.0.0/",
+  "contentHash": "sha256:21b20fbcfbc841568ff0dc674f595bc22cbb4dfd721c13f12359dc70d4b9a279",
+  "inputsHash": "sha256:433056a2019f75addd38fc8d4b8150e791690e3feed0c35ebfd83ee68e3930e1",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from Digital Walters manuscript images (CC0); see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-walters-w186-masters",
+  "package": "@ranx729/ducktape-assets-walters-w186",
+  "period": "ca. 1460",
+  "region": "France",
+  "schema": 1,
+  "set": "walters-w186",
+  "style": "late Gothic illumination",
+  "summary": "Angels playing lutes, vielles and other instruments, with the acanthus and gold-ivy page margins, from Walters Ms. W.186, a Book of Hours of about 1460, grouped by folio.",
+  "title": "Walters W.186, Book of Hours angel musicians",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

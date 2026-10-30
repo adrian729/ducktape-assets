@@ -1,0 +1,3472 @@
+{
+  "assets": {
+    "arched-canopy-with-two-hanging-cages": {
+      "attribution": "Metropolitan Museum of Art 49.95.321",
+      "categories": [
+        "fantasy",
+        "floral",
+        "scrollwork"
+      ],
+      "colors": [
+        "black",
+        "gray"
+      ],
+      "composition": "single-ornament",
+      "description": "A wide panel of thin architecture inside a ruled border. A round arch on a stepped entablature carries three vases; under it hangs a long fringed drapery with pendant drops, flanked by two slender female terms whose bodies taper into tassels, with two more terms at the outer edges. On each side a domed cage with a fringed valance hangs from the cornice, enclosing a vase that gives off a twist of smoke, above a half-round base. Foliate scrolls with lily flowers and spiky tufts sit on the entablature; bead chains with tassels hang below. Single dark gray ink; the background is transparent.",
+      "display_width": [
+        400,
+        800
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 257290,
+        "webpTopBytes": 514780
+      },
+      "facing": "none",
+      "group": "49-95-321",
+      "height": 1224,
+      "master": {
+        "bytes": 503586,
+        "h": 1224,
+        "path": "masters/arched-canopy-with-two-hanging-cages.webp",
+        "sha256": "21677b66f9def18a6835f90d32187f68a6c9ba26f8ab49a13aade648938f8576",
+        "w": 1725
+      },
+      "palette": [
+        "#2b2b2b",
+        "#2c2c2c",
+        "#2d2d2d"
+      ],
+      "provenance": {
+        "artist": "Jacques Androuet Du Cerceau",
+        "date": "1566",
+        "image_rights": "CC0-1.0",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "49.95.321",
+        "object_title": "Grotesque Ornament Panel, from \"Livre de Grotesques...\"",
+        "record_url": "https://www.metmuseum.org/art/collection/search/338721",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "1e12434dbdf4463c553345d331ce835e60ce7e1e9c82cfb1971e7ab9438e9377"
+      },
+      "related": [
+        {
+          "asset": "du-cerceau-prints/grotesque-with-paired-hybrids-and-scene",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2217,
+            "h": 45,
+            "path": "avif/arched-canopy-with-two-hanging-cages-64.avif",
+            "sha256": "3d1567541257f3bd245e14bee9149339119b450150a7db09587901aab97d4a21",
+            "w": 64
+          },
+          {
+            "bytes": 3525,
+            "h": 68,
+            "path": "avif/arched-canopy-with-two-hanging-cages-96.avif",
+            "sha256": "ca4911775f6b49ca31ba9528a85643b8606a87df19308044b14730f73ae6cf26",
+            "w": 96
+          },
+          {
+            "bytes": 5268,
+            "h": 91,
+            "path": "avif/arched-canopy-with-two-hanging-cages-128.avif",
+            "sha256": "d3e2330be1a46baf6f6fd7d270bfd2d8907fdbe892a9378c1013e463ade64c2c",
+            "w": 128
+          },
+          {
+            "bytes": 9936,
+            "h": 136,
+            "path": "avif/arched-canopy-with-two-hanging-cages-192.avif",
+            "sha256": "f44ca61b3a8a367fb7c50fa4e8f69f0f6f8676cc431e517a1a4e9793b3e0bdb4",
+            "w": 192
+          },
+          {
+            "bytes": 15200,
+            "h": 182,
+            "path": "avif/arched-canopy-with-two-hanging-cages-256.avif",
+            "sha256": "b0e949b45fb0e91a3644f40ea2cb37436f03069662cac635f3e1e997f65e0c63",
+            "w": 256
+          },
+          {
+            "bytes": 31542,
+            "h": 272,
+            "path": "avif/arched-canopy-with-two-hanging-cages-384.avif",
+            "sha256": "be1a7c9e8c4a50a5c01beb0a1fb06c1632279f4e538726d533165c7ab8c8c9db",
+            "w": 384
+          },
+          {
+            "bytes": 48819,
+            "h": 363,
+            "path": "avif/arched-canopy-with-two-hanging-cages-512.avif",
+            "sha256": "5f806f274b1c284fa8e390c740524924260850d30d5fc763b261a73e3d7e6ba7",
+            "w": 512
+          },
+          {
+            "bytes": 85359,
+            "h": 545,
+            "path": "avif/arched-canopy-with-two-hanging-cages-768.avif",
+            "sha256": "88a8c53cca9668ba9fdd01769fb43627d8a4a41a5cc4ecb10f4f652b428685d7",
+            "w": 768
+          },
+          {
+            "bytes": 130421,
+            "h": 727,
+            "path": "avif/arched-canopy-with-two-hanging-cages-1024.avif",
+            "sha256": "5a6ee4c434caf26501e39d789480970deca11c256bc47a6b0bcc2dbd098e7e21",
+            "w": 1024
+          },
+          {
+            "bytes": 234922,
+            "h": 1090,
+            "path": "avif/arched-canopy-with-two-hanging-cages-1536.avif",
+            "sha256": "8188315d6da74d5e91c85039677e15f5d25d4db28c7737a70379124e26de8dd4",
+            "w": 1536
+          },
+          {
+            "bytes": 257290,
+            "h": 1224,
+            "path": "avif/arched-canopy-with-two-hanging-cages-1725.avif",
+            "sha256": "0d7e4da0d75ecbe72c3b86e609d86ca8b980b810e04785e974437ffa97ab4830",
+            "w": 1725
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3014,
+            "h": 45,
+            "path": "webp/arched-canopy-with-two-hanging-cages-64.webp",
+            "sha256": "c0df106c96edc0d9934d909193fe245906f1aea6b2c7a94872dc56b9c0a86da3",
+            "w": 64
+          },
+          {
+            "bytes": 6334,
+            "h": 68,
+            "path": "webp/arched-canopy-with-two-hanging-cages-96.webp",
+            "sha256": "46568a5141171970f7e34d93012f85ceadb3dd5f87b2d6ae6e691e649cbeefe5",
+            "w": 96
+          },
+          {
+            "bytes": 10222,
+            "h": 91,
+            "path": "webp/arched-canopy-with-two-hanging-cages-128.webp",
+            "sha256": "f2d08b9739b745b6ee4cd6c256e95ffbbcfaafb59088c3a3aeb6c3bc3f6b2088",
+            "w": 128
+          },
+          {
+            "bytes": 20970,
+            "h": 136,
+            "path": "webp/arched-canopy-with-two-hanging-cages-192.webp",
+            "sha256": "f839a00eeedc3ff17775c3647ff9eb526a7207709bb240b986c1813b5715feb5",
+            "w": 192
+          },
+          {
+            "bytes": 33126,
+            "h": 182,
+            "path": "webp/arched-canopy-with-two-hanging-cages-256.webp",
+            "sha256": "f037f05dbd6069ea264ef941a868d6c57797044a25740ac6d7cba89910f8d3a9",
+            "w": 256
+          },
+          {
+            "bytes": 65642,
+            "h": 272,
+            "path": "webp/arched-canopy-with-two-hanging-cages-384.webp",
+            "sha256": "ae07eab30d8e4350b7a47d8a21736e4c22d0ca835a861703d845863d7323d06f",
+            "w": 384
+          },
+          {
+            "bytes": 102830,
+            "h": 363,
+            "path": "webp/arched-canopy-with-two-hanging-cages-512.webp",
+            "sha256": "4a45b5d7abf4832654952b85ab216861ed2258e4d86dce336bfbcdd5266c481c",
+            "w": 512
+          },
+          {
+            "bytes": 189804,
+            "h": 545,
+            "path": "webp/arched-canopy-with-two-hanging-cages-768.webp",
+            "sha256": "a7437259ec8f5698e99d8b15a371b69cefec38ba7642ec9f84a546d588eb5ed5",
+            "w": 768
+          },
+          {
+            "bytes": 304576,
+            "h": 727,
+            "path": "webp/arched-canopy-with-two-hanging-cages-1024.webp",
+            "sha256": "d722825584d40b7b46d66f51853446f1b75f283a3851e1159441815dc6e6cb0e",
+            "w": 1024
+          },
+          {
+            "bytes": 593182,
+            "h": 1090,
+            "path": "webp/arched-canopy-with-two-hanging-cages-1536.webp",
+            "sha256": "fa2dd610abd00e740956f0c3f187265a83d2b5fa73799341c47934411bd54dba",
+            "w": 1536
+          },
+          {
+            "bytes": 514780,
+            "h": 1224,
+            "path": "webp/arched-canopy-with-two-hanging-cages-1725.webp",
+            "sha256": "b313771566f4abf6937e49d2dc3de22da77097c626ee237edcebf2b5842382c6",
+            "w": 1725
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "canopy",
+        "cage",
+        "vase",
+        "smoke",
+        "drapery",
+        "tassel",
+        "woman",
+        "scroll",
+        "flower",
+        "architecture"
+      ],
+      "thumbhash": "CwiCBIADJgmMdKcaBQAAAABwcTYoB4hwCg==",
+      "title": "Arched canopy with two hanging cages",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Wide panel (about 7 to 5) with its thin ruled plate border; the two cages hold smoking vases, not birds.",
+        "Single-colour ink with its density in the alpha channel; place on any light ground or use as a mask."
+      ],
+      "width": 1725
+    },
+    "foliate-face-with-paired-perching-birds": {
+      "attribution": "Metropolitan Museum of Art 49.95.321",
+      "categories": [
+        "fantasy",
+        "animals",
+        "floral",
+        "scrollwork"
+      ],
+      "colors": [
+        "black",
+        "gray"
+      ],
+      "composition": "single-ornament",
+      "description": "A wide panel inside a ruled border. At the centre a mask with a feathered crown hangs from a knotted scroll bracket, a bead chain swagging below it to a small foliate drop; a lily-like flower rises from a volute on either side and a moth hovers beside each cheek. Two fringed pagoda canopies hang from wavy cords at the sides. On low plinths at the lower corners sit two plump birds seen from behind, heads turned inward, a cloth draped over each perch. Single dark gray ink with hatched shading; the background is transparent.",
+      "display_width": [
+        300,
+        600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 104871,
+        "webpTopBytes": 196502
+      },
+      "facing": "viewer",
+      "group": "49-95-321",
+      "height": 544,
+      "master": {
+        "bytes": 193454,
+        "h": 544,
+        "path": "masters/foliate-face-with-paired-perching-birds.webp",
+        "sha256": "0f7b5ce48509a0f7e679a02f47dffb3f42e7c0091aeebbe7302cc1f93e8308b4",
+        "w": 1001
+      },
+      "palette": [
+        "#292929",
+        "#2a2a2a",
+        "#2b2b2b"
+      ],
+      "provenance": {
+        "artist": "Jacques Androuet Du Cerceau",
+        "date": "1566",
+        "image_rights": "CC0-1.0",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "49.95.321",
+        "object_title": "Grotesque Ornament Panel, from \"Livre de Grotesques...\"",
+        "record_url": "https://www.metmuseum.org/art/collection/search/338721",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "1e12434dbdf4463c553345d331ce835e60ce7e1e9c82cfb1971e7ab9438e9377"
+      },
+      "quality": "The top rule and the hatching beside it are broken by wear in the original impression.",
+      "related": [
+        {
+          "asset": "du-cerceau-prints/grotesque-canopy-with-suspended-miniature",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2065,
+            "h": 35,
+            "path": "avif/foliate-face-with-paired-perching-birds-64.avif",
+            "sha256": "b25f6f99dc27c8a7ae2c50965139cef3954564045c53aee1023871efd6d6999a",
+            "w": 64
+          },
+          {
+            "bytes": 3208,
+            "h": 52,
+            "path": "avif/foliate-face-with-paired-perching-birds-96.avif",
+            "sha256": "819734280b0290c349867108e063773a1d4a1dbbb72b9f49648c357809ad7fae",
+            "w": 96
+          },
+          {
+            "bytes": 4947,
+            "h": 70,
+            "path": "avif/foliate-face-with-paired-perching-birds-128.avif",
+            "sha256": "5c3cc965a8ea3b2f4b885bd7ce1747a630996c9d252214ba5ea1389b4a963623",
+            "w": 128
+          },
+          {
+            "bytes": 9300,
+            "h": 104,
+            "path": "avif/foliate-face-with-paired-perching-birds-192.avif",
+            "sha256": "3512af063f2248166e20d81be867403e7f51d31e7ba4ff04675f4d51813c08d9",
+            "w": 192
+          },
+          {
+            "bytes": 14279,
+            "h": 139,
+            "path": "avif/foliate-face-with-paired-perching-birds-256.avif",
+            "sha256": "b5eaa581b20bd7e4ccf6d40a1bc332261635e84eabd9a05a0eab3c80c9aee2c4",
+            "w": 256
+          },
+          {
+            "bytes": 26839,
+            "h": 209,
+            "path": "avif/foliate-face-with-paired-perching-birds-384.avif",
+            "sha256": "ddda990f6129ce6ece49b95cde5d06b47a6b7647785a58cca7052523e95da233",
+            "w": 384
+          },
+          {
+            "bytes": 41663,
+            "h": 278,
+            "path": "avif/foliate-face-with-paired-perching-birds-512.avif",
+            "sha256": "b9d0f1ec400657dfc5aff448fd83b0120e64a3bc0ddfdbb5c8d1836530713020",
+            "w": 512
+          },
+          {
+            "bytes": 76387,
+            "h": 417,
+            "path": "avif/foliate-face-with-paired-perching-birds-768.avif",
+            "sha256": "8c84abe89631fb8698c4749b4451353545fdbc325338eb0a17e122b465e8d500",
+            "w": 768
+          },
+          {
+            "bytes": 104871,
+            "h": 544,
+            "path": "avif/foliate-face-with-paired-perching-birds-1001.avif",
+            "sha256": "40cd0d2bbc811ab696c6dc55773e29f6560c8fa800eb2659a1da3d871e9dfc67",
+            "w": 1001
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2408,
+            "h": 35,
+            "path": "webp/foliate-face-with-paired-perching-birds-64.webp",
+            "sha256": "d034b59850b21a01f9b45f94a3b560ec3c23e313edd20db2ff38b351d1df32f1",
+            "w": 64
+          },
+          {
+            "bytes": 5268,
+            "h": 52,
+            "path": "webp/foliate-face-with-paired-perching-birds-96.webp",
+            "sha256": "369fa0ac1eb8d2b4942606d44de10e1f7799d1f6d7eb48afbf7af525e8c9b5d1",
+            "w": 96
+          },
+          {
+            "bytes": 8906,
+            "h": 70,
+            "path": "webp/foliate-face-with-paired-perching-birds-128.webp",
+            "sha256": "f86209bf8528ec169fab24db34b34aca874b2ff1a744559cb17c4ceee86a71a0",
+            "w": 128
+          },
+          {
+            "bytes": 18136,
+            "h": 104,
+            "path": "webp/foliate-face-with-paired-perching-birds-192.webp",
+            "sha256": "00ddbc33feeb3b6d3b9304e7e5197584251b846bd2d7f8f2e187c8def6a1bd6f",
+            "w": 192
+          },
+          {
+            "bytes": 28838,
+            "h": 139,
+            "path": "webp/foliate-face-with-paired-perching-birds-256.webp",
+            "sha256": "c8bd7936f98bf92dcb46041326b50c17c3d9a31af0b729486594f9fecdb6821c",
+            "w": 256
+          },
+          {
+            "bytes": 54994,
+            "h": 209,
+            "path": "webp/foliate-face-with-paired-perching-birds-384.webp",
+            "sha256": "5af9863c7aa6df4fce20cb713c8a22f10ef44bb4946513c5a04b9d5def96c2c8",
+            "w": 384
+          },
+          {
+            "bytes": 88394,
+            "h": 278,
+            "path": "webp/foliate-face-with-paired-perching-birds-512.webp",
+            "sha256": "943d2d4f59856ef6eb61598b23fc2b371453455a050ce38bda148e7d0ff882e4",
+            "w": 512
+          },
+          {
+            "bytes": 174418,
+            "h": 417,
+            "path": "webp/foliate-face-with-paired-perching-birds-768.webp",
+            "sha256": "60f3362d69fd99a5eae64bda75c251b8c30f7fea70ae47804efe03d78fbf0fe0",
+            "w": 768
+          },
+          {
+            "bytes": 196502,
+            "h": 544,
+            "path": "webp/foliate-face-with-paired-perching-birds-1001.webp",
+            "sha256": "e72a68fe16bfc00486bee60ecaff00c51e3a23c3751138c71487dabf8d34e8b0",
+            "w": 1001
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "mask",
+        "face",
+        "bird",
+        "canopy",
+        "flower",
+        "butterfly",
+        "cord",
+        "drapery",
+        "scroll"
+      ],
+      "thumbhash": "CgiCA4AEDj2RmIMAAAAAAEl5gpiFlwc=",
+      "title": "Feathered mask between two perched birds",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Wide strip-like panel (about 2 to 1) with its thin ruled plate border; it does not repeat.",
+        "Single-colour ink with its density in the alpha channel; place on any light ground or use as a mask."
+      ],
+      "width": 1001
+    },
+    "framed-reclining-figure-on-curled-tail": {
+      "attribution": "Metropolitan Museum of Art 21.10.1(31)",
+      "categories": [
+        "humans",
+        "animals"
+      ],
+      "colors": [
+        "black",
+        "gray",
+        "brown"
+      ],
+      "composition": "framed-scene",
+      "description": "A small framed vignette cropped from a grotesque panel: a nude figure reclines to the left, propped on one elbow with the head at the left, its legs stretched over a creature whose tail curls up at the right. Thick, soft dark lines inside a double-ruled rectangle and a diagonally hatched frame band; the background is transparent.",
+      "display_width": [
+        160,
+        320
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 26467,
+        "webpTopBytes": 53292
+      },
+      "facing": "left",
+      "group": "21-10-1-31",
+      "height": 251,
+      "master": {
+        "bytes": 52502,
+        "h": 251,
+        "path": "masters/framed-reclining-figure-on-curled-tail.webp",
+        "sha256": "968dfd611950cff747165844ce6cb8a64163970e01d9060a66c8b89e5568e6a1",
+        "w": 335
+      },
+      "palette": [
+        "#48433e",
+        "#49433f",
+        "#49443e",
+        "#49443f"
+      ],
+      "provenance": {
+        "artist": "Jacques Androuet Du Cerceau",
+        "date": "1550",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP213858.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "21.10.1(31)",
+        "object_title": "Grotesque Panel",
+        "record_url": "https://www.metmuseum.org/art/collection/search/387622",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "54c6b3852c207f744aa2ee86447b0c751dcd85782331a219b6d401f0a79caa79"
+      },
+      "quality": "Low-resolution crop with a soft line; the hatched frame band is clipped along the bottom edge.",
+      "related": [
+        {
+          "asset": "du-cerceau-prints/grotesque-architecture-with-bird-canopies",
+          "role": "variant"
+        },
+        {
+          "asset": "du-cerceau-prints/framed-rider-vignette",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2383,
+            "h": 48,
+            "path": "avif/framed-reclining-figure-on-curled-tail-64.avif",
+            "sha256": "5241ca8e8cd116a6d27581cc03c1ed36b025585f6ae3c9ad378468c64793623a",
+            "w": 64
+          },
+          {
+            "bytes": 4537,
+            "h": 72,
+            "path": "avif/framed-reclining-figure-on-curled-tail-96.avif",
+            "sha256": "bd004efd9fcf01d70b8e267140202638e9bf8a75b2ebacda4e5e093085f40d90",
+            "w": 96
+          },
+          {
+            "bytes": 7072,
+            "h": 96,
+            "path": "avif/framed-reclining-figure-on-curled-tail-128.avif",
+            "sha256": "9cbfc9979615089f3b280fd557636ab2c1eb213c19b250ae173048a7cf424139",
+            "w": 128
+          },
+          {
+            "bytes": 13342,
+            "h": 144,
+            "path": "avif/framed-reclining-figure-on-curled-tail-192.avif",
+            "sha256": "5d6ea85c9cd98923ecbf7fc672722e484976474f34ccc53fb9e9f3b5b97b9a53",
+            "w": 192
+          },
+          {
+            "bytes": 21353,
+            "h": 192,
+            "path": "avif/framed-reclining-figure-on-curled-tail-256.avif",
+            "sha256": "149ba46796eb6663806125b008559e0ad3649bc00966ef1f408f2f39e67434e1",
+            "w": 256
+          },
+          {
+            "bytes": 26467,
+            "h": 251,
+            "path": "avif/framed-reclining-figure-on-curled-tail-335.avif",
+            "sha256": "77a55d36255f04b74ec9c36d375fc6f4c3c0053362cf6c91f46f34a7013d8476",
+            "w": 335
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3598,
+            "h": 48,
+            "path": "webp/framed-reclining-figure-on-curled-tail-64.webp",
+            "sha256": "3311ce5096c3f8b68b7ab925e483e92a40e3e1a5ff4a2eba908185370ba62ea1",
+            "w": 64
+          },
+          {
+            "bytes": 7810,
+            "h": 72,
+            "path": "webp/framed-reclining-figure-on-curled-tail-96.webp",
+            "sha256": "e68a779b677b89b5279e102481dcbf42cf679f81ac4744a0e2739ab409921e3d",
+            "w": 96
+          },
+          {
+            "bytes": 13378,
+            "h": 96,
+            "path": "webp/framed-reclining-figure-on-curled-tail-128.webp",
+            "sha256": "9934626893fc83745bf7199dce6ad6bc7bc7142026c4bdc895765879924c2934",
+            "w": 128
+          },
+          {
+            "bytes": 27368,
+            "h": 144,
+            "path": "webp/framed-reclining-figure-on-curled-tail-192.webp",
+            "sha256": "178e47a333aa034b2df8f0d897f4ba76ced184480b371986c14e8864490fc65b",
+            "w": 192
+          },
+          {
+            "bytes": 46166,
+            "h": 192,
+            "path": "webp/framed-reclining-figure-on-curled-tail-256.webp",
+            "sha256": "9cca5339c9716e1b5c9045cadf9b2bd58cde37d81966c7c4979864c859f58a0d",
+            "w": 256
+          },
+          {
+            "bytes": 53292,
+            "h": 251,
+            "path": "webp/framed-reclining-figure-on-curled-tail-335.webp",
+            "sha256": "c0603bf8b264d815e2dec2c615aa2fa7f7cce0210898c18c55a30c9fbbc93c8b",
+            "w": 335
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "human",
+        "creature",
+        "frame"
+      ],
+      "thumbhash": "EQiCBIAXvImWiZ9HV4Clgp+eeWiI92iFDQ==",
+      "title": "Framed reclining figure over a curled tail",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Cropped from the middle-right framed scene of grotesque-architecture-with-bird-canopies; framed-mounted-figure-and-attendant-vignette is its counterpart on the other side.",
+        "Small and coarse; keep it at or below the master width."
+      ],
+      "width": 335
+    },
+    "framed-rider-vignette": {
+      "attribution": "Metropolitan Museum of Art 21.10.1(31)",
+      "categories": [
+        "humans",
+        "animals"
+      ],
+      "colors": [
+        "black",
+        "gray",
+        "brown"
+      ],
+      "composition": "framed-scene",
+      "description": "A small framed vignette cropped from a grotesque panel: a nude figure sits astride a lion-like beast walking to the right, its tail curling up behind the rider's back. Thick, soft dark lines inside a double-ruled rectangle and a diagonally hatched frame band; the background is transparent.",
+      "display_width": [
+        160,
+        320
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 24112,
+        "webpTopBytes": 51832
+      },
+      "facing": "right",
+      "group": "21-10-1-31",
+      "height": 241,
+      "master": {
+        "bytes": 50928,
+        "h": 241,
+        "path": "masters/framed-rider-vignette.webp",
+        "sha256": "6bb2f9004175462f643e61610d03c09c43cf94cf0672d512241a287fd7d896ac",
+        "w": 331
+      },
+      "palette": [
+        "#45423d",
+        "#46423d",
+        "#46433d",
+        "#46433e"
+      ],
+      "provenance": {
+        "artist": "Jacques Androuet Du Cerceau",
+        "date": "1550",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP213858.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "21.10.1(31)",
+        "object_title": "Grotesque Panel",
+        "record_url": "https://www.metmuseum.org/art/collection/search/387622",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "54c6b3852c207f744aa2ee86447b0c751dcd85782331a219b6d401f0a79caa79"
+      },
+      "quality": "Low-resolution crop with a soft line; the hatched frame band is clipped at the top and bottom edges.",
+      "related": [
+        {
+          "asset": "du-cerceau-prints/grotesque-architecture-with-bird-canopies",
+          "role": "variant"
+        },
+        {
+          "asset": "du-cerceau-prints/framed-reclining-figure-on-curled-tail",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2175,
+            "h": 47,
+            "path": "avif/framed-rider-vignette-64.avif",
+            "sha256": "11c89f27987e83e23ec9eae1f540c2896ffbf23d2bd6819c959c1aa762dd5ca8",
+            "w": 64
+          },
+          {
+            "bytes": 3961,
+            "h": 70,
+            "path": "avif/framed-rider-vignette-96.avif",
+            "sha256": "4b03065f5f45b5e236304d42c23f40784fb2e1ba0182f60db189f8ab83b371f9",
+            "w": 96
+          },
+          {
+            "bytes": 6068,
+            "h": 93,
+            "path": "avif/framed-rider-vignette-128.avif",
+            "sha256": "452d6e8bf3aa0a4a103b61351cf53cd4f71963f7b52c8543bf1f42dcf2f1c2d3",
+            "w": 128
+          },
+          {
+            "bytes": 11749,
+            "h": 140,
+            "path": "avif/framed-rider-vignette-192.avif",
+            "sha256": "e0ff47d1bd6cd3bb4cd3f820e9918015f21de917e505b3e514a33dd61a1acc5b",
+            "w": 192
+          },
+          {
+            "bytes": 18944,
+            "h": 186,
+            "path": "avif/framed-rider-vignette-256.avif",
+            "sha256": "e29fd3ddbb6108b107e019ed3515fb5de316b7f34b831dadc63d4e0b018d352d",
+            "w": 256
+          },
+          {
+            "bytes": 24112,
+            "h": 241,
+            "path": "avif/framed-rider-vignette-331.avif",
+            "sha256": "9fcc21d9a21276a62ca6107a3ccedc380240ab7709f6b6755cb0aa70414f1b81",
+            "w": 331
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3452,
+            "h": 47,
+            "path": "webp/framed-rider-vignette-64.webp",
+            "sha256": "6ffe6d294b872b50dbae326eef3115f94aa175435627240bb7f836c31e9c2fc2",
+            "w": 64
+          },
+          {
+            "bytes": 7244,
+            "h": 70,
+            "path": "webp/framed-rider-vignette-96.webp",
+            "sha256": "d0c726c28ea53acaba9ca98ba8552954cea0f5711044942f18bbb75077c93187",
+            "w": 96
+          },
+          {
+            "bytes": 12182,
+            "h": 93,
+            "path": "webp/framed-rider-vignette-128.webp",
+            "sha256": "d349101ec886b4daec9954d941473a51d8bf4c69e14973b249b90d74d43f5b28",
+            "w": 128
+          },
+          {
+            "bytes": 25144,
+            "h": 140,
+            "path": "webp/framed-rider-vignette-192.webp",
+            "sha256": "cb9b291870091b10aa3823501167d09256bb8f2e38e1b4bc7ba646a89deff3e4",
+            "w": 192
+          },
+          {
+            "bytes": 41652,
+            "h": 186,
+            "path": "webp/framed-rider-vignette-256.webp",
+            "sha256": "8584d755a3e3d47cc441b833aadb6241c167ddc6a2d18552bb59ec6f5258dee2",
+            "w": 256
+          },
+          {
+            "bytes": 51832,
+            "h": 241,
+            "path": "webp/framed-rider-vignette-331.webp",
+            "sha256": "256fbeb51b7dff095569b473111b2129331cb4ecf2d8ccec23a31e7bb041d5df",
+            "w": 331
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "rider",
+        "human",
+        "creature",
+        "frame"
+      ],
+      "thumbhash": "EAiCBIAYYHiHmFx3x/vnT1pLeWyI+Hd4Dw==",
+      "title": "Framed rider on a lion-like beast",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Cropped from the middle-left framed scene of grotesque-architecture-with-bird-canopies; framed-reclining-figure-with-round-shield is its counterpart on the other side.",
+        "Small and coarse; keep it at or below the master width."
+      ],
+      "width": 331
+    },
+    "framed-statue-with-two-attending-figures": {
+      "attribution": "Metropolitan Museum of Art 21.10.1(31)",
+      "categories": [
+        "humans"
+      ],
+      "colors": [
+        "black",
+        "gray",
+        "brown"
+      ],
+      "composition": "framed-scene",
+      "description": "A small upright framed vignette cropped from a grotesque panel: a nude statue holding a tall spear stands on a round pedestal, and two draped figures stand at either side of it, the right one reaching up toward it. Thick, soft dark lines inside a double-ruled rectangle and a diagonally hatched frame band; the background is transparent.",
+      "display_width": [
+        170,
+        340
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 43085,
+        "webpTopBytes": 91810
+      },
+      "facing": "viewer",
+      "group": "21-10-1-31",
+      "height": 489,
+      "master": {
+        "bytes": 90302,
+        "h": 489,
+        "path": "masters/framed-statue-with-two-attending-figures.webp",
+        "sha256": "4c0932ba76d0537e37e32d6934a688c63300e1131944af7be2b187def96fcdac",
+        "w": 345
+      },
+      "palette": [
+        "#48433e",
+        "#49433e",
+        "#47433d",
+        "#49443e",
+        "#48443e"
+      ],
+      "provenance": {
+        "artist": "Jacques Androuet Du Cerceau",
+        "date": "1550",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP213858.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "21.10.1(31)",
+        "object_title": "Grotesque Panel",
+        "record_url": "https://www.metmuseum.org/art/collection/search/387622",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "54c6b3852c207f744aa2ee86447b0c751dcd85782331a219b6d401f0a79caa79"
+      },
+      "quality": "Low-resolution crop with a soft line; the hatched frame band is cut by the top and bottom edges.",
+      "related": [
+        {
+          "asset": "du-cerceau-prints/grotesque-architecture-with-bird-canopies",
+          "role": "variant"
+        },
+        {
+          "asset": "du-cerceau-prints/framed-statue-with-two-foreground-figures",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3682,
+            "h": 91,
+            "path": "avif/framed-statue-with-two-attending-figures-64.avif",
+            "sha256": "e8df30a93dbf5111f69a4c25275bd003b834117b1e04592927505bfedce3c487",
+            "w": 64
+          },
+          {
+            "bytes": 7027,
+            "h": 136,
+            "path": "avif/framed-statue-with-two-attending-figures-96.avif",
+            "sha256": "1af34b0694efe8c9272eeb17399e798e024e98d483317e3689c11d2a0edb4832",
+            "w": 96
+          },
+          {
+            "bytes": 11293,
+            "h": 181,
+            "path": "avif/framed-statue-with-two-attending-figures-128.avif",
+            "sha256": "428b00a4bedc3cd955f6b750b49280f3c3b26dd272bd931289515a5567aa80c8",
+            "w": 128
+          },
+          {
+            "bytes": 21631,
+            "h": 272,
+            "path": "avif/framed-statue-with-two-attending-figures-192.avif",
+            "sha256": "ef2841dadad081ead7709adf46ab8c7a89dfc4ebb5933971ccb97cd0d73f96cf",
+            "w": 192
+          },
+          {
+            "bytes": 33736,
+            "h": 363,
+            "path": "avif/framed-statue-with-two-attending-figures-256.avif",
+            "sha256": "59b303742a9bec2c9978b25341b26ab295a3eb42098b4c74af36bc1be807c703",
+            "w": 256
+          },
+          {
+            "bytes": 43085,
+            "h": 489,
+            "path": "avif/framed-statue-with-two-attending-figures-345.avif",
+            "sha256": "2e4751b50bbd410d7ffa72413324f6974d5c9da32b8517c31282e1de886fa023",
+            "w": 345
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 6284,
+            "h": 91,
+            "path": "webp/framed-statue-with-two-attending-figures-64.webp",
+            "sha256": "68a2cc66721a470c4bb456ca6e67b181eb309e4627e303d8795088b4b6ed5598",
+            "w": 64
+          },
+          {
+            "bytes": 13450,
+            "h": 136,
+            "path": "webp/framed-statue-with-two-attending-figures-96.webp",
+            "sha256": "0605c35f78ad884b16e6be360ff2ae29d4a1bdcd3e3228fbd0e7b7a6d4cd75b8",
+            "w": 96
+          },
+          {
+            "bytes": 22866,
+            "h": 181,
+            "path": "webp/framed-statue-with-two-attending-figures-128.webp",
+            "sha256": "ea1f1032594b3c2ef3fc83b9f36719649da70f227ba97ccc5c3458ebec6ada0a",
+            "w": 128
+          },
+          {
+            "bytes": 47054,
+            "h": 272,
+            "path": "webp/framed-statue-with-two-attending-figures-192.webp",
+            "sha256": "5fc6b3be57725c3261b55f08939de429937745c84119a791421f1035a916bc46",
+            "w": 192
+          },
+          {
+            "bytes": 76674,
+            "h": 363,
+            "path": "webp/framed-statue-with-two-attending-figures-256.webp",
+            "sha256": "7ef3b9ce7bc19a64b7caac1d9a0a9435e406e2d41340e456ecce1557e670d95a",
+            "w": 256
+          },
+          {
+            "bytes": 91810,
+            "h": 489,
+            "path": "webp/framed-statue-with-two-attending-figures-345.webp",
+            "sha256": "c27f110dd69d59b812af1c60aa1c273345843ba48331647d2c8f6c218141b72d",
+            "w": 345
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "statue",
+        "spear",
+        "human",
+        "frame"
+      ],
+      "thumbhash": "EQiCBAAWCSqll7uHlvg+7Pt0rQyXmIh6DQ==",
+      "title": "Framed statue with two standing attendants",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Cropped from the lower-right framed scene of grotesque-architecture-with-bird-canopies; framed-statue-with-two-foreground-figures is its counterpart on the other side.",
+        "Small and coarse; keep it at or below the master width."
+      ],
+      "width": 345
+    },
+    "framed-statue-with-two-foreground-figures": {
+      "attribution": "Metropolitan Museum of Art 21.10.1(31)",
+      "categories": [
+        "humans"
+      ],
+      "colors": [
+        "black",
+        "gray",
+        "brown"
+      ],
+      "composition": "framed-scene",
+      "description": "A small upright framed vignette cropped from a grotesque panel: a nude statue with one arm akimbo, holding a tall staff, stands on a round pedestal; two nude figures sit at its base with their backs to the viewer, turned toward each other. Thick, soft dark lines inside a double-ruled rectangle and a diagonally hatched frame band; the background is transparent.",
+      "display_width": [
+        160,
+        320
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 39635,
+        "webpTopBytes": 90186
+      },
+      "facing": "viewer",
+      "group": "21-10-1-31",
+      "height": 497,
+      "master": {
+        "bytes": 90632,
+        "h": 497,
+        "path": "masters/framed-statue-with-two-foreground-figures.webp",
+        "sha256": "dd16c7fedb2f2ff8b1faf305584bae40dee50bc0843ce6a949c78314055d806a",
+        "w": 335
+      },
+      "palette": [
+        "#44423d",
+        "#44423e",
+        "#45423d",
+        "#45433e",
+        "#45433d"
+      ],
+      "provenance": {
+        "artist": "Jacques Androuet Du Cerceau",
+        "date": "1550",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP213858.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "21.10.1(31)",
+        "object_title": "Grotesque Panel",
+        "record_url": "https://www.metmuseum.org/art/collection/search/387622",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "54c6b3852c207f744aa2ee86447b0c751dcd85782331a219b6d401f0a79caa79"
+      },
+      "quality": "Low-resolution crop with a soft line; the hatched frame band is cut by the top edge.",
+      "related": [
+        {
+          "asset": "du-cerceau-prints/grotesque-architecture-with-bird-canopies",
+          "role": "variant"
+        },
+        {
+          "asset": "du-cerceau-prints/framed-statue-with-two-attending-figures",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3407,
+            "h": 95,
+            "path": "avif/framed-statue-with-two-foreground-figures-64.avif",
+            "sha256": "337236672c54e023db6c6a0d5f6721e404d78d6290dcc6bc7992292212426778",
+            "w": 64
+          },
+          {
+            "bytes": 6425,
+            "h": 142,
+            "path": "avif/framed-statue-with-two-foreground-figures-96.avif",
+            "sha256": "0ba2046d1575cc62fdb8936d464c474973381a70968ccdd96c9d331970d73497",
+            "w": 96
+          },
+          {
+            "bytes": 10292,
+            "h": 190,
+            "path": "avif/framed-statue-with-two-foreground-figures-128.avif",
+            "sha256": "8a5e69c1b3e1101e37a60d49568c51ef4624fc77dc59d54ccf029c4aa08b64ce",
+            "w": 128
+          },
+          {
+            "bytes": 19714,
+            "h": 285,
+            "path": "avif/framed-statue-with-two-foreground-figures-192.avif",
+            "sha256": "241d505fc21d854c5d6e45cd8cfff1f13917bb435b3c3c532cf9e8047d076ad1",
+            "w": 192
+          },
+          {
+            "bytes": 31732,
+            "h": 380,
+            "path": "avif/framed-statue-with-two-foreground-figures-256.avif",
+            "sha256": "798e531fed21d986d1f932a824c323668e6aaa29a5847d05bfa5f12c2c5bb379",
+            "w": 256
+          },
+          {
+            "bytes": 39635,
+            "h": 497,
+            "path": "avif/framed-statue-with-two-foreground-figures-335.avif",
+            "sha256": "84d3033f8e8b0920965120c0a4567b286feb69b3f80caf3d85a69ee9c1f00a6b",
+            "w": 335
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 6176,
+            "h": 95,
+            "path": "webp/framed-statue-with-two-foreground-figures-64.webp",
+            "sha256": "3aa0e4cb7f2b3e8b77a2716cf3ba2d0fdbb767cbd9b6d117917c47397eb9aee6",
+            "w": 64
+          },
+          {
+            "bytes": 13306,
+            "h": 142,
+            "path": "webp/framed-statue-with-two-foreground-figures-96.webp",
+            "sha256": "7831ceb4a357104aef3d30831eb0e5cce864e5cd2d2625b708d289758664a651",
+            "w": 96
+          },
+          {
+            "bytes": 21968,
+            "h": 190,
+            "path": "webp/framed-statue-with-two-foreground-figures-128.webp",
+            "sha256": "383587dfcae34e966ed4d94d07713c7f5b227448d5e297982ccbbcf00f5551d6",
+            "w": 128
+          },
+          {
+            "bytes": 45610,
+            "h": 285,
+            "path": "webp/framed-statue-with-two-foreground-figures-192.webp",
+            "sha256": "0c62c5b225f613d87bdf7ce726a164e86ede13035c188a2c0364e44ef2cf6a9b",
+            "w": 192
+          },
+          {
+            "bytes": 72528,
+            "h": 380,
+            "path": "webp/framed-statue-with-two-foreground-figures-256.webp",
+            "sha256": "ea9e587710075f6025e057e53c90c4c04bce439478e52f14d7ec021b2a9d0f8a",
+            "w": 256
+          },
+          {
+            "bytes": 90186,
+            "h": 497,
+            "path": "webp/framed-statue-with-two-foreground-figures-335.webp",
+            "sha256": "67c3057563fc4a69ea4006664ef10a07220110757009be68eeaa9ece90c32fd5",
+            "w": 335
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "statue",
+        "spear",
+        "human",
+        "frame"
+      ],
+      "thumbhash": "EAiCAwAWQ6L2pmr162u1n+fmgGh8l4g=",
+      "title": "Framed statue with two seated figures",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Cropped from the lower-left framed scene of grotesque-architecture-with-bird-canopies; framed-statue-with-two-attending-figures is its counterpart on the other side.",
+        "Small and coarse; keep it at or below the master width."
+      ],
+      "width": 335
+    },
+    "framed-two-figures-contesting-on-shared-ground": {
+      "attribution": "Metropolitan Museum of Art 21.10.1(31)",
+      "categories": [
+        "humans"
+      ],
+      "colors": [
+        "black",
+        "gray",
+        "brown"
+      ],
+      "composition": "framed-scene",
+      "description": "A small framed vignette cropped from a grotesque panel: a nude figure stands at the right with both arms flung up and the head turned to the left, one leg thrust against a second nude figure crouching at the left. Thick, soft dark lines inside a double-ruled rectangle and a diagonally hatched frame band; the background is transparent.",
+      "display_width": [
+        200,
+        400
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 33185,
+        "webpTopBytes": 72108
+      },
+      "facing": "mixed",
+      "group": "21-10-1-31",
+      "height": 313,
+      "master": {
+        "bytes": 71240,
+        "h": 313,
+        "path": "masters/framed-two-figures-contesting-on-shared-ground.webp",
+        "sha256": "529a1d2ef87b314fa479bc3b93fa75698ebcb78dedf6b417dbddac82db10e8c0",
+        "w": 424
+      },
+      "palette": [
+        "#44423d",
+        "#44433d",
+        "#44433e",
+        "#45433e",
+        "#45433d"
+      ],
+      "provenance": {
+        "artist": "Jacques Androuet Du Cerceau",
+        "date": "1550",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP213858.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "21.10.1(31)",
+        "object_title": "Grotesque Panel",
+        "record_url": "https://www.metmuseum.org/art/collection/search/387622",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "54c6b3852c207f744aa2ee86447b0c751dcd85782331a219b6d401f0a79caa79"
+      },
+      "quality": "Low-resolution crop with a soft line; the hatched frame band is clipped along the top edge.",
+      "related": [
+        {
+          "asset": "du-cerceau-prints/grotesque-architecture-with-bird-canopies",
+          "role": "variant"
+        },
+        {
+          "asset": "du-cerceau-prints/framed-two-figures-with-rectangular-props",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1962,
+            "h": 47,
+            "path": "avif/framed-two-figures-contesting-on-shared-ground-64.avif",
+            "sha256": "36d4159810d04cd05aeaf9c2231c9d89b3d23837cf23a44beb3a549d807adbf4",
+            "w": 64
+          },
+          {
+            "bytes": 3770,
+            "h": 71,
+            "path": "avif/framed-two-figures-contesting-on-shared-ground-96.avif",
+            "sha256": "b0c5835eb9540af7615ed9b8203de3258381798bfcb4a0e691f692720dbbfb6c",
+            "w": 96
+          },
+          {
+            "bytes": 5654,
+            "h": 94,
+            "path": "avif/framed-two-figures-contesting-on-shared-ground-128.avif",
+            "sha256": "a4c6cf427ddff88a19de0c67700add29d4fd59b06db67d2e1a75c998ff659436",
+            "w": 128
+          },
+          {
+            "bytes": 11133,
+            "h": 142,
+            "path": "avif/framed-two-figures-contesting-on-shared-ground-192.avif",
+            "sha256": "5ad459011afcd0c467a545756b3ca97ea19638bb3b90058e32faec6e1b91b0ac",
+            "w": 192
+          },
+          {
+            "bytes": 18099,
+            "h": 189,
+            "path": "avif/framed-two-figures-contesting-on-shared-ground-256.avif",
+            "sha256": "9ed5e458a9dc8a3eaca4843ee20296095f057a8d787ffa836e528cbdf605b6ad",
+            "w": 256
+          },
+          {
+            "bytes": 35908,
+            "h": 283,
+            "path": "avif/framed-two-figures-contesting-on-shared-ground-384.avif",
+            "sha256": "45f06b520ec90aa04b2d853eb4ee3f89f886712c8975c62bb470f7d53ff7f23c",
+            "w": 384
+          },
+          {
+            "bytes": 33185,
+            "h": 313,
+            "path": "avif/framed-two-figures-contesting-on-shared-ground-424.avif",
+            "sha256": "47e406cb00d10296c42b5fac9be918355f1c4615bbca05ebc7a1ddd23dac6b52",
+            "w": 424
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3356,
+            "h": 47,
+            "path": "webp/framed-two-figures-contesting-on-shared-ground-64.webp",
+            "sha256": "54eb0ff029468fb58da4c5fcac7d8f35f5e2dd231a7d3305d253fedd70c0a015",
+            "w": 64
+          },
+          {
+            "bytes": 7374,
+            "h": 71,
+            "path": "webp/framed-two-figures-contesting-on-shared-ground-96.webp",
+            "sha256": "14c15b6ec8177406b69466fa5d8003472a8973526b7044390d7e635faf65b97c",
+            "w": 96
+          },
+          {
+            "bytes": 11728,
+            "h": 94,
+            "path": "webp/framed-two-figures-contesting-on-shared-ground-128.webp",
+            "sha256": "d65c0133f818b549e4ca3fec281723529dc9c64aaec700b0b418ef6848b0ff00",
+            "w": 128
+          },
+          {
+            "bytes": 24232,
+            "h": 142,
+            "path": "webp/framed-two-figures-contesting-on-shared-ground-192.webp",
+            "sha256": "4b241e920a40874c424e63794d1d4377eb71725ab3dcdb258d91ff8664ffc932",
+            "w": 192
+          },
+          {
+            "bytes": 39804,
+            "h": 189,
+            "path": "webp/framed-two-figures-contesting-on-shared-ground-256.webp",
+            "sha256": "2281e07fd94b4066a1abbe382a42c40d23ea98dfe8d91a1bd91e6809351fa3ba",
+            "w": 256
+          },
+          {
+            "bytes": 80852,
+            "h": 283,
+            "path": "webp/framed-two-figures-contesting-on-shared-ground-384.webp",
+            "sha256": "f318d84589734238f4018595c89a6ae0d38355db1eced9b8b581da2fb516b414",
+            "w": 384
+          },
+          {
+            "bytes": 72108,
+            "h": 313,
+            "path": "webp/framed-two-figures-contesting-on-shared-ground-424.webp",
+            "sha256": "45eeea827e731de2108a089c837081504637d99143aa1c0c27350bd56b5ab678",
+            "w": 424
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "human",
+        "frame"
+      ],
+      "thumbhash": "EAiCBIAWAXaGaE6l6a+2CpxoeWyH+GeJCg==",
+      "title": "Framed standing figure over a crouching figure",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Cropped from the upper-left framed scene of grotesque-architecture-with-bird-canopies; framed-two-figures-with-rectangular-props is its counterpart on the other side.",
+        "Small and coarse; keep it at or below the master width."
+      ],
+      "width": 424
+    },
+    "framed-two-figures-with-rectangular-props": {
+      "attribution": "Metropolitan Museum of Art 21.10.1(31)",
+      "categories": [
+        "humans"
+      ],
+      "colors": [
+        "black",
+        "gray",
+        "brown"
+      ],
+      "composition": "framed-scene",
+      "description": "A small framed vignette cropped from a grotesque panel: a nude figure at the left strides to the right with one arm raised, holding a small object, while a second nude figure sits on a square block at the right with one arm raised toward the first. Thick, soft dark lines inside a double-ruled rectangle and a diagonally hatched frame band; the background is transparent.",
+      "display_width": [
+        200,
+        400
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 36400,
+        "webpTopBytes": 74194
+      },
+      "facing": "mixed",
+      "group": "21-10-1-31",
+      "height": 321,
+      "master": {
+        "bytes": 72650,
+        "h": 321,
+        "path": "masters/framed-two-figures-with-rectangular-props.webp",
+        "sha256": "87c5c0c304c3fe26e9ed60530a945b5ded1335cfc1341dcb55cb5a4ad58b4eba",
+        "w": 442
+      },
+      "palette": [
+        "#49423d",
+        "#48423c",
+        "#48423d",
+        "#47413d"
+      ],
+      "provenance": {
+        "artist": "Jacques Androuet Du Cerceau",
+        "date": "1550",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP213858.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "21.10.1(31)",
+        "object_title": "Grotesque Panel",
+        "record_url": "https://www.metmuseum.org/art/collection/search/387622",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "54c6b3852c207f744aa2ee86447b0c751dcd85782331a219b6d401f0a79caa79"
+      },
+      "quality": "Low-resolution crop with a soft line; the hatched frame band is cut by the bottom edge.",
+      "related": [
+        {
+          "asset": "du-cerceau-prints/grotesque-architecture-with-bird-canopies",
+          "role": "variant"
+        },
+        {
+          "asset": "du-cerceau-prints/framed-two-figures-contesting-on-shared-ground",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2201,
+            "h": 46,
+            "path": "avif/framed-two-figures-with-rectangular-props-64.avif",
+            "sha256": "98378e04887137348058b0040e8fb1672fd25c0a699869114dd49d0ce801ab03",
+            "w": 64
+          },
+          {
+            "bytes": 4364,
+            "h": 70,
+            "path": "avif/framed-two-figures-with-rectangular-props-96.avif",
+            "sha256": "19a839b2112d259255c00fcf454ecd6f13a47a209ec59d4851ee4b5b212a98b4",
+            "w": 96
+          },
+          {
+            "bytes": 6495,
+            "h": 93,
+            "path": "avif/framed-two-figures-with-rectangular-props-128.avif",
+            "sha256": "61b493b8e90f01952e1da153e59db8d7a22cfd1923cf4a5a83cdece1ebc4795a",
+            "w": 128
+          },
+          {
+            "bytes": 12429,
+            "h": 139,
+            "path": "avif/framed-two-figures-with-rectangular-props-192.avif",
+            "sha256": "a28b274284ae70c27526d400a55e34dc079f55bd8ff5f034d917a974af3496cf",
+            "w": 192
+          },
+          {
+            "bytes": 19807,
+            "h": 186,
+            "path": "avif/framed-two-figures-with-rectangular-props-256.avif",
+            "sha256": "85614ff2450f210b91e551a1c39cc0f86e984fdff64b4071e4b1087fb8dd2ec0",
+            "w": 256
+          },
+          {
+            "bytes": 37768,
+            "h": 279,
+            "path": "avif/framed-two-figures-with-rectangular-props-384.avif",
+            "sha256": "fa423d834a9def478642fd69f09d490b4f221b75756a9040adcf1df972a604dd",
+            "w": 384
+          },
+          {
+            "bytes": 36400,
+            "h": 321,
+            "path": "avif/framed-two-figures-with-rectangular-props-442.avif",
+            "sha256": "5aceaa074b02982c08f94b9a5c9cb843c941309ed2a629355dcbd51e7067fa1e",
+            "w": 442
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3386,
+            "h": 46,
+            "path": "webp/framed-two-figures-with-rectangular-props-64.webp",
+            "sha256": "bc2183130b22d7dfebcdd2a3572ab7c9b38a073795623d94dd90b6999cfde6ff",
+            "w": 64
+          },
+          {
+            "bytes": 7492,
+            "h": 70,
+            "path": "webp/framed-two-figures-with-rectangular-props-96.webp",
+            "sha256": "13b8bd825bf53f778ae947ebf95ad2e37e4fd6e0f26f9360f1dbed04eddd8a63",
+            "w": 96
+          },
+          {
+            "bytes": 12278,
+            "h": 93,
+            "path": "webp/framed-two-figures-with-rectangular-props-128.webp",
+            "sha256": "0f9cd6bb073f04042f69b8cee58b989ac36e0898ba4ddda746542178a4640267",
+            "w": 128
+          },
+          {
+            "bytes": 25166,
+            "h": 139,
+            "path": "webp/framed-two-figures-with-rectangular-props-192.webp",
+            "sha256": "eb7aa1e186a45b54751eac7716f03632b261152961b1f511d9216a4250d0273d",
+            "w": 192
+          },
+          {
+            "bytes": 41420,
+            "h": 186,
+            "path": "webp/framed-two-figures-with-rectangular-props-256.webp",
+            "sha256": "3ab0a8bf3c65192140eb21be4ff644f4fddc22709872b8265982be237b47da78",
+            "w": 256
+          },
+          {
+            "bytes": 79776,
+            "h": 279,
+            "path": "webp/framed-two-figures-with-rectangular-props-384.webp",
+            "sha256": "d9612ad2803eb70c047e6d3c884a798dac0360ce0ced10c42a94657c4ea72b3d",
+            "w": 384
+          },
+          {
+            "bytes": 74194,
+            "h": 321,
+            "path": "webp/framed-two-figures-with-rectangular-props-442.webp",
+            "sha256": "29fcbbc8a3403c1bb8519d37cca04a9ff5aacb02bc2a0291e1d4b8de1c519320",
+            "w": 442
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "human",
+        "frame"
+      ],
+      "thumbhash": "EQiCBIAVHzOaecvBCXdpO6aAmlmJ91l1Cw==",
+      "title": "Framed striding figure and figure seated on a block",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Cropped from the upper-right framed scene of grotesque-architecture-with-bird-canopies; framed-two-figures-contesting-on-shared-ground is its counterpart on the other side.",
+        "Small and coarse; keep it at or below the master width."
+      ],
+      "width": 442
+    },
+    "garlanded-grotesque-with-musicians-and-mask": {
+      "attribution": "Metropolitan Museum of Art 23.34.2(28)",
+      "categories": [
+        "fantasy",
+        "hybrids",
+        "humans",
+        "animals",
+        "music",
+        "scrollwork"
+      ],
+      "colors": [
+        "black",
+        "gray",
+        "brown"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall upright panel in a thin ruled border. Two eagles with spread wings hold bead garlands at the top corners beside a winged female half-figure, hatched tablets hanging below. Bearded foliate scrolls carry a horned satyr with a pipe and a man playing a lyre. A bat-winged, goat-headed creature spreads over a grinning bearded mask above a frieze of tiny figures. Two cranes fly in over a swag to an oval cartouche; two goat-legged satyrs blow pipes on a pedestal with a dark niche, between crossed instruments, torches, urns and two sphinxes. Warm dark gray ink; transparent background.",
+      "display_width": [
+        400,
+        800
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 1619840,
+        "webpTopBytes": 3268510
+      },
+      "facing": "viewer",
+      "group": "23-34-2-28",
+      "height": 3421,
+      "master": {
+        "bytes": 1776406,
+        "h": 2049,
+        "path": "masters/garlanded-grotesque-with-musicians-and-mask.webp",
+        "sha256": "70bb863dd2460f81f760f26f5192977260f37690cdada0085cc2769c32fc568f",
+        "w": 1321
+      },
+      "palette": [
+        "#514c41",
+        "#504b41",
+        "#514c40",
+        "#4f4b40",
+        "#504c41"
+      ],
+      "provenance": {
+        "artist": "Jacques Androuet Du Cerceau",
+        "date": "1562",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP213859.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "23.34.2(28)",
+        "object_title": "Grotesque Panel",
+        "record_url": "https://www.metmuseum.org/art/collection/search/387675",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "e74b911019cd57d483a7d342aae79e8dc14c8397e4653a8224ef69b36631370f"
+      },
+      "quality": "Smudges and a scratched patch at the centre of the impression; the top rule touches the top edge of the master.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4581,
+            "h": 99,
+            "path": "avif/garlanded-grotesque-with-musicians-and-mask-64.avif",
+            "sha256": "ea3570853c96bfbedab961388375da82063f87b3224917ea1fcf3c2b2db65989",
+            "w": 64
+          },
+          {
+            "bytes": 10346,
+            "h": 149,
+            "path": "avif/garlanded-grotesque-with-musicians-and-mask-96.avif",
+            "sha256": "5138734f2cc388c959d476726db85263c1dd0bc796e099abe56cdaf746fb2c91",
+            "w": 96
+          },
+          {
+            "bytes": 15852,
+            "h": 198,
+            "path": "avif/garlanded-grotesque-with-musicians-and-mask-128.avif",
+            "sha256": "71ad992e5690f87be8dd79700826f40692fe2e203054637a571c19c88407d6ea",
+            "w": 128
+          },
+          {
+            "bytes": 32387,
+            "h": 298,
+            "path": "avif/garlanded-grotesque-with-musicians-and-mask-192.avif",
+            "sha256": "b62f479eefda7da3767c9692fe130f501ef78fd648952d766db13c42639526ac",
+            "w": 192
+          },
+          {
+            "bytes": 55337,
+            "h": 397,
+            "path": "avif/garlanded-grotesque-with-musicians-and-mask-256.avif",
+            "sha256": "d423a8e042e304a6fa2b7a18f18bdb8c5d16bdba4bc813c8bc1de54aacc57baf",
+            "w": 256
+          },
+          {
+            "bytes": 117211,
+            "h": 595,
+            "path": "avif/garlanded-grotesque-with-musicians-and-mask-384.avif",
+            "sha256": "d387c7343a5729592a8cf23e4765f417b4a869c2c3b5e8f2cb599be60d2db54b",
+            "w": 384
+          },
+          {
+            "bytes": 192057,
+            "h": 794,
+            "path": "avif/garlanded-grotesque-with-musicians-and-mask-512.avif",
+            "sha256": "5dcca50b4e95947610a9c3c38adc512584fa101908f71ee75778d88bb8e10b51",
+            "w": 512
+          },
+          {
+            "bytes": 346606,
+            "h": 1191,
+            "path": "avif/garlanded-grotesque-with-musicians-and-mask-768.avif",
+            "sha256": "e09e816c2684c66fa0508e7f097d40c7a82bae03e1ce10e4ff36df80b187d9b0",
+            "w": 768
+          },
+          {
+            "bytes": 534632,
+            "h": 1588,
+            "path": "avif/garlanded-grotesque-with-musicians-and-mask-1024.avif",
+            "sha256": "b74be363932af3e2eabf56db4cc6f7194e2fcb5bc43b5c176312a4b0060e6855",
+            "w": 1024
+          },
+          {
+            "bytes": 997704,
+            "h": 2382,
+            "path": "avif/garlanded-grotesque-with-musicians-and-mask-1536.avif",
+            "sha256": "70c6370a414dbc59a24a208b159c2f40f9b93fbc324c22bc2007fa5a1a5b7082",
+            "w": 1536
+          },
+          {
+            "bytes": 1619840,
+            "h": 3176,
+            "path": "avif/garlanded-grotesque-with-musicians-and-mask-2048.avif",
+            "sha256": "153d344dc2dde8be2df1efaa126e9e71ddbba22ba59b4df33474daef8851795f",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 6914,
+            "h": 99,
+            "path": "webp/garlanded-grotesque-with-musicians-and-mask-64.webp",
+            "sha256": "942f4335583ef7cdc05783b74d0d8414168f4168e85d369e6c63c7465aaa8e4c",
+            "w": 64
+          },
+          {
+            "bytes": 15838,
+            "h": 149,
+            "path": "webp/garlanded-grotesque-with-musicians-and-mask-96.webp",
+            "sha256": "4d254db8e2944d82099f6e9d7b92f706a088b44ae211a968472e9499dacecf71",
+            "w": 96
+          },
+          {
+            "bytes": 27972,
+            "h": 198,
+            "path": "webp/garlanded-grotesque-with-musicians-and-mask-128.webp",
+            "sha256": "f6f8a8af57c4e5c41983a942a3a39effbde66448444bee3060bbbb5c9901319c",
+            "w": 128
+          },
+          {
+            "bytes": 59250,
+            "h": 298,
+            "path": "webp/garlanded-grotesque-with-musicians-and-mask-192.webp",
+            "sha256": "856f0107b0a7babe352a8fce01df6692bb89a1b1beb03ecf1239cf9ccc6def9b",
+            "w": 192
+          },
+          {
+            "bytes": 100232,
+            "h": 397,
+            "path": "webp/garlanded-grotesque-with-musicians-and-mask-256.webp",
+            "sha256": "66bb08cc5c63900a5c1b171d6d4ed250f56262aec84db32235ff2881e9e1367c",
+            "w": 256
+          },
+          {
+            "bytes": 204144,
+            "h": 595,
+            "path": "webp/garlanded-grotesque-with-musicians-and-mask-384.webp",
+            "sha256": "4cb64c1fd4e783c59be90bb328a0577f6d909ea6bfdefee185fab7c337e8ec28",
+            "w": 384
+          },
+          {
+            "bytes": 339760,
+            "h": 794,
+            "path": "webp/garlanded-grotesque-with-musicians-and-mask-512.webp",
+            "sha256": "e42c54edae560efeeb54a068e2bf6ed874023797ba564c141aabb89bb10755cc",
+            "w": 512
+          },
+          {
+            "bytes": 663142,
+            "h": 1191,
+            "path": "webp/garlanded-grotesque-with-musicians-and-mask-768.webp",
+            "sha256": "e376cbd7b0adbe4a368c5e3ffdd1a8ae7b05f805d0d5674450972765d48cbe30",
+            "w": 768
+          },
+          {
+            "bytes": 1075882,
+            "h": 1588,
+            "path": "webp/garlanded-grotesque-with-musicians-and-mask-1024.webp",
+            "sha256": "af400bf5d57914c0f74f05d49d3492d06d47b0f4efaf8b6c7429d4715cdaae80",
+            "w": 1024
+          },
+          {
+            "bytes": 2127658,
+            "h": 2382,
+            "path": "webp/garlanded-grotesque-with-musicians-and-mask-1536.webp",
+            "sha256": "02159e29fbbf91d34947b870b17d773df16157c4cecb7035d4cd89a9fcca60b0",
+            "w": 1536
+          },
+          {
+            "bytes": 3268510,
+            "h": 3176,
+            "path": "webp/garlanded-grotesque-with-musicians-and-mask-2048.webp",
+            "sha256": "d4f6550c0847b997765d3f9bbd46950f4223b614d1ff464162da6b58a53bb8aa",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "eagle",
+        "bird",
+        "mask",
+        "satyr",
+        "musician",
+        "pipe",
+        "lyre",
+        "garland",
+        "cartouche",
+        "frieze",
+        "sphinx",
+        "child",
+        "torch",
+        "urn",
+        "wings",
+        "scroll"
+      ],
+      "thumbhash": "UgiCAwADRGmIuAr8egpmaQZZZnh4pzk=",
+      "title": "Grotesque with eagles, musicians and a bearded mask",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Tall panel (about 2 to 3) with its thin ruled plate border; place it standing.",
+        "Single-colour ink with its density in the alpha channel; place on any light ground or use as a mask."
+      ],
+      "width": 2206
+    },
+    "grotesque-architecture-with-bird-canopies": {
+      "attribution": "Metropolitan Museum of Art 21.10.1(31)",
+      "categories": [
+        "fantasy",
+        "hybrids",
+        "humans",
+        "animals",
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "black",
+        "gray",
+        "brown"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall upright panel in a ruled border. Three winged busts on vases top thin scroll stems; a goose and a parrot-like bird perch on fringed canopies at the corners. Under a leafy arch with a mask at its crown two satyrs dance around a staff twined by two snakes, a basket of fruit hanging below; slender candelabra and two amphorae stand at the sides. Six hatched frames with figure scenes are stacked three per side. The base is a strapwork frieze of diamonds and dolphins with four arched niches holding standing figures between serpents. Warm dark gray ink; transparent background.",
+      "display_width": [
+        400,
+        800
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 1246910,
+        "webpTopBytes": 2413746
+      },
+      "facing": "viewer",
+      "group": "21-10-1-31",
+      "height": 3096,
+      "master": {
+        "bytes": 1952930,
+        "h": 2048,
+        "path": "masters/grotesque-architecture-with-bird-canopies.webp",
+        "sha256": "1177a5c4abe8a6f854827f21a839f496922f55c5fc8a3ace7f4fb6318d9bb6d5",
+        "w": 1351
+      },
+      "palette": [
+        "#48443f",
+        "#47443e",
+        "#47433f",
+        "#48433e",
+        "#48433f"
+      ],
+      "provenance": {
+        "artist": "Jacques Androuet Du Cerceau",
+        "date": "1550",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP213858.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "21.10.1(31)",
+        "object_title": "Grotesque Panel",
+        "record_url": "https://www.metmuseum.org/art/collection/search/387622",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "54c6b3852c207f744aa2ee86447b0c751dcd85782331a219b6d401f0a79caa79"
+      },
+      "quality": "The top rule is cut by the top edge of the master.",
+      "related": [
+        {
+          "asset": "du-cerceau-prints/framed-rider-vignette",
+          "role": "variant"
+        },
+        {
+          "asset": "du-cerceau-prints/framed-reclining-figure-on-curled-tail",
+          "role": "variant"
+        },
+        {
+          "asset": "du-cerceau-prints/framed-statue-with-two-attending-figures",
+          "role": "variant"
+        },
+        {
+          "asset": "du-cerceau-prints/framed-statue-with-two-foreground-figures",
+          "role": "variant"
+        },
+        {
+          "asset": "du-cerceau-prints/framed-two-figures-contesting-on-shared-ground",
+          "role": "variant"
+        },
+        {
+          "asset": "du-cerceau-prints/framed-two-figures-with-rectangular-props",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3933,
+            "h": 97,
+            "path": "avif/grotesque-architecture-with-bird-canopies-64.avif",
+            "sha256": "c452213dd59158b709058bd4cc8cb62123c859ac9f9b6cd81d9d09084b8f4874",
+            "w": 64
+          },
+          {
+            "bytes": 8423,
+            "h": 146,
+            "path": "avif/grotesque-architecture-with-bird-canopies-96.avif",
+            "sha256": "7cf97c0d75dbcc3cc2288d72ea19c5ff8f976379e1c4050788d0a769e7af8053",
+            "w": 96
+          },
+          {
+            "bytes": 13842,
+            "h": 194,
+            "path": "avif/grotesque-architecture-with-bird-canopies-128.avif",
+            "sha256": "ef4407b7e95d4199538628a6e6bf77934c9d1c3d7a8ca0b937de8ca066b9b128",
+            "w": 128
+          },
+          {
+            "bytes": 28061,
+            "h": 291,
+            "path": "avif/grotesque-architecture-with-bird-canopies-192.avif",
+            "sha256": "542e45445e4f0a28df560794f63265644e3ba590c15b072e3e9484a13a2c1ee9",
+            "w": 192
+          },
+          {
+            "bytes": 46640,
+            "h": 388,
+            "path": "avif/grotesque-architecture-with-bird-canopies-256.avif",
+            "sha256": "d394ce61a823c25398a39fbedc83de4ac77396d52edbbe4bdbd6309778148be4",
+            "w": 256
+          },
+          {
+            "bytes": 101577,
+            "h": 582,
+            "path": "avif/grotesque-architecture-with-bird-canopies-384.avif",
+            "sha256": "331a51d35916fa0dad5832763f5d2781285005efb6703df9ef6c5e1b11e93bf7",
+            "w": 384
+          },
+          {
+            "bytes": 160374,
+            "h": 776,
+            "path": "avif/grotesque-architecture-with-bird-canopies-512.avif",
+            "sha256": "49ff7974d594e0e28f560b6dd0b7c7099060ef86a5685a2c2cb90d645e67ef4d",
+            "w": 512
+          },
+          {
+            "bytes": 306610,
+            "h": 1164,
+            "path": "avif/grotesque-architecture-with-bird-canopies-768.avif",
+            "sha256": "f5980d27e60465b1b5f90c446556a06a4d947b5718f23c89c268fa5915e76012",
+            "w": 768
+          },
+          {
+            "bytes": 479462,
+            "h": 1553,
+            "path": "avif/grotesque-architecture-with-bird-canopies-1024.avif",
+            "sha256": "ba285b0aba78b8b8a79ac74134edcfa571bf4b1c50e8617716eed5baae89bdd6",
+            "w": 1024
+          },
+          {
+            "bytes": 904857,
+            "h": 2329,
+            "path": "avif/grotesque-architecture-with-bird-canopies-1536.avif",
+            "sha256": "19c9157dceb2b340c2e8daa6a6cc7d4e8b8d8ff23f04a8157c19d96c297aff94",
+            "w": 1536
+          },
+          {
+            "bytes": 1246910,
+            "h": 3096,
+            "path": "avif/grotesque-architecture-with-bird-canopies-2042.avif",
+            "sha256": "6b18bb66a013e3dcf8ff9ce83fb21471a2efc8084f2e37b5dc8715f634564d99",
+            "w": 2042
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 6722,
+            "h": 97,
+            "path": "webp/grotesque-architecture-with-bird-canopies-64.webp",
+            "sha256": "15794965b95571990bcc5c70de47d2013662b7887691a4815faa559c18875a58",
+            "w": 64
+          },
+          {
+            "bytes": 15092,
+            "h": 146,
+            "path": "webp/grotesque-architecture-with-bird-canopies-96.webp",
+            "sha256": "924ed500ba10ab0e595c22207635ea3b94d61ec8eea172056b8f6a0b80f7c0e8",
+            "w": 96
+          },
+          {
+            "bytes": 25208,
+            "h": 194,
+            "path": "webp/grotesque-architecture-with-bird-canopies-128.webp",
+            "sha256": "f5e7239aadb59a0d526b97b96f4503b2556bea6be6e5dcf85ddfbccb346deab6",
+            "w": 128
+          },
+          {
+            "bytes": 53386,
+            "h": 291,
+            "path": "webp/grotesque-architecture-with-bird-canopies-192.webp",
+            "sha256": "2b2aba083afbb23972341c8de104c8e71ccae2bf1f7e3b50c6c57b1ea9041ca0",
+            "w": 192
+          },
+          {
+            "bytes": 90146,
+            "h": 388,
+            "path": "webp/grotesque-architecture-with-bird-canopies-256.webp",
+            "sha256": "14d67b296fa624309616b54aba60fe1d279cc42b3468ad8441fd2ebb8165d3f6",
+            "w": 256
+          },
+          {
+            "bytes": 190386,
+            "h": 582,
+            "path": "webp/grotesque-architecture-with-bird-canopies-384.webp",
+            "sha256": "8f891cdd7234ef24f22c98dcba598fee7c7a09496d3c1552a27ccc6704a42c7b",
+            "w": 384
+          },
+          {
+            "bytes": 312340,
+            "h": 776,
+            "path": "webp/grotesque-architecture-with-bird-canopies-512.webp",
+            "sha256": "293c0cc463274ff4064758d8b58d5a9158f2b1a1a8467e8fee73994cc4677567",
+            "w": 512
+          },
+          {
+            "bytes": 634436,
+            "h": 1164,
+            "path": "webp/grotesque-architecture-with-bird-canopies-768.webp",
+            "sha256": "7b4e2b2a26573bd4fa0c9aa67e36b55a55ca9fb233ab8a4dbf10f417c594e941",
+            "w": 768
+          },
+          {
+            "bytes": 1040944,
+            "h": 1553,
+            "path": "webp/grotesque-architecture-with-bird-canopies-1024.webp",
+            "sha256": "4eb1c6056d9507222c37781c534f5ec6c78f15a4a07b878d3204ae688a3006d4",
+            "w": 1024
+          },
+          {
+            "bytes": 2062686,
+            "h": 2329,
+            "path": "webp/grotesque-architecture-with-bird-canopies-1536.webp",
+            "sha256": "3cba363cd4d82df583effc336458ae593a0d9f549aabb506fb3505f6ca296b7e",
+            "w": 1536
+          },
+          {
+            "bytes": 2413746,
+            "h": 3096,
+            "path": "webp/grotesque-architecture-with-bird-canopies-2042.webp",
+            "sha256": "2e8731f06b084b0fd9c1c543de301554ee1ccd6126e8d61337094bc49f06ab23",
+            "w": 2042
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "bird",
+        "canopy",
+        "satyr",
+        "snake",
+        "mask",
+        "wings",
+        "vase",
+        "basket",
+        "frame",
+        "niche",
+        "statue",
+        "woman",
+        "dolphin",
+        "frieze",
+        "candelabrum",
+        "scroll",
+        "leaf"
+      ],
+      "thumbhash": "EQiCAwAUnWA1mEdwiFGB9YmHcIWHZWc=",
+      "title": "Grotesque architecture with satyrs, framed scenes and niches",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Tall panel (about 2 to 3) with its thin ruled plate border; place it standing.",
+        "The six framed scenes are also published as separate crops (the framed-* assets); use those when a single vignette is wanted.",
+        "Single-colour ink with its density in the alpha channel; place on any light ground or use as a mask."
+      ],
+      "width": 2042
+    },
+    "grotesque-candelabrum-with-horned-hybrids": {
+      "attribution": "Metropolitan Museum of Art 21.10.1(18)",
+      "categories": [
+        "fantasy",
+        "hybrids",
+        "humans",
+        "animals",
+        "music",
+        "scrollwork"
+      ],
+      "colors": [
+        "gray",
+        "brown",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall upright panel in a ruled border, a faint impression. Two winged genii read books at the top corners of a rod hung with trophies of arms and tablets; an armour trophy stands above a crescent boat with ram-head prows carrying two nude figures. A winged woman holding two long trumpets is flanked by rearing horses on cups raised by reclining nudes; below her a crested term lifts two cornucopias between two horned, bearded, horse-bodied hybrids. A frieze of a triumph with elephants, a winged mask and two dragons held by nude figures close the base. Pale warm gray ink; transparent background.",
+      "display_width": [
+        400,
+        800
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 1692574,
+        "webpTopBytes": 3339054
+      },
+      "facing": "viewer",
+      "group": "21-10-1-18",
+      "height": 3385,
+      "master": {
+        "bytes": 1981146,
+        "h": 2048,
+        "path": "masters/grotesque-candelabrum-with-horned-hybrids.webp",
+        "sha256": "2f89949ff431fb9785d790ad06659168e0c00c9339cf125d5dddd974b8b43768",
+        "w": 1364
+      },
+      "palette": [
+        "#5b5445",
+        "#5b5446",
+        "#5c5547",
+        "#5a5545",
+        "#5a5346"
+      ],
+      "provenance": {
+        "artist": "Jacques Androuet Du Cerceau",
+        "date": "1550",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP213856.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "21.10.1(18)",
+        "object_title": "Panel from \"Petites Grotesques\"",
+        "record_url": "https://www.metmuseum.org/art/collection/search/387623",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "00652f9a018333c138582aa1e308c4b5f5ef73715531f2f91d2857fc5bbef0f6"
+      },
+      "quality": "A faint, worn impression; the ink is pale and lines break up, especially in the lower half.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4966,
+            "h": 96,
+            "path": "avif/grotesque-candelabrum-with-horned-hybrids-64.avif",
+            "sha256": "3b2a3850262a36e1f46423d7229b74e02d5c6d54ee5b8b423a7254c14465e23d",
+            "w": 64
+          },
+          {
+            "bytes": 9501,
+            "h": 144,
+            "path": "avif/grotesque-candelabrum-with-horned-hybrids-96.avif",
+            "sha256": "2dd182beb431ccb51035ee91285269863cb30efb5df6a40a8ee47cefa6eb22cd",
+            "w": 96
+          },
+          {
+            "bytes": 16324,
+            "h": 192,
+            "path": "avif/grotesque-candelabrum-with-horned-hybrids-128.avif",
+            "sha256": "e6670b6c8da09f37e4d6f2e85478346fe27b363f68a643df400492bed676dbc7",
+            "w": 128
+          },
+          {
+            "bytes": 34068,
+            "h": 288,
+            "path": "avif/grotesque-candelabrum-with-horned-hybrids-192.avif",
+            "sha256": "ff3beaf72ae23dfbcbea11a2d6bdd3c70081d9ca95e1ed20474adb5ba6cde03b",
+            "w": 192
+          },
+          {
+            "bytes": 57673,
+            "h": 384,
+            "path": "avif/grotesque-candelabrum-with-horned-hybrids-256.avif",
+            "sha256": "8caeb5a61c8c2153fdf37a7094b35989df8bc7483c12e72c6c07ae160c84a952",
+            "w": 256
+          },
+          {
+            "bytes": 119547,
+            "h": 576,
+            "path": "avif/grotesque-candelabrum-with-horned-hybrids-384.avif",
+            "sha256": "dd77ce699582258019ae455ee0dd6cc7e914929a9470c9aea4eaa96057e1c317",
+            "w": 384
+          },
+          {
+            "bytes": 191836,
+            "h": 769,
+            "path": "avif/grotesque-candelabrum-with-horned-hybrids-512.avif",
+            "sha256": "cff583cf367875e839c040ba8c66ab58285dff1568c60d1542f1609fdc5fdc53",
+            "w": 512
+          },
+          {
+            "bytes": 345313,
+            "h": 1153,
+            "path": "avif/grotesque-candelabrum-with-horned-hybrids-768.avif",
+            "sha256": "5fc884b2b235e11b77d2ec5611cd0dcd7364d920712bc35355d8e4e13229dad0",
+            "w": 768
+          },
+          {
+            "bytes": 536950,
+            "h": 1537,
+            "path": "avif/grotesque-candelabrum-with-horned-hybrids-1024.avif",
+            "sha256": "c6f6edab750b8ac99dd3e705967c818df749aa469a1ee07162a5ebbaffbb6a99",
+            "w": 1024
+          },
+          {
+            "bytes": 1028084,
+            "h": 2306,
+            "path": "avif/grotesque-candelabrum-with-horned-hybrids-1536.avif",
+            "sha256": "fab2434e2e2899e895395bc8293b133e85d2847fd1dbb067776a7811cc091a4d",
+            "w": 1536
+          },
+          {
+            "bytes": 1692574,
+            "h": 3074,
+            "path": "avif/grotesque-candelabrum-with-horned-hybrids-2048.avif",
+            "sha256": "e03c8c5779f23d14da2edd383e7bae94ea494a609bf9b84c307312773a632e2b",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 7106,
+            "h": 96,
+            "path": "webp/grotesque-candelabrum-with-horned-hybrids-64.webp",
+            "sha256": "8243d5aaaef899306bd3d98e52ee674174939caf1e6212b6306420d3ebb652c4",
+            "w": 64
+          },
+          {
+            "bytes": 15988,
+            "h": 144,
+            "path": "webp/grotesque-candelabrum-with-horned-hybrids-96.webp",
+            "sha256": "d6b8b00b530a97c10f049dce205f63391ac75762f372e964b76c83aaa494d5cc",
+            "w": 96
+          },
+          {
+            "bytes": 27434,
+            "h": 192,
+            "path": "webp/grotesque-candelabrum-with-horned-hybrids-128.webp",
+            "sha256": "2d49baf7338dab1d21f7b41d99684677de280baf47de399b62ba8a35c91407a3",
+            "w": 128
+          },
+          {
+            "bytes": 57794,
+            "h": 288,
+            "path": "webp/grotesque-candelabrum-with-horned-hybrids-192.webp",
+            "sha256": "220556bc3e4feb49a10d18a87f14bdffbf62354af20c2afdf61329b721fc800b",
+            "w": 192
+          },
+          {
+            "bytes": 97948,
+            "h": 384,
+            "path": "webp/grotesque-candelabrum-with-horned-hybrids-256.webp",
+            "sha256": "4d5da4b7736f04e729828dfcc84005e40ab90ac2ab23783e5ffeaaa0743e4335",
+            "w": 256
+          },
+          {
+            "bytes": 202600,
+            "h": 576,
+            "path": "webp/grotesque-candelabrum-with-horned-hybrids-384.webp",
+            "sha256": "a730b6833ee05b4823a2908bd790687d9925939b8bc314b2a2cbb41c83a7c41e",
+            "w": 384
+          },
+          {
+            "bytes": 335702,
+            "h": 769,
+            "path": "webp/grotesque-candelabrum-with-horned-hybrids-512.webp",
+            "sha256": "812e093e82b01df7d58ee5278314a994e9dd8568361ab918fed57843b9720857",
+            "w": 512
+          },
+          {
+            "bytes": 658240,
+            "h": 1153,
+            "path": "webp/grotesque-candelabrum-with-horned-hybrids-768.webp",
+            "sha256": "3d1c7a88c514b0082d62a35a8ba2e8de2ae613b6f4f8d430ece315c064858637",
+            "w": 768
+          },
+          {
+            "bytes": 1073730,
+            "h": 1537,
+            "path": "webp/grotesque-candelabrum-with-horned-hybrids-1024.webp",
+            "sha256": "af3c2c73f318f86c182e95917ab71086c61e8b3e980c63e70ade9cdf085ec793",
+            "w": 1024
+          },
+          {
+            "bytes": 2070932,
+            "h": 2306,
+            "path": "webp/grotesque-candelabrum-with-horned-hybrids-1536.webp",
+            "sha256": "b169d9b7ae07b111beff683a2fa024cd7fc13cf640c36b43f91147d964a6c166",
+            "w": 1536
+          },
+          {
+            "bytes": 3339054,
+            "h": 3074,
+            "path": "webp/grotesque-candelabrum-with-horned-hybrids-2048.webp",
+            "sha256": "62d7ef371bf172c3276078e98d45d8fc63373696ee729843f180af46dc8bc9c7",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "putto",
+        "book",
+        "trophy",
+        "helmet",
+        "shield",
+        "weapon",
+        "horse",
+        "trumpet",
+        "wings",
+        "woman",
+        "cornucopia",
+        "mask",
+        "frieze",
+        "elephant",
+        "dragon",
+        "candelabrum",
+        "scroll"
+      ],
+      "thumbhash": "lAiCAwADAhZmRhSP2SRAPglYZXdpWnY=",
+      "title": "Grotesque candelabrum with trophies, a boat and horned hybrids",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Tall panel (about 2 to 3) with its thin ruled plate border; place it standing.",
+        "Single-colour ink with its density in the alpha channel; the impression is pale, so it needs a light ground or a darkening filter."
+      ],
+      "width": 2255
+    },
+    "grotesque-canopy-with-suspended-miniature": {
+      "attribution": "Metropolitan Museum of Art 49.95.321",
+      "categories": [
+        "fantasy",
+        "animals",
+        "ribbons",
+        "scrollwork"
+      ],
+      "colors": [
+        "black",
+        "gray"
+      ],
+      "composition": "single-ornament",
+      "description": "A wide panel inside a ruled border. A stepped strapwork frame holds a small hatched miniature of galloping horsemen at the centre, under a half-dome lunette and two foliate C-scrolls. On either side a domed bird cage with a bird inside hangs from the upper rule between fluttering ribbons, and a bird perches on the rule beside a tall tapering vase at each outer end. Below, a slender female term stands between bead swags with tassels, and a dotted shield cartouche with pendant drops hangs under a foliate bracket at each side. Single dark gray ink; the background is transparent.",
+      "display_width": [
+        300,
+        600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 84728,
+        "webpTopBytes": 155226
+      },
+      "facing": "viewer",
+      "group": "49-95-321",
+      "height": 535,
+      "master": {
+        "bytes": 151734,
+        "h": 535,
+        "path": "masters/grotesque-canopy-with-suspended-miniature.webp",
+        "sha256": "9263f26ca2c839f48f7b0fdddaf6026bed20589dc96fa912e02d1e6b08ebe1fd",
+        "w": 1004
+      },
+      "palette": [
+        "#2b2b2b",
+        "#2a2a2a",
+        "#292929"
+      ],
+      "provenance": {
+        "artist": "Jacques Androuet Du Cerceau",
+        "date": "1566",
+        "image_rights": "CC0-1.0",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "49.95.321",
+        "object_title": "Grotesque Ornament Panel, from \"Livre de Grotesques...\"",
+        "record_url": "https://www.metmuseum.org/art/collection/search/338721",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "1e12434dbdf4463c553345d331ce835e60ce7e1e9c82cfb1971e7ab9438e9377"
+      },
+      "related": [
+        {
+          "asset": "du-cerceau-prints/foliate-face-with-paired-perching-birds",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1906,
+            "h": 34,
+            "path": "avif/grotesque-canopy-with-suspended-miniature-64.avif",
+            "sha256": "dee2ed32185c6dc49d87c88c0d74b6f64d442e17269fa1d1085252cc3ee428d3",
+            "w": 64
+          },
+          {
+            "bytes": 2957,
+            "h": 51,
+            "path": "avif/grotesque-canopy-with-suspended-miniature-96.avif",
+            "sha256": "15319df1678a58c4be7b6148c6d056b6a3ff99a2bb1adfe45cf53553ea875e18",
+            "w": 96
+          },
+          {
+            "bytes": 4257,
+            "h": 68,
+            "path": "avif/grotesque-canopy-with-suspended-miniature-128.avif",
+            "sha256": "0d17722a414f5ce2ba7af53eb57f614bbce14c3c8f4a6b821dee58e8e5428ac5",
+            "w": 128
+          },
+          {
+            "bytes": 8183,
+            "h": 102,
+            "path": "avif/grotesque-canopy-with-suspended-miniature-192.avif",
+            "sha256": "46bffea43ae02e80619aedd0230b901fcd202c6ff61efc1d751a75a76f2f5f5f",
+            "w": 192
+          },
+          {
+            "bytes": 12484,
+            "h": 136,
+            "path": "avif/grotesque-canopy-with-suspended-miniature-256.avif",
+            "sha256": "cef76348b694ec31f57f73485e696b9f18b3a867ad163be6fba2cef8eac3db46",
+            "w": 256
+          },
+          {
+            "bytes": 23697,
+            "h": 205,
+            "path": "avif/grotesque-canopy-with-suspended-miniature-384.avif",
+            "sha256": "7dd172620b4bc86d9c24a451ad54fa65d85b1b1483c7e2c7c33e8f4fe2dfe47c",
+            "w": 384
+          },
+          {
+            "bytes": 35636,
+            "h": 273,
+            "path": "avif/grotesque-canopy-with-suspended-miniature-512.avif",
+            "sha256": "d73b4fe765a39fa1535abf1c907417663334a74c13bfc8d7ac1573242b0da46c",
+            "w": 512
+          },
+          {
+            "bytes": 62198,
+            "h": 409,
+            "path": "avif/grotesque-canopy-with-suspended-miniature-768.avif",
+            "sha256": "353ce0fdae7cac754b76333c048b72adbc7492f77b09b8a8589d372fa59bf79c",
+            "w": 768
+          },
+          {
+            "bytes": 84728,
+            "h": 535,
+            "path": "avif/grotesque-canopy-with-suspended-miniature-1004.avif",
+            "sha256": "3c1d16fbba7b5fb1b1180d353944fbca308e6029f4d854f91fd1487a8a9aaba2",
+            "w": 1004
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2396,
+            "h": 34,
+            "path": "webp/grotesque-canopy-with-suspended-miniature-64.webp",
+            "sha256": "c41a8bf7082c544cf65c07c3f2385eea3eef2c4b70cf745a01ab53ab0bab45b8",
+            "w": 64
+          },
+          {
+            "bytes": 5052,
+            "h": 51,
+            "path": "webp/grotesque-canopy-with-suspended-miniature-96.webp",
+            "sha256": "32e91d0e76c8b5d61ac808a32c5c34e918643d7471a979385a32bd75c7b9add3",
+            "w": 96
+          },
+          {
+            "bytes": 8624,
+            "h": 68,
+            "path": "webp/grotesque-canopy-with-suspended-miniature-128.webp",
+            "sha256": "519009e1b09929fa0acfd4293ccb75dac430a9883be47e04b1d1ccb4cb484bad",
+            "w": 128
+          },
+          {
+            "bytes": 16400,
+            "h": 102,
+            "path": "webp/grotesque-canopy-with-suspended-miniature-192.webp",
+            "sha256": "b34f2d628567236a7df1d29992475433513af7582ac4c791767a748bec4ca73f",
+            "w": 192
+          },
+          {
+            "bytes": 25870,
+            "h": 136,
+            "path": "webp/grotesque-canopy-with-suspended-miniature-256.webp",
+            "sha256": "176f328cbea8ee146db47451ca22f631c820dea8e92f6c1d1c4bf9d5a93193d1",
+            "w": 256
+          },
+          {
+            "bytes": 49006,
+            "h": 205,
+            "path": "webp/grotesque-canopy-with-suspended-miniature-384.webp",
+            "sha256": "f061ab5912b0d9825bd5c08338f67c8862584c012a65ef285456164256173f6f",
+            "w": 384
+          },
+          {
+            "bytes": 75606,
+            "h": 273,
+            "path": "webp/grotesque-canopy-with-suspended-miniature-512.webp",
+            "sha256": "dbfa1957d45072aa924510e9288ca2028e23ce0525692eb05d46febc09fc934c",
+            "w": 512
+          },
+          {
+            "bytes": 148864,
+            "h": 409,
+            "path": "webp/grotesque-canopy-with-suspended-miniature-768.webp",
+            "sha256": "d719a343d1006b693923292027a869efb95fd43512d48295d2ae2306a5012c79",
+            "w": 768
+          },
+          {
+            "bytes": 155226,
+            "h": 535,
+            "path": "webp/grotesque-canopy-with-suspended-miniature-1004.webp",
+            "sha256": "1733e9261f2eca01221f5292ac65140b5d35feada88eb3de74345a91cd89ac05",
+            "w": 1004
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "cage",
+        "bird",
+        "horse",
+        "rider",
+        "vase",
+        "ribbon",
+        "cartouche",
+        "tassel",
+        "scroll",
+        "woman"
+      ],
+      "thumbhash": "CgiCA4ATOEWFdoAAAAAAAFdXdoZwWVc=",
+      "title": "Stepped canopy with bird cages and a horsemen miniature",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Wide strip-like panel (about 2 to 1) with its thin ruled plate border; it does not repeat.",
+        "Single-colour ink with its density in the alpha channel; place on any light ground or use as a mask."
+      ],
+      "width": 1004
+    },
+    "grotesque-vines-with-winged-hybrids": {
+      "attribution": "Metropolitan Museum of Art 21.10.1(30)",
+      "categories": [
+        "fantasy",
+        "hybrids",
+        "humans",
+        "animals",
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "black",
+        "gray",
+        "brown"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall upright panel in a ruled border, filled asymmetrically with scrolling vines. A winged putto rides a cornucopia at the top left; a leaping stag, a crane and two figures on a pedestal fill the top right; a nude man with sword and round shield strides over a scroll. A winged female bust tops the central stem above a bearded man seated over a framed miniature; a fringed canopy hangs at the right with figures swinging from its cords. A dog-headed dragon, a satyr piper, a winged siren, a boy in a hoop, a goat and a reclining man fill the lower half. Warm gray ink; transparent background.",
+      "display_width": [
+        400,
+        800
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 1767998,
+        "webpTopBytes": 3583636
+      },
+      "facing": "mixed",
+      "group": "21-10-1-30",
+      "height": 3423,
+      "master": {
+        "bytes": 1934360,
+        "h": 2048,
+        "path": "masters/grotesque-vines-with-winged-hybrids.webp",
+        "sha256": "2838ab370659a98604a66ac3c157fa9e4399935697886928a7570487ebd54429",
+        "w": 1332
+      },
+      "palette": [
+        "#4d473d",
+        "#4c463d",
+        "#4d463d",
+        "#4c473c"
+      ],
+      "provenance": {
+        "artist": "Jacques Androuet Du Cerceau",
+        "date": "1550",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP213857.jpg",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "21.10.1(30)",
+        "object_title": "Panel from \"Petites Grotesques\"",
+        "record_url": "https://www.metmuseum.org/art/collection/search/387624",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "41f749f08b98f0b4d598a3a2037c9f986f163ef8b8152ec30a67b91c51f30b44"
+      },
+      "quality": "A faint vertical crease runs down the upper centre of the impression.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 5088,
+            "h": 98,
+            "path": "avif/grotesque-vines-with-winged-hybrids-64.avif",
+            "sha256": "e96d34fcdc4fb0a27b20cb15b0f332fdb0b461b21dcf3500a6c3adbf3d8f7539",
+            "w": 64
+          },
+          {
+            "bytes": 10865,
+            "h": 148,
+            "path": "avif/grotesque-vines-with-winged-hybrids-96.avif",
+            "sha256": "7fcdceee5208313b2520b0712cdee51f93aae28779e591bab0eca348c10e3630",
+            "w": 96
+          },
+          {
+            "bytes": 16180,
+            "h": 197,
+            "path": "avif/grotesque-vines-with-winged-hybrids-128.avif",
+            "sha256": "eef38a89330b323ceaca5dc0981a0b26a37f841d1ae8ce205dc77bc00d8f2dd7",
+            "w": 128
+          },
+          {
+            "bytes": 33290,
+            "h": 295,
+            "path": "avif/grotesque-vines-with-winged-hybrids-192.avif",
+            "sha256": "193f1ab39bc02357654b68b081ec822fe8e0e52f7111a3c31983415138de7dfd",
+            "w": 192
+          },
+          {
+            "bytes": 58540,
+            "h": 394,
+            "path": "avif/grotesque-vines-with-winged-hybrids-256.avif",
+            "sha256": "73eead15cfcdbf3a79b6746627ecac61f9e1bb26ff1af1989765bd6c7abd604b",
+            "w": 256
+          },
+          {
+            "bytes": 125283,
+            "h": 590,
+            "path": "avif/grotesque-vines-with-winged-hybrids-384.avif",
+            "sha256": "f2dc6f1f4578368c20e23a1580a5dacb4c2f3bc7006526acf49eede4efc486c1",
+            "w": 384
+          },
+          {
+            "bytes": 207766,
+            "h": 787,
+            "path": "avif/grotesque-vines-with-winged-hybrids-512.avif",
+            "sha256": "05240e026c26d0733de34eb7c95c8107ba7084a5f29b215dd53534acbdcb1b68",
+            "w": 512
+          },
+          {
+            "bytes": 378443,
+            "h": 1181,
+            "path": "avif/grotesque-vines-with-winged-hybrids-768.avif",
+            "sha256": "df5786c8e748a4a00bcb6b7f19f79480670b0ce2ba2a1380743e830839784ba9",
+            "w": 768
+          },
+          {
+            "bytes": 589227,
+            "h": 1575,
+            "path": "avif/grotesque-vines-with-winged-hybrids-1024.avif",
+            "sha256": "62aa3ffaa6569c2f2368e60718b94ee0297ba5b690b5999151a87292d52a0387",
+            "w": 1024
+          },
+          {
+            "bytes": 1100003,
+            "h": 2362,
+            "path": "avif/grotesque-vines-with-winged-hybrids-1536.avif",
+            "sha256": "b1e47b1847cc99715eb214309b04bfa76bfc67b3d3b06162409ee635c84ee507",
+            "w": 1536
+          },
+          {
+            "bytes": 1767998,
+            "h": 3149,
+            "path": "avif/grotesque-vines-with-winged-hybrids-2048.avif",
+            "sha256": "39470cb2522630305705086e0baae18995c384779d70d20128462a22cbbbb647",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 7006,
+            "h": 98,
+            "path": "webp/grotesque-vines-with-winged-hybrids-64.webp",
+            "sha256": "ff851d5e7823dcb03f78844e86f79d0dfc5037ae18450c080134569e2ab2310a",
+            "w": 64
+          },
+          {
+            "bytes": 15992,
+            "h": 148,
+            "path": "webp/grotesque-vines-with-winged-hybrids-96.webp",
+            "sha256": "9b99d7897fe78c539a3de1c75f3e27db05cceb03b849775057c257d43a46e549",
+            "w": 96
+          },
+          {
+            "bytes": 27874,
+            "h": 197,
+            "path": "webp/grotesque-vines-with-winged-hybrids-128.webp",
+            "sha256": "b8fcaa189be2d238f39ace2c6e0a054f7ca6b0a590d48905d2cfa9f3d1260c5c",
+            "w": 128
+          },
+          {
+            "bytes": 60264,
+            "h": 295,
+            "path": "webp/grotesque-vines-with-winged-hybrids-192.webp",
+            "sha256": "646f5591c223c9232ce4a7ef078c30554dff2fe9bfd6862b8aba64911d908919",
+            "w": 192
+          },
+          {
+            "bytes": 102906,
+            "h": 394,
+            "path": "webp/grotesque-vines-with-winged-hybrids-256.webp",
+            "sha256": "9a30bc4c5530d168d5f52d1f270f4400948b1cd581fdc933fb59d771a7509818",
+            "w": 256
+          },
+          {
+            "bytes": 212748,
+            "h": 590,
+            "path": "webp/grotesque-vines-with-winged-hybrids-384.webp",
+            "sha256": "0c3762374f373394e94346787c786ca3c3efcea6ceced2be77d2e9c9bc485feb",
+            "w": 384
+          },
+          {
+            "bytes": 352706,
+            "h": 787,
+            "path": "webp/grotesque-vines-with-winged-hybrids-512.webp",
+            "sha256": "35f1f19a775397902cccd22e724de331341ac1317ad5063797cd38dcb7ac9d3b",
+            "w": 512
+          },
+          {
+            "bytes": 696086,
+            "h": 1181,
+            "path": "webp/grotesque-vines-with-winged-hybrids-768.webp",
+            "sha256": "c006d30b24a4280136f6204ca5b1828360161dd1254f8e05f8e3fd41009e5575",
+            "w": 768
+          },
+          {
+            "bytes": 1131812,
+            "h": 1575,
+            "path": "webp/grotesque-vines-with-winged-hybrids-1024.webp",
+            "sha256": "8a0e9203d00c764f5aaec06a4643e1aceadcaaaa719b7d61c5b1b9ff9857c1d8",
+            "w": 1024
+          },
+          {
+            "bytes": 2242332,
+            "h": 2362,
+            "path": "webp/grotesque-vines-with-winged-hybrids-1536.webp",
+            "sha256": "8bed7f5bd78b661e4c0cd6a546bfb302ec1755d344f9b410b5bdf25a31ea54d2",
+            "w": 1536
+          },
+          {
+            "bytes": 3583636,
+            "h": 3149,
+            "path": "webp/grotesque-vines-with-winged-hybrids-2048.webp",
+            "sha256": "94991759817d3c2699a1644bba0ffa5b72b2ee04f8737d19694b2927cfb5e44c",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "vine",
+        "scroll",
+        "putto",
+        "man",
+        "woman",
+        "wings",
+        "canopy",
+        "frame",
+        "dragon",
+        "satyr",
+        "shield",
+        "sword",
+        "goat",
+        "bird",
+        "child",
+        "cornucopia"
+      ],
+      "thumbhash": "UQiCAwADDXUkyHakY2+giQvzhIVxe0o=",
+      "title": "Grotesque vines crowded with figures and hybrids",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Tall panel (about 2 to 3) with its thin ruled plate border; place it standing. The composition is not symmetric, so it does not mirror.",
+        "Single-colour ink with its density in the alpha channel; place on any light ground or use as a mask."
+      ],
+      "width": 2226
+    },
+    "grotesque-with-paired-hybrids-and-scene": {
+      "attribution": "Metropolitan Museum of Art 49.95.321",
+      "categories": [
+        "fantasy",
+        "hybrids",
+        "humans",
+        "animals",
+        "scrollwork"
+      ],
+      "colors": [
+        "black",
+        "gray"
+      ],
+      "composition": "single-ornament",
+      "description": "A near-square panel in a stepped ruled border. At the centre a rectangular miniature of a hunt (a horseman, an archer, a seated figure and a dog) sits in a strapwork frame hung with bead chains; above it a lion mask in foliate scrolls between two spiky tufts, with a basket of fruit and bead garlands at the top. Two nude satyr-like figures with scroll legs bend backwards on either side, each holding up a smoking bowl. Pendant canopies with medallions, tassels and fans of wheat-like plumes fill the outer columns; a small doorway opens at the bottom. Single dark gray ink; transparent background.",
+      "display_width": [
+        400,
+        800
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 383610,
+        "webpTopBytes": 775138
+      },
+      "facing": "viewer",
+      "group": "49-95-321",
+      "height": 1318,
+      "master": {
+        "bytes": 759918,
+        "h": 1318,
+        "path": "masters/grotesque-with-paired-hybrids-and-scene.webp",
+        "sha256": "547bc92f12866a882c4279b60ac7110f845e16f47a2c52ae01b508662e4fe08c",
+        "w": 1733
+      },
+      "palette": [
+        "#2b2b2b",
+        "#2a2a2a",
+        "#292929"
+      ],
+      "provenance": {
+        "artist": "Jacques Androuet Du Cerceau",
+        "date": "1566",
+        "image_rights": "CC0-1.0",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "49.95.321",
+        "object_title": "Grotesque Ornament Panel, from \"Livre de Grotesques...\"",
+        "record_url": "https://www.metmuseum.org/art/collection/search/338721",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "1e12434dbdf4463c553345d331ce835e60ce7e1e9c82cfb1971e7ab9438e9377"
+      },
+      "related": [
+        {
+          "asset": "du-cerceau-prints/arched-canopy-with-two-hanging-cages",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2615,
+            "h": 49,
+            "path": "avif/grotesque-with-paired-hybrids-and-scene-64.avif",
+            "sha256": "1c5a10b4b6b3653bce3f3f6535054e86ff8a4fab6ae64cb1f4874327700e4f00",
+            "w": 64
+          },
+          {
+            "bytes": 4272,
+            "h": 73,
+            "path": "avif/grotesque-with-paired-hybrids-and-scene-96.avif",
+            "sha256": "781ea25ecb06073841a5645f5b88ea6a6e9b8e952ec88f5e515312b3c97c45af",
+            "w": 96
+          },
+          {
+            "bytes": 6858,
+            "h": 97,
+            "path": "avif/grotesque-with-paired-hybrids-and-scene-128.avif",
+            "sha256": "c9d257e96f582c29a87383a2191590db0a87c0c95cbe5118c8c08fbc81015aab",
+            "w": 128
+          },
+          {
+            "bytes": 13274,
+            "h": 146,
+            "path": "avif/grotesque-with-paired-hybrids-and-scene-192.avif",
+            "sha256": "14b7642ae3577d80526c105a3324d8c47750d16d4b60f19bdbfcf943ef15853b",
+            "w": 192
+          },
+          {
+            "bytes": 20833,
+            "h": 195,
+            "path": "avif/grotesque-with-paired-hybrids-and-scene-256.avif",
+            "sha256": "8709ed641a15c1c6e0863e6af8ab71bd58c1f048f6900ba3df3e366f66d9033a",
+            "w": 256
+          },
+          {
+            "bytes": 42516,
+            "h": 292,
+            "path": "avif/grotesque-with-paired-hybrids-and-scene-384.avif",
+            "sha256": "775ce56dcd50620026bbf13c78d34d987bbcd6cc183ec293bab8f6c57f533a08",
+            "w": 384
+          },
+          {
+            "bytes": 67035,
+            "h": 389,
+            "path": "avif/grotesque-with-paired-hybrids-and-scene-512.avif",
+            "sha256": "a8a9e5572097a22859c450e51d135697acfc00c23f863a4a65be6e06c512e006",
+            "w": 512
+          },
+          {
+            "bytes": 124681,
+            "h": 584,
+            "path": "avif/grotesque-with-paired-hybrids-and-scene-768.avif",
+            "sha256": "ae10016d1bdd4219e798f0fefb624fda366152199ed75880318c793931ff0d8b",
+            "w": 768
+          },
+          {
+            "bytes": 192172,
+            "h": 779,
+            "path": "avif/grotesque-with-paired-hybrids-and-scene-1024.avif",
+            "sha256": "a2d4054670e161049498c04f0ff1a3f709d855aa6059cca5823d91366386c7fe",
+            "w": 1024
+          },
+          {
+            "bytes": 343148,
+            "h": 1168,
+            "path": "avif/grotesque-with-paired-hybrids-and-scene-1536.avif",
+            "sha256": "db675206fdb99d0eaa72ef158ce6cb95f2ff3541f1ae8f112a204247a358efc4",
+            "w": 1536
+          },
+          {
+            "bytes": 383610,
+            "h": 1318,
+            "path": "avif/grotesque-with-paired-hybrids-and-scene-1733.avif",
+            "sha256": "88b6c72e165bad9c6a185b3520f03ca9deb5641459a6a9f1c1c0295cc1f83528",
+            "w": 1733
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3430,
+            "h": 49,
+            "path": "webp/grotesque-with-paired-hybrids-and-scene-64.webp",
+            "sha256": "d6152cb600285b4f236e57ca76368f84abdb28d231f2a134a619a4ee36cc786c",
+            "w": 64
+          },
+          {
+            "bytes": 7524,
+            "h": 73,
+            "path": "webp/grotesque-with-paired-hybrids-and-scene-96.webp",
+            "sha256": "6cd87694ade65787f5b6b31e3b28ff729a7cd53563c3634029cadc5387441e2a",
+            "w": 96
+          },
+          {
+            "bytes": 12716,
+            "h": 97,
+            "path": "webp/grotesque-with-paired-hybrids-and-scene-128.webp",
+            "sha256": "3e690fd9bd5a3514b23c48ce8a4fb681e59dc5c366bf497795531fb3a0648e2f",
+            "w": 128
+          },
+          {
+            "bytes": 26214,
+            "h": 146,
+            "path": "webp/grotesque-with-paired-hybrids-and-scene-192.webp",
+            "sha256": "f45a689502836baeec602649bb07d47afcfa01b26903a1c8df172f8922dda339",
+            "w": 192
+          },
+          {
+            "bytes": 42576,
+            "h": 195,
+            "path": "webp/grotesque-with-paired-hybrids-and-scene-256.webp",
+            "sha256": "ffa17b5e20d47dfc986c0490601eaa4ec3bb6a5dedf1d4094254e18fe47da287",
+            "w": 256
+          },
+          {
+            "bytes": 85948,
+            "h": 292,
+            "path": "webp/grotesque-with-paired-hybrids-and-scene-384.webp",
+            "sha256": "e89ebb2387e8cc2096bac0a938dd6a1288238733afaa49010c09b3d6b3c98462",
+            "w": 384
+          },
+          {
+            "bytes": 135634,
+            "h": 389,
+            "path": "webp/grotesque-with-paired-hybrids-and-scene-512.webp",
+            "sha256": "838702a4c6a86cb1b0adac940c2a9870e10605a9ed32625a3e4140e59167c0f2",
+            "w": 512
+          },
+          {
+            "bytes": 263102,
+            "h": 584,
+            "path": "webp/grotesque-with-paired-hybrids-and-scene-768.webp",
+            "sha256": "de8808516f8fb13be99e0b2ac4e6be02802f1e00258588f48eda14f727893dfc",
+            "w": 768
+          },
+          {
+            "bytes": 427972,
+            "h": 779,
+            "path": "webp/grotesque-with-paired-hybrids-and-scene-1024.webp",
+            "sha256": "bc71094f80f2eca5e2d7a79273a1107f353acfabcce835e54ffbea8d4f450eb3",
+            "w": 1024
+          },
+          {
+            "bytes": 854970,
+            "h": 1168,
+            "path": "webp/grotesque-with-paired-hybrids-and-scene-1536.webp",
+            "sha256": "fcb35300b3bcb4995371154bfcb6278edbe3dc71fca431ce0a2089a41c076d64",
+            "w": 1536
+          },
+          {
+            "bytes": 775138,
+            "h": 1318,
+            "path": "webp/grotesque-with-paired-hybrids-and-scene-1733.webp",
+            "sha256": "2be9f54855a192c4fedfcaff1b8963a5f5dccaeb3fc4a39cba74893cf673f6ce",
+            "w": 1733
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "mask",
+        "lion",
+        "frame",
+        "rider",
+        "archer",
+        "dog",
+        "satyr",
+        "bowl",
+        "smoke",
+        "garland",
+        "tassel",
+        "canopy",
+        "basket",
+        "scroll"
+      ],
+      "thumbhash": "CwiCBIAUePwxK4HuCgAAAACAgHyHN8iJCg==",
+      "title": "Hunting miniature between two bending satyrs",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Near-square panel (about 4 to 3) with its stepped ruled plate border; the central miniature is drawn, not a separate asset.",
+        "Single-colour ink with its density in the alpha channel; place on any light ground or use as a mask."
+      ],
+      "width": 1733
+    },
+    "tall-canopy-with-framed-figure-and-winged-mask": {
+      "attribution": "Metropolitan Museum of Art 49.95.321",
+      "categories": [
+        "fantasy",
+        "hybrids",
+        "humans",
+        "floral",
+        "scrollwork"
+      ],
+      "colors": [
+        "black",
+        "gray"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall upright panel in a ruled border. At the top a fringed pavilion canopy with draperies held by two small nude figures; below it a deep perspectival box niche holds a standing nude woman with a staff under a leafy arch, with rows of hanging flower drops. A strapwork cartouche with a feather-crowned mask follows, then two flaming lamp-stands on tripods with hanging cloths and tassels. At the bottom a winged female figure ending in a scroll tail rests on foliate volutes between two flowering shrubs, over a stepped plinth with two tiny swan heads. Single dark gray ink; transparent background.",
+      "display_width": [
+        250,
+        500
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 350732,
+        "webpTopBytes": 670754
+      },
+      "facing": "viewer",
+      "group": "49-95-321",
+      "height": 1992,
+      "master": {
+        "bytes": 647326,
+        "h": 1992,
+        "path": "masters/tall-canopy-with-framed-figure-and-winged-mask.webp",
+        "sha256": "4f4640fefd69906c738231433128cf7ddc76b82828a44446853aac83a59d8eeb",
+        "w": 998
+      },
+      "palette": [
+        "#292929",
+        "#2a2a2a",
+        "#2b2b2b"
+      ],
+      "provenance": {
+        "artist": "Jacques Androuet Du Cerceau",
+        "date": "1566",
+        "image_rights": "CC0-1.0",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "49.95.321",
+        "object_title": "Grotesque Ornament Panel, from \"Livre de Grotesques...\"",
+        "record_url": "https://www.metmuseum.org/art/collection/search/338721",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "1e12434dbdf4463c553345d331ce835e60ce7e1e9c82cfb1971e7ab9438e9377"
+      },
+      "related": [
+        {
+          "asset": "du-cerceau-prints/tall-grotesque-with-dragons-and-paired-griffins",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4725,
+            "h": 128,
+            "path": "avif/tall-canopy-with-framed-figure-and-winged-mask-64.avif",
+            "sha256": "a26faa54d023babead9afeae7d1fe20a475415655104f3f2258d7b3921b980cc",
+            "w": 64
+          },
+          {
+            "bytes": 9531,
+            "h": 192,
+            "path": "avif/tall-canopy-with-framed-figure-and-winged-mask-96.avif",
+            "sha256": "03061c7430cf87f029295a56a5d77543fa6cb09ad60f965f6556e9b8477d46c8",
+            "w": 96
+          },
+          {
+            "bytes": 15602,
+            "h": 255,
+            "path": "avif/tall-canopy-with-framed-figure-and-winged-mask-128.avif",
+            "sha256": "dd3d2d1320a5010c190e89ca6f9a0f57ce668a4b5b9f8b016305e324425f7b65",
+            "w": 128
+          },
+          {
+            "bytes": 30687,
+            "h": 383,
+            "path": "avif/tall-canopy-with-framed-figure-and-winged-mask-192.avif",
+            "sha256": "05d2808417d22fcdc537691185b673757fbce58fe039d5818b04e43c5ebc7ccd",
+            "w": 192
+          },
+          {
+            "bytes": 48183,
+            "h": 511,
+            "path": "avif/tall-canopy-with-framed-figure-and-winged-mask-256.avif",
+            "sha256": "b26ce6539464519d416db4f99a2afadb95bc59dfe23ebb76b5dac4d399335ff7",
+            "w": 256
+          },
+          {
+            "bytes": 91732,
+            "h": 766,
+            "path": "avif/tall-canopy-with-framed-figure-and-winged-mask-384.avif",
+            "sha256": "63e4e568abced54a3fa3a2f502e2b0203a0119f5d34663d9d483ef953dd9da73",
+            "w": 384
+          },
+          {
+            "bytes": 140974,
+            "h": 1022,
+            "path": "avif/tall-canopy-with-framed-figure-and-winged-mask-512.avif",
+            "sha256": "b42f6ee8928e46b5491468428b13549838ab133b2f3d0e30b80e718ed2ae3a66",
+            "w": 512
+          },
+          {
+            "bytes": 255371,
+            "h": 1533,
+            "path": "avif/tall-canopy-with-framed-figure-and-winged-mask-768.avif",
+            "sha256": "c9bcf0eac768377683d972436b16a591fe6b3fd616ab5d6cbb5db2b19666a7af",
+            "w": 768
+          },
+          {
+            "bytes": 350732,
+            "h": 1992,
+            "path": "avif/tall-canopy-with-framed-figure-and-winged-mask-998.avif",
+            "sha256": "493334cab9d5e92c007ef978f3d440c99c6345b8525994cdaf1bc66985508b4f",
+            "w": 998
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 8504,
+            "h": 128,
+            "path": "webp/tall-canopy-with-framed-figure-and-winged-mask-64.webp",
+            "sha256": "7f62f356e1773949991c0dddf8959c4f4f28e8f4c3ceb864c64ea32cce45e548",
+            "w": 64
+          },
+          {
+            "bytes": 18356,
+            "h": 192,
+            "path": "webp/tall-canopy-with-framed-figure-and-winged-mask-96.webp",
+            "sha256": "1872a06b79f4ba3af7e61a1800b9b4952db52d9c224c56e6da9af129363577ae",
+            "w": 96
+          },
+          {
+            "bytes": 30898,
+            "h": 255,
+            "path": "webp/tall-canopy-with-framed-figure-and-winged-mask-128.webp",
+            "sha256": "9874c416f4c3a8d3a14740abf74ac0dbd7823ac54442b70155c18e163c3b2cd9",
+            "w": 128
+          },
+          {
+            "bytes": 62700,
+            "h": 383,
+            "path": "webp/tall-canopy-with-framed-figure-and-winged-mask-192.webp",
+            "sha256": "506ba3b7d3bb811819bdd2a39da91962784fa3e9b0117523d6278191ab574676",
+            "w": 192
+          },
+          {
+            "bytes": 99696,
+            "h": 511,
+            "path": "webp/tall-canopy-with-framed-figure-and-winged-mask-256.webp",
+            "sha256": "c4215fa6a8d2d341162815796cd6f3f7bc1cec7bcc52e506392e7e09ed757840",
+            "w": 256
+          },
+          {
+            "bytes": 192090,
+            "h": 766,
+            "path": "webp/tall-canopy-with-framed-figure-and-winged-mask-384.webp",
+            "sha256": "b0ff5a129b848d41f319cb05803ef9e09608ef0179655fd981658a256902e05c",
+            "w": 384
+          },
+          {
+            "bytes": 309242,
+            "h": 1022,
+            "path": "webp/tall-canopy-with-framed-figure-and-winged-mask-512.webp",
+            "sha256": "8c85bbcabd1463b83dd8514cb8979b09ff7a5b69f119845c9ceab241000c12d0",
+            "w": 512
+          },
+          {
+            "bytes": 611534,
+            "h": 1533,
+            "path": "webp/tall-canopy-with-framed-figure-and-winged-mask-768.webp",
+            "sha256": "3149d7f36e52d5806ae15ce38e44406f563e5edc131ae8366447566860a738c2",
+            "w": 768
+          },
+          {
+            "bytes": 670754,
+            "h": 1992,
+            "path": "webp/tall-canopy-with-framed-figure-and-winged-mask-998.webp",
+            "sha256": "4d038383c202f4751b74a7bf51f4d5646f75f0da6719c6e388b0a5eb4cbf99fa",
+            "w": 998
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "canopy",
+        "niche",
+        "woman",
+        "mask",
+        "wings",
+        "flame",
+        "tassel",
+        "drapery",
+        "urn",
+        "flower",
+        "cartouche",
+        "scroll"
+      ],
+      "thumbhash": "CgiCAwAES3kKibcAAAAAAEm7cHiQWPc=",
+      "title": "Tall canopy with a niche figure and a winged siren",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Tall panel (about 1 to 2) with its thin ruled plate border; it matches tall-grotesque-with-dragons-and-paired-griffins in width and height.",
+        "Single-colour ink with its density in the alpha channel; place on any light ground or use as a mask."
+      ],
+      "width": 998
+    },
+    "tall-grotesque-with-dragons-and-paired-griffins": {
+      "attribution": "Metropolitan Museum of Art 49.95.321",
+      "categories": [
+        "fantasy",
+        "hybrids",
+        "animals",
+        "scrollwork"
+      ],
+      "colors": [
+        "black",
+        "gray"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall upright panel in a ruled border. Bead garlands swag from the top, held by two birds flying down; thin candelabrum stems with lantern-shaped vases run down both sides. Two winged, bird-headed dragons with curling scaly tails face inward in the upper register, moths between them; below, two griffins perch on a wide footed bowl holding leafy sprays. A strapwork cartouche holds an oval miniature of a reclining figure. Under a scalloped half-dome two seated griffins face each other across a mask; a winged mask closes the bottom. Single dark gray ink; transparent background.",
+      "display_width": [
+        250,
+        500
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 364775,
+        "webpTopBytes": 696202
+      },
+      "facing": "viewer",
+      "group": "49-95-321",
+      "height": 2004,
+      "master": {
+        "bytes": 685878,
+        "h": 2004,
+        "path": "masters/tall-grotesque-with-dragons-and-paired-griffins.webp",
+        "sha256": "9ff4c3dba95234bc219a69647237f68d193f5c8f8355c7f5af8e1038fa3f014b",
+        "w": 998
+      },
+      "palette": [
+        "#2b2b2b",
+        "#2a2a2a"
+      ],
+      "provenance": {
+        "artist": "Jacques Androuet Du Cerceau",
+        "date": "1566",
+        "image_rights": "CC0-1.0",
+        "institution": "Metropolitan Museum of Art",
+        "method": "native-ink-extraction",
+        "object_identifier": "49.95.321",
+        "object_title": "Grotesque Ornament Panel, from \"Livre de Grotesques...\"",
+        "record_url": "https://www.metmuseum.org/art/collection/search/338721",
+        "rights_url": "https://www.metmuseum.org/policies/image-resources",
+        "source_sha256": "1e12434dbdf4463c553345d331ce835e60ce7e1e9c82cfb1971e7ab9438e9377"
+      },
+      "related": [
+        {
+          "asset": "du-cerceau-prints/tall-canopy-with-framed-figure-and-winged-mask",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 5782,
+            "h": 129,
+            "path": "avif/tall-grotesque-with-dragons-and-paired-griffins-64.avif",
+            "sha256": "c9f3cf120475c80646b67bc4798ebc1e79a896b99abf736d06250189a7c82908",
+            "w": 64
+          },
+          {
+            "bytes": 9823,
+            "h": 193,
+            "path": "avif/tall-grotesque-with-dragons-and-paired-griffins-96.avif",
+            "sha256": "125871471c30bae5d4daab2cb8234c8ecc85b901575c9275daecb5bf842dacee",
+            "w": 96
+          },
+          {
+            "bytes": 15966,
+            "h": 257,
+            "path": "avif/tall-grotesque-with-dragons-and-paired-griffins-128.avif",
+            "sha256": "e62206c8b45160a405cd6840c023259d76b2089916b3cb1abd4250c149929261",
+            "w": 128
+          },
+          {
+            "bytes": 31825,
+            "h": 386,
+            "path": "avif/tall-grotesque-with-dragons-and-paired-griffins-192.avif",
+            "sha256": "91ee034f48c3f06666896fb873db02a5020909f533d895a5ce8f97320d588828",
+            "w": 192
+          },
+          {
+            "bytes": 50508,
+            "h": 514,
+            "path": "avif/tall-grotesque-with-dragons-and-paired-griffins-256.avif",
+            "sha256": "6ed728c0ee7f596f53ea3def4d20e7be4c3c9b31104184c6477583802285bb5b",
+            "w": 256
+          },
+          {
+            "bytes": 95709,
+            "h": 771,
+            "path": "avif/tall-grotesque-with-dragons-and-paired-griffins-384.avif",
+            "sha256": "035ff0d6ccfb15a0adccfbe0ab84665170baa361ec5573a123851c89611a485b",
+            "w": 384
+          },
+          {
+            "bytes": 147461,
+            "h": 1028,
+            "path": "avif/tall-grotesque-with-dragons-and-paired-griffins-512.avif",
+            "sha256": "ae064acbae976eb73d6fec34c77979fa548d3a713f43f8245a492a0a20b7e0e3",
+            "w": 512
+          },
+          {
+            "bytes": 266145,
+            "h": 1542,
+            "path": "avif/tall-grotesque-with-dragons-and-paired-griffins-768.avif",
+            "sha256": "7fbb69867bd542980df70f91bfd8eb68ea966e024ca612039e1cc9f060b51d9d",
+            "w": 768
+          },
+          {
+            "bytes": 364775,
+            "h": 2004,
+            "path": "avif/tall-grotesque-with-dragons-and-paired-griffins-998.avif",
+            "sha256": "e0a2a959c09881fb330b500f425b29f0b6788b7200cddaf1006b9810e0b8bf50",
+            "w": 998
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 8698,
+            "h": 129,
+            "path": "webp/tall-grotesque-with-dragons-and-paired-griffins-64.webp",
+            "sha256": "5db6c0e7268d07882ed1af6705ae93f6970197800cec7ffc2838e722f34f52b4",
+            "w": 64
+          },
+          {
+            "bytes": 18678,
+            "h": 193,
+            "path": "webp/tall-grotesque-with-dragons-and-paired-griffins-96.webp",
+            "sha256": "c4a01d0652f8196d520170b60bf44cfd14a4e74d85c46a5b194a959d86b6f8a8",
+            "w": 96
+          },
+          {
+            "bytes": 31376,
+            "h": 257,
+            "path": "webp/tall-grotesque-with-dragons-and-paired-griffins-128.webp",
+            "sha256": "d092c75a6137983d4fb4dce08b8881eb730f3ce01e65d735402e1843529b5fc3",
+            "w": 128
+          },
+          {
+            "bytes": 64066,
+            "h": 386,
+            "path": "webp/tall-grotesque-with-dragons-and-paired-griffins-192.webp",
+            "sha256": "ea732865aa50088734d2f321e8d6c2d723483cecf6b6802de06a5721eaf9e4bb",
+            "w": 192
+          },
+          {
+            "bytes": 102356,
+            "h": 514,
+            "path": "webp/tall-grotesque-with-dragons-and-paired-griffins-256.webp",
+            "sha256": "d2d98a62a8ae59e61c20691428502db4e4fb377482fd7ebcf689d3ff5ea3e67c",
+            "w": 256
+          },
+          {
+            "bytes": 195616,
+            "h": 771,
+            "path": "webp/tall-grotesque-with-dragons-and-paired-griffins-384.webp",
+            "sha256": "2032077b482bc2da634d8aab4ea03a7726799b0b7e435d1aee59adefb523e440",
+            "w": 384
+          },
+          {
+            "bytes": 313938,
+            "h": 1028,
+            "path": "webp/tall-grotesque-with-dragons-and-paired-griffins-512.webp",
+            "sha256": "2d8f1d3866816068a36bf9e97a2a8392fc03dd0e1e16065b62daa5480a0a5937",
+            "w": 512
+          },
+          {
+            "bytes": 622910,
+            "h": 1542,
+            "path": "webp/tall-grotesque-with-dragons-and-paired-griffins-768.webp",
+            "sha256": "f0ecc30d7613b33f29cb066089fc3c8aa42c0eac1ffe8f61a8b55ea78df1fae9",
+            "w": 768
+          },
+          {
+            "bytes": 696202,
+            "h": 2004,
+            "path": "webp/tall-grotesque-with-dragons-and-paired-griffins-998.webp",
+            "sha256": "80567bf07391763382ae2e4eabe7a5b4c5d063dade64c0dd3eaf827fa1b23086",
+            "w": 998
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "dragon",
+        "griffin",
+        "bird",
+        "garland",
+        "cartouche",
+        "bowl",
+        "butterfly",
+        "mask",
+        "tassel",
+        "candelabrum",
+        "vase",
+        "scroll"
+      ],
+      "thumbhash": "CgiCAwAEZnEIpzcAAAAAAAZ2hIh0ujc=",
+      "title": "Tall grotesque with winged dragons and griffins",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Tall panel (about 1 to 2) with its thin ruled plate border; it matches tall-canopy-with-framed-figure-and-winged-mask in width and height.",
+        "Single-colour ink with its density in the alpha channel; place on any light ground or use as a mask."
+      ],
+      "width": 998
+    }
+  },
+  "attribution": "Metropolitan Museum of Art 49.95.321, 21.10.1(18), (30), (31), 23.34.2(28)",
+  "builtAt": "2026-10-30T12:44:46.772Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-du-cerceau-prints@1.0.0/",
+  "contentHash": "sha256:8412ca7036de05e021d4a7a4e6aad19f0073760686508172520d6ef4bf049f63",
+  "inputsHash": "sha256:0da1a282a71cc63e4248ac943990f629aab9fe1c35108dc32eff3e3419f5d76c",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from Metropolitan Museum of Art Open Access (CC0) images; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-du-cerceau-prints-masters",
+  "package": "@ranx729/ducktape-assets-du-cerceau-prints",
+  "period": "1550–1566",
+  "region": "Orléans and Paris, France",
+  "schema": 1,
+  "set": "du-cerceau-prints",
+  "style": "Renaissance grotesque etching",
+  "summary": "Grotesque panels with candelabra, canopies, satyrs, griffins, garlands and framed scenes etched by Jacques Androuet Du Cerceau between 1550 and 1566 (the \"Livre de Grotesques\" and \"Petites Grotesques\"), from five sheets in the Metropolitan Museum of Art, grouped by sheet.",
+  "title": "Du Cerceau grotesque prints",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

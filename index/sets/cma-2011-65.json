@@ -1,0 +1,959 @@
+{
+  "assets": {
+    "gray-acanthus-network-with-three-lobes": {
+      "categories": [
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "gray",
+        "white",
+        "light-blue"
+      ],
+      "composition": "single-ornament",
+      "description": "A wide gray acanthus ornament from the lower margin of the calendar frame. Three large curling stems, a spiral at the left, a tall S-bend in the middle and a spiral at the right, grow from a common root at the bottom centre and throw off smaller folded and hooked leaves with pale knobs; the leaves are blue-gray with white highlights and darker gray shadows. Transparent background, the stems ending where they met the frame's flowers.",
+      "display_width": [
+        400,
+        860
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 177820,
+        "webpTopBytes": 228532
+      },
+      "facing": "none",
+      "group": null,
+      "height": 1080,
+      "master": {
+        "bytes": 1162002,
+        "h": 1080,
+        "path": "masters/gray-acanthus-network-with-three-lobes.webp",
+        "sha256": "39f797b27c29b47c4d7f71118775226f596fab6e9f52564c1facc32a59012ff0",
+        "w": 1724
+      },
+      "palette": [
+        "#a09e9b",
+        "#838280",
+        "#75716d",
+        "#57524f",
+        "#676565"
+      ],
+      "provenance": {
+        "date": "c. 1510",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2011.65.a/2011.65.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2011.65.a",
+        "object_title": "Leaf from a Book of Hours: Calendar Page for May (recto)",
+        "record_url": "https://clevelandart.org/art/2011.65.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "9c05df87df5be107cc387fca4fbc7dc5795487b45243f46e82f9968f9e3a44dd"
+      },
+      "quality": "A faint brown parchment fringe follows the outline and a few stem tips end abruptly where neighbouring flowers overlapped them.",
+      "related": [
+        {
+          "asset": "cma-2011-65/may-calendar-floral-frame-with-forest-arches",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2011-65/gray-acanthus-s-scroll",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2618,
+            "h": 40,
+            "path": "avif/gray-acanthus-network-with-three-lobes-64.avif",
+            "sha256": "2dfc3b5e3f5db04f828880ec75746135e1fbe6c1189abaf7d85e76d12a5b33d3",
+            "w": 64
+          },
+          {
+            "bytes": 4303,
+            "h": 60,
+            "path": "avif/gray-acanthus-network-with-three-lobes-96.avif",
+            "sha256": "3deb9a693a02ff8f76a7bdf7311330ee30e5c1bb4f20d2cfe31fe2f5ccb326c7",
+            "w": 96
+          },
+          {
+            "bytes": 6367,
+            "h": 80,
+            "path": "avif/gray-acanthus-network-with-three-lobes-128.avif",
+            "sha256": "7185eb6784603169b09a5e1edea23cc0606cbaf72b1a4e646a296cd2790f8363",
+            "w": 128
+          },
+          {
+            "bytes": 10311,
+            "h": 120,
+            "path": "avif/gray-acanthus-network-with-three-lobes-192.avif",
+            "sha256": "33438842df7c04a42140137cd76e60e43b759daf8d403a2f22523788998ab8da",
+            "w": 192
+          },
+          {
+            "bytes": 14821,
+            "h": 160,
+            "path": "avif/gray-acanthus-network-with-three-lobes-256.avif",
+            "sha256": "3d337475cd445456c2e244fbf163015ca2385374d98231790146d236003f8b88",
+            "w": 256
+          },
+          {
+            "bytes": 26190,
+            "h": 241,
+            "path": "avif/gray-acanthus-network-with-three-lobes-384.avif",
+            "sha256": "19adade4bb1c49f0a49af8811bbc74a2a49fa5329c3363a516bd9e4a85d53809",
+            "w": 384
+          },
+          {
+            "bytes": 36575,
+            "h": 321,
+            "path": "avif/gray-acanthus-network-with-three-lobes-512.avif",
+            "sha256": "7fcc57f3547204607db7402732c0b9596ae586376f38bb2c79db0946ba25bae1",
+            "w": 512
+          },
+          {
+            "bytes": 60895,
+            "h": 481,
+            "path": "avif/gray-acanthus-network-with-three-lobes-768.avif",
+            "sha256": "899fa7f2e560477a77df8d384d314060f7e9fef50b8cba175735ebf0adb19065",
+            "w": 768
+          },
+          {
+            "bytes": 89051,
+            "h": 641,
+            "path": "avif/gray-acanthus-network-with-three-lobes-1024.avif",
+            "sha256": "e882c98f324cd7ddce70766ba8c071bb1fe0cd90b369a381a2c35c2c99ff7c2c",
+            "w": 1024
+          },
+          {
+            "bytes": 161681,
+            "h": 962,
+            "path": "avif/gray-acanthus-network-with-three-lobes-1536.avif",
+            "sha256": "9ff322c775796b913011dad24439baf9a2657e01828115936795d9af27e9d4d2",
+            "w": 1536
+          },
+          {
+            "bytes": 177820,
+            "h": 1080,
+            "path": "avif/gray-acanthus-network-with-three-lobes-1724.avif",
+            "sha256": "8169d8b7e9f6ec5209a772bd8cc22f42a956a5ae683063bad846966377f2732d",
+            "w": 1724
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3156,
+            "h": 40,
+            "path": "webp/gray-acanthus-network-with-three-lobes-64.webp",
+            "sha256": "fb2f7bead3d52973c2504e7c6ea04bbee86353ab1cc0a58e30d41d1fd77d2173",
+            "w": 64
+          },
+          {
+            "bytes": 5752,
+            "h": 60,
+            "path": "webp/gray-acanthus-network-with-three-lobes-96.webp",
+            "sha256": "9ebde447da18fd0564ddcbf8a19100c2b689b95f0ba06d96f2cf5e824b0d0d37",
+            "w": 96
+          },
+          {
+            "bytes": 8708,
+            "h": 80,
+            "path": "webp/gray-acanthus-network-with-three-lobes-128.webp",
+            "sha256": "06d929ed681c73971c52821c3ead57c3218ff2fe71dfa29c0f49a056492345c6",
+            "w": 128
+          },
+          {
+            "bytes": 15868,
+            "h": 120,
+            "path": "webp/gray-acanthus-network-with-three-lobes-192.webp",
+            "sha256": "130fe2b3c6823c9635b6d4fef76888510345ef13a671c1f7a57f170f2fe1cdba",
+            "w": 192
+          },
+          {
+            "bytes": 23316,
+            "h": 160,
+            "path": "webp/gray-acanthus-network-with-three-lobes-256.webp",
+            "sha256": "9e6e4e4d87a6b1a6329d516cb2c3f71602c762a44a94dd20a6030b214936ad6d",
+            "w": 256
+          },
+          {
+            "bytes": 40652,
+            "h": 241,
+            "path": "webp/gray-acanthus-network-with-three-lobes-384.webp",
+            "sha256": "bf85ed8f92aadfd3b23c1d3474866f8151e894ee047dea0a6e19c43843329537",
+            "w": 384
+          },
+          {
+            "bytes": 59116,
+            "h": 321,
+            "path": "webp/gray-acanthus-network-with-three-lobes-512.webp",
+            "sha256": "15f99203f7a36f34648aa0b0eeb8d328f66f057847904982b888e51d6f4015ad",
+            "w": 512
+          },
+          {
+            "bytes": 99406,
+            "h": 481,
+            "path": "webp/gray-acanthus-network-with-three-lobes-768.webp",
+            "sha256": "004858c3a7f42f8d60d7d886fd2f88d4f57707398a9cc2d499281d88980d451f",
+            "w": 768
+          },
+          {
+            "bytes": 149846,
+            "h": 641,
+            "path": "webp/gray-acanthus-network-with-three-lobes-1024.webp",
+            "sha256": "0e65510dd45dc5bd8dd01e380ab79b5a0e207f77a095f67a6833131dcc52b903",
+            "w": 1024
+          },
+          {
+            "bytes": 258522,
+            "h": 962,
+            "path": "webp/gray-acanthus-network-with-three-lobes-1536.webp",
+            "sha256": "a077dc03e5d5a51d1008046a52f2bec9b2e051516e37fa973fc1e101cf248454",
+            "w": 1536
+          },
+          {
+            "bytes": 228532,
+            "h": 1080,
+            "path": "webp/gray-acanthus-network-with-three-lobes-1724.webp",
+            "sha256": "00b8458a21e534ef02100643fbc28b02c3b394afb600eac8861b62f9a56f6d3e",
+            "w": 1724
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "acanthus",
+        "leaf",
+        "scroll",
+        "stem"
+      ],
+      "thumbhash": "IQiCA4AVCq4kOIGAQjsY81gGc2eUl0g=",
+      "title": "Gray acanthus with three curls, lower margin",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Wide and low, it sits under a block of text or along a footer; the root at the bottom centre is the natural anchor."
+      ],
+      "width": 1724
+    },
+    "gray-acanthus-s-scroll": {
+      "categories": [
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "gray",
+        "white",
+        "light-blue"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall gray acanthus scroll from the right margin of the calendar frame. A long stem rises from a spiral at the bottom, swings through a large reverse curve in the middle and narrows to a point at the top, with folded leaves and a bud-like knob at the centre and hooked sprigs branching left and right; the leaves are blue-gray with white highlights and dark gray shadows. Transparent background.",
+      "display_width": [
+        190,
+        380
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 141114,
+        "webpTopBytes": 184264
+      },
+      "facing": "none",
+      "group": null,
+      "height": 2034,
+      "master": {
+        "bytes": 933490,
+        "h": 2034,
+        "path": "masters/gray-acanthus-s-scroll.webp",
+        "sha256": "eef46f5d33cb2d2b3ba7c3e7959b0004bb91a7355168c336fa108e88bf99c4a6",
+        "w": 757
+      },
+      "palette": [
+        "#a9a9a5",
+        "#85827f",
+        "#979591",
+        "#635e5a",
+        "#747371"
+      ],
+      "provenance": {
+        "date": "c. 1510",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2011.65.a/2011.65.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2011.65.a",
+        "object_title": "Leaf from a Book of Hours: Calendar Page for May (recto)",
+        "record_url": "https://clevelandart.org/art/2011.65.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "9c05df87df5be107cc387fca4fbc7dc5795487b45243f46e82f9968f9e3a44dd"
+      },
+      "quality": "A faint brown parchment fringe follows the outline; the top of the stem ends where the frame's flower stems crossed it.",
+      "related": [
+        {
+          "asset": "cma-2011-65/may-calendar-floral-frame-with-forest-arches",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2011-65/gray-acanthus-network-with-three-lobes",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 5672,
+            "h": 172,
+            "path": "avif/gray-acanthus-s-scroll-64.avif",
+            "sha256": "b5e9d36b89ad149ec756c3ef580f72b150744749c6ba83c837a82173eb7d77c3",
+            "w": 64
+          },
+          {
+            "bytes": 9406,
+            "h": 258,
+            "path": "avif/gray-acanthus-s-scroll-96.avif",
+            "sha256": "f811509a2c6d4396e86ba7714718308080f66fa67e515a64bd3af48b659d1da6",
+            "w": 96
+          },
+          {
+            "bytes": 13066,
+            "h": 344,
+            "path": "avif/gray-acanthus-s-scroll-128.avif",
+            "sha256": "8fefe9ed0327b4cd6d10cccdd4d63399ab5584a95be918208206746293264051",
+            "w": 128
+          },
+          {
+            "bytes": 21462,
+            "h": 516,
+            "path": "avif/gray-acanthus-s-scroll-192.avif",
+            "sha256": "226378fd8ef57d640897017f5eff8929cee3a10a720d9aca927852956d413479",
+            "w": 192
+          },
+          {
+            "bytes": 30616,
+            "h": 688,
+            "path": "avif/gray-acanthus-s-scroll-256.avif",
+            "sha256": "3f32f7effe92e3d30d7fab87aa059f33961f5e8ba2adcb221ccad9b5e323be23",
+            "w": 256
+          },
+          {
+            "bytes": 57127,
+            "h": 1032,
+            "path": "avif/gray-acanthus-s-scroll-384.avif",
+            "sha256": "3243ffb4b03ad8322831c5bfd6866a09658fd9bcceb7fc15621d87d716eed46e",
+            "w": 384
+          },
+          {
+            "bytes": 85186,
+            "h": 1376,
+            "path": "avif/gray-acanthus-s-scroll-512.avif",
+            "sha256": "4ef3f31b9263065e4b488e35c80da6f44d5946dfaddc9f4a31faa050c15f94cf",
+            "w": 512
+          },
+          {
+            "bytes": 141114,
+            "h": 2034,
+            "path": "avif/gray-acanthus-s-scroll-757.avif",
+            "sha256": "afbb93e8844bc4dd2478dc90c6bd572e070ecc1b8e762dd67eefe4baf37520f4",
+            "w": 757
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 8230,
+            "h": 172,
+            "path": "webp/gray-acanthus-s-scroll-64.webp",
+            "sha256": "0c051f414b6297e6e24db58ddfdd09a8078a3f3a2c6a5dff3d7fd652bf35edaf",
+            "w": 64
+          },
+          {
+            "bytes": 14516,
+            "h": 258,
+            "path": "webp/gray-acanthus-s-scroll-96.webp",
+            "sha256": "11a7edc1dfc05e36436774900a4ff45662f7fd760fc9f3238d61a136dcffd5e4",
+            "w": 96
+          },
+          {
+            "bytes": 21274,
+            "h": 344,
+            "path": "webp/gray-acanthus-s-scroll-128.webp",
+            "sha256": "173f9e080e38080750e0adfad8b4213b6d089e6d17fa3342ca63193b56c78f39",
+            "w": 128
+          },
+          {
+            "bytes": 36716,
+            "h": 516,
+            "path": "webp/gray-acanthus-s-scroll-192.webp",
+            "sha256": "6f3cdfae113880c5c8a56033517656e6de0d44028a31ebbb8b7846647baf5ae3",
+            "w": 192
+          },
+          {
+            "bytes": 54024,
+            "h": 688,
+            "path": "webp/gray-acanthus-s-scroll-256.webp",
+            "sha256": "65612e262be1e078e9ed02b62eaacd8395f55e2f74d3005057d8f7afd32fb5ac",
+            "w": 256
+          },
+          {
+            "bytes": 93876,
+            "h": 1032,
+            "path": "webp/gray-acanthus-s-scroll-384.webp",
+            "sha256": "2220259f8282257e0ac4694d53c436dd6d436deceab0a84ca5842955cb1352e3",
+            "w": 384
+          },
+          {
+            "bytes": 142682,
+            "h": 1376,
+            "path": "webp/gray-acanthus-s-scroll-512.webp",
+            "sha256": "753ea94c8dcac3748410aa681719e37c51555e9d737eaed505762d8315585030",
+            "w": 512
+          },
+          {
+            "bytes": 184264,
+            "h": 2034,
+            "path": "webp/gray-acanthus-s-scroll-757.webp",
+            "sha256": "9741a43264402c1164940708d499c284eb4d0d46cee430ff0f5f2660e76f8ef1",
+            "w": 757
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "acanthus",
+        "leaf",
+        "scroll",
+        "stem"
+      ],
+      "thumbhash": "IQiCAgAVMfo4hdPQgGJPRls1gomgmnY=",
+      "title": "Gray acanthus S-scroll, right margin",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Tall and narrow, it runs down the outer margin of a page; the pointed top is where the stem thinned under the frame's flowers."
+      ],
+      "width": 757
+    },
+    "may-calendar-floral-frame-with-forest-arches": {
+      "categories": [
+        "floral",
+        "scrollwork",
+        "humans",
+        "animals"
+      ],
+      "colors": [
+        "tan",
+        "green",
+        "gold",
+        "gray",
+        "blue"
+      ],
+      "composition": "framed-scene",
+      "description": "The complete frame of a calendar page. Across the top, two round arches on gold columns hold scenes against dense green foliage: a couple riding a white horse with a hawk at the left and a nude couple standing among trees at the right. The right and bottom margins carry flowers in pink, red and blue with green leaves and gray acanthus scrolls on a tan ground flecked with gold; a blue rule edges the left and divides the two text columns, which are transparent, as is the outside of the leaf.",
+      "display_width": [
+        600,
+        1200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 615144,
+        "webpTopBytes": 906760
+      },
+      "facing": "mixed",
+      "group": null,
+      "height": 5928,
+      "master": {
+        "bytes": 2772250,
+        "h": 2049,
+        "path": "masters/may-calendar-floral-frame-with-forest-arches.webp",
+        "sha256": "625a257a20094da286e60cfbfe76626385fd5278109227503961db3b7608b502",
+        "w": 1364
+      },
+      "palette": [
+        "#9d8f7f",
+        "#665f50",
+        "#95775d",
+        "#7b786f",
+        "#586773"
+      ],
+      "provenance": {
+        "date": "c. 1510",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2011.65.a/2011.65.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2011.65.a",
+        "object_title": "Leaf from a Book of Hours: Calendar Page for May (recto)",
+        "record_url": "https://clevelandart.org/art/2011.65.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "9c05df87df5be107cc387fca4fbc7dc5795487b45243f46e82f9968f9e3a44dd"
+      },
+      "quality": "A few red letters of the calendar text remain at the right edge of the right column, and the outer edge keeps the cut parchment profile.",
+      "related": [
+        {
+          "asset": "cma-2011-65/mounted-couple-on-white-horse",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2011-65/gray-acanthus-network-with-three-lobes",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2011-65/gray-acanthus-s-scroll",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2063,
+            "h": 96,
+            "path": "avif/may-calendar-floral-frame-with-forest-arches-64.avif",
+            "sha256": "986144fcc40c24320c3e127bf761a5e3d5b6e9345407fa1bb379bcf61e3f4986",
+            "w": 64
+          },
+          {
+            "bytes": 3817,
+            "h": 144,
+            "path": "avif/may-calendar-floral-frame-with-forest-arches-96.avif",
+            "sha256": "14208ae4071e1a89139f087c68d00ad5a172b7ac8de5feb229c4806a558c28e9",
+            "w": 96
+          },
+          {
+            "bytes": 5058,
+            "h": 192,
+            "path": "avif/may-calendar-floral-frame-with-forest-arches-128.avif",
+            "sha256": "092c521600488741147f04d68e39843a6856dc99b965ec365e53a4fa4a0e46ad",
+            "w": 128
+          },
+          {
+            "bytes": 10127,
+            "h": 288,
+            "path": "avif/may-calendar-floral-frame-with-forest-arches-192.avif",
+            "sha256": "19c2dceef9d74792cbc3aefb09ec73c9a3a6a7aa9bdd144699575ef8e6479c45",
+            "w": 192
+          },
+          {
+            "bytes": 16450,
+            "h": 384,
+            "path": "avif/may-calendar-floral-frame-with-forest-arches-256.avif",
+            "sha256": "cef38c55309f3e98d16ec4e75fb4bbe3e040900324a9bd35ab5631a70cea05e5",
+            "w": 256
+          },
+          {
+            "bytes": 33776,
+            "h": 577,
+            "path": "avif/may-calendar-floral-frame-with-forest-arches-384.avif",
+            "sha256": "a641ca3d51c588e7c88c7194f691e3b979b861a0fb43b3daabe3150ecd346a0c",
+            "w": 384
+          },
+          {
+            "bytes": 53570,
+            "h": 769,
+            "path": "avif/may-calendar-floral-frame-with-forest-arches-512.avif",
+            "sha256": "b819758cad158961472d24ab263d2de9c2342ac79b68bb0125658a7e353cb636",
+            "w": 512
+          },
+          {
+            "bytes": 104086,
+            "h": 1153,
+            "path": "avif/may-calendar-floral-frame-with-forest-arches-768.avif",
+            "sha256": "c3d3b0f63a96422ea3f8557cfe4f34e7814fda100e9ee4663e0c6af50087e2a4",
+            "w": 768
+          },
+          {
+            "bytes": 170418,
+            "h": 1538,
+            "path": "avif/may-calendar-floral-frame-with-forest-arches-1024.avif",
+            "sha256": "aa6316e3ac7f835e8fe18d9b772766da98a322dd433b44b06bae3a759bf5dbda",
+            "w": 1024
+          },
+          {
+            "bytes": 358137,
+            "h": 2307,
+            "path": "avif/may-calendar-floral-frame-with-forest-arches-1536.avif",
+            "sha256": "2f5ba944eb4a55bfa748415dee219ef27e98b3d417f17c6bab324fc537c1460f",
+            "w": 1536
+          },
+          {
+            "bytes": 615144,
+            "h": 3076,
+            "path": "avif/may-calendar-floral-frame-with-forest-arches-2048.avif",
+            "sha256": "2b67f635abcf38db648c5d0eb4cd893017dde91ce4d294b61fdb56e0d3df894e",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2986,
+            "h": 96,
+            "path": "webp/may-calendar-floral-frame-with-forest-arches-64.webp",
+            "sha256": "a3510dcff4694f4d1eb3a3d2425ffc742df40d43bf72ce402a39f3e95f11ec3e",
+            "w": 64
+          },
+          {
+            "bytes": 5704,
+            "h": 144,
+            "path": "webp/may-calendar-floral-frame-with-forest-arches-96.webp",
+            "sha256": "aed6135201932e1ed18c4b30ccad74b92a3c75d35755387b31ba194f017edd3f",
+            "w": 96
+          },
+          {
+            "bytes": 8806,
+            "h": 192,
+            "path": "webp/may-calendar-floral-frame-with-forest-arches-128.webp",
+            "sha256": "851b6851a0817fab17e82f6a97bbd8d6cb868bc12c35637c98d1fa1f8eb5c987",
+            "w": 128
+          },
+          {
+            "bytes": 17188,
+            "h": 288,
+            "path": "webp/may-calendar-floral-frame-with-forest-arches-192.webp",
+            "sha256": "b7a7d5fce4ee82aa92928e47c258c63eb9ef89e9b995fb21fc10d38e42ddd8c4",
+            "w": 192
+          },
+          {
+            "bytes": 28458,
+            "h": 384,
+            "path": "webp/may-calendar-floral-frame-with-forest-arches-256.webp",
+            "sha256": "afe6ed811c72dd997e04db7af42b9525d28b78b32b8dd86918a00e9774834864",
+            "w": 256
+          },
+          {
+            "bytes": 56286,
+            "h": 577,
+            "path": "webp/may-calendar-floral-frame-with-forest-arches-384.webp",
+            "sha256": "16c36c964807e1d2f399550282442d44e2e704b372b6668bd1d9c95cd0f1e458",
+            "w": 384
+          },
+          {
+            "bytes": 87080,
+            "h": 769,
+            "path": "webp/may-calendar-floral-frame-with-forest-arches-512.webp",
+            "sha256": "fdbf0bbcb114648758aaab6fcf240140159a85c8be2ba6c1be898ae9928588a1",
+            "w": 512
+          },
+          {
+            "bytes": 170408,
+            "h": 1153,
+            "path": "webp/may-calendar-floral-frame-with-forest-arches-768.webp",
+            "sha256": "001ba6e9995f66558971b9cba10c263f7e83dfcb0fab4d9acc2f3e13f88d72c8",
+            "w": 768
+          },
+          {
+            "bytes": 273964,
+            "h": 1538,
+            "path": "webp/may-calendar-floral-frame-with-forest-arches-1024.webp",
+            "sha256": "2f86159b943f2bed78cca36d141e59c1d2ca0c1b0204a74e6de7961a6bea9708",
+            "w": 1024
+          },
+          {
+            "bytes": 542654,
+            "h": 2307,
+            "path": "webp/may-calendar-floral-frame-with-forest-arches-1536.webp",
+            "sha256": "1623dcb80e8361513624f54567f5a582d5916716923e6779ef12cb9116a7f01f",
+            "w": 1536
+          },
+          {
+            "bytes": 906760,
+            "h": 3076,
+            "path": "webp/may-calendar-floral-frame-with-forest-arches-2048.webp",
+            "sha256": "0a53c40c139816595ce5f18dfd609164e0cec5c321c3bb2eb8e0520d3bfc2a2d",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "frame",
+        "flower",
+        "leaf",
+        "acanthus",
+        "rule",
+        "architecture",
+        "tree",
+        "horse",
+        "rider",
+        "lover",
+        "man",
+        "woman"
+      ],
+      "thumbhash": "nRiCAwA5p4ZPKnfAtmjNb6WHioefVXc=",
+      "title": "May calendar page frame with two arches",
+      "transparent": true,
+      "type": "frame",
+      "usage_notes": [
+        "A complete non-repeating frame; place content in the two transparent columns under the arches and keep the proportions, there is no atlas.",
+        "The two arches are a header band of their own; crop below the red baseline of the scenes for a banner."
+      ],
+      "width": 3947
+    },
+    "mounted-couple-on-white-horse": {
+      "categories": [
+        "humans",
+        "animals"
+      ],
+      "colors": [
+        "white",
+        "blue",
+        "orange",
+        "brown",
+        "red"
+      ],
+      "composition": "multiple-figures",
+      "description": "A young man in a blue tunic hatched with gold, a red cap and black boots rides a white horse to the left, holding the red and gold reins in one hand and a brown hawk perched on the other, raised hand. Behind him sits a woman in an orange-red gown with gold hatching and a white veil under long black hair, one hand resting at her waist. Thin brown contours and gold highlights; the ground under the hooves and the background are transparent.",
+      "display_width": [
+        300,
+        580
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 144673,
+        "webpTopBytes": 188824
+      },
+      "facing": "left",
+      "group": null,
+      "height": 1359,
+      "master": {
+        "bytes": 1272024,
+        "h": 1359,
+        "path": "masters/mounted-couple-on-white-horse.webp",
+        "sha256": "7c64b2cdf399419974e49322638c709efd3ae883571098d7336236a877c9a320",
+        "w": 1155
+      },
+      "palette": [
+        "#7f5a4f",
+        "#b5a89d",
+        "#a16952",
+        "#453e40",
+        "#455972"
+      ],
+      "provenance": {
+        "date": "c. 1510",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2011.65.a/2011.65.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2011.65.a",
+        "object_title": "Leaf from a Book of Hours: Calendar Page for May (recto)",
+        "record_url": "https://clevelandart.org/art/2011.65.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "9c05df87df5be107cc387fca4fbc7dc5795487b45243f46e82f9968f9e3a44dd"
+      },
+      "quality": "The horse's far legs and the rear hoof end where the frame's column and ground overlapped them.",
+      "related": [
+        {
+          "asset": "cma-2011-65/may-calendar-floral-frame-with-forest-arches",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2547,
+            "h": 75,
+            "path": "avif/mounted-couple-on-white-horse-64.avif",
+            "sha256": "393d647eae02218d3d57fff6c49bea985e8df98416a9eb44466bf284985af96b",
+            "w": 64
+          },
+          {
+            "bytes": 4168,
+            "h": 113,
+            "path": "avif/mounted-couple-on-white-horse-96.avif",
+            "sha256": "be3273ece63f0a496d89277245ccdef7d172f00a31572623e05b368c0b348a14",
+            "w": 96
+          },
+          {
+            "bytes": 5960,
+            "h": 151,
+            "path": "avif/mounted-couple-on-white-horse-128.avif",
+            "sha256": "7ddd6c75e6efa08ef5c811d002fc2eb40a184301ade3a6609f2772bf405b97a2",
+            "w": 128
+          },
+          {
+            "bytes": 10182,
+            "h": 226,
+            "path": "avif/mounted-couple-on-white-horse-192.avif",
+            "sha256": "0dba171cb6d3a17a561c1e5fbb39bea432215bb8d69ec6b04c3f2131cd1adb3f",
+            "w": 192
+          },
+          {
+            "bytes": 15245,
+            "h": 301,
+            "path": "avif/mounted-couple-on-white-horse-256.avif",
+            "sha256": "e72e01ee6d7ef726a91840714633253e190dd7d1ebac4d7cb4638f2709695258",
+            "w": 256
+          },
+          {
+            "bytes": 27539,
+            "h": 452,
+            "path": "avif/mounted-couple-on-white-horse-384.avif",
+            "sha256": "ca3b42e25c129bd06ffde28091a4e9496a5dc8af678f4f454f78fc42c7870afa",
+            "w": 384
+          },
+          {
+            "bytes": 42861,
+            "h": 602,
+            "path": "avif/mounted-couple-on-white-horse-512.avif",
+            "sha256": "eeb09fc3be808515c9b1451ff26a73f7b90636ef649ae303dc684fcdcd70e5ce",
+            "w": 512
+          },
+          {
+            "bytes": 79925,
+            "h": 904,
+            "path": "avif/mounted-couple-on-white-horse-768.avif",
+            "sha256": "ee392bc44e7929c18f0185f99a2e57e2caeab111b88807b1c6e2adbd6cb33e85",
+            "w": 768
+          },
+          {
+            "bytes": 125053,
+            "h": 1205,
+            "path": "avif/mounted-couple-on-white-horse-1024.avif",
+            "sha256": "a75a4b89ec5600f9223b39a5fd59ead9c9569f173c962b394fa4331eb6523b38",
+            "w": 1024
+          },
+          {
+            "bytes": 144673,
+            "h": 1359,
+            "path": "avif/mounted-couple-on-white-horse-1155.avif",
+            "sha256": "731fdd9fa3690e4a6e138e3ea1b87d13a54346904b33f55b9940a160f92f1e3a",
+            "w": 1155
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3372,
+            "h": 75,
+            "path": "webp/mounted-couple-on-white-horse-64.webp",
+            "sha256": "c247b173d7284fc4d5833738552612a08490d65dff854291ed78f37c14783d2e",
+            "w": 64
+          },
+          {
+            "bytes": 5872,
+            "h": 113,
+            "path": "webp/mounted-couple-on-white-horse-96.webp",
+            "sha256": "bfcc3a84bb189ea28d3965a3c368d66502d33cd5110b02c13cd322920ae56b10",
+            "w": 96
+          },
+          {
+            "bytes": 8808,
+            "h": 151,
+            "path": "webp/mounted-couple-on-white-horse-128.webp",
+            "sha256": "5e9ac3d9b7f707a67af814240145c7827ad1a19f00bd54e10b892c4ead656468",
+            "w": 128
+          },
+          {
+            "bytes": 15494,
+            "h": 226,
+            "path": "webp/mounted-couple-on-white-horse-192.webp",
+            "sha256": "e605054ba769c45b7a6e621e023dc7119104c9f372b77e9256e116455c8831fc",
+            "w": 192
+          },
+          {
+            "bytes": 23812,
+            "h": 301,
+            "path": "webp/mounted-couple-on-white-horse-256.webp",
+            "sha256": "ab3bfd110f2c5ddd300defa5a0459dfaaf9d927dcafce9a2e585b94a6840ec67",
+            "w": 256
+          },
+          {
+            "bytes": 42788,
+            "h": 452,
+            "path": "webp/mounted-couple-on-white-horse-384.webp",
+            "sha256": "714cc8222f5c239b242cde4865c6e4db8dd695ce81307743dacc359bef971406",
+            "w": 384
+          },
+          {
+            "bytes": 65880,
+            "h": 602,
+            "path": "webp/mounted-couple-on-white-horse-512.webp",
+            "sha256": "3eb08a9148c773748a2a6bd0aa1be0b15acc46e60b555ed81071287a433d6734",
+            "w": 512
+          },
+          {
+            "bytes": 119156,
+            "h": 904,
+            "path": "webp/mounted-couple-on-white-horse-768.webp",
+            "sha256": "6cbe673a3970e84668c3007a2a32e970ef2b0ac8331603594a5a32d879b3f751",
+            "w": 768
+          },
+          {
+            "bytes": 179070,
+            "h": 1205,
+            "path": "webp/mounted-couple-on-white-horse-1024.webp",
+            "sha256": "295932a3e02ad1da4204897cf21fe6d1d3f6e67004d2df39465039f0500a778c",
+            "w": 1024
+          },
+          {
+            "bytes": 188824,
+            "h": 1359,
+            "path": "webp/mounted-couple-on-white-horse-1155.webp",
+            "sha256": "ac14634494369cb568b4e35798d272cdd68f6dbbbef6a9dc058c8355ecdbd836",
+            "w": 1155
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "man",
+        "woman",
+        "lover",
+        "horse",
+        "rider",
+        "bird",
+        "cap",
+        "veil",
+        "robe"
+      ],
+      "thumbhash": "nDiGDAI4+UVZekVpBz94sIVmdJZYCZdoBw==",
+      "title": "Couple riding a white horse with a hawk",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Cut from the left arch of the calendar frame; the horse moves left, so place it at the right of a heading or riding into a margin."
+      ],
+      "view": "side",
+      "width": 1155
+    }
+  },
+  "attribution": "Cleveland Museum of Art 2011.65.a",
+  "builtAt": "2026-10-30T12:41:38.534Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-cma-2011-65@1.0.0/",
+  "contentHash": "sha256:ee5cd7143f696c275cde426ed0b368dea02ca0233b8187018f6695803375ac78",
+  "inputsHash": "sha256:445da9afd8afb306ade002ad44db6d5b846e394bf241e88338a3b7341bb49e2c",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from Cleveland Museum of Art open access (CC0) images; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-cma-2011-65-masters",
+  "package": "@ranx729/ducktape-assets-cma-2011-65",
+  "period": "c. 1510",
+  "region": "Rouen, France",
+  "schema": 1,
+  "set": "cma-2011-65",
+  "style": "late Gothic illumination",
+  "summary": "The May calendar page of a Rouen Book of Hours of about 1510: a floral frame with forest arches and gray acanthus scrolls, in the Cleveland Museum of Art.",
+  "title": "Cleveland 2011.65, May calendar leaf",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

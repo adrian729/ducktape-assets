@@ -1,0 +1,963 @@
+{
+  "assets": {
+    "coronation-of-mary-with-six-angels-and-throne": {
+      "categories": [
+        "humans",
+        "royalty"
+      ],
+      "colors": [
+        "blue",
+        "gold",
+        "red",
+        "white",
+        "green"
+      ],
+      "composition": "multiple-figures",
+      "description": "Christ in a blue mantle over a red robe sits at the right of a gray Gothic throne with orange-red pinnacles and a gabled back, and sets a crown on Mary, who sits at the left in a white mantle patterned with red and blue florets over a peach robe, hands crossed on her chest. Two standing angels in blue and green flank each side and two more kneel in front of the white marble base; all have burnished gold haloes. The miniature's blue ground is removed and the background is transparent.",
+      "display_width": [
+        400,
+        1170
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 181496,
+        "webpTopBytes": 329042
+      },
+      "facing": "mixed",
+      "group": null,
+      "height": 1322,
+      "master": {
+        "bytes": 1655764,
+        "h": 1322,
+        "path": "masters/coronation-of-mary-with-six-angels-and-throne.webp",
+        "sha256": "b381b2f752dd541fa740beec9ef234bbf0bafcb4e88d68aa91aa9dd432f0b322",
+        "w": 1171
+      },
+      "palette": [
+        "#605f4d",
+        "#4c6186",
+        "#c2b098",
+        "#b06c4a",
+        "#bd9c61"
+      ],
+      "provenance": {
+        "artist": "Master of the Beffi Triptych (Italian, active 1390–1425)",
+        "date": "1400s",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/1953.24/1953.24_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1953.24",
+        "object_title": "Leaf from an Antiphonary: Coronation of the Virgin",
+        "record_url": "https://clevelandart.org/art/1953.24",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "fad2ff0aae45fd22d3d36c015cd0c4f75c0f59fa1863d74927aea79a725b0b6f"
+      },
+      "related": [
+        {
+          "asset": "cma-1953-24/kneeling-blue-robed-angel-with-long-green-wings",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-1953-24/kneeling-green-robed-angel-with-long-green-wings",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-1953-24/polychrome-floral-frame-with-knotted-medallions",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3016,
+            "h": 72,
+            "path": "avif/coronation-of-mary-with-six-angels-and-throne-64.avif",
+            "sha256": "35320815be495b2329d8300af397e96cda8cac0a3fa7d9dd2600b07189dba15d",
+            "w": 64
+          },
+          {
+            "bytes": 5239,
+            "h": 108,
+            "path": "avif/coronation-of-mary-with-six-angels-and-throne-96.avif",
+            "sha256": "2287462648251d65f5a80438605f5a429184a5e55f61612313627dae6cbbe402",
+            "w": 96
+          },
+          {
+            "bytes": 7564,
+            "h": 145,
+            "path": "avif/coronation-of-mary-with-six-angels-and-throne-128.avif",
+            "sha256": "87edd7b67aa9b7f518cb5f554fed6e4a45731f382900ced0078ef6cf1a3726a7",
+            "w": 128
+          },
+          {
+            "bytes": 13462,
+            "h": 217,
+            "path": "avif/coronation-of-mary-with-six-angels-and-throne-192.avif",
+            "sha256": "f9f954c5052fb13a3a8d14e11ab9a009ca3d88550a28f7098af6c40b7178ff6e",
+            "w": 192
+          },
+          {
+            "bytes": 19964,
+            "h": 289,
+            "path": "avif/coronation-of-mary-with-six-angels-and-throne-256.avif",
+            "sha256": "1a111787924c9f393b0112c7275b879befdcb320413fc1751fed1ae998a377cb",
+            "w": 256
+          },
+          {
+            "bytes": 37281,
+            "h": 434,
+            "path": "avif/coronation-of-mary-with-six-angels-and-throne-384.avif",
+            "sha256": "eda9929e52142130d4ce28235efcbdb5928282859d7db6854bbd8635d12284f4",
+            "w": 384
+          },
+          {
+            "bytes": 56033,
+            "h": 578,
+            "path": "avif/coronation-of-mary-with-six-angels-and-throne-512.avif",
+            "sha256": "95ca01f5dfea177d1e59e463d5a711575fbc64136d8a7e826d3200e96ce4cc74",
+            "w": 512
+          },
+          {
+            "bytes": 102410,
+            "h": 867,
+            "path": "avif/coronation-of-mary-with-six-angels-and-throne-768.avif",
+            "sha256": "b669225057324123b4ef63ffdff72f3684741e2c741917b6244beadd99f94ecc",
+            "w": 768
+          },
+          {
+            "bytes": 151028,
+            "h": 1156,
+            "path": "avif/coronation-of-mary-with-six-angels-and-throne-1024.avif",
+            "sha256": "053aab43fd8b238fcb4776a8dead5931e7e6e154ed40299f14e38e924cd3b2b5",
+            "w": 1024
+          },
+          {
+            "bytes": 181496,
+            "h": 1322,
+            "path": "avif/coronation-of-mary-with-six-angels-and-throne-1171.avif",
+            "sha256": "34ab1882c65e83aea829f4ebb1688be816584f3bdf6541fc49bd66b90a58ae43",
+            "w": 1171
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4136,
+            "h": 72,
+            "path": "webp/coronation-of-mary-with-six-angels-and-throne-64.webp",
+            "sha256": "b9dce16409ce1126b273c68a25a9bb4db6ed9dc5d1bd7073ac4191a34703b78c",
+            "w": 64
+          },
+          {
+            "bytes": 7574,
+            "h": 108,
+            "path": "webp/coronation-of-mary-with-six-angels-and-throne-96.webp",
+            "sha256": "4575aa7b939bc6ee61f26b6527164de2039ff0cdccdf20763d8da4735c66dbb6",
+            "w": 96
+          },
+          {
+            "bytes": 11392,
+            "h": 145,
+            "path": "webp/coronation-of-mary-with-six-angels-and-throne-128.webp",
+            "sha256": "dd714f4f60763634f3af91dd57669776f8d8b8e3f9b263d10407820a10bfa67f",
+            "w": 128
+          },
+          {
+            "bytes": 21586,
+            "h": 217,
+            "path": "webp/coronation-of-mary-with-six-angels-and-throne-192.webp",
+            "sha256": "4b6b9877e01858f08f97b87f5aa623d194e6ada2128eee1f6bbee2042204b853",
+            "w": 192
+          },
+          {
+            "bytes": 32590,
+            "h": 289,
+            "path": "webp/coronation-of-mary-with-six-angels-and-throne-256.webp",
+            "sha256": "47f5f65591961cbb20e4d31970914b10e97b0796a7b441698c376583cd377ba2",
+            "w": 256
+          },
+          {
+            "bytes": 61114,
+            "h": 434,
+            "path": "webp/coronation-of-mary-with-six-angels-and-throne-384.webp",
+            "sha256": "db79c0f5787749f6a73f1687f495fec31a64f7853bd8a8b9d714b6b4126770d8",
+            "w": 384
+          },
+          {
+            "bytes": 95520,
+            "h": 578,
+            "path": "webp/coronation-of-mary-with-six-angels-and-throne-512.webp",
+            "sha256": "91190c7ce1200e2c2a656d658f1d41f202e56d0fd20e7962d1be574ffbcce660",
+            "w": 512
+          },
+          {
+            "bytes": 182384,
+            "h": 867,
+            "path": "webp/coronation-of-mary-with-six-angels-and-throne-768.webp",
+            "sha256": "eb151f299f3c37e155a18077602d72e04506774b0baa1a7edda0ac3a456279ed",
+            "w": 768
+          },
+          {
+            "bytes": 275270,
+            "h": 1156,
+            "path": "webp/coronation-of-mary-with-six-angels-and-throne-1024.webp",
+            "sha256": "a40f5c33255da6d22fc90d89116a32f6bb0efd850ff49c50b2735cf7d2b76058",
+            "w": 1024
+          },
+          {
+            "bytes": 329042,
+            "h": 1322,
+            "path": "webp/coronation-of-mary-with-six-angels-and-throne-1171.webp",
+            "sha256": "5e4ba4bf2128455c5c65e07b8d8e73fefb79deba6e1a5d9f07902e0b34ddd4b1",
+            "w": 1171
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "christ",
+        "mary",
+        "angel",
+        "throne",
+        "crown",
+        "halo",
+        "wings",
+        "robe",
+        "architecture"
+      ],
+      "thumbhash": "nxiGDAI5uZJoGEWPevl6d5+FhFV3B3h3Bg==",
+      "title": "Coronation of the Virgin with six angels",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The whole miniature without its ground; the two kneeling angels in front are also available as separate pieces, and the frame from the same leaf surrounds it on the page."
+      ],
+      "view": "front",
+      "width": 1171
+    },
+    "kneeling-blue-robed-angel-with-long-green-wings": {
+      "categories": [
+        "humans",
+        "fantasy"
+      ],
+      "colors": [
+        "blue",
+        "green",
+        "gold",
+        "yellow",
+        "red"
+      ],
+      "composition": "single-figure",
+      "description": "An angel kneels in profile facing right with hands joined, its face lifted upward, in a long blue robe with yellow-green highlights and gold hems that pools on the ground behind it. Two long pointed wings in blue and yellow-green sweep back to the lower left; the hair is bound with a red fillet and the burnished gold halo carries red flame marks. The background is transparent.",
+      "display_width": [
+        250,
+        985
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 136250,
+        "webpTopBytes": 231686
+      },
+      "facing": "right",
+      "group": null,
+      "height": 1289,
+      "master": {
+        "bytes": 1256682,
+        "h": 1289,
+        "path": "masters/kneeling-blue-robed-angel-with-long-green-wings.webp",
+        "sha256": "e1135a4a98c2f9a8f4bfcdbb2ecd577dc5a9d102c960b30f7a7c5ff739a2c9c9",
+        "w": 985
+      },
+      "palette": [
+        "#395686",
+        "#836748",
+        "#667b83",
+        "#798b7b",
+        "#baa668"
+      ],
+      "provenance": {
+        "artist": "Master of the Beffi Triptych (Italian, active 1390–1425)",
+        "date": "1400s",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/1953.24/1953.24_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1953.24",
+        "object_title": "Leaf from an Antiphonary: Coronation of the Virgin",
+        "record_url": "https://clevelandart.org/art/1953.24",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "fad2ff0aae45fd22d3d36c015cd0c4f75c0f59fa1863d74927aea79a725b0b6f"
+      },
+      "related": [
+        {
+          "asset": "cma-1953-24/coronation-of-mary-with-six-angels-and-throne",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-1953-24/kneeling-green-robed-angel-with-long-green-wings",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2926,
+            "h": 84,
+            "path": "avif/kneeling-blue-robed-angel-with-long-green-wings-64.avif",
+            "sha256": "3cc5fa4ca56359f9cfda17d0bfae96d88b4b0b16f4ad6ee1c9c1ecbb8dad2504",
+            "w": 64
+          },
+          {
+            "bytes": 4790,
+            "h": 126,
+            "path": "avif/kneeling-blue-robed-angel-with-long-green-wings-96.avif",
+            "sha256": "a5c426359ec9a4bb4348ab9d4ab585c152b935c8af7fbd9495c72e06e6a929ce",
+            "w": 96
+          },
+          {
+            "bytes": 6525,
+            "h": 168,
+            "path": "avif/kneeling-blue-robed-angel-with-long-green-wings-128.avif",
+            "sha256": "57ad44aca572f8bc5574901603ebcd868989874bac737b5479764f2eaea6b31a",
+            "w": 128
+          },
+          {
+            "bytes": 10917,
+            "h": 251,
+            "path": "avif/kneeling-blue-robed-angel-with-long-green-wings-192.avif",
+            "sha256": "f109807fc82f8b155921edb9a0bd2aa4a9e0dea7ccbb5812a0092359ac543438",
+            "w": 192
+          },
+          {
+            "bytes": 16605,
+            "h": 335,
+            "path": "avif/kneeling-blue-robed-angel-with-long-green-wings-256.avif",
+            "sha256": "31959358c670789f4a00d58f6308f094ee43111c4287f12a9283ff2849ebf0f5",
+            "w": 256
+          },
+          {
+            "bytes": 30206,
+            "h": 503,
+            "path": "avif/kneeling-blue-robed-angel-with-long-green-wings-384.avif",
+            "sha256": "c6911c136dee5c8b205d15e1f5fb3f884a570aeea3acdc0b85382ebc1f395d93",
+            "w": 384
+          },
+          {
+            "bytes": 48660,
+            "h": 670,
+            "path": "avif/kneeling-blue-robed-angel-with-long-green-wings-512.avif",
+            "sha256": "d796f6527dd0a6d23f573e5d73f49c8f65f0256fee826e11888ea35c505f6901",
+            "w": 512
+          },
+          {
+            "bytes": 93591,
+            "h": 1005,
+            "path": "avif/kneeling-blue-robed-angel-with-long-green-wings-768.avif",
+            "sha256": "f673732b982434ba5fd17255739fe1da8f35f0a9ba2cbfa16c02767b3974bcc8",
+            "w": 768
+          },
+          {
+            "bytes": 136250,
+            "h": 1289,
+            "path": "avif/kneeling-blue-robed-angel-with-long-green-wings-985.avif",
+            "sha256": "da885b15e104d8540d2ba51d229cb6ee5930789fef215deb5f6f081124ba22ba",
+            "w": 985
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4354,
+            "h": 84,
+            "path": "webp/kneeling-blue-robed-angel-with-long-green-wings-64.webp",
+            "sha256": "11599dba6ec135872120433c7529ccafeb0e18c201290a42287d410d65c49e16",
+            "w": 64
+          },
+          {
+            "bytes": 7376,
+            "h": 126,
+            "path": "webp/kneeling-blue-robed-angel-with-long-green-wings-96.webp",
+            "sha256": "bfe9a88f0bb963c61653698d5d26548c6da926a030184b77248cacb22257c95c",
+            "w": 96
+          },
+          {
+            "bytes": 11038,
+            "h": 168,
+            "path": "webp/kneeling-blue-robed-angel-with-long-green-wings-128.webp",
+            "sha256": "2a447dc8ef4ef331568202609ce17c0f4b166b3b89457b1756918864bab548e5",
+            "w": 128
+          },
+          {
+            "bytes": 18128,
+            "h": 251,
+            "path": "webp/kneeling-blue-robed-angel-with-long-green-wings-192.webp",
+            "sha256": "b947597c260efce01680bf38c3f0657ae7d111ad0fad0df6539fa36cdf2e2286",
+            "w": 192
+          },
+          {
+            "bytes": 27872,
+            "h": 335,
+            "path": "webp/kneeling-blue-robed-angel-with-long-green-wings-256.webp",
+            "sha256": "3abdb41df474693487f343375013825a69e399bf26854657f9c701ed512d7399",
+            "w": 256
+          },
+          {
+            "bytes": 50596,
+            "h": 503,
+            "path": "webp/kneeling-blue-robed-angel-with-long-green-wings-384.webp",
+            "sha256": "df4a2f0126aa1b29b10ba4ebb169cb72c1ee4deae816ea2bcbc33088bf4fe595",
+            "w": 384
+          },
+          {
+            "bytes": 82334,
+            "h": 670,
+            "path": "webp/kneeling-blue-robed-angel-with-long-green-wings-512.webp",
+            "sha256": "de4c72c0f4b626277dc723d2dde2cf99cb967a6032e642f794c0e6f5583e78e4",
+            "w": 512
+          },
+          {
+            "bytes": 157856,
+            "h": 1005,
+            "path": "webp/kneeling-blue-robed-angel-with-long-green-wings-768.webp",
+            "sha256": "31adad696ac5bd3192f1ab69ac72de6387b8ad6458eedc454a0f4fb2cb3b758b",
+            "w": 768
+          },
+          {
+            "bytes": 231686,
+            "h": 1289,
+            "path": "webp/kneeling-blue-robed-angel-with-long-green-wings-985.webp",
+            "sha256": "0bfcded5960e7bd966aac7b2eb37d82c68e9e92854716c82d9af634e494df70f",
+            "w": 985
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "angel",
+        "wings",
+        "halo",
+        "robe"
+      ],
+      "thumbhash": "W+eBFAI5R/11yHR7hfbUdk88oEZ3aYhnBg==",
+      "title": "Kneeling angel in blue, facing right",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Cut from the left foreground of the Coronation; it faces right and pairs with the green angel facing left, kneeling on either side of a title or image."
+      ],
+      "view": "side",
+      "width": 985
+    },
+    "kneeling-green-robed-angel-with-long-green-wings": {
+      "categories": [
+        "humans",
+        "fantasy"
+      ],
+      "colors": [
+        "green",
+        "gold",
+        "yellow",
+        "blue",
+        "red"
+      ],
+      "composition": "single-figure",
+      "description": "An angel kneels in profile facing left with hands joined at its chest, its face lifted upward, in a long blue-green robe with yellow-green highlights and gold hems that spreads on the ground around it. Two long pointed green wings sweep back to the lower right; the hair is bound with a red fillet and the burnished gold halo carries red flame marks. The background is transparent.",
+      "display_width": [
+        280,
+        1100
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 147778,
+        "webpTopBytes": 247042
+      },
+      "facing": "left",
+      "group": null,
+      "height": 1293,
+      "master": {
+        "bytes": 1316076,
+        "h": 1293,
+        "path": "masters/kneeling-green-robed-angel-with-long-green-wings.webp",
+        "sha256": "109627d10cb9fee1ea02392c50fcb0213dc846bc95e41df2d5c5f9675bee74be",
+        "w": 1109
+      },
+      "palette": [
+        "#4f5f4f",
+        "#7a7a57",
+        "#7f8f69",
+        "#c7a749",
+        "#a9a572"
+      ],
+      "provenance": {
+        "artist": "Master of the Beffi Triptych (Italian, active 1390–1425)",
+        "date": "1400s",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/1953.24/1953.24_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1953.24",
+        "object_title": "Leaf from an Antiphonary: Coronation of the Virgin",
+        "record_url": "https://clevelandart.org/art/1953.24",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "fad2ff0aae45fd22d3d36c015cd0c4f75c0f59fa1863d74927aea79a725b0b6f"
+      },
+      "related": [
+        {
+          "asset": "cma-1953-24/coronation-of-mary-with-six-angels-and-throne",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-1953-24/kneeling-blue-robed-angel-with-long-green-wings",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2441,
+            "h": 75,
+            "path": "avif/kneeling-green-robed-angel-with-long-green-wings-64.avif",
+            "sha256": "37ba99717089910ccc5fbb2d19b48208e9827226871199c5539d2857a241a5cb",
+            "w": 64
+          },
+          {
+            "bytes": 3877,
+            "h": 112,
+            "path": "avif/kneeling-green-robed-angel-with-long-green-wings-96.avif",
+            "sha256": "372067fea7d5dd49515fe993ed809a12f5a574b35c737d547e9595e22fb23667",
+            "w": 96
+          },
+          {
+            "bytes": 5549,
+            "h": 149,
+            "path": "avif/kneeling-green-robed-angel-with-long-green-wings-128.avif",
+            "sha256": "373b88bd0267be7f1ca517672892db119e10216dc15017701b29ffd3b281d854",
+            "w": 128
+          },
+          {
+            "bytes": 9608,
+            "h": 224,
+            "path": "avif/kneeling-green-robed-angel-with-long-green-wings-192.avif",
+            "sha256": "3cc3bc08de62e57c3415a188c84064442eb7abd717b0c61430f5a54b32aa21e1",
+            "w": 192
+          },
+          {
+            "bytes": 14420,
+            "h": 298,
+            "path": "avif/kneeling-green-robed-angel-with-long-green-wings-256.avif",
+            "sha256": "c3e6d60f40a671baf87d411ae9d7e025fc1b276f11cc3f6055268160ad23bfc4",
+            "w": 256
+          },
+          {
+            "bytes": 27411,
+            "h": 448,
+            "path": "avif/kneeling-green-robed-angel-with-long-green-wings-384.avif",
+            "sha256": "a467971bd594ca621c33d0d77d70c5605a3acd7070cdf8f2d43bd418276ac6d9",
+            "w": 384
+          },
+          {
+            "bytes": 45022,
+            "h": 597,
+            "path": "avif/kneeling-green-robed-angel-with-long-green-wings-512.avif",
+            "sha256": "59fee57b90d027091f76462433863b9ed8a73a380070b3f4ab4a9efdc3834dc8",
+            "w": 512
+          },
+          {
+            "bytes": 87483,
+            "h": 895,
+            "path": "avif/kneeling-green-robed-angel-with-long-green-wings-768.avif",
+            "sha256": "27288c3f96a0170d5671adc922e08f10b6a0f830b8be42a3ec81a6178966a543",
+            "w": 768
+          },
+          {
+            "bytes": 132335,
+            "h": 1194,
+            "path": "avif/kneeling-green-robed-angel-with-long-green-wings-1024.avif",
+            "sha256": "e4e9dd37c46ef3d564749a2587642f26e83ea57590f2c47d4fa597f6e94bcda8",
+            "w": 1024
+          },
+          {
+            "bytes": 147778,
+            "h": 1293,
+            "path": "avif/kneeling-green-robed-angel-with-long-green-wings-1109.avif",
+            "sha256": "5338cfafe1833b3e98336e7137d733f2b21bd70f26ba7ed858bfffdfe94cff12",
+            "w": 1109
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3506,
+            "h": 75,
+            "path": "webp/kneeling-green-robed-angel-with-long-green-wings-64.webp",
+            "sha256": "48db78b137547312afce2e6b8b827063886df1cc00d02c7d44aabd72d5175c5f",
+            "w": 64
+          },
+          {
+            "bytes": 6018,
+            "h": 112,
+            "path": "webp/kneeling-green-robed-angel-with-long-green-wings-96.webp",
+            "sha256": "337e4377e834664d23f1faee8d1b58aaeb36a1d772c24679e31fb36e60616843",
+            "w": 96
+          },
+          {
+            "bytes": 9044,
+            "h": 149,
+            "path": "webp/kneeling-green-robed-angel-with-long-green-wings-128.webp",
+            "sha256": "da0f6335d40d121012f9ce1208c4b115a9e3db01f60843f08d2780b778428318",
+            "w": 128
+          },
+          {
+            "bytes": 15920,
+            "h": 224,
+            "path": "webp/kneeling-green-robed-angel-with-long-green-wings-192.webp",
+            "sha256": "679811cdf5abe58114d35eb6b5c74854c8c9caaf741b42143c429395cddbc13c",
+            "w": 192
+          },
+          {
+            "bytes": 24380,
+            "h": 298,
+            "path": "webp/kneeling-green-robed-angel-with-long-green-wings-256.webp",
+            "sha256": "f29f54e965ccdc253304eca638bac13b836ab2401ee63c4cef55c9fe089893d0",
+            "w": 256
+          },
+          {
+            "bytes": 46136,
+            "h": 448,
+            "path": "webp/kneeling-green-robed-angel-with-long-green-wings-384.webp",
+            "sha256": "22d0184de415f21b7a8b514c4a26d8c7cf9c800013e12a5c7fa044901bed1b06",
+            "w": 384
+          },
+          {
+            "bytes": 74700,
+            "h": 597,
+            "path": "webp/kneeling-green-robed-angel-with-long-green-wings-512.webp",
+            "sha256": "a80297b1bf4000998eb0135e8f55554c543e200823414e3022236056f4d06b42",
+            "w": 512
+          },
+          {
+            "bytes": 144892,
+            "h": 895,
+            "path": "webp/kneeling-green-robed-angel-with-long-green-wings-768.webp",
+            "sha256": "1331d7278eb00a87eee1d92e6a3a398468ab42ee940cb7f932d7fb9e08240af1",
+            "w": 768
+          },
+          {
+            "bytes": 220046,
+            "h": 1194,
+            "path": "webp/kneeling-green-robed-angel-with-long-green-wings-1024.webp",
+            "sha256": "cdc44eff819627422395041b53c13efbda20242ec0040cc96d0f50a2b0e65425",
+            "w": 1024
+          },
+          {
+            "bytes": 247042,
+            "h": 1293,
+            "path": "webp/kneeling-green-robed-angel-with-long-green-wings-1109.webp",
+            "sha256": "afc77b5b5a7a7b90666211a97f34048d94a66bd20e0800f2c56571ecae70359a",
+            "w": 1109
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "angel",
+        "wings",
+        "halo",
+        "robe"
+      ],
+      "thumbhash": "2fiBDAI4bJGZ9WiJp/j7ib/OUEZ3ZoiGBg==",
+      "title": "Kneeling angel in green, facing left",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Cut from the right foreground of the Coronation; it faces left and pairs with the blue angel facing right, kneeling on either side of a title or image."
+      ],
+      "view": "side",
+      "width": 1109
+    },
+    "polychrome-floral-frame-with-knotted-medallions": {
+      "categories": [
+        "floral",
+        "scrollwork",
+        "knotwork",
+        "geometric"
+      ],
+      "colors": [
+        "gold",
+        "blue",
+        "orange",
+        "green",
+        "cream"
+      ],
+      "composition": "standalone",
+      "description": "A complete rectangular page frame built on thin blue rods. The top bar carries a band of blue, orange and cream acanthus on gold between two knotted roundels; the left bar strings together knotted medallions, two six-pointed stars with red centres, gold bosses and leaf sprays; the right bar is a chain of acanthus leaves with a blue and orange pendant; the wide bottom bar is a gold band of scrolling acanthus with a quatrefoil medallion at its centre and small buds hanging below. Gold bosses with fine black rays are scattered around the outside; the centre and the background are transparent.",
+      "display_width": [
+        500,
+        1100
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 437360,
+        "webpTopBytes": 652786
+      },
+      "facing": "none",
+      "group": null,
+      "height": 6119,
+      "master": {
+        "bytes": 1436806,
+        "h": 2048,
+        "path": "masters/polychrome-floral-frame-with-knotted-medallions.webp",
+        "sha256": "06abd8fa15251e04760233275e2eae7c720e4bd514d6c11d230de678c6889391",
+        "w": 1490
+      },
+      "palette": [
+        "#a6774b",
+        "#b99b69",
+        "#7e6a49",
+        "#897c69",
+        "#5d6673"
+      ],
+      "provenance": {
+        "artist": "Master of the Beffi Triptych (Italian, active 1390–1425)",
+        "date": "1400s",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/1953.24/1953.24_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "mixed-source-extraction",
+        "object_identifier": "1953.24",
+        "object_title": "Leaf from an Antiphonary: Coronation of the Virgin",
+        "record_url": "https://clevelandart.org/art/1953.24",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "fad2ff0aae45fd22d3d36c015cd0c4f75c0f59fa1863d74927aea79a725b0b6f"
+      },
+      "quality": "The fine black rays of the gold bosses are at partial alpha and read differently on dark grounds; the rods are only a few pixels wide at small sizes.",
+      "related": [
+        {
+          "asset": "cma-1953-24/coronation-of-mary-with-six-angels-and-throne",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3716,
+            "h": 88,
+            "path": "avif/polychrome-floral-frame-with-knotted-medallions-64.avif",
+            "sha256": "7053fce3da5da3d05bd8a15bdf8efaca357f46c00ea2a0a5253de4b75cbe413f",
+            "w": 64
+          },
+          {
+            "bytes": 6582,
+            "h": 132,
+            "path": "avif/polychrome-floral-frame-with-knotted-medallions-96.avif",
+            "sha256": "9231fc341971eca31c0b2c7fed3389c9e25bdbb07bf803782efd9a7b24d1fba5",
+            "w": 96
+          },
+          {
+            "bytes": 10773,
+            "h": 176,
+            "path": "avif/polychrome-floral-frame-with-knotted-medallions-128.avif",
+            "sha256": "4451edb7c948fe4c74b912ef21bdaa641087678130bc3ceb439aed5c7929a9e0",
+            "w": 128
+          },
+          {
+            "bytes": 16300,
+            "h": 264,
+            "path": "avif/polychrome-floral-frame-with-knotted-medallions-192.avif",
+            "sha256": "e5c107b2e394b1d2b14a35f356728730f11985134d00169694420d9d8e9b9462",
+            "w": 192
+          },
+          {
+            "bytes": 24182,
+            "h": 352,
+            "path": "avif/polychrome-floral-frame-with-knotted-medallions-256.avif",
+            "sha256": "61fa0143c82fcb4d1308e9089c754c8af27ed92096736f34cc098bf8d34fcfd4",
+            "w": 256
+          },
+          {
+            "bytes": 41487,
+            "h": 528,
+            "path": "avif/polychrome-floral-frame-with-knotted-medallions-384.avif",
+            "sha256": "e9351bb8421edfc101f118e2c492ded5baa41a6dd45247ded1d7a10192343e05",
+            "w": 384
+          },
+          {
+            "bytes": 60894,
+            "h": 704,
+            "path": "avif/polychrome-floral-frame-with-knotted-medallions-512.avif",
+            "sha256": "42a6015f95198cb851010131017017ccc849f68b8ebb76d62a2c9bb5d7aa5b46",
+            "w": 512
+          },
+          {
+            "bytes": 108701,
+            "h": 1056,
+            "path": "avif/polychrome-floral-frame-with-knotted-medallions-768.avif",
+            "sha256": "add946415b7ea3af3d3992ac8960b9174faffc9cb783b115e23f386fc9099005",
+            "w": 768
+          },
+          {
+            "bytes": 163164,
+            "h": 1407,
+            "path": "avif/polychrome-floral-frame-with-knotted-medallions-1024.avif",
+            "sha256": "628ad17da81b1b4ed0cd0da977ab92f45f0f1b551c0f879743a845d19a829276",
+            "w": 1024
+          },
+          {
+            "bytes": 288740,
+            "h": 2111,
+            "path": "avif/polychrome-floral-frame-with-knotted-medallions-1536.avif",
+            "sha256": "e66a2011d64f749fc8545a34a3c92fcc80089a7b2b7905b8e5a2cd5ade93ea42",
+            "w": 1536
+          },
+          {
+            "bytes": 437360,
+            "h": 2815,
+            "path": "avif/polychrome-floral-frame-with-knotted-medallions-2048.avif",
+            "sha256": "9d3151690870921cb921b854f5926babe3cb911b11a522e5eeadcea31c8dfbca",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4594,
+            "h": 88,
+            "path": "webp/polychrome-floral-frame-with-knotted-medallions-64.webp",
+            "sha256": "fe1276f59a073b39dda272c6f44f4da9e5e13d72c55b3d40a68afdfb208771da",
+            "w": 64
+          },
+          {
+            "bytes": 8478,
+            "h": 132,
+            "path": "webp/polychrome-floral-frame-with-knotted-medallions-96.webp",
+            "sha256": "36431eb4c2ff23e46423413c50d9f46697859e294fe98a6091b09943e0fb988e",
+            "w": 96
+          },
+          {
+            "bytes": 13024,
+            "h": 176,
+            "path": "webp/polychrome-floral-frame-with-knotted-medallions-128.webp",
+            "sha256": "d858c4b51518a2ac7daaf6d8be8c4b28bcbcc2ea6f292c1add33892a2866da8e",
+            "w": 128
+          },
+          {
+            "bytes": 23144,
+            "h": 264,
+            "path": "webp/polychrome-floral-frame-with-knotted-medallions-192.webp",
+            "sha256": "bf4199e25a2dd0400d0d2eebd6bb230150ccbb460b6acc1d5a4587fc40c6b6d3",
+            "w": 192
+          },
+          {
+            "bytes": 35014,
+            "h": 352,
+            "path": "webp/polychrome-floral-frame-with-knotted-medallions-256.webp",
+            "sha256": "d8ee3ad839a7080ff9f7ed27b6a3794330c2721a54ce5d1d3374dc26e97871cf",
+            "w": 256
+          },
+          {
+            "bytes": 61828,
+            "h": 528,
+            "path": "webp/polychrome-floral-frame-with-knotted-medallions-384.webp",
+            "sha256": "9e42923df5f95f9fa360a1837ef5e1277cdd68bd21c9a7388c77a916bcf8372c",
+            "w": 384
+          },
+          {
+            "bytes": 93190,
+            "h": 704,
+            "path": "webp/polychrome-floral-frame-with-knotted-medallions-512.webp",
+            "sha256": "e278027a5a0d1d2929ef1700919e7ec8efeb987aacd3ee4b53a6e9caeff44da2",
+            "w": 512
+          },
+          {
+            "bytes": 163062,
+            "h": 1056,
+            "path": "webp/polychrome-floral-frame-with-knotted-medallions-768.webp",
+            "sha256": "6aaadbda119e303c43083cd2ffdb9740d2994fcc9c39c389b8def1edccc1e62b",
+            "w": 768
+          },
+          {
+            "bytes": 241312,
+            "h": 1407,
+            "path": "webp/polychrome-floral-frame-with-knotted-medallions-1024.webp",
+            "sha256": "d0c6ec6e8c17b0cd0096ca269a2c1d40d9491785115e267e572759a624327461",
+            "w": 1024
+          },
+          {
+            "bytes": 432760,
+            "h": 2111,
+            "path": "webp/polychrome-floral-frame-with-knotted-medallions-1536.webp",
+            "sha256": "4f8adeef70b1b8f687a9342563d733ae5f347f96c574afb25ff5c756bb4949ae",
+            "w": 1536
+          },
+          {
+            "bytes": 652786,
+            "h": 2815,
+            "path": "webp/polychrome-floral-frame-with-knotted-medallions-2048.webp",
+            "sha256": "af2d44139319106a2161e726fb004208745b90478f3938d7adc3985119dad5d0",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "frame",
+        "acanthus",
+        "leaf",
+        "flower",
+        "medallion",
+        "star",
+        "sunburst",
+        "rod",
+        "pendant"
+      ],
+      "thumbhash": "XTmCBAATJgeHiFZ2yUC2CSydjUuY+DaHCw==",
+      "title": "Floral page frame with knotted medallions",
+      "transparent": true,
+      "type": "frame",
+      "usage_notes": [
+        "A complete non-repeating frame with its own corners; place content inside the transparent centre and keep the proportions, there is no atlas.",
+        "The rayed gold bosses extend outside the rods, so leave margin around the frame rather than cropping to the bars."
+      ],
+      "width": 4452
+    }
+  },
+  "attribution": "Cleveland Museum of Art 1953.24",
+  "builtAt": "2026-10-30T12:36:49.320Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-cma-1953-24@1.0.0/",
+  "contentHash": "sha256:39fb03529c2e2b616e48daf3434002842173bb089265425a3d72005f8d3c856e",
+  "inputsHash": "sha256:c84d77d63fe9179d2b584486f03918ef03def616ef0523601fc34e1742e7a1d9",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from Cleveland Museum of Art open access (CC0) images; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-cma-1953-24-masters",
+  "package": "@ranx729/ducktape-assets-cma-1953-24",
+  "period": "1400s",
+  "region": "Tuscany, Italy",
+  "schema": 1,
+  "set": "cma-1953-24",
+  "style": "Italian Gothic illumination",
+  "summary": "The Coronation of the Virgin and its polychrome floral frame with knotted medallions, from a Tuscan antiphonary leaf painted by the Master of the Beffi Triptych in the 1400s, in the Cleveland Museum of Art.",
+  "title": "Cleveland 1953.24, Coronation of the Virgin leaf",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

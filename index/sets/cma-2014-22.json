@@ -1,0 +1,3713 @@
+{
+  "assets": {
+    "acanthus-initial-infill": {
+      "categories": [
+        "floral",
+        "scrollwork"
+      ],
+      "colors": [
+        "blue",
+        "red",
+        "purple",
+        "white"
+      ],
+      "composition": "single-ornament",
+      "description": "The painted infill of a decorated initial from the text, a two-lobed field shaped like a B and outlined by a thin blue band. Inside it blue stems coil through both lobes and throw off red and violet acanthus leaves with cream-white folded tips, with the spaces between the leaves open. The letter stroke, its square field and the gold ground are removed; the background is transparent.",
+      "display_width": [
+        120,
+        350
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 119952,
+        "webpTopBytes": 165024
+      },
+      "facing": "none",
+      "group": null,
+      "height": 829,
+      "master": {
+        "bytes": 664628,
+        "h": 829,
+        "path": "masters/acanthus-initial-infill.webp",
+        "sha256": "34f8215dc9cf1849b22bb569ce1338e90601c63265545e17d0e1216aa58ac6b2",
+        "w": 699
+      },
+      "palette": [
+        "#363d45",
+        "#6c423b",
+        "#726c6a",
+        "#a6978f",
+        "#9b796f"
+      ],
+      "provenance": {
+        "artist": "Boethius Illuminator (Flemish, active c. 1414–20)",
+        "date": "c. 1410–20",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2014.22.a",
+        "object_title": "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)",
+        "record_url": "https://clevelandart.org/art/2014.22.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470"
+      },
+      "quality": "Worn paint, the blue band is broken in places and small flecks of the former gold ground remain between the leaves.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4573,
+            "h": 76,
+            "path": "avif/acanthus-initial-infill-64.avif",
+            "sha256": "12ca7e9a62726a851751f54b7d77013024eda717bf1ce9fe627974e67de6a1df",
+            "w": 64
+          },
+          {
+            "bytes": 7758,
+            "h": 114,
+            "path": "avif/acanthus-initial-infill-96.avif",
+            "sha256": "5f7716d5995081e704f4fa28a447829c1257e44821d00fd75da8eb1e728ba872",
+            "w": 96
+          },
+          {
+            "bytes": 11551,
+            "h": 152,
+            "path": "avif/acanthus-initial-infill-128.avif",
+            "sha256": "839f4e6274499d8e5d7b16b9b514d97efd5b89637f546ace26e23fe7bdf3dc4d",
+            "w": 128
+          },
+          {
+            "bytes": 18894,
+            "h": 228,
+            "path": "avif/acanthus-initial-infill-192.avif",
+            "sha256": "cb1b32bffe9ffd65a186126172c56b5cdc402adc0715b00be9dc25f9569bdaae",
+            "w": 192
+          },
+          {
+            "bytes": 27709,
+            "h": 304,
+            "path": "avif/acanthus-initial-infill-256.avif",
+            "sha256": "37736c9c96cf5715cec2fa5c3f8920cfd3b0c52fa07f53599ef91e8566aaa897",
+            "w": 256
+          },
+          {
+            "bytes": 49790,
+            "h": 455,
+            "path": "avif/acanthus-initial-infill-384.avif",
+            "sha256": "568282c001ef2c80b039084feaa1d9188c4b4b71a1e2b5e889ebb79d799d0095",
+            "w": 384
+          },
+          {
+            "bytes": 76089,
+            "h": 607,
+            "path": "avif/acanthus-initial-infill-512.avif",
+            "sha256": "c74b7e4455b18e6b4735c054d8eae3ea4c698b88d0b87fa77f76a034d4255c8e",
+            "w": 512
+          },
+          {
+            "bytes": 119952,
+            "h": 829,
+            "path": "avif/acanthus-initial-infill-699.avif",
+            "sha256": "15113e0535ebed995ffd59ff26aba33b8f5e0c0c97d20134ad8fadf8ad115a18",
+            "w": 699
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 5958,
+            "h": 76,
+            "path": "webp/acanthus-initial-infill-64.webp",
+            "sha256": "89de78bdbb851a19543c6051f02b25a3717ad127dd4c87b2cf7fa16e9bb43490",
+            "w": 64
+          },
+          {
+            "bytes": 11390,
+            "h": 114,
+            "path": "webp/acanthus-initial-infill-96.webp",
+            "sha256": "86fcbf1e22f8f5efe2d56a15e43f5136220b3fafa31cb08187077ec7b3170273",
+            "w": 96
+          },
+          {
+            "bytes": 17850,
+            "h": 152,
+            "path": "webp/acanthus-initial-infill-128.webp",
+            "sha256": "18728e07280bb20ccc05d3ef8b18c7859fe8f083de39c70fdada9c83bafb5d75",
+            "w": 128
+          },
+          {
+            "bytes": 32084,
+            "h": 228,
+            "path": "webp/acanthus-initial-infill-192.webp",
+            "sha256": "283417d11a09acb75a62a3063282b46fe40e1e05fc356f9097c46ca6ed6a84bc",
+            "w": 192
+          },
+          {
+            "bytes": 48834,
+            "h": 304,
+            "path": "webp/acanthus-initial-infill-256.webp",
+            "sha256": "258c6a6bb7de46edaf11ed1234005ded6bfd1c2b7092a864d982c9f257252b92",
+            "w": 256
+          },
+          {
+            "bytes": 88050,
+            "h": 455,
+            "path": "webp/acanthus-initial-infill-384.webp",
+            "sha256": "439fa905c9e14400581a021bd6c1d78760a120329a2e2e8b4e608a21f0ff1fa0",
+            "w": 384
+          },
+          {
+            "bytes": 134274,
+            "h": 607,
+            "path": "webp/acanthus-initial-infill-512.webp",
+            "sha256": "74030abbd10e021313a178d01c9ad792af98dbf7555eda89a194d9d95c96c387",
+            "w": 512
+          },
+          {
+            "bytes": 165024,
+            "h": 829,
+            "path": "webp/acanthus-initial-infill-699.webp",
+            "sha256": "566b085c11170cc621f116456a36430b334564e59de502566e665bd2088935ff",
+            "w": 699
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "acanthus",
+        "leaf",
+        "scroll",
+        "vine"
+      ],
+      "thumbhash": "FBiCBAAYCOZGdli6k9EGCWuRkIWIB1ZnAg==",
+      "title": "Red and violet acanthus infill of an initial",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Reads as a medallion on a plain ground; the open spaces between the leaves show whatever is behind it."
+      ],
+      "width": 699
+    },
+    "announcing-angel-with-blank-scroll": {
+      "categories": [
+        "humans",
+        "ribbons"
+      ],
+      "colors": [
+        "red",
+        "blue",
+        "white",
+        "cream",
+        "gold"
+      ],
+      "composition": "single-figure",
+      "description": "An angel with blond hair and a gold halo flies to the left on a bank of blue clouds edged in white, in a red robe, with long red wings sweeping back to the right over white feathered underwings, and holds a large blank white scroll that curls down in front of the clouds. Cut from the upper lobe of the miniature; the starry sky is removed and the background is transparent.",
+      "display_width": [
+        240,
+        800
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 151157,
+        "webpTopBytes": 260998
+      },
+      "facing": "left",
+      "group": null,
+      "height": 861,
+      "master": {
+        "bytes": 1239618,
+        "h": 861,
+        "path": "masters/announcing-angel-with-blank-scroll.webp",
+        "sha256": "fd9c76e7941adf025fb0e064bc04d05b31090235e86abd59647eeed4be49292f",
+        "w": 1549
+      },
+      "palette": [
+        "#768fa3",
+        "#bb744e",
+        "#cac2b5",
+        "#1a4979",
+        "#7c5a52"
+      ],
+      "provenance": {
+        "artist": "Boethius Illuminator (Flemish, active c. 1414–20)",
+        "date": "c. 1410–20",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "2014.22.a",
+        "object_title": "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)",
+        "record_url": "https://clevelandart.org/art/2014.22.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470"
+      },
+      "quality": "AI-assisted extraction; the interior sits at alpha 252–253 rather than 255 (invisible in use) and the cloud edges keep a soft fringe.",
+      "related": [
+        {
+          "asset": "cma-2014-22/annunciation-to-the-shepherds-miniature",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2014-22/four-contacting-shepherds-with-dog-and-two-sheep",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2063,
+            "h": 36,
+            "path": "avif/announcing-angel-with-blank-scroll-64.avif",
+            "sha256": "de7fd143e92aa00ef50d1dbe00d4a02ac84de5cef976b9abe20d240ebf240005",
+            "w": 64
+          },
+          {
+            "bytes": 3120,
+            "h": 53,
+            "path": "avif/announcing-angel-with-blank-scroll-96.avif",
+            "sha256": "157a89eda8a258aece8d4083b312cad6a6c1d61b63cb602ba804f8a86a079e23",
+            "w": 96
+          },
+          {
+            "bytes": 4227,
+            "h": 71,
+            "path": "avif/announcing-angel-with-blank-scroll-128.avif",
+            "sha256": "5d4592705304af26b129a47c90cd4ac03dd6fbad751a880dee87854d45831473",
+            "w": 128
+          },
+          {
+            "bytes": 7752,
+            "h": 107,
+            "path": "avif/announcing-angel-with-blank-scroll-192.avif",
+            "sha256": "7e0dab6ebdcf7fae2301a02a943ba1cc7fdc70afd6b8444dbe509b443a204700",
+            "w": 192
+          },
+          {
+            "bytes": 9968,
+            "h": 142,
+            "path": "avif/announcing-angel-with-blank-scroll-256.avif",
+            "sha256": "d9b13e9ae2c11c48fbf8463d4269cba9fea0b28784ba69912666945d0898ebb5",
+            "w": 256
+          },
+          {
+            "bytes": 18156,
+            "h": 213,
+            "path": "avif/announcing-angel-with-blank-scroll-384.avif",
+            "sha256": "f7a4b1cc0efcb313dc962149d39133161ce3d329c9425319ddf392ca19633c33",
+            "w": 384
+          },
+          {
+            "bytes": 28277,
+            "h": 285,
+            "path": "avif/announcing-angel-with-blank-scroll-512.avif",
+            "sha256": "1515e9763c6766a807550ae5621e42ae88a8aad479598808950b977dd90d2db6",
+            "w": 512
+          },
+          {
+            "bytes": 55721,
+            "h": 427,
+            "path": "avif/announcing-angel-with-blank-scroll-768.avif",
+            "sha256": "adebf58d8967b03d0b9052d79c877e7ea60b8499fc1b2c9d270284f70aa40e39",
+            "w": 768
+          },
+          {
+            "bytes": 85948,
+            "h": 569,
+            "path": "avif/announcing-angel-with-blank-scroll-1024.avif",
+            "sha256": "288412c0249fe6e27ebab7a1be2dd987797553c2abf446bc440fefe896ed09d0",
+            "w": 1024
+          },
+          {
+            "bytes": 148603,
+            "h": 854,
+            "path": "avif/announcing-angel-with-blank-scroll-1536.avif",
+            "sha256": "e13a9e53279171a5902f99848b2d8508bea47dde7bbdd29b230225eccd237a27",
+            "w": 1536
+          },
+          {
+            "bytes": 151157,
+            "h": 861,
+            "path": "avif/announcing-angel-with-blank-scroll-1549.avif",
+            "sha256": "9bc6186531fb258c01f157e7bcfea9ffd218fc265d02a319b880d1df2f56c600",
+            "w": 1549
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2534,
+            "h": 36,
+            "path": "webp/announcing-angel-with-blank-scroll-64.webp",
+            "sha256": "581e69848f26ab3ca6d28dc0d4a767d25ac79a258d12a625b1af9d338e84c4e6",
+            "w": 64
+          },
+          {
+            "bytes": 4286,
+            "h": 53,
+            "path": "webp/announcing-angel-with-blank-scroll-96.webp",
+            "sha256": "3ff8e4860fb98c4f0dbf9ae202ebc3079eae31fe1094ac27991758d2c0b58fcd",
+            "w": 96
+          },
+          {
+            "bytes": 6432,
+            "h": 71,
+            "path": "webp/announcing-angel-with-blank-scroll-128.webp",
+            "sha256": "c4b0c5a3f20b061d20a909e04f16b226c361b76c854f39d2168c3feac67d7dc3",
+            "w": 128
+          },
+          {
+            "bytes": 11002,
+            "h": 107,
+            "path": "webp/announcing-angel-with-blank-scroll-192.webp",
+            "sha256": "3c8d7aa9b9e58146dc43d961c7d4dea7c0f67672479dd46f64c49ec6617454da",
+            "w": 192
+          },
+          {
+            "bytes": 16736,
+            "h": 142,
+            "path": "webp/announcing-angel-with-blank-scroll-256.webp",
+            "sha256": "f47d45b894ddbdfb433f8708f6cee427721bcaba7e2087f7862a07033e1756b8",
+            "w": 256
+          },
+          {
+            "bytes": 29060,
+            "h": 213,
+            "path": "webp/announcing-angel-with-blank-scroll-384.webp",
+            "sha256": "04f64819b0eac232d1f96a938d5a88e808b789d58b30c85a5ad3bb51571825f2",
+            "w": 384
+          },
+          {
+            "bytes": 46228,
+            "h": 285,
+            "path": "webp/announcing-angel-with-blank-scroll-512.webp",
+            "sha256": "e38645d17e9f5cb1ae9af4cf0d7bfff850388a14f9b94c0138e69ed74645f761",
+            "w": 512
+          },
+          {
+            "bytes": 90440,
+            "h": 427,
+            "path": "webp/announcing-angel-with-blank-scroll-768.webp",
+            "sha256": "155ff42536ba62b7436f64478654252b0829b7ca5c7ae4030809fb2cbf111a1a",
+            "w": 768
+          },
+          {
+            "bytes": 145176,
+            "h": 569,
+            "path": "webp/announcing-angel-with-blank-scroll-1024.webp",
+            "sha256": "d531db3df9c2eee11d7725cbfb4875ccba81e4048f4a95fa28d596c7d76df1c5",
+            "w": 1024
+          },
+          {
+            "bytes": 261180,
+            "h": 854,
+            "path": "webp/announcing-angel-with-blank-scroll-1536.webp",
+            "sha256": "f04e8134445592f1fcf8f2750af6d3c097a6597e3f1464b7f38974b0797685c6",
+            "w": 1536
+          },
+          {
+            "bytes": 260998,
+            "h": 861,
+            "path": "webp/announcing-angel-with-blank-scroll-1549.webp",
+            "sha256": "d36d49fd96516be6468951e9765be64a1d4e791e08c4d27ea4abd20ac45ee052",
+            "w": 1549
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "angel",
+        "wings",
+        "halo",
+        "scroll",
+        "cloud",
+        "robe"
+      ],
+      "thumbhash": "YRiGE4QoXUB0iWMHb2nxlgeIdZdytWc=",
+      "title": "Angel on clouds with a blank scroll",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Pairs with four-contacting-shepherds-with-dog-and-two-sheep, above which it hovers in the miniature; the scroll is blank and can carry a line of text."
+      ],
+      "view": "three-quarter",
+      "width": 1549
+    },
+    "annunciation-to-the-shepherds-miniature": {
+      "categories": [
+        "humans",
+        "animals"
+      ],
+      "colors": [
+        "blue",
+        "green",
+        "red",
+        "gold",
+        "white"
+      ],
+      "composition": "framed-scene",
+      "description": "The whole arched miniature of the leaf. In the upper lobe an angel in a red robe flies to the left on a bank of blue and white clouds under a deep blue sky with gold stars, holding a blank white scroll; a gold, red and blue diaper ground fills the spandrels. Below, four shepherds in red, blue and pink hooded tunics stand on a green meadow before a dark hill with two green trees and look up, a white dog leaps between them and two white sheep graze; a pink rock rises at the left. A gold and blue painted frame with an arched top encloses the scene. Opaque inside the frame, transparent outside.",
+      "display_width": [
+        400,
+        1200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 699455,
+        "webpTopBytes": 984244
+      },
+      "facing": "mixed",
+      "group": null,
+      "height": 2930,
+      "master": {
+        "bytes": 4645418,
+        "h": 2048,
+        "path": "masters/annunciation-to-the-shepherds-miniature.webp",
+        "sha256": "1a095069e002ed98e0bad35dade3d47ff39ce881eef64c8ce8927ff5f930e0f0",
+        "w": 1715
+      },
+      "palette": [
+        "#3b3e3d",
+        "#4c6058",
+        "#855434",
+        "#7a7060",
+        "#9b9988"
+      ],
+      "provenance": {
+        "artist": "Boethius Illuminator (Flemish, active c. 1414–20)",
+        "date": "c. 1410–20",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2014.22.a",
+        "object_title": "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)",
+        "record_url": "https://clevelandart.org/art/2014.22.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470"
+      },
+      "quality": "The arched top is a physical cut edge with small parchment flecks along the gold rim, and the gold leaf of the frame is worn at the top.",
+      "related": [
+        {
+          "asset": "cma-2014-22/announcing-angel-with-blank-scroll",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2014-22/four-contacting-shepherds-with-dog-and-two-sheep",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2014-22/flowered-u-page-border",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2301,
+            "h": 76,
+            "path": "avif/annunciation-to-the-shepherds-miniature-64.avif",
+            "sha256": "cc40891b59c52c4e59efd0c9a1a9e9b33024f4e39092332dc526eef567a35d9c",
+            "w": 64
+          },
+          {
+            "bytes": 3895,
+            "h": 115,
+            "path": "avif/annunciation-to-the-shepherds-miniature-96.avif",
+            "sha256": "62e0f7f1e5cabc181bd23660c1bb70e4e0b8532b9699aac3131ba58f00249d17",
+            "w": 96
+          },
+          {
+            "bytes": 6140,
+            "h": 153,
+            "path": "avif/annunciation-to-the-shepherds-miniature-128.avif",
+            "sha256": "622806ea7c418d7a12f61c3abb0e91ae7b35c65ca354233614eada3e436a5875",
+            "w": 128
+          },
+          {
+            "bytes": 10984,
+            "h": 229,
+            "path": "avif/annunciation-to-the-shepherds-miniature-192.avif",
+            "sha256": "878f6efeb8c726a38dad402005cf5c4009f16cb6491b3e8ea738a9ccbd51358d",
+            "w": 192
+          },
+          {
+            "bytes": 17418,
+            "h": 306,
+            "path": "avif/annunciation-to-the-shepherds-miniature-256.avif",
+            "sha256": "983bd751877aa99ceadd7b6f89a181e8518732fd82747c21f66fc6b5c7ff358d",
+            "w": 256
+          },
+          {
+            "bytes": 34764,
+            "h": 458,
+            "path": "avif/annunciation-to-the-shepherds-miniature-384.avif",
+            "sha256": "e31a84a75378ab666cc331025cc6f0a3ea719807b324e250957dcfe6bac23c2f",
+            "w": 384
+          },
+          {
+            "bytes": 56766,
+            "h": 611,
+            "path": "avif/annunciation-to-the-shepherds-miniature-512.avif",
+            "sha256": "f17b15b08b31aadae5843336982cfdbbbff34beea745c734dac6a908ae53a54f",
+            "w": 512
+          },
+          {
+            "bytes": 119382,
+            "h": 917,
+            "path": "avif/annunciation-to-the-shepherds-miniature-768.avif",
+            "sha256": "c460822096e77ece5818eff9543dd9ac765562a9e417f534ea2a68307b07c5d6",
+            "w": 768
+          },
+          {
+            "bytes": 201297,
+            "h": 1223,
+            "path": "avif/annunciation-to-the-shepherds-miniature-1024.avif",
+            "sha256": "efb03f33464a78650b26edfa396d314257510d52a3269bf6f78decf221f210a4",
+            "w": 1024
+          },
+          {
+            "bytes": 428717,
+            "h": 1834,
+            "path": "avif/annunciation-to-the-shepherds-miniature-1536.avif",
+            "sha256": "0020a47ed6b9f5c037c3eb97138821ea98790264b8e6cb2e6e31814f4ebb7ee0",
+            "w": 1536
+          },
+          {
+            "bytes": 699455,
+            "h": 2445,
+            "path": "avif/annunciation-to-the-shepherds-miniature-2048.avif",
+            "sha256": "75e52163cd6793d19228b1b1c053ccebb648e023b05d8dfa84c381fbfedeadb2",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2956,
+            "h": 76,
+            "path": "webp/annunciation-to-the-shepherds-miniature-64.webp",
+            "sha256": "baf04211dd0d63498a8443de015b9975b2b0a82d71d181b2612e45b52a5bd68d",
+            "w": 64
+          },
+          {
+            "bytes": 5530,
+            "h": 115,
+            "path": "webp/annunciation-to-the-shepherds-miniature-96.webp",
+            "sha256": "0925abb67eb76398812c15f727213b1ab0c6565578fcf4f19008c184793c208f",
+            "w": 96
+          },
+          {
+            "bytes": 8472,
+            "h": 153,
+            "path": "webp/annunciation-to-the-shepherds-miniature-128.webp",
+            "sha256": "3b24d0b75a461eb22074d8a93f5ef690e712640fcd0263175f69cc1a07c48fe9",
+            "w": 128
+          },
+          {
+            "bytes": 16584,
+            "h": 229,
+            "path": "webp/annunciation-to-the-shepherds-miniature-192.webp",
+            "sha256": "64fce7862667c2179aa93d2da16b5019363e654403461bd7cdd2f7dc12a64d1f",
+            "w": 192
+          },
+          {
+            "bytes": 27012,
+            "h": 306,
+            "path": "webp/annunciation-to-the-shepherds-miniature-256.webp",
+            "sha256": "b24b9657ec23720cdcc46934947777fef9f4fff27e1bc767fbbae67cb3993741",
+            "w": 256
+          },
+          {
+            "bytes": 52984,
+            "h": 458,
+            "path": "webp/annunciation-to-the-shepherds-miniature-384.webp",
+            "sha256": "50bf299bdc05cbf661b56ba76961fd5ed04be2a4ed8834227ec6f1001b790e75",
+            "w": 384
+          },
+          {
+            "bytes": 87744,
+            "h": 611,
+            "path": "webp/annunciation-to-the-shepherds-miniature-512.webp",
+            "sha256": "4a8937dad9824a1b2eb58997c95c3c0311ca9753586ae190b745c5b2a0e36ccf",
+            "w": 512
+          },
+          {
+            "bytes": 181390,
+            "h": 917,
+            "path": "webp/annunciation-to-the-shepherds-miniature-768.webp",
+            "sha256": "28fcda29bacf9091bdb48f849cc622d256ac7225d4a02bd6aa05f0ced776e13c",
+            "w": 768
+          },
+          {
+            "bytes": 308268,
+            "h": 1223,
+            "path": "webp/annunciation-to-the-shepherds-miniature-1024.webp",
+            "sha256": "b6a56b32a92ce311036d8a0c40a28c5e8cc6c73a153eb553f53fb67e4598b214",
+            "w": 1024
+          },
+          {
+            "bytes": 617922,
+            "h": 1834,
+            "path": "webp/annunciation-to-the-shepherds-miniature-1536.webp",
+            "sha256": "479a9cfbe2eaa50623abe8aa677e73d02b07432d8455cfed225e85aacfa2053e",
+            "w": 1536
+          },
+          {
+            "bytes": 984244,
+            "h": 2445,
+            "path": "webp/annunciation-to-the-shepherds-miniature-2048.webp",
+            "sha256": "319e66667c9482cc1015cf86ffef7a32accf0e79b73c3e3f2ea51c7c61fd5e7b",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "angel",
+        "shepherd",
+        "dog",
+        "sheep",
+        "scroll",
+        "cloud",
+        "star",
+        "landscape",
+        "tree",
+        "hood",
+        "staff",
+        "wings",
+        "frame"
+      ],
+      "thumbhash": "lwiCDAIdB2pptKV3gj8WpXmAcAU4B1h0BQ==",
+      "title": "Annunciation to the Shepherds, framed miniature",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Complete framed miniature; place it as a picture, not as a cut-out. The angel and the shepherd group are also supplied as separate cut-outs.",
+        "On the leaf it sits in the open top of fixed-floral-u-border-with-gold-and-black-ivy, above the text."
+      ],
+      "width": 2454
+    },
+    "blue-bloom-on-red-stalk-a": {
+      "categories": [
+        "floral",
+        "botanical"
+      ],
+      "colors": [
+        "blue",
+        "red",
+        "cream"
+      ],
+      "composition": "single-ornament",
+      "description": "A small sprig from the lower margin of the border. A blue cup-shaped bloom with a cream underside, its petals curling back to the right, sits on a tapering red stalk that points to the left. Painted in thick, speckled pigment; the background is transparent.",
+      "display_width": [
+        80,
+        230
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 24178,
+        "webpTopBytes": 41360
+      },
+      "facing": "right",
+      "group": null,
+      "height": 274,
+      "master": {
+        "bytes": 142118,
+        "h": 274,
+        "path": "masters/blue-bloom-on-red-stalk-a.webp",
+        "sha256": "82d7ec9661433b0ebee6918a1a74f639ef1b3625209efac155e25b062ecd5430",
+        "w": 466
+      },
+      "palette": [
+        "#234d7a",
+        "#913e33",
+        "#60809a",
+        "#889296",
+        "#879ca7"
+      ],
+      "provenance": {
+        "artist": "Boethius Illuminator (Flemish, active c. 1414–20)",
+        "date": "c. 1410–20",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "2014.22.a",
+        "object_title": "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)",
+        "record_url": "https://clevelandart.org/art/2014.22.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470"
+      },
+      "quality": "AI-assisted extraction; the interior sits at alpha 252–253 rather than 255, invisible in use.",
+      "related": [
+        {
+          "asset": "cma-2014-22/flowered-u-page-border",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2014-22/blue-bloom-on-red-stalk-b",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1685,
+            "h": 38,
+            "path": "avif/blue-bloom-on-red-stalk-a-64.avif",
+            "sha256": "a1460eaacf8d8b83fc240a71eebf5e0a8cdf67e4fef30cbff698ea9910345ea3",
+            "w": 64
+          },
+          {
+            "bytes": 2659,
+            "h": 56,
+            "path": "avif/blue-bloom-on-red-stalk-a-96.avif",
+            "sha256": "02a2d90f3babaf3336117dc9ee16ad9d6f21b12b66f8839c2aad97767a4fe236",
+            "w": 96
+          },
+          {
+            "bytes": 3449,
+            "h": 75,
+            "path": "avif/blue-bloom-on-red-stalk-a-128.avif",
+            "sha256": "a4ed41c9072163712d1beac4b9af0282a33980bdc7f5a8af5b2c29d7248a524f",
+            "w": 128
+          },
+          {
+            "bytes": 6204,
+            "h": 113,
+            "path": "avif/blue-bloom-on-red-stalk-a-192.avif",
+            "sha256": "94752de1c6ad2b7d2ff148e29c24ba6e1c4146d3942f034b95f890003e4cf707",
+            "w": 192
+          },
+          {
+            "bytes": 9687,
+            "h": 151,
+            "path": "avif/blue-bloom-on-red-stalk-a-256.avif",
+            "sha256": "7e4bf0fb3b8fbc8e35a217ed08a2b5272667db2e1463bd7abea7706b87cb75d8",
+            "w": 256
+          },
+          {
+            "bytes": 17819,
+            "h": 226,
+            "path": "avif/blue-bloom-on-red-stalk-a-384.avif",
+            "sha256": "8409cf327a08e5531fa7e82c1da9445daaf0b6a579f4a39f9b4931b9bfe72035",
+            "w": 384
+          },
+          {
+            "bytes": 24178,
+            "h": 274,
+            "path": "avif/blue-bloom-on-red-stalk-a-466.avif",
+            "sha256": "5d5664b580025b4ebb395c3d6d55ab998c0a8edf435689da0d7772d2eae50ab9",
+            "w": 466
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2078,
+            "h": 38,
+            "path": "webp/blue-bloom-on-red-stalk-a-64.webp",
+            "sha256": "d9410f5599dc2a1991e98ee75251862b045a1216ea9b157b558b3ce4830fd312",
+            "w": 64
+          },
+          {
+            "bytes": 3698,
+            "h": 56,
+            "path": "webp/blue-bloom-on-red-stalk-a-96.webp",
+            "sha256": "12adb70110346c76143fa0fae56decc750d43453ee556ab7d74488ac5a8dfc26",
+            "w": 96
+          },
+          {
+            "bytes": 5522,
+            "h": 75,
+            "path": "webp/blue-bloom-on-red-stalk-a-128.webp",
+            "sha256": "ca613b5b2f9ea9bd51e87601e16a70543dc29542eba4958789316a9f4a2e8f26",
+            "w": 128
+          },
+          {
+            "bytes": 10164,
+            "h": 113,
+            "path": "webp/blue-bloom-on-red-stalk-a-192.webp",
+            "sha256": "9c977a3f2bfd812a0214ca9b1e48a1f066490c340eb57ff3283f2ccb2bf75139",
+            "w": 192
+          },
+          {
+            "bytes": 16148,
+            "h": 151,
+            "path": "webp/blue-bloom-on-red-stalk-a-256.webp",
+            "sha256": "40844fd5aeedaa1c74c67a2f25978f767bf1ba66e3f0bb985b6c9772bd8e3f78",
+            "w": 256
+          },
+          {
+            "bytes": 31076,
+            "h": 226,
+            "path": "webp/blue-bloom-on-red-stalk-a-384.webp",
+            "sha256": "259a10b1cd9304c1363cf94f112617c140cdddc3eb26930f896c258e86e26b9f",
+            "w": 384
+          },
+          {
+            "bytes": 41360,
+            "h": 274,
+            "path": "webp/blue-bloom-on-red-stalk-a-466.webp",
+            "sha256": "80d99259682e47a62006bf3739da5dece1395ebfc1863a665c7439b9c98557b2",
+            "w": 466
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "flower",
+        "bud",
+        "stem"
+      ],
+      "thumbhash": "GPeBE4Y38gddprZ/ifGWKDFseHiAeIc=",
+      "title": "Blue bloom on a red stalk, lower margin left",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "One of the small blooms scattered along the bottom margin of fixed-floral-u-border-with-gold-and-black-ivy; small-right-red-and-blue-leaf-terminal is the other, both with the stalk pointing left."
+      ],
+      "width": 466
+    },
+    "blue-bloom-on-red-stalk-b": {
+      "categories": [
+        "floral",
+        "botanical"
+      ],
+      "colors": [
+        "blue",
+        "red",
+        "cream"
+      ],
+      "composition": "single-ornament",
+      "description": "A small sprig from the lower margin of the border. A blue cup-shaped bloom with a cream underside at its base, its petals curling back to the right, sits on a tapering red stalk that points to the left. Painted in thick, speckled pigment; the background is transparent.",
+      "display_width": [
+        60,
+        175
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 14976,
+        "webpTopBytes": 25626
+      },
+      "facing": "right",
+      "group": null,
+      "height": 218,
+      "master": {
+        "bytes": 82958,
+        "h": 218,
+        "path": "masters/blue-bloom-on-red-stalk-b.webp",
+        "sha256": "b65beb7bc6784eb3082072fd507b0753ec25f129c4b9d6d9112b0051de17ed9c",
+        "w": 348
+      },
+      "palette": [
+        "#456c90",
+        "#ababa5",
+        "#28476c",
+        "#7f6b6f",
+        "#863128"
+      ],
+      "provenance": {
+        "artist": "Boethius Illuminator (Flemish, active c. 1414–20)",
+        "date": "c. 1410–20",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "2014.22.a",
+        "object_title": "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)",
+        "record_url": "https://clevelandart.org/art/2014.22.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470"
+      },
+      "quality": "AI-assisted extraction; the interior sits at alpha 252–253 rather than 255, invisible in use.",
+      "related": [
+        {
+          "asset": "cma-2014-22/flowered-u-page-border",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2014-22/blue-bloom-on-red-stalk-a",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1551,
+            "h": 40,
+            "path": "avif/blue-bloom-on-red-stalk-b-64.avif",
+            "sha256": "abc5d5b08dd334810d43b10f8c00eca03ed7d865d0b76cc9959846197b175f7d",
+            "w": 64
+          },
+          {
+            "bytes": 2404,
+            "h": 60,
+            "path": "avif/blue-bloom-on-red-stalk-b-96.avif",
+            "sha256": "dec2dd2ffaaff50270053a1c32f2cf4f9e594e88400a49160b3959ca45af7250",
+            "w": 96
+          },
+          {
+            "bytes": 3378,
+            "h": 80,
+            "path": "avif/blue-bloom-on-red-stalk-b-128.avif",
+            "sha256": "a0f0226301f57241f0cf9703decb34e7fd38625c97a39d242e60f380208a6ce1",
+            "w": 128
+          },
+          {
+            "bytes": 5968,
+            "h": 120,
+            "path": "avif/blue-bloom-on-red-stalk-b-192.avif",
+            "sha256": "e9a0723bcb2c70244e4572d0b3547027718d3e81b03236e953297c74c2317707",
+            "w": 192
+          },
+          {
+            "bytes": 9281,
+            "h": 160,
+            "path": "avif/blue-bloom-on-red-stalk-b-256.avif",
+            "sha256": "a46d8caf819011c8b4279eaf3594751b198aea66c8b7d3719ecb1ce2ff47d941",
+            "w": 256
+          },
+          {
+            "bytes": 14976,
+            "h": 218,
+            "path": "avif/blue-bloom-on-red-stalk-b-348.avif",
+            "sha256": "7f860b88e3218427a8b9c71f5c9907f478eddc158b3e4b5c0c5789f2021276bc",
+            "w": 348
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2132,
+            "h": 40,
+            "path": "webp/blue-bloom-on-red-stalk-b-64.webp",
+            "sha256": "58f3184b36dedea6db0a7bfc2714087de7b929953bc838d170167ab7cdd8cfdd",
+            "w": 64
+          },
+          {
+            "bytes": 3706,
+            "h": 60,
+            "path": "webp/blue-bloom-on-red-stalk-b-96.webp",
+            "sha256": "5090f426bfccb7699847b71aee63907a8cbda42f38f77e236d22e8f65a9f08e2",
+            "w": 96
+          },
+          {
+            "bytes": 5664,
+            "h": 80,
+            "path": "webp/blue-bloom-on-red-stalk-b-128.webp",
+            "sha256": "c1866445ca908233c35a1434ab28ef603046d901ae4323814b1a601f1d3bf9f0",
+            "w": 128
+          },
+          {
+            "bytes": 10272,
+            "h": 120,
+            "path": "webp/blue-bloom-on-red-stalk-b-192.webp",
+            "sha256": "56a487f4985a4d7680cd1b237a846115eb42086a7a948976af2a728094561d20",
+            "w": 192
+          },
+          {
+            "bytes": 16080,
+            "h": 160,
+            "path": "webp/blue-bloom-on-red-stalk-b-256.webp",
+            "sha256": "f5333d1a3f11233bfbd089ae80cf95b03306edcac4008eb6158be896483725f9",
+            "w": 256
+          },
+          {
+            "bytes": 25626,
+            "h": 218,
+            "path": "webp/blue-bloom-on-red-stalk-b-348.webp",
+            "sha256": "28139ff01d07784d8c06ba0ec2302567f04c4b154e88c33cd3ea669e5118f11d",
+            "w": 348
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "flower",
+        "bud",
+        "stem"
+      ],
+      "thumbhash": "W/eFC4Qnoh2kSH9/kvdWVyBshoeAmHg=",
+      "title": "Blue bloom on a red stalk, lower margin right",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "One of the small blooms scattered along the bottom margin of fixed-floral-u-border-with-gold-and-black-ivy; small-left-red-and-blue-leaf-terminal is the other, both with the stalk pointing left."
+      ],
+      "width": 348
+    },
+    "blue-cornflower-chain-tile": {
+      "categories": [
+        "floral",
+        "botanical"
+      ],
+      "colors": [
+        "blue",
+        "green"
+      ],
+      "components": {
+        "corner": {
+          "description": "Top-left mitred corner, the round bloom of the tile set on the diagonal with the stem leaving to the right and downward; cut from the tile itself, not from one of the leaf's painted corners.",
+          "encoding": {
+            "avif": true,
+            "avifTopBytes": 8519,
+            "webpTopBytes": 11118
+          },
+          "master": {
+            "bytes": 52712,
+            "h": 262,
+            "path": "masters/blue-cornflower-chain-tile.corner.webp",
+            "sha256": "57f17cccc2a3499d6bbd144125270c4ac7500050220489c6008ff4ae61fea08b",
+            "w": 262
+          },
+          "sources": {
+            "avif": [
+              {
+                "bytes": 1704,
+                "h": 64,
+                "path": "avif/blue-cornflower-chain-tile.corner-64.avif",
+                "sha256": "9f8405b28fad99ac2c81d0c3e88ac7384fe9ff2c6bd4caff295635e4cea1bbb6",
+                "w": 64
+              },
+              {
+                "bytes": 2993,
+                "h": 96,
+                "path": "avif/blue-cornflower-chain-tile.corner-96.avif",
+                "sha256": "9a0c5974802ea367b27fd445c64e6051105b509eaa8eb8eebc36c4583873d775",
+                "w": 96
+              },
+              {
+                "bytes": 3692,
+                "h": 128,
+                "path": "avif/blue-cornflower-chain-tile.corner-128.avif",
+                "sha256": "6f1df9f86b07042bf985d9683489bd7b2a1d0f700fd2bd807a640bcd24cf866e",
+                "w": 128
+              },
+              {
+                "bytes": 6176,
+                "h": 192,
+                "path": "avif/blue-cornflower-chain-tile.corner-192.avif",
+                "sha256": "507afd956ac6f36a818926302fb68879dca855dc55da1bf09a4bb89f99bc4f9d",
+                "w": 192
+              },
+              {
+                "bytes": 8669,
+                "h": 256,
+                "path": "avif/blue-cornflower-chain-tile.corner-256.avif",
+                "sha256": "02fc89f5174ce7727907ee3b5ae36808c717f6ebf535a7d8fd7b8fbf346d0ac3",
+                "w": 256
+              },
+              {
+                "bytes": 8519,
+                "h": 262,
+                "path": "avif/blue-cornflower-chain-tile.corner-262.avif",
+                "sha256": "ab9980ae600f4b083c5252b7f506f4274627724502974f3464099b1d33abbe70",
+                "w": 262
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 1932,
+                "h": 64,
+                "path": "webp/blue-cornflower-chain-tile.corner-64.webp",
+                "sha256": "6d747a8252b95ebee167d780a1cfc27e0d1c6f6446c61aab0553b5e907481b89",
+                "w": 64
+              },
+              {
+                "bytes": 3392,
+                "h": 96,
+                "path": "webp/blue-cornflower-chain-tile.corner-96.webp",
+                "sha256": "cb538e2352503dd1b111d1874d2f5c08e2e0ea3de7821742022abf7180c05ecd",
+                "w": 96
+              },
+              {
+                "bytes": 4702,
+                "h": 128,
+                "path": "webp/blue-cornflower-chain-tile.corner-128.webp",
+                "sha256": "3d479659d681903cbc64f87041aa7edbfbfce363ff25f0fc1e69ed894f0c2815",
+                "w": 128
+              },
+              {
+                "bytes": 8580,
+                "h": 192,
+                "path": "webp/blue-cornflower-chain-tile.corner-192.webp",
+                "sha256": "7317a645917a41b9b1617ab1af566da16dc6f847a4c80ce3591dfe67f8ac0bcf",
+                "w": 192
+              },
+              {
+                "bytes": 12710,
+                "h": 256,
+                "path": "webp/blue-cornflower-chain-tile.corner-256.webp",
+                "sha256": "6d0f5da3c511c54b3d8d38b8ca9e11b9a1d62d9ca6fdaf560056d6472447fa93",
+                "w": 256
+              },
+              {
+                "bytes": 11118,
+                "h": 262,
+                "path": "webp/blue-cornflower-chain-tile.corner-262.webp",
+                "sha256": "8f1d3d1b75e5046f4525c009ac42e216e4aeb606b3d1ef2838d84390fdd4b438",
+                "w": 262
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "One cycle of the cornflower chain that forms the vertical stems of the border. A blue fan-shaped bloom seen from the side sits above a round blue bloom seen from the front, both with pale-blue ribbed petals, threaded on a green stem that runs through the tile from top to bottom. The stem continues across the top and bottom edges; the background is transparent.",
+      "display_width": [
+        60,
+        130
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 13618,
+        "webpTopBytes": 17590
+      },
+      "facing": "none",
+      "group": null,
+      "height": 335,
+      "master": {
+        "bytes": 80174,
+        "h": 335,
+        "path": "masters/blue-cornflower-chain-tile.webp",
+        "sha256": "fa04f89bb8fd63833f5566fb2a16c8e7a03095537bd6369ee12355997577114c",
+        "w": 262
+      },
+      "palette": [
+        "#203c59",
+        "#214c76",
+        "#3e607a",
+        "#688987",
+        "#6f855f"
+      ],
+      "provenance": {
+        "artist": "Boethius Illuminator (Flemish, active c. 1414–20)",
+        "date": "c. 1410–20",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-repeat",
+        "object_identifier": "2014.22.a",
+        "object_title": "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)",
+        "record_url": "https://clevelandart.org/art/2014.22.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470"
+      },
+      "quality": "Native width is 262 px, so it softens above native size; the bloom edges keep a soft fringe at partial alpha.",
+      "related": [
+        {
+          "asset": "cma-2014-22/flowered-u-page-border",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "frame": {
+          "atlas": {
+            "avif": [
+              {
+                "bytes": 3192,
+                "h": 64,
+                "path": "frames/blue-cornflower-chain-tile-atlas-64.avif",
+                "sha256": "bd67db2c9a2b10d3cc0281cfe17c31d026c2e46e129f1a62e4632204f65c989e",
+                "w": 64
+              },
+              {
+                "bytes": 5276,
+                "h": 96,
+                "path": "frames/blue-cornflower-chain-tile-atlas-96.avif",
+                "sha256": "0df758d17ca102f1c21921f59541e4780cb5f0f1ab0519067dbdc5d76e18ce27",
+                "w": 96
+              },
+              {
+                "bytes": 7566,
+                "h": 128,
+                "path": "frames/blue-cornflower-chain-tile-atlas-128.avif",
+                "sha256": "8453dbd1ca29e17cd859ad88dc8084cd66045eb3467ebf349cb9a16c4d6c8bc8",
+                "w": 128
+              },
+              {
+                "bytes": 12277,
+                "h": 192,
+                "path": "frames/blue-cornflower-chain-tile-atlas-192.avif",
+                "sha256": "d7d712fa9e65e2559e8ae3548712be33081839c77bab0f8a37c8427251314e73",
+                "w": 192
+              },
+              {
+                "bytes": 17565,
+                "h": 256,
+                "path": "frames/blue-cornflower-chain-tile-atlas-256.avif",
+                "sha256": "f42fc9f3ccf46dd59dde71b9d2530d98ab4ae62bd7e441ade8c5d3fa6546df85",
+                "w": 256
+              },
+              {
+                "bytes": 31669,
+                "h": 384,
+                "path": "frames/blue-cornflower-chain-tile-atlas-384.avif",
+                "sha256": "8971c342b50f78cc6a377d0b7b56e09267a5b83b5b6464617f4e6d14cf50150f",
+                "w": 384
+              },
+              {
+                "bytes": 43515,
+                "h": 512,
+                "path": "frames/blue-cornflower-chain-tile-atlas-512.avif",
+                "sha256": "bb790e285199d026d7c483bb7b3791eed151cd7d5fd3a77e47100c2fac5d83d9",
+                "w": 512
+              },
+              {
+                "bytes": 74406,
+                "h": 768,
+                "path": "frames/blue-cornflower-chain-tile-atlas-768.avif",
+                "sha256": "ece3814009a2b7e1905b669f2dd96351d0051c98d1f27a8e58356ed5828012ce",
+                "w": 768
+              },
+              {
+                "bytes": 83440,
+                "h": 859,
+                "path": "frames/blue-cornflower-chain-tile-atlas-859.avif",
+                "sha256": "272c4b7d90015569227ab9f64eb55b54e0d09053fe2a75017438c3ad58ae76c8",
+                "w": 859
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 3800,
+                "h": 64,
+                "path": "frames/blue-cornflower-chain-tile-atlas-64.webp",
+                "sha256": "5dcf3b9cb7716b69b1aff3a6a20965586b728b37115c69e8611c084e34cd0986",
+                "w": 64
+              },
+              {
+                "bytes": 6660,
+                "h": 96,
+                "path": "frames/blue-cornflower-chain-tile-atlas-96.webp",
+                "sha256": "cdfb8de0aeaf785fac9fff655c9f62c2c0e6762eb6da3a0825d0bf052b748648",
+                "w": 96
+              },
+              {
+                "bytes": 10070,
+                "h": 128,
+                "path": "frames/blue-cornflower-chain-tile-atlas-128.webp",
+                "sha256": "6919a23fd3b4e0c54c6395d943143246d0d1874704243b0898d0b2da5f70693f",
+                "w": 128
+              },
+              {
+                "bytes": 17410,
+                "h": 192,
+                "path": "frames/blue-cornflower-chain-tile-atlas-192.webp",
+                "sha256": "9b0c68fcfd145e1079d0019146b820b00aa009efe519500d80b4fc523ac1e8a7",
+                "w": 192
+              },
+              {
+                "bytes": 25680,
+                "h": 256,
+                "path": "frames/blue-cornflower-chain-tile-atlas-256.webp",
+                "sha256": "09d69e79c0e56d4563027a6f71861f6c2a426000e6d73333d2a3e5126308a939",
+                "w": 256
+              },
+              {
+                "bytes": 44730,
+                "h": 384,
+                "path": "frames/blue-cornflower-chain-tile-atlas-384.webp",
+                "sha256": "789ea7c8eea3e54cb098eef3554cc9f73207df26c611c86da41de834761c6db1",
+                "w": 384
+              },
+              {
+                "bytes": 66136,
+                "h": 512,
+                "path": "frames/blue-cornflower-chain-tile-atlas-512.webp",
+                "sha256": "28c3a05503f4a1cb1739abdf48150afa1bf5ddbece9d529d9471edc540f6ef48",
+                "w": 512
+              },
+              {
+                "bytes": 117580,
+                "h": 768,
+                "path": "frames/blue-cornflower-chain-tile-atlas-768.webp",
+                "sha256": "e6df64eb64ade28292283a3e89a15fec3c667064fe398c432b4cf71353ea046f",
+                "w": 768
+              },
+              {
+                "bytes": 112640,
+                "h": 859,
+                "path": "frames/blue-cornflower-chain-tile-atlas-859.webp",
+                "sha256": "970317e740aeb8ab98dbb42118d0f5ff94f5a9aca0a65eccb7639a09bcf59fe6",
+                "w": 859
+              }
+            ]
+          },
+          "corner": "corner",
+          "slice": 30.5
+        },
+        "image": {},
+        "tile": {
+          "axis": "y",
+          "period": 1,
+          "rotated": {
+            "avif": [
+              {
+                "bytes": 2453,
+                "h": 64,
+                "path": "tiles/blue-cornflower-chain-tile-rotated-82.avif",
+                "sha256": "69a431b2c013e5b753deba8f7b41d48ae61ad389971692c600e651d9cb3db6bf",
+                "w": 82
+              },
+              {
+                "bytes": 4122,
+                "h": 96,
+                "path": "tiles/blue-cornflower-chain-tile-rotated-123.avif",
+                "sha256": "d2f13c5d5bc8a18cc362ade3fb0570dcff87c8fb8bcfed281a37b3d6d83f5873",
+                "w": 123
+              },
+              {
+                "bytes": 5735,
+                "h": 128,
+                "path": "tiles/blue-cornflower-chain-tile-rotated-164.avif",
+                "sha256": "0e0d60f65d97bbf3c1974de0a31ba6c105e637e70607d8048134ba7b8cb619b9",
+                "w": 164
+              },
+              {
+                "bytes": 9494,
+                "h": 192,
+                "path": "tiles/blue-cornflower-chain-tile-rotated-245.avif",
+                "sha256": "fb771ba51d5be558746aa3295121044d6ee588209f5c563eaf2f80a25f41bc42",
+                "w": 245
+              },
+              {
+                "bytes": 14049,
+                "h": 256,
+                "path": "tiles/blue-cornflower-chain-tile-rotated-327.avif",
+                "sha256": "dd82eb61080ee8823a6fa06adf7c02c20138e152b239d0ea26e3fd3e7a232e68",
+                "w": 327
+              },
+              {
+                "bytes": 13734,
+                "h": 262,
+                "path": "tiles/blue-cornflower-chain-tile-rotated-335.avif",
+                "sha256": "100fb783db6de148631c9f0b080cf8cc554233360e22f3c0f9a3a352cbbdcd6b",
+                "w": 335
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 3282,
+                "h": 64,
+                "path": "tiles/blue-cornflower-chain-tile-rotated-82.webp",
+                "sha256": "83f76c55023f884f65df4aa38e23c2550a6477ec7c181e4e19d6af03b4a5e8d3",
+                "w": 82
+              },
+              {
+                "bytes": 5588,
+                "h": 96,
+                "path": "tiles/blue-cornflower-chain-tile-rotated-123.webp",
+                "sha256": "92a1f7bea489da7897905ba25c7e305e23f43de30663af07d5364e5f3cc72d2b",
+                "w": 123
+              },
+              {
+                "bytes": 8184,
+                "h": 128,
+                "path": "tiles/blue-cornflower-chain-tile-rotated-164.webp",
+                "sha256": "8dbddff951796ece703eb7a3ae40bbdc45e8867901e179f221e44f0426642309",
+                "w": 164
+              },
+              {
+                "bytes": 14284,
+                "h": 192,
+                "path": "tiles/blue-cornflower-chain-tile-rotated-245.webp",
+                "sha256": "e653bbcafdae57abe4c45007bdd508a0fc3c59d5a1ce2658edfdacbee225847a",
+                "w": 245
+              },
+              {
+                "bytes": 21104,
+                "h": 256,
+                "path": "tiles/blue-cornflower-chain-tile-rotated-327.webp",
+                "sha256": "8d1cac6f336d4a206df37dd07a5525f8256b846b4dc8d576d90daed0bb225d34",
+                "w": 327
+              },
+              {
+                "bytes": 17722,
+                "h": 262,
+                "path": "tiles/blue-cornflower-chain-tile-rotated-335.webp",
+                "sha256": "f466e052d8317544ce3e21fa68fbbf1fe29ef37f2a3a5bfdc34772d07e66b403",
+                "w": 335
+              }
+            ]
+          }
+        }
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2526,
+            "h": 82,
+            "path": "avif/blue-cornflower-chain-tile-64.avif",
+            "sha256": "e79ab6e977c454d6077ef86229de25b9357358edd54495d56ec2f477770940fc",
+            "w": 64
+          },
+          {
+            "bytes": 4264,
+            "h": 123,
+            "path": "avif/blue-cornflower-chain-tile-96.avif",
+            "sha256": "58f97c93e604a220b49a78678da295feabd5307ac606d6b23fc620257c5bc3e1",
+            "w": 96
+          },
+          {
+            "bytes": 5812,
+            "h": 164,
+            "path": "avif/blue-cornflower-chain-tile-128.avif",
+            "sha256": "6389333f263d274443e7370f7e25712c35a0e12d872ba651df5f2f797e3c13ab",
+            "w": 128
+          },
+          {
+            "bytes": 9373,
+            "h": 245,
+            "path": "avif/blue-cornflower-chain-tile-192.avif",
+            "sha256": "e2efa00c13e7edc0518b4d3ababb199cc15808f22c6bf4c0a8903a28168111b0",
+            "w": 192
+          },
+          {
+            "bytes": 13713,
+            "h": 327,
+            "path": "avif/blue-cornflower-chain-tile-256.avif",
+            "sha256": "ac2902c862acd170defeefc9bb308edd5ab81fcaeee080dc9506549d6e8d9c7b",
+            "w": 256
+          },
+          {
+            "bytes": 13618,
+            "h": 335,
+            "path": "avif/blue-cornflower-chain-tile-262.avif",
+            "sha256": "8c7a09427c7d4033519d0ca3cf32ea644a34ee6cb833b7c0f71a1f1d456ba6d2",
+            "w": 262
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3356,
+            "h": 82,
+            "path": "webp/blue-cornflower-chain-tile-64.webp",
+            "sha256": "f41198fdda6002d950842c00d4d704cf23dc85cd7c122cf446ac42481b657006",
+            "w": 64
+          },
+          {
+            "bytes": 5594,
+            "h": 123,
+            "path": "webp/blue-cornflower-chain-tile-96.webp",
+            "sha256": "fbf3f2c6df957ac8fe99723540f319ea70723b4b2ee112b237a394c482787a52",
+            "w": 96
+          },
+          {
+            "bytes": 8232,
+            "h": 164,
+            "path": "webp/blue-cornflower-chain-tile-128.webp",
+            "sha256": "78b82c27c4dbcf2719e799bc55a3f7a648018e927b244a7c535d85dd987d17b2",
+            "w": 128
+          },
+          {
+            "bytes": 14212,
+            "h": 245,
+            "path": "webp/blue-cornflower-chain-tile-192.webp",
+            "sha256": "0b1d9ebb915ce714a2e008012c94a9f3647a93d9b892f7a3ff02d437f4d968ec",
+            "w": 192
+          },
+          {
+            "bytes": 21412,
+            "h": 327,
+            "path": "webp/blue-cornflower-chain-tile-256.webp",
+            "sha256": "99cf9a216fd2456faeea15ec512b54ed289fd12f96a72a1fdbb79a6338c9e396",
+            "w": 256
+          },
+          {
+            "bytes": 17590,
+            "h": 335,
+            "path": "webp/blue-cornflower-chain-tile-262.webp",
+            "sha256": "3d2274130698c446636752823dd02674b9b1818247267db6a084b4881110e20a",
+            "w": 262
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "cornflower",
+        "flower",
+        "stem"
+      ],
+      "thumbhash": "1baBDABHWpB5xGlQfqBYVXigYHiHeHeJBQ==",
+      "title": "Blue cornflower chain, repeat tile",
+      "transparent": true,
+      "type": "border",
+      "usage_notes": [
+        "Repeats along y for a vertical chain; the build's rotated ladder gives the horizontal one.",
+        "The frame atlas composes this cycle with the mitred corner; use it with border-image and round fitting. The leaf's own corners are large plants, supplied as separate cut-outs.",
+        "Keep it near native size; the cycle is 262 px wide and softens when enlarged."
+      ],
+      "width": 262
+    },
+    "flowered-u-page-border": {
+      "categories": [
+        "floral",
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "blue",
+        "green",
+        "gold",
+        "red",
+        "pink"
+      ],
+      "composition": "single-ornament",
+      "description": "The complete painted border of the leaf, open at the top where the miniature sat. Two vertical chains of blue cornflowers on a green stem are joined by a third along the bottom, over a loose ground of gold ivy leaves and dots on fine black penwork. Large plants fill the corners, a red and blue acanthus with a gold bird at the top left, a pot of pink flowers at the top right, a leafy pink-flowered branch at the bottom left and a clump of blue cornflowers at the bottom right; a gray-blue acanthus scroll and a second red acanthus grow from the left margin. Centre and background are transparent.",
+      "display_width": [
+        600,
+        2000
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 871420,
+        "webpTopBytes": 1472776
+      },
+      "facing": "none",
+      "group": null,
+      "height": 5564,
+      "master": {
+        "bytes": 2278962,
+        "h": 2048,
+        "path": "masters/flowered-u-page-border.webp",
+        "sha256": "65d869043729d6e7c37cf5db82c832e50f3fa442d787fa4f8a6473b8d1be2420",
+        "w": 1487
+      },
+      "palette": [
+        "#7e8a6c",
+        "#476574",
+        "#846349",
+        "#43555a",
+        "#676d55"
+      ],
+      "provenance": {
+        "artist": "Boethius Illuminator (Flemish, active c. 1414–20)",
+        "date": "c. 1410–20",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2014.22.a",
+        "object_title": "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)",
+        "record_url": "https://clevelandart.org/art/2014.22.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470"
+      },
+      "quality": "The left and right sides are cut flat at the trimmed page edges, clipping the outer acanthus and leaf tips; the gold leaf of the ivy is worn, and a few stray gold specks of the ground remain near the right edge.",
+      "related": [
+        {
+          "asset": "cma-2014-22/annunciation-to-the-shepherds-miniature",
+          "role": "companion"
+        },
+        {
+          "asset": "cma-2014-22/blue-cornflower-chain-tile",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2014-22/upper-left-red-and-blue-acanthus-branch",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2014-22/upper-right-pink-flowers-on-green-leaf-sprays",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2014-22/lower-left-green-leaf-branch-with-pink-flowers",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2014-22/lower-right-green-leaf-branch-with-blue-flowers",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2014-22/left-gray-blue-acanthus-scroll-with-green-stem",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2014-22/blue-bloom-on-red-stalk-a",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2014-22/blue-bloom-on-red-stalk-b",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4292,
+            "h": 88,
+            "path": "avif/flowered-u-page-border-64.avif",
+            "sha256": "3a545d1ac910ffa9740b72c8799bf4b55fc1c19eac8f07da2d438e3192dc4b05",
+            "w": 64
+          },
+          {
+            "bytes": 9089,
+            "h": 132,
+            "path": "avif/flowered-u-page-border-96.avif",
+            "sha256": "84159bba8b3a6a51d261073b3985411395de50101c272c0802a64327a3d2e634",
+            "w": 96
+          },
+          {
+            "bytes": 14519,
+            "h": 176,
+            "path": "avif/flowered-u-page-border-128.avif",
+            "sha256": "ce798fc1de15a96f144f9f69236fb43268536009631fe5309ad713d68e7a7a1e",
+            "w": 128
+          },
+          {
+            "bytes": 29463,
+            "h": 264,
+            "path": "avif/flowered-u-page-border-192.avif",
+            "sha256": "a6c9d5136bcd9426ba6a1d193936d50af4386fd5728e15b9318648917d474db5",
+            "w": 192
+          },
+          {
+            "bytes": 47660,
+            "h": 353,
+            "path": "avif/flowered-u-page-border-256.avif",
+            "sha256": "8003cac0795c7648a40b28355d4915c58666e49746028a8129bd9f5de5ec2fa4",
+            "w": 256
+          },
+          {
+            "bytes": 91064,
+            "h": 529,
+            "path": "avif/flowered-u-page-border-384.avif",
+            "sha256": "f653e087ee2f0a80391ec58803e44e43515c0405247763c46279a7ad4a37e84f",
+            "w": 384
+          },
+          {
+            "bytes": 137922,
+            "h": 705,
+            "path": "avif/flowered-u-page-border-512.avif",
+            "sha256": "b83cb16b64b4f513bb11dd073f7564e88195792e1d34a54d578a242d2e517375",
+            "w": 512
+          },
+          {
+            "bytes": 246241,
+            "h": 1058,
+            "path": "avif/flowered-u-page-border-768.avif",
+            "sha256": "d989cdc0df9297286076c627b904ac95a358205da958c6abf92223fbcbe088fd",
+            "w": 768
+          },
+          {
+            "bytes": 362945,
+            "h": 1410,
+            "path": "avif/flowered-u-page-border-1024.avif",
+            "sha256": "3dc011ae3583fb1d107668f1641f7bea573f53546fd866798e91ac902d498451",
+            "w": 1024
+          },
+          {
+            "bytes": 620288,
+            "h": 2115,
+            "path": "avif/flowered-u-page-border-1536.avif",
+            "sha256": "d01ac98b2834a586532351d7135ed9922f5af9024d270979f1c519a1c5ecf51a",
+            "w": 1536
+          },
+          {
+            "bytes": 871420,
+            "h": 2821,
+            "path": "avif/flowered-u-page-border-2048.avif",
+            "sha256": "e5c90b695020077c6e7156ad2192603d13a714df6b4efd3eb8e4c55df292df35",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 6020,
+            "h": 88,
+            "path": "webp/flowered-u-page-border-64.webp",
+            "sha256": "b95203f98a47712817b47604cd934b8328d3ced4f2a267d6cda18a114e7f9cef",
+            "w": 64
+          },
+          {
+            "bytes": 12324,
+            "h": 132,
+            "path": "webp/flowered-u-page-border-96.webp",
+            "sha256": "c81bda4a22258e8357b22b9ea8d47f8db0d466f5aac6846bb5388be73ec8917b",
+            "w": 96
+          },
+          {
+            "bytes": 19940,
+            "h": 176,
+            "path": "webp/flowered-u-page-border-128.webp",
+            "sha256": "69fb8dc71017da1a97f79ad83c8c794b426edb91e2318c828199b5929b293855",
+            "w": 128
+          },
+          {
+            "bytes": 40470,
+            "h": 264,
+            "path": "webp/flowered-u-page-border-192.webp",
+            "sha256": "a0a2c31145851a70191ebe3f345f54fbc9f186800c2578374d607effb1a1b74e",
+            "w": 192
+          },
+          {
+            "bytes": 65150,
+            "h": 353,
+            "path": "webp/flowered-u-page-border-256.webp",
+            "sha256": "6a873eb6732da4732a6d6f44c88242cb49d868bc43cb53150eca579c4663cbdd",
+            "w": 256
+          },
+          {
+            "bytes": 127682,
+            "h": 529,
+            "path": "webp/flowered-u-page-border-384.webp",
+            "sha256": "50293868146059fe9b21b75e472f39b98109d4dcb1cd08eccabd4c1a940c4f58",
+            "w": 384
+          },
+          {
+            "bytes": 200656,
+            "h": 705,
+            "path": "webp/flowered-u-page-border-512.webp",
+            "sha256": "229acb0cebe7e467626d9af9f9fa147ebb49bd8863e77e7ebf730da2876ee4a7",
+            "w": 512
+          },
+          {
+            "bytes": 372644,
+            "h": 1058,
+            "path": "webp/flowered-u-page-border-768.webp",
+            "sha256": "44627a7153be1181023111c79ee2071afb20e0231db3b721d8449861ed458523",
+            "w": 768
+          },
+          {
+            "bytes": 563116,
+            "h": 1410,
+            "path": "webp/flowered-u-page-border-1024.webp",
+            "sha256": "0a9a6ce96ea2a84fe1ec578bd1ce52da9a3208d6ad6cc78a3973a736ca6e1723",
+            "w": 1024
+          },
+          {
+            "bytes": 992924,
+            "h": 2115,
+            "path": "webp/flowered-u-page-border-1536.webp",
+            "sha256": "7e30af31a20a85ff0c8e51a7f0be14977c47c035772d694dda02fa93e63a1d72",
+            "w": 1536
+          },
+          {
+            "bytes": 1472776,
+            "h": 2821,
+            "path": "webp/flowered-u-page-border-2048.webp",
+            "sha256": "6b8fc3d23db9457ca59cff6798637dc415e23216b9f36eb187ca4df6cd856325",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "frame",
+        "margin",
+        "cornflower",
+        "flower",
+        "stem",
+        "leaf",
+        "ivy",
+        "acanthus",
+        "plant",
+        "pot",
+        "bird"
+      ],
+      "thumbhash": "WPiBBAATeGpD99Voyon1j5mbn0aX2HeJBw==",
+      "title": "Flowered U-shaped page border with gold ivy",
+      "transparent": true,
+      "type": "frame",
+      "usage_notes": [
+        "Fixed page border scaled as a whole; it is open at the top, so a heading or picture goes in the gap and text inside the U. It is not a border-image, the four corners all differ and the chains are not evenly spaced.",
+        "For a cornflower chain at any length use blue-cup-and-burst-flowers-on-stem; the four corner plants, the margin scroll and the two small blooms are supplied as separate cut-outs."
+      ],
+      "width": 4040
+    },
+    "four-contacting-shepherds-with-dog-and-two-sheep": {
+      "categories": [
+        "humans",
+        "animals"
+      ],
+      "colors": [
+        "red",
+        "blue",
+        "white",
+        "pink",
+        "black"
+      ],
+      "composition": "multiple-figures",
+      "description": "Four shepherds stand in a close group looking up at the sky. From the left, a bearded man in a blue hood and red tunic with a staff over his shoulder, a youth in a pink tunic, a man in a red hood and blue tunic holding a long staff, and a bearded man in a blue hood and red tunic striped in gold, leaning on a crook and gesturing. A white dog leaps up between them and two white sheep graze at their feet; hose in blue, red and pink, black shoes. Cut from the miniature; the meadow and hill are removed and the background is transparent.",
+      "display_width": [
+        240,
+        700
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 203606,
+        "webpTopBytes": 344884
+      },
+      "facing": "mixed",
+      "group": null,
+      "height": 1106,
+      "master": {
+        "bytes": 1608686,
+        "h": 1106,
+        "path": "masters/four-contacting-shepherds-with-dog-and-two-sheep.webp",
+        "sha256": "263a6dc682b2bf2a144414c3c8d231653eadc4ef681b7c4591f6a29cc7c4c7a9",
+        "w": 1376
+      },
+      "palette": [
+        "#b84e21",
+        "#bfa38d",
+        "#653a2e",
+        "#164575",
+        "#6a696e"
+      ],
+      "provenance": {
+        "artist": "Boethius Illuminator (Flemish, active c. 1414–20)",
+        "date": "c. 1410–20",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "2014.22.a",
+        "object_title": "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)",
+        "record_url": "https://clevelandart.org/art/2014.22.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470"
+      },
+      "quality": "AI-assisted extraction; the interior sits at alpha 252–253 rather than 255, invisible in use.",
+      "related": [
+        {
+          "asset": "cma-2014-22/annunciation-to-the-shepherds-miniature",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2014-22/announcing-angel-with-blank-scroll",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2757,
+            "h": 51,
+            "path": "avif/four-contacting-shepherds-with-dog-and-two-sheep-64.avif",
+            "sha256": "8a5f44e8799f690aad6b123eadbbebf7c4cdf50268d1ccfb0f5a3b8cbfa1a1b2",
+            "w": 64
+          },
+          {
+            "bytes": 4462,
+            "h": 77,
+            "path": "avif/four-contacting-shepherds-with-dog-and-two-sheep-96.avif",
+            "sha256": "987b539316b0bacb3511e7076e07207b7525feae0decdbc18f4064ca575bd67e",
+            "w": 96
+          },
+          {
+            "bytes": 6249,
+            "h": 103,
+            "path": "avif/four-contacting-shepherds-with-dog-and-two-sheep-128.avif",
+            "sha256": "0d7055e76a97be77af136900d9a926730c075b5786d3bdc390c146adcb97378b",
+            "w": 128
+          },
+          {
+            "bytes": 10382,
+            "h": 154,
+            "path": "avif/four-contacting-shepherds-with-dog-and-two-sheep-192.avif",
+            "sha256": "6a8563ec44cc4c460ca5bec5a1f74f71d4c3c96581cbe74e596cabdccdacdafe",
+            "w": 192
+          },
+          {
+            "bytes": 15443,
+            "h": 206,
+            "path": "avif/four-contacting-shepherds-with-dog-and-two-sheep-256.avif",
+            "sha256": "09caa0156bacd0d71f1e5a3385de0f6718b5ee54fdf945a4efb3d0db661c471e",
+            "w": 256
+          },
+          {
+            "bytes": 28820,
+            "h": 309,
+            "path": "avif/four-contacting-shepherds-with-dog-and-two-sheep-384.avif",
+            "sha256": "3770ccec0b84951c9ae6c9edda9057c8cff91190ed6bf266bd20b05aa243d506",
+            "w": 384
+          },
+          {
+            "bytes": 44364,
+            "h": 412,
+            "path": "avif/four-contacting-shepherds-with-dog-and-two-sheep-512.avif",
+            "sha256": "100bd4f651bc3038ef6e87e646c59c210f39b00e1c588215c295d217f68e6b75",
+            "w": 512
+          },
+          {
+            "bytes": 85960,
+            "h": 617,
+            "path": "avif/four-contacting-shepherds-with-dog-and-two-sheep-768.avif",
+            "sha256": "2d78d82b7129469b2898634b60a03654f33a9231965acededab35fc89fce8a2a",
+            "w": 768
+          },
+          {
+            "bytes": 131978,
+            "h": 823,
+            "path": "avif/four-contacting-shepherds-with-dog-and-two-sheep-1024.avif",
+            "sha256": "e67bb0b2ebcf7a58dad55de3c399b71cde2dcef4fdcfd319c7ab280609a69ff0",
+            "w": 1024
+          },
+          {
+            "bytes": 203606,
+            "h": 1106,
+            "path": "avif/four-contacting-shepherds-with-dog-and-two-sheep-1376.avif",
+            "sha256": "4f9bc96cd0793bc0cb167f66f631e383e78dfe07d45cf268eca12f1c9aec5751",
+            "w": 1376
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3588,
+            "h": 51,
+            "path": "webp/four-contacting-shepherds-with-dog-and-two-sheep-64.webp",
+            "sha256": "00ae65534a44179a5085691922baef6cb5459a70f7748533f09ffda4aa117d5c",
+            "w": 64
+          },
+          {
+            "bytes": 6496,
+            "h": 77,
+            "path": "webp/four-contacting-shepherds-with-dog-and-two-sheep-96.webp",
+            "sha256": "f0c9db208cb30ddae29c7b792c3916d6bd063cb1fd74a814d9dddc6996a578f3",
+            "w": 96
+          },
+          {
+            "bytes": 9928,
+            "h": 103,
+            "path": "webp/four-contacting-shepherds-with-dog-and-two-sheep-128.webp",
+            "sha256": "ed701c4f2b5660b43f05af04e40dd638deb6eefd798276d027485f0cda750f2f",
+            "w": 128
+          },
+          {
+            "bytes": 17838,
+            "h": 154,
+            "path": "webp/four-contacting-shepherds-with-dog-and-two-sheep-192.webp",
+            "sha256": "1ea84153ae50b7a8f5a356f119ee7eb8846befde992fcab3860a5afa2e09870d",
+            "w": 192
+          },
+          {
+            "bytes": 25816,
+            "h": 206,
+            "path": "webp/four-contacting-shepherds-with-dog-and-two-sheep-256.webp",
+            "sha256": "d6066311c69ed320abd37ccc7b919733c000d1ee367255874e760ef68f70be12",
+            "w": 256
+          },
+          {
+            "bytes": 48374,
+            "h": 309,
+            "path": "webp/four-contacting-shepherds-with-dog-and-two-sheep-384.webp",
+            "sha256": "612c314efd719cf54333f80acef09e263d2398298b53bfd2d8619c1de31d71d1",
+            "w": 384
+          },
+          {
+            "bytes": 74406,
+            "h": 412,
+            "path": "webp/four-contacting-shepherds-with-dog-and-two-sheep-512.webp",
+            "sha256": "a0c6e088ce14cb2a4b45b331774ec28d228ad6b4e591d8ab26186fdbebf61ff2",
+            "w": 512
+          },
+          {
+            "bytes": 143506,
+            "h": 617,
+            "path": "webp/four-contacting-shepherds-with-dog-and-two-sheep-768.webp",
+            "sha256": "247add087272a4cdbedc71ed5e0e9f0ad6cd6e99a9d19ecad4fbe7e5894e3f80",
+            "w": 768
+          },
+          {
+            "bytes": 226186,
+            "h": 823,
+            "path": "webp/four-contacting-shepherds-with-dog-and-two-sheep-1024.webp",
+            "sha256": "ef6e07d38a42f2bd61a72976391493060939ffdb7e900da0df578f5fbf3eec76",
+            "w": 1024
+          },
+          {
+            "bytes": 344884,
+            "h": 1106,
+            "path": "webp/four-contacting-shepherds-with-dog-and-two-sheep-1376.webp",
+            "sha256": "e2e6235a6e7ed5e724677cc52c098d40eb82a1f4b669df39e234627a532c4330",
+            "w": 1376
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "shepherd",
+        "man",
+        "dog",
+        "sheep",
+        "staff",
+        "hood",
+        "robe"
+      ],
+      "thumbhash": "2kiGFIQpRH/IRXq6l584+XpSFIR6CJd3Aw==",
+      "title": "Four shepherds with a dog and two sheep",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The shepherds look up and to the left; pair the group with announcing-angel-with-blank-scroll placed above it, as in the miniature."
+      ],
+      "width": 1376
+    },
+    "left-gray-blue-acanthus-scroll-with-green-stem": {
+      "categories": [
+        "floral",
+        "scrollwork"
+      ],
+      "colors": [
+        "gray",
+        "blue",
+        "green",
+        "pink"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall acanthus sprig from the left margin of the border. A gray-blue stem rises from a round pink bud at the bottom, which sprouts a short green stalk to the right, and curls twice to the right into dotted gray-blue scrolls, each carrying a green leaf. The stem is cut flat at the left where the page was trimmed; the background is transparent.",
+      "display_width": [
+        100,
+        280
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 89200,
+        "webpTopBytes": 166274
+      },
+      "facing": "up",
+      "group": null,
+      "height": 1165,
+      "master": {
+        "bytes": 572932,
+        "h": 1165,
+        "path": "masters/left-gray-blue-acanthus-scroll-with-green-stem.webp",
+        "sha256": "b66265998edf21ad02befb80750f1354669773b263880f94baf7cd747185486e",
+        "w": 563
+      },
+      "palette": [
+        "#55616f",
+        "#8a9283",
+        "#887071",
+        "#657749",
+        "#40474a"
+      ],
+      "provenance": {
+        "artist": "Boethius Illuminator (Flemish, active c. 1414–20)",
+        "date": "c. 1410–20",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "2014.22.a",
+        "object_title": "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)",
+        "record_url": "https://clevelandart.org/art/2014.22.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470"
+      },
+      "quality": "AI-assisted extraction; the interior sits at alpha 252–253 rather than 255 (invisible in use), and the left edge of the stem is a flat cut at the page edge.",
+      "related": [
+        {
+          "asset": "cma-2014-22/flowered-u-page-border",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4434,
+            "h": 132,
+            "path": "avif/left-gray-blue-acanthus-scroll-with-green-stem-64.avif",
+            "sha256": "7ae704dd6318ee3b81ee135b048e552d940d6a61fd6cc04242ee392c7e064c54",
+            "w": 64
+          },
+          {
+            "bytes": 7506,
+            "h": 199,
+            "path": "avif/left-gray-blue-acanthus-scroll-with-green-stem-96.avif",
+            "sha256": "10f9a8e0523bf733c69205c5223e795cc6bda641bf5cb16ebfe7136a04b9c278",
+            "w": 96
+          },
+          {
+            "bytes": 10342,
+            "h": 265,
+            "path": "avif/left-gray-blue-acanthus-scroll-with-green-stem-128.avif",
+            "sha256": "da25b181fb247a5f92da73107b222ee860dcd6a81fde6dfe169cc1104813f860",
+            "w": 128
+          },
+          {
+            "bytes": 17444,
+            "h": 397,
+            "path": "avif/left-gray-blue-acanthus-scroll-with-green-stem-192.avif",
+            "sha256": "c8b9c0713bdacfb171c689bdd5f56fda838bcf1bf94aeeda60e0a9c24261e59f",
+            "w": 192
+          },
+          {
+            "bytes": 26484,
+            "h": 530,
+            "path": "avif/left-gray-blue-acanthus-scroll-with-green-stem-256.avif",
+            "sha256": "a84aebe9b20dea32691c7901c381147faa957800bfc3a4ecae96f7bf88cbc598",
+            "w": 256
+          },
+          {
+            "bytes": 50003,
+            "h": 795,
+            "path": "avif/left-gray-blue-acanthus-scroll-with-green-stem-384.avif",
+            "sha256": "3632b302d784b05b4752377a258154a9b6d000f18efdb00861719a1116bdc047",
+            "w": 384
+          },
+          {
+            "bytes": 77112,
+            "h": 1059,
+            "path": "avif/left-gray-blue-acanthus-scroll-with-green-stem-512.avif",
+            "sha256": "040682bb6074e43663f05d6278a387f3cb46cba02d35a8b4d47020b0f4f90efe",
+            "w": 512
+          },
+          {
+            "bytes": 89200,
+            "h": 1165,
+            "path": "avif/left-gray-blue-acanthus-scroll-with-green-stem-563.avif",
+            "sha256": "1763a18a89043c216b65f16876e5551d10a302a3c0f147139f27812ea0eafe9c",
+            "w": 563
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 6658,
+            "h": 132,
+            "path": "webp/left-gray-blue-acanthus-scroll-with-green-stem-64.webp",
+            "sha256": "8cc800840e44f3553abd57ecc492ca449368ba6af9c1c2b59448e7b0b621a64d",
+            "w": 64
+          },
+          {
+            "bytes": 11946,
+            "h": 199,
+            "path": "webp/left-gray-blue-acanthus-scroll-with-green-stem-96.webp",
+            "sha256": "4be20f4dbd4a7642b9719235416444c65e1ed7dcbb3286060b381dfaff2fd142",
+            "w": 96
+          },
+          {
+            "bytes": 17970,
+            "h": 265,
+            "path": "webp/left-gray-blue-acanthus-scroll-with-green-stem-128.webp",
+            "sha256": "ef0e6d53efbcfe35b29acdb6cec0509522c37dad0a575369ef0790cdb12dd1c8",
+            "w": 128
+          },
+          {
+            "bytes": 30968,
+            "h": 397,
+            "path": "webp/left-gray-blue-acanthus-scroll-with-green-stem-192.webp",
+            "sha256": "d9e92d9a14c699ca68c6823f650209377b6637f9d596cb529d9aa9e3ef2fa5e4",
+            "w": 192
+          },
+          {
+            "bytes": 47488,
+            "h": 530,
+            "path": "webp/left-gray-blue-acanthus-scroll-with-green-stem-256.webp",
+            "sha256": "98345d28341b0de9bd112c3a829c9466fca843b767bdc3ab74802a82111e3068",
+            "w": 256
+          },
+          {
+            "bytes": 90596,
+            "h": 795,
+            "path": "webp/left-gray-blue-acanthus-scroll-with-green-stem-384.webp",
+            "sha256": "39be3f70a44ee964abe7f1e5e70a56460781ed3452a8e693a07d62cb65acba85",
+            "w": 384
+          },
+          {
+            "bytes": 145784,
+            "h": 1059,
+            "path": "webp/left-gray-blue-acanthus-scroll-with-green-stem-512.webp",
+            "sha256": "2ec50d2509cb5e0ce4aff54f7a99bb9c3dedcfc406263c8a6f84751432df6381",
+            "w": 512
+          },
+          {
+            "bytes": 166274,
+            "h": 1165,
+            "path": "webp/left-gray-blue-acanthus-scroll-with-green-stem-563.webp",
+            "sha256": "c31dfd2c83098bff872cac09b35e6190eefead4dd5bdeb6deac60834d1a080dd",
+            "w": 563
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "acanthus",
+        "leaf",
+        "scroll",
+        "stem",
+        "bud"
+      ],
+      "thumbhash": "G/iBCgImFZKaePcQlXsH+AuKZpdmZ4c=",
+      "title": "Gray-blue acanthus scroll with a pink bud",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Vertical margin sprig; it sits on the outer side of the chain in fixed-floral-u-border-with-gold-and-black-ivy, with the scrolls turning in towards the text."
+      ],
+      "width": 563
+    },
+    "long-blue-and-gold-line-end-scroll-bar": {
+      "categories": [
+        "geometric",
+        "scrollwork"
+      ],
+      "colors": [
+        "gold",
+        "blue"
+      ],
+      "composition": "single-ornament",
+      "description": "A long horizontal line filler from the text, a worn band of gold leaf over a strip of blue paint with small curled hooks at the ends, made of three short segments set end to end with narrow gaps between them. The gold is cracked and partly bare and the blue mottled, as painted; the background is transparent.",
+      "display_width": [
+        200,
+        420
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 25962,
+        "webpTopBytes": 37400
+      },
+      "facing": "none",
+      "group": null,
+      "height": 169,
+      "master": {
+        "bytes": 122692,
+        "h": 169,
+        "path": "masters/long-blue-and-gold-line-end-scroll-bar.webp",
+        "sha256": "d2e10273b55d72d55321585406893b703251d9924856bbe87a712cc4a5e8b6df",
+        "w": 838
+      },
+      "palette": [
+        "#225274",
+        "#dbaf65",
+        "#b2925d",
+        "#3e6377",
+        "#7e7e6f"
+      ],
+      "provenance": {
+        "artist": "Boethius Illuminator (Flemish, active c. 1414–20)",
+        "date": "c. 1410–20",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2014.22.a",
+        "object_title": "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)",
+        "record_url": "https://clevelandart.org/art/2014.22.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470"
+      },
+      "quality": "Original paint loss, the gold is flaked down to the ground in places, and the edges are feathered at partial alpha.",
+      "related": [
+        {
+          "asset": "cma-2014-22/short-blue-and-gold-line-end-scroll-bar",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2014-22/small-blue-and-gold-four-point-line-end-floret",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1444,
+            "h": 13,
+            "path": "avif/long-blue-and-gold-line-end-scroll-bar-64.avif",
+            "sha256": "c21584c9b9ac5dcf3ab5b95d335c4279ac320ed41e1f2713962d2380a9869009",
+            "w": 64
+          },
+          {
+            "bytes": 2319,
+            "h": 19,
+            "path": "avif/long-blue-and-gold-line-end-scroll-bar-96.avif",
+            "sha256": "afe2030c77c62cb30bb38f4624c894deae4e711f59628e60728d547cb9b7b2e8",
+            "w": 96
+          },
+          {
+            "bytes": 2898,
+            "h": 26,
+            "path": "avif/long-blue-and-gold-line-end-scroll-bar-128.avif",
+            "sha256": "2bd9dbe3efba1a968e1fda68c6dea8abb5a965ed19d6dfde0e0486639afae874",
+            "w": 128
+          },
+          {
+            "bytes": 4822,
+            "h": 39,
+            "path": "avif/long-blue-and-gold-line-end-scroll-bar-192.avif",
+            "sha256": "efbeb614393334009336c6b5f67d1b7f6cf06621107c9be0ecfcdc2951db74e4",
+            "w": 192
+          },
+          {
+            "bytes": 6884,
+            "h": 52,
+            "path": "avif/long-blue-and-gold-line-end-scroll-bar-256.avif",
+            "sha256": "6598ad9860c6185be2b4f2f8175952d64fdd328159b445292dda1cd691228bfe",
+            "w": 256
+          },
+          {
+            "bytes": 10858,
+            "h": 77,
+            "path": "avif/long-blue-and-gold-line-end-scroll-bar-384.avif",
+            "sha256": "43d0d429452527f260b210c2a45786b2de8faa1302aeb801719dd9d543a44965",
+            "w": 384
+          },
+          {
+            "bytes": 15711,
+            "h": 103,
+            "path": "avif/long-blue-and-gold-line-end-scroll-bar-512.avif",
+            "sha256": "6cd5ae29c2065c5ea1b59e10941a2704472521c0e4941a3ea16d973c59f4119b",
+            "w": 512
+          },
+          {
+            "bytes": 25561,
+            "h": 155,
+            "path": "avif/long-blue-and-gold-line-end-scroll-bar-768.avif",
+            "sha256": "33eca7c05671f751b9ffdc31a5699751778e6db8505ca027bf1cbc860c946e86",
+            "w": 768
+          },
+          {
+            "bytes": 25962,
+            "h": 169,
+            "path": "avif/long-blue-and-gold-line-end-scroll-bar-838.avif",
+            "sha256": "b32fadf268b7dd0b107d7e5feea4be5b41093434bd730432c6640fd101d16303",
+            "w": 838
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1424,
+            "h": 13,
+            "path": "webp/long-blue-and-gold-line-end-scroll-bar-64.webp",
+            "sha256": "303640cf0bee88c1528fff344f9d34a7433e533a7e6002198b2c69e5d02c2889",
+            "w": 64
+          },
+          {
+            "bytes": 2564,
+            "h": 19,
+            "path": "webp/long-blue-and-gold-line-end-scroll-bar-96.webp",
+            "sha256": "aecb09dd2585d6698a47ff26927d8d5226d385d4df9d3f848a80f37b73436412",
+            "w": 96
+          },
+          {
+            "bytes": 3686,
+            "h": 26,
+            "path": "webp/long-blue-and-gold-line-end-scroll-bar-128.webp",
+            "sha256": "22e4a23fe469204abd023257d11671a990e4903d9531ca009e45d101efb16c4f",
+            "w": 128
+          },
+          {
+            "bytes": 6634,
+            "h": 39,
+            "path": "webp/long-blue-and-gold-line-end-scroll-bar-192.webp",
+            "sha256": "e6b6efcf7bc9b0aca0128d9fbace1afb206737d8865e39253451223674e289ba",
+            "w": 192
+          },
+          {
+            "bytes": 9896,
+            "h": 52,
+            "path": "webp/long-blue-and-gold-line-end-scroll-bar-256.webp",
+            "sha256": "55ec6002e599a271b2d0f4bcfd11db13539e5e5a0857df7fc24c5663b63102aa",
+            "w": 256
+          },
+          {
+            "bytes": 16776,
+            "h": 77,
+            "path": "webp/long-blue-and-gold-line-end-scroll-bar-384.webp",
+            "sha256": "77045d7939cbf0d4ea95681e9655ae50597d3e0a854ea17b0216d3133f98e8b1",
+            "w": 384
+          },
+          {
+            "bytes": 25654,
+            "h": 103,
+            "path": "webp/long-blue-and-gold-line-end-scroll-bar-512.webp",
+            "sha256": "0204498a99e0b43255f0dfb117ede710bfeddcc8cbf0470707a5532f5fcddb27",
+            "w": 512
+          },
+          {
+            "bytes": 43568,
+            "h": 155,
+            "path": "webp/long-blue-and-gold-line-end-scroll-bar-768.webp",
+            "sha256": "a71aa2b2d87af01c45641bb513279bba5bd6af77dcbd77d1a56510e8266b6b2f",
+            "w": 768
+          },
+          {
+            "bytes": 37400,
+            "h": 169,
+            "path": "webp/long-blue-and-gold-line-end-scroll-bar-838.webp",
+            "sha256": "88c80c69091dae1b579e399cf33c7eb10bff0b804668654b6de500542e0b5153",
+            "w": 838
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "line-filler",
+        "flourish"
+      ],
+      "thumbhash": "HOiFEYI1Z4ifl3V4j4X4WHh4dodwiHg=",
+      "title": "Blue and gold line filler, long",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Fills the end of a text line; scale it to the line height with the gold band at the top. short-blue-and-gold-line-end-scroll-bar is the one-segment version."
+      ],
+      "width": 838
+    },
+    "lower-left-green-leaf-branch-with-pink-flowers": {
+      "categories": [
+        "floral",
+        "botanical"
+      ],
+      "colors": [
+        "green",
+        "pink",
+        "red"
+      ],
+      "composition": "single-ornament",
+      "description": "The bottom-left corner plant of the border. Slender green stems with oval leaves fan up and to the right and carry four pink trumpet-shaped flowers with fringed, darker pink rims on green calyxes; a smaller leafy shoot sits at the bottom left. The paint is thin, with the parchment tone showing through the green; the background is transparent.",
+      "display_width": [
+        150,
+        380
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 135278,
+        "webpTopBytes": 216262
+      },
+      "facing": "right",
+      "group": null,
+      "height": 1324,
+      "master": {
+        "bytes": 846986,
+        "h": 1324,
+        "path": "masters/lower-left-green-leaf-branch-with-pink-flowers.webp",
+        "sha256": "2f9fb585fde743dc94834e7005b65dbcc1e52687c4f84eda48a44d5b1dbff275",
+        "w": 759
+      },
+      "palette": [
+        "#859a6a",
+        "#5f7e48",
+        "#66925e",
+        "#887f61",
+        "#8b514e"
+      ],
+      "provenance": {
+        "artist": "Boethius Illuminator (Flemish, active c. 1414–20)",
+        "date": "c. 1410–20",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "2014.22.a",
+        "object_title": "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)",
+        "record_url": "https://clevelandart.org/art/2014.22.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470"
+      },
+      "quality": "AI-assisted extraction; the interior sits at alpha 252–253 rather than 255 (invisible in use) and the thin green paint keeps the parchment tone.",
+      "related": [
+        {
+          "asset": "cma-2014-22/flowered-u-page-border",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2014-22/lower-right-green-leaf-branch-with-blue-flowers",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4829,
+            "h": 112,
+            "path": "avif/lower-left-green-leaf-branch-with-pink-flowers-64.avif",
+            "sha256": "c70cd7159e9d72381e9836512e52e3f647526b39fffb717692526dc6a8faf824",
+            "w": 64
+          },
+          {
+            "bytes": 8163,
+            "h": 167,
+            "path": "avif/lower-left-green-leaf-branch-with-pink-flowers-96.avif",
+            "sha256": "d211d55f8ba6e106652cbd22a9f187514dd9e9ad2b69ec730f62ac6df97900e9",
+            "w": 96
+          },
+          {
+            "bytes": 11343,
+            "h": 223,
+            "path": "avif/lower-left-green-leaf-branch-with-pink-flowers-128.avif",
+            "sha256": "9b3a1c026868ae353ed9135a5222d1ca5379d8f7893802f0906abde8df49fdd3",
+            "w": 128
+          },
+          {
+            "bytes": 17945,
+            "h": 335,
+            "path": "avif/lower-left-green-leaf-branch-with-pink-flowers-192.avif",
+            "sha256": "f2d86dde62de3d8948c36fc64e6ce637e5cecc95ddc0bc5fc70cd8e411fd4cdd",
+            "w": 192
+          },
+          {
+            "bytes": 26370,
+            "h": 447,
+            "path": "avif/lower-left-green-leaf-branch-with-pink-flowers-256.avif",
+            "sha256": "84732bd4a88622b26f726b74e9a862b8af53c7fc1e1d29488cff2f7b74440e34",
+            "w": 256
+          },
+          {
+            "bytes": 49196,
+            "h": 670,
+            "path": "avif/lower-left-green-leaf-branch-with-pink-flowers-384.avif",
+            "sha256": "2caa46b7744e4b73601b8d4d5e1182a01b5b2290bf332609ed52adbe80364eaf",
+            "w": 384
+          },
+          {
+            "bytes": 75772,
+            "h": 893,
+            "path": "avif/lower-left-green-leaf-branch-with-pink-flowers-512.avif",
+            "sha256": "99c8d579187b0b6d6080feb39f0a9e35b9dc2be0b4edd569e8f16147f10b91ec",
+            "w": 512
+          },
+          {
+            "bytes": 135278,
+            "h": 1324,
+            "path": "avif/lower-left-green-leaf-branch-with-pink-flowers-759.avif",
+            "sha256": "f4ac1e5446ca0980c535f5e8d0fb3553923b365790a68a09be7c3952eb8e3b04",
+            "w": 759
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 6268,
+            "h": 112,
+            "path": "webp/lower-left-green-leaf-branch-with-pink-flowers-64.webp",
+            "sha256": "3c1ce6a900292adea06f6fea6aac779a5e0d1692f377db59f41eec72b9ba7aad",
+            "w": 64
+          },
+          {
+            "bytes": 11178,
+            "h": 167,
+            "path": "webp/lower-left-green-leaf-branch-with-pink-flowers-96.webp",
+            "sha256": "864bb3f31575d6220c000b3077ce95a19c1d1ce7cdf69c537168002cbd992a8c",
+            "w": 96
+          },
+          {
+            "bytes": 16412,
+            "h": 223,
+            "path": "webp/lower-left-green-leaf-branch-with-pink-flowers-128.webp",
+            "sha256": "02ea18d539a908b259a861a532a53f59a1f4862626752fb8ce0a63899c55331e",
+            "w": 128
+          },
+          {
+            "bytes": 28788,
+            "h": 335,
+            "path": "webp/lower-left-green-leaf-branch-with-pink-flowers-192.webp",
+            "sha256": "a3db6ee90b6c07b167502b2b596d0fb27a438605c0a9f7f4430e31dec444013b",
+            "w": 192
+          },
+          {
+            "bytes": 43240,
+            "h": 447,
+            "path": "webp/lower-left-green-leaf-branch-with-pink-flowers-256.webp",
+            "sha256": "4752907fbf5e4188c4f1b362c356a55d4977fd29d9721ad266e56c3d6c987204",
+            "w": 256
+          },
+          {
+            "bytes": 78122,
+            "h": 670,
+            "path": "webp/lower-left-green-leaf-branch-with-pink-flowers-384.webp",
+            "sha256": "cbd83864b82833da3c52a01bc4d1c7b9cdb79c3448c0144c84a9c721e1e3db72",
+            "w": 384
+          },
+          {
+            "bytes": 122656,
+            "h": 893,
+            "path": "webp/lower-left-green-leaf-branch-with-pink-flowers-512.webp",
+            "sha256": "9a27a3f264e59387a9f9f2198f77c986b6e8c28bf0103fde211ffb0454c0fb5f",
+            "w": 512
+          },
+          {
+            "bytes": 216262,
+            "h": 1324,
+            "path": "webp/lower-left-green-leaf-branch-with-pink-flowers-759.webp",
+            "sha256": "cfef9334d63f5e624787fd293ce61e927144524e1fa8234dd44cb6d151fde983",
+            "w": 759
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "flower",
+        "leaf",
+        "stem",
+        "plant"
+      ],
+      "thumbhash": "HOmBAwIWzzD4SWfPZAOrtgsWNKVhVUc=",
+      "title": "Leafy branch with pink trumpet flowers",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Bottom-left corner plant; lower-right-green-leaf-branch-with-blue-flowers is its counterpart at the other end of the bottom margin."
+      ],
+      "width": 759
+    },
+    "lower-right-green-leaf-branch-with-blue-flowers": {
+      "categories": [
+        "floral",
+        "botanical"
+      ],
+      "colors": [
+        "blue",
+        "green",
+        "tan"
+      ],
+      "composition": "single-ornament",
+      "description": "The bottom-right corner plant of the border, a clump of blue cornflowers. Five fringed blue blooms, three seen from the side and two from the front, one with a small yellow centre, grow on tall green stems with narrow leaves and two green buds, rising from a mound of grass at the bottom. The paint is thin, with the parchment tone showing through the green; the background is transparent.",
+      "display_width": [
+        160,
+        430
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 188143,
+        "webpTopBytes": 359542
+      },
+      "facing": "up",
+      "group": null,
+      "height": 1230,
+      "master": {
+        "bytes": 1174298,
+        "h": 1230,
+        "path": "masters/lower-right-green-leaf-branch-with-blue-flowers.webp",
+        "sha256": "00f7ae2211ff7d5cc7dff48f2c57f1c928781a6af8e4a9cca188a1b6620a860c",
+        "w": 860
+      },
+      "palette": [
+        "#305f8e",
+        "#7c8d5a",
+        "#8ba074",
+        "#698652",
+        "#2f5766"
+      ],
+      "provenance": {
+        "artist": "Boethius Illuminator (Flemish, active c. 1414–20)",
+        "date": "c. 1410–20",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "2014.22.a",
+        "object_title": "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)",
+        "record_url": "https://clevelandart.org/art/2014.22.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470"
+      },
+      "quality": "AI-assisted extraction; the interior sits at alpha 252–253 rather than 255 (invisible in use) and the thin green paint keeps the parchment tone.",
+      "related": [
+        {
+          "asset": "cma-2014-22/flowered-u-page-border",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2014-22/lower-left-green-leaf-branch-with-pink-flowers",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4665,
+            "h": 92,
+            "path": "avif/lower-right-green-leaf-branch-with-blue-flowers-64.avif",
+            "sha256": "417c9859ef22c78f9e34e0d7266b49d8d5f29e55f8ee08267c895ed7f8c73e91",
+            "w": 64
+          },
+          {
+            "bytes": 8159,
+            "h": 137,
+            "path": "avif/lower-right-green-leaf-branch-with-blue-flowers-96.avif",
+            "sha256": "671d9475545162002deba5a681b930c896fe8392faca8724e6f134d5c4bdb0d0",
+            "w": 96
+          },
+          {
+            "bytes": 12167,
+            "h": 183,
+            "path": "avif/lower-right-green-leaf-branch-with-blue-flowers-128.avif",
+            "sha256": "704cc1c9ecc36300365a8d412cfebaa77cb1bdc82572311cc7479678276faf53",
+            "w": 128
+          },
+          {
+            "bytes": 21702,
+            "h": 275,
+            "path": "avif/lower-right-green-leaf-branch-with-blue-flowers-192.avif",
+            "sha256": "6147715f0f0b65ca1ecc01e0fae3c32221471700ae94f64efe478d71726abca8",
+            "w": 192
+          },
+          {
+            "bytes": 32016,
+            "h": 366,
+            "path": "avif/lower-right-green-leaf-branch-with-blue-flowers-256.avif",
+            "sha256": "8b4d7037d8cd4c6125aa12a87e9d59d34e1ff200795f6521fbf7deefd110485f",
+            "w": 256
+          },
+          {
+            "bytes": 58255,
+            "h": 549,
+            "path": "avif/lower-right-green-leaf-branch-with-blue-flowers-384.avif",
+            "sha256": "f3da06c34839f6963e18c332556836fbc3d8ac5813867ab7318834b667ccb464",
+            "w": 384
+          },
+          {
+            "bytes": 90605,
+            "h": 732,
+            "path": "avif/lower-right-green-leaf-branch-with-blue-flowers-512.avif",
+            "sha256": "c9fb09aade44026c6e85ce4d76b00d26183459efeafb31e412953e10d63d71bc",
+            "w": 512
+          },
+          {
+            "bytes": 160787,
+            "h": 1098,
+            "path": "avif/lower-right-green-leaf-branch-with-blue-flowers-768.avif",
+            "sha256": "a0f5d4c303f74ea7b659855c4ee8cfa50f6050d655cad9fc1f346527563a5772",
+            "w": 768
+          },
+          {
+            "bytes": 188143,
+            "h": 1230,
+            "path": "avif/lower-right-green-leaf-branch-with-blue-flowers-860.avif",
+            "sha256": "3af7146748e3370d3fbc8636d22dae7e797d486052cdb003e9fb6af579ba1814",
+            "w": 860
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 6168,
+            "h": 92,
+            "path": "webp/lower-right-green-leaf-branch-with-blue-flowers-64.webp",
+            "sha256": "67f43e7e6de7298fb96c3a227cacbaac92a619b56d896fb8cfbbe481836a28f2",
+            "w": 64
+          },
+          {
+            "bytes": 11626,
+            "h": 137,
+            "path": "webp/lower-right-green-leaf-branch-with-blue-flowers-96.webp",
+            "sha256": "1316a9d36d0ba381b87b7fc22eb1808218f92211b9849cb7ffa085394ec04452",
+            "w": 96
+          },
+          {
+            "bytes": 18268,
+            "h": 183,
+            "path": "webp/lower-right-green-leaf-branch-with-blue-flowers-128.webp",
+            "sha256": "c6c70d0220ccd69cb7bae4d62ba69e939086eb25ee54f4c35d4576b90f676410",
+            "w": 128
+          },
+          {
+            "bytes": 34262,
+            "h": 275,
+            "path": "webp/lower-right-green-leaf-branch-with-blue-flowers-192.webp",
+            "sha256": "7928b19a4908e0d113892f04b34f1e806d2268f3ef96be3daf51351824b88bae",
+            "w": 192
+          },
+          {
+            "bytes": 52860,
+            "h": 366,
+            "path": "webp/lower-right-green-leaf-branch-with-blue-flowers-256.webp",
+            "sha256": "f4de484331ee78f735109828b7b70d73129c8c32dec642d6635d67625001317e",
+            "w": 256
+          },
+          {
+            "bytes": 100486,
+            "h": 549,
+            "path": "webp/lower-right-green-leaf-branch-with-blue-flowers-384.webp",
+            "sha256": "1722de0ae97411f548b8f4a6a02a8a4d6317251726ece8333a73f4622e023156",
+            "w": 384
+          },
+          {
+            "bytes": 160104,
+            "h": 732,
+            "path": "webp/lower-right-green-leaf-branch-with-blue-flowers-512.webp",
+            "sha256": "421392d31095011cdfc8980fb19dc04c2b9dd327162b7480d90bd6d43c2990f0",
+            "w": 512
+          },
+          {
+            "bytes": 314390,
+            "h": 1098,
+            "path": "webp/lower-right-green-leaf-branch-with-blue-flowers-768.webp",
+            "sha256": "09ccc2437100b210e5e784701a984f56d3f7547861b373e4adddbc0d1c2067e4",
+            "w": 768
+          },
+          {
+            "bytes": 359542,
+            "h": 1230,
+            "path": "webp/lower-right-green-leaf-branch-with-blue-flowers-860.webp",
+            "sha256": "7c03473b7c873db35b3300600da76601f1cb95036c36a7430a3033bacd3d05c7",
+            "w": 860
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "cornflower",
+        "flower",
+        "stem",
+        "leaf",
+        "bud",
+        "grass"
+      ],
+      "thumbhash": "G8iBDAImQg3LN5l4CQQ8U7BHgEV2Z3iHBg==",
+      "title": "Clump of blue cornflowers on tall stems",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Bottom-right corner plant, standing on its own grassy base; lower-left-green-leaf-branch-with-pink-flowers is its counterpart at the other end of the bottom margin."
+      ],
+      "width": 860
+    },
+    "short-blue-and-gold-line-end-scroll-bar": {
+      "categories": [
+        "geometric",
+        "scrollwork"
+      ],
+      "colors": [
+        "gold",
+        "blue"
+      ],
+      "composition": "single-ornament",
+      "description": "A short horizontal line filler from the text, a worn band of gold leaf over a strip of blue paint, with a curled hook turning up at the right end and a few blue flecks above the band. The gold is cracked and the blue mottled, as painted; the background is transparent.",
+      "display_width": [
+        110,
+        220
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 16266,
+        "webpTopBytes": 23110
+      },
+      "facing": "none",
+      "group": null,
+      "height": 167,
+      "master": {
+        "bytes": 69860,
+        "h": 167,
+        "path": "masters/short-blue-and-gold-line-end-scroll-bar.webp",
+        "sha256": "6e2dfc48ef17c66adc6a45e41d860aedf0387b7d630068c558e3b50e200f0926",
+        "w": 441
+      },
+      "palette": [
+        "#2b5c7a",
+        "#cba565",
+        "#998155",
+        "#4d6872",
+        "#507281"
+      ],
+      "provenance": {
+        "artist": "Boethius Illuminator (Flemish, active c. 1414–20)",
+        "date": "c. 1410–20",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2014.22.a",
+        "object_title": "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)",
+        "record_url": "https://clevelandart.org/art/2014.22.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470"
+      },
+      "quality": "Original paint loss and feathered edges at partial alpha; the flecks above the band are loose fragments of the paint.",
+      "related": [
+        {
+          "asset": "cma-2014-22/long-blue-and-gold-line-end-scroll-bar",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2014-22/small-blue-and-gold-four-point-line-end-floret",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1780,
+            "h": 24,
+            "path": "avif/short-blue-and-gold-line-end-scroll-bar-64.avif",
+            "sha256": "ba704f650f1909f7d1fc36838ff96b8a545bbf9ff85e1ff438d27cfe383b133c",
+            "w": 64
+          },
+          {
+            "bytes": 2947,
+            "h": 36,
+            "path": "avif/short-blue-and-gold-line-end-scroll-bar-96.avif",
+            "sha256": "1d0645f8253200a9998132e59673be7564880f8a76f2359999a5c931167a8e0a",
+            "w": 96
+          },
+          {
+            "bytes": 4130,
+            "h": 48,
+            "path": "avif/short-blue-and-gold-line-end-scroll-bar-128.avif",
+            "sha256": "1dc216f5285ec6d75066173ace12466abc703def9ca930d539daaba9de2301c2",
+            "w": 128
+          },
+          {
+            "bytes": 6787,
+            "h": 73,
+            "path": "avif/short-blue-and-gold-line-end-scroll-bar-192.avif",
+            "sha256": "3ce9cc9c2efbaeea539af3a9a507454dfc27fa924e9270e6e6609650d195077a",
+            "w": 192
+          },
+          {
+            "bytes": 9367,
+            "h": 97,
+            "path": "avif/short-blue-and-gold-line-end-scroll-bar-256.avif",
+            "sha256": "455654b82da16226ca5cfa50b3b7658462b89210a51ccc1b9bb727eea0f6a8f6",
+            "w": 256
+          },
+          {
+            "bytes": 14929,
+            "h": 145,
+            "path": "avif/short-blue-and-gold-line-end-scroll-bar-384.avif",
+            "sha256": "05d9a0b7748a377ec48df8fbb9e8658d7eec245092356213814dd1053292f49c",
+            "w": 384
+          },
+          {
+            "bytes": 16266,
+            "h": 167,
+            "path": "avif/short-blue-and-gold-line-end-scroll-bar-441.avif",
+            "sha256": "e0c31b2a605bf287a242c11e3448ee62836a71df5a060d6fe9695eb73e7a256f",
+            "w": 441
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2056,
+            "h": 24,
+            "path": "webp/short-blue-and-gold-line-end-scroll-bar-64.webp",
+            "sha256": "a71eaadf5a0dd5bff4e253eb62f8f2e3f0b292a37635e6e65aff6cd9082032d1",
+            "w": 64
+          },
+          {
+            "bytes": 3884,
+            "h": 36,
+            "path": "webp/short-blue-and-gold-line-end-scroll-bar-96.webp",
+            "sha256": "d180adad383811f01643431661c03cd1ea511513dbf82c2b7999a4d526a8d0c0",
+            "w": 96
+          },
+          {
+            "bytes": 5596,
+            "h": 48,
+            "path": "webp/short-blue-and-gold-line-end-scroll-bar-128.webp",
+            "sha256": "96fb893f86811d1199a5a2f8685ef92bbd288e5c9883e5ccb9d03961fdec394b",
+            "w": 128
+          },
+          {
+            "bytes": 10412,
+            "h": 73,
+            "path": "webp/short-blue-and-gold-line-end-scroll-bar-192.webp",
+            "sha256": "3e5ca67f87bdde850ce956027afdcc5bba1ad0827c2edc36b4ea618bad09b0fc",
+            "w": 192
+          },
+          {
+            "bytes": 15446,
+            "h": 97,
+            "path": "webp/short-blue-and-gold-line-end-scroll-bar-256.webp",
+            "sha256": "cbe816eb357a84762da65042e7bcb8f4ecb9d89212d56f5cd0fd0b45576f6316",
+            "w": 256
+          },
+          {
+            "bytes": 26558,
+            "h": 145,
+            "path": "webp/short-blue-and-gold-line-end-scroll-bar-384.webp",
+            "sha256": "ad1b842b28e85e7171dc16779363e66bb1e583613c085047cb67db4b124490a8",
+            "w": 384
+          },
+          {
+            "bytes": 23110,
+            "h": 167,
+            "path": "webp/short-blue-and-gold-line-end-scroll-bar-441.webp",
+            "sha256": "edf2301cd4376dfe68ec237fb6a26d9f1677c47145d31185568753cb5cd47602",
+            "w": 441
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "line-filler",
+        "flourish"
+      ],
+      "thumbhash": "2+eFEoImbIeMhlBqjaDWCFdXY4lgmjk=",
+      "title": "Blue and gold line filler, short",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Fills the end of a text line; scale it to the line height with the gold band at the top. long-blue-and-gold-line-end-scroll-bar is the three-segment version."
+      ],
+      "width": 441
+    },
+    "small-blue-and-gold-four-point-line-end-floret": {
+      "categories": [
+        "geometric"
+      ],
+      "colors": [
+        "gold",
+        "blue"
+      ],
+      "composition": "single-ornament",
+      "description": "A tiny four-pointed floret of gold leaf with blue paint between the arms, of the kind that closes a short text line. The gold is lumpy and cracked and the outline is soft; the background is transparent.",
+      "display_width": [
+        32,
+        65
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 5068,
+        "webpTopBytes": 7422
+      },
+      "facing": "none",
+      "group": null,
+      "height": 131,
+      "master": {
+        "bytes": 20292,
+        "h": 131,
+        "path": "masters/small-blue-and-gold-four-point-line-end-floret.webp",
+        "sha256": "bed82a4071695b2f5ec8e7e7e6243b6f699b72741cba8ea9eac275b7a78285d8",
+        "w": 131
+      },
+      "palette": [
+        "#9e8250",
+        "#d4a250",
+        "#345a6e",
+        "#f4cc82",
+        "#e2b366"
+      ],
+      "provenance": {
+        "artist": "Boethius Illuminator (Flemish, active c. 1414–20)",
+        "date": "c. 1410–20",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2014.22.a",
+        "object_title": "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)",
+        "record_url": "https://clevelandart.org/art/2014.22.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470"
+      },
+      "quality": "Only 131 px square, so it blurs when enlarged, and the outline is soft at partial alpha.",
+      "related": [
+        {
+          "asset": "cma-2014-22/long-blue-and-gold-line-end-scroll-bar",
+          "role": "companion"
+        },
+        {
+          "asset": "cma-2014-22/short-blue-and-gold-line-end-scroll-bar",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2880,
+            "h": 64,
+            "path": "avif/small-blue-and-gold-four-point-line-end-floret-64.avif",
+            "sha256": "e23df65c1f2c120b3acd75de4ab05d1578ce928613f437993f87cdcd92fb4229",
+            "w": 64
+          },
+          {
+            "bytes": 4496,
+            "h": 96,
+            "path": "avif/small-blue-and-gold-four-point-line-end-floret-96.avif",
+            "sha256": "ad537cb5c5338927943adb089f764e34a4e1821bcca68c550ca852583006e3d9",
+            "w": 96
+          },
+          {
+            "bytes": 5590,
+            "h": 128,
+            "path": "avif/small-blue-and-gold-four-point-line-end-floret-128.avif",
+            "sha256": "f4a9e1da42444f6b93c4a0ec9f33499ece6a05bb59f7d124728ec09983ba457b",
+            "w": 128
+          },
+          {
+            "bytes": 5068,
+            "h": 131,
+            "path": "avif/small-blue-and-gold-four-point-line-end-floret-131.avif",
+            "sha256": "18834f4bc8cb1de38080f5bc48f9fb616ad552ec9259869e9c96b693ee28b3f2",
+            "w": 131
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3968,
+            "h": 64,
+            "path": "webp/small-blue-and-gold-four-point-line-end-floret-64.webp",
+            "sha256": "b2ff72e36ad31e345b716958553a3c62228451a85cd83c7bd2f522b935421d20",
+            "w": 64
+          },
+          {
+            "bytes": 6794,
+            "h": 96,
+            "path": "webp/small-blue-and-gold-four-point-line-end-floret-96.webp",
+            "sha256": "0d27c13bec8a2e13bd4640ccc9cbda76c8a3fbff75a7ed16f556076660582314",
+            "w": 96
+          },
+          {
+            "bytes": 9632,
+            "h": 128,
+            "path": "webp/small-blue-and-gold-four-point-line-end-floret-128.webp",
+            "sha256": "f16e3499472892c9be54baa1a8eeb3295056fee656bd6f807f598a4577ae82e5",
+            "w": 128
+          },
+          {
+            "bytes": 7422,
+            "h": 131,
+            "path": "webp/small-blue-and-gold-four-point-line-end-floret-131.webp",
+            "sha256": "e9bce8321730589a04b5adff273e9bcb20db64672a818caf9620c53ecd928842",
+            "w": 131
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "line-filler",
+        "fleuron"
+      ],
+      "thumbhash": "4SmGFQIm9QtnmIBp6vZncH8HOEpoh3CHKQ==",
+      "title": "Blue and gold line-end floret",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Use at text size as a line-end mark or bullet; the two line-filler bars are its companions from the same text block."
+      ],
+      "width": 131
+    },
+    "upper-left-red-and-blue-acanthus-branch": {
+      "categories": [
+        "floral",
+        "scrollwork",
+        "animals"
+      ],
+      "colors": [
+        "red",
+        "blue",
+        "gold",
+        "green",
+        "pink"
+      ],
+      "composition": "single-ornament",
+      "description": "The top-left corner plant of the border. From a pink bud with a blue calyx at the bottom, red and blue acanthus stems fan upward and out to both sides, their leaves curling into dotted scrolls, the right-hand stem ending in a green knot with a red tip. A small gold bird perches on the left stem facing left. The paint is thick and speckled; the leftmost leaves are cut flat at the trimmed page edge. The background is transparent.",
+      "display_width": [
+        240,
+        680
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 188642,
+        "webpTopBytes": 326708
+      },
+      "facing": "up",
+      "group": null,
+      "height": 1091,
+      "master": {
+        "bytes": 1098696,
+        "h": 1091,
+        "path": "masters/upper-left-red-and-blue-acanthus-branch.webp",
+        "sha256": "98bad253059175f27806472aecf7c9db580e308f5b6e16317814278b86198948",
+        "w": 1369
+      },
+      "palette": [
+        "#b95432",
+        "#2b62a4",
+        "#c5401a",
+        "#756055",
+        "#114184"
+      ],
+      "provenance": {
+        "artist": "Boethius Illuminator (Flemish, active c. 1414–20)",
+        "date": "c. 1410–20",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "2014.22.a",
+        "object_title": "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)",
+        "record_url": "https://clevelandart.org/art/2014.22.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470"
+      },
+      "quality": "AI-assisted extraction; the interior sits at alpha 252–253 rather than 255 (invisible in use), and the left edge is a flat cut at the page edge.",
+      "related": [
+        {
+          "asset": "cma-2014-22/flowered-u-page-border",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2014-22/upper-right-pink-flowers-on-green-leaf-sprays",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3073,
+            "h": 51,
+            "path": "avif/upper-left-red-and-blue-acanthus-branch-64.avif",
+            "sha256": "9e46b78c0c59099278788d4f9c251d7088f41d836a0134900664c4f7d801207a",
+            "w": 64
+          },
+          {
+            "bytes": 5402,
+            "h": 77,
+            "path": "avif/upper-left-red-and-blue-acanthus-branch-96.avif",
+            "sha256": "c9f03196fabf444baf895a916254e01134c3548a51f46614e67fd0f0bb72c1cd",
+            "w": 96
+          },
+          {
+            "bytes": 7450,
+            "h": 102,
+            "path": "avif/upper-left-red-and-blue-acanthus-branch-128.avif",
+            "sha256": "ab7539a13280e227fb1f5540d62a96820628bf441b17cfdeed724ae3ccccc302",
+            "w": 128
+          },
+          {
+            "bytes": 12455,
+            "h": 153,
+            "path": "avif/upper-left-red-and-blue-acanthus-branch-192.avif",
+            "sha256": "a4ff5527842f6b591a70c247ede798426339611d10270d6ce3910b4470fae80c",
+            "w": 192
+          },
+          {
+            "bytes": 18042,
+            "h": 204,
+            "path": "avif/upper-left-red-and-blue-acanthus-branch-256.avif",
+            "sha256": "353b7c511689ae78496f5636ec485197d2b0dae950fb93796d532ea54667e7e2",
+            "w": 256
+          },
+          {
+            "bytes": 31789,
+            "h": 306,
+            "path": "avif/upper-left-red-and-blue-acanthus-branch-384.avif",
+            "sha256": "9eb4b917c2ccc30645481db6d612fe05d75cac48e72ba90320e24ef66d97fdc8",
+            "w": 384
+          },
+          {
+            "bytes": 47220,
+            "h": 408,
+            "path": "avif/upper-left-red-and-blue-acanthus-branch-512.avif",
+            "sha256": "e72360988217f96ea8c43c99b2db51fea6299bf610e9d9cd5574e26b1a57daaa",
+            "w": 512
+          },
+          {
+            "bytes": 84346,
+            "h": 612,
+            "path": "avif/upper-left-red-and-blue-acanthus-branch-768.avif",
+            "sha256": "28cc9bf7f8a71b597587ae039287d60136501f1d0b8f754465401a8af0def812",
+            "w": 768
+          },
+          {
+            "bytes": 126183,
+            "h": 816,
+            "path": "avif/upper-left-red-and-blue-acanthus-branch-1024.avif",
+            "sha256": "c20db543e684a84b81cb129d64d63570ad0a526d6c67933bb5c75f37e1a22ce8",
+            "w": 1024
+          },
+          {
+            "bytes": 188642,
+            "h": 1091,
+            "path": "avif/upper-left-red-and-blue-acanthus-branch-1369.avif",
+            "sha256": "3833a849c7d1c7061c5a9321d83b55be7a24ccfc8e0207ecf9df5913107e76a3",
+            "w": 1369
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3470,
+            "h": 51,
+            "path": "webp/upper-left-red-and-blue-acanthus-branch-64.webp",
+            "sha256": "2b0722f1ef314ec9f6f663b1148a139e0364c83ef6d464b1b992fcd6fc2715cf",
+            "w": 64
+          },
+          {
+            "bytes": 6494,
+            "h": 77,
+            "path": "webp/upper-left-red-and-blue-acanthus-branch-96.webp",
+            "sha256": "0774f9ed75065492a1f719c469ad05764b72c8aa7dcb204bb09855df3585cf61",
+            "w": 96
+          },
+          {
+            "bytes": 9934,
+            "h": 102,
+            "path": "webp/upper-left-red-and-blue-acanthus-branch-128.webp",
+            "sha256": "79efd56c45efcf7e2ff38fce85ff0ba494cbfc3d2ae4001453b18324c21f34ea",
+            "w": 128
+          },
+          {
+            "bytes": 17988,
+            "h": 153,
+            "path": "webp/upper-left-red-and-blue-acanthus-branch-192.webp",
+            "sha256": "8f2ecfd963788fb1b74fc7ceb8b9c372008784fccc0ad566043cb2d040851b57",
+            "w": 192
+          },
+          {
+            "bytes": 27236,
+            "h": 204,
+            "path": "webp/upper-left-red-and-blue-acanthus-branch-256.webp",
+            "sha256": "60b83382b905641c0f721ac9a572d686a8e0d45dc5f02d488c39a43f9505b7e2",
+            "w": 256
+          },
+          {
+            "bytes": 48722,
+            "h": 306,
+            "path": "webp/upper-left-red-and-blue-acanthus-branch-384.webp",
+            "sha256": "f6229fce1e6ebcc20461c47a313b1b78f6357868e76663e8602be2dfe9d65840",
+            "w": 384
+          },
+          {
+            "bytes": 73968,
+            "h": 408,
+            "path": "webp/upper-left-red-and-blue-acanthus-branch-512.webp",
+            "sha256": "d8b374ee6ee1624daadb53d99167e451f9f171909c25dfe31f08c9449197c7cb",
+            "w": 512
+          },
+          {
+            "bytes": 138430,
+            "h": 612,
+            "path": "webp/upper-left-red-and-blue-acanthus-branch-768.webp",
+            "sha256": "1fd23b2968bd4542b50f08b2369660f78af006d940db5d410f0650fc24bf98d0",
+            "w": 768
+          },
+          {
+            "bytes": 217414,
+            "h": 816,
+            "path": "webp/upper-left-red-and-blue-acanthus-branch-1024.webp",
+            "sha256": "9d8348a176cce0cf679da8c601b8b5ddaec6acd328d6f21d813b8f7f5c229273",
+            "w": 1024
+          },
+          {
+            "bytes": 326708,
+            "h": 1091,
+            "path": "webp/upper-left-red-and-blue-acanthus-branch-1369.webp",
+            "sha256": "f319327718a900df4edffc5a6af396d335db258547bd03a2d2076572bfa3585b",
+            "w": 1369
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "acanthus",
+        "leaf",
+        "scroll",
+        "stem",
+        "bud",
+        "bird"
+      ],
+      "thumbhash": "WFiCDIIVjzFwiDJB2a8476vzcreUG6WmAg==",
+      "title": "Red and blue acanthus branch with a gold bird",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Top-left corner plant; the bud at the bottom is where the border's vertical chain starts, so it sits naturally on top of a vertical run of blue-cup-and-burst-flowers-on-stem. upper-right-pink-flowers-on-green-leaf-sprays is its counterpart at the other top corner."
+      ],
+      "width": 1369
+    },
+    "upper-right-pink-flowers-on-green-leaf-sprays": {
+      "categories": [
+        "floral",
+        "botanical"
+      ],
+      "colors": [
+        "green",
+        "pink",
+        "red",
+        "blue"
+      ],
+      "composition": "single-ornament",
+      "description": "The top-right corner plant of the border. A bushy plant of long, ribbed green leaves spreads from an orange-red pot and carries four pinkish-violet four-petalled flowers along the top and a pink bud at the right; under the pot a blue cornflower bloom marks where the border's vertical chain begins. The green is thin and speckled with the parchment tone; the background is transparent.",
+      "display_width": [
+        240,
+        680
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 199744,
+        "webpTopBytes": 342228
+      },
+      "facing": "up",
+      "group": null,
+      "height": 1033,
+      "master": {
+        "bytes": 1192006,
+        "h": 1033,
+        "path": "masters/upper-right-pink-flowers-on-green-leaf-sprays.webp",
+        "sha256": "aad9fe538707dc6ad347e4391e478cb6becae8bcd72a692b1d0c5e2f87f887f5",
+        "w": 1365
+      },
+      "palette": [
+        "#5f9771",
+        "#6fa16e",
+        "#628450",
+        "#964131",
+        "#97766e"
+      ],
+      "provenance": {
+        "artist": "Boethius Illuminator (Flemish, active c. 1414–20)",
+        "date": "c. 1410–20",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "2014.22.a",
+        "object_title": "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)",
+        "record_url": "https://clevelandart.org/art/2014.22.a",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470"
+      },
+      "quality": "AI-assisted extraction; the interior sits at alpha 252–253 rather than 255 (invisible in use) and the thin green paint keeps the parchment tone.",
+      "related": [
+        {
+          "asset": "cma-2014-22/flowered-u-page-border",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2014-22/upper-left-red-and-blue-acanthus-branch",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3052,
+            "h": 48,
+            "path": "avif/upper-right-pink-flowers-on-green-leaf-sprays-64.avif",
+            "sha256": "cbe5125880d8e3876bf9e4c7d95f282e2957ac77fcd66f2e865cce403d9af974",
+            "w": 64
+          },
+          {
+            "bytes": 5180,
+            "h": 73,
+            "path": "avif/upper-right-pink-flowers-on-green-leaf-sprays-96.avif",
+            "sha256": "01754de81de5f1a4969276d9c3aa44356dcac2253bebcbbec6b14d3a0fa358ce",
+            "w": 96
+          },
+          {
+            "bytes": 7485,
+            "h": 97,
+            "path": "avif/upper-right-pink-flowers-on-green-leaf-sprays-128.avif",
+            "sha256": "11df794b6ad14c0e8f0f67956252e8a0745cd58780a46171f7eb2c42f3dc235c",
+            "w": 128
+          },
+          {
+            "bytes": 12117,
+            "h": 145,
+            "path": "avif/upper-right-pink-flowers-on-green-leaf-sprays-192.avif",
+            "sha256": "af63a7e4af61bd7858d682f666a3fb9bf7ec4fe3a55aad7d0b071a389476aabc",
+            "w": 192
+          },
+          {
+            "bytes": 17407,
+            "h": 194,
+            "path": "avif/upper-right-pink-flowers-on-green-leaf-sprays-256.avif",
+            "sha256": "66c58c69ef14cb06181b676ede1bbd63e7a0a55f0795dbeda5fa8e033696b0f6",
+            "w": 256
+          },
+          {
+            "bytes": 29871,
+            "h": 291,
+            "path": "avif/upper-right-pink-flowers-on-green-leaf-sprays-384.avif",
+            "sha256": "57bc43093b8197c8b4175d4573b008ca2a7e7f35809a6de456c79480e82e6b85",
+            "w": 384
+          },
+          {
+            "bytes": 45389,
+            "h": 387,
+            "path": "avif/upper-right-pink-flowers-on-green-leaf-sprays-512.avif",
+            "sha256": "747fa871f4c721ef62acdba8ce8a13910a1bd213a708049c5b5575edd5f888d1",
+            "w": 512
+          },
+          {
+            "bytes": 84531,
+            "h": 581,
+            "path": "avif/upper-right-pink-flowers-on-green-leaf-sprays-768.avif",
+            "sha256": "377d91c03623cc5becefd606ce952c560bf2697292af94e6ed2aaacfcb1088f7",
+            "w": 768
+          },
+          {
+            "bytes": 130625,
+            "h": 775,
+            "path": "avif/upper-right-pink-flowers-on-green-leaf-sprays-1024.avif",
+            "sha256": "888e4764c7f5957a94d6235587a8afecf1268a2ec2e3c4d09ef43b4b81dfcfec",
+            "w": 1024
+          },
+          {
+            "bytes": 199744,
+            "h": 1033,
+            "path": "avif/upper-right-pink-flowers-on-green-leaf-sprays-1365.avif",
+            "sha256": "4464a21963d9147366f8e72b9e5040954886f94b6a8ce92b5a5db9064bae348b",
+            "w": 1365
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3344,
+            "h": 48,
+            "path": "webp/upper-right-pink-flowers-on-green-leaf-sprays-64.webp",
+            "sha256": "54db646ed8ad33a7ccdea522fc027a2bf4860ec301b4b24c8fcab0891520d029",
+            "w": 64
+          },
+          {
+            "bytes": 6218,
+            "h": 73,
+            "path": "webp/upper-right-pink-flowers-on-green-leaf-sprays-96.webp",
+            "sha256": "4f39faa25c6769b5048495811adf0c54802d9a2b9e1186fbff40e2a94bc11981",
+            "w": 96
+          },
+          {
+            "bytes": 9688,
+            "h": 97,
+            "path": "webp/upper-right-pink-flowers-on-green-leaf-sprays-128.webp",
+            "sha256": "fe42cd3673afe038b6754a6746b0fb7611b986d17cbced252e143f858739e24e",
+            "w": 128
+          },
+          {
+            "bytes": 17978,
+            "h": 145,
+            "path": "webp/upper-right-pink-flowers-on-green-leaf-sprays-192.webp",
+            "sha256": "919069ed8a2eddc082a0b55bc10306ad147d9c89835fee843c1fa2ffef88eda4",
+            "w": 192
+          },
+          {
+            "bytes": 27180,
+            "h": 194,
+            "path": "webp/upper-right-pink-flowers-on-green-leaf-sprays-256.webp",
+            "sha256": "88bc72be48985992ce886a991c0f98437ceafb1b205ec015a5f8706434bb631a",
+            "w": 256
+          },
+          {
+            "bytes": 48600,
+            "h": 291,
+            "path": "webp/upper-right-pink-flowers-on-green-leaf-sprays-384.webp",
+            "sha256": "29b50367ac5b8feeaf3149c5a6153295573296eeb7f568cedd199d1bd9a0c225",
+            "w": 384
+          },
+          {
+            "bytes": 76820,
+            "h": 387,
+            "path": "webp/upper-right-pink-flowers-on-green-leaf-sprays-512.webp",
+            "sha256": "70b5ee6291245f15c511a6c645ccfb93d198dbe947bdcf44b49a04de2954e176",
+            "w": 512
+          },
+          {
+            "bytes": 147568,
+            "h": 581,
+            "path": "webp/upper-right-pink-flowers-on-green-leaf-sprays-768.webp",
+            "sha256": "1baa22db2ee747c5f551276870cd2e91d32f5b1d56de5cc602a999f7e633a697",
+            "w": 768
+          },
+          {
+            "bytes": 231028,
+            "h": 775,
+            "path": "webp/upper-right-pink-flowers-on-green-leaf-sprays-1024.webp",
+            "sha256": "38aad857703f00c3021bc08f1901d673767ebf3f38ea5143329d84cb5dc0326c",
+            "w": 1024
+          },
+          {
+            "bytes": 342228,
+            "h": 1033,
+            "path": "webp/upper-right-pink-flowers-on-green-leaf-sprays-1365.webp",
+            "sha256": "490d317a27ddb3a4ea4340e412a61f609eb57fe83079d471946cd7070a699d54",
+            "w": 1365
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "flower",
+        "plant",
+        "leaf",
+        "pot",
+        "cornflower",
+        "bud"
+      ],
+      "thumbhash": "3NiBBIQmmTV+ooBLlzAVd3hfgKeYJ5dnBA==",
+      "title": "Potted plant with pink four-petalled flowers",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Top-right corner plant; the cornflower under the pot lets it sit on top of a vertical run of blue-cup-and-burst-flowers-on-stem. upper-left-red-and-blue-acanthus-branch is its counterpart at the other top corner."
+      ],
+      "width": 1365
+    }
+  },
+  "attribution": "Cleveland Museum of Art 2014.22.a",
+  "builtAt": "2026-10-30T12:42:52.296Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-cma-2014-22@1.0.0/",
+  "contentHash": "sha256:8f5d4a719d7e854e2f0b0e6ec9cd0b2aee3627b50eb304df7390c56e70d65872",
+  "inputsHash": "sha256:9f7eeadde56ed4d4b0192ef92925188b45b289d2931d4f6e2dc626fc2a2c4518",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from Cleveland Museum of Art open access (CC0) images; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-cma-2014-22-masters",
+  "package": "@ranx729/ducktape-assets-cma-2014-22",
+  "period": "c. 1410–1420",
+  "region": "Paris (?), France",
+  "schema": 1,
+  "set": "cma-2014-22",
+  "style": "late Gothic illumination",
+  "summary": "The angel, shepherds, flock, night landscape and the flowered border pieces of a Book of Hours leaf painted by the Boethius Illuminator in Paris (?) about 1410–1420, in the Cleveland Museum of Art.",
+  "title": "Cleveland 2014.22, Annunciation to the Shepherds leaf",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

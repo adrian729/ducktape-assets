@@ -1,0 +1,1114 @@
+{
+  "assets": {
+    "blue-clad-man-pulling-ornamental-stem": {
+      "categories": [
+        "humans"
+      ],
+      "colors": [
+        "blue",
+        "orange",
+        "white",
+        "black"
+      ],
+      "composition": "single-figure",
+      "description": "A full-length man in a blue tunic and a white coif, with orange hose and shoes, bends sideways with his head tilted to the right and his left hand on his hip while his right arm reaches over his head to grip a stem; only a small cream stub of the stem remains above his hand. Black outlines, pale pink face with red cheeks, white highlights on the folds. Cut from the foliate extension of the initial P; the background is transparent.",
+      "display_width": [
+        150,
+        500
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 61514,
+        "webpTopBytes": 120286
+      },
+      "facing": "right",
+      "group": null,
+      "height": 1020,
+      "master": {
+        "bytes": 444130,
+        "h": 1020,
+        "path": "masters/blue-clad-man-pulling-ornamental-stem.webp",
+        "sha256": "97a445f18b44aa110394b418993ef10136e66bcabb49f503d84b0a543a0d735b",
+        "w": 531
+      },
+      "palette": [
+        "#bc7f5d",
+        "#473c38",
+        "#5c676f",
+        "#7f6251",
+        "#7b8a95"
+      ],
+      "provenance": {
+        "artist": "William de Brailes (English, active c. 1230)",
+        "date": "c. 1230–40",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2011.53/2011.53_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "2011.53",
+        "object_title": "Leaf from a Latin Bible: Initial P: St. Paul with a Sword and a Book",
+        "record_url": "https://clevelandart.org/art/2011.53",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "339f458fcefdd83b3d639457e032e242affa25c3248b5f218791f7da5ab04fb2"
+      },
+      "quality": "AI-assisted extraction; the stem the figure held is cut off just above the hand.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3087,
+            "h": 123,
+            "path": "avif/blue-clad-man-pulling-ornamental-stem-64.avif",
+            "sha256": "a79334ca5a17488a14228d907c26106b3d7f21148fc4ff05c57efa10d7112454",
+            "w": 64
+          },
+          {
+            "bytes": 5349,
+            "h": 184,
+            "path": "avif/blue-clad-man-pulling-ornamental-stem-96.avif",
+            "sha256": "424774c45cde07ec3f7aa5eb0a258a588195c20f493c7bd2bc4e7376017632a1",
+            "w": 96
+          },
+          {
+            "bytes": 7788,
+            "h": 246,
+            "path": "avif/blue-clad-man-pulling-ornamental-stem-128.avif",
+            "sha256": "67be5338bd08073de4f1da89f181422fb07d1dfb7aa1a2f872f70ce5b1ce5ce1",
+            "w": 128
+          },
+          {
+            "bytes": 13372,
+            "h": 369,
+            "path": "avif/blue-clad-man-pulling-ornamental-stem-192.avif",
+            "sha256": "5d7da6ee5c82767d23ceabde2fa680b8b95e567234db7520487863a63fee945e",
+            "w": 192
+          },
+          {
+            "bytes": 20655,
+            "h": 492,
+            "path": "avif/blue-clad-man-pulling-ornamental-stem-256.avif",
+            "sha256": "6ff5b0874c24c074101d81754b9490de3930fbdaba3a25cccf2d50e729402794",
+            "w": 256
+          },
+          {
+            "bytes": 38726,
+            "h": 738,
+            "path": "avif/blue-clad-man-pulling-ornamental-stem-384.avif",
+            "sha256": "66fd963e807da073037294916255d836bbe8b1ecd58a5b5991b8c243a0ace8d4",
+            "w": 384
+          },
+          {
+            "bytes": 57361,
+            "h": 984,
+            "path": "avif/blue-clad-man-pulling-ornamental-stem-512.avif",
+            "sha256": "9c0e3b5d4409e875c62c034f1a6d424e04bc74fa4d1f95a3ae74002b497bec08",
+            "w": 512
+          },
+          {
+            "bytes": 61514,
+            "h": 1020,
+            "path": "avif/blue-clad-man-pulling-ornamental-stem-531.avif",
+            "sha256": "9a35aaf3f0a487e977af726c29ce4053360195f4d9ba8993fa20640058adc1fe",
+            "w": 531
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 5106,
+            "h": 123,
+            "path": "webp/blue-clad-man-pulling-ornamental-stem-64.webp",
+            "sha256": "75d14933aec9c935ae6c1a2fc4753ed7498537888e4a3413cdad28eedacb2df7",
+            "w": 64
+          },
+          {
+            "bytes": 9170,
+            "h": 184,
+            "path": "webp/blue-clad-man-pulling-ornamental-stem-96.webp",
+            "sha256": "5f5e5b07e74f93492eab53658aacdc9d1c281415c1276f2d653bd920af87ce9c",
+            "w": 96
+          },
+          {
+            "bytes": 13586,
+            "h": 246,
+            "path": "webp/blue-clad-man-pulling-ornamental-stem-128.webp",
+            "sha256": "6e474377e7fe581813149e5ed7e5ead83f1ce4471a93c76f665af8e70b6a0fc2",
+            "w": 128
+          },
+          {
+            "bytes": 24698,
+            "h": 369,
+            "path": "webp/blue-clad-man-pulling-ornamental-stem-192.webp",
+            "sha256": "7291deb5b59b5af8d1ffb7cfca62b4b6c2f5e216c8f9f0576cf713f22808cdf1",
+            "w": 192
+          },
+          {
+            "bytes": 38022,
+            "h": 492,
+            "path": "webp/blue-clad-man-pulling-ornamental-stem-256.webp",
+            "sha256": "5ceffa032a98b5b2624d738d26874b7930fdd276751caf3b23d9c9366c001f01",
+            "w": 256
+          },
+          {
+            "bytes": 73014,
+            "h": 738,
+            "path": "webp/blue-clad-man-pulling-ornamental-stem-384.webp",
+            "sha256": "a28f3857646e669e7b210fe97f4df68e3cb2f1de952621697b76e7f59369e7ca",
+            "w": 384
+          },
+          {
+            "bytes": 114702,
+            "h": 984,
+            "path": "webp/blue-clad-man-pulling-ornamental-stem-512.webp",
+            "sha256": "339e0a23dd1c057a19ec1d1541797d1e00a594dfe7f7c66389a51abb78c4eff3",
+            "w": 512
+          },
+          {
+            "bytes": 120286,
+            "h": 1020,
+            "path": "webp/blue-clad-man-pulling-ornamental-stem-531.webp",
+            "sha256": "005a334e534c18d1b23294eb0955222ab5e286d1d50cf2ec01fb82b79a96bfdd",
+            "w": 531
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "man",
+        "hood",
+        "robe",
+        "drollery"
+      ],
+      "thumbhash": "miiCCwImUm/1eAaGUG4I5QtVW5Y0SVc=",
+      "title": "Man in blue tunic hauling on a stem overhead",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The raised arm ends in a short stub of the stem it pulled on; hang the figure from a vine or border end to make sense of the pose."
+      ],
+      "view": "three-quarter",
+      "width": 531
+    },
+    "left-tan-robed-man-visible-half-figure": {
+      "categories": [
+        "humans"
+      ],
+      "colors": [
+        "tan",
+        "red",
+        "cream",
+        "brown"
+      ],
+      "composition": "single-figure",
+      "description": "A half-length man in a tan robe and a flat red cap, turned to the right, holding both hands up before him with the index fingers raised in speech. Brown curls, a short beard and a pale face outlined in black. The figure ends at the thighs where the gold ground of the initial stopped. Cut from the left half of the two-figure scene; the background is transparent.",
+      "display_width": [
+        80,
+        250
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 17379,
+        "webpTopBytes": 32422
+      },
+      "facing": "right",
+      "group": null,
+      "height": 460,
+      "master": {
+        "bytes": 107532,
+        "h": 460,
+        "path": "masters/left-tan-robed-man-visible-half-figure.webp",
+        "sha256": "c8ba295cc13c91f50565124e493cd94c7c8ec33747ea99f04780596fbf7b614d",
+        "w": 259
+      },
+      "palette": [
+        "#775b4b",
+        "#caa68a",
+        "#3f322c",
+        "#a07259",
+        "#b38a6e"
+      ],
+      "provenance": {
+        "artist": "William de Brailes (English, active c. 1230)",
+        "date": "c. 1230–40",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2011.53/2011.53_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "2011.53",
+        "object_title": "Leaf from a Latin Bible: Initial P: St. Paul with a Sword and a Book",
+        "record_url": "https://clevelandart.org/art/2011.53",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "339f458fcefdd83b3d639457e032e242affa25c3248b5f218791f7da5ab04fb2"
+      },
+      "quality": "AI-assisted extraction; the figure is truncated at the thighs as painted.",
+      "related": [
+        {
+          "asset": "cma-2011-53/two-facing-men-on-gold-with-central-tan-band",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2011-53/right-blue-red-robed-man-visible-half-figure",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2603,
+            "h": 114,
+            "path": "avif/left-tan-robed-man-visible-half-figure-64.avif",
+            "sha256": "25721703645c33237952c269a9ed20447c6d5fcee2b95a3dd532868b21c594a4",
+            "w": 64
+          },
+          {
+            "bytes": 4277,
+            "h": 171,
+            "path": "avif/left-tan-robed-man-visible-half-figure-96.avif",
+            "sha256": "822de21575d0d1ac1d836c6693dbbb0c8162ccc6583eaf0a37801df2705a692b",
+            "w": 96
+          },
+          {
+            "bytes": 6290,
+            "h": 227,
+            "path": "avif/left-tan-robed-man-visible-half-figure-128.avif",
+            "sha256": "54fc4e9323d891c852f660c7ffaf6fba39d9273c66f8fa36678b33c1508300a9",
+            "w": 128
+          },
+          {
+            "bytes": 10537,
+            "h": 341,
+            "path": "avif/left-tan-robed-man-visible-half-figure-192.avif",
+            "sha256": "c2b831e3bacaa5fe7c85474f086d4da2d6ac85702ec6152abb320085f812b3de",
+            "w": 192
+          },
+          {
+            "bytes": 16002,
+            "h": 455,
+            "path": "avif/left-tan-robed-man-visible-half-figure-256.avif",
+            "sha256": "62141dbc0c1439133ccd30444626d05b8b8f7c12d196694b1bd970ae4f42dcb3",
+            "w": 256
+          },
+          {
+            "bytes": 17379,
+            "h": 460,
+            "path": "avif/left-tan-robed-man-visible-half-figure-259.avif",
+            "sha256": "38038fc2cea809e5b1d18e79819456ae869efb03e906efe3b7da433fef5c8677",
+            "w": 259
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4546,
+            "h": 114,
+            "path": "webp/left-tan-robed-man-visible-half-figure-64.webp",
+            "sha256": "25693db0cf4d243dcc8b2d4fe994bb67940b929fa95a5978f53d7c16b33db0b8",
+            "w": 64
+          },
+          {
+            "bytes": 7978,
+            "h": 171,
+            "path": "webp/left-tan-robed-man-visible-half-figure-96.webp",
+            "sha256": "c9694acd54e794c52ac9f6faa569b1c8d3741fb34d0fe3d6fd3ca8e59aab168c",
+            "w": 96
+          },
+          {
+            "bytes": 11654,
+            "h": 227,
+            "path": "webp/left-tan-robed-man-visible-half-figure-128.webp",
+            "sha256": "646be041d3020d0eea2dcfb743adeadd62cc897f9b1bd49726c60ab10c1a16bb",
+            "w": 128
+          },
+          {
+            "bytes": 21006,
+            "h": 341,
+            "path": "webp/left-tan-robed-man-visible-half-figure-192.webp",
+            "sha256": "f4bde8c7dd59eaf617c076cf3b87e9ccf8daa4418f9a59f8ed2750540e63ec66",
+            "w": 192
+          },
+          {
+            "bytes": 32314,
+            "h": 455,
+            "path": "webp/left-tan-robed-man-visible-half-figure-256.webp",
+            "sha256": "c766f956591515ba200d799cd3312f9b8cf75db6a6019336d9c047fea1374f8d",
+            "w": 256
+          },
+          {
+            "bytes": 32422,
+            "h": 460,
+            "path": "webp/left-tan-robed-man-visible-half-figure-259.webp",
+            "sha256": "fb8d0f2d92b6a16c7f47276b6e7e429cc230b07665b25b306899eb00e7e4904f",
+            "w": 259
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "man",
+        "cap",
+        "robe",
+        "beard"
+      ],
+      "thumbhash": "HDmCAwA3P2ozEWMOeMzE+g1Rh3mFaJg=",
+      "title": "Half-length man in tan robe gesturing right",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Pairs with right-blue-red-robed-man-visible-half-figure at the same scale, facing each other as in two-facing-men-on-gold-with-central-tan-band; the body ends at the thighs, so stand it behind a band or edge."
+      ],
+      "view": "three-quarter",
+      "width": 259
+    },
+    "right-blue-red-robed-man-visible-half-figure": {
+      "categories": [
+        "humans"
+      ],
+      "colors": [
+        "blue",
+        "orange",
+        "tan",
+        "brown"
+      ],
+      "composition": "single-figure",
+      "description": "A half-length man turned to the left with his face raised, in an orange-red mantle over a dark blue robe, his right hand laid flat on his chest. Brown curls, a short beard and a pale face outlined in black. The figure ends at the hips where the gold ground of the initial stopped. Cut from the right half of the two-figure scene; the background is transparent.",
+      "display_width": [
+        70,
+        210
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 17394,
+        "webpTopBytes": 30892
+      },
+      "facing": "left",
+      "group": null,
+      "height": 405,
+      "master": {
+        "bytes": 108914,
+        "h": 405,
+        "path": "masters/right-blue-red-robed-man-visible-half-figure.webp",
+        "sha256": "0ded71d3a0b471880f9eced03d867736b1c5716888c46d12577dc7892de6802f",
+        "w": 212
+      },
+      "palette": [
+        "#383943",
+        "#ab6547",
+        "#cfa58c",
+        "#6f5142",
+        "#988173"
+      ],
+      "provenance": {
+        "artist": "William de Brailes (English, active c. 1230)",
+        "date": "c. 1230–40",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2011.53/2011.53_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "2011.53",
+        "object_title": "Leaf from a Latin Bible: Initial P: St. Paul with a Sword and a Book",
+        "record_url": "https://clevelandart.org/art/2011.53",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "339f458fcefdd83b3d639457e032e242affa25c3248b5f218791f7da5ab04fb2"
+      },
+      "quality": "AI-assisted extraction; the figure is truncated at the hips as painted.",
+      "related": [
+        {
+          "asset": "cma-2011-53/two-facing-men-on-gold-with-central-tan-band",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2011-53/left-tan-robed-man-visible-half-figure",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3471,
+            "h": 122,
+            "path": "avif/right-blue-red-robed-man-visible-half-figure-64.avif",
+            "sha256": "35b3ff8337171f6b622c02e93e4d32a3ca801f7ad1b285bce42bf22844ddf3f6",
+            "w": 64
+          },
+          {
+            "bytes": 5445,
+            "h": 183,
+            "path": "avif/right-blue-red-robed-man-visible-half-figure-96.avif",
+            "sha256": "d093ccd05c1ec4f640384038b1eaeddb7e5adfa25fb87aea08147d2f69e875de",
+            "w": 96
+          },
+          {
+            "bytes": 7670,
+            "h": 245,
+            "path": "avif/right-blue-red-robed-man-visible-half-figure-128.avif",
+            "sha256": "7a0ab511fbaf06875bd9765d72012adc64b489c2d81ef112aea2a540eae7ec2d",
+            "w": 128
+          },
+          {
+            "bytes": 14566,
+            "h": 367,
+            "path": "avif/right-blue-red-robed-man-visible-half-figure-192.avif",
+            "sha256": "d395c4e57ba8eaaa160ba7ae54d95fab3f7050785f9d7178b438f58441e2e9f1",
+            "w": 192
+          },
+          {
+            "bytes": 17394,
+            "h": 405,
+            "path": "avif/right-blue-red-robed-man-visible-half-figure-212.avif",
+            "sha256": "d3d1dcc686952955071df7750a968786e5d23b0dafce95f4e68bff841c359d58",
+            "w": 212
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 5384,
+            "h": 122,
+            "path": "webp/right-blue-red-robed-man-visible-half-figure-64.webp",
+            "sha256": "06efb4701189f5a4207df0e47ed6f9e9744ea5a6dcfde866994cb5f4c6a38cc1",
+            "w": 64
+          },
+          {
+            "bytes": 9394,
+            "h": 183,
+            "path": "webp/right-blue-red-robed-man-visible-half-figure-96.webp",
+            "sha256": "2e828ad6bb3d92005633b02e78406a300718e00110cbe72a613add66e7c9c785",
+            "w": 96
+          },
+          {
+            "bytes": 14334,
+            "h": 245,
+            "path": "webp/right-blue-red-robed-man-visible-half-figure-128.webp",
+            "sha256": "4dbef82fc77d535ac176b607bab30ccc93df22319bcf61e85d3dc0c4b1d4c4f3",
+            "w": 128
+          },
+          {
+            "bytes": 26970,
+            "h": 367,
+            "path": "webp/right-blue-red-robed-man-visible-half-figure-192.webp",
+            "sha256": "3769b9f06b4f8c12bf80301438587b238c4a891567b919189ba6d5fd153d4edf",
+            "w": 192
+          },
+          {
+            "bytes": 30892,
+            "h": 405,
+            "path": "webp/right-blue-red-robed-man-visible-half-figure-212.webp",
+            "sha256": "068e72b13b2837af7de972169b9c31660aafd77e507acc73b59569c90f0eff1b",
+            "w": 212
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "man",
+        "robe",
+        "beard"
+      ],
+      "thumbhash": "VyiGEwI5V49jaod0jyP3GAhndneEh3g=",
+      "title": "Half-length man in orange mantle, hand on chest",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Pairs with left-tan-robed-man-visible-half-figure at the same scale, facing each other as in two-facing-men-on-gold-with-central-tan-band; the body ends at the hips, so stand it behind a band or edge."
+      ],
+      "view": "three-quarter",
+      "width": 212
+    },
+    "saint-paul-visible-bust-with-sword-and-book": {
+      "categories": [
+        "humans",
+        "reading"
+      ],
+      "colors": [
+        "blue",
+        "tan",
+        "brown",
+        "cream"
+      ],
+      "composition": "single-figure",
+      "description": "Saint Paul to the waist, bald with brown hair at the sides and a pointed beard, his head turned up to the right. He wears a tan tunic under a dark blue mantle and carries a large blue sword over his left shoulder, its round pommel at his hand, while his left hand holds a closed book with a brown cover and pink edges. A blue arc around the head stands for the halo. Cut from the gold counter of the initial P; the background is transparent.",
+      "display_width": [
+        120,
+        360
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 28346,
+        "webpTopBytes": 49960
+      },
+      "facing": "right",
+      "group": null,
+      "height": 482,
+      "master": {
+        "bytes": 199292,
+        "h": 482,
+        "path": "masters/saint-paul-visible-bust-with-sword-and-book.webp",
+        "sha256": "18f3b1dbe14222191b7d4b427613ac26ded8dff2fd53e9c9625998b8709720c7",
+        "w": 363
+      },
+      "palette": [
+        "#3a3435",
+        "#30436f",
+        "#8b6c59",
+        "#9a8c87",
+        "#d5b194"
+      ],
+      "provenance": {
+        "artist": "William de Brailes (English, active c. 1230)",
+        "date": "c. 1230–40",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2011.53/2011.53_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "2011.53",
+        "object_title": "Leaf from a Latin Bible: Initial P: St. Paul with a Sword and a Book",
+        "record_url": "https://clevelandart.org/art/2011.53",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "339f458fcefdd83b3d639457e032e242affa25c3248b5f218791f7da5ab04fb2"
+      },
+      "quality": "AI-assisted extraction; the figure is truncated at the waist as painted.",
+      "related": [
+        {
+          "asset": "cma-2011-53/saint-paul-with-sword-and-book",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2517,
+            "h": 85,
+            "path": "avif/saint-paul-visible-bust-with-sword-and-book-64.avif",
+            "sha256": "b40f8d3ec04d4ddedd1b77a0569c711588673171e47e9a14bf5e9840f3aedfb7",
+            "w": 64
+          },
+          {
+            "bytes": 4705,
+            "h": 127,
+            "path": "avif/saint-paul-visible-bust-with-sword-and-book-96.avif",
+            "sha256": "318ca675fedee48b9900e2608c17c4f3f65f65f0dea59705f1fca9a740c28cb2",
+            "w": 96
+          },
+          {
+            "bytes": 6132,
+            "h": 170,
+            "path": "avif/saint-paul-visible-bust-with-sword-and-book-128.avif",
+            "sha256": "05a75a885fdab308dff3799713bbc1325595ead5f1f51a2a10d871e9098bb73d",
+            "w": 128
+          },
+          {
+            "bytes": 10448,
+            "h": 255,
+            "path": "avif/saint-paul-visible-bust-with-sword-and-book-192.avif",
+            "sha256": "37e07d8d60465f861d6b3e7e4c0bf2b0e1dde7163c075801b893c6844ec804cc",
+            "w": 192
+          },
+          {
+            "bytes": 16301,
+            "h": 340,
+            "path": "avif/saint-paul-visible-bust-with-sword-and-book-256.avif",
+            "sha256": "de27119b5e9d08f72eb0a9395ff10b74bda0dcd0536223714eda47a76f2f8366",
+            "w": 256
+          },
+          {
+            "bytes": 28346,
+            "h": 482,
+            "path": "avif/saint-paul-visible-bust-with-sword-and-book-363.avif",
+            "sha256": "dac3e50e30b1d905108d9d1f7275f7732999ffdcff2d0b352fa0f7457ade2c85",
+            "w": 363
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3874,
+            "h": 85,
+            "path": "webp/saint-paul-visible-bust-with-sword-and-book-64.webp",
+            "sha256": "326009363270f948fae5245ecd7162b8c9295fd67e73032e9eef6b669f96fe2a",
+            "w": 64
+          },
+          {
+            "bytes": 7014,
+            "h": 127,
+            "path": "webp/saint-paul-visible-bust-with-sword-and-book-96.webp",
+            "sha256": "1a3906f55d788bdcab460ec0a0cd929b535cf0b54a98d90d413ab0c621d4c79b",
+            "w": 96
+          },
+          {
+            "bytes": 10548,
+            "h": 170,
+            "path": "webp/saint-paul-visible-bust-with-sword-and-book-128.webp",
+            "sha256": "a3a3ad765956478d081997b4cc7ec7f64c765ac9db2d62951d0ebef9228359fb",
+            "w": 128
+          },
+          {
+            "bytes": 19120,
+            "h": 255,
+            "path": "webp/saint-paul-visible-bust-with-sword-and-book-192.webp",
+            "sha256": "e9d3ddc0fc9b70f2b748c74f62841b227dffb5ece40429158b40929beb1d6f27",
+            "w": 192
+          },
+          {
+            "bytes": 29264,
+            "h": 340,
+            "path": "webp/saint-paul-visible-bust-with-sword-and-book-256.webp",
+            "sha256": "9b669f87af14c763a823b18bc7883b28a05bbed2166c6461face0fc7094973a2",
+            "w": 256
+          },
+          {
+            "bytes": 49960,
+            "h": 482,
+            "path": "webp/saint-paul-visible-bust-with-sword-and-book-363.webp",
+            "sha256": "aebafaadd79eb345dca002cabc6f99bb302f6b1bffdfdbfd2f107dad0823fb04",
+            "w": 363
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "apostle",
+        "man",
+        "sword",
+        "book",
+        "halo",
+        "beard",
+        "robe"
+      ],
+      "thumbhash": "GRiCDAI4fOMWBrS1i7kGl2qAYGaKNXiICA==",
+      "title": "Saint Paul with sword and book, cut-out",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The figure alone from saint-paul-with-sword-and-book; it ends at the waist, so stand it behind a band or in a roundel."
+      ],
+      "view": "three-quarter",
+      "width": 363
+    },
+    "saint-paul-with-sword-and-book": {
+      "categories": [
+        "humans",
+        "reading"
+      ],
+      "colors": [
+        "gold",
+        "blue",
+        "tan",
+        "brown"
+      ],
+      "composition": "single-figure",
+      "description": "The oval counter of the initial P. Saint Paul to the waist, bald with brown hair at the sides and a pointed beard, head turned up to the right, in a tan tunic under a dark blue mantle, a large blue sword over his left shoulder and a closed brown book with pink edges in his left hand, a blue arc for the halo. He fills a burnished gold ground that is crazed and worn, cut along the letter strokes to a rough oval with a flat base. Opaque inside the oval, transparent outside.",
+      "display_width": [
+        150,
+        440
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 33196,
+        "webpTopBytes": 48164
+      },
+      "facing": "right",
+      "group": null,
+      "height": 513,
+      "master": {
+        "bytes": 278126,
+        "h": 513,
+        "path": "masters/saint-paul-with-sword-and-book.webp",
+        "sha256": "029cdec95afc255a677e1c4efb3764844c4b11cffdc7cedbcc818f0ad711b51b",
+        "w": 446
+      },
+      "palette": [
+        "#494342",
+        "#5f5c61",
+        "#d9ae6e",
+        "#ae8451",
+        "#a18a76"
+      ],
+      "provenance": {
+        "artist": "William de Brailes (English, active c. 1230)",
+        "date": "c. 1230–40",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2011.53/2011.53_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2011.53",
+        "object_title": "Leaf from a Latin Bible: Initial P: St. Paul with a Sword and a Book",
+        "record_url": "https://clevelandart.org/art/2011.53",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "339f458fcefdd83b3d639457e032e242affa25c3248b5f218791f7da5ab04fb2"
+      },
+      "quality": "The gold ground is crazed and worn as on the leaf and its edge follows the letter strokes, so the oval is irregular.",
+      "related": [
+        {
+          "asset": "cma-2011-53/saint-paul-visible-bust-with-sword-and-book",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2340,
+            "h": 74,
+            "path": "avif/saint-paul-with-sword-and-book-64.avif",
+            "sha256": "3d71b52196050156c040644d2b6fbda65ff7d0329f8d90340d0d1e084f8b6252",
+            "w": 64
+          },
+          {
+            "bytes": 3923,
+            "h": 110,
+            "path": "avif/saint-paul-with-sword-and-book-96.avif",
+            "sha256": "a83bb8d4731a6cb022a5045464d8075c613f499b772f38ca089d64d096114b02",
+            "w": 96
+          },
+          {
+            "bytes": 5853,
+            "h": 147,
+            "path": "avif/saint-paul-with-sword-and-book-128.avif",
+            "sha256": "7ddbde2c99c52ff12c6b7966ceef354479dfa3e90e8423e555638c85592d808d",
+            "w": 128
+          },
+          {
+            "bytes": 10122,
+            "h": 221,
+            "path": "avif/saint-paul-with-sword-and-book-192.avif",
+            "sha256": "84cbb939a330b30696a4d7a539b6739a47993a82c5d89555ede1cb0fdcb1c9cd",
+            "w": 192
+          },
+          {
+            "bytes": 15165,
+            "h": 294,
+            "path": "avif/saint-paul-with-sword-and-book-256.avif",
+            "sha256": "5ede9430ee98a92bd6fa9418f85913e8b71c67a9eed08b6ff536ddaa8c10b90b",
+            "w": 256
+          },
+          {
+            "bytes": 27600,
+            "h": 442,
+            "path": "avif/saint-paul-with-sword-and-book-384.avif",
+            "sha256": "c20e667919f237a4f0b65fcfce4709bea4d9e749978587467aee1f6b03696d87",
+            "w": 384
+          },
+          {
+            "bytes": 33196,
+            "h": 513,
+            "path": "avif/saint-paul-with-sword-and-book-446.avif",
+            "sha256": "59652107ca772b6a1ac90f295ce4117aa0588c0014d0ab72a8d911b8e9397872",
+            "w": 446
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3060,
+            "h": 74,
+            "path": "webp/saint-paul-with-sword-and-book-64.webp",
+            "sha256": "b2be5a0b36b809ea4279936dae18c6bce52fbd3d6f6f4527bd7f80d59bb3160c",
+            "w": 64
+          },
+          {
+            "bytes": 5564,
+            "h": 110,
+            "path": "webp/saint-paul-with-sword-and-book-96.webp",
+            "sha256": "154cc0a3348338bbce367262af0df5bfe0030b5428efa72bf75864ee5c4acd02",
+            "w": 96
+          },
+          {
+            "bytes": 8628,
+            "h": 147,
+            "path": "webp/saint-paul-with-sword-and-book-128.webp",
+            "sha256": "62ed02eaac66cde35dd5a3c23e97f23f7c234b54a89d08bb91411ca0eb40bc7e",
+            "w": 128
+          },
+          {
+            "bytes": 16036,
+            "h": 221,
+            "path": "webp/saint-paul-with-sword-and-book-192.webp",
+            "sha256": "1b8d7373deeef9476fe8de045aeee774285f86e8ee7aacd5c3d438ed19ab356b",
+            "w": 192
+          },
+          {
+            "bytes": 24542,
+            "h": 294,
+            "path": "webp/saint-paul-with-sword-and-book-256.webp",
+            "sha256": "7b2d04cc1e2b06ce1169f137b04507bf7770cb20821015b4bed37659bee8d217",
+            "w": 256
+          },
+          {
+            "bytes": 43158,
+            "h": 442,
+            "path": "webp/saint-paul-with-sword-and-book-384.webp",
+            "sha256": "4b53d80614a799832aaef6a034433722825dc15ab655c57df1c74476e3de13eb",
+            "w": 384
+          },
+          {
+            "bytes": 48164,
+            "h": 513,
+            "path": "webp/saint-paul-with-sword-and-book-446.webp",
+            "sha256": "b8cfc97311cf201bee035d45e83e84de544d7833f682ebffc73672d4d14117c3",
+            "w": 446
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "apostle",
+        "man",
+        "sword",
+        "book",
+        "halo",
+        "beard",
+        "robe"
+      ],
+      "thumbhash": "HSmGHAIr+rdVa3aFhp91+FiHgHR3B1iIBA==",
+      "title": "Saint Paul with sword and book on gold",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Place it as a picture with its own gold ground; the figure alone is saint-paul-visible-bust-with-sword-and-book."
+      ],
+      "view": "three-quarter",
+      "width": 446
+    },
+    "two-facing-men-on-gold-with-central-tan-band": {
+      "categories": [
+        "humans"
+      ],
+      "colors": [
+        "gold",
+        "blue",
+        "tan",
+        "orange",
+        "red"
+      ],
+      "composition": "multiple-figures",
+      "description": "Two half-length men face each other across a vertical tan bar with a darker stripe, on a burnished gold ground cut along the letter strokes. At the left a man in a tan robe and flat red cap gestures with both hands raised; at the right a man in an orange-red mantle over a dark blue robe looks up at him with a hand on his chest. Both have brown curls and short beards. Opaque on the gold, transparent outside its irregular edge.",
+      "display_width": [
+        150,
+        500
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 40482,
+        "webpTopBytes": 61744
+      },
+      "facing": "mixed",
+      "group": null,
+      "height": 495,
+      "master": {
+        "bytes": 337412,
+        "h": 495,
+        "path": "masters/two-facing-men-on-gold-with-central-tan-band.webp",
+        "sha256": "02bd8e2238029eeccde1375a3ea8529e66e09c6832244010e50e1e72ce565c94",
+        "w": 520
+      },
+      "palette": [
+        "#776356",
+        "#484142",
+        "#a48163",
+        "#dbb16f",
+        "#b49b83"
+      ],
+      "provenance": {
+        "artist": "William de Brailes (English, active c. 1230)",
+        "date": "c. 1230–40",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/2011.53/2011.53_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "native-source-extraction",
+        "object_identifier": "2011.53",
+        "object_title": "Leaf from a Latin Bible: Initial P: St. Paul with a Sword and a Book",
+        "record_url": "https://clevelandart.org/art/2011.53",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "339f458fcefdd83b3d639457e032e242affa25c3248b5f218791f7da5ab04fb2"
+      },
+      "quality": "The gold ground is crazed and worn as on the leaf and its edge follows the letter strokes, so the outline is irregular.",
+      "related": [
+        {
+          "asset": "cma-2011-53/left-tan-robed-man-visible-half-figure",
+          "role": "variant"
+        },
+        {
+          "asset": "cma-2011-53/right-blue-red-robed-man-visible-half-figure",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2263,
+            "h": 61,
+            "path": "avif/two-facing-men-on-gold-with-central-tan-band-64.avif",
+            "sha256": "4d1e8ffb828de190d1e0cd81ea5cf620868cfdf4cca0abf46a1ea6c4ce69c533",
+            "w": 64
+          },
+          {
+            "bytes": 4030,
+            "h": 91,
+            "path": "avif/two-facing-men-on-gold-with-central-tan-band-96.avif",
+            "sha256": "c4ccb831842513fa1af1be4be48a97059616faafcd7a74a90d3e868ebab20088",
+            "w": 96
+          },
+          {
+            "bytes": 5586,
+            "h": 122,
+            "path": "avif/two-facing-men-on-gold-with-central-tan-band-128.avif",
+            "sha256": "5081976bc007523259bcdc5796fad70fb90143300673bf60d87622c33ef9ddac",
+            "w": 128
+          },
+          {
+            "bytes": 9668,
+            "h": 183,
+            "path": "avif/two-facing-men-on-gold-with-central-tan-band-192.avif",
+            "sha256": "2870fda1adf35b3ba6f9a8935e4170d4465055feac0f3d4b10d98178631d9d67",
+            "w": 192
+          },
+          {
+            "bytes": 14214,
+            "h": 244,
+            "path": "avif/two-facing-men-on-gold-with-central-tan-band-256.avif",
+            "sha256": "42da754a6c31aebdbb2034ccf74fc3a8d3947d66351074debf5e710d5d34cd98",
+            "w": 256
+          },
+          {
+            "bytes": 26591,
+            "h": 366,
+            "path": "avif/two-facing-men-on-gold-with-central-tan-band-384.avif",
+            "sha256": "dcebda8db50ce7a365763ca432067502c987cd7016c48f8a09c0e29e869f7675",
+            "w": 384
+          },
+          {
+            "bytes": 40426,
+            "h": 487,
+            "path": "avif/two-facing-men-on-gold-with-central-tan-band-512.avif",
+            "sha256": "a99d04a61a4b155b35d4261ac967eb45db4e0a06b0047d2ffe0553d13e9319db",
+            "w": 512
+          },
+          {
+            "bytes": 40482,
+            "h": 495,
+            "path": "avif/two-facing-men-on-gold-with-central-tan-band-520.avif",
+            "sha256": "0f73874bf62770240af569505ffc6355c0b7694e027b329ffa4683fd2562e044",
+            "w": 520
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3012,
+            "h": 61,
+            "path": "webp/two-facing-men-on-gold-with-central-tan-band-64.webp",
+            "sha256": "e194cea2dbceeadb55180547a767dfec3b85e5a11349da252f49b4d2a0a06a7e",
+            "w": 64
+          },
+          {
+            "bytes": 5692,
+            "h": 91,
+            "path": "webp/two-facing-men-on-gold-with-central-tan-band-96.webp",
+            "sha256": "caf126ee560ce4fbbcf409c0380c31302f39eb917d8c843107e174e8db76c260",
+            "w": 96
+          },
+          {
+            "bytes": 8726,
+            "h": 122,
+            "path": "webp/two-facing-men-on-gold-with-central-tan-band-128.webp",
+            "sha256": "d46abc86c6393677844806d604329f17d123cde05cbdff5f4ae791abdb6c1a34",
+            "w": 128
+          },
+          {
+            "bytes": 16234,
+            "h": 183,
+            "path": "webp/two-facing-men-on-gold-with-central-tan-band-192.webp",
+            "sha256": "83b0a9601254b6b9d4b36a0c012887fa548ebe28abbdaa08893156ae432589c9",
+            "w": 192
+          },
+          {
+            "bytes": 24624,
+            "h": 244,
+            "path": "webp/two-facing-men-on-gold-with-central-tan-band-256.webp",
+            "sha256": "36c398d120fa38bfbbc74a3d85ef2ed92609de00f9c7b0330ae6f62f684c577e",
+            "w": 256
+          },
+          {
+            "bytes": 44696,
+            "h": 366,
+            "path": "webp/two-facing-men-on-gold-with-central-tan-band-384.webp",
+            "sha256": "bff3bf3137ce17032ad3814012fef4edeb1f1099dda0accbc011fac712a49ff2",
+            "w": 384
+          },
+          {
+            "bytes": 66368,
+            "h": 487,
+            "path": "webp/two-facing-men-on-gold-with-central-tan-band-512.webp",
+            "sha256": "86c275091564d38e08080e3dc5e8719232734136f56ebed6274a4495e840376d",
+            "w": 512
+          },
+          {
+            "bytes": 61744,
+            "h": 495,
+            "path": "webp/two-facing-men-on-gold-with-central-tan-band-520.webp",
+            "sha256": "f314f7fae6fc2a5b151b770e292ee82eb1ca7dfbfada533e61bf09c73ad0a02a",
+            "w": 520
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "man",
+        "robe",
+        "cap",
+        "beard"
+      ],
+      "thumbhash": "HSmGDYAsX7NelXhEZ39O6PpUGCiGh4B2OA==",
+      "title": "Two men conversing across a tan bar on gold",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Place it as a picture with its own gold ground; the two figures are cut out separately as left-tan-robed-man-visible-half-figure and right-blue-red-robed-man-visible-half-figure."
+      ],
+      "view": "three-quarter",
+      "width": 520
+    }
+  },
+  "attribution": "Cleveland Museum of Art 2011.53",
+  "builtAt": "2026-10-30T12:41:20.937Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-cma-2011-53@1.0.0/",
+  "contentHash": "sha256:0cbc9a7a2bd274281037dd2f66ae2742e220cc0d85d74a0445d22ca36f59780d",
+  "inputsHash": "sha256:8d5378e0baa3511da17d3d0af11810e0c5202e11f0337bd5e01e1d2db855154c",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from Cleveland Museum of Art open access (CC0) images; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-cma-2011-53-masters",
+  "package": "@ranx729/ducktape-assets-cma-2011-53",
+  "period": "c. 1230–1240",
+  "region": "Oxford, England",
+  "schema": 1,
+  "set": "cma-2011-53",
+  "style": "early Gothic illumination",
+  "summary": "Saint Paul with sword and book, the initial P and its foliate extensions, from a Latin Bible leaf painted by William de Brailes in Oxford about 1230–1240, in the Cleveland Museum of Art.",
+  "title": "Cleveland 2011.53, Saint Paul initial",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

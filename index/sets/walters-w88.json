@@ -1,0 +1,3021 @@
+{
+  "assets": {
+    "corner-rod-with-hooded-head": {
+      "attribution": "Walters Art Museum W.88, fol. 136r",
+      "categories": [
+        "scrollwork",
+        "fantasy"
+      ],
+      "colors": [
+        "gold",
+        "pink",
+        "blue",
+        "green",
+        "cream"
+      ],
+      "composition": "single-ornament",
+      "description": "An L-shaped piece of bar border. A thin tan and gold rod with a pink inner band and white dots rises from a lower-left knot and carries at its top a human head in a pale green hood, the face turned to the right. At the foot the rod meets a pink and blue angular knot with a white curl and a gold boss, from which a short horizontal bar of blue, white and gold runs to the right and ends in a gold leaf tip. Black contours; the background is transparent.",
+      "display_width": [
+        100,
+        300
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 49884,
+        "webpTopBytes": 96246
+      },
+      "facing": "up",
+      "group": "136r",
+      "height": 1729,
+      "master": {
+        "bytes": 420946,
+        "h": 1729,
+        "path": "masters/corner-rod-with-hooded-head.webp",
+        "sha256": "ef7f33d81da93888c92cec7f1020314d9e84d0b4d5bd12125e265ae81c9ab0bb",
+        "w": 668
+      },
+      "palette": [
+        "#5f685e",
+        "#484026",
+        "#8f7e57",
+        "#9f9978",
+        "#c6b78e"
+      ],
+      "provenance": {
+        "date": "First quarter 14th century CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000277_1200.tif",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.88, fol. 136r",
+        "object_title": "Dancing monkeys",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "0ca359b8bb9e459d4ce4b081bab988f943522ac776ec806f69b86008d6b51f9a"
+      },
+      "related": [
+        {
+          "asset": "walters-w88/lower-profile-head-on-long-blue-and-gold-rod",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w88/short-blue-and-gold-curled-leaf-terminal",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2513,
+            "h": 166,
+            "path": "avif/corner-rod-with-hooded-head-64.avif",
+            "sha256": "e6f8953b94f1ea8d0e39beb6df4c52727f2d6f146b91ba89fd2ad47ce83a7c47",
+            "w": 64
+          },
+          {
+            "bytes": 3918,
+            "h": 248,
+            "path": "avif/corner-rod-with-hooded-head-96.avif",
+            "sha256": "10becc2fdd8bb5bf7020c5ac7b97b17bcc4c7b0b8a7aed93686bf87c897b2ce8",
+            "w": 96
+          },
+          {
+            "bytes": 5736,
+            "h": 331,
+            "path": "avif/corner-rod-with-hooded-head-128.avif",
+            "sha256": "ef691a84c257912ff4adc048c254c3c2f10327971e81126069fd17ead45d1fd6",
+            "w": 128
+          },
+          {
+            "bytes": 8743,
+            "h": 497,
+            "path": "avif/corner-rod-with-hooded-head-192.avif",
+            "sha256": "5491f6154fddf118aa180290cfe2a94373b85efd69f8687ad5d842bf1b1a7eff",
+            "w": 192
+          },
+          {
+            "bytes": 13608,
+            "h": 663,
+            "path": "avif/corner-rod-with-hooded-head-256.avif",
+            "sha256": "49d03a64fb4d3eb200009376a999b144fecf6be0314ef86a8f1a4a5de6af3be7",
+            "w": 256
+          },
+          {
+            "bytes": 23709,
+            "h": 994,
+            "path": "avif/corner-rod-with-hooded-head-384.avif",
+            "sha256": "973b65a3364de67e7a8db9701e96ccac1e0dd8ef73c37d1b2159dfb3e41b47c7",
+            "w": 384
+          },
+          {
+            "bytes": 34632,
+            "h": 1325,
+            "path": "avif/corner-rod-with-hooded-head-512.avif",
+            "sha256": "bbf84773d991d235bff863690e8edea469c5df107eba8e865d723d4b5beb730f",
+            "w": 512
+          },
+          {
+            "bytes": 49884,
+            "h": 1729,
+            "path": "avif/corner-rod-with-hooded-head-668.avif",
+            "sha256": "8c81c50c49c81f9ab1d03a01173364f14988d12d5f68481537d520f9e9f871f0",
+            "w": 668
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4402,
+            "h": 166,
+            "path": "webp/corner-rod-with-hooded-head-64.webp",
+            "sha256": "ec1505c04239b4e7a89ddcbfbbb4cbfd2fa91cf6f30f4aeeb2e19078b503b724",
+            "w": 64
+          },
+          {
+            "bytes": 6916,
+            "h": 248,
+            "path": "webp/corner-rod-with-hooded-head-96.webp",
+            "sha256": "e835b7030b21be93224b8895a40ffa0bc81f2980aafd02a04d0f4ab43d884fcc",
+            "w": 96
+          },
+          {
+            "bytes": 9962,
+            "h": 331,
+            "path": "webp/corner-rod-with-hooded-head-128.webp",
+            "sha256": "9161e545c957123cb6165a59ce2fdeae9db66683655b18760e77972183c6bf1c",
+            "w": 128
+          },
+          {
+            "bytes": 17328,
+            "h": 497,
+            "path": "webp/corner-rod-with-hooded-head-192.webp",
+            "sha256": "23dfeca0a9a33f4286900009a5ff1ed652ded9d2c125b134b477edc3ef25d094",
+            "w": 192
+          },
+          {
+            "bytes": 25648,
+            "h": 663,
+            "path": "webp/corner-rod-with-hooded-head-256.webp",
+            "sha256": "6e2889f6349e7928571a9479c559f39add3ad502aae53e676fb0f6bd4430c230",
+            "w": 256
+          },
+          {
+            "bytes": 44898,
+            "h": 994,
+            "path": "webp/corner-rod-with-hooded-head-384.webp",
+            "sha256": "78e19404ce6dde6e7cc419239a25a587bdd1e887969518002aaa175a69337594",
+            "w": 384
+          },
+          {
+            "bytes": 67078,
+            "h": 1325,
+            "path": "webp/corner-rod-with-hooded-head-512.webp",
+            "sha256": "3ea1ea4f7fe9cc72936ccff17fc086a977e0586ba4f69a6dd0da086cb7e8651c",
+            "w": 512
+          },
+          {
+            "bytes": 96246,
+            "h": 1729,
+            "path": "webp/corner-rod-with-hooded-head-668.webp",
+            "sha256": "6fa42e6a8b64edce88236eae74667870b22e5baed9ca67b0871a3e0731427430",
+            "w": 668
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "rod",
+        "head",
+        "hood",
+        "grotesque",
+        "marginalia"
+      ],
+      "thumbhash": "2giCAgATaa92+Xqaj8VNAn8ihnaddqg=",
+      "title": "Corner rod with a hooded head at the top",
+      "transparent": true,
+      "type": "corner",
+      "usage_notes": [
+        "Bottom-left corner of a block; the long arm runs up the left edge and the short arm along the bottom."
+      ],
+      "width": 668
+    },
+    "dancing-dog": {
+      "attribution": "Walters Art Museum W.88, fol. 169r",
+      "categories": [
+        "animals",
+        "fantasy"
+      ],
+      "colors": [
+        "gray",
+        "cream",
+        "black"
+      ],
+      "composition": "single-figure",
+      "description": "A pale grey-green dog rears up on its hind legs facing left, forelegs raised and bent in front of its chest, mouth open and ears back, its long tail curving out to the right and ending in a hooked tip. Heavy black contours with grey-blue shading on a cream-grey body; the background is transparent.",
+      "display_width": [
+        200,
+        500
+      ],
+      "encoding": {
+        "avif": false,
+        "avifTopBytes": 73179,
+        "webpTopBytes": 50026
+      },
+      "facing": "left",
+      "group": "169r",
+      "height": 935,
+      "master": {
+        "bytes": 1552706,
+        "h": 935,
+        "path": "masters/dancing-dog.webp",
+        "sha256": "2b127519b9313e94287368f221ac222207dd7a980b7fd011d689eeda921aaf0d",
+        "w": 1044
+      },
+      "palette": [
+        "#9ba180",
+        "#626c56",
+        "#808a70",
+        "#353f32",
+        "#4b5441"
+      ],
+      "provenance": {
+        "date": "First quarter 14th century CE",
+        "image_rights": "CC0-1.0",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-source-mask",
+        "object_identifier": "W.88, fol. 169r",
+        "object_title": "Man playing harp and dog dancing",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "82c7f9f4adc02fba6937419297b5c12170b383e56ee28d589fa10e55ff0ed0ba"
+      },
+      "related": [
+        {
+          "asset": "walters-w88/seated-harp-player",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "webp": [
+          {
+            "bytes": 2160,
+            "h": 57,
+            "path": "webp/dancing-dog-64.webp",
+            "sha256": "a701abb7a96ead423dcdbb35303f4150cfef89b8e683163b6dbde5c5ae2f0c9a",
+            "w": 64
+          },
+          {
+            "bytes": 3472,
+            "h": 86,
+            "path": "webp/dancing-dog-96.webp",
+            "sha256": "406e6f24ea3d8f2dfdd959154c06c4d601d44d5ee1a448e9bbd2a89f9155e8e9",
+            "w": 96
+          },
+          {
+            "bytes": 4852,
+            "h": 115,
+            "path": "webp/dancing-dog-128.webp",
+            "sha256": "51fb0b0999812775adebb105a71c4bb25f1119a626d183b8e076ae862b221907",
+            "w": 128
+          },
+          {
+            "bytes": 7602,
+            "h": 172,
+            "path": "webp/dancing-dog-192.webp",
+            "sha256": "02f7e83e060d65385abcab9f4a869b43c6d9f0a4afb34c343666213c4e29efc2",
+            "w": 192
+          },
+          {
+            "bytes": 10432,
+            "h": 229,
+            "path": "webp/dancing-dog-256.webp",
+            "sha256": "ce32bea756251a1b21e3f8835a7597538c3e8a7f8325af7bd0bcfee0141f166e",
+            "w": 256
+          },
+          {
+            "bytes": 16096,
+            "h": 344,
+            "path": "webp/dancing-dog-384.webp",
+            "sha256": "316be315ffb6026fbe8d74d9ba13e1b025f8f1e64bd245b2a7558fa2ebe337f5",
+            "w": 384
+          },
+          {
+            "bytes": 21942,
+            "h": 459,
+            "path": "webp/dancing-dog-512.webp",
+            "sha256": "978e49884059b62c4d18fdbfffc7a5271fbb6ade85171e80fc97ace4fdf84640",
+            "w": 512
+          },
+          {
+            "bytes": 36864,
+            "h": 688,
+            "path": "webp/dancing-dog-768.webp",
+            "sha256": "559b4f243df78418ddd51515be25760050f35776ff9667155b283a73b2d53951",
+            "w": 768
+          },
+          {
+            "bytes": 56282,
+            "h": 917,
+            "path": "webp/dancing-dog-1024.webp",
+            "sha256": "8cea793b2b7952015983d3b92122e6e90112e6a095103e61bc398807f2f6b8d2",
+            "w": 1024
+          },
+          {
+            "bytes": 50026,
+            "h": 935,
+            "path": "webp/dancing-dog-1044.webp",
+            "sha256": "1341540177daae413d6f4d52d4e7b0f3f26251d67e202e1e41950f59822cd934",
+            "w": 1044
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "dog",
+        "dancer",
+        "drollery",
+        "marginalia"
+      ],
+      "thumbhash": "m+iBBYAUbGB+hXIthjtuQHBGDYj5K3JbYw==",
+      "title": "Dog dancing on its hind legs",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Dances to the harp of seated-harp-player; placed to the right of the player the two face each other."
+      ],
+      "view": "side",
+      "width": 1044
+    },
+    "left-rod-with-two-profile-heads": {
+      "attribution": "Walters Art Museum W.88, fol. 52r",
+      "categories": [
+        "scrollwork",
+        "fantasy"
+      ],
+      "colors": [
+        "blue",
+        "pink",
+        "cream",
+        "black",
+        "gold"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall vertical bar from the left margin. The upper half is a blue band with a row of white rings beside a pink band with a white wavy line; at mid-height a gold disc sits on the left edge where the bar narrows into a thin blue rod with a white zigzag. A bald head in profile faces right at the top, and the rod curves right at the bottom into a second profile head with a white cap band and a red cheek, also facing right. Black contours; the background is transparent.",
+      "display_width": [
+        60,
+        200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 52782,
+        "webpTopBytes": 105114
+      },
+      "facing": "right",
+      "group": "52r",
+      "height": 2100,
+      "master": {
+        "bytes": 456512,
+        "h": 2050,
+        "path": "masters/left-rod-with-two-profile-heads.webp",
+        "sha256": "2d69c4aab3c4f5edbc0c6f386e81ee7f0fabd5db1724c3aca00b92ab00a1748e",
+        "w": 411
+      },
+      "palette": [
+        "#27352e",
+        "#335f72",
+        "#9d895e",
+        "#4e7078",
+        "#544f34"
+      ],
+      "provenance": {
+        "date": "First quarter 14th century CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000109_1200.tif",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.88, fol. 52r",
+        "object_title": "Monkeys singing",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "1574874490e1dbccd39e14dd6bf8926e0e85848ffbcd1ffe3f7ab239aeab8d1e"
+      },
+      "related": [
+        {
+          "asset": "walters-w88/upper-margin-with-three-grotesque-heads",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w88/lower-black-foliate-curl",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w88/right-black-leaf-curl-on-blue-and-gold-stem",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4056,
+            "h": 319,
+            "path": "avif/left-rod-with-two-profile-heads-64.avif",
+            "sha256": "88f742dcb6a468d4b7a3ed828a488b1324854af264fa3ec5e12c7d71dd1fee38",
+            "w": 64
+          },
+          {
+            "bytes": 7278,
+            "h": 479,
+            "path": "avif/left-rod-with-two-profile-heads-96.avif",
+            "sha256": "e4cb370c2c8f8bf8ca213e9036aa142c2aac9b12b8db0c50a47494b658f686b4",
+            "w": 96
+          },
+          {
+            "bytes": 10999,
+            "h": 638,
+            "path": "avif/left-rod-with-two-profile-heads-128.avif",
+            "sha256": "ea0d2e69a92a03487c00772d132d5e3aac8eb4d193d684b522a51bc755f865be",
+            "w": 128
+          },
+          {
+            "bytes": 17815,
+            "h": 958,
+            "path": "avif/left-rod-with-two-profile-heads-192.avif",
+            "sha256": "8094ff6859539c5f5d8f71726318d3f3ca3a7aae665c600a0dcdab8b3ae67102",
+            "w": 192
+          },
+          {
+            "bytes": 26791,
+            "h": 1277,
+            "path": "avif/left-rod-with-two-profile-heads-256.avif",
+            "sha256": "c916b97c448047bb5223200acc7682b013ed0522ba4c14db89545fe05681886f",
+            "w": 256
+          },
+          {
+            "bytes": 47006,
+            "h": 1915,
+            "path": "avif/left-rod-with-two-profile-heads-384.avif",
+            "sha256": "f53e36137335f1a172b5192a5e7ef284f9cb28bd162fb98b6bb510f60e77bcb4",
+            "w": 384
+          },
+          {
+            "bytes": 52782,
+            "h": 2100,
+            "path": "avif/left-rod-with-two-profile-heads-421.avif",
+            "sha256": "259b64b9f95ccdaa6b177814f0e4513cd76902f187e1b61726e604a30aa920cd",
+            "w": 421
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 7496,
+            "h": 319,
+            "path": "webp/left-rod-with-two-profile-heads-64.webp",
+            "sha256": "8a853b64b42af03064b0424220d6ec067413635391e5dfc3ec43af08ef59b9af",
+            "w": 64
+          },
+          {
+            "bytes": 12992,
+            "h": 479,
+            "path": "webp/left-rod-with-two-profile-heads-96.webp",
+            "sha256": "f23b8a6d73cff69b37598596e5dc95458fbf3e9071411d95385f8ae2dfed9797",
+            "w": 96
+          },
+          {
+            "bytes": 19598,
+            "h": 638,
+            "path": "webp/left-rod-with-two-profile-heads-128.webp",
+            "sha256": "4a8439dc054d12707ffe6a0dfbfea7ff5e2e891aa77e75eefc77ac2fa3c3f446",
+            "w": 128
+          },
+          {
+            "bytes": 34578,
+            "h": 958,
+            "path": "webp/left-rod-with-two-profile-heads-192.webp",
+            "sha256": "8a82ee7a9688c2fb17472ff4205913d8caeccbc323b24a5bbf5816a5ae6d87a8",
+            "w": 192
+          },
+          {
+            "bytes": 53128,
+            "h": 1277,
+            "path": "webp/left-rod-with-two-profile-heads-256.webp",
+            "sha256": "76c79cece7060cedfc782fed674afce8854357d1c2153cd141414432b7b7e44d",
+            "w": 256
+          },
+          {
+            "bytes": 93352,
+            "h": 1915,
+            "path": "webp/left-rod-with-two-profile-heads-384.webp",
+            "sha256": "94a6110669062d2d3ab7e036e27dc768fec2b8f85c99dbd256d690796d1f38b0",
+            "w": 384
+          },
+          {
+            "bytes": 105114,
+            "h": 2100,
+            "path": "webp/left-rod-with-two-profile-heads-421.webp",
+            "sha256": "058134f87909895c4981b3d6d08fd0654785ac8aaad984137cdd2dbfad43de41",
+            "w": 421
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "rod",
+        "head",
+        "face",
+        "grotesque",
+        "cap",
+        "marginalia"
+      ],
+      "thumbhash": "FeiBCQAUQNnzVqqC9D5nrw2UiEE5Vrs=",
+      "title": "Left-margin rod with two profile heads",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Both heads look right, into the page; place it down the left edge of a block."
+      ],
+      "width": 421
+    },
+    "lower-black-foliate-curl": {
+      "attribution": "Walters Art Museum W.88, fol. 52r",
+      "categories": [
+        "scrollwork",
+        "botanical"
+      ],
+      "colors": [
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A black ink flourish from the lower margin, a thin line sweeps down from the upper left, curves along the bottom and runs out to the right, carrying a cluster of small solid leaves at its centre and a knobbed terminal at the right end. The ink is grainy and slightly broken, as in the source. Black only; the background is transparent.",
+      "display_width": [
+        200,
+        600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 30282,
+        "webpTopBytes": 55364
+      },
+      "facing": "none",
+      "group": "52r",
+      "height": 734,
+      "master": {
+        "bytes": 155220,
+        "h": 734,
+        "path": "masters/lower-black-foliate-curl.webp",
+        "sha256": "f473db450ef99e7baa8372d256a7f1da0b7bf67e7272d61e95299fac22b2cb7b",
+        "w": 1030
+      },
+      "palette": [
+        "#1c251e",
+        "#242b22",
+        "#2b3126",
+        "#363b2b",
+        "#303629"
+      ],
+      "provenance": {
+        "date": "First quarter 14th century CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000109_1200.tif",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.88, fol. 52r",
+        "object_title": "Monkeys singing",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "1574874490e1dbccd39e14dd6bf8926e0e85848ffbcd1ffe3f7ab239aeab8d1e"
+      },
+      "related": [
+        {
+          "asset": "walters-w88/upper-margin-with-three-grotesque-heads",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w88/left-rod-with-two-profile-heads",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w88/right-black-leaf-curl-on-blue-and-gold-stem",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1348,
+            "h": 46,
+            "path": "avif/lower-black-foliate-curl-64.avif",
+            "sha256": "d4ceab21322d531f602f3559c02d573c616d51fe238d0f39c9264fcc5d549cf4",
+            "w": 64
+          },
+          {
+            "bytes": 1916,
+            "h": 68,
+            "path": "avif/lower-black-foliate-curl-96.avif",
+            "sha256": "5228f3c20c97313beb9fc1992e5c60656b55b23b9913b950f99aa7e95decfd51",
+            "w": 96
+          },
+          {
+            "bytes": 2626,
+            "h": 91,
+            "path": "avif/lower-black-foliate-curl-128.avif",
+            "sha256": "3c7e1c3e76f2ef8b159cd6591ef76256402cb6b75e5fb25726f956a26dd5f6d7",
+            "w": 128
+          },
+          {
+            "bytes": 3887,
+            "h": 137,
+            "path": "avif/lower-black-foliate-curl-192.avif",
+            "sha256": "893660f4f095de90e854abe76b96a6b86b79cb6ee80cc6efa8e5b84db363902b",
+            "w": 192
+          },
+          {
+            "bytes": 5621,
+            "h": 182,
+            "path": "avif/lower-black-foliate-curl-256.avif",
+            "sha256": "f13327d44b74d2139d1d532bfc369cc3b02a0ceb95a0c726f22c97f043f1d72e",
+            "w": 256
+          },
+          {
+            "bytes": 9355,
+            "h": 274,
+            "path": "avif/lower-black-foliate-curl-384.avif",
+            "sha256": "30dd8dbb6a74b4e8feef2565b99b4fad0096ec979e59e5d66e5c6fedfd4d14ab",
+            "w": 384
+          },
+          {
+            "bytes": 12922,
+            "h": 365,
+            "path": "avif/lower-black-foliate-curl-512.avif",
+            "sha256": "67558ad6bab928b80ea8df5b4e434d96bfc4e3172a43dd0729cd9f9b4d3e3321",
+            "w": 512
+          },
+          {
+            "bytes": 21178,
+            "h": 547,
+            "path": "avif/lower-black-foliate-curl-768.avif",
+            "sha256": "ca79ae5d76ec8c35f4a5b73e41e1e8094b21561f9d1be82c9b2c0af01c352742",
+            "w": 768
+          },
+          {
+            "bytes": 29963,
+            "h": 730,
+            "path": "avif/lower-black-foliate-curl-1024.avif",
+            "sha256": "c19c9536f2867d6418c3bb2564dfd59505725beb11c39db60f37aff6e1a87f51",
+            "w": 1024
+          },
+          {
+            "bytes": 30282,
+            "h": 734,
+            "path": "avif/lower-black-foliate-curl-1030.avif",
+            "sha256": "0754c9b18a456b4e46bf614ed3078222b2473b18c605059919b22fdd013081c2",
+            "w": 1030
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1444,
+            "h": 46,
+            "path": "webp/lower-black-foliate-curl-64.webp",
+            "sha256": "7d5b8b700525c9628b5f66e981ad11385cb348f6ee7dc6b2138d375b8191d0bb",
+            "w": 64
+          },
+          {
+            "bytes": 2374,
+            "h": 68,
+            "path": "webp/lower-black-foliate-curl-96.webp",
+            "sha256": "3744dbf26fc3dc5a89c217723a88677b60a2d003941c21701a12f4be2e49d9e2",
+            "w": 96
+          },
+          {
+            "bytes": 3520,
+            "h": 91,
+            "path": "webp/lower-black-foliate-curl-128.webp",
+            "sha256": "a09202bb050feacd2ee069482b3879f3a91f29bb7e180d4e9038b04574f6b391",
+            "w": 128
+          },
+          {
+            "bytes": 5864,
+            "h": 137,
+            "path": "webp/lower-black-foliate-curl-192.webp",
+            "sha256": "a026ff1192efda314c6ec6e7a81d6df650ba1bc247da9087ffbd2cdbd8c7b40e",
+            "w": 192
+          },
+          {
+            "bytes": 8628,
+            "h": 182,
+            "path": "webp/lower-black-foliate-curl-256.webp",
+            "sha256": "856246727a917f3168872dc30408142ae12da072c393ad0d735dc1600821f4aa",
+            "w": 256
+          },
+          {
+            "bytes": 14522,
+            "h": 274,
+            "path": "webp/lower-black-foliate-curl-384.webp",
+            "sha256": "bb75154adffacf32799ac0b607101849e9063ffc6d50d13b7b35dfc963b3b6aa",
+            "w": 384
+          },
+          {
+            "bytes": 20918,
+            "h": 365,
+            "path": "webp/lower-black-foliate-curl-512.webp",
+            "sha256": "c9ef40d2aa48d084fcfa2ddc6ff37a23f45f0cd0706725f0c00905e2f69ede0d",
+            "w": 512
+          },
+          {
+            "bytes": 36498,
+            "h": 547,
+            "path": "webp/lower-black-foliate-curl-768.webp",
+            "sha256": "27b74edf381981455a015b1a244e6b0291435eceda6fc3f7cbcd692802b11bd7",
+            "w": 768
+          },
+          {
+            "bytes": 56410,
+            "h": 730,
+            "path": "webp/lower-black-foliate-curl-1024.webp",
+            "sha256": "5120ceeaee5d27b813b1b64c6c6aed09b5b4a73e6d0deeebb942b8a7b2c88622",
+            "w": 1024
+          },
+          {
+            "bytes": 55364,
+            "h": 734,
+            "path": "webp/lower-black-foliate-curl-1030.webp",
+            "sha256": "dd1c99e81246679d8c6cd9b464e816a6531b14c439415d1cf3f1d7431fb91b84",
+            "w": 1030
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "flourish",
+        "leaf",
+        "sprig",
+        "marginalia"
+      ],
+      "thumbhash": "CviBBIAR+puadHhIiK+K99zYiAeoioW8Ag==",
+      "title": "Black pen-flourish with a leaf cluster",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Bottom-margin flourish of the fol. 52r border; reads best under a block, with right-black-leaf-curl-on-blue-and-gold-stem rising at its right."
+      ],
+      "width": 1030
+    },
+    "lower-profile-head-on-long-blue-and-gold-rod": {
+      "attribution": "Walters Art Museum W.88, fol. 136r",
+      "categories": [
+        "scrollwork",
+        "fantasy"
+      ],
+      "colors": [
+        "blue",
+        "gold",
+        "pink",
+        "cream",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A tall vertical bar. For two thirds of its height it is a wide band of gold, pink with a white wavy line, and blue with white edges, cut flat at the top. It then narrows through a blue and pink angular leaf knot with a white lobe into a thin blue rod that curves to the left at the bottom and ends in a human head in profile with a white hood, facing left. Black contours; the background is transparent.",
+      "display_width": [
+        60,
+        200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 64043,
+        "webpTopBytes": 122388
+      },
+      "facing": "left",
+      "group": "136r",
+      "height": 2106,
+      "master": {
+        "bytes": 515066,
+        "h": 2048,
+        "path": "masters/lower-profile-head-on-long-blue-and-gold-rod.webp",
+        "sha256": "2a59d24e03928970119ea45041f59efc06952ae6333f10f44abc49fef1ed9ff0",
+        "w": 425
+      },
+      "palette": [
+        "#46432d",
+        "#4c7273",
+        "#8d693c",
+        "#c19a6f",
+        "#88866e"
+      ],
+      "provenance": {
+        "date": "First quarter 14th century CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000277_1200.tif",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.88, fol. 136r",
+        "object_title": "Dancing monkeys",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "0ca359b8bb9e459d4ce4b081bab988f943522ac776ec806f69b86008d6b51f9a"
+      },
+      "quality": "Cut flat at the top edge where it left the bar border.",
+      "related": [
+        {
+          "asset": "walters-w88/corner-rod-with-hooded-head",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w88/short-blue-and-gold-curled-leaf-terminal",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 4359,
+            "h": 308,
+            "path": "avif/lower-profile-head-on-long-blue-and-gold-rod-64.avif",
+            "sha256": "7468dcfe1a91810bfc37a0068a1ce4a106c9e8c6795af77613e70793da714dc7",
+            "w": 64
+          },
+          {
+            "bytes": 7811,
+            "h": 463,
+            "path": "avif/lower-profile-head-on-long-blue-and-gold-rod-96.avif",
+            "sha256": "f2bf3640e12788508826797dffa14061f33049351302549c14eee65abf5bec91",
+            "w": 96
+          },
+          {
+            "bytes": 11810,
+            "h": 617,
+            "path": "avif/lower-profile-head-on-long-blue-and-gold-rod-128.avif",
+            "sha256": "42899ef38f55e4972e7c1b53f4abb162dfef802a728781c0f6c328be7ad25542",
+            "w": 128
+          },
+          {
+            "bytes": 21223,
+            "h": 925,
+            "path": "avif/lower-profile-head-on-long-blue-and-gold-rod-192.avif",
+            "sha256": "035e44b3304acc73aff960643a2801fb8bc1ebf6d82824a8dd5674d25a0a7ea1",
+            "w": 192
+          },
+          {
+            "bytes": 30974,
+            "h": 1234,
+            "path": "avif/lower-profile-head-on-long-blue-and-gold-rod-256.avif",
+            "sha256": "bfada8a9fa2ef3b1a0442b0f0cbe4b811d169692af99fce91592a92549d69596",
+            "w": 256
+          },
+          {
+            "bytes": 55060,
+            "h": 1851,
+            "path": "avif/lower-profile-head-on-long-blue-and-gold-rod-384.avif",
+            "sha256": "b253be44070b5ea61b3b851d44fe5273e743ada6cb508dd44aeabd64a12dfec4",
+            "w": 384
+          },
+          {
+            "bytes": 64043,
+            "h": 2106,
+            "path": "avif/lower-profile-head-on-long-blue-and-gold-rod-437.avif",
+            "sha256": "a1474cbec9e69dd3b5fe870d73af9a9cef11f9a057590b11b00294d3a1763e78",
+            "w": 437
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 7582,
+            "h": 308,
+            "path": "webp/lower-profile-head-on-long-blue-and-gold-rod-64.webp",
+            "sha256": "0cbdb1b75ddceaea795b565581e008c11692ea32978cd97d9b026254ed628943",
+            "w": 64
+          },
+          {
+            "bytes": 13458,
+            "h": 463,
+            "path": "webp/lower-profile-head-on-long-blue-and-gold-rod-96.webp",
+            "sha256": "ed158759b93cfa72d1876b95d416b10da6e64d71c10b49a6224c483a5a875eca",
+            "w": 96
+          },
+          {
+            "bytes": 20520,
+            "h": 617,
+            "path": "webp/lower-profile-head-on-long-blue-and-gold-rod-128.webp",
+            "sha256": "0e3b93fae94f3e815985de5ce17bfc7aca820113c1ab0a121dc88dc90161f0f4",
+            "w": 128
+          },
+          {
+            "bytes": 36852,
+            "h": 925,
+            "path": "webp/lower-profile-head-on-long-blue-and-gold-rod-192.webp",
+            "sha256": "bb6aad53ebfb2da8f69e20cb189a9192ec84fa499749f883efad9a1b0efdf061",
+            "w": 192
+          },
+          {
+            "bytes": 57074,
+            "h": 1234,
+            "path": "webp/lower-profile-head-on-long-blue-and-gold-rod-256.webp",
+            "sha256": "b551026e15c4febfec5e2320edabcc39bacefedc9a00e3d53d9e85cf36be2c00",
+            "w": 256
+          },
+          {
+            "bytes": 103128,
+            "h": 1851,
+            "path": "webp/lower-profile-head-on-long-blue-and-gold-rod-384.webp",
+            "sha256": "7bba3d72ab49906a978f724ba7cb6da19af1cda99f444fca4146fc3621e708c8",
+            "w": 384
+          },
+          {
+            "bytes": 122388,
+            "h": 2106,
+            "path": "webp/lower-profile-head-on-long-blue-and-gold-rod-437.webp",
+            "sha256": "73ade6166d9cc174397aa15b2775ac3beb022d4562915fe19ce8dde6662dec21",
+            "w": 437
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "rod",
+        "head",
+        "face",
+        "hood",
+        "grotesque",
+        "marginalia"
+      ],
+      "thumbhash": "2AiCAQAk9yq4WqYNT87y1DBKCqyISsg=",
+      "title": "Long margin rod ending in a hooded profile head",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "The head hangs below the rod and looks left; use it down the right edge of a block, or flip it for the left."
+      ],
+      "width": 437
+    },
+    "monkeys-playing-chess": {
+      "attribution": "Walters Art Museum W.88, fol. 186r",
+      "categories": [
+        "animals",
+        "fantasy"
+      ],
+      "colors": [
+        "tan",
+        "gold",
+        "black",
+        "brown"
+      ],
+      "composition": "multiple-figures",
+      "description": "Two tan monkeys with hatched fur sit facing each other on either side of an upright gold chequered board painted on a black ground between them. The left monkey holds up a small gold chess piece in one hand; the right monkey rests a hand on the board. Both sit with bent legs and splayed feet, in heavy black contours; the background is transparent.",
+      "display_width": [
+        300,
+        700
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 123820,
+        "webpTopBytes": 231518
+      },
+      "facing": "mixed",
+      "group": "186r",
+      "height": 818,
+      "master": {
+        "bytes": 1162758,
+        "h": 818,
+        "path": "masters/monkeys-playing-chess.webp",
+        "sha256": "a38a6f35a982837b8f49750f99a557db42b25fa1be7f9ed0216943ad1455e68e",
+        "w": 1315
+      },
+      "palette": [
+        "#292219",
+        "#695335",
+        "#94734c",
+        "#bb986c",
+        "#ab8860"
+      ],
+      "provenance": {
+        "date": "First quarter 14th century CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000377_1200.tif",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.88, fol. 186r",
+        "object_title": "Monkeys playing chess",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "97a258a8c25edee5ea3c493f4a398ee320ce69a313ebb305bb995788de12d3fa"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1741,
+            "h": 40,
+            "path": "avif/monkeys-playing-chess-64.avif",
+            "sha256": "062041cad79aff91d002633a540a165109f9b56e8e89aa1bcc6ca7a258155622",
+            "w": 64
+          },
+          {
+            "bytes": 2715,
+            "h": 60,
+            "path": "avif/monkeys-playing-chess-96.avif",
+            "sha256": "caaa7b31cd69d4eeb7399ff7ee1dea7b56957cc2c81f0d081f59d9cfb7526bac",
+            "w": 96
+          },
+          {
+            "bytes": 4022,
+            "h": 80,
+            "path": "avif/monkeys-playing-chess-128.avif",
+            "sha256": "cbbf06105d97e22c419c9d4ad04ba160c776c9d45d3fad4eef1ddd063be6e094",
+            "w": 128
+          },
+          {
+            "bytes": 6351,
+            "h": 119,
+            "path": "avif/monkeys-playing-chess-192.avif",
+            "sha256": "5ceb59fb33f6fa31c0f75ba389ec37a14fb6b01a353397b9093b2e27b25c0dca",
+            "w": 192
+          },
+          {
+            "bytes": 10366,
+            "h": 159,
+            "path": "avif/monkeys-playing-chess-256.avif",
+            "sha256": "a3da2618796c4a5cc91d7fbac9076e5a9cad3f4e7718ac6051fcb34baffc6022",
+            "w": 256
+          },
+          {
+            "bytes": 18627,
+            "h": 239,
+            "path": "avif/monkeys-playing-chess-384.avif",
+            "sha256": "24c4235d69842c0cce2ebc4b1ca9397fd8ceebc47d39b1611d7a8135ea4acf1c",
+            "w": 384
+          },
+          {
+            "bytes": 28339,
+            "h": 318,
+            "path": "avif/monkeys-playing-chess-512.avif",
+            "sha256": "51c21045862a99afe57203f9306898e073375fccefd7704b47d4c81fd2f938aa",
+            "w": 512
+          },
+          {
+            "bytes": 53566,
+            "h": 478,
+            "path": "avif/monkeys-playing-chess-768.avif",
+            "sha256": "bd291c7ef71bc15634317a9e8822f643b976bbef0d154c7481e2864744e84f36",
+            "w": 768
+          },
+          {
+            "bytes": 84668,
+            "h": 637,
+            "path": "avif/monkeys-playing-chess-1024.avif",
+            "sha256": "88cde703a6938a04e776fc666cc983ce1bb0e56daa158b4f66bb09761e9194af",
+            "w": 1024
+          },
+          {
+            "bytes": 123820,
+            "h": 818,
+            "path": "avif/monkeys-playing-chess-1315.avif",
+            "sha256": "ce03b30f75a64e15d01ce0a2e2a96fc2790d0e9691a450f39a3b52bbab7297f8",
+            "w": 1315
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2570,
+            "h": 40,
+            "path": "webp/monkeys-playing-chess-64.webp",
+            "sha256": "16449486566fc0dd2d9ccea691940ad33748b75cfb027209d642122f4b317c75",
+            "w": 64
+          },
+          {
+            "bytes": 4538,
+            "h": 60,
+            "path": "webp/monkeys-playing-chess-96.webp",
+            "sha256": "dc15b1562e00540d77faef014079a07440516b76cff834f4b1b660b9657620a9",
+            "w": 96
+          },
+          {
+            "bytes": 6932,
+            "h": 80,
+            "path": "webp/monkeys-playing-chess-128.webp",
+            "sha256": "60017329997d2d7e926c81de779fbd1af93729cbb0c82003b6360c0dd3667420",
+            "w": 128
+          },
+          {
+            "bytes": 12622,
+            "h": 119,
+            "path": "webp/monkeys-playing-chess-192.webp",
+            "sha256": "e0df72cc8b03625695a4558ce78ea068cb3a41dddfd6cc28436d818bf8831ef4",
+            "w": 192
+          },
+          {
+            "bytes": 18758,
+            "h": 159,
+            "path": "webp/monkeys-playing-chess-256.webp",
+            "sha256": "0523cc58c043fd7c5830b29826825e7d2a70c790dc4308b8e0a27d0da4b9c5f4",
+            "w": 256
+          },
+          {
+            "bytes": 35268,
+            "h": 239,
+            "path": "webp/monkeys-playing-chess-384.webp",
+            "sha256": "e15f75dba1301a8cb1043db317a4f3aa620ee6193bf84294579ed24082d60d2b",
+            "w": 384
+          },
+          {
+            "bytes": 54270,
+            "h": 318,
+            "path": "webp/monkeys-playing-chess-512.webp",
+            "sha256": "91f49589c804043124d6248daa9e03a176c3730e7e3651be1574b78c2ff4ed08",
+            "w": 512
+          },
+          {
+            "bytes": 105402,
+            "h": 478,
+            "path": "webp/monkeys-playing-chess-768.webp",
+            "sha256": "7e86cb1e0d89b9a62c7e723defc79c876f8f668df60fe4ad0498c3e01099f289",
+            "w": 768
+          },
+          {
+            "bytes": 166750,
+            "h": 637,
+            "path": "webp/monkeys-playing-chess-1024.webp",
+            "sha256": "c1860506ae8a9e0eb9f9484a716d41df2b93e8d9949c1406894cccfbd55475e8",
+            "w": 1024
+          },
+          {
+            "bytes": 231518,
+            "h": 818,
+            "path": "webp/monkeys-playing-chess-1315.webp",
+            "sha256": "311608d6251f711bbc5baf6313dec3f81c4e913d1107a74766ade7112004de3e",
+            "w": 1315
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "monkey",
+        "chess",
+        "chessboard",
+        "drollery",
+        "marginalia"
+      ],
+      "thumbhash": "VymCA4A5+WiLZnJYaXDPN2dGdndwp1g=",
+      "title": "Two monkeys playing chess",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "One scene; the board is held between the two players and both hands overlap it, so do not crop it apart."
+      ],
+      "view": "side",
+      "width": 1315
+    },
+    "monkeys-singing-at-lectern": {
+      "attribution": "Walters Art Museum W.88, fol. 52r",
+      "categories": [
+        "animals",
+        "music",
+        "reading",
+        "fantasy"
+      ],
+      "colors": [
+        "cream",
+        "brown",
+        "black"
+      ],
+      "composition": "multiple-figures",
+      "description": "Two cream monkeys with hatched fur stand upright one behind the other at the left, mouths open in song, facing right towards a tall brown lectern. The front monkey stretches an arm to the open book on the slanted desk, whose pages show ruled lines of text; the lectern stands on a tall ochre-brown foot. Black contours; the background is transparent.",
+      "display_width": [
+        250,
+        600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 136125,
+        "webpTopBytes": 310040
+      },
+      "facing": "right",
+      "group": "52r",
+      "height": 1127,
+      "master": {
+        "bytes": 1167284,
+        "h": 1127,
+        "path": "masters/monkeys-singing-at-lectern.webp",
+        "sha256": "1ef3f0ce710f8f08bc3940cb4baf91def595378529de8f3307fa332cd898a389",
+        "w": 1086
+      },
+      "palette": [
+        "#7a6b4d",
+        "#4c4534",
+        "#9c8961",
+        "#cbbe95",
+        "#b2a784"
+      ],
+      "provenance": {
+        "date": "First quarter 14th century CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000109_1200.tif",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.88, fol. 52r",
+        "object_title": "Monkeys singing",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "1574874490e1dbccd39e14dd6bf8926e0e85848ffbcd1ffe3f7ab239aeab8d1e"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2580,
+            "h": 66,
+            "path": "avif/monkeys-singing-at-lectern-64.avif",
+            "sha256": "3aad7bf080becc4e7a00986795a1b7c4282e28c4b33856c951740e062c13345d",
+            "w": 64
+          },
+          {
+            "bytes": 4193,
+            "h": 100,
+            "path": "avif/monkeys-singing-at-lectern-96.avif",
+            "sha256": "9f2da8241a10c412debcfa54c659f730b065bd0af5546b5b7199f91021a1fb2e",
+            "w": 96
+          },
+          {
+            "bytes": 6021,
+            "h": 133,
+            "path": "avif/monkeys-singing-at-lectern-128.avif",
+            "sha256": "ddbf9726f4aefd7ac364dbf445b8f993d5825f7ef16939cb9d9399b312baf20c",
+            "w": 128
+          },
+          {
+            "bytes": 10854,
+            "h": 199,
+            "path": "avif/monkeys-singing-at-lectern-192.avif",
+            "sha256": "dfb98d1a0dab7bed530d0149b1d12664a991d9d14c80fca8eccc701d0b9071a1",
+            "w": 192
+          },
+          {
+            "bytes": 16551,
+            "h": 266,
+            "path": "avif/monkeys-singing-at-lectern-256.avif",
+            "sha256": "6cfc7f99bf8c533e7b9234a7689c7522b6526a4b4f1fe1f3c26aa2644e025060",
+            "w": 256
+          },
+          {
+            "bytes": 31316,
+            "h": 398,
+            "path": "avif/monkeys-singing-at-lectern-384.avif",
+            "sha256": "e531ef1c7a97232682a83fbf1645841abdd7ec2a754fe00a94337d345596b171",
+            "w": 384
+          },
+          {
+            "bytes": 48644,
+            "h": 531,
+            "path": "avif/monkeys-singing-at-lectern-512.avif",
+            "sha256": "5746fea078f5e8eda42513171891af2b5cfe6e1fae04a6454fd408d16aa2a400",
+            "w": 512
+          },
+          {
+            "bytes": 85411,
+            "h": 797,
+            "path": "avif/monkeys-singing-at-lectern-768.avif",
+            "sha256": "cd9374bb5a0ee02435c623e815687b7b66f97add91b46e1608f0ebba669912f7",
+            "w": 768
+          },
+          {
+            "bytes": 124573,
+            "h": 1063,
+            "path": "avif/monkeys-singing-at-lectern-1024.avif",
+            "sha256": "809f0f75a8d586cb1dfb747698f6f17302933ca656dba866765300b10bad17b7",
+            "w": 1024
+          },
+          {
+            "bytes": 136125,
+            "h": 1127,
+            "path": "avif/monkeys-singing-at-lectern-1086.avif",
+            "sha256": "0d448a1d4e0eeea63b4f8526ab016a615c3f10ca45ac5a2b9502a7b2c215430b",
+            "w": 1086
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4062,
+            "h": 66,
+            "path": "webp/monkeys-singing-at-lectern-64.webp",
+            "sha256": "54a4a40875bb886b65d996c55efec9c9dd6c61caaf1f8eb1aa117ae6324b6293",
+            "w": 64
+          },
+          {
+            "bytes": 7270,
+            "h": 100,
+            "path": "webp/monkeys-singing-at-lectern-96.webp",
+            "sha256": "453ed624156763cd5753242ece01d82a64db4207f0f7397b4fc0d3926e9ea04f",
+            "w": 96
+          },
+          {
+            "bytes": 11132,
+            "h": 133,
+            "path": "webp/monkeys-singing-at-lectern-128.webp",
+            "sha256": "adb99321aeb0ace4f14d6684fb127371ba23053ee264d8816929d3286e3c3b75",
+            "w": 128
+          },
+          {
+            "bytes": 20174,
+            "h": 199,
+            "path": "webp/monkeys-singing-at-lectern-192.webp",
+            "sha256": "9221fa9f2078f1073f99deea8211415de951764d9236c3042ee9f223279208e9",
+            "w": 192
+          },
+          {
+            "bytes": 31010,
+            "h": 266,
+            "path": "webp/monkeys-singing-at-lectern-256.webp",
+            "sha256": "8def66bed662ca8de914154cdafbc2a2227c06eddd7aeab05e7d0da50997a416",
+            "w": 256
+          },
+          {
+            "bytes": 58572,
+            "h": 398,
+            "path": "webp/monkeys-singing-at-lectern-384.webp",
+            "sha256": "da135569af54b9dc504a279c85ec9951bf267a275f0669e6123074a9408bd06b",
+            "w": 384
+          },
+          {
+            "bytes": 92586,
+            "h": 531,
+            "path": "webp/monkeys-singing-at-lectern-512.webp",
+            "sha256": "6e8c1df0f15da48a2bf4f042ef6b8bd7d739d21ba35ce5e4a0a879a572e35528",
+            "w": 512
+          },
+          {
+            "bytes": 183790,
+            "h": 797,
+            "path": "webp/monkeys-singing-at-lectern-768.webp",
+            "sha256": "46ca497ff1098c360617fef39ebf9879cf6b8d9c7544c827491eec01479bc314",
+            "w": 768
+          },
+          {
+            "bytes": 282152,
+            "h": 1063,
+            "path": "webp/monkeys-singing-at-lectern-1024.webp",
+            "sha256": "06d413751169e476a253f00591ebe068b482a19e6b6008900ed40a2fbd7ff871",
+            "w": 1024
+          },
+          {
+            "bytes": 310040,
+            "h": 1127,
+            "path": "webp/monkeys-singing-at-lectern-1086.webp",
+            "sha256": "747c2174004d2835a06a45ef72a7bae43cf8af63e8ab8c2fbad5671cc92b7056",
+            "w": 1086
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "monkey",
+        "choir",
+        "lectern",
+        "book",
+        "drollery",
+        "marginalia"
+      ],
+      "thumbhash": "HRmCBQA4nFU/mUVXWpHwAhlepwdneGRXRw==",
+      "title": "Two monkeys singing at a lectern",
+      "transparent": true,
+      "type": "illustration",
+      "view": "side",
+      "width": 1086
+    },
+    "orange-trefoil-flower": {
+      "attribution": "Walters Art Museum W.88, fol. 52r",
+      "categories": [
+        "floral"
+      ],
+      "colors": [
+        "orange",
+        "white",
+        "gray"
+      ],
+      "composition": "single-ornament",
+      "description": "A small orange flower of three rounded lobes, one pointing up and two to the sides, with a short stub of stem below. Each lobe is edged with a painted white outline and carries a white dot or stroke; a thin dark contour surrounds the whole. The background is transparent.",
+      "display_width": [
+        40,
+        120
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 9976,
+        "webpTopBytes": 13214
+      },
+      "facing": "none",
+      "group": "52r",
+      "height": 274,
+      "master": {
+        "bytes": 72808,
+        "h": 274,
+        "path": "masters/orange-trefoil-flower.webp",
+        "sha256": "64f9ef7402f3a1321a12b415670d7a368ed6bc4dcd2cf0c8f3190891b5452756",
+        "w": 283
+      },
+      "palette": [
+        "#92501e",
+        "#a75516",
+        "#85785b",
+        "#a37651",
+        "#a59a7c"
+      ],
+      "provenance": {
+        "date": "First quarter 14th century CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000109_1200.tif",
+        "institution": "Walters Art Museum",
+        "method": "native-source-extraction",
+        "object_identifier": "W.88, fol. 52r",
+        "object_title": "Monkeys singing",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "1574874490e1dbccd39e14dd6bf8926e0e85848ffbcd1ffe3f7ab239aeab8d1e"
+      },
+      "quality": "Only 283 px wide; the white outline sits on a soft grey-green rim that shows on dark grounds.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2147,
+            "h": 62,
+            "path": "avif/orange-trefoil-flower-64.avif",
+            "sha256": "7c21e8d9c919430e9e9d9b7e1de559bd23526ab105249c8875614d4fbe0eff59",
+            "w": 64
+          },
+          {
+            "bytes": 3293,
+            "h": 93,
+            "path": "avif/orange-trefoil-flower-96.avif",
+            "sha256": "54c0f3b97a955fe5f4415871f08723216c4a257ae58b0bedc88de4fecf80c763",
+            "w": 96
+          },
+          {
+            "bytes": 4071,
+            "h": 124,
+            "path": "avif/orange-trefoil-flower-128.avif",
+            "sha256": "33f820659e1e884419ea8e2075b786da0f4d486d245879e7f94dc40683d05778",
+            "w": 128
+          },
+          {
+            "bytes": 6394,
+            "h": 186,
+            "path": "avif/orange-trefoil-flower-192.avif",
+            "sha256": "d3901c1e10b3726806fef9125a76880451e57d84a376cffac9bdc28b0bf8b474",
+            "w": 192
+          },
+          {
+            "bytes": 9451,
+            "h": 248,
+            "path": "avif/orange-trefoil-flower-256.avif",
+            "sha256": "207f137b7e82d071ee2ea2861dd6693b4dc4c1dcb4a29cfa9611bac671d34580",
+            "w": 256
+          },
+          {
+            "bytes": 9976,
+            "h": 274,
+            "path": "avif/orange-trefoil-flower-283.avif",
+            "sha256": "5124c77de4084802486e7ee8c73de6f72d5ad6aba9749e51d6c4d873097625a5",
+            "w": 283
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2666,
+            "h": 62,
+            "path": "webp/orange-trefoil-flower-64.webp",
+            "sha256": "4176fe0d0a8c9a5f83d50d53f961098ca9723b8b821f75c945c1dc414c4528c5",
+            "w": 64
+          },
+          {
+            "bytes": 4216,
+            "h": 93,
+            "path": "webp/orange-trefoil-flower-96.webp",
+            "sha256": "25f89db17c6b13b03af1173d0098770ec37197db5e19360249462bf74af114ff",
+            "w": 96
+          },
+          {
+            "bytes": 6162,
+            "h": 124,
+            "path": "webp/orange-trefoil-flower-128.webp",
+            "sha256": "fb25383961af12f671056690925162d724eb952e765e199d496d650aaf9d93c9",
+            "w": 128
+          },
+          {
+            "bytes": 9874,
+            "h": 186,
+            "path": "webp/orange-trefoil-flower-192.webp",
+            "sha256": "5e6f71b14fd37c1cf0c06ec412466ae08315b43de5bd4f22483f4a75dd6a8383",
+            "w": 192
+          },
+          {
+            "bytes": 14360,
+            "h": 248,
+            "path": "webp/orange-trefoil-flower-256.webp",
+            "sha256": "0a2a5339f821152987bf99209013b01df8121b203136cffc61321bc77a802db4",
+            "w": 256
+          },
+          {
+            "bytes": 13214,
+            "h": 274,
+            "path": "webp/orange-trefoil-flower-283.webp",
+            "sha256": "8a0b8775c4f48d25610c184e9a318692409c3b48b0e54e75efdb3cd526742968",
+            "w": 283
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "flower",
+        "marginalia"
+      ],
+      "thumbhash": "GlqCBYA23WBhizi2uzWcYLUIBop1h4OnaQ==",
+      "title": "Small orange trefoil flower",
+      "transparent": true,
+      "type": "ornament",
+      "width": 283
+    },
+    "right-black-leaf-curl-on-blue-and-gold-stem": {
+      "attribution": "Walters Art Museum W.88, fol. 52r",
+      "categories": [
+        "scrollwork",
+        "botanical"
+      ],
+      "colors": [
+        "black",
+        "blue",
+        "pink",
+        "gold"
+      ],
+      "composition": "single-ornament",
+      "description": "A painted stem of pink, blue and gold stripes runs diagonally from the lower left and ends in a blue and pink angular node, from which a thin black ink line climbs upward with small solid leaf blobs, loops once halfway up and ends in a hooked tip at the top. Black contours; the background is transparent.",
+      "display_width": [
+        150,
+        400
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 39048,
+        "webpTopBytes": 74762
+      },
+      "facing": "up",
+      "group": "52r",
+      "height": 1026,
+      "master": {
+        "bytes": 241030,
+        "h": 1026,
+        "path": "masters/right-black-leaf-curl-on-blue-and-gold-stem.webp",
+        "sha256": "5842b75c3a954b388589374c9aeb858d169913b866033b92911caf3d0b0f51d7",
+        "w": 687
+      },
+      "palette": [
+        "#252a23",
+        "#4a4536",
+        "#6e573d",
+        "#a07d3e",
+        "#92643e"
+      ],
+      "provenance": {
+        "date": "First quarter 14th century CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000109_1200.tif",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.88, fol. 52r",
+        "object_title": "Monkeys singing",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "1574874490e1dbccd39e14dd6bf8926e0e85848ffbcd1ffe3f7ab239aeab8d1e"
+      },
+      "quality": "The painted stem is cut flat at the left edge where it left the bar border.",
+      "related": [
+        {
+          "asset": "walters-w88/upper-margin-with-three-grotesque-heads",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w88/left-rod-with-two-profile-heads",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w88/lower-black-foliate-curl",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1939,
+            "h": 96,
+            "path": "avif/right-black-leaf-curl-on-blue-and-gold-stem-64.avif",
+            "sha256": "cee944bfb7d95b567df9518093be326604d13e9cbc4d6081e166ff43ec6176d1",
+            "w": 64
+          },
+          {
+            "bytes": 3236,
+            "h": 143,
+            "path": "avif/right-black-leaf-curl-on-blue-and-gold-stem-96.avif",
+            "sha256": "8f5f2e32e4d13ace523a289b9dd180d2b8fb98f4df57fa9b2dacb0cc233bc329",
+            "w": 96
+          },
+          {
+            "bytes": 4117,
+            "h": 191,
+            "path": "avif/right-black-leaf-curl-on-blue-and-gold-stem-128.avif",
+            "sha256": "326b27c48b293493ec8ab1348a675f9bfa4b8175f6b14013623cb24314c98611",
+            "w": 128
+          },
+          {
+            "bytes": 7294,
+            "h": 287,
+            "path": "avif/right-black-leaf-curl-on-blue-and-gold-stem-192.avif",
+            "sha256": "326d4895805f9471cc797440bdcb58e609d928a98ed9dbe6c3004fe7b29b2d93",
+            "w": 192
+          },
+          {
+            "bytes": 9930,
+            "h": 382,
+            "path": "avif/right-black-leaf-curl-on-blue-and-gold-stem-256.avif",
+            "sha256": "e156954590c4f05ca857f41b2c8c8d7a1c85e0cb81f31d2384e7c5f348f621da",
+            "w": 256
+          },
+          {
+            "bytes": 17906,
+            "h": 573,
+            "path": "avif/right-black-leaf-curl-on-blue-and-gold-stem-384.avif",
+            "sha256": "8e11e8c2cbf78caba1cbd20a799164a649fd69bf0160c18b55c188f2b495429a",
+            "w": 384
+          },
+          {
+            "bytes": 26564,
+            "h": 765,
+            "path": "avif/right-black-leaf-curl-on-blue-and-gold-stem-512.avif",
+            "sha256": "50fa062268d32ec1005107bbe493be70ba0921a66368198204f9f497cbe79d75",
+            "w": 512
+          },
+          {
+            "bytes": 39048,
+            "h": 1026,
+            "path": "avif/right-black-leaf-curl-on-blue-and-gold-stem-687.avif",
+            "sha256": "f2eb659da5a1582c5b54a40220901854b8c2a61bd292e01feb0274a0c62ee819",
+            "w": 687
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2654,
+            "h": 96,
+            "path": "webp/right-black-leaf-curl-on-blue-and-gold-stem-64.webp",
+            "sha256": "32be47b1127ae9a05c96e57dc58441c4d266d417f5464d4b94383a1e5d1da289",
+            "w": 64
+          },
+          {
+            "bytes": 4560,
+            "h": 143,
+            "path": "webp/right-black-leaf-curl-on-blue-and-gold-stem-96.webp",
+            "sha256": "6ec6301df451076ec81b2c90b1c117f9a9381a83b8bc806ae2fe66fe7afa5594",
+            "w": 96
+          },
+          {
+            "bytes": 6784,
+            "h": 191,
+            "path": "webp/right-black-leaf-curl-on-blue-and-gold-stem-128.webp",
+            "sha256": "f211fab4e63841b221f508d5499c620906f562d127d4c5e4b306552541be37e6",
+            "w": 128
+          },
+          {
+            "bytes": 12048,
+            "h": 287,
+            "path": "webp/right-black-leaf-curl-on-blue-and-gold-stem-192.webp",
+            "sha256": "81e215b2cbfb5c456ac55edc497ae84a7b93ca2bcfcc66169d4c294b48554ad6",
+            "w": 192
+          },
+          {
+            "bytes": 17886,
+            "h": 382,
+            "path": "webp/right-black-leaf-curl-on-blue-and-gold-stem-256.webp",
+            "sha256": "3e55f4a844012ba4fd5eac6ad751feecb485230344eb45b3f05aed90b92c3d56",
+            "w": 256
+          },
+          {
+            "bytes": 31354,
+            "h": 573,
+            "path": "webp/right-black-leaf-curl-on-blue-and-gold-stem-384.webp",
+            "sha256": "3a1a1db61e375b7045eaa4495dbbd29c0fb71741c07d362594efcb4fa5595606",
+            "w": 384
+          },
+          {
+            "bytes": 48868,
+            "h": 765,
+            "path": "webp/right-black-leaf-curl-on-blue-and-gold-stem-512.webp",
+            "sha256": "b09b0ddb765a95258b916af1d45c30b99c254d5544a316914cfa5cb894cc70e5",
+            "w": 512
+          },
+          {
+            "bytes": 74762,
+            "h": 1026,
+            "path": "webp/right-black-leaf-curl-on-blue-and-gold-stem-687.webp",
+            "sha256": "05beddc6d6f837f18b0b2a5ce47ea56db47d0507289ac8de1b4211eab9c8b241",
+            "w": 687
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "flourish",
+        "leaf",
+        "stem",
+        "rod",
+        "marginalia"
+      ],
+      "thumbhash": "jwiCAwASfHDqWJZ7gI4G2yRPYWqsNpY=",
+      "title": "Black leaf scroll rising from a painted stem",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Right end of the fol. 52r bottom bar; the flourish climbs the right edge of a block."
+      ],
+      "width": 687
+    },
+    "right-pointed-blue-and-gold-leaf-swash": {
+      "attribution": "Walters Art Museum W.88, fol. 52r",
+      "categories": [
+        "scrollwork",
+        "botanical"
+      ],
+      "colors": [
+        "blue",
+        "gold",
+        "white",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A blue foliate swash rising from the lower left to the upper right, shaped like an angular leaf with a spiky pointed lobe at its right end. A gold stroke runs along its length, white lines and small white marks pick out the inner edges, and a thin black contour surrounds it. The left end is cut flat where it joined the decorated letter; the background is transparent.",
+      "display_width": [
+        150,
+        400
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 23574,
+        "webpTopBytes": 40466
+      },
+      "facing": "right",
+      "group": "52r",
+      "height": 397,
+      "master": {
+        "bytes": 158424,
+        "h": 397,
+        "path": "masters/right-pointed-blue-and-gold-leaf-swash.webp",
+        "sha256": "748e02ee41fd263b8830cef4a3f6ea3d05a7d2c4c695805accd62e59cce6c714",
+        "w": 586
+      },
+      "palette": [
+        "#1a415b",
+        "#556d73",
+        "#908258",
+        "#bea460",
+        "#9fab9d"
+      ],
+      "provenance": {
+        "date": "First quarter 14th century CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000109_1200.tif",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.88, fol. 52r",
+        "object_title": "Monkeys singing",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "1574874490e1dbccd39e14dd6bf8926e0e85848ffbcd1ffe3f7ab239aeab8d1e"
+      },
+      "quality": "Cut flat at the left edge where it left the decorated letter.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1700,
+            "h": 43,
+            "path": "avif/right-pointed-blue-and-gold-leaf-swash-64.avif",
+            "sha256": "85b2422efcf75ac70f6a30972c898ef609f4b4c2f255646c88298d33ae8b7982",
+            "w": 64
+          },
+          {
+            "bytes": 2403,
+            "h": 65,
+            "path": "avif/right-pointed-blue-and-gold-leaf-swash-96.avif",
+            "sha256": "20407b33da375d46fe49954484b1d8154066911d5702b0e17fd7a90125034c08",
+            "w": 96
+          },
+          {
+            "bytes": 3278,
+            "h": 87,
+            "path": "avif/right-pointed-blue-and-gold-leaf-swash-128.avif",
+            "sha256": "7c6df53518d40a766129e0325339a5f8df27eb3213e1fe75e3c3640332da0b50",
+            "w": 128
+          },
+          {
+            "bytes": 4741,
+            "h": 130,
+            "path": "avif/right-pointed-blue-and-gold-leaf-swash-192.avif",
+            "sha256": "291b6e2cdeac1bba98916d517457cb2fff24e58415146f69c58c5d78a29c2405",
+            "w": 192
+          },
+          {
+            "bytes": 6820,
+            "h": 173,
+            "path": "avif/right-pointed-blue-and-gold-leaf-swash-256.avif",
+            "sha256": "8933fb235a51fff7591813c8d9b7355a33ad4eabede8f9897ceabe99a712333d",
+            "w": 256
+          },
+          {
+            "bytes": 12454,
+            "h": 260,
+            "path": "avif/right-pointed-blue-and-gold-leaf-swash-384.avif",
+            "sha256": "783d5c65acac8c48e90acb3606d3d106762e68d78d32f10270a2cecf2bb8e0d6",
+            "w": 384
+          },
+          {
+            "bytes": 18753,
+            "h": 347,
+            "path": "avif/right-pointed-blue-and-gold-leaf-swash-512.avif",
+            "sha256": "cc143790c08cf5f6221722d778e55db7ab3dd049797d8434edab03e930b550e3",
+            "w": 512
+          },
+          {
+            "bytes": 23574,
+            "h": 397,
+            "path": "avif/right-pointed-blue-and-gold-leaf-swash-586.avif",
+            "sha256": "ca7886247a7570fef27de49ccd1f905a490992f48bbb2d0f89988dc7996ed514",
+            "w": 586
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1852,
+            "h": 43,
+            "path": "webp/right-pointed-blue-and-gold-leaf-swash-64.webp",
+            "sha256": "110d621412b0f5c682e2cac92998ec5dec844fd273778e62b49953502004f22a",
+            "w": 64
+          },
+          {
+            "bytes": 3162,
+            "h": 65,
+            "path": "webp/right-pointed-blue-and-gold-leaf-swash-96.webp",
+            "sha256": "f5425e3113448833bd51348dcbbb096caed709bea5b1450250c8823bb516b03b",
+            "w": 96
+          },
+          {
+            "bytes": 4540,
+            "h": 87,
+            "path": "webp/right-pointed-blue-and-gold-leaf-swash-128.webp",
+            "sha256": "fa9eceacd9349681bba6deabdea77750dcc4c0f8cd26af16f01e165ec6c886e7",
+            "w": 128
+          },
+          {
+            "bytes": 8056,
+            "h": 130,
+            "path": "webp/right-pointed-blue-and-gold-leaf-swash-192.webp",
+            "sha256": "45bf56c14f2c11eb52425043d9eeb7b0e1922027afdae23e8bc8b2a471ff1665",
+            "w": 192
+          },
+          {
+            "bytes": 11932,
+            "h": 173,
+            "path": "webp/right-pointed-blue-and-gold-leaf-swash-256.webp",
+            "sha256": "601237d253f95607f0a3870b4a10b643fefe3d0c6fe8b863869555d148f0b27f",
+            "w": 256
+          },
+          {
+            "bytes": 21514,
+            "h": 260,
+            "path": "webp/right-pointed-blue-and-gold-leaf-swash-384.webp",
+            "sha256": "927c232158345857ade2be106f69857518328a213a55e5fcc42f743bcec9a3c3",
+            "w": 384
+          },
+          {
+            "bytes": 33224,
+            "h": 347,
+            "path": "webp/right-pointed-blue-and-gold-leaf-swash-512.webp",
+            "sha256": "8da1cec150585cd080c7d738ebee8887cbf0424066d6149551e8abf0cca76526",
+            "w": 512
+          },
+          {
+            "bytes": 40466,
+            "h": 397,
+            "path": "webp/right-pointed-blue-and-gold-leaf-swash-586.webp",
+            "sha256": "371e74bdb70fea2f37e2001c03ed776269ff194a5b40992473b68d7212399531",
+            "w": 586
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "leaf",
+        "flourish",
+        "terminal",
+        "marginalia"
+      ],
+      "thumbhash": "lteBC4AkXxw0hsqPRPw5xERLQ6fgm4c=",
+      "title": "Pointed blue and gold leaf swash",
+      "transparent": true,
+      "type": "ornament",
+      "width": 586
+    },
+    "seated-harp-player": {
+      "attribution": "Walters Art Museum W.88, fol. 169r",
+      "categories": [
+        "humans",
+        "music"
+      ],
+      "colors": [
+        "gold",
+        "blue",
+        "red",
+        "cream",
+        "black"
+      ],
+      "composition": "single-figure",
+      "description": "A man in a gold tunic and a white cap sits in profile facing right on a blue box-like bench and plays a tall triangular harp with an orange-red frame and white strings, one hand raised to the top of the frame, the other plucking the strings. Brown hose, one foot hanging below the seat, black contours; the background is transparent.",
+      "display_width": [
+        200,
+        500
+      ],
+      "encoding": {
+        "avif": false,
+        "avifTopBytes": 113246,
+        "webpTopBytes": 106018
+      },
+      "facing": "right",
+      "group": "169r",
+      "height": 1312,
+      "master": {
+        "bytes": 2031874,
+        "h": 1312,
+        "path": "masters/seated-harp-player.webp",
+        "sha256": "6e4ab7b6786cdf9cec36b2cf2a4a406b572c006881a3467040fc25acf89587c4",
+        "w": 943
+      },
+      "palette": [
+        "#3a4b40",
+        "#5e634b",
+        "#a59159",
+        "#807e61",
+        "#816d3f"
+      ],
+      "provenance": {
+        "date": "First quarter 14th century CE",
+        "image_rights": "CC0-1.0",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-source-mask",
+        "object_identifier": "W.88, fol. 169r",
+        "object_title": "Man playing harp and dog dancing",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "82c7f9f4adc02fba6937419297b5c12170b383e56ee28d589fa10e55ff0ed0ba"
+      },
+      "related": [
+        {
+          "asset": "walters-w88/dancing-dog",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "webp": [
+          {
+            "bytes": 3916,
+            "h": 89,
+            "path": "webp/seated-harp-player-64.webp",
+            "sha256": "f0e86eb8c2e6db35d43c2cbce89cad9ddf2fea2f358270b9c35aa06620201dcd",
+            "w": 64
+          },
+          {
+            "bytes": 6690,
+            "h": 134,
+            "path": "webp/seated-harp-player-96.webp",
+            "sha256": "93798c43dc83a12017fab831fbad0ea19bf27469a7aed6ad210359c4890e3faf",
+            "w": 96
+          },
+          {
+            "bytes": 9702,
+            "h": 178,
+            "path": "webp/seated-harp-player-128.webp",
+            "sha256": "6a45469d9ef142d363818c2257d958f5bb6e400c2780fb50b7443fa5660dff8e",
+            "w": 128
+          },
+          {
+            "bytes": 16462,
+            "h": 267,
+            "path": "webp/seated-harp-player-192.webp",
+            "sha256": "50c34744b10aecfa87f4ad0d2ca34679891223be925cf8df5cb84a86cca60c83",
+            "w": 192
+          },
+          {
+            "bytes": 23820,
+            "h": 356,
+            "path": "webp/seated-harp-player-256.webp",
+            "sha256": "31fb41d20d8c0e14f1728ff2a53c2c02bd710092d3dfa7d3b39a67ea1096a8ab",
+            "w": 256
+          },
+          {
+            "bytes": 38154,
+            "h": 534,
+            "path": "webp/seated-harp-player-384.webp",
+            "sha256": "5849f942b7f16d7c03221bb2de285c854d8f30ee5b8154115a01b42e242a6738",
+            "w": 384
+          },
+          {
+            "bytes": 54218,
+            "h": 712,
+            "path": "webp/seated-harp-player-512.webp",
+            "sha256": "3b6cd4df14267d9dcf846f8abd802b615275c1ee800703dbd2710f6ed0510b01",
+            "w": 512
+          },
+          {
+            "bytes": 91290,
+            "h": 1069,
+            "path": "webp/seated-harp-player-768.webp",
+            "sha256": "d6604dc7f365af4da8232fc5211805a4273a93b144183234459dc610f7543712",
+            "w": 768
+          },
+          {
+            "bytes": 106018,
+            "h": 1312,
+            "path": "webp/seated-harp-player-943.webp",
+            "sha256": "a0e9d597c321e6c2e867b668aa12e6535da56e84bf32574de0292ad0ff42f1b2",
+            "w": 943
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "man",
+        "musician",
+        "harp",
+        "bench",
+        "cap",
+        "marginalia"
+      ],
+      "thumbhash": "lfiBDAInZ/dbdnhjlfcKZ5/hQHaFaJV4Ag==",
+      "title": "Seated harper in a gold tunic",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Pairs with dancing-dog, which dances to this harp; set the dog at the right so the two face each other."
+      ],
+      "view": "side",
+      "width": 943
+    },
+    "short-blue-and-gold-curled-leaf-terminal": {
+      "attribution": "Walters Art Museum W.88, fol. 136r",
+      "categories": [
+        "scrollwork"
+      ],
+      "colors": [
+        "gold",
+        "blue",
+        "brown",
+        "white",
+        "black"
+      ],
+      "composition": "single-ornament",
+      "description": "A short horizontal segment of bar border running to the right and curling down at its right end. It is built of parallel stripes of gold, brown, blue and white inside a black contour, the gold leaf flaking in places; the left end is cut flat where it left the bar, showing blue and white. The background is transparent.",
+      "display_width": [
+        120,
+        350
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 23341,
+        "webpTopBytes": 45692
+      },
+      "facing": "right",
+      "group": "136r",
+      "height": 388,
+      "master": {
+        "bytes": 164712,
+        "h": 388,
+        "path": "masters/short-blue-and-gold-curled-leaf-terminal.webp",
+        "sha256": "ef0b45dc27383659934dadd8d3cb24adf7418c5171e736c74ef0f2e03ae58806",
+        "w": 560
+      },
+      "palette": [
+        "#ae916a",
+        "#463f28",
+        "#a87d3a",
+        "#796f56",
+        "#4c544e"
+      ],
+      "provenance": {
+        "date": "First quarter 14th century CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000277_1200.tif",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.88, fol. 136r",
+        "object_title": "Dancing monkeys",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "0ca359b8bb9e459d4ce4b081bab988f943522ac776ec806f69b86008d6b51f9a"
+      },
+      "quality": "Cut flat at the left edge where it left the bar border.",
+      "related": [
+        {
+          "asset": "walters-w88/lower-profile-head-on-long-blue-and-gold-rod",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w88/corner-rod-with-hooded-head",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1395,
+            "h": 44,
+            "path": "avif/short-blue-and-gold-curled-leaf-terminal-64.avif",
+            "sha256": "1c5cdba85d08de3e6920cc081a1082aa274e8988b892f6c727b4575004466e4d",
+            "w": 64
+          },
+          {
+            "bytes": 2148,
+            "h": 67,
+            "path": "avif/short-blue-and-gold-curled-leaf-terminal-96.avif",
+            "sha256": "045dcdd9dcaec56fc2e4c9e6ce1a21b793991b3964ee4c2719c5c4cfa32c9486",
+            "w": 96
+          },
+          {
+            "bytes": 2813,
+            "h": 89,
+            "path": "avif/short-blue-and-gold-curled-leaf-terminal-128.avif",
+            "sha256": "717b0474d22fb8f99d39e96347fc2cc8079e77abf15232cde1139e3035d6857c",
+            "w": 128
+          },
+          {
+            "bytes": 4564,
+            "h": 133,
+            "path": "avif/short-blue-and-gold-curled-leaf-terminal-192.avif",
+            "sha256": "e5ceaaa4193c5547b16d5cddf96ba9be4e31aef031febb6f77e7c8665501132e",
+            "w": 192
+          },
+          {
+            "bytes": 7028,
+            "h": 177,
+            "path": "avif/short-blue-and-gold-curled-leaf-terminal-256.avif",
+            "sha256": "aa8bd708d25a6533d4485b4b03a1e05b47d7bc4ef6e2643fdfad7bb3b9885a4c",
+            "w": 256
+          },
+          {
+            "bytes": 13039,
+            "h": 266,
+            "path": "avif/short-blue-and-gold-curled-leaf-terminal-384.avif",
+            "sha256": "459755c1a8489a704de7b201be5adf0a6c27820aa6f0042d6b98e6c314b12ed9",
+            "w": 384
+          },
+          {
+            "bytes": 19895,
+            "h": 355,
+            "path": "avif/short-blue-and-gold-curled-leaf-terminal-512.avif",
+            "sha256": "76ff3578d0a9d789fbfbb804d93af38859f5e533126e9c371b488332ae7104b0",
+            "w": 512
+          },
+          {
+            "bytes": 23341,
+            "h": 388,
+            "path": "avif/short-blue-and-gold-curled-leaf-terminal-560.avif",
+            "sha256": "325eb33a139b97f2166b192a914d5a58121abeb959d4513045e64b39a1111b6f",
+            "w": 560
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1980,
+            "h": 44,
+            "path": "webp/short-blue-and-gold-curled-leaf-terminal-64.webp",
+            "sha256": "c86087a90fcaeca7bcafd5c75482cfefbe38493fb8baf1960a4a43aa972f5b4f",
+            "w": 64
+          },
+          {
+            "bytes": 3248,
+            "h": 67,
+            "path": "webp/short-blue-and-gold-curled-leaf-terminal-96.webp",
+            "sha256": "2e9b2e50b6d891bddd56ffcc97cb00841decc59178a989248e1f52d7724f66e1",
+            "w": 96
+          },
+          {
+            "bytes": 5202,
+            "h": 89,
+            "path": "webp/short-blue-and-gold-curled-leaf-terminal-128.webp",
+            "sha256": "6e300f26d7d7313890b6ebcdecef06fbb772041beefc51d01ba969cbc2697bfc",
+            "w": 128
+          },
+          {
+            "bytes": 8496,
+            "h": 133,
+            "path": "webp/short-blue-and-gold-curled-leaf-terminal-192.webp",
+            "sha256": "1dfe4ae4812af2c566b614045bdad17b684ac3b1995b6a6accf588905f05a46d",
+            "w": 192
+          },
+          {
+            "bytes": 14088,
+            "h": 177,
+            "path": "webp/short-blue-and-gold-curled-leaf-terminal-256.webp",
+            "sha256": "3aebf5b6e286009c703153691611ebe777f9f4ce27ff3f23d2dc4ab170bb7f10",
+            "w": 256
+          },
+          {
+            "bytes": 25550,
+            "h": 266,
+            "path": "webp/short-blue-and-gold-curled-leaf-terminal-384.webp",
+            "sha256": "e0a845f1f9d09efeadf0c204a13dc0f47314c686beb31d65cff915bd673707a5",
+            "w": 384
+          },
+          {
+            "bytes": 40040,
+            "h": 355,
+            "path": "webp/short-blue-and-gold-curled-leaf-terminal-512.webp",
+            "sha256": "f368dfc98be77d8a5b2b84e79ea384b9f3c8cb3568f01aaf9641f78ac64e7ba1",
+            "w": 512
+          },
+          {
+            "bytes": 45692,
+            "h": 388,
+            "path": "webp/short-blue-and-gold-curled-leaf-terminal-560.webp",
+            "sha256": "551a5b7b0429ad6c619318b825ea851cbb530aae0f047084e34343dc09adcff4",
+            "w": 560
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "terminal",
+        "rod",
+        "leaf",
+        "marginalia"
+      ],
+      "thumbhash": "WSmCA4AloJtVpsNwZAcoh5NJ+nXDSkU=",
+      "title": "Short striped bar end curling down",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "Right-hand end piece for a horizontal rule; butt its cut left edge against a bar of similar thickness."
+      ],
+      "width": 560
+    },
+    "two-dancing-monkeys": {
+      "attribution": "Walters Art Museum W.88, fol. 136r",
+      "categories": [
+        "animals",
+        "fantasy"
+      ],
+      "colors": [
+        "cream",
+        "black",
+        "tan"
+      ],
+      "composition": "multiple-figures",
+      "description": "Two cream monkeys dance leaning away from each other, joined by their clasped inner hands at the centre, each raising the outer arm with a closed fist. The left monkey has hatched fur and faces right; the right one is smooth and faces left; both stand on bent legs with splayed feet. Black contours with light tan shading; the background is transparent.",
+      "display_width": [
+        300,
+        700
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 84779,
+        "webpTopBytes": 156380
+      },
+      "facing": "mixed",
+      "group": "136r",
+      "height": 846,
+      "master": {
+        "bytes": 664210,
+        "h": 846,
+        "path": "masters/two-dancing-monkeys.webp",
+        "sha256": "61406acdf98c44b9bf08f5bfdbe100cdee5fb05470e68c0ee56ef0736636c919",
+        "w": 1463
+      },
+      "palette": [
+        "#7f7862",
+        "#d9d1b2",
+        "#b4ac8f",
+        "#2e2a1e",
+        "#544e3e"
+      ],
+      "provenance": {
+        "date": "First quarter 14th century CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000277_1200.tif",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.88, fol. 136r",
+        "object_title": "Dancing monkeys",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "0ca359b8bb9e459d4ce4b081bab988f943522ac776ec806f69b86008d6b51f9a"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1769,
+            "h": 37,
+            "path": "avif/two-dancing-monkeys-64.avif",
+            "sha256": "1a4fd7856677c61ca50075728ded1eab4a777de673ccdf14e6cc891e290f9dd1",
+            "w": 64
+          },
+          {
+            "bytes": 2539,
+            "h": 56,
+            "path": "avif/two-dancing-monkeys-96.avif",
+            "sha256": "ce42b150699ddeb8f3729a18a79b993a7c70447f3fb82d33e0140c80218a6549",
+            "w": 96
+          },
+          {
+            "bytes": 3566,
+            "h": 74,
+            "path": "avif/two-dancing-monkeys-128.avif",
+            "sha256": "2460e73a65a87ceb2366f29aecfd448ca71ff68b086d7d6781e05f4acf9df726",
+            "w": 128
+          },
+          {
+            "bytes": 5392,
+            "h": 111,
+            "path": "avif/two-dancing-monkeys-192.avif",
+            "sha256": "457651fd3338538d4967cf1cc27996ba5cd5f5869109d27155277a80516d63cb",
+            "w": 192
+          },
+          {
+            "bytes": 8332,
+            "h": 148,
+            "path": "avif/two-dancing-monkeys-256.avif",
+            "sha256": "9cfda7884fe2e5d5a35a0cfb3fbba1664715ca7948211f937f2d7def44c41010",
+            "w": 256
+          },
+          {
+            "bytes": 14660,
+            "h": 222,
+            "path": "avif/two-dancing-monkeys-384.avif",
+            "sha256": "3a6023582b543f9fc8f2a30468faf5fb030c1d5dd7aa3c3fea3ac53b9ff9cd98",
+            "w": 384
+          },
+          {
+            "bytes": 21417,
+            "h": 296,
+            "path": "avif/two-dancing-monkeys-512.avif",
+            "sha256": "fb7817d2c2a71daf14c90f9e31223f74705147a674bbf41d9216c1dbf799d653",
+            "w": 512
+          },
+          {
+            "bytes": 36272,
+            "h": 444,
+            "path": "avif/two-dancing-monkeys-768.avif",
+            "sha256": "58dcc92c238078a1bbf0e4462c6d241de29b30e6b81978bd693fd005998eb51c",
+            "w": 768
+          },
+          {
+            "bytes": 53465,
+            "h": 592,
+            "path": "avif/two-dancing-monkeys-1024.avif",
+            "sha256": "52d39036b39d414799f64daf8ff267eb6feef6a8db5a2019d2e14d0f46118a81",
+            "w": 1024
+          },
+          {
+            "bytes": 84779,
+            "h": 846,
+            "path": "avif/two-dancing-monkeys-1463.avif",
+            "sha256": "f05ef5ee89dfb5d2dd914c50e714ce99e50def762be94f18426d40f6fe89f4c4",
+            "w": 1463
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2402,
+            "h": 37,
+            "path": "webp/two-dancing-monkeys-64.webp",
+            "sha256": "79b345383ac337fa8cf44f1a9020bc629947d251bea70c8dc78363775e2ddd25",
+            "w": 64
+          },
+          {
+            "bytes": 3900,
+            "h": 56,
+            "path": "webp/two-dancing-monkeys-96.webp",
+            "sha256": "fda484058a90f29e85f0958cfa9aff4f52b09f2dace086fb77dfafd85b86e5ce",
+            "w": 96
+          },
+          {
+            "bytes": 5694,
+            "h": 74,
+            "path": "webp/two-dancing-monkeys-128.webp",
+            "sha256": "01783fdf053e0004cf33c93fef0f2bf2df521844751a735bfede30f9c91d182b",
+            "w": 128
+          },
+          {
+            "bytes": 9578,
+            "h": 111,
+            "path": "webp/two-dancing-monkeys-192.webp",
+            "sha256": "180fb06383b9718a5f0436d400032fbb1087cda92905fe9c055c80c74c0d0d9b",
+            "w": 192
+          },
+          {
+            "bytes": 13886,
+            "h": 148,
+            "path": "webp/two-dancing-monkeys-256.webp",
+            "sha256": "da59e45e7fc89ecf619462e6d6d192e992cc13062ee186037dbfc85d250ce50d",
+            "w": 256
+          },
+          {
+            "bytes": 23982,
+            "h": 222,
+            "path": "webp/two-dancing-monkeys-384.webp",
+            "sha256": "2aaa2fd7729d05c6c152f6f29d68c56005ce945bcf63d8f95a4acf4f7ac7fd53",
+            "w": 384
+          },
+          {
+            "bytes": 35662,
+            "h": 296,
+            "path": "webp/two-dancing-monkeys-512.webp",
+            "sha256": "83153928ec57124fa570b36ba0a5f65cedb1ce141814e5ec390894cc2c36afb0",
+            "w": 512
+          },
+          {
+            "bytes": 63134,
+            "h": 444,
+            "path": "webp/two-dancing-monkeys-768.webp",
+            "sha256": "c01867032733d8ea918b0f5a1c75f1eafade28f1aa5cea3fa0982dab0fd9891d",
+            "w": 768
+          },
+          {
+            "bytes": 95904,
+            "h": 592,
+            "path": "webp/two-dancing-monkeys-1024.webp",
+            "sha256": "36bf12cf788b4da9e385d1d6d85b5ef2fe0417644c1500ef5e4577df77b0ef31",
+            "w": 1024
+          },
+          {
+            "bytes": 156380,
+            "h": 846,
+            "path": "webp/two-dancing-monkeys-1463.webp",
+            "sha256": "279ebcd2b04bbc15b793bb80c3da407f6516463c54adbecd56f3b151c9a2f826",
+            "w": 1463
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "monkey",
+        "dancer",
+        "drollery",
+        "marginalia"
+      ],
+      "thumbhash": "4AiCA4AVYRiJmZC5hvB/GNgJi2SERxc=",
+      "title": "Two monkeys dancing hand in hand",
+      "transparent": true,
+      "type": "illustration",
+      "view": "side",
+      "width": 1463
+    },
+    "upper-margin-with-three-grotesque-heads": {
+      "attribution": "Walters Art Museum W.88, fol. 52r",
+      "categories": [
+        "hybrids",
+        "fantasy",
+        "scrollwork"
+      ],
+      "colors": [
+        "blue",
+        "black",
+        "pink",
+        "gold",
+        "cream"
+      ],
+      "composition": "single-ornament",
+      "description": "A long horizontal bar from the top margin. At the left it ends in a blue angular foliate knot with orange-tipped lobes and a gold disc; the bar runs right as a blue band with a white line, a pink band with white dots and a thin gold rule, then thins into a plain rod. On the right half a blue four-legged hybrid with a human head crawls to the right, a small bald grotesque head sits on the rod, and the bar ends in a larger head in a white hood. Black contours; the background is transparent.",
+      "display_width": [
+        400,
+        1200
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 70605,
+        "webpTopBytes": 133992
+      },
+      "facing": "right",
+      "group": "52r",
+      "height": 585,
+      "master": {
+        "bytes": 623736,
+        "h": 564,
+        "path": "masters/upper-margin-with-three-grotesque-heads.webp",
+        "sha256": "2176a7c4ae5549d18b251b06704962812fe21374c251eb64f29a0582fcd91027",
+        "w": 2048
+      },
+      "palette": [
+        "#393b35",
+        "#315062",
+        "#9b8f77",
+        "#5a5749",
+        "#7c644b"
+      ],
+      "provenance": {
+        "date": "First quarter 14th century CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000109_1200.tif",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.88, fol. 52r",
+        "object_title": "Monkeys singing",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "1574874490e1dbccd39e14dd6bf8926e0e85848ffbcd1ffe3f7ab239aeab8d1e"
+      },
+      "related": [
+        {
+          "asset": "walters-w88/left-rod-with-two-profile-heads",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w88/lower-black-foliate-curl",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w88/right-black-leaf-curl-on-blue-and-gold-stem",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1327,
+            "h": 18,
+            "path": "avif/upper-margin-with-three-grotesque-heads-64.avif",
+            "sha256": "d4f11d183195c4cdec0cc7ea41b753800fd47a2d41b6dfbb7282af2597223ebc",
+            "w": 64
+          },
+          {
+            "bytes": 1990,
+            "h": 26,
+            "path": "avif/upper-margin-with-three-grotesque-heads-96.avif",
+            "sha256": "2ba968f7e8714927636c089c77e4caf6c8b766d122d5e47207a95c75397c9079",
+            "w": 96
+          },
+          {
+            "bytes": 2249,
+            "h": 35,
+            "path": "avif/upper-margin-with-three-grotesque-heads-128.avif",
+            "sha256": "1c70b89d99c62e23d1b750715bb4c9b7d0f653adf36c0a4605acda1ffe8e60f0",
+            "w": 128
+          },
+          {
+            "bytes": 3219,
+            "h": 53,
+            "path": "avif/upper-margin-with-three-grotesque-heads-192.avif",
+            "sha256": "4b08842885d91b8978e0015c3a0c4c9836f792ab8d3b6c253e3aa244705de3aa",
+            "w": 192
+          },
+          {
+            "bytes": 4488,
+            "h": 70,
+            "path": "avif/upper-margin-with-three-grotesque-heads-256.avif",
+            "sha256": "b2d61e340115441c7aea8356245fb3d3071b4fcbc246b77ef5e994ed0df46850",
+            "w": 256
+          },
+          {
+            "bytes": 8032,
+            "h": 106,
+            "path": "avif/upper-margin-with-three-grotesque-heads-384.avif",
+            "sha256": "498914ae5f3041c576ea4c5ceb247b1cff1a7ecdfc87ded412127314dc545de6",
+            "w": 384
+          },
+          {
+            "bytes": 11787,
+            "h": 141,
+            "path": "avif/upper-margin-with-three-grotesque-heads-512.avif",
+            "sha256": "881f429e8e82ba108a699612ec7a11cd77dec565de159bc2d07dbeed236dc82b",
+            "w": 512
+          },
+          {
+            "bytes": 19492,
+            "h": 211,
+            "path": "avif/upper-margin-with-three-grotesque-heads-768.avif",
+            "sha256": "346cfc7b644847bba1d62172538f941d68fb67fddfe49b49c59651bf136276ef",
+            "w": 768
+          },
+          {
+            "bytes": 28379,
+            "h": 282,
+            "path": "avif/upper-margin-with-three-grotesque-heads-1024.avif",
+            "sha256": "5893c19d7b1908ba76358add998a02ed1b3c829832c2b6f608240383bb99b232",
+            "w": 1024
+          },
+          {
+            "bytes": 49222,
+            "h": 423,
+            "path": "avif/upper-margin-with-three-grotesque-heads-1536.avif",
+            "sha256": "08d38839b03895d6a4e9d90301061f0be40d3b39635e6ccb6a632e7d9ed32c88",
+            "w": 1536
+          },
+          {
+            "bytes": 70605,
+            "h": 564,
+            "path": "avif/upper-margin-with-three-grotesque-heads-2048.avif",
+            "sha256": "e3db8fb3ef38422bb4d76cbaf674da64501b60c1904ab4b33f280a4caea7679b",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1256,
+            "h": 18,
+            "path": "webp/upper-margin-with-three-grotesque-heads-64.webp",
+            "sha256": "693be3a20c6348f9a8638f7008edfb0016c7b9c2adc09a7e7c993d7f3949c456",
+            "w": 64
+          },
+          {
+            "bytes": 2212,
+            "h": 26,
+            "path": "webp/upper-margin-with-three-grotesque-heads-96.webp",
+            "sha256": "56d1796eeee7b483fa27338e214535654dcc6d9f4c34112be0bdd1cab975968b",
+            "w": 96
+          },
+          {
+            "bytes": 3144,
+            "h": 35,
+            "path": "webp/upper-margin-with-three-grotesque-heads-128.webp",
+            "sha256": "483231a6b31feb5e0dac2fa8f339be1ebb6649c4673034679e614ed3c010527a",
+            "w": 128
+          },
+          {
+            "bytes": 5426,
+            "h": 53,
+            "path": "webp/upper-margin-with-three-grotesque-heads-192.webp",
+            "sha256": "9482fa9753cca5589c0c87f82bd5f68a776a5089ae456b200cfff113c21cbe29",
+            "w": 192
+          },
+          {
+            "bytes": 8198,
+            "h": 70,
+            "path": "webp/upper-margin-with-three-grotesque-heads-256.webp",
+            "sha256": "c544f61297477512a2736ca1f12184e8dee8465bdef0b34023f8d3f9a16320cd",
+            "w": 256
+          },
+          {
+            "bytes": 14280,
+            "h": 106,
+            "path": "webp/upper-margin-with-three-grotesque-heads-384.webp",
+            "sha256": "ac4f6358952310aff86d601895e9b1dccd3f8343869cffa0299ab29785553f81",
+            "w": 384
+          },
+          {
+            "bytes": 20552,
+            "h": 141,
+            "path": "webp/upper-margin-with-three-grotesque-heads-512.webp",
+            "sha256": "7ff116cde2a2163d6368c009d6950a7e7eb0addc73ba3d4409c84e67937af7e9",
+            "w": 512
+          },
+          {
+            "bytes": 35264,
+            "h": 211,
+            "path": "webp/upper-margin-with-three-grotesque-heads-768.webp",
+            "sha256": "5032a6f34adb3bba677dc226427ed11db4ef943d29ec34c01b969924b60cbcc7",
+            "w": 768
+          },
+          {
+            "bytes": 51948,
+            "h": 282,
+            "path": "webp/upper-margin-with-three-grotesque-heads-1024.webp",
+            "sha256": "07d08707b8580024e144af6e85c1ee04b6863bc16c7293163db8b1ce5eb54e9e",
+            "w": 1024
+          },
+          {
+            "bytes": 91628,
+            "h": 423,
+            "path": "webp/upper-margin-with-three-grotesque-heads-1536.webp",
+            "sha256": "00ab81de5e92044a194b5af94b273f1ef2df733c63996a1f0d877f6dfdf9370e",
+            "w": 1536
+          },
+          {
+            "bytes": 133992,
+            "h": 564,
+            "path": "webp/upper-margin-with-three-grotesque-heads-2048.webp",
+            "sha256": "c93c50e6ead82594c9eb579b0cea3df07248729e834c79f8226011b825410908",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "rod",
+        "head",
+        "grotesque",
+        "creature",
+        "hood",
+        "leaf",
+        "marginalia"
+      ],
+      "thumbhash": "FviBAYAksGI5aon4dbdPeambTJdwWGw=",
+      "title": "Top-margin bar with a crawling hybrid and three heads",
+      "transparent": true,
+      "type": "divider",
+      "usage_notes": [
+        "Top side of the fol. 52r bar border; sits above a block with left-rod-with-two-profile-heads down its left edge."
+      ],
+      "width": 2125
+    },
+    "woman-leading-harrow-horse": {
+      "attribution": "Walters Art Museum W.88, fol. 12r",
+      "categories": [
+        "humans",
+        "animals"
+      ],
+      "colors": [
+        "orange",
+        "green",
+        "cream",
+        "black",
+        "white"
+      ],
+      "composition": "multiple-figures",
+      "description": "A woman in an orange-red robe and white wimple walks at the right, facing left, and raises a long green switch over a cream horse that walks left in front of her. The horse wears a dark collar and harness lines that run back to a green triangular harrow with dark teeth, dragged along the ground at the far left by a short shaft. Black contours; the background is transparent.",
+      "display_width": [
+        300,
+        700
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 123668,
+        "webpTopBytes": 222922
+      },
+      "facing": "left",
+      "group": "12r",
+      "height": 1019,
+      "master": {
+        "bytes": 981862,
+        "h": 1019,
+        "path": "masters/woman-leading-harrow-horse.webp",
+        "sha256": "d7fb47ab6b7ee4fd272e8f5343e06a1c7b05adf031ace58df942af455f49c290",
+        "w": 1530
+      },
+      "palette": [
+        "#627a4f",
+        "#b45f2d",
+        "#c8b693",
+        "#2d3321",
+        "#5a432c"
+      ],
+      "provenance": {
+        "date": "First quarter 14th century CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W88/data/W.88/master/W88_000029_1200.tif",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.88, fol. 12r",
+        "object_title": "Woman leads horse drawing harrow",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W88/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "786a67d0859891328f4684c40b1505fab2818b277f664d09ce35a66d91e18c58"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1926,
+            "h": 43,
+            "path": "avif/woman-leading-harrow-horse-64.avif",
+            "sha256": "429b98d0846b7cfb35e09889e6ad6910b22c292cad1cd73a5c8e6bc3a62e73b5",
+            "w": 64
+          },
+          {
+            "bytes": 2871,
+            "h": 64,
+            "path": "avif/woman-leading-harrow-horse-96.avif",
+            "sha256": "8ccb5d8f34c96b485de198f71e119dcc00dcb6e26075d1fe4711e90536e4992c",
+            "w": 96
+          },
+          {
+            "bytes": 4128,
+            "h": 85,
+            "path": "avif/woman-leading-harrow-horse-128.avif",
+            "sha256": "fd5ce32ef3f5de8e20c5a66209ebd3321d58bed3d8da584263307860c919eff9",
+            "w": 128
+          },
+          {
+            "bytes": 6113,
+            "h": 128,
+            "path": "avif/woman-leading-harrow-horse-192.avif",
+            "sha256": "cd674bfa5e3cbb90948bb80ebf3d131131a3cf906f66c7fdd2b0d9e60b5129a7",
+            "w": 192
+          },
+          {
+            "bytes": 9221,
+            "h": 170,
+            "path": "avif/woman-leading-harrow-horse-256.avif",
+            "sha256": "5691aa8688e2421e1f494b4bca50267003a29dc3fe384896c01a3924d9c4ca45",
+            "w": 256
+          },
+          {
+            "bytes": 16715,
+            "h": 256,
+            "path": "avif/woman-leading-harrow-horse-384.avif",
+            "sha256": "6e95f77b7af9e0b3a6eb1c3b4c923ec1befa929dee515227b0b376e9c0eb1d50",
+            "w": 384
+          },
+          {
+            "bytes": 25817,
+            "h": 341,
+            "path": "avif/woman-leading-harrow-horse-512.avif",
+            "sha256": "16e0b07736c1cfda354b2f498e161b134ed853fd711055fa5716079e522b06e5",
+            "w": 512
+          },
+          {
+            "bytes": 47333,
+            "h": 511,
+            "path": "avif/woman-leading-harrow-horse-768.avif",
+            "sha256": "25dedd327f3126f27b87f6a12c581ec6377e9e88602eded2f381931bc75b66e7",
+            "w": 768
+          },
+          {
+            "bytes": 71856,
+            "h": 682,
+            "path": "avif/woman-leading-harrow-horse-1024.avif",
+            "sha256": "df3b94a674f5ec5fd462e11e0e49be3b963d842618d9c2235bf5ae53b43e3c94",
+            "w": 1024
+          },
+          {
+            "bytes": 123668,
+            "h": 1019,
+            "path": "avif/woman-leading-harrow-horse-1530.avif",
+            "sha256": "49015e3b473f000347f38cb958590be9977f49623b45edbff81327b90494d04e",
+            "w": 1530
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2498,
+            "h": 43,
+            "path": "webp/woman-leading-harrow-horse-64.webp",
+            "sha256": "123afdd00e846dcc89ae5ef113521bb2be798c4feab22ca3b4ac524db57e4fd6",
+            "w": 64
+          },
+          {
+            "bytes": 4150,
+            "h": 64,
+            "path": "webp/woman-leading-harrow-horse-96.webp",
+            "sha256": "8dd54620c72fc6d854acdb7944d3329f0f0e0e70987f10a499b2ed56e70cec14",
+            "w": 96
+          },
+          {
+            "bytes": 6062,
+            "h": 85,
+            "path": "webp/woman-leading-harrow-horse-128.webp",
+            "sha256": "45626e909376751858ed547a5142308535da7253a3e4d4bba00847a98ab826b4",
+            "w": 128
+          },
+          {
+            "bytes": 10682,
+            "h": 128,
+            "path": "webp/woman-leading-harrow-horse-192.webp",
+            "sha256": "b9a127de298d19f656ff57ea373ce559aac3be3882b4467052081678bfab4f47",
+            "w": 192
+          },
+          {
+            "bytes": 16042,
+            "h": 170,
+            "path": "webp/woman-leading-harrow-horse-256.webp",
+            "sha256": "98b62c47e5db6a7e11bee9a385b82e51b4d476eadf17ce3e55e6204ea3d8b091",
+            "w": 256
+          },
+          {
+            "bytes": 28880,
+            "h": 256,
+            "path": "webp/woman-leading-harrow-horse-384.webp",
+            "sha256": "26fc6b2fd81597557ac89e9e755c0bd1bb5fffd23345037ecb38468b4e387ad2",
+            "w": 384
+          },
+          {
+            "bytes": 44308,
+            "h": 341,
+            "path": "webp/woman-leading-harrow-horse-512.webp",
+            "sha256": "c26dc67f796dcca1b5f74428cfc27bb83789d576393433bcaaa6cd1f34aac462",
+            "w": 512
+          },
+          {
+            "bytes": 82788,
+            "h": 511,
+            "path": "webp/woman-leading-harrow-horse-768.webp",
+            "sha256": "9f063ea26123d41c83c628b0bf04e171d3458209d57ed7a172d9e05802174393",
+            "w": 768
+          },
+          {
+            "bytes": 128156,
+            "h": 682,
+            "path": "webp/woman-leading-harrow-horse-1024.webp",
+            "sha256": "f83fa5736e7800a511d5379389837b6e04c550bfb08681122174959253670b6d",
+            "w": 1024
+          },
+          {
+            "bytes": 222922,
+            "h": 1019,
+            "path": "webp/woman-leading-harrow-horse-1530.webp",
+            "sha256": "34cb4a980b77c4154ef33d441b1f19013c0da27302bb2a32af6f3254caa327b5",
+            "w": 1530
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "woman",
+        "horse",
+        "harrow",
+        "harness",
+        "hood",
+        "marginalia"
+      ],
+      "thumbhash": "WimCC4QlBX2Za5TQuAaJa5J7YYeQ2Es=",
+      "title": "Woman driving a horse that drags a harrow",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The harrow is a solid green panel with dark teeth; the thin harness lines between horse and harrow are intentionally kept, so crop around the whole group."
+      ],
+      "view": "side",
+      "width": 1530
+    }
+  },
+  "attribution": "Walters Art Museum W.88",
+  "builtAt": "2026-10-30T13:13:06.110Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-walters-w88@1.0.0/",
+  "contentHash": "sha256:e959fa98e552ac34bf57a51b631d78fb1dec43576037ecac9a5c54aba45fd2bd",
+  "inputsHash": "sha256:0a165673dbe29600a8c5d118f61de21d27435c536315f971dcc0410aa788c459",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from Digital Walters manuscript images (CC0); see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-walters-w88-masters",
+  "package": "@ranx729/ducktape-assets-walters-w88",
+  "period": "first quarter of the 14th century",
+  "region": "northern France or Flanders",
+  "schema": 1,
+  "set": "walters-w88",
+  "style": "Gothic illumination, marginalia",
+  "summary": "Monkeys singing, dancing and playing chess, a harpist with a dancing dog and a woman leading a harrow horse, from the margins of Walters Ms. W.88, a Book of Hours of the first quarter of the 14th century, grouped by folio.",
+  "title": "Walters W.88, Book of Hours monkeys and musicians",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

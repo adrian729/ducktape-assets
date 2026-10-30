@@ -1,0 +1,1630 @@
+{
+  "assets": {
+    "haloed-eagle-head-with-pale-blue-wings": {
+      "attribution": "Walters Art Museum W.7, fol. 1r",
+      "categories": [
+        "animals",
+        "fantasy"
+      ],
+      "colors": [
+        "light-blue",
+        "gold",
+        "brown",
+        "pink"
+      ],
+      "composition": "single-figure",
+      "description": "The eagle of John from the canon table, a pale blue-grey eagle head in profile facing left with a hooked beak and a brown breast, inside a burnished gold halo with an orange rim and a beaded dark border. Two pale blue wings with mauve tips spread to either side and droop below the halo. The lower edge is cut straight where the sill of the canon table covered it. The background is transparent.",
+      "display_width": [
+        150,
+        450
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 51444,
+        "webpTopBytes": 75852
+      },
+      "facing": "left",
+      "group": "1r",
+      "height": 539,
+      "master": {
+        "bytes": 539112,
+        "h": 539,
+        "path": "masters/haloed-eagle-head-with-pale-blue-wings.webp",
+        "sha256": "2dbb82ee06af886aa474bfa25b56794f7dfbdc845199dc202058c8ffb4880968",
+        "w": 922
+      },
+      "palette": [
+        "#b4a781",
+        "#574d44",
+        "#707680",
+        "#8a8786",
+        "#97785e"
+      ],
+      "provenance": {
+        "date": "Middle of the 11th century CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W7/data/W.7/master/W7_000005_1022.tif",
+        "institution": "Walters Art Museum",
+        "method": "native-source-extraction",
+        "object_identifier": "W.7, fol. 1r",
+        "object_title": "Canon table",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W7/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "34b0db64619284678b29c39f8514a8facfb6d64c2a95abd6cc54c85949689ea6"
+      },
+      "quality": "Cut straight along the bottom where the canon table's sill covered the body; the wing tips are worn to the parchment.",
+      "related": [
+        {
+          "asset": "walters-w7/haloed-frontal-lion-head-with-pale-gold-wings",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w7/haloed-frontal-ox-head-with-rose-wings",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w7/haloed-human-head-with-gold-wings",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1709,
+            "h": 37,
+            "path": "avif/haloed-eagle-head-with-pale-blue-wings-64.avif",
+            "sha256": "9e061453efe0382e0a0822b1598b9e238ed0b67af1c448a0830271b8419a7ee0",
+            "w": 64
+          },
+          {
+            "bytes": 2574,
+            "h": 56,
+            "path": "avif/haloed-eagle-head-with-pale-blue-wings-96.avif",
+            "sha256": "b335e7c4f8e37b899196cfdff793585b3c1cba48bc68995515be275babc257f4",
+            "w": 96
+          },
+          {
+            "bytes": 3519,
+            "h": 75,
+            "path": "avif/haloed-eagle-head-with-pale-blue-wings-128.avif",
+            "sha256": "1a11bed8c495a40a2eb5f61d3a6f74d87cd1e460ef3a2f3da6098d28afd18b92",
+            "w": 128
+          },
+          {
+            "bytes": 5979,
+            "h": 112,
+            "path": "avif/haloed-eagle-head-with-pale-blue-wings-192.avif",
+            "sha256": "20bf38c2db24a556471d825cff488dcfc55f3b0eb0d9eb3e8e397baa2ef1bfac",
+            "w": 192
+          },
+          {
+            "bytes": 8503,
+            "h": 150,
+            "path": "avif/haloed-eagle-head-with-pale-blue-wings-256.avif",
+            "sha256": "703133e87261fdcc33f0a158553d5d7ac6ce0028dc579839f132ffabfd9224e6",
+            "w": 256
+          },
+          {
+            "bytes": 15247,
+            "h": 224,
+            "path": "avif/haloed-eagle-head-with-pale-blue-wings-384.avif",
+            "sha256": "e93bf8d321a57d9097cbc36e50263cdb73963940488126924ac033a6f2c653cf",
+            "w": 384
+          },
+          {
+            "bytes": 22724,
+            "h": 299,
+            "path": "avif/haloed-eagle-head-with-pale-blue-wings-512.avif",
+            "sha256": "e999ba3444cdda089b3d70e906e236d5e738fb075dfdbf65aaf921aa8a34483f",
+            "w": 512
+          },
+          {
+            "bytes": 40645,
+            "h": 449,
+            "path": "avif/haloed-eagle-head-with-pale-blue-wings-768.avif",
+            "sha256": "49f9355833786051ac5f38eace744b5b670ae38b946f8261a67e5fa71d10d888",
+            "w": 768
+          },
+          {
+            "bytes": 51444,
+            "h": 539,
+            "path": "avif/haloed-eagle-head-with-pale-blue-wings-922.avif",
+            "sha256": "4151037b4e570a0d17db6f827d8e7fa5148985f2c5619a75e3e10c31b361f098",
+            "w": 922
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2122,
+            "h": 37,
+            "path": "webp/haloed-eagle-head-with-pale-blue-wings-64.webp",
+            "sha256": "65e03aae88b436c8997bfd459e3b109990189447088c53560863120a04be2707",
+            "w": 64
+          },
+          {
+            "bytes": 3658,
+            "h": 56,
+            "path": "webp/haloed-eagle-head-with-pale-blue-wings-96.webp",
+            "sha256": "3d4e50ce853e7198ee6cd21fed8879fe17a1dee7e5beae117cfeb69cd33dfb1c",
+            "w": 96
+          },
+          {
+            "bytes": 5322,
+            "h": 75,
+            "path": "webp/haloed-eagle-head-with-pale-blue-wings-128.webp",
+            "sha256": "d7de612960a58ef56e126a58b98cb44199e302209c4bd8b7f00542466e4a1a4c",
+            "w": 128
+          },
+          {
+            "bytes": 9270,
+            "h": 112,
+            "path": "webp/haloed-eagle-head-with-pale-blue-wings-192.webp",
+            "sha256": "7f11ee88cd3ec0de29a9c289cae93e12936f05257182cf2a43e920f3929a9af4",
+            "w": 192
+          },
+          {
+            "bytes": 13972,
+            "h": 150,
+            "path": "webp/haloed-eagle-head-with-pale-blue-wings-256.webp",
+            "sha256": "37b7cca503ddbdfca7329b3a0e4ef41efd6df332a2d7ef429e438969df3d050b",
+            "w": 256
+          },
+          {
+            "bytes": 24644,
+            "h": 224,
+            "path": "webp/haloed-eagle-head-with-pale-blue-wings-384.webp",
+            "sha256": "8a7867bb00fc41bd42b38ada76d84054e1ccf3f7e264798c5ea654108d4a3712",
+            "w": 384
+          },
+          {
+            "bytes": 36916,
+            "h": 299,
+            "path": "webp/haloed-eagle-head-with-pale-blue-wings-512.webp",
+            "sha256": "19f309e5ab3063fdc3ddc1aec924bc8b996359253830bd352c025a904a07b076",
+            "w": 512
+          },
+          {
+            "bytes": 65524,
+            "h": 449,
+            "path": "webp/haloed-eagle-head-with-pale-blue-wings-768.webp",
+            "sha256": "5cef44990d37eef0e89e2a29b59da810ea7bb611a1ad3f9973f2d6aad934d042",
+            "w": 768
+          },
+          {
+            "bytes": 75852,
+            "h": 539,
+            "path": "webp/haloed-eagle-head-with-pale-blue-wings-922.webp",
+            "sha256": "193364638129e6ee485a45d6158b406caacc880c0a4d55ef3c97d794baceea44",
+            "w": 922
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "eagle",
+        "bird",
+        "head",
+        "halo",
+        "wings",
+        "evangelist"
+      ],
+      "thumbhash": "nhiCE4I5Sld9lYADZgZQdEZZhmmAiHc=",
+      "title": "Winged eagle head, symbol of John",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "One of the four winged evangelist symbols of the canon table, all at the same scale; stand it on a rule or band to hide the cut lower edge."
+      ],
+      "view": "side",
+      "width": 922
+    },
+    "haloed-frontal-lion-head-with-pale-gold-wings": {
+      "attribution": "Walters Art Museum W.7, fol. 1r",
+      "categories": [
+        "animals",
+        "fantasy"
+      ],
+      "colors": [
+        "gold",
+        "tan",
+        "yellow",
+        "green"
+      ],
+      "composition": "single-figure",
+      "description": "The lion of Mark from the canon table, a frontal tan lion face with a curling orange mane, round eyes and a small muzzle, inside a burnished gold halo with an orange rim and a beaded dark border. Two pale yellow-green wings spread upward to either side with white and green feather strokes. The lower edge is cut straight where the sill of the canon table covered it. The background is transparent.",
+      "display_width": [
+        150,
+        450
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 52305,
+        "webpTopBytes": 76790
+      },
+      "facing": "viewer",
+      "group": "1r",
+      "height": 501,
+      "master": {
+        "bytes": 530722,
+        "h": 501,
+        "path": "masters/haloed-frontal-lion-head-with-pale-gold-wings.webp",
+        "sha256": "828441e92c77eede07c2a0746d783c085d56ade693191c2bc85935027647d3c6",
+        "w": 948
+      },
+      "palette": [
+        "#957650",
+        "#c5a76e",
+        "#b08858",
+        "#7a6548",
+        "#574c3b"
+      ],
+      "provenance": {
+        "date": "Middle of the 11th century CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W7/data/W.7/master/W7_000005_1022.tif",
+        "institution": "Walters Art Museum",
+        "method": "native-source-extraction",
+        "object_identifier": "W.7, fol. 1r",
+        "object_title": "Canon table",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W7/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "34b0db64619284678b29c39f8514a8facfb6d64c2a95abd6cc54c85949689ea6"
+      },
+      "quality": "Cut straight along the bottom where the canon table's sill covered the body; the wing edges are worn to the parchment.",
+      "related": [
+        {
+          "asset": "walters-w7/haloed-eagle-head-with-pale-blue-wings",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w7/haloed-frontal-ox-head-with-rose-wings",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w7/haloed-human-head-with-gold-wings",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1732,
+            "h": 34,
+            "path": "avif/haloed-frontal-lion-head-with-pale-gold-wings-64.avif",
+            "sha256": "24668e9df97b18eec0e930761f450bf381190a4d71095dddf0ad27b6e4694211",
+            "w": 64
+          },
+          {
+            "bytes": 2540,
+            "h": 51,
+            "path": "avif/haloed-frontal-lion-head-with-pale-gold-wings-96.avif",
+            "sha256": "0d6ae7eb84d13939274e2ba81d3d61555149a4981c56458e4bc47f92f8caaeef",
+            "w": 96
+          },
+          {
+            "bytes": 3553,
+            "h": 68,
+            "path": "avif/haloed-frontal-lion-head-with-pale-gold-wings-128.avif",
+            "sha256": "a93923f960ef88b45b6e29a0a32d019640363b74ef5d4355dc2cf5f8ee7e7382",
+            "w": 128
+          },
+          {
+            "bytes": 6090,
+            "h": 101,
+            "path": "avif/haloed-frontal-lion-head-with-pale-gold-wings-192.avif",
+            "sha256": "12d88543ca7d08a3b0fb7a3ac9841a4fa580fa3dcb1ce2cbcb647d5113fcfdcf",
+            "w": 192
+          },
+          {
+            "bytes": 8342,
+            "h": 135,
+            "path": "avif/haloed-frontal-lion-head-with-pale-gold-wings-256.avif",
+            "sha256": "7adbaef84d509d7370763a260eca6d9abf42cc1256fba190d754ae9cb5530403",
+            "w": 256
+          },
+          {
+            "bytes": 15076,
+            "h": 203,
+            "path": "avif/haloed-frontal-lion-head-with-pale-gold-wings-384.avif",
+            "sha256": "60743306a72ea21f29a9cd40adb7e77e08829430fd6b3d292d1ceeb42f136fd1",
+            "w": 384
+          },
+          {
+            "bytes": 22457,
+            "h": 271,
+            "path": "avif/haloed-frontal-lion-head-with-pale-gold-wings-512.avif",
+            "sha256": "ffcbc595e48fd98f619c4f683e3b309538d72c53e89a3345b929cdca746448ec",
+            "w": 512
+          },
+          {
+            "bytes": 40374,
+            "h": 406,
+            "path": "avif/haloed-frontal-lion-head-with-pale-gold-wings-768.avif",
+            "sha256": "85ffa3316a154ee4578f473de9a56fe1a092c1fe722862dc9a6693e1cf3641ec",
+            "w": 768
+          },
+          {
+            "bytes": 52305,
+            "h": 501,
+            "path": "avif/haloed-frontal-lion-head-with-pale-gold-wings-948.avif",
+            "sha256": "7b911ee4f9714b8b8cb11561ceadd6aa2ddf0fcc58d5a7b5a2915523dc76a5b4",
+            "w": 948
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2052,
+            "h": 34,
+            "path": "webp/haloed-frontal-lion-head-with-pale-gold-wings-64.webp",
+            "sha256": "f4e1e5404543d3a34a3bbadf579fee9121ea1c26236a748a9a65744f8bce5e95",
+            "w": 64
+          },
+          {
+            "bytes": 3538,
+            "h": 51,
+            "path": "webp/haloed-frontal-lion-head-with-pale-gold-wings-96.webp",
+            "sha256": "5556b315af5e2687475ee4b2f708f4e90a4289334e17e7520b96e155d537b33e",
+            "w": 96
+          },
+          {
+            "bytes": 5228,
+            "h": 68,
+            "path": "webp/haloed-frontal-lion-head-with-pale-gold-wings-128.webp",
+            "sha256": "d660d8bb5bf1fd09acd294c67b1bfdec60c6e843d1af1944c676d8a89b860827",
+            "w": 128
+          },
+          {
+            "bytes": 9154,
+            "h": 101,
+            "path": "webp/haloed-frontal-lion-head-with-pale-gold-wings-192.webp",
+            "sha256": "ca49d83e63e057775d2460a07a58d257f031855186c4b553cf3a9aa0eabfdc0a",
+            "w": 192
+          },
+          {
+            "bytes": 13726,
+            "h": 135,
+            "path": "webp/haloed-frontal-lion-head-with-pale-gold-wings-256.webp",
+            "sha256": "ba04a4a749466ca08ad10577622fe070f2035377b6f51130a5a20499d4ff9453",
+            "w": 256
+          },
+          {
+            "bytes": 23984,
+            "h": 203,
+            "path": "webp/haloed-frontal-lion-head-with-pale-gold-wings-384.webp",
+            "sha256": "b9ef5d2c7ea169cd87ab27c9afdd5e2fc3e0ecc07393c89e2dbf48568cc6a1f9",
+            "w": 384
+          },
+          {
+            "bytes": 36138,
+            "h": 271,
+            "path": "webp/haloed-frontal-lion-head-with-pale-gold-wings-512.webp",
+            "sha256": "b55e549bd64bca0e2f8277ce58c67333d2a4f0e96b504df679caa4510065a50f",
+            "w": 512
+          },
+          {
+            "bytes": 63412,
+            "h": 406,
+            "path": "webp/haloed-frontal-lion-head-with-pale-gold-wings-768.webp",
+            "sha256": "a59d00ef0fe666adbbd83338f967b934457671b4bcfa22cf63c2a8bcbb74bbec",
+            "w": 768
+          },
+          {
+            "bytes": 76790,
+            "h": 501,
+            "path": "webp/haloed-frontal-lion-head-with-pale-gold-wings-948.webp",
+            "sha256": "f320310c19d656da356430fc44ebecbb2e651fec1031953a0a1fdea73bcaac95",
+            "w": 948
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "lion",
+        "head",
+        "halo",
+        "wings",
+        "evangelist"
+      ],
+      "thumbhash": "njmCC4I4liSPaIsGhntAqDdYhnqAeHg=",
+      "title": "Winged lion head, symbol of Mark",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "One of the four winged evangelist symbols of the canon table, all at the same scale; stand it on a rule or band to hide the cut lower edge."
+      ],
+      "view": "front",
+      "width": 948
+    },
+    "haloed-frontal-ox-head-with-rose-wings": {
+      "attribution": "Walters Art Museum W.7, fol. 1r",
+      "categories": [
+        "animals",
+        "fantasy"
+      ],
+      "colors": [
+        "gold",
+        "pink",
+        "yellow",
+        "brown"
+      ],
+      "composition": "single-figure",
+      "description": "The ox of Luke from the canon table, a frontal pale yellow ox head with two short gold horns, flared ears, dark brows and a long muzzle, inside a burnished gold halo with an orange rim and a beaded dark border. Two dusty rose-mauve wings spread to either side and droop below the halo. The lower edge is cut straight where the sill of the canon table covered it. The background is transparent.",
+      "display_width": [
+        150,
+        450
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 45157,
+        "webpTopBytes": 59082
+      },
+      "facing": "viewer",
+      "group": "1r",
+      "height": 506,
+      "master": {
+        "bytes": 520656,
+        "h": 506,
+        "path": "masters/haloed-frontal-ox-head-with-rose-wings.webp",
+        "sha256": "f084ce7e7ee5cbf730bf13805265c16d46758cd18203eb00f121923ca2050061",
+        "w": 917
+      },
+      "palette": [
+        "#634942",
+        "#8b6a58",
+        "#9e855c",
+        "#c2a469",
+        "#b18f5b"
+      ],
+      "provenance": {
+        "date": "Middle of the 11th century CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W7/data/W.7/master/W7_000005_1022.tif",
+        "institution": "Walters Art Museum",
+        "method": "native-source-extraction",
+        "object_identifier": "W.7, fol. 1r",
+        "object_title": "Canon table",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W7/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "34b0db64619284678b29c39f8514a8facfb6d64c2a95abd6cc54c85949689ea6"
+      },
+      "quality": "Cut straight along the bottom where the canon table's sill covered the body; the wing tips are worn to the parchment.",
+      "related": [
+        {
+          "asset": "walters-w7/haloed-eagle-head-with-pale-blue-wings",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w7/haloed-frontal-lion-head-with-pale-gold-wings",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w7/haloed-human-head-with-gold-wings",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1585,
+            "h": 35,
+            "path": "avif/haloed-frontal-ox-head-with-rose-wings-64.avif",
+            "sha256": "bd29e16adf22e84f7dc507f335ad591b76e41010c1d0fa286ce6dd21bdc5785b",
+            "w": 64
+          },
+          {
+            "bytes": 2527,
+            "h": 53,
+            "path": "avif/haloed-frontal-ox-head-with-rose-wings-96.avif",
+            "sha256": "e119d289da3663c88dbff3f952de98c1faff9c11f62cc83d1350c3fdf77dce59",
+            "w": 96
+          },
+          {
+            "bytes": 3425,
+            "h": 71,
+            "path": "avif/haloed-frontal-ox-head-with-rose-wings-128.avif",
+            "sha256": "e37de463a92a64e0546b18ac8c1bcbd9b0c5b3ef34006f8d997b030b1a9703c6",
+            "w": 128
+          },
+          {
+            "bytes": 5895,
+            "h": 106,
+            "path": "avif/haloed-frontal-ox-head-with-rose-wings-192.avif",
+            "sha256": "ec30928f3ee3dbdbea729f8a55dec4c06dee3582f22037c9f7d47e8e4c13ec53",
+            "w": 192
+          },
+          {
+            "bytes": 8587,
+            "h": 141,
+            "path": "avif/haloed-frontal-ox-head-with-rose-wings-256.avif",
+            "sha256": "60fd3d095f5f272c47661e705dd7426ffbbd9281fb5db2175ef1c6fc7e4396ae",
+            "w": 256
+          },
+          {
+            "bytes": 14639,
+            "h": 212,
+            "path": "avif/haloed-frontal-ox-head-with-rose-wings-384.avif",
+            "sha256": "dbc4d582bb3f0cf21f1c1f8488747d0215a0f2ed617ad1641d0733cb9f33d452",
+            "w": 384
+          },
+          {
+            "bytes": 21743,
+            "h": 283,
+            "path": "avif/haloed-frontal-ox-head-with-rose-wings-512.avif",
+            "sha256": "304032a7bcf2cf9cd24f60642fc73992b95b2012a7ad5e35290ab797b4410103",
+            "w": 512
+          },
+          {
+            "bytes": 36828,
+            "h": 424,
+            "path": "avif/haloed-frontal-ox-head-with-rose-wings-768.avif",
+            "sha256": "c3b6ef8f2aae83d9704906b8b26c8d7bebf5d5dc062698e4924f88e293baa349",
+            "w": 768
+          },
+          {
+            "bytes": 45157,
+            "h": 506,
+            "path": "avif/haloed-frontal-ox-head-with-rose-wings-917.avif",
+            "sha256": "03ff415bde8cce18f8139a1db9255135e6af88b91164b84916bcb6dadcfe769f",
+            "w": 917
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1998,
+            "h": 35,
+            "path": "webp/haloed-frontal-ox-head-with-rose-wings-64.webp",
+            "sha256": "3cfc1b5ef42c84ff7c107478d784eb47b0089655b045e9df7c6047ec67bcabbf",
+            "w": 64
+          },
+          {
+            "bytes": 3422,
+            "h": 53,
+            "path": "webp/haloed-frontal-ox-head-with-rose-wings-96.webp",
+            "sha256": "5aeb954fa439748f23b845438a5e59de8c9804e930420a2c0df0d350cda2df56",
+            "w": 96
+          },
+          {
+            "bytes": 5108,
+            "h": 71,
+            "path": "webp/haloed-frontal-ox-head-with-rose-wings-128.webp",
+            "sha256": "079cb3d29b81a1ecb2855ec519d504d512963f9fb8e85680af6519da2af862fa",
+            "w": 128
+          },
+          {
+            "bytes": 8814,
+            "h": 106,
+            "path": "webp/haloed-frontal-ox-head-with-rose-wings-192.webp",
+            "sha256": "e4b2dfa519d98b74314ee5271b0eed7af6a3ded63bd2144d45bffb69b0273c80",
+            "w": 192
+          },
+          {
+            "bytes": 12908,
+            "h": 141,
+            "path": "webp/haloed-frontal-ox-head-with-rose-wings-256.webp",
+            "sha256": "1f6bd2f38dbded73895d1c1c3a9cccda4caa890462d141de71e2be7589906b86",
+            "w": 256
+          },
+          {
+            "bytes": 21714,
+            "h": 212,
+            "path": "webp/haloed-frontal-ox-head-with-rose-wings-384.webp",
+            "sha256": "487305e3b27c2074e8f84a15646df084de978aa99e7401ee50f147798a25d342",
+            "w": 384
+          },
+          {
+            "bytes": 32154,
+            "h": 283,
+            "path": "webp/haloed-frontal-ox-head-with-rose-wings-512.webp",
+            "sha256": "c27e35da15b0a6894fb2c65ecfb9d157155270e274ba3cae3b11426674bacecf",
+            "w": 512
+          },
+          {
+            "bytes": 54202,
+            "h": 424,
+            "path": "webp/haloed-frontal-ox-head-with-rose-wings-768.webp",
+            "sha256": "a58291b1853b16530c8da912040398bc902ad45263765a7b1abd59a6e7a007f1",
+            "w": 768
+          },
+          {
+            "bytes": 59082,
+            "h": 506,
+            "path": "webp/haloed-frontal-ox-head-with-rose-wings-917.webp",
+            "sha256": "e0bbeaa4712663cde52101c16b293e278c2de0763a9a8960e1fd05ebff7dd1b3",
+            "w": 917
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "ox",
+        "cattle",
+        "head",
+        "horn",
+        "halo",
+        "wings",
+        "evangelist"
+      ],
+      "thumbhash": "GTmGC4A6B8uHeYkGhXf4iEhYd3mAiGg=",
+      "title": "Winged ox head, symbol of Luke",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "One of the four winged evangelist symbols of the canon table, all at the same scale; stand it on a rule or band to hide the cut lower edge."
+      ],
+      "view": "front",
+      "width": 917
+    },
+    "haloed-human-head-with-gold-wings": {
+      "attribution": "Walters Art Museum W.7, fol. 1r",
+      "categories": [
+        "humans",
+        "fantasy"
+      ],
+      "colors": [
+        "gold",
+        "pink",
+        "orange",
+        "brown"
+      ],
+      "composition": "single-figure",
+      "description": "The man of Matthew from the canon table, a rose-pink head turned three-quarter to the right with the eyes looking right, blond hair, and the top of a pink tunic at the neck, inside a burnished gold halo with an orange rim and a beaded dark border. Two gold wings with white feather strokes rise and spread to either side. The lower edge is cut straight where the sill of the canon table covered it. The background is transparent.",
+      "display_width": [
+        150,
+        450
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 43034,
+        "webpTopBytes": 55850
+      },
+      "facing": "right",
+      "group": "1r",
+      "height": 553,
+      "master": {
+        "bytes": 479416,
+        "h": 553,
+        "path": "masters/haloed-human-head-with-gold-wings.webp",
+        "sha256": "7dfc83ec50f8ed32ff031bf8640bad6ad61baabfbe52f50c6f046e835ea989b4",
+        "w": 913
+      },
+      "palette": [
+        "#8c6447",
+        "#a87945",
+        "#a98367",
+        "#504036",
+        "#77563e"
+      ],
+      "provenance": {
+        "date": "Middle of the 11th century CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W7/data/W.7/master/W7_000005_1022.tif",
+        "institution": "Walters Art Museum",
+        "method": "native-source-extraction",
+        "object_identifier": "W.7, fol. 1r",
+        "object_title": "Canon table",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W7/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "34b0db64619284678b29c39f8514a8facfb6d64c2a95abd6cc54c85949689ea6"
+      },
+      "quality": "Cut straight along the bottom where the canon table's sill covered the body.",
+      "related": [
+        {
+          "asset": "walters-w7/haloed-eagle-head-with-pale-blue-wings",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w7/haloed-frontal-lion-head-with-pale-gold-wings",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w7/haloed-frontal-ox-head-with-rose-wings",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1724,
+            "h": 39,
+            "path": "avif/haloed-human-head-with-gold-wings-64.avif",
+            "sha256": "5bc8c7092a9187d9307d31b05d4d5e3b481a96af4e31bf0e0a8e751cda8c5ff4",
+            "w": 64
+          },
+          {
+            "bytes": 2685,
+            "h": 58,
+            "path": "avif/haloed-human-head-with-gold-wings-96.avif",
+            "sha256": "876fa8b2f0b613296c834ae2ce0c4deaf046c91062ad034235683cb1c1b0e2aa",
+            "w": 96
+          },
+          {
+            "bytes": 3777,
+            "h": 78,
+            "path": "avif/haloed-human-head-with-gold-wings-128.avif",
+            "sha256": "38e28b17b7842d3b422839b8a32aa5b123d313855114b38038c7b5575bbb0926",
+            "w": 128
+          },
+          {
+            "bytes": 6205,
+            "h": 116,
+            "path": "avif/haloed-human-head-with-gold-wings-192.avif",
+            "sha256": "40986e7b880c9f3367c7eef74d783d9d962000fce0c16b53f87258de8beb8541",
+            "w": 192
+          },
+          {
+            "bytes": 9067,
+            "h": 155,
+            "path": "avif/haloed-human-head-with-gold-wings-256.avif",
+            "sha256": "2cd2d33c9ed839682d5e7cb7154309e26319c2428585c7fb21faebca60ba5fd0",
+            "w": 256
+          },
+          {
+            "bytes": 15129,
+            "h": 233,
+            "path": "avif/haloed-human-head-with-gold-wings-384.avif",
+            "sha256": "10d2843677d6c9b5c33cd97837bcf95cebf83211eeac2155d883d7464090912b",
+            "w": 384
+          },
+          {
+            "bytes": 20991,
+            "h": 310,
+            "path": "avif/haloed-human-head-with-gold-wings-512.avif",
+            "sha256": "7cf491488dce0d80eace8e90f37ffd5a376cc8caa79e3f7745d75b9db029ce3d",
+            "w": 512
+          },
+          {
+            "bytes": 36387,
+            "h": 465,
+            "path": "avif/haloed-human-head-with-gold-wings-768.avif",
+            "sha256": "76f2393306ccc7e6489d303e6a6a33f0fa2856e77662c35f829434b8fdd32c2b",
+            "w": 768
+          },
+          {
+            "bytes": 43034,
+            "h": 553,
+            "path": "avif/haloed-human-head-with-gold-wings-913.avif",
+            "sha256": "19d8a1ec8279555286303b0e9201f2b337ddcbd545720d6bc7fe4f3aa554204d",
+            "w": 913
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2078,
+            "h": 39,
+            "path": "webp/haloed-human-head-with-gold-wings-64.webp",
+            "sha256": "9f2f39740b53415b2444e4e58f10c7d36e8ae58149df7aa906008b185983643d",
+            "w": 64
+          },
+          {
+            "bytes": 3704,
+            "h": 58,
+            "path": "webp/haloed-human-head-with-gold-wings-96.webp",
+            "sha256": "dac7e2635237af532b451c0efeb89036f5b02026ea9f4f1b55d636601423c9e9",
+            "w": 96
+          },
+          {
+            "bytes": 5204,
+            "h": 78,
+            "path": "webp/haloed-human-head-with-gold-wings-128.webp",
+            "sha256": "2430001b2227598a6d21d1a50f9b2e0bce600d577978bca09de62a5287c36e23",
+            "w": 128
+          },
+          {
+            "bytes": 9112,
+            "h": 116,
+            "path": "webp/haloed-human-head-with-gold-wings-192.webp",
+            "sha256": "219d75028ef0911602387c74bdd53758b5f885e62c87fb637e32065a17e427fb",
+            "w": 192
+          },
+          {
+            "bytes": 13544,
+            "h": 155,
+            "path": "webp/haloed-human-head-with-gold-wings-256.webp",
+            "sha256": "c0b9daf0807dfc6525e3cc5e0d705c350865f8ee175c2a73cac56caa3a39779f",
+            "w": 256
+          },
+          {
+            "bytes": 22394,
+            "h": 233,
+            "path": "webp/haloed-human-head-with-gold-wings-384.webp",
+            "sha256": "4b8c741af32a45ad3dc3e7fe918076fb8e4cb990d5b1fe8dba33c62bf6c5d8fd",
+            "w": 384
+          },
+          {
+            "bytes": 32172,
+            "h": 310,
+            "path": "webp/haloed-human-head-with-gold-wings-512.webp",
+            "sha256": "a74b29d807fb3b2c01c5d41379f83988c77e2d21194c5b8571e1bf71ee92e247",
+            "w": 512
+          },
+          {
+            "bytes": 52842,
+            "h": 465,
+            "path": "webp/haloed-human-head-with-gold-wings-768.webp",
+            "sha256": "406cc30e1ff41a70f999e7c92965293f5de78de104b221ab9565acd90621c1c5",
+            "w": 768
+          },
+          {
+            "bytes": 55850,
+            "h": 553,
+            "path": "webp/haloed-human-head-with-gold-wings-913.webp",
+            "sha256": "584ce5c708369377dabe347ab1d15dcbcc8c00fdc92bb5c5f6518fc858aeda9d",
+            "w": 913
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "man",
+        "head",
+        "halo",
+        "wings",
+        "evangelist"
+      ],
+      "thumbhash": "m0mCC4A4+Th+plT4fyXflClnZ5lwaGg=",
+      "title": "Winged man's head, symbol of Matthew",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "One of the four winged evangelist symbols of the canon table, all at the same scale; stand it on a rule or band to hide the cut lower edge."
+      ],
+      "view": "three-quarter",
+      "width": 913
+    },
+    "matthew-writing-at-lectern": {
+      "attribution": "Walters Art Museum W.7, fol. 15v",
+      "categories": [
+        "humans",
+        "reading"
+      ],
+      "colors": [
+        "gold",
+        "red",
+        "light-blue",
+        "blue",
+        "brown"
+      ],
+      "composition": "single-figure",
+      "description": "The Evangelist Matthew sits on a gold bench with a blue cushion, turned to the right, his head raised and eyes looking up. He wears a pale blue tunic under a mauve-red mantle, holds a pen in his left hand over a gold lectern on a blue-grey stand and raises a pale knife in his right, with a red book with an orange clasp under his arm. His halo is deep blue with a beaded white rim and his hair is red. His bare feet rest on a red footstool. The background is transparent.",
+      "display_width": [
+        200,
+        600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 152766,
+        "webpTopBytes": 244844
+      },
+      "facing": "right",
+      "group": "15v",
+      "height": 1579,
+      "master": {
+        "bytes": 1416312,
+        "h": 1579,
+        "path": "masters/matthew-writing-at-lectern.webp",
+        "sha256": "6eccda61bbbffca3f90d99cb1f47808b40993a14ca33ded041d77ebbf021a413",
+        "w": 951
+      },
+      "palette": [
+        "#c2af89",
+        "#7a443f",
+        "#7b8193",
+        "#cb9850",
+        "#ad5739"
+      ],
+      "provenance": {
+        "date": "Middle of the 11th century CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W7/data/W.7/master/W7_000034_1022.tif",
+        "institution": "Walters Art Museum",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "W.7, fol. 15v",
+        "object_title": "Portrait of the Evangelist Matthew",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W7/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "cca95ef468d7a30acc6fc7fd7e301ff1a0819425f6c4c652f3baad6b977004ad"
+      },
+      "quality": "AI-assisted extraction; the paint keeps the original crackle and small losses on the mantle and halo.",
+      "related": [
+        {
+          "asset": "walters-w7/twisted-column-arcade",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w7/winged-haloed-angel-holding-closed-book",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3126,
+            "h": 106,
+            "path": "avif/matthew-writing-at-lectern-64.avif",
+            "sha256": "65c3fb37a8c4792eebfb8dd96af25a2de12bea8dc5f0e3465e4d01f821c5b15e",
+            "w": 64
+          },
+          {
+            "bytes": 5437,
+            "h": 159,
+            "path": "avif/matthew-writing-at-lectern-96.avif",
+            "sha256": "edab6cb4f4e8b98da1e099a6a7d8c1e69892065c656b382c37dd27fce438650f",
+            "w": 96
+          },
+          {
+            "bytes": 7742,
+            "h": 213,
+            "path": "avif/matthew-writing-at-lectern-128.avif",
+            "sha256": "a129dcad3e45c38d0fbd8c70e2e9507c60d63d077e6ae86c19be55b71cc77059",
+            "w": 128
+          },
+          {
+            "bytes": 12854,
+            "h": 319,
+            "path": "avif/matthew-writing-at-lectern-192.avif",
+            "sha256": "d9dcbf0100fff3e59be595a4fdd213a855ee1171aa9e8955d46f7db907d50d64",
+            "w": 192
+          },
+          {
+            "bytes": 20258,
+            "h": 425,
+            "path": "avif/matthew-writing-at-lectern-256.avif",
+            "sha256": "07cf3c0f56d8d74d0ab95f6aa38d7779b078b186e2bad1381c148e600b1b8919",
+            "w": 256
+          },
+          {
+            "bytes": 36687,
+            "h": 638,
+            "path": "avif/matthew-writing-at-lectern-384.avif",
+            "sha256": "33cd7a8c3796b89a67beeeae7f39a74c8972a6cc8e2b8fb94e570b68e0cb73ca",
+            "w": 384
+          },
+          {
+            "bytes": 59807,
+            "h": 850,
+            "path": "avif/matthew-writing-at-lectern-512.avif",
+            "sha256": "741f16173a6fd013773177d830843fcc533f28af6c7ef893a8f08a84521c1a48",
+            "w": 512
+          },
+          {
+            "bytes": 111215,
+            "h": 1275,
+            "path": "avif/matthew-writing-at-lectern-768.avif",
+            "sha256": "6496f7610902e3fef672f2119fbf574dd7f564eaf8b387a9acce430f7c877764",
+            "w": 768
+          },
+          {
+            "bytes": 152766,
+            "h": 1579,
+            "path": "avif/matthew-writing-at-lectern-951.avif",
+            "sha256": "b5b7fc39ac1a06e5fe49db32a6ca3bed25e9a0ef1914ac978971a0382b75a825",
+            "w": 951
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4660,
+            "h": 106,
+            "path": "webp/matthew-writing-at-lectern-64.webp",
+            "sha256": "8639b15f836cea2471082ecd514dbd7399823b807d6393c6c73d26398cceb3eb",
+            "w": 64
+          },
+          {
+            "bytes": 8210,
+            "h": 159,
+            "path": "webp/matthew-writing-at-lectern-96.webp",
+            "sha256": "acae7f8a1f7cff501860f6e31cd4b820a483e3dc078c1dc98a979d0a41bce650",
+            "w": 96
+          },
+          {
+            "bytes": 12506,
+            "h": 213,
+            "path": "webp/matthew-writing-at-lectern-128.webp",
+            "sha256": "4220f04c65de4a2a3b81cb27835367fdfae06276ea7abc05f1787def5d719a87",
+            "w": 128
+          },
+          {
+            "bytes": 22112,
+            "h": 319,
+            "path": "webp/matthew-writing-at-lectern-192.webp",
+            "sha256": "c2b918cca7572a28583a831b0681d7129ee0b32502ed55720db42a541448b569",
+            "w": 192
+          },
+          {
+            "bytes": 34422,
+            "h": 425,
+            "path": "webp/matthew-writing-at-lectern-256.webp",
+            "sha256": "5b2ca14522dc8d9ceac73e8cffcec223ce21c03fd4a995fac484d393599e1ddb",
+            "w": 256
+          },
+          {
+            "bytes": 64882,
+            "h": 638,
+            "path": "webp/matthew-writing-at-lectern-384.webp",
+            "sha256": "71f95c069fbcbf608837e61621bae7eb202eedae2b5e03b2245a6ba01a6087d6",
+            "w": 384
+          },
+          {
+            "bytes": 101534,
+            "h": 850,
+            "path": "webp/matthew-writing-at-lectern-512.webp",
+            "sha256": "ef29b1f23be2223f752e60ea4e2a146d70cec2ef27a4aafdaf57a006db2b4394",
+            "w": 512
+          },
+          {
+            "bytes": 184502,
+            "h": 1275,
+            "path": "webp/matthew-writing-at-lectern-768.webp",
+            "sha256": "356225f6c351fc782cc640082955354d71da1a675e22b85cc12b1535fe0fdef2",
+            "w": 768
+          },
+          {
+            "bytes": 244844,
+            "h": 1579,
+            "path": "webp/matthew-writing-at-lectern-951.webp",
+            "sha256": "c6d906cfa53cd2e6ae7a79228370905f3007f7b90798b1cd0d3c32beac696c6b",
+            "w": 951
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "evangelist",
+        "man",
+        "halo",
+        "book",
+        "lectern",
+        "pen",
+        "chair",
+        "robe"
+      ],
+      "thumbhash": "H0mGCwI5mVaoWQn3MnkLNwhnVYeFaIg=",
+      "title": "Evangelist Matthew writing at his lectern",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Complete seated figure with its furniture; on the page it sat between the columns of fixed-twisted-column-arcade-with-scalloped-arch, under winged-haloed-angel-holding-closed-book."
+      ],
+      "view": "three-quarter",
+      "width": 951
+    },
+    "twisted-column-arcade": {
+      "attribution": "Walters Art Museum W.7, fol. 15v",
+      "categories": [
+        "geometric",
+        "botanical"
+      ],
+      "colors": [
+        "red",
+        "gold",
+        "brown",
+        "green",
+        "light-blue"
+      ],
+      "composition": "single-ornament",
+      "description": "The architectural arcade of the Matthew portrait page, emptied of its figure. A red-brown semicircular arch with a white scalloped leaf pattern and a burnished gold inner band rests on a gold lintel painted with a row of small arches; two tall columns spiralled in red-brown and pale blue bands carry green acanthus capitals with orange leaves on blue-grey abaci and stand on orange bases over blue-grey and brown plinths. Open at the bottom. Only the paint is opaque; the inside of the arch and the surround are transparent.",
+      "display_width": [
+        600,
+        1600
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 229843,
+        "webpTopBytes": 331062
+      },
+      "facing": "none",
+      "group": "15v",
+      "height": 5856,
+      "master": {
+        "bytes": 1237106,
+        "h": 2048,
+        "path": "masters/twisted-column-arcade.webp",
+        "sha256": "19cb3a26ecf05aea1af6a2a6616a7cfa76fa0e8a9c2a390142f2a6b8a46d7d1a",
+        "w": 1386
+      },
+      "palette": [
+        "#786664",
+        "#b1997e",
+        "#704f45",
+        "#956a4e",
+        "#cc9c5b"
+      ],
+      "provenance": {
+        "date": "Middle of the 11th century CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W7/data/W.7/master/W7_000034_1022.tif",
+        "institution": "Walters Art Museum",
+        "method": "native-source-extraction",
+        "object_identifier": "W.7, fol. 15v",
+        "object_title": "Portrait of the Evangelist Matthew",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W7/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "cca95ef468d7a30acc6fc7fd7e301ff1a0819425f6c4c652f3baad6b977004ad"
+      },
+      "quality": "The columns lean slightly outward as painted, the bases sit at different heights, and the gold band of the arch has an unreconstructed notch at its apex where the angel's wing covered it.",
+      "related": [
+        {
+          "asset": "walters-w7/matthew-writing-at-lectern",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w7/winged-haloed-angel-holding-closed-book",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2549,
+            "h": 95,
+            "path": "avif/twisted-column-arcade-64.avif",
+            "sha256": "77d05930e08206215fa62592c47eed088535a252d4eb3749ba891e55f79c24b3",
+            "w": 64
+          },
+          {
+            "bytes": 4381,
+            "h": 142,
+            "path": "avif/twisted-column-arcade-96.avif",
+            "sha256": "3b8eed9921a239e8aad52400818752d909736f998d2dae84365dfb16a275c6d7",
+            "w": 96
+          },
+          {
+            "bytes": 5402,
+            "h": 189,
+            "path": "avif/twisted-column-arcade-128.avif",
+            "sha256": "a89e461b03c7672d4489276dc6b496a5fae24ab458ce829e52b4983926bdf253",
+            "w": 128
+          },
+          {
+            "bytes": 8866,
+            "h": 284,
+            "path": "avif/twisted-column-arcade-192.avif",
+            "sha256": "8f727d0e8469a34cb5cbf8d3e5248f3a3b6c960e2396c8005b7d0fa833da4a81",
+            "w": 192
+          },
+          {
+            "bytes": 12219,
+            "h": 378,
+            "path": "avif/twisted-column-arcade-256.avif",
+            "sha256": "f7058c81a65f730d9ff4d8df8ca469e8e94d58a062dbf15aee0480a523a9c407",
+            "w": 256
+          },
+          {
+            "bytes": 22428,
+            "h": 567,
+            "path": "avif/twisted-column-arcade-384.avif",
+            "sha256": "7984ef63e83070c3ef2009e426cb9a56bba26f4f95b37cbb6b6b28a1031e367e",
+            "w": 384
+          },
+          {
+            "bytes": 34439,
+            "h": 757,
+            "path": "avif/twisted-column-arcade-512.avif",
+            "sha256": "0fb751e5316454b05a0c3b735904976aae7af99365fb8bcfa83d6bb637912b7e",
+            "w": 512
+          },
+          {
+            "bytes": 56986,
+            "h": 1135,
+            "path": "avif/twisted-column-arcade-768.avif",
+            "sha256": "d5a4290bfde5e0f8b6485c444ac1d165ef07ba67c4187ee170695795a5a4c93b",
+            "w": 768
+          },
+          {
+            "bytes": 85033,
+            "h": 1513,
+            "path": "avif/twisted-column-arcade-1024.avif",
+            "sha256": "8839dbfb7280310ef32985573a20f455d14a0c89295dba003c68cd4adc871ed9",
+            "w": 1024
+          },
+          {
+            "bytes": 150398,
+            "h": 2270,
+            "path": "avif/twisted-column-arcade-1536.avif",
+            "sha256": "075a8770b38016259ab68853204b06fa1390bed9c78462f6081207eae0f25971",
+            "w": 1536
+          },
+          {
+            "bytes": 229843,
+            "h": 3026,
+            "path": "avif/twisted-column-arcade-2048.avif",
+            "sha256": "9f8426b9afb932790b23f5271dd8f0aa71ae2fd0e55e14baf218912f5f6c8237",
+            "w": 2048
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3762,
+            "h": 95,
+            "path": "webp/twisted-column-arcade-64.webp",
+            "sha256": "9adb70e0203ec14482adda9acf8fff3bc18d599ffa423e14780c8f7b930789c4",
+            "w": 64
+          },
+          {
+            "bytes": 6216,
+            "h": 142,
+            "path": "webp/twisted-column-arcade-96.webp",
+            "sha256": "95e0b69792e6119221702a6dce148365abbeba001f471b0c85dd1b32c8818e1a",
+            "w": 96
+          },
+          {
+            "bytes": 8950,
+            "h": 189,
+            "path": "webp/twisted-column-arcade-128.webp",
+            "sha256": "c548e56c1372442e07500f5e8b48499388fde8a17156603504e09b741a8275b2",
+            "w": 128
+          },
+          {
+            "bytes": 14520,
+            "h": 284,
+            "path": "webp/twisted-column-arcade-192.webp",
+            "sha256": "051e33c59a4890a2221474b2a7c6af8c9d90ad1224df10518150e09c298ac4a2",
+            "w": 192
+          },
+          {
+            "bytes": 20572,
+            "h": 378,
+            "path": "webp/twisted-column-arcade-256.webp",
+            "sha256": "d61e0258ebfa01b2484f201094941fea752e4fedb4febd6b8d61e61d2c96df19",
+            "w": 256
+          },
+          {
+            "bytes": 34200,
+            "h": 567,
+            "path": "webp/twisted-column-arcade-384.webp",
+            "sha256": "efae91422005f88456cbcbe0bbacf3fa74164577c9932ef953e82a15b547afd7",
+            "w": 384
+          },
+          {
+            "bytes": 49358,
+            "h": 757,
+            "path": "webp/twisted-column-arcade-512.webp",
+            "sha256": "4567093f65fdfcb63cd764f12497671476c5927da4b95ac145bd365b5d8ecb37",
+            "w": 512
+          },
+          {
+            "bytes": 84498,
+            "h": 1135,
+            "path": "webp/twisted-column-arcade-768.webp",
+            "sha256": "d84c8538785f03ada1a08ddc0e58e1940aa0331d7227950f1b871313d69577ad",
+            "w": 768
+          },
+          {
+            "bytes": 126534,
+            "h": 1513,
+            "path": "webp/twisted-column-arcade-1024.webp",
+            "sha256": "1ddff67a122e34efceb87dd9f1c9314722c862a9111d7bb1d5ce437abb0fb488",
+            "w": 1024
+          },
+          {
+            "bytes": 219560,
+            "h": 2270,
+            "path": "webp/twisted-column-arcade-1536.webp",
+            "sha256": "039a329e640abe2ff2c57e25badce6749cda231be2470e2863569e9e7c03d80c",
+            "w": 1536
+          },
+          {
+            "bytes": 331062,
+            "h": 3026,
+            "path": "webp/twisted-column-arcade-2048.webp",
+            "sha256": "6f82b9cdbf7456e6504243eaa653ccd8afbbb23074d131a5784bb43f0b659f10",
+            "w": 2048
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "arch",
+        "column",
+        "capital",
+        "architecture",
+        "acanthus"
+      ],
+      "thumbhash": "HTmCCwAUWHxZCAkXj0ig+Pd5jHSIRTg=",
+      "title": "Arcade with twisted columns and scalloped arch",
+      "transparent": true,
+      "type": "frame",
+      "usage_notes": [
+        "Fixed picture frame, open at the bottom; scale it as a whole and place content between the columns. On the page it enclosed matthew-writing-at-lectern, with winged-haloed-angel-holding-closed-book above the lintel.",
+        "The small notch at the apex of the gold band is where the angel's wing overlapped the arch; place the angel there to cover it."
+      ],
+      "width": 3963
+    },
+    "winged-haloed-angel-holding-closed-book": {
+      "attribution": "Walters Art Museum W.7, fol. 15v",
+      "categories": [
+        "humans",
+        "fantasy"
+      ],
+      "colors": [
+        "gold",
+        "green",
+        "red",
+        "light-blue",
+        "brown"
+      ],
+      "composition": "single-figure",
+      "description": "A half-length angel, the symbol of Matthew, seen to the waist with the head turned three-quarter to the left and the eyes looking left. Blond hair under a burnished gold halo with an orange rim and beaded border; a green mantle over a pale blue tunic; two long gold wings with mauve-red upper coverts spread to either side. Both hands hold a closed book with a gold cover dotted in red. Cut straight at the waist where the lintel of the arcade covered it; the background is transparent.",
+      "display_width": [
+        300,
+        800
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 113795,
+        "webpTopBytes": 142524
+      },
+      "facing": "left",
+      "group": "15v",
+      "height": 1154,
+      "master": {
+        "bytes": 1358714,
+        "h": 1154,
+        "path": "masters/winged-haloed-angel-holding-closed-book.webp",
+        "sha256": "0e436882348a35116520709e9f7519b4d72b0c93d8b3455d24aafb0d92214c16",
+        "w": 1540
+      },
+      "palette": [
+        "#625841",
+        "#64826b",
+        "#996d43",
+        "#9b7369",
+        "#b4a68f"
+      ],
+      "provenance": {
+        "date": "Middle of the 11th century CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W7/data/W.7/master/W7_000034_1022.tif",
+        "institution": "Walters Art Museum",
+        "method": "native-source-extraction",
+        "object_identifier": "W.7, fol. 15v",
+        "object_title": "Portrait of the Evangelist Matthew",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W7/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "cca95ef468d7a30acc6fc7fd7e301ff1a0819425f6c4c652f3baad6b977004ad"
+      },
+      "quality": "Cut straight at the waist as painted behind the lintel; the figure has no lower half.",
+      "related": [
+        {
+          "asset": "walters-w7/twisted-column-arcade",
+          "role": "companion"
+        },
+        {
+          "asset": "walters-w7/matthew-writing-at-lectern",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2094,
+            "h": 48,
+            "path": "avif/winged-haloed-angel-holding-closed-book-64.avif",
+            "sha256": "d1a490bd3fbb7f6529a28d5f90de1bb4c08abf5d1ad6de2e114225041b111844",
+            "w": 64
+          },
+          {
+            "bytes": 3079,
+            "h": 72,
+            "path": "avif/winged-haloed-angel-holding-closed-book-96.avif",
+            "sha256": "3c7ed749b5b3192f3ab2218be6499924e737514950f92946dd4d1ffd31540873",
+            "w": 96
+          },
+          {
+            "bytes": 4271,
+            "h": 96,
+            "path": "avif/winged-haloed-angel-holding-closed-book-128.avif",
+            "sha256": "a7916fc8d1decef243cb223376b2699d6dfa4a5bdcebb7ad2358bffdf92b8419",
+            "w": 128
+          },
+          {
+            "bytes": 6902,
+            "h": 144,
+            "path": "avif/winged-haloed-angel-holding-closed-book-192.avif",
+            "sha256": "da79075b79b42cf32e65c3ed78f27e8674cdea63e790fc6de0fcfe3c772d1c58",
+            "w": 192
+          },
+          {
+            "bytes": 10157,
+            "h": 192,
+            "path": "avif/winged-haloed-angel-holding-closed-book-256.avif",
+            "sha256": "c4f96284924b7cf048cc0dc9df2d2ea414186f8accbf94067edd0c0ac8e68ca8",
+            "w": 256
+          },
+          {
+            "bytes": 17684,
+            "h": 288,
+            "path": "avif/winged-haloed-angel-holding-closed-book-384.avif",
+            "sha256": "4884e83940d6240d16d69a750391a1eb34f455da30eac805349bdf279ff61aab",
+            "w": 384
+          },
+          {
+            "bytes": 25778,
+            "h": 384,
+            "path": "avif/winged-haloed-angel-holding-closed-book-512.avif",
+            "sha256": "5d0a1b9afb8ac2a32905ea2630446a375e8a75a991410ffc9876565620c04c2b",
+            "w": 512
+          },
+          {
+            "bytes": 44697,
+            "h": 576,
+            "path": "avif/winged-haloed-angel-holding-closed-book-768.avif",
+            "sha256": "d27022b8d03d4b887ff11a312a05806600bc0e2cb7b0e73c1d45e14d8098e6a2",
+            "w": 768
+          },
+          {
+            "bytes": 66617,
+            "h": 767,
+            "path": "avif/winged-haloed-angel-holding-closed-book-1024.avif",
+            "sha256": "15dbab0098ce17794c70580cfdff5c6e648f47e9a2f0804758cfd47f29ec52bf",
+            "w": 1024
+          },
+          {
+            "bytes": 118512,
+            "h": 1151,
+            "path": "avif/winged-haloed-angel-holding-closed-book-1536.avif",
+            "sha256": "5f41aeba612b179bfded347b6e37bcbcd1e08cd6744ea63b9e3d7ecf3633a942",
+            "w": 1536
+          },
+          {
+            "bytes": 113795,
+            "h": 1154,
+            "path": "avif/winged-haloed-angel-holding-closed-book-1540.avif",
+            "sha256": "be4b2e5e490a7b98584058ba347b63f8f04de9fc99071fd0d5524727ee026083",
+            "w": 1540
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2310,
+            "h": 48,
+            "path": "webp/winged-haloed-angel-holding-closed-book-64.webp",
+            "sha256": "87534935aacbe8fb3d1880df00c5b598cc8deea33512f2fc1c175c388f7bcfc8",
+            "w": 64
+          },
+          {
+            "bytes": 3976,
+            "h": 72,
+            "path": "webp/winged-haloed-angel-holding-closed-book-96.webp",
+            "sha256": "4d4f79d4794c61f34dfb36ff2cb7850f72a972e0d0f0a941933720bea58cfd16",
+            "w": 96
+          },
+          {
+            "bytes": 5806,
+            "h": 96,
+            "path": "webp/winged-haloed-angel-holding-closed-book-128.webp",
+            "sha256": "019e9590bc539d4570990c4a7bbb422c718a56b716243b7fffbaa7145e444709",
+            "w": 128
+          },
+          {
+            "bytes": 10150,
+            "h": 144,
+            "path": "webp/winged-haloed-angel-holding-closed-book-192.webp",
+            "sha256": "e4194ea2bb917f96566d04e408aaf49f8f464507d8536874571650a40d9335d3",
+            "w": 192
+          },
+          {
+            "bytes": 15052,
+            "h": 192,
+            "path": "webp/winged-haloed-angel-holding-closed-book-256.webp",
+            "sha256": "bc3a4738da7063013e57ea4b835332c0e5badaa41870efa6b37dc40bc2a541d4",
+            "w": 256
+          },
+          {
+            "bytes": 26170,
+            "h": 288,
+            "path": "webp/winged-haloed-angel-holding-closed-book-384.webp",
+            "sha256": "09c449661082d51385c7589be6eef8cc7b6947fa13c6ebdede81fd2b209131ed",
+            "w": 384
+          },
+          {
+            "bytes": 39074,
+            "h": 384,
+            "path": "webp/winged-haloed-angel-holding-closed-book-512.webp",
+            "sha256": "a64877b30fc7503db7536eca946772003ebf51224c8a042b016f12c6808383f8",
+            "w": 512
+          },
+          {
+            "bytes": 66390,
+            "h": 576,
+            "path": "webp/winged-haloed-angel-holding-closed-book-768.webp",
+            "sha256": "f836f68a44a82b209c13c6f3fd28a342e57e74d5402dedf929fe7068a7a92bd5",
+            "w": 768
+          },
+          {
+            "bytes": 98180,
+            "h": 767,
+            "path": "webp/winged-haloed-angel-holding-closed-book-1024.webp",
+            "sha256": "e8b977443e66057400412f07f87c6a547a8c78d8ac17396aa656537163a8104e",
+            "w": 1024
+          },
+          {
+            "bytes": 166656,
+            "h": 1151,
+            "path": "webp/winged-haloed-angel-holding-closed-book-1536.webp",
+            "sha256": "3de060387f11c7c30b18e59a1b1c3bfb7bbb056c2501ddca54691d0dc85dbcbf",
+            "w": 1536
+          },
+          {
+            "bytes": 142524,
+            "h": 1154,
+            "path": "webp/winged-haloed-angel-holding-closed-book-1540.webp",
+            "sha256": "d0d4568746584144f236369e3addc8455bda52bb67ad0d4ae6e7a9d9e1d27291",
+            "w": 1540
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "angel",
+        "wings",
+        "halo",
+        "book",
+        "robe"
+      ],
+      "thumbhash": "3BiCDIQn+X+bqUFpd/l6h6/1IZaHaYeFBA==",
+      "title": "Half-length angel holding a closed book",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "Ends at the waist, so stand it on an edge or behind a band; on the page it rose above the lintel of fixed-twisted-column-arcade-with-scalloped-arch, its right wing crossing the apex of the arch."
+      ],
+      "view": "three-quarter",
+      "width": 1540
+    }
+  },
+  "attribution": "Walters Art Museum W.7",
+  "builtAt": "2026-10-30T13:06:31.597Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-walters-w7@1.0.0/",
+  "contentHash": "sha256:1134ea9ee47c11ae1c5f22fd208c8e988f306b5f90d69514414aa539584c6c6a",
+  "inputsHash": "sha256:988cc8dcbb99ab1d11405130ae8a0e97aaa9cfe17c4fa4c5f4a4a36c2e61acb1",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from Digital Walters manuscript images (CC0); see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-walters-w7-masters",
+  "package": "@ranx729/ducktape-assets-walters-w7",
+  "period": "middle of the 11th century",
+  "region": "Reichenau, Germany",
+  "schema": 1,
+  "set": "walters-w7",
+  "style": "Ottonian illumination",
+  "summary": "The Evangelist Matthew writing at his lectern and a canon table with its arches, from Walters Ms. W.7, the Reichenau Gospels of the middle of the 11th century, grouped by folio.",
+  "title": "Walters W.7, Reichenau Gospels",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

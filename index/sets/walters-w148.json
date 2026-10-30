@@ -1,0 +1,1421 @@
+{
+  "assets": {
+    "brown-beast-facing-left": {
+      "attribution": "Walters Art Museum W.148, fol. 52r",
+      "categories": [
+        "animals",
+        "fantasy"
+      ],
+      "colors": [
+        "brown",
+        "black",
+        "gold",
+        "cream"
+      ],
+      "composition": "single-figure",
+      "description": "A brown dragon-like quadruped walks to the left on four clawed feet, with a long arched neck, an open mouth, a pointed ear and a long tail that curls into a spiral behind it with a gold trefoil inside the curl. The body is brown with small cream drop-shaped marks and black contours, with thin green fringes from the initial's ground along parts of the outline; the background is transparent.",
+      "display_width": [
+        300,
+        900
+      ],
+      "encoding": {
+        "avif": false,
+        "avifTopBytes": 63738,
+        "webpTopBytes": 68654
+      },
+      "facing": "left",
+      "group": "52r",
+      "height": 606,
+      "master": {
+        "bytes": 956728,
+        "h": 606,
+        "path": "masters/brown-beast-facing-left.webp",
+        "sha256": "ef2f8728899568d04e019fbc22e13f73045263988217c8278d645e48ad01a064",
+        "w": 1843
+      },
+      "palette": [
+        "#725d44",
+        "#443d30",
+        "#8b6b4d",
+        "#a47a42",
+        "#9b8060"
+      ],
+      "provenance": {
+        "date": "First half of the 14th century CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W148/data/W.148/master/W148_000107_819.tif",
+        "institution": "Walters Art Museum",
+        "method": "native-source-extraction",
+        "object_identifier": "W.148, fol. 52r",
+        "object_title": "Initial \"C\" (Cristus paganis)",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W148/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "14c2bbca973c92502440f3e1d29b625dd889235829001b37318aba49eb307abf"
+      },
+      "quality": "Thin green fringes from the painted ground of the initial remain along parts of the outline.",
+      "related": [
+        {
+          "asset": "walters-w148/brown-beast-facing-right",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "webp": [
+          {
+            "bytes": 1724,
+            "h": 21,
+            "path": "webp/brown-beast-facing-left-64.webp",
+            "sha256": "8696a77ba0a03470e75300d79fbe83a9834f5f6ed974c1f6d1d796d2785ff4e5",
+            "w": 64
+          },
+          {
+            "bytes": 2938,
+            "h": 32,
+            "path": "webp/brown-beast-facing-left-96.webp",
+            "sha256": "fa6dd2ec95a84e7b8cb33c23be6273a98d59bdf11446d9685f0e3b60375e5e89",
+            "w": 96
+          },
+          {
+            "bytes": 4360,
+            "h": 42,
+            "path": "webp/brown-beast-facing-left-128.webp",
+            "sha256": "d9ef6e5c48774104ae2b70fc426a098263b45ff297e9344c8cda970bb94bddb9",
+            "w": 128
+          },
+          {
+            "bytes": 7292,
+            "h": 63,
+            "path": "webp/brown-beast-facing-left-192.webp",
+            "sha256": "be89c388b7023b1cdd00f3843f12b7f918da0ce581ff27592fa82f0c19a0df06",
+            "w": 192
+          },
+          {
+            "bytes": 10246,
+            "h": 84,
+            "path": "webp/brown-beast-facing-left-256.webp",
+            "sha256": "511b0a03aed8779313333ec5a0585bf823bcfd2b96f23c1aa28b6eb4ee7e52cd",
+            "w": 256
+          },
+          {
+            "bytes": 17134,
+            "h": 126,
+            "path": "webp/brown-beast-facing-left-384.webp",
+            "sha256": "5526495edd9d3e312aea9da357257068a015c5409e2eced8946f8e0a4589700a",
+            "w": 384
+          },
+          {
+            "bytes": 24132,
+            "h": 168,
+            "path": "webp/brown-beast-facing-left-512.webp",
+            "sha256": "2b82d6a6ab7073ded0b9052ab231b25a696b43ea44bb04eee0406bcdb06af2f6",
+            "w": 512
+          },
+          {
+            "bytes": 37092,
+            "h": 253,
+            "path": "webp/brown-beast-facing-left-768.webp",
+            "sha256": "9253d5482d96253a5b2191e2504ef0ebd6cbccc12732a1f322958a05f6d1cf40",
+            "w": 768
+          },
+          {
+            "bytes": 50488,
+            "h": 337,
+            "path": "webp/brown-beast-facing-left-1024.webp",
+            "sha256": "8dcdbe1637d64226dd2509bd52a8d59893cb0f8102f492c2aa8b30104d759e68",
+            "w": 1024
+          },
+          {
+            "bytes": 79720,
+            "h": 505,
+            "path": "webp/brown-beast-facing-left-1536.webp",
+            "sha256": "8089b110c38385efb212d678d74b67b5459bb9f60be6debc1bac416d5925d2fe",
+            "w": 1536
+          },
+          {
+            "bytes": 68654,
+            "h": 606,
+            "path": "webp/brown-beast-facing-left-1843.webp",
+            "sha256": "448a445c1f8f0b1c3601bd6950f656107fbf685f60361b67863e46562774a7fd",
+            "w": 1843
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "creature",
+        "animal-like-creature",
+        "trefoil"
+      ],
+      "thumbhash": "FymCCoAoSpd4lpCEeJCFCDSIe6iAiUc=",
+      "title": "Brown beast with trefoil in its tail, facing left",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The gold trefoil inside the tail curl belongs to the piece; in the initial the two beasts face each other, so this one pairs with brown-quadruped-facing-right on the other side of a title or heading."
+      ],
+      "view": "side",
+      "width": 1843
+    },
+    "brown-beast-facing-right": {
+      "attribution": "Walters Art Museum W.148, fol. 52r",
+      "categories": [
+        "animals",
+        "fantasy"
+      ],
+      "colors": [
+        "brown",
+        "black",
+        "gold",
+        "cream"
+      ],
+      "composition": "single-figure",
+      "description": "A brown dragon-like quadruped walks to the right on four clawed feet, with a long arched neck, an open mouth, a pointed ear and a long tail that curls into a spiral behind it with a gold trefoil inside the curl. The body is brown with small cream drop-shaped marks and black contours, with thin green fringes from the initial's ground along parts of the outline; the background is transparent.",
+      "display_width": [
+        300,
+        900
+      ],
+      "encoding": {
+        "avif": false,
+        "avifTopBytes": 61476,
+        "webpTopBytes": 63278
+      },
+      "facing": "right",
+      "group": "52r",
+      "height": 647,
+      "master": {
+        "bytes": 932176,
+        "h": 647,
+        "path": "masters/brown-beast-facing-right.webp",
+        "sha256": "10a2296d5ba8d614285cddd0fb13279881b941cca2488294bcae86781a9b1cc8",
+        "w": 1850
+      },
+      "palette": [
+        "#8c6e53",
+        "#6a5239",
+        "#805d3e",
+        "#4f4231",
+        "#332f25"
+      ],
+      "provenance": {
+        "date": "First half of the 14th century CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W148/data/W.148/master/W148_000107_819.tif",
+        "institution": "Walters Art Museum",
+        "method": "native-source-extraction",
+        "object_identifier": "W.148, fol. 52r",
+        "object_title": "Initial \"C\" (Cristus paganis)",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W148/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "14c2bbca973c92502440f3e1d29b625dd889235829001b37318aba49eb307abf"
+      },
+      "quality": "Thin green fringes from the painted ground of the initial remain along parts of the outline.",
+      "related": [
+        {
+          "asset": "walters-w148/brown-beast-facing-left",
+          "role": "variant"
+        }
+      ],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "webp": [
+          {
+            "bytes": 1754,
+            "h": 22,
+            "path": "webp/brown-beast-facing-right-64.webp",
+            "sha256": "63f174ce9da1bde61b001c3fbfac58f2acd0d7ed7d546b8d8a5241979e34f385",
+            "w": 64
+          },
+          {
+            "bytes": 3036,
+            "h": 34,
+            "path": "webp/brown-beast-facing-right-96.webp",
+            "sha256": "8ac473ebdc2ceb1e00449e8fea5a952a6492403969052cea51829a7410fdce78",
+            "w": 96
+          },
+          {
+            "bytes": 4400,
+            "h": 45,
+            "path": "webp/brown-beast-facing-right-128.webp",
+            "sha256": "740e627166a37733714fa089b981da1ca48e085f2fffdceb6450f94e66b28e0b",
+            "w": 128
+          },
+          {
+            "bytes": 7306,
+            "h": 67,
+            "path": "webp/brown-beast-facing-right-192.webp",
+            "sha256": "31219f0a4323e5d05b054900915b78228c352cdd791661afb027ec14bd171c81",
+            "w": 192
+          },
+          {
+            "bytes": 10044,
+            "h": 90,
+            "path": "webp/brown-beast-facing-right-256.webp",
+            "sha256": "0dcf53d808dcc741052f12d2d869f738a77b0b383a07646319272a0df01e63ec",
+            "w": 256
+          },
+          {
+            "bytes": 16666,
+            "h": 134,
+            "path": "webp/brown-beast-facing-right-384.webp",
+            "sha256": "b6a6631b8497791c941fa4264c8a32e423a26029489ac28ff48128ec41e0cf6c",
+            "w": 384
+          },
+          {
+            "bytes": 22782,
+            "h": 179,
+            "path": "webp/brown-beast-facing-right-512.webp",
+            "sha256": "79e378dfb1a1e8f45a5d586cdaa4404b4a87bc8c13ac6f8d84bf2d6ee3a4cb58",
+            "w": 512
+          },
+          {
+            "bytes": 34992,
+            "h": 269,
+            "path": "webp/brown-beast-facing-right-768.webp",
+            "sha256": "524884e2b7c5e4876e2fc83c31dc6d2b33215baf9bbaa054e5cc7c8ec2253fbf",
+            "w": 768
+          },
+          {
+            "bytes": 48186,
+            "h": 358,
+            "path": "webp/brown-beast-facing-right-1024.webp",
+            "sha256": "6f06604a75fa67611e75c2ffca60e9297c13690836a481cba6d00cf661fc82ec",
+            "w": 1024
+          },
+          {
+            "bytes": 75932,
+            "h": 537,
+            "path": "webp/brown-beast-facing-right-1536.webp",
+            "sha256": "f738ce42c25e8618c8b6ecc42387cae2aaebec870da24cfeb2ea4124df690444",
+            "w": 1536
+          },
+          {
+            "bytes": 63278,
+            "h": 647,
+            "path": "webp/brown-beast-facing-right-1850.webp",
+            "sha256": "05f23974ea43a13008b6b429b5889caf5d7cda211e6fd676c5cbd4db147bc7ff",
+            "w": 1850
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "creature",
+        "animal-like-creature",
+        "trefoil"
+      ],
+      "thumbhash": "FSmCAoAnENp3iJNWdiBwB02GaWlwilg=",
+      "title": "Brown beast with trefoil in its tail, facing right",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The gold trefoil inside the tail curl belongs to the piece; in the initial the two beasts face each other, so this one pairs with brown-quadruped-facing-left on the other side of a title or heading."
+      ],
+      "view": "side",
+      "width": 1850
+    },
+    "lobed-leaves-in-gold-medallions": {
+      "attribution": "Walters Art Museum W.148, fol. 31r",
+      "categories": [
+        "floral",
+        "botanical"
+      ],
+      "colors": [
+        "gold",
+        "green",
+        "red",
+        "blue",
+        "black"
+      ],
+      "components": {
+        "corner-top-left": {
+          "description": "Top-left mitred corner cut from the same initial, a gray-blue four-lobed leaf in a gold roundel with the red rule turning the inner angle; transparent along its outer top and left edges.",
+          "encoding": {
+            "avif": false,
+            "avifTopBytes": 35330,
+            "webpTopBytes": 39476
+          },
+          "master": {
+            "bytes": 537706,
+            "h": 682,
+            "path": "masters/lobed-leaves-in-gold-medallions.corner-top-left.webp",
+            "sha256": "089296c4e8fc00ac075f701ec6832141b34e31b438a73be6076bac567d9bdb88",
+            "w": 682
+          },
+          "sources": {
+            "webp": [
+              {
+                "bytes": 1406,
+                "h": 64,
+                "path": "webp/lobed-leaves-in-gold-medallions.corner-top-left-64.webp",
+                "sha256": "72992e37286f62ec68ca15e44f2183787119402527d4597b53f6f1623535748d",
+                "w": 64
+              },
+              {
+                "bytes": 2650,
+                "h": 96,
+                "path": "webp/lobed-leaves-in-gold-medallions.corner-top-left-96.webp",
+                "sha256": "0a31fb87310c222754a75ef355a8f8b1eaf06c1cf802c563c7349e03df18d4d4",
+                "w": 96
+              },
+              {
+                "bytes": 3614,
+                "h": 128,
+                "path": "webp/lobed-leaves-in-gold-medallions.corner-top-left-128.webp",
+                "sha256": "c138d172212788ec21ef67fdb9ffb8c8fadceec31cb737a924059babfb9c235f",
+                "w": 128
+              },
+              {
+                "bytes": 7016,
+                "h": 192,
+                "path": "webp/lobed-leaves-in-gold-medallions.corner-top-left-192.webp",
+                "sha256": "e0024caa0c81200bf0eb2ea31592e7cd9e7130cfb5bdb403a0a24192a9f511f8",
+                "w": 192
+              },
+              {
+                "bytes": 10904,
+                "h": 256,
+                "path": "webp/lobed-leaves-in-gold-medallions.corner-top-left-256.webp",
+                "sha256": "57b0505c695dfdf499e2df97689375f212ed7fcb7e9f41fec7a6c8d38b6b9b57",
+                "w": 256
+              },
+              {
+                "bytes": 18866,
+                "h": 384,
+                "path": "webp/lobed-leaves-in-gold-medallions.corner-top-left-384.webp",
+                "sha256": "2719cb1961e365eaa5a5882f11285e5648a96e5ae29cf36a152c322e5fa32593",
+                "w": 384
+              },
+              {
+                "bytes": 26956,
+                "h": 512,
+                "path": "webp/lobed-leaves-in-gold-medallions.corner-top-left-512.webp",
+                "sha256": "8b9f0a1911ccf3cd39e7a89a25b23ec1202c890bff4a7bdd55c1af59f550658a",
+                "w": 512
+              },
+              {
+                "bytes": 39476,
+                "h": 682,
+                "path": "webp/lobed-leaves-in-gold-medallions.corner-top-left-682.webp",
+                "sha256": "833ca82164f3767f5ab377eef37a1d0f027c99ccc874ee02033402fbad49ec4f",
+                "w": 682
+              }
+            ]
+          }
+        },
+        "corner-top-right": {
+          "description": "Alternative top-right corner from the same initial with a red four-lobed leaf in its roundel; the atlas does not use it, place it by hand.",
+          "encoding": {
+            "avif": false,
+            "avifTopBytes": 35957,
+            "webpTopBytes": 41610
+          },
+          "master": {
+            "bytes": 537990,
+            "h": 682,
+            "path": "masters/lobed-leaves-in-gold-medallions.corner-top-right.webp",
+            "sha256": "acb9cfa804cc8f9505c9306a522658d7ffd23efb74d8a944b0b25ca3a9e701ff",
+            "w": 682
+          },
+          "sources": {
+            "webp": [
+              {
+                "bytes": 1406,
+                "h": 64,
+                "path": "webp/lobed-leaves-in-gold-medallions.corner-top-right-64.webp",
+                "sha256": "01a6b52a72ad2505e84f8aa05085188e949df674ac83242455b5cd0687577d00",
+                "w": 64
+              },
+              {
+                "bytes": 2612,
+                "h": 96,
+                "path": "webp/lobed-leaves-in-gold-medallions.corner-top-right-96.webp",
+                "sha256": "b2e4b3e14978aac03371df7f3ce6e431ec7a0c611f814680e974a025866899bd",
+                "w": 96
+              },
+              {
+                "bytes": 3460,
+                "h": 128,
+                "path": "webp/lobed-leaves-in-gold-medallions.corner-top-right-128.webp",
+                "sha256": "335dd0de86b0137512d2bf4682567a6ce9615886361efeb2213bfd2029cb5303",
+                "w": 128
+              },
+              {
+                "bytes": 6828,
+                "h": 192,
+                "path": "webp/lobed-leaves-in-gold-medallions.corner-top-right-192.webp",
+                "sha256": "0663de9c716c99ae1a1042aee60119566e868f26f244e4b34528a11099bd6da8",
+                "w": 192
+              },
+              {
+                "bytes": 11282,
+                "h": 256,
+                "path": "webp/lobed-leaves-in-gold-medallions.corner-top-right-256.webp",
+                "sha256": "9df4cfccd24dcf637d409c6d7182d9847c8ed7f73304fa538e8e73c2a21f7a91",
+                "w": 256
+              },
+              {
+                "bytes": 19890,
+                "h": 384,
+                "path": "webp/lobed-leaves-in-gold-medallions.corner-top-right-384.webp",
+                "sha256": "e5902d940acaac4c28f216c341c0f80c27da15dc069434d1c29e6c5dfc923130",
+                "w": 384
+              },
+              {
+                "bytes": 28718,
+                "h": 512,
+                "path": "webp/lobed-leaves-in-gold-medallions.corner-top-right-512.webp",
+                "sha256": "9925b2c6fed6803ff0726dcdb24c4823061f71f8af0e3ca81e403134f56c8a12",
+                "w": 512
+              },
+              {
+                "bytes": 41610,
+                "h": 682,
+                "path": "webp/lobed-leaves-in-gold-medallions.corner-top-right-682.webp",
+                "sha256": "a5f657b586c3927bcfd5ad4823985856808c81372d5b728060d28543d3c1c7a7",
+                "w": 682
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "One cycle of a horizontal band: three burnished gold roundels ringed in olive green hold a red, a blue and a gray-blue lobed leaf on a dark ground, joined by green stems with small curled leaves between them; a thin red rule with a pale line runs along the bottom edge. The pattern continues across the left and right edges; the strip above the band and a thinner one below the red rule are transparent.",
+      "display_width": [
+        325,
+        975
+      ],
+      "encoding": {
+        "avif": false,
+        "avifTopBytes": 97009,
+        "webpTopBytes": 111770
+      },
+      "facing": "none",
+      "group": "31r",
+      "height": 682,
+      "master": {
+        "bytes": 1649822,
+        "h": 682,
+        "path": "masters/lobed-leaves-in-gold-medallions.webp",
+        "sha256": "89a2a8a2531c4d0d8d71e4d8ed070db8ab8093ad2dbd32d95194604ea2e707fd",
+        "w": 1949
+      },
+      "palette": [
+        "#4c4b3e",
+        "#754f3b",
+        "#72684a",
+        "#9a7639",
+        "#c5a049"
+      ],
+      "provenance": {
+        "date": "First half of the 14th century CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W148/data/W.148/master/W148_000065_819.tif",
+        "institution": "Walters Art Museum",
+        "method": "native-source-repeat",
+        "object_identifier": "W.148, fol. 31r",
+        "object_title": "Initial \"S\" (Sed cum iudei)",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W148/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "9290421954a6a5dd80659798644e38ee2325244670a6f58202f2fec1b001567c"
+      },
+      "quality": "The join at the ends is averaged over a two-column collar; the three roundels differ slightly in brushwork, as painted.",
+      "related": [
+        {
+          "asset": "walters-w148/opposed-leaves-with-gray-interlace",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "frame": {
+          "atlas": {
+            "webp": [
+              {
+                "bytes": 1580,
+                "h": 64,
+                "path": "frames/lobed-leaves-in-gold-medallions-atlas-64.webp",
+                "sha256": "eefe57f13dac45444854c3bcb581ff42167d6f4138164c3426d1e2dc580f8cba",
+                "w": 64
+              },
+              {
+                "bytes": 3100,
+                "h": 96,
+                "path": "frames/lobed-leaves-in-gold-medallions-atlas-96.webp",
+                "sha256": "315c392fc378e57180b64a1a352d7eed5968a8ead0526dfa77ecd7b7d04e5c45",
+                "w": 96
+              },
+              {
+                "bytes": 4582,
+                "h": 128,
+                "path": "frames/lobed-leaves-in-gold-medallions-atlas-128.webp",
+                "sha256": "d38e6dd3d911482d3bb9c5c2f79b0775e0055d0cbae89a6573feb4ec023515bb",
+                "w": 128
+              },
+              {
+                "bytes": 8580,
+                "h": 192,
+                "path": "frames/lobed-leaves-in-gold-medallions-atlas-192.webp",
+                "sha256": "fdaed8704a1c7a9c61b1cbfae067a88aebf8a7f473a4e3653b0654458163dd10",
+                "w": 192
+              },
+              {
+                "bytes": 13508,
+                "h": 256,
+                "path": "frames/lobed-leaves-in-gold-medallions-atlas-256.webp",
+                "sha256": "d20e726f0b0bbd278e665cc6555b484b242a7f9a858ee229e396bfde1d70a2ee",
+                "w": 256
+              },
+              {
+                "bytes": 24532,
+                "h": 384,
+                "path": "frames/lobed-leaves-in-gold-medallions-atlas-384.webp",
+                "sha256": "0ad927d0cabd402bf239fdb663c670b808b6e2ce3c9c3834d5a8ccceea9c4b73",
+                "w": 384
+              },
+              {
+                "bytes": 39300,
+                "h": 512,
+                "path": "frames/lobed-leaves-in-gold-medallions-atlas-512.webp",
+                "sha256": "76f1da2f61b17644bb5e195e1b11ebd2165227d9bae59c474ba401aa4c26ad96",
+                "w": 512
+              },
+              {
+                "bytes": 70170,
+                "h": 768,
+                "path": "frames/lobed-leaves-in-gold-medallions-atlas-768.webp",
+                "sha256": "5fbaf8e94b814c83ba120c710b8463cdffe74029fb9d9751b4c4d6f8e332f2f8",
+                "w": 768
+              },
+              {
+                "bytes": 110324,
+                "h": 1024,
+                "path": "frames/lobed-leaves-in-gold-medallions-atlas-1024.webp",
+                "sha256": "b7be318538b44d4b5ab4612dd6fac792bd14f8411903ef0bb843ae5acf644cc3",
+                "w": 1024
+              },
+              {
+                "bytes": 200248,
+                "h": 1536,
+                "path": "frames/lobed-leaves-in-gold-medallions-atlas-1536.webp",
+                "sha256": "bc7d110fd798308f6b29efac39eeb4dbd05d8164935ca9284f963b3dc28f1672",
+                "w": 1536
+              },
+              {
+                "bytes": 308784,
+                "h": 2048,
+                "path": "frames/lobed-leaves-in-gold-medallions-atlas-2048.webp",
+                "sha256": "90487228dbb1359ce85613908dd6a71a1d2953065625e50b0f2f12ad57cddb7e",
+                "w": 2048
+              }
+            ]
+          },
+          "corner": "corner-top-left",
+          "slice": 20.59
+        },
+        "image": {},
+        "tile": {
+          "axis": "x",
+          "period": 1,
+          "rotated": {
+            "webp": [
+              {
+                "bytes": 1022,
+                "h": 64,
+                "path": "tiles/lobed-leaves-in-gold-medallions-rotated-22.webp",
+                "sha256": "4413da55c59e424eaca16aff9f977599730fa417a4141574a475eefc6219957a",
+                "w": 22
+              },
+              {
+                "bytes": 1286,
+                "h": 96,
+                "path": "tiles/lobed-leaves-in-gold-medallions-rotated-34.webp",
+                "sha256": "71af6c929c8281a152566e6c8f65350a4fad5750a0689793c3650e1a14fb2c2b",
+                "w": 34
+              },
+              {
+                "bytes": 2214,
+                "h": 128,
+                "path": "tiles/lobed-leaves-in-gold-medallions-rotated-45.webp",
+                "sha256": "f262783258902ba9f8a0d699df56929e861b1f14125fc00c953e0f928c0a3311",
+                "w": 45
+              },
+              {
+                "bytes": 3620,
+                "h": 192,
+                "path": "tiles/lobed-leaves-in-gold-medallions-rotated-67.webp",
+                "sha256": "655491a6b7211b69d8c8da7f30a824dd54937fb77bd0b6cb441d9ba3fdf189c5",
+                "w": 67
+              },
+              {
+                "bytes": 5680,
+                "h": 256,
+                "path": "tiles/lobed-leaves-in-gold-medallions-rotated-90.webp",
+                "sha256": "b133cf4a5555e93487d4b3c6539cc4e5efc07fa322a62213b7f9ab067df9da40",
+                "w": 90
+              },
+              {
+                "bytes": 10742,
+                "h": 384,
+                "path": "tiles/lobed-leaves-in-gold-medallions-rotated-134.webp",
+                "sha256": "b8524d6dcbda9249aa5f1e9419fbc39b7ef65cfaa97b0201e625003affb5c2be",
+                "w": 134
+              },
+              {
+                "bytes": 16924,
+                "h": 512,
+                "path": "tiles/lobed-leaves-in-gold-medallions-rotated-179.webp",
+                "sha256": "659e5dd5892122f7bfacba1d847a5095856a8997db6f8c5efc06d2ffd7c35998",
+                "w": 179
+              },
+              {
+                "bytes": 31898,
+                "h": 768,
+                "path": "tiles/lobed-leaves-in-gold-medallions-rotated-269.webp",
+                "sha256": "d034c798e408d1bb85e3cd645c55b9ef7b62b25591136f976cdd7a4bf13d539e",
+                "w": 269
+              },
+              {
+                "bytes": 46274,
+                "h": 1024,
+                "path": "tiles/lobed-leaves-in-gold-medallions-rotated-358.webp",
+                "sha256": "21ad8aa84804eabfb9390f663650108d4a11dba6ef2088106330ca3e193d0f35",
+                "w": 358
+              },
+              {
+                "bytes": 79866,
+                "h": 1536,
+                "path": "tiles/lobed-leaves-in-gold-medallions-rotated-537.webp",
+                "sha256": "129af364faa2bb8ff48b6efd6b40686a92bb39f6b38d1b655aac2ff7a29e6720",
+                "w": 537
+              },
+              {
+                "bytes": 110722,
+                "h": 1949,
+                "path": "tiles/lobed-leaves-in-gold-medallions-rotated-682.webp",
+                "sha256": "94154eb27e0dc97f2468c03a0f1fa61d1e61a49a1d6036f7716ad8ceab2ae461",
+                "w": 682
+              }
+            ]
+          }
+        }
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "webp": [
+          {
+            "bytes": 894,
+            "h": 22,
+            "path": "webp/lobed-leaves-in-gold-medallions-64.webp",
+            "sha256": "bf127a1876f54eb12ec73d81f00c228714d90f66db81808a99c37536b62c8a13",
+            "w": 64
+          },
+          {
+            "bytes": 1386,
+            "h": 34,
+            "path": "webp/lobed-leaves-in-gold-medallions-96.webp",
+            "sha256": "df01e00f63900c4850487f36edea06e514b59836c58f7823d0f52037903cb17e",
+            "w": 96
+          },
+          {
+            "bytes": 2298,
+            "h": 45,
+            "path": "webp/lobed-leaves-in-gold-medallions-128.webp",
+            "sha256": "4f561558a099723459152070fe7f720063a73207a4ccf3667caa8a6e049180a7",
+            "w": 128
+          },
+          {
+            "bytes": 3760,
+            "h": 67,
+            "path": "webp/lobed-leaves-in-gold-medallions-192.webp",
+            "sha256": "fafd735c5bdae5d438bb2ae3bfc5d2534989fd197bfb2f1e4080d009e107227f",
+            "w": 192
+          },
+          {
+            "bytes": 5864,
+            "h": 90,
+            "path": "webp/lobed-leaves-in-gold-medallions-256.webp",
+            "sha256": "fc30ab49ab632edffc0ec21e0c021e9fff3aaf2761cbf0047af7a29935b2ee2a",
+            "w": 256
+          },
+          {
+            "bytes": 10610,
+            "h": 134,
+            "path": "webp/lobed-leaves-in-gold-medallions-384.webp",
+            "sha256": "fa7c4743778384504f189038fc2ae0bc8fd052c8ac233bba3202bab3537c15d1",
+            "w": 384
+          },
+          {
+            "bytes": 16680,
+            "h": 179,
+            "path": "webp/lobed-leaves-in-gold-medallions-512.webp",
+            "sha256": "5702892d3ce61a44068817476399f66e7a708ad424c64142024c7b1ed1200350",
+            "w": 512
+          },
+          {
+            "bytes": 32206,
+            "h": 269,
+            "path": "webp/lobed-leaves-in-gold-medallions-768.webp",
+            "sha256": "db39d7025645882af3256ba456be2d194f3b32fc14e275083d71722474685c8c",
+            "w": 768
+          },
+          {
+            "bytes": 46162,
+            "h": 358,
+            "path": "webp/lobed-leaves-in-gold-medallions-1024.webp",
+            "sha256": "e17428a25f4431c46c8489f73c08d2276e3d7fa168c22b8e30b2890e77da1ec3",
+            "w": 1024
+          },
+          {
+            "bytes": 81766,
+            "h": 537,
+            "path": "webp/lobed-leaves-in-gold-medallions-1536.webp",
+            "sha256": "49dc8890e19f748098b4a72990b53775cc40bc0f269e5796e75bd5032f812d51",
+            "w": 1536
+          },
+          {
+            "bytes": 111770,
+            "h": 682,
+            "path": "webp/lobed-leaves-in-gold-medallions-1949.webp",
+            "sha256": "6c15c146bb673ce593a2d2cf641f3e7b1746efb191bdd7a75b0c49f16e9c49f5",
+            "w": 1949
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "leaf",
+        "medallion",
+        "stem"
+      ],
+      "thumbhash": "1RiCCoI85S1piYD9aOYPt4eHhYiAaCg=",
+      "title": "Lobed leaves in gold medallions, repeat tile",
+      "transparent": true,
+      "type": "border",
+      "usage_notes": [
+        "Repeat along x; the generated rotated tile gives the vertical band. The red rule is the inner edge, keep it toward the framed content.",
+        "The frame atlas mirrors corner-top-left into all four corners, so every corner carries the gray-blue leaf; corner-top-right is the red-leaf variant for hand-built frames."
+      ],
+      "width": 1949
+    },
+    "opposed-leaves-with-gray-interlace": {
+      "attribution": "Walters Art Museum W.148, fol. 31r",
+      "categories": [
+        "floral",
+        "knotwork"
+      ],
+      "colors": [
+        "gold",
+        "red",
+        "blue",
+        "gray",
+        "black"
+      ],
+      "components": {
+        "corner-top-left": {
+          "description": "Top-left corner cut from the same initial, a red three-lobed leaf in a triangular compartment of the ribbon with the red rule turning the inner angle; transparent along its outer top and left edges. Its painted field is 517 px deep against the band's 419 px, so it is for hand-built frames only.",
+          "encoding": {
+            "avif": false,
+            "avifTopBytes": 19143,
+            "webpTopBytes": 18152
+          },
+          "master": {
+            "bytes": 380692,
+            "h": 604,
+            "path": "masters/opposed-leaves-with-gray-interlace.corner-top-left.webp",
+            "sha256": "d9b4684009ddf6fa4f16b80f3ab81177cbef6c37fcb9e8065d660c3f61e92dfe",
+            "w": 604
+          },
+          "sources": {
+            "webp": [
+              {
+                "bytes": 1098,
+                "h": 64,
+                "path": "webp/opposed-leaves-with-gray-interlace.corner-top-left-64.webp",
+                "sha256": "fd831ec321927dd4fb146274309bac8cab083e5e0720c6d70a781e6fed9aad6c",
+                "w": 64
+              },
+              {
+                "bytes": 1980,
+                "h": 96,
+                "path": "webp/opposed-leaves-with-gray-interlace.corner-top-left-96.webp",
+                "sha256": "e2f1d04ebcac75d8814352508af10a926bae03d6f062b1791f0f2238b8da9bc8",
+                "w": 96
+              },
+              {
+                "bytes": 2444,
+                "h": 128,
+                "path": "webp/opposed-leaves-with-gray-interlace.corner-top-left-128.webp",
+                "sha256": "d06d9a5ca4f17d34083b688a5993af42a2c52a109f7d484fef3a75448a54462a",
+                "w": 128
+              },
+              {
+                "bytes": 4372,
+                "h": 192,
+                "path": "webp/opposed-leaves-with-gray-interlace.corner-top-left-192.webp",
+                "sha256": "41ee527d797cd2e7ad7e341224b3fbeda67ffd49c33ab8dfbfc189dc23c08339",
+                "w": 192
+              },
+              {
+                "bytes": 6218,
+                "h": 256,
+                "path": "webp/opposed-leaves-with-gray-interlace.corner-top-left-256.webp",
+                "sha256": "e4204261afbd11d2b6030e349710ab3743a630762e5c8de3d486abc2aa8248ef",
+                "w": 256
+              },
+              {
+                "bytes": 10588,
+                "h": 384,
+                "path": "webp/opposed-leaves-with-gray-interlace.corner-top-left-384.webp",
+                "sha256": "844bd9a3a51f99600ac4c57e0f28930142c0946baaf9dfdea264a39cbd47bd7a",
+                "w": 384
+              },
+              {
+                "bytes": 15834,
+                "h": 512,
+                "path": "webp/opposed-leaves-with-gray-interlace.corner-top-left-512.webp",
+                "sha256": "30c5cd09040948403f82fee7774980ee932d7fd773f5937529a6c3df7dea8058",
+                "w": 512
+              },
+              {
+                "bytes": 18152,
+                "h": 604,
+                "path": "webp/opposed-leaves-with-gray-interlace.corner-top-left-604.webp",
+                "sha256": "1f3bc06853a9b7fcc6d08dd0017d2bc554f6a5b1b9ff7b70cb3ca809b9a7c155",
+                "w": 604
+              }
+            ]
+          }
+        },
+        "corner-top-right": {
+          "description": "Top-right corner from the same initial with its red leaf arranged for the right-hand angle, same depth as corner-top-left; for hand-built frames only.",
+          "encoding": {
+            "avif": false,
+            "avifTopBytes": 20055,
+            "webpTopBytes": 20394
+          },
+          "master": {
+            "bytes": 390994,
+            "h": 604,
+            "path": "masters/opposed-leaves-with-gray-interlace.corner-top-right.webp",
+            "sha256": "13bb4b99fd047e4647396589b125f0f7834c42b7f9cb3215ed973260cc750aa9",
+            "w": 604
+          },
+          "sources": {
+            "webp": [
+              {
+                "bytes": 1472,
+                "h": 64,
+                "path": "webp/opposed-leaves-with-gray-interlace.corner-top-right-64.webp",
+                "sha256": "8e5dd2046c8bb1216125757a19d18255d5413dc5800153faafb6a078cc3f7caf",
+                "w": 64
+              },
+              {
+                "bytes": 2304,
+                "h": 96,
+                "path": "webp/opposed-leaves-with-gray-interlace.corner-top-right-96.webp",
+                "sha256": "f8bf9991f2f2521751d83f895c7234387395990bcb83b4c65807efb699083711",
+                "w": 96
+              },
+              {
+                "bytes": 3028,
+                "h": 128,
+                "path": "webp/opposed-leaves-with-gray-interlace.corner-top-right-128.webp",
+                "sha256": "2d4383f0327316b6475c301eb5ae8ab6c2ea3d3019e693b10a4c53db5648648a",
+                "w": 128
+              },
+              {
+                "bytes": 5210,
+                "h": 192,
+                "path": "webp/opposed-leaves-with-gray-interlace.corner-top-right-192.webp",
+                "sha256": "d25cfac29cdca1b049b8733fef0618a61b8b1e4255bc524438d37b0f34d93b3e",
+                "w": 192
+              },
+              {
+                "bytes": 7392,
+                "h": 256,
+                "path": "webp/opposed-leaves-with-gray-interlace.corner-top-right-256.webp",
+                "sha256": "50211569ca939f0ea52d2f897974c96dcf197cbb5aefda6c705946b6aeb2ecbc",
+                "w": 256
+              },
+              {
+                "bytes": 12290,
+                "h": 384,
+                "path": "webp/opposed-leaves-with-gray-interlace.corner-top-right-384.webp",
+                "sha256": "25fb3c643977b46b9d4d1bc55f2763aac04af6fc72eaf163600b1a3dfd920ec8",
+                "w": 384
+              },
+              {
+                "bytes": 17710,
+                "h": 512,
+                "path": "webp/opposed-leaves-with-gray-interlace.corner-top-right-512.webp",
+                "sha256": "b3bfc75cc700492c611d062c332797329bbf2982402527ca1ece73ea473fbd11",
+                "w": 512
+              },
+              {
+                "bytes": 20394,
+                "h": 604,
+                "path": "webp/opposed-leaves-with-gray-interlace.corner-top-right-604.webp",
+                "sha256": "7007e0f5f30fb57a3b1d4832295a8a13a55cc380d539aebbbd5188be62ba007a",
+                "w": 604
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "One cycle of a vertical band on burnished gold: a pale gray-mauve ribbon outlined in black loops into four heart-shaped compartments on a dark ground, the outer two holding red three-lobed leaves that point outward and the middle two blue leaves that point in toward each other; a red rule with a white line runs along the left edge. The pattern continues across the top and bottom edges and the band is fully opaque.",
+      "display_width": [
+        150,
+        600
+      ],
+      "encoding": {
+        "avif": false,
+        "avifTopBytes": 82448,
+        "webpTopBytes": 80984
+      },
+      "facing": "none",
+      "group": "31r",
+      "height": 2618,
+      "master": {
+        "bytes": 990770,
+        "h": 2046,
+        "path": "masters/opposed-leaves-with-gray-interlace.webp",
+        "sha256": "1ba1354a54ca6d9fe8ca72e34fb4c0d182a8d03ed76859b260b2a6d8a6ea900a",
+        "w": 472
+      },
+      "palette": [
+        "#473d33",
+        "#444d52",
+        "#784e3a",
+        "#7a694d",
+        "#95773c"
+      ],
+      "provenance": {
+        "date": "First half of the 14th century CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W148/data/W.148/master/W148_000065_819.tif",
+        "institution": "Walters Art Museum",
+        "method": "native-source-repeat",
+        "object_identifier": "W.148, fol. 31r",
+        "object_title": "Initial \"S\" (Sed cum iudei)",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W148/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "9290421954a6a5dd80659798644e38ee2325244670a6f58202f2fec1b001567c"
+      },
+      "quality": "The join at the ends is averaged over a two-column collar; the gold ground keeps the crackle of the leaf.",
+      "related": [
+        {
+          "asset": "walters-w148/lobed-leaves-in-gold-medallions",
+          "role": "companion"
+        }
+      ],
+      "render": {
+        "image": {},
+        "tile": {
+          "axis": "y",
+          "period": 1,
+          "rotated": {
+            "webp": [
+              {
+                "bytes": 4736,
+                "h": 64,
+                "path": "tiles/opposed-leaves-with-gray-interlace-rotated-277.webp",
+                "sha256": "7651fa31dd751f24be5b52e80d643827617322443240e90fea39e206f12d1088",
+                "w": 277
+              },
+              {
+                "bytes": 7892,
+                "h": 96,
+                "path": "tiles/opposed-leaves-with-gray-interlace-rotated-416.webp",
+                "sha256": "d77a79b293f1281ef7408e7f460a33fa5537c3f39f8038b62ddac2687c7b9a3b",
+                "w": 416
+              },
+              {
+                "bytes": 11184,
+                "h": 128,
+                "path": "tiles/opposed-leaves-with-gray-interlace-rotated-555.webp",
+                "sha256": "1f900e95678d9ad04f4f198b51ca95e17d46eac3e8bc9e04b6684a048342e318",
+                "w": 555
+              },
+              {
+                "bytes": 19244,
+                "h": 192,
+                "path": "tiles/opposed-leaves-with-gray-interlace-rotated-832.webp",
+                "sha256": "dfa66622c8c720fd99a19299efe970f8127089be6a8342d983bc65bc47cb3368",
+                "w": 832
+              },
+              {
+                "bytes": 29588,
+                "h": 256,
+                "path": "tiles/opposed-leaves-with-gray-interlace-rotated-1110.webp",
+                "sha256": "aab31090d895a75cd021d55504f863d9896b08e9d39e5ef2599989ef618f6576",
+                "w": 1110
+              },
+              {
+                "bytes": 49246,
+                "h": 384,
+                "path": "tiles/opposed-leaves-with-gray-interlace-rotated-1664.webp",
+                "sha256": "cafb5a33e210531faeacb72cfad9ebfd78cfa66894dbddab13254b346257f81f",
+                "w": 1664
+              },
+              {
+                "bytes": 70022,
+                "h": 512,
+                "path": "tiles/opposed-leaves-with-gray-interlace-rotated-2219.webp",
+                "sha256": "d682b3f27e54772fa0e930097e458576bfe4bd37892b9dcf762d90bd19fda177",
+                "w": 2219
+              },
+              {
+                "bytes": 82138,
+                "h": 604,
+                "path": "tiles/opposed-leaves-with-gray-interlace-rotated-2618.webp",
+                "sha256": "1cbc6528ebf4198a3b6a49f5818fd73b1d1590b5ea88205e8516ecda1ecd7edb",
+                "w": 2618
+              }
+            ]
+          }
+        }
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "webp": [
+          {
+            "bytes": 4704,
+            "h": 277,
+            "path": "webp/opposed-leaves-with-gray-interlace-64.webp",
+            "sha256": "fc6ad096d65ad0d5b4bc6fa521155d35100534f0914f08a5b2d9d57d11b56a45",
+            "w": 64
+          },
+          {
+            "bytes": 7846,
+            "h": 416,
+            "path": "webp/opposed-leaves-with-gray-interlace-96.webp",
+            "sha256": "89db2708bffa64b08ac2f65b08cb71e410958fda03d79a2b5c5be50617485ca2",
+            "w": 96
+          },
+          {
+            "bytes": 11026,
+            "h": 555,
+            "path": "webp/opposed-leaves-with-gray-interlace-128.webp",
+            "sha256": "4815106539aae0f26164006d82dbad772b50bdb4de5664a06e8c3a4b8514ba88",
+            "w": 128
+          },
+          {
+            "bytes": 19220,
+            "h": 832,
+            "path": "webp/opposed-leaves-with-gray-interlace-192.webp",
+            "sha256": "a64820d338745ae3fb92e5261405c9c09e8db71a61f2f6165ea5f4d4a496642d",
+            "w": 192
+          },
+          {
+            "bytes": 28850,
+            "h": 1110,
+            "path": "webp/opposed-leaves-with-gray-interlace-256.webp",
+            "sha256": "dfec694c39020fab21a811f02d21415f5bdfa40ab576f8cb40d97be1f87ad72f",
+            "w": 256
+          },
+          {
+            "bytes": 48566,
+            "h": 1664,
+            "path": "webp/opposed-leaves-with-gray-interlace-384.webp",
+            "sha256": "ccb04ec45c49f32115945e55be04bf2ce60560ea20f2e97e337c36f78b8020b8",
+            "w": 384
+          },
+          {
+            "bytes": 68896,
+            "h": 2219,
+            "path": "webp/opposed-leaves-with-gray-interlace-512.webp",
+            "sha256": "f7db8cbf76962ba716b8ecc3a450b3ccaf9c69f57c5cf89b4237fa56b5d81a61",
+            "w": 512
+          },
+          {
+            "bytes": 80984,
+            "h": 2618,
+            "path": "webp/opposed-leaves-with-gray-interlace-604.webp",
+            "sha256": "455468eeb5111b1dca1ad7c315a617401dee7a37c83e6d3a1e20c80e09b9586d",
+            "w": 604
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "leaf",
+        "ribbon",
+        "interlace"
+      ],
+      "thumbhash": "1CiCCQJK33epdvf8d595+Ac3iIiIh4g=",
+      "title": "Opposed leaves in gray interlace, repeat tile",
+      "transparent": true,
+      "type": "border",
+      "usage_notes": [
+        "Repeat along y; the generated rotated tile gives the horizontal band. The red rule is the inner edge, keep it toward the framed content.",
+        "No frame atlas: the corners are about 98 px deeper than the band inside the red rule and would protrude into the framed area, so build a frame by hand from the band and the two corner components, aligning the red rules."
+      ],
+      "width": 604
+    },
+    "three-gold-trefoils-on-serpentine-scroll": {
+      "attribution": "Walters Art Museum W.148, fol. 31r",
+      "categories": [
+        "floral",
+        "scrollwork"
+      ],
+      "colors": [
+        "gold",
+        "black",
+        "brown"
+      ],
+      "composition": "single-ornament",
+      "description": "A burnished gold band winds in a serpentine from a large spiral at the left through two smaller loops to a jagged cut end at the right, each loop holding a gold three-lobed trefoil, with a short tendril dropping from the lower curve. Thin black contours edge the gold, which keeps the crackled texture of the leaf and a faint pale paper line along some edges; the background is transparent.",
+      "display_width": [
+        250,
+        775
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 88891,
+        "webpTopBytes": 165188
+      },
+      "facing": "none",
+      "group": "31r",
+      "height": 501,
+      "master": {
+        "bytes": 714712,
+        "h": 501,
+        "path": "masters/three-gold-trefoils-on-serpentine-scroll.webp",
+        "sha256": "3690ddaa17311626c5e969fa50768db2a8ddca881e831fbc9af7833638982eb5",
+        "w": 1549
+      },
+      "palette": [
+        "#4b3b22",
+        "#644d25",
+        "#755b2b",
+        "#896829",
+        "#a48642"
+      ],
+      "provenance": {
+        "date": "First half of the 14th century CE",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/W148/data/W.148/master/W148_000065_819.tif",
+        "institution": "Walters Art Museum",
+        "method": "native-source-extraction",
+        "object_identifier": "W.148, fol. 31r",
+        "object_title": "Initial \"S\" (Sed cum iudei)",
+        "record_url": "https://thedigitalwalters.org/Data/WaltersManuscripts/html/W148/description.html",
+        "rights_url": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html",
+        "source_sha256": "9290421954a6a5dd80659798644e38ee2325244670a6f58202f2fec1b001567c"
+      },
+      "quality": "Right end cut at the junction with the letter; a faint pale paper contour follows parts of the gold edge.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1613,
+            "h": 21,
+            "path": "avif/three-gold-trefoils-on-serpentine-scroll-64.avif",
+            "sha256": "f514a51e20af5951e9a168a10761752a5d0a7e107d6e6f017daea5a2452c64db",
+            "w": 64
+          },
+          {
+            "bytes": 2420,
+            "h": 31,
+            "path": "avif/three-gold-trefoils-on-serpentine-scroll-96.avif",
+            "sha256": "5bf636f537ad4a1b8a4cf1eb67359ae1253d3d7760b8612744985d7caa31601e",
+            "w": 96
+          },
+          {
+            "bytes": 3360,
+            "h": 41,
+            "path": "avif/three-gold-trefoils-on-serpentine-scroll-128.avif",
+            "sha256": "a12ba26121a144b24ce0e19818de930254a111f2536c59c0ae9507e4df8e414a",
+            "w": 128
+          },
+          {
+            "bytes": 4970,
+            "h": 62,
+            "path": "avif/three-gold-trefoils-on-serpentine-scroll-192.avif",
+            "sha256": "5f43f00e704edf7bfced3cfe90388660c7c81a2640ffc264e0eb98b697cffc4e",
+            "w": 192
+          },
+          {
+            "bytes": 6573,
+            "h": 83,
+            "path": "avif/three-gold-trefoils-on-serpentine-scroll-256.avif",
+            "sha256": "ad98081f433ca8b3f0588a42084e4a2d136d7c836c2425e0e890d492d3068a9d",
+            "w": 256
+          },
+          {
+            "bytes": 12752,
+            "h": 124,
+            "path": "avif/three-gold-trefoils-on-serpentine-scroll-384.avif",
+            "sha256": "9b97bd57725350aeab9ac6f4e0747db893fe4bc35dfd5ab242870b8716b57308",
+            "w": 384
+          },
+          {
+            "bytes": 18057,
+            "h": 166,
+            "path": "avif/three-gold-trefoils-on-serpentine-scroll-512.avif",
+            "sha256": "9b201e2d98223355732bc01682aadd3b54341e930257fadd58a257a0b2964532",
+            "w": 512
+          },
+          {
+            "bytes": 32198,
+            "h": 248,
+            "path": "avif/three-gold-trefoils-on-serpentine-scroll-768.avif",
+            "sha256": "4088fbdb27cdc15614b2772f6be23a30722b49852160cc33864dcd88f7a9590f",
+            "w": 768
+          },
+          {
+            "bytes": 49214,
+            "h": 331,
+            "path": "avif/three-gold-trefoils-on-serpentine-scroll-1024.avif",
+            "sha256": "56fb06a8f8453668ab18b198ea195b3569012c7bb51408f42f559e9f7b0a280e",
+            "w": 1024
+          },
+          {
+            "bytes": 88142,
+            "h": 497,
+            "path": "avif/three-gold-trefoils-on-serpentine-scroll-1536.avif",
+            "sha256": "a3f806813db2e4a25d1583e970717b583f77c2529bb8b1df1ed51a2c4a45b840",
+            "w": 1536
+          },
+          {
+            "bytes": 88891,
+            "h": 501,
+            "path": "avif/three-gold-trefoils-on-serpentine-scroll-1549.avif",
+            "sha256": "71432eebecc78e0965bfbc5dabee675fbd03f57ae10f06bd87694e2ee1c76edb",
+            "w": 1549
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1806,
+            "h": 21,
+            "path": "webp/three-gold-trefoils-on-serpentine-scroll-64.webp",
+            "sha256": "d3820db3c6ab37cab5ea9102ad2bb802b285fd4664f39165e402efa1eefc770a",
+            "w": 64
+          },
+          {
+            "bytes": 3208,
+            "h": 31,
+            "path": "webp/three-gold-trefoils-on-serpentine-scroll-96.webp",
+            "sha256": "2e3e8e99d29cd4fbc93d06588a8e954e03943a59f1be921b4c599f54f061bc50",
+            "w": 96
+          },
+          {
+            "bytes": 4680,
+            "h": 41,
+            "path": "webp/three-gold-trefoils-on-serpentine-scroll-128.webp",
+            "sha256": "a898692329ae8be5f9024feecf13158828d896616395d837f67680d750acce05",
+            "w": 128
+          },
+          {
+            "bytes": 8414,
+            "h": 62,
+            "path": "webp/three-gold-trefoils-on-serpentine-scroll-192.webp",
+            "sha256": "e3015c11998355fbb020b8c07c71fbf1e8db317853b96ad59ea3a7b2fa0b1d7c",
+            "w": 192
+          },
+          {
+            "bytes": 12590,
+            "h": 83,
+            "path": "webp/three-gold-trefoils-on-serpentine-scroll-256.webp",
+            "sha256": "9335e02de0ba4375df5455d204f0ab8b79e4db90bb6c43950e50f7cda8b300ad",
+            "w": 256
+          },
+          {
+            "bytes": 23284,
+            "h": 124,
+            "path": "webp/three-gold-trefoils-on-serpentine-scroll-384.webp",
+            "sha256": "5663c2ed97b42962bbad38dc25be51a75d002e1ceff4416e0dd84554b84c450d",
+            "w": 384
+          },
+          {
+            "bytes": 34408,
+            "h": 166,
+            "path": "webp/three-gold-trefoils-on-serpentine-scroll-512.webp",
+            "sha256": "b42c7232f31f20c20ac70ba77e834075bc55b8f021f6e8a661967beb70008201",
+            "w": 512
+          },
+          {
+            "bytes": 61490,
+            "h": 248,
+            "path": "webp/three-gold-trefoils-on-serpentine-scroll-768.webp",
+            "sha256": "3fa9839d69a3b5472c0187e9e920815a1a477b4aebe19a5e1cdd6068c833f717",
+            "w": 768
+          },
+          {
+            "bytes": 96522,
+            "h": 331,
+            "path": "webp/three-gold-trefoils-on-serpentine-scroll-1024.webp",
+            "sha256": "81b668ca8a3227e02ab0e6515ccb6a4caa3e880027d103fb3b603f2c8c6a446b",
+            "w": 1024
+          },
+          {
+            "bytes": 180580,
+            "h": 497,
+            "path": "webp/three-gold-trefoils-on-serpentine-scroll-1536.webp",
+            "sha256": "d87e88e4afd3cfd3f16aaab4dac1afa87f753cead9fadfa1c173711cc6d63855",
+            "w": 1536
+          },
+          {
+            "bytes": 165188,
+            "h": 501,
+            "path": "webp/three-gold-trefoils-on-serpentine-scroll-1549.webp",
+            "sha256": "095b21592284cda20e70f9908fb5a055ba27b771bcd29a57b7fea25b7eed2174",
+            "w": 1549
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "scroll",
+        "trefoil",
+        "flower",
+        "flourish"
+      ],
+      "thumbhash": "USmCAoAmkFeGZ8eAlwhnmXh4i5dwiHg=",
+      "title": "Gold scroll with three trefoils",
+      "transparent": true,
+      "type": "ornament",
+      "usage_notes": [
+        "The right end is cut where the scroll met the stroke of the letter S; use it as the trailing end of a flourish or tuck it under another element."
+      ],
+      "width": 1549
+    }
+  },
+  "attribution": "Walters Art Museum W.148",
+  "builtAt": "2026-10-30T13:02:32.165Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-walters-w148@1.0.0/",
+  "contentHash": "sha256:19e0f08e50bc8295de2ecf63120adaeaf384e8bff3cad99ebd00575ceee2661d",
+  "inputsHash": "sha256:f0f7c253e0740c28d8d0e3ad6ea55bb9b7a45a5ca9def1c9cc0e14074cc8e739",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from Digital Walters manuscript images (CC0); see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-walters-w148-masters",
+  "package": "@ranx729/ducktape-assets-walters-w148",
+  "period": "first half of the 14th century",
+  "region": "Italy",
+  "schema": 1,
+  "set": "walters-w148",
+  "style": "Gothic illumination",
+  "summary": "Two initials with their leaf medallions, interlace, trefoils and brown quadrupeds, from Walters Ms. W.148, a homilary of the first half of the 14th century, grouped by folio.",
+  "title": "Walters W.148, Homilary initials",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

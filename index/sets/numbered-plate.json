@@ -1,0 +1,4875 @@
+{
+  "assets": {
+    "plate-02-stepped-ribbon": {
+      "categories": [
+        "geometric",
+        "ribbons"
+      ],
+      "colors": [
+        "gold",
+        "green",
+        "red",
+        "white"
+      ],
+      "components": {
+        "corner": {
+          "description": "Top-left mitred corner of the same thickness, the stepped ribbon turning the angle around a small square boss with the dot triplets.",
+          "encoding": {
+            "avif": false,
+            "avifTopBytes": 1142,
+            "webpTopBytes": 1218
+          },
+          "master": {
+            "bytes": 4552,
+            "h": 52,
+            "path": "masters/plate-02-stepped-ribbon.corner.webp",
+            "sha256": "6afb90bc0f109fc7e12799aba839a32097350bbe6e744a2d1c894748a53d7ab0",
+            "w": 52
+          },
+          "sources": {
+            "webp": [
+              {
+                "bytes": 1218,
+                "h": 52,
+                "path": "webp/plate-02-stepped-ribbon.corner-52.webp",
+                "sha256": "8be85b8a6ae6b7fe6a045b164def4cf6dc0f2d4c482fd36bd6516ab25fe3cc4f",
+                "w": 52
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "One repeat of a vertical border strip, taller than wide. A gold and green stepped ribbon with white edges winds in right angles around dark teal stepped blocks, with triplets of white dots on small dark red patches at the turns, on an opaque ground with a narrow orange-red rule along the right edge. Nothing is transparent.",
+      "display_width": [
+        40,
+        52
+      ],
+      "encoding": {
+        "avif": false,
+        "avifTopBytes": 1276,
+        "webpTopBytes": 1472
+      },
+      "facing": "none",
+      "group": null,
+      "height": 72,
+      "master": {
+        "bytes": 6154,
+        "h": 72,
+        "path": "masters/plate-02-stepped-ribbon.webp",
+        "sha256": "eee0f835682ebbf9ee06e2816e3c4589b4f54a92184bff8d61112583b75dcc8c",
+        "w": 52
+      },
+      "palette": [
+        "#232b28",
+        "#72452d",
+        "#998649",
+        "#b4a78b",
+        "#f8f0e0"
+      ],
+      "provenance": null,
+      "quality": "Low-resolution master (52 px wide); its first and last pixel rows are identical, so a stacked run doubles one row at each join.",
+      "render": {
+        "frame": {
+          "atlas": {
+            "webp": [
+              {
+                "bytes": 2298,
+                "h": 64,
+                "path": "frames/plate-02-stepped-ribbon-atlas-64.webp",
+                "sha256": "440c5c0e5931f73468c778b2f6d28a151d582f75ab7aa249c9b64e648a988ac8",
+                "w": 64
+              },
+              {
+                "bytes": 3928,
+                "h": 96,
+                "path": "frames/plate-02-stepped-ribbon-atlas-96.webp",
+                "sha256": "36df8a88fb8baa7dcb34f8933e95f521428610e234bbc2d49dc6d040d913e9b2",
+                "w": 96
+              },
+              {
+                "bytes": 5654,
+                "h": 128,
+                "path": "frames/plate-02-stepped-ribbon-atlas-128.webp",
+                "sha256": "9e8df26b68a38be6da7bc17a722529aefcb897044b9bf5c7cab9f935fe02c283",
+                "w": 128
+              },
+              {
+                "bytes": 9044,
+                "h": 176,
+                "path": "frames/plate-02-stepped-ribbon-atlas-176.webp",
+                "sha256": "34b2a0af6c79496559789a9489d93bf5f27c5ce3f2dfc1d38b96a16166267945",
+                "w": 176
+              }
+            ]
+          },
+          "corner": "corner",
+          "slice": 29.55
+        },
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "webp": [
+          {
+            "bytes": 1472,
+            "h": 72,
+            "path": "webp/plate-02-stepped-ribbon-52.webp",
+            "sha256": "5f2433db67793f1a4b7318bb83a7498b6c9cfcf2a250afef0221c8f614afa340",
+            "w": 52
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "ribbon",
+        "meander",
+        "dot"
+      ],
+      "thumbhash": "GykGHQasfleXBZU3qEhVSfVZcZ+I",
+      "title": "Stepped ribbon meander",
+      "transparent": false,
+      "type": "border",
+      "usage_notes": [
+        "The repeat is barely longer than it is thick, so it is not declared as a tile; repeat it along its height with background-repeat.",
+        "The frame atlas composes it with the corner component for border-image use."
+      ],
+      "width": 52
+    },
+    "plate-03-spiral-bands": {
+      "categories": [
+        "ribbons",
+        "scrollwork"
+      ],
+      "colors": [
+        "blue",
+        "green",
+        "gold",
+        "red",
+        "white"
+      ],
+      "components": {
+        "corner": {
+          "description": "Top-left mitred corner of the same thickness, the striped rod turning the angle at a right angle with gold scrolls outside it; the green ribbon does not continue into the corner.",
+          "encoding": {
+            "avif": false,
+            "avifTopBytes": 1421,
+            "webpTopBytes": 1556
+          },
+          "master": {
+            "bytes": 5282,
+            "h": 52,
+            "path": "masters/plate-03-spiral-bands.corner.webp",
+            "sha256": "35a08296c17feddaae5956335e29c8572a502e736f34a28a6a5c2b4c808814a9",
+            "w": 52
+          },
+          "sources": {
+            "webp": [
+              {
+                "bytes": 1556,
+                "h": 52,
+                "path": "webp/plate-03-spiral-bands.corner-52.webp",
+                "sha256": "0eff0d8db6a2163618cbd9fa0da49ba882f833ae7abd89455a7d17dfcb8c615e",
+                "w": 52
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "One repeat of a vertical border strip, about twice as tall as wide. A blue rod with white stripes runs down the centre and a green ribbon edged in gold spirals around it, with small gold C-scrolls filling the sides, on an opaque dark maroon ground with a narrow orange-red rule along the left edge. Nothing is transparent.",
+      "display_width": [
+        40,
+        52
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 2000,
+        "webpTopBytes": 2446
+      },
+      "facing": "none",
+      "group": null,
+      "height": 98,
+      "master": {
+        "bytes": 9640,
+        "h": 98,
+        "path": "masters/plate-03-spiral-bands.webp",
+        "sha256": "7a08d529ee8099a86650e988e8bd2b24e42db4a6fdea2078d8888c6b33b557c3",
+        "w": 52
+      },
+      "palette": [
+        "#45363a",
+        "#823922",
+        "#8f7e50",
+        "#a99887",
+        "#e5ccbb"
+      ],
+      "provenance": null,
+      "quality": "Low-resolution master (52 px wide); its first and last pixel rows are identical, so a stacked run doubles one row at each join.",
+      "render": {
+        "frame": {
+          "atlas": {
+            "avif": [
+              {
+                "bytes": 2583,
+                "h": 64,
+                "path": "frames/plate-03-spiral-bands-atlas-64.avif",
+                "sha256": "9cbd24d3f77f89c8d0e196abdde74a3dd7804f7e992dc3cf0eb076f587cd6a63",
+                "w": 64
+              },
+              {
+                "bytes": 3484,
+                "h": 96,
+                "path": "frames/plate-03-spiral-bands-atlas-96.avif",
+                "sha256": "8a6fa0d12ac0631977301350b98fb325419d2f4c6f76d560520083e0235ba065",
+                "w": 96
+              },
+              {
+                "bytes": 5213,
+                "h": 128,
+                "path": "frames/plate-03-spiral-bands-atlas-128.avif",
+                "sha256": "a0fae170641d9ba077162b6c5357cc5172c9b86e212fbc9d30e1f3b0ba2e4a2b",
+                "w": 128
+              },
+              {
+                "bytes": 9120,
+                "h": 192,
+                "path": "frames/plate-03-spiral-bands-atlas-192.avif",
+                "sha256": "ad5d6e96dd1e8b168036c3dfab4c19c9778a205496992bdb786b3748c171b3a6",
+                "w": 192
+              },
+              {
+                "bytes": 10532,
+                "h": 202,
+                "path": "frames/plate-03-spiral-bands-atlas-202.avif",
+                "sha256": "2108433d40c8dae5a01eb90e5c1c3208cb5302fbc29daba73454a64cb4d0ae6b",
+                "w": 202
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 2364,
+                "h": 64,
+                "path": "frames/plate-03-spiral-bands-atlas-64.webp",
+                "sha256": "d16bd409f20534f795ac2f9fa72a69bc8752d552e4ffbcb425843fb986bc0bf1",
+                "w": 64
+              },
+              {
+                "bytes": 4348,
+                "h": 96,
+                "path": "frames/plate-03-spiral-bands-atlas-96.webp",
+                "sha256": "7e30185c8ba15e3522b858d73e91af2c45fee6cef09b9df50723f4e7a04d18c9",
+                "w": 96
+              },
+              {
+                "bytes": 6978,
+                "h": 128,
+                "path": "frames/plate-03-spiral-bands-atlas-128.webp",
+                "sha256": "3a43342290d13c5056b8214cac09ade244c335288f5d5f7e268dd5a7009efe4b",
+                "w": 128
+              },
+              {
+                "bytes": 13072,
+                "h": 192,
+                "path": "frames/plate-03-spiral-bands-atlas-192.webp",
+                "sha256": "2ca0d9e4de4ea8bba6f5362a776563993fc4bde716ed3b6b9b1e2db5a582277e",
+                "w": 192
+              },
+              {
+                "bytes": 14290,
+                "h": 202,
+                "path": "frames/plate-03-spiral-bands-atlas-202.webp",
+                "sha256": "404f83b55db467e69e55bb880f1d3822da6993c39095196c65c2d718e5786c3e",
+                "w": 202
+              }
+            ]
+          },
+          "corner": "corner",
+          "slice": 25.74
+        },
+        "image": {},
+        "tile": {
+          "axis": "y",
+          "period": 1,
+          "rotated": {
+            "avif": [
+              {
+                "bytes": 2019,
+                "h": 52,
+                "path": "tiles/plate-03-spiral-bands-rotated-98.avif",
+                "sha256": "1d0117a0026dfc58e58f2f1b810f08e488cd1069ef815a385132c38cb9de6687",
+                "w": 98
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 2456,
+                "h": 52,
+                "path": "tiles/plate-03-spiral-bands-rotated-98.webp",
+                "sha256": "8416b30a2436ce498cc847eeef06ed4cc49e9900d9ed6790b2afd436d1e9c8ab",
+                "w": 98
+              }
+            ]
+          }
+        }
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2000,
+            "h": 98,
+            "path": "avif/plate-03-spiral-bands-52.avif",
+            "sha256": "835dbb3b934ec15d94ed36a208a86c3a6a377e10dd6b632f02b3881ac308cf10",
+            "w": 52
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2446,
+            "h": 98,
+            "path": "webp/plate-03-spiral-bands-52.webp",
+            "sha256": "a5c04f76d096ccb55bfc2f672852daa7d6200e1845c5172f6097159d24c2be9a",
+            "w": 52
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "ribbon",
+        "rod",
+        "spiral",
+        "scroll"
+      ],
+      "thumbhash": "GzkGJAoGWpdXiYZ3mIf6ibl/eQ==",
+      "title": "Green ribbon spiralling a striped rod",
+      "transparent": false,
+      "type": "border",
+      "usage_notes": [
+        "Repeats along its height; the build's rotated ladder gives the horizontal use.",
+        "The frame atlas composes it with the corner component for border-image use."
+      ],
+      "width": 52
+    },
+    "plate-04-hearts-on-ribbon": {
+      "categories": [
+        "ribbons",
+        "geometric"
+      ],
+      "colors": [
+        "red",
+        "gold",
+        "green",
+        "white"
+      ],
+      "components": {
+        "corner": {
+          "description": "Top-left mitred corner of the same thickness, one heart set diagonally into the angle over the green zigzag.",
+          "encoding": {
+            "avif": false,
+            "avifTopBytes": 1080,
+            "webpTopBytes": 1110
+          },
+          "master": {
+            "bytes": 4830,
+            "h": 52,
+            "path": "masters/plate-04-hearts-on-ribbon.corner.webp",
+            "sha256": "4ea3f7f5ede1779c3935a4dcc6a299ae3f10f0987235347e3d951a0719bf66f3",
+            "w": 52
+          },
+          "sources": {
+            "webp": [
+              {
+                "bytes": 1110,
+                "h": 52,
+                "path": "webp/plate-04-hearts-on-ribbon.corner-52.webp",
+                "sha256": "01245e82f380e2de6bcd268ca6fcdcf178f3cf8b0adbdf8bd94a7f2fb91397bd",
+                "w": 52
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "One repeat of a border strip, wider than tall. A gold ribbon waves along the strip carrying two hearts outlined in white and gold, one upright and one inverted, over a dark green zigzag, on an opaque dark maroon ground with a narrow orange-red rule along the top and bottom edges. Nothing is transparent.",
+      "display_width": [
+        50,
+        67
+      ],
+      "encoding": {
+        "avif": false,
+        "avifTopBytes": 1365,
+        "webpTopBytes": 1536
+      },
+      "facing": "none",
+      "group": null,
+      "height": 52,
+      "master": {
+        "bytes": 6582,
+        "h": 52,
+        "path": "masters/plate-04-hearts-on-ribbon.webp",
+        "sha256": "d3223ebbc354db49c80653e36efe5d9203990dcab7a4826cdc3e4a3819f81086",
+        "w": 67
+      },
+      "palette": [
+        "#541313",
+        "#683422",
+        "#936950",
+        "#d39b64",
+        "#ecd3c3"
+      ],
+      "provenance": null,
+      "quality": "Low-resolution master (67 px wide); its first and last pixel columns are identical, so a tiled run doubles one column at each join.",
+      "render": {
+        "frame": {
+          "atlas": {
+            "webp": [
+              {
+                "bytes": 2016,
+                "h": 64,
+                "path": "frames/plate-04-hearts-on-ribbon-atlas-64.webp",
+                "sha256": "46ca70178fb8082c82bdee0b948df6856350578d9c0adeeb6fd28f17794dec41",
+                "w": 64
+              },
+              {
+                "bytes": 3390,
+                "h": 96,
+                "path": "frames/plate-04-hearts-on-ribbon-atlas-96.webp",
+                "sha256": "9f5626753da3ee904f826a89fd6addc723643943f2b479c09a22a751b413c6c7",
+                "w": 96
+              },
+              {
+                "bytes": 5264,
+                "h": 128,
+                "path": "frames/plate-04-hearts-on-ribbon-atlas-128.webp",
+                "sha256": "40c23a3fd69943ab76b453cd507e0e7d0b7ba32a6787aa28d60e458128e9d61c",
+                "w": 128
+              },
+              {
+                "bytes": 8660,
+                "h": 171,
+                "path": "frames/plate-04-hearts-on-ribbon-atlas-171.webp",
+                "sha256": "c3b899d97f42c783cb8af78ada432f54791d51d3a81c9d8accf23bc6cbe911f9",
+                "w": 171
+              }
+            ]
+          },
+          "corner": "corner",
+          "slice": 30.41
+        },
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "webp": [
+          {
+            "bytes": 1340,
+            "h": 50,
+            "path": "webp/plate-04-hearts-on-ribbon-64.webp",
+            "sha256": "1e932262a521fdab3db252fed7f934bca7faa50ed732d664fd14f598c2d77efa",
+            "w": 64
+          },
+          {
+            "bytes": 1536,
+            "h": 52,
+            "path": "webp/plate-04-hearts-on-ribbon-67.webp",
+            "sha256": "a1128e65b9a01dd829b5d1eddd7eecf6a164d768e12b74e76454d0ba3dd9b917",
+            "w": 67
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "heart",
+        "ribbon",
+        "zigzag"
+      ],
+      "thumbhash": "EmkGDYbKVorHZWZQmdqTet3Nj7j5",
+      "title": "Hearts on a gold ribbon wave",
+      "transparent": false,
+      "type": "border",
+      "usage_notes": [
+        "The repeat is barely longer than it is thick, so it is not declared as a tile; repeat it along its width with background-repeat.",
+        "The frame atlas composes it with the corner component for border-image use."
+      ],
+      "width": 67
+    },
+    "plate-05-blue-curls": {
+      "categories": [
+        "scrollwork"
+      ],
+      "colors": [
+        "blue",
+        "red",
+        "white",
+        "green"
+      ],
+      "components": {
+        "corner": {
+          "description": "Top-left mitred corner of the same thickness, blue curls and three dots arranged around the angle.",
+          "encoding": {
+            "avif": false,
+            "avifTopBytes": 1156,
+            "webpTopBytes": 1090
+          },
+          "master": {
+            "bytes": 5082,
+            "h": 52,
+            "path": "masters/plate-05-blue-curls.corner.webp",
+            "sha256": "a85ceec19b32192808fffe4b0e529d591098a5b9b07a95bde96806009004adeb",
+            "w": 52
+          },
+          "sources": {
+            "webp": [
+              {
+                "bytes": 1090,
+                "h": 52,
+                "path": "webp/plate-05-blue-curls.corner-52.webp",
+                "sha256": "0ab4ec1815cab97dbacb4291a4da7b7fa7145ce72b0d99607de5390cb634f3af",
+                "w": 52
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "One repeat of a border strip, wider than tall. Blue C-scrolls with white highlights swing along the strip, a wide swag on the left holding a small olive leaf, with white-centred blue dots set between and above the curls, on an opaque dark maroon ground with a narrow orange-red rule along the top edge. Nothing is transparent.",
+      "display_width": [
+        60,
+        90
+      ],
+      "encoding": {
+        "avif": false,
+        "avifTopBytes": 1757,
+        "webpTopBytes": 1938
+      },
+      "facing": "none",
+      "group": null,
+      "height": 52,
+      "master": {
+        "bytes": 8892,
+        "h": 52,
+        "path": "masters/plate-05-blue-curls.webp",
+        "sha256": "2173019f56ba62625524219136b8e92b2a7d90e0b885b31549cf02a9f63bb70e",
+        "w": 90
+      },
+      "palette": [
+        "#48131c",
+        "#674446",
+        "#41557c",
+        "#5e6686",
+        "#cdd8e2"
+      ],
+      "provenance": null,
+      "quality": "Low-resolution master (90 px wide); its first and last pixel columns are identical, so a tiled run doubles one column at each join.",
+      "render": {
+        "frame": {
+          "atlas": {
+            "webp": [
+              {
+                "bytes": 2010,
+                "h": 64,
+                "path": "frames/plate-05-blue-curls-atlas-64.webp",
+                "sha256": "9e2159f272350d33c045983916afa29010fed02030987aef0ca9b35ab5ac680b",
+                "w": 64
+              },
+              {
+                "bytes": 3316,
+                "h": 96,
+                "path": "frames/plate-05-blue-curls-atlas-96.webp",
+                "sha256": "f1e3366d79952bababb2ded25431ef1f8ddd5181d5cca74f08993434a43536a2",
+                "w": 96
+              },
+              {
+                "bytes": 5360,
+                "h": 128,
+                "path": "frames/plate-05-blue-curls-atlas-128.webp",
+                "sha256": "77e16824cb93b3193058d0ea380f964a504a4a17af7f8ae5601fe7130c77da14",
+                "w": 128
+              },
+              {
+                "bytes": 10244,
+                "h": 192,
+                "path": "frames/plate-05-blue-curls-atlas-192.webp",
+                "sha256": "0a1058a67db781f448a9e66f5007382d89f7876896811b4d4a4d9f1d568d4024",
+                "w": 192
+              },
+              {
+                "bytes": 10444,
+                "h": 194,
+                "path": "frames/plate-05-blue-curls-atlas-194.webp",
+                "sha256": "0c6ad6bd2c565db88e954a965a453d9027f93e850257794d289e828c78ca5dfd",
+                "w": 194
+              }
+            ]
+          },
+          "corner": "corner",
+          "slice": 26.8
+        },
+        "image": {},
+        "tile": {
+          "axis": "x",
+          "period": 1,
+          "rotated": {
+            "webp": [
+              {
+                "bytes": 1086,
+                "h": 64,
+                "path": "tiles/plate-05-blue-curls-rotated-37.webp",
+                "sha256": "8a7016d6e2c9a29096130c0cc3b126bf8c00060a7f607d862153a3904e30b84d",
+                "w": 37
+              },
+              {
+                "bytes": 1992,
+                "h": 90,
+                "path": "tiles/plate-05-blue-curls-rotated-52.webp",
+                "sha256": "7b93e3ec27e9b83fba9ff591ab26bfc2e10dc92b6fceecd188d859854a81744c",
+                "w": 52
+              }
+            ]
+          }
+        }
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "webp": [
+          {
+            "bytes": 1130,
+            "h": 37,
+            "path": "webp/plate-05-blue-curls-64.webp",
+            "sha256": "11c9253bc672c2711931b58998b5346a8e5ef52fed572d7f2de45ebaeef98aef",
+            "w": 64
+          },
+          {
+            "bytes": 1938,
+            "h": 52,
+            "path": "webp/plate-05-blue-curls-90.webp",
+            "sha256": "8af36506ba6ac26c0c056d6132dd5412873bd2aa1efe5fe050bd676208efd1e8",
+            "w": 90
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "scroll",
+        "dot",
+        "leaf"
+      ],
+      "thumbhash": "EjgGJIh7NkyOd2lweGqHi2+4+Q==",
+      "title": "Blue scrolls and dots on dark red",
+      "transparent": false,
+      "type": "border",
+      "usage_notes": [
+        "Repeats along its width; the build's rotated ladder gives the vertical use.",
+        "The frame atlas composes it with the corner component for border-image use."
+      ],
+      "width": 90
+    },
+    "plate-06-paired-red-scrolls": {
+      "categories": [
+        "scrollwork"
+      ],
+      "colors": [
+        "red",
+        "green",
+        "white"
+      ],
+      "components": {
+        "corner": {
+          "description": "Top-left mitred corner of the same thickness, a quarter cartouche of red scrolls with olive discs at its outer corners.",
+          "encoding": {
+            "avif": false,
+            "avifTopBytes": 1146,
+            "webpTopBytes": 1202
+          },
+          "master": {
+            "bytes": 5012,
+            "h": 50,
+            "path": "masters/plate-06-paired-red-scrolls.corner.webp",
+            "sha256": "99df76d70fd5e89b6a7df53d6c61f4a347744f0b8711d0962415554efb3f252a",
+            "w": 50
+          },
+          "sources": {
+            "webp": [
+              {
+                "bytes": 1202,
+                "h": 50,
+                "path": "webp/plate-06-paired-red-scrolls.corner-50.webp",
+                "sha256": "b27292f62c2e243256e6ed58cd38492633b8e6588040f05e38002a90dc8ee618",
+                "w": 50
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "One repeat of a long border strip, about three and a half times wider than tall. Two pointed-oval cartouches outlined in bright red are filled with symmetrical red C-scrolls and spirals around dark olive quatrefoils; a small white-ringed boss sits between them, with olive scroll tufts above and below it and olive discs in the four corners, on an opaque dark maroon ground. Nothing is transparent.",
+      "display_width": [
+        120,
+        173
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 2729,
+        "webpTopBytes": 3570
+      },
+      "facing": "none",
+      "group": null,
+      "height": 50,
+      "master": {
+        "bytes": 16636,
+        "h": 50,
+        "path": "masters/plate-06-paired-red-scrolls.webp",
+        "sha256": "7dc346ee5f9772eb71760da9ebaf56a97e42483962d2369915e74297491e197b",
+        "w": 173
+      },
+      "palette": [
+        "#521c15",
+        "#922419",
+        "#ab3926",
+        "#6b0e0c",
+        "#741e15"
+      ],
+      "provenance": null,
+      "quality": "Low-resolution master (173 px wide); its first and last pixel columns are identical, so a tiled run doubles one column at each join.",
+      "render": {
+        "frame": {
+          "atlas": {
+            "avif": [
+              {
+                "bytes": 1509,
+                "h": 64,
+                "path": "frames/plate-06-paired-red-scrolls-atlas-64.avif",
+                "sha256": "707010101c51112f2444a692b0a3e52686c4ce095799939df79950cf8eba345c",
+                "w": 64
+              },
+              {
+                "bytes": 2992,
+                "h": 96,
+                "path": "frames/plate-06-paired-red-scrolls-atlas-96.avif",
+                "sha256": "21dd0379f5f22ca4164dd11671062b271b0a957545b0d7668b5310720cc1c5e4",
+                "w": 96
+              },
+              {
+                "bytes": 3899,
+                "h": 128,
+                "path": "frames/plate-06-paired-red-scrolls-atlas-128.avif",
+                "sha256": "1fd595e6a3cab9d2fc186bf0cca57015eb8fe5f7ae1753250f689ee337151ecb",
+                "w": 128
+              },
+              {
+                "bytes": 7214,
+                "h": 192,
+                "path": "frames/plate-06-paired-red-scrolls-atlas-192.avif",
+                "sha256": "d508fd29509fe179c31107c39d3050b2dac891b6117c3847d8386c7e041680f0",
+                "w": 192
+              },
+              {
+                "bytes": 10241,
+                "h": 256,
+                "path": "frames/plate-06-paired-red-scrolls-atlas-256.avif",
+                "sha256": "cab1750cec63a50562e6d610d14e7832271b4dfc3a8f6e11bdfe242a5c56d04d",
+                "w": 256
+              },
+              {
+                "bytes": 12496,
+                "h": 273,
+                "path": "frames/plate-06-paired-red-scrolls-atlas-273.avif",
+                "sha256": "77ff677cf39f23572c41dfc1106e7eebd0960bf51bf4cecf5b57e6de27048507",
+                "w": 273
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 1498,
+                "h": 64,
+                "path": "frames/plate-06-paired-red-scrolls-atlas-64.webp",
+                "sha256": "714aaecc01100f0377df0d6541cf877508e529b49a4dca14f69cfc461f44165c",
+                "w": 64
+              },
+              {
+                "bytes": 3018,
+                "h": 96,
+                "path": "frames/plate-06-paired-red-scrolls-atlas-96.webp",
+                "sha256": "660d52df9f92a3ba2f55f0253e618d7808b3b7227a63a956d17755f39ebd7df5",
+                "w": 96
+              },
+              {
+                "bytes": 4818,
+                "h": 128,
+                "path": "frames/plate-06-paired-red-scrolls-atlas-128.webp",
+                "sha256": "798870a7b1596793840a13771797fdf02b64e2f7a0f9c7ea923030022e661df3",
+                "w": 128
+              },
+              {
+                "bytes": 9180,
+                "h": 192,
+                "path": "frames/plate-06-paired-red-scrolls-atlas-192.webp",
+                "sha256": "4562e80c608b63bb0ff3bf5e8c58490dcd55e84ce69e015c28047dc1c0f20ef9",
+                "w": 192
+              },
+              {
+                "bytes": 14954,
+                "h": 256,
+                "path": "frames/plate-06-paired-red-scrolls-atlas-256.webp",
+                "sha256": "ec993eabfa7fb06229b3fc3d1693ba8164227ccac510786b22b6a1175df0ffe1",
+                "w": 256
+              },
+              {
+                "bytes": 16218,
+                "h": 273,
+                "path": "frames/plate-06-paired-red-scrolls-atlas-273.webp",
+                "sha256": "67ebf00e8ef33a2bb973c84909a3ac02893c2f9a1e5e71d9d538508ee2fc127c",
+                "w": 273
+              }
+            ]
+          },
+          "corner": "corner",
+          "slice": 18.32
+        },
+        "image": {},
+        "tile": {
+          "axis": "x",
+          "period": 1,
+          "rotated": {
+            "avif": [
+              {
+                "bytes": 994,
+                "h": 64,
+                "path": "tiles/plate-06-paired-red-scrolls-rotated-18.avif",
+                "sha256": "1aa222188e228b322a60c49851b42f79355ec76d68137a2952f21afac67decff",
+                "w": 18
+              },
+              {
+                "bytes": 1526,
+                "h": 96,
+                "path": "tiles/plate-06-paired-red-scrolls-rotated-28.avif",
+                "sha256": "e308cfe82dc3fd30d981e94347d8edb8ac7c1edc4f810b20e558a50c93f11c95",
+                "w": 28
+              },
+              {
+                "bytes": 1942,
+                "h": 128,
+                "path": "tiles/plate-06-paired-red-scrolls-rotated-37.avif",
+                "sha256": "6ee743382c8ed79b22863d25bd529c189c3e9ba0e335de92af1298f7e4c5d12c",
+                "w": 37
+              },
+              {
+                "bytes": 2654,
+                "h": 173,
+                "path": "tiles/plate-06-paired-red-scrolls-rotated-50.avif",
+                "sha256": "20619bff07bd3397d7b0eb42b7fcc6fce9659ceca04af53cab49197d79f4267d",
+                "w": 50
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 700,
+                "h": 64,
+                "path": "tiles/plate-06-paired-red-scrolls-rotated-18.webp",
+                "sha256": "4b1a312fec1e9d81cc0b913ebae6e1d8db17b83b768fa9a638ea1ce1509f4a43",
+                "w": 18
+              },
+              {
+                "bytes": 1480,
+                "h": 96,
+                "path": "tiles/plate-06-paired-red-scrolls-rotated-28.webp",
+                "sha256": "1fc85d0a2fc88354067650020ec1c6a4b631c1988c220b3ea4a722b0bea65482",
+                "w": 28
+              },
+              {
+                "bytes": 2172,
+                "h": 128,
+                "path": "tiles/plate-06-paired-red-scrolls-rotated-37.webp",
+                "sha256": "68633ccd80202b8a99f03d93390c2af2ab2191ee6c9d501e6ef49decb61b7645",
+                "w": 37
+              },
+              {
+                "bytes": 3532,
+                "h": 173,
+                "path": "tiles/plate-06-paired-red-scrolls-rotated-50.webp",
+                "sha256": "6bb52cc6ea2aec17d51386dff94499a269796b996be887a396f09c815fda2fde",
+                "w": 50
+              }
+            ]
+          }
+        }
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 955,
+            "h": 18,
+            "path": "avif/plate-06-paired-red-scrolls-64.avif",
+            "sha256": "ff3b9c21979aa4e68054d82e897b062a3ad48e92538cb3a997d341daab05d1f9",
+            "w": 64
+          },
+          {
+            "bytes": 1501,
+            "h": 28,
+            "path": "avif/plate-06-paired-red-scrolls-96.avif",
+            "sha256": "1aa8a52e6610767861f5b338823ab2bb47e190f6d54c57fc8a8f01b0c9e3e90b",
+            "w": 96
+          },
+          {
+            "bytes": 1866,
+            "h": 37,
+            "path": "avif/plate-06-paired-red-scrolls-128.avif",
+            "sha256": "4ee571e374a7628fcc7dec1291ab14050acbe095a9ed158aa4d64149851a8c18",
+            "w": 128
+          },
+          {
+            "bytes": 2729,
+            "h": 50,
+            "path": "avif/plate-06-paired-red-scrolls-173.avif",
+            "sha256": "436a20d90a11eca6faa37535fcee0ef607c8a1500febb567117640394d07cefc",
+            "w": 173
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 714,
+            "h": 18,
+            "path": "webp/plate-06-paired-red-scrolls-64.webp",
+            "sha256": "254c38dd0006e4d3b39d49eeaed46bb0f25b362ac653a5e8e1718b176bf2de4f",
+            "w": 64
+          },
+          {
+            "bytes": 1430,
+            "h": 28,
+            "path": "webp/plate-06-paired-red-scrolls-96.webp",
+            "sha256": "52a33447cc966c60c480b6bada9d6d91bfb1abefe725a4f0e5627c23948a7d73",
+            "w": 96
+          },
+          {
+            "bytes": 2178,
+            "h": 37,
+            "path": "webp/plate-06-paired-red-scrolls-128.webp",
+            "sha256": "e8b7b4270856c63f31d2c6688eb432a86ac89b9e6fc3798c6f5b0b7dca04d9cd",
+            "w": 128
+          },
+          {
+            "bytes": 3570,
+            "h": 50,
+            "path": "webp/plate-06-paired-red-scrolls-173.webp",
+            "sha256": "88cad8bc04464eed889d1bd1304674f3e39302645d31e3c4ca2b3e67b5c5a103",
+            "w": 173
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "cartouche",
+        "scroll",
+        "quatrefoil"
+      ],
+      "thumbhash": "0LkCCoLtJgd+l6h2+nqen/c=",
+      "title": "Red scroll cartouches on dark red",
+      "transparent": false,
+      "type": "border",
+      "usage_notes": [
+        "Repeats along its width; the build's rotated ladder gives the vertical use.",
+        "The frame atlas composes it with the corner component for border-image use."
+      ],
+      "width": 173
+    },
+    "plate-07-blue-heart-leaves": {
+      "categories": [
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "red",
+        "tan",
+        "blue",
+        "white"
+      ],
+      "components": {
+        "corner": {
+          "description": "Top-left mitred corner of the same thickness, one heart leaf set diagonally with its point into the angle.",
+          "encoding": {
+            "avif": false,
+            "avifTopBytes": 1504,
+            "webpTopBytes": 1618
+          },
+          "master": {
+            "bytes": 5670,
+            "h": 52,
+            "path": "masters/plate-07-blue-heart-leaves.corner.webp",
+            "sha256": "90dfd141eb25b49166b5c11c028654e51c3eabff13e2569a7ca5790fff9ca4c5",
+            "w": 52
+          },
+          "sources": {
+            "webp": [
+              {
+                "bytes": 1618,
+                "h": 52,
+                "path": "webp/plate-07-blue-heart-leaves.corner-52.webp",
+                "sha256": "d67469a7777ec412928115a47aea6e26ad4e078bd6abb487402730724db6bb55",
+                "w": 52
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "One repeat of a vertical border strip, about twice as tall as wide. Two tan heart-shaped leaves outlined in red, blue and white hang point down in a column, each holding a blue trefoil with small gold sprigs, with white C-scrolls edging both sides, on an opaque dark maroon ground with a narrow orange-red rule along the right edge. Nothing is transparent.",
+      "display_width": [
+        40,
+        52
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 2632,
+        "webpTopBytes": 3104
+      },
+      "facing": "none",
+      "group": null,
+      "height": 113,
+      "master": {
+        "bytes": 12356,
+        "h": 113,
+        "path": "masters/plate-07-blue-heart-leaves.webp",
+        "sha256": "fa44842e1d97d590a3208b21c4c84d24ca29a777ae354965aa9fb4270a31f0be",
+        "w": 52
+      },
+      "palette": [
+        "#712c27",
+        "#77605f",
+        "#be8151",
+        "#afa1a3",
+        "#f8ebe2"
+      ],
+      "provenance": null,
+      "quality": "Low-resolution master (52 px wide); its first and last pixel rows are identical, so a stacked run doubles one row at each join.",
+      "render": {
+        "frame": {
+          "atlas": {
+            "avif": [
+              {
+                "bytes": 2985,
+                "h": 64,
+                "path": "frames/plate-07-blue-heart-leaves-atlas-64.avif",
+                "sha256": "d3b69026ecb5daa63744019920c2b96d90972a15c1ce3f60918950a77e3d811b",
+                "w": 64
+              },
+              {
+                "bytes": 4252,
+                "h": 96,
+                "path": "frames/plate-07-blue-heart-leaves-atlas-96.avif",
+                "sha256": "8c51f0db07086809d508b983552bf75a60f45c600298e6b3955a2bf4213cf096",
+                "w": 96
+              },
+              {
+                "bytes": 6209,
+                "h": 128,
+                "path": "frames/plate-07-blue-heart-leaves-atlas-128.avif",
+                "sha256": "f5601fc0d8f6c91c89825818fbdd0c378730365050f70f7e66754e48d38973ec",
+                "w": 128
+              },
+              {
+                "bytes": 10087,
+                "h": 192,
+                "path": "frames/plate-07-blue-heart-leaves-atlas-192.avif",
+                "sha256": "83b298f59784b1c8fc4632bd3dba2c0e42f57aad742bbac2710b1b972fc2d78b",
+                "w": 192
+              },
+              {
+                "bytes": 12736,
+                "h": 217,
+                "path": "frames/plate-07-blue-heart-leaves-atlas-217.avif",
+                "sha256": "a85a848de5748d5af3b00048ffc6dae6e3284d06236ef7ab8f52118cc7b710a2",
+                "w": 217
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 2506,
+                "h": 64,
+                "path": "frames/plate-07-blue-heart-leaves-atlas-64.webp",
+                "sha256": "015e8711d437d68d1d37df4ecec38cf317cfdcebd9298e2076fffb3784d22dd3",
+                "w": 64
+              },
+              {
+                "bytes": 4796,
+                "h": 96,
+                "path": "frames/plate-07-blue-heart-leaves-atlas-96.webp",
+                "sha256": "c3985114e075dfc70dc92a88ceb8c6ae3c645377e287a1e35037a8e4e3439a08",
+                "w": 96
+              },
+              {
+                "bytes": 7418,
+                "h": 128,
+                "path": "frames/plate-07-blue-heart-leaves-atlas-128.webp",
+                "sha256": "548ee8ee66131d7973659a5d5c8e4e724221741f53b1718843b5170729a6c56e",
+                "w": 128
+              },
+              {
+                "bytes": 13730,
+                "h": 192,
+                "path": "frames/plate-07-blue-heart-leaves-atlas-192.webp",
+                "sha256": "71a135cf9fc929c871d3ed235e3f65cbdeab5363e7a2aa29a83288a50017724e",
+                "w": 192
+              },
+              {
+                "bytes": 16820,
+                "h": 217,
+                "path": "frames/plate-07-blue-heart-leaves-atlas-217.webp",
+                "sha256": "83781cdbcd728bbdab4977c07f953ed408ffaf3440bb17c0aff666ead957e184",
+                "w": 217
+              }
+            ]
+          },
+          "corner": "corner",
+          "slice": 23.96
+        },
+        "image": {},
+        "tile": {
+          "axis": "y",
+          "period": 1,
+          "rotated": {
+            "avif": [
+              {
+                "bytes": 2617,
+                "h": 52,
+                "path": "tiles/plate-07-blue-heart-leaves-rotated-113.avif",
+                "sha256": "298cc07699efec52fc67d52d1d4afa48ef45ba4ee0f1d5fab5d4b5fff9c0e3bc",
+                "w": 113
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 3174,
+                "h": 52,
+                "path": "tiles/plate-07-blue-heart-leaves-rotated-113.webp",
+                "sha256": "bc3810c141504d543a2f258bd66fb4f289b155b174333d3fddf7b8ea7d982da1",
+                "w": 113
+              }
+            ]
+          }
+        }
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2632,
+            "h": 113,
+            "path": "avif/plate-07-blue-heart-leaves-52.avif",
+            "sha256": "cd14050c7d2bdb2dfbad3b8c12792fd940ee9ede63c50027efbb68d62def503d",
+            "w": 52
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3104,
+            "h": 113,
+            "path": "webp/plate-07-blue-heart-leaves-52.webp",
+            "sha256": "54ca58678c4e77d92e99b9018a30d9a3b6e9ad8c511b0bcf32f69b577f86b865",
+            "w": 52
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "heart",
+        "leaf",
+        "fleuron",
+        "scroll"
+      ],
+      "thumbhash": "HGkGCwKphXh4go+OgvMHbn0=",
+      "title": "Heart leaves with blue trefoils",
+      "transparent": false,
+      "type": "border",
+      "usage_notes": [
+        "Repeats along its height; the build's rotated ladder gives the horizontal use.",
+        "The frame atlas composes it with the corner component for border-image use."
+      ],
+      "width": 52
+    },
+    "plate-10-blue-palmettes": {
+      "categories": [
+        "botanical"
+      ],
+      "colors": [
+        "blue",
+        "red",
+        "white",
+        "tan"
+      ],
+      "components": {
+        "corner": {
+          "description": "Top-left mitred corner of the same thickness, one palmette set diagonally with its base in the angle.",
+          "encoding": {
+            "avif": false,
+            "avifTopBytes": 1504,
+            "webpTopBytes": 1632
+          },
+          "master": {
+            "bytes": 5712,
+            "h": 51,
+            "path": "masters/plate-10-blue-palmettes.corner.webp",
+            "sha256": "1682077de90430f8f630fb40166fdff6bc9f5e4816f905ece3c673e6adb02233",
+            "w": 51
+          },
+          "sources": {
+            "webp": [
+              {
+                "bytes": 1632,
+                "h": 51,
+                "path": "webp/plate-10-blue-palmettes.corner-51.webp",
+                "sha256": "b329c2f37215ba018f723591ba342428df16faccd393d1e7635a252080c0a66c",
+                "w": 51
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "One repeat of a vertical border strip, more than twice as tall as wide. Two blue palmettes with white-edged lobes and a central white spike rise one above the other from tan bases outlined in red, with red berries at the heart of each, on an opaque dark maroon ground with a narrow orange-red rule along the right edge. Nothing is transparent.",
+      "display_width": [
+        40,
+        51
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 2795,
+        "webpTopBytes": 3536
+      },
+      "facing": "none",
+      "group": null,
+      "height": 134,
+      "master": {
+        "bytes": 14208,
+        "h": 134,
+        "path": "masters/plate-10-blue-palmettes.webp",
+        "sha256": "29857d1fe1d2e30893e4b48049105dd28dea24664a29ba69b9715113674e3ad3",
+        "w": 51
+      },
+      "palette": [
+        "#64201e",
+        "#a6492d",
+        "#60647b",
+        "#cfa284",
+        "#e3dbd6"
+      ],
+      "provenance": null,
+      "quality": "Low-resolution master (51 px wide); its first and last pixel rows are identical, so a stacked run doubles one row at each join.",
+      "render": {
+        "frame": {
+          "atlas": {
+            "avif": [
+              {
+                "bytes": 2273,
+                "h": 64,
+                "path": "frames/plate-10-blue-palmettes-atlas-64.avif",
+                "sha256": "259ab3c90381a9e08c0cfbf846698266fb99ec5b5f32a06d732f156ba8e29c92",
+                "w": 64
+              },
+              {
+                "bytes": 4058,
+                "h": 96,
+                "path": "frames/plate-10-blue-palmettes-atlas-96.avif",
+                "sha256": "10eb2ce0316f6e8c5e2feea7c84e72823863010767bafc5ecf306eefabe89d4d",
+                "w": 96
+              },
+              {
+                "bytes": 5811,
+                "h": 128,
+                "path": "frames/plate-10-blue-palmettes-atlas-128.avif",
+                "sha256": "bdd8239afaf2650c7912c5f32b7e5faa00cd4993006ccc91729b18bcd18304a1",
+                "w": 128
+              },
+              {
+                "bytes": 9769,
+                "h": 192,
+                "path": "frames/plate-10-blue-palmettes-atlas-192.avif",
+                "sha256": "b265632fcdb3edda48c7c174c415d463429525ec3efafea0f22e2cb0e3fd92ec",
+                "w": 192
+              },
+              {
+                "bytes": 13480,
+                "h": 236,
+                "path": "frames/plate-10-blue-palmettes-atlas-236.avif",
+                "sha256": "bec67f0a54cde4513b2257e3e08af1505e050d1fa951a7ad9f732e337ed4e4a2",
+                "w": 236
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 2354,
+                "h": 64,
+                "path": "frames/plate-10-blue-palmettes-atlas-64.webp",
+                "sha256": "615c60f490a40e1882c473b3de8fd57ea22728c13f24b9e8ffd422993d694623",
+                "w": 64
+              },
+              {
+                "bytes": 4472,
+                "h": 96,
+                "path": "frames/plate-10-blue-palmettes-atlas-96.webp",
+                "sha256": "d74b001b2ee353ee696dcf9e6140cb31667ff5b75d306567b9e83105259850a8",
+                "w": 96
+              },
+              {
+                "bytes": 6962,
+                "h": 128,
+                "path": "frames/plate-10-blue-palmettes-atlas-128.webp",
+                "sha256": "8f6c38b290bae0952bb85405aada18dec726773a8f6af5c526f4ca8972bfce0c",
+                "w": 128
+              },
+              {
+                "bytes": 12826,
+                "h": 192,
+                "path": "frames/plate-10-blue-palmettes-atlas-192.webp",
+                "sha256": "de4eb383141e2847bc072848323e366b75aaad4b01eb75dceb6a134903d4c755",
+                "w": 192
+              },
+              {
+                "bytes": 17912,
+                "h": 236,
+                "path": "frames/plate-10-blue-palmettes-atlas-236.webp",
+                "sha256": "84b1335e6170233c3a760f66437bbd2248c8dc1b0a08d38320fa687724f8b348",
+                "w": 236
+              }
+            ]
+          },
+          "corner": "corner",
+          "slice": 21.61
+        },
+        "image": {},
+        "tile": {
+          "axis": "y",
+          "period": 1,
+          "rotated": {
+            "avif": [
+              {
+                "bytes": 2754,
+                "h": 51,
+                "path": "tiles/plate-10-blue-palmettes-rotated-134.avif",
+                "sha256": "1cae1652e274e90421417e78e5be38bbfe557400f3167cf053d0e633388a7a93",
+                "w": 134
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 3522,
+                "h": 51,
+                "path": "tiles/plate-10-blue-palmettes-rotated-134.webp",
+                "sha256": "9226a116541f3d3cd818e0d185ba923948b0adf0f1ab850d4f0f8458e56dba2f",
+                "w": 134
+              }
+            ]
+          }
+        }
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2795,
+            "h": 134,
+            "path": "avif/plate-10-blue-palmettes-51.avif",
+            "sha256": "f60e3f08e807397191e149e8f62cd3a0ad97d1e26567c1a31946a8311f895294",
+            "w": 51
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3536,
+            "h": 134,
+            "path": "webp/plate-10-blue-palmettes-51.webp",
+            "sha256": "d04ff18e516e6768f3afda3bc0255c307b7bc2d6d8493cbefd491515e261ec6c",
+            "w": 51
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "palmette",
+        "leaf",
+        "berry"
+      ],
+      "thumbhash": "3FgKEwgGd4eHd4aJ+nuXn3c=",
+      "title": "Blue palmette column",
+      "transparent": false,
+      "type": "border",
+      "usage_notes": [
+        "Repeats along its height; the build's rotated ladder gives the horizontal use.",
+        "The frame atlas composes it with the corner component for border-image use."
+      ],
+      "width": 51
+    },
+    "plate-11-acanthus-scroll": {
+      "categories": [
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "green",
+        "gold",
+        "red",
+        "white"
+      ],
+      "composition": "single-ornament",
+      "description": "A long horizontal strip, more than five times wider than tall. A gold stem rolls in two waves along the strip, throwing off dark green acanthus leaves edged in white, with red tongue-like leaflets, small white dots and a gold spiral at each crest, on an opaque dark maroon ground. Both ends are cut by the plate edge. Nothing is transparent.",
+      "display_width": [
+        180,
+        271
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 4525,
+        "webpTopBytes": 6564
+      },
+      "facing": "none",
+      "group": null,
+      "height": 48,
+      "master": {
+        "bytes": 26820,
+        "h": 48,
+        "path": "masters/plate-11-acanthus-scroll.webp",
+        "sha256": "c2db990d4d8871acf545e4a11e00fdbf130163fab3fbd795b3f6e473d23b23b2",
+        "w": 271
+      },
+      "palette": [
+        "#57503d",
+        "#9d582d",
+        "#a17f66",
+        "#282119",
+        "#5d231c"
+      ],
+      "provenance": null,
+      "quality": "Low-resolution master (271 px wide) with both ends cut by the plate edge.",
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 860,
+            "h": 11,
+            "path": "avif/plate-11-acanthus-scroll-64.avif",
+            "sha256": "73b9f37b3c9123fc802c8eca438476d6e7ae63fc5fc8398d60478735f03d15d9",
+            "w": 64
+          },
+          {
+            "bytes": 1315,
+            "h": 17,
+            "path": "avif/plate-11-acanthus-scroll-96.avif",
+            "sha256": "3f8305327f3bb8fb634023a6cc866bfcd490025be74dd3a3ceff42b850fa005e",
+            "w": 96
+          },
+          {
+            "bytes": 1798,
+            "h": 23,
+            "path": "avif/plate-11-acanthus-scroll-128.avif",
+            "sha256": "e9d1918232be7216f7d570c4f56e4ddc913b3da43c809c432a9ee571de201187",
+            "w": 128
+          },
+          {
+            "bytes": 3079,
+            "h": 34,
+            "path": "avif/plate-11-acanthus-scroll-192.avif",
+            "sha256": "a5bc6a8b7cef8cd19250ac76eecd16ee07fe7e89f0b624423dc06e5f4fa9584e",
+            "w": 192
+          },
+          {
+            "bytes": 4404,
+            "h": 45,
+            "path": "avif/plate-11-acanthus-scroll-256.avif",
+            "sha256": "df2a8d7e7d3ffba437a2e70725d540b85f0fb54003f6159399377520e91a320b",
+            "w": 256
+          },
+          {
+            "bytes": 4525,
+            "h": 48,
+            "path": "avif/plate-11-acanthus-scroll-271.avif",
+            "sha256": "ac21a162cbc31c57d5ccbe232477940ecf7554fa7fcda5915c3d7d93fc38ea6a",
+            "w": 271
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 664,
+            "h": 11,
+            "path": "webp/plate-11-acanthus-scroll-64.webp",
+            "sha256": "9994979a54d3adc4790731d03a0402af39fe962c624838580d6b86e045f4c021",
+            "w": 64
+          },
+          {
+            "bytes": 1200,
+            "h": 17,
+            "path": "webp/plate-11-acanthus-scroll-96.webp",
+            "sha256": "94b2d2af1fc1076ef794fa87060056ca6aebcc02f9ee4544a0eb1cc70846e22c",
+            "w": 96
+          },
+          {
+            "bytes": 2046,
+            "h": 23,
+            "path": "webp/plate-11-acanthus-scroll-128.webp",
+            "sha256": "3a128f9eae1e1e59f190d0a0348005048e86cb0acfa74809bef6f22ec0b0ce1c",
+            "w": 128
+          },
+          {
+            "bytes": 3718,
+            "h": 34,
+            "path": "webp/plate-11-acanthus-scroll-192.webp",
+            "sha256": "fc94cbfec520a15d4e48a56ab3427c81676d1897b3398a6000e172746ff5d7d6",
+            "w": 192
+          },
+          {
+            "bytes": 5878,
+            "h": 45,
+            "path": "webp/plate-11-acanthus-scroll-256.webp",
+            "sha256": "2330235c8917549a723de0aa1825f1972b43655b32b7a47ccdb3bc13ddb49def",
+            "w": 256
+          },
+          {
+            "bytes": 6564,
+            "h": 48,
+            "path": "webp/plate-11-acanthus-scroll-271.webp",
+            "sha256": "a78ce43780671c56ef7f35cade6f55c8916ff43dae89245fb8ea5c5475341c5f",
+            "w": 271
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "acanthus",
+        "leaf",
+        "scroll",
+        "stem"
+      ],
+      "thumbhash": "VUkGCYKqm3mKh/Z4+GxTb6M=",
+      "title": "Acanthus wave scroll",
+      "transparent": false,
+      "type": "divider",
+      "usage_notes": [
+        "Its ends do not match, so it neither terminates cleanly nor repeats; use it as one piece."
+      ],
+      "width": 271
+    },
+    "plate-12-interlocking-arches": {
+      "categories": [
+        "geometric"
+      ],
+      "colors": [
+        "red",
+        "gold",
+        "green",
+        "white",
+        "black"
+      ],
+      "components": {
+        "corner": {
+          "description": "Top-left mitred corner of the same thickness, a gold and green chevron pointing into the angle between dotted arcs.",
+          "encoding": {
+            "avif": false,
+            "avifTopBytes": 1285,
+            "webpTopBytes": 1412
+          },
+          "master": {
+            "bytes": 4776,
+            "h": 48,
+            "path": "masters/plate-12-interlocking-arches.corner.webp",
+            "sha256": "323a6d7d179b3659885f3ae7b5c3b7cabe2bc2d92d1b9f807cf2d33399a0014c",
+            "w": 48
+          },
+          "sources": {
+            "webp": [
+              {
+                "bytes": 1412,
+                "h": 48,
+                "path": "webp/plate-12-interlocking-arches.corner-48.webp",
+                "sha256": "18506efa72908de52d4895487f0898ca1a1270f8d59de04708a4c6850ad7717b",
+                "w": 48
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "One repeat of a border strip, wider than tall. White arcs cross one another to form interlocking circles; the two central half-circles are filled with gold and green stripes, the outer ones with dark red and black bands, and small white dots fill the pointed spaces between the arcs, on an opaque ground. Nothing is transparent.",
+      "display_width": [
+        50,
+        67
+      ],
+      "encoding": {
+        "avif": false,
+        "avifTopBytes": 1490,
+        "webpTopBytes": 1688
+      },
+      "facing": "none",
+      "group": null,
+      "height": 48,
+      "master": {
+        "bytes": 6030,
+        "h": 48,
+        "path": "masters/plate-12-interlocking-arches.webp",
+        "sha256": "e70f797f93000f8b95d12b01a5c6c23937d863030fdb8e35a2d44799608cb0ee",
+        "w": 67
+      },
+      "palette": [
+        "#3c1d17",
+        "#98632e",
+        "#a6805d",
+        "#d3b89c",
+        "#fbf4ed"
+      ],
+      "provenance": null,
+      "quality": "Low-resolution master (67 px wide); its first and last pixel columns are identical, so a tiled run doubles one column at each join.",
+      "render": {
+        "frame": {
+          "atlas": {
+            "webp": [
+              {
+                "bytes": 2784,
+                "h": 64,
+                "path": "frames/plate-12-interlocking-arches-atlas-64.webp",
+                "sha256": "ba24680b940fe06275fbd882fd754eafbbe5c10455d4351be333f30631ab9837",
+                "w": 64
+              },
+              {
+                "bytes": 4670,
+                "h": 96,
+                "path": "frames/plate-12-interlocking-arches-atlas-96.webp",
+                "sha256": "4366c8e5cb191059f41be4d366bd5215d67e834bd155c3c417e5238a88ce4f92",
+                "w": 96
+              },
+              {
+                "bytes": 7112,
+                "h": 128,
+                "path": "frames/plate-12-interlocking-arches-atlas-128.webp",
+                "sha256": "87259759f484c942512690aa105e517299d75b0ee294b29af6ef6873fd030896",
+                "w": 128
+              },
+              {
+                "bytes": 10878,
+                "h": 163,
+                "path": "frames/plate-12-interlocking-arches-atlas-163.webp",
+                "sha256": "6ff27eb3c9d5bf4e621ecf8e9fce7f25479378ed67df31fe0608c2594f32a6d2",
+                "w": 163
+              }
+            ]
+          },
+          "corner": "corner",
+          "slice": 29.45
+        },
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "webp": [
+          {
+            "bytes": 1544,
+            "h": 46,
+            "path": "webp/plate-12-interlocking-arches-64.webp",
+            "sha256": "008a80330fb4b0018383b5f2000edae1b9a9c96f4ef61a7b87d1cce9b90758cd",
+            "w": 64
+          },
+          {
+            "bytes": 1688,
+            "h": 48,
+            "path": "webp/plate-12-interlocking-arches-67.webp",
+            "sha256": "c3dd5b0f6705ee37536e9d2b1a7bd10680b06970360a625d7b3444b0241b58bf",
+            "w": 67
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "arch",
+        "lunette",
+        "dot"
+      ],
+      "thumbhash": "GTkKDYQCZ4x5h4dlhYd3qgJ4hmr3",
+      "title": "Interlocking arches with striped lunettes",
+      "transparent": false,
+      "type": "border",
+      "usage_notes": [
+        "The repeat is barely longer than it is thick, so it is not declared as a tile; repeat it along its width with background-repeat.",
+        "The frame atlas composes it with the corner component for border-image use."
+      ],
+      "width": 67
+    },
+    "plate-13-leaf-and-flower-vine": {
+      "categories": [
+        "botanical",
+        "floral",
+        "scrollwork"
+      ],
+      "colors": [
+        "red",
+        "green",
+        "brown"
+      ],
+      "components": {
+        "corner": {
+          "description": "Top-left mitred corner of the same thickness, a red flower head and olive scrolls turning the angle with a red fleuron at the centre.",
+          "encoding": {
+            "avif": false,
+            "avifTopBytes": 1123,
+            "webpTopBytes": 936
+          },
+          "master": {
+            "bytes": 4536,
+            "h": 48,
+            "path": "masters/plate-13-leaf-and-flower-vine.corner.webp",
+            "sha256": "05a3d27235d889d2d127ceca219c4616a5444198ba4bdd54c8e171bffcb78827",
+            "w": 48
+          },
+          "sources": {
+            "webp": [
+              {
+                "bytes": 936,
+                "h": 48,
+                "path": "webp/plate-13-leaf-and-flower-vine.corner-48.webp",
+                "sha256": "b43d0b1f5756210893c623b4143e46b591b02b217b5f5f81537adeffe6e5a16a",
+                "w": 48
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "One repeat of a long border strip, more than three times wider than tall. A dark olive vine scrolls along the strip with orange-red tendrils, a green veined leaf, a small round red flower on an olive ring, a red and green bud and a red fleuron, on an opaque dark maroon ground. Nothing is transparent.",
+      "display_width": [
+        120,
+        174
+      ],
+      "encoding": {
+        "avif": false,
+        "avifTopBytes": 2747,
+        "webpTopBytes": 3132
+      },
+      "facing": "none",
+      "group": null,
+      "height": 48,
+      "master": {
+        "bytes": 15860,
+        "h": 48,
+        "path": "masters/plate-13-leaf-and-flower-vine.webp",
+        "sha256": "c341b6ce3fe1876c3aadbc0f5f742d152caa6ca6aa527b26a391b42c6df6b813",
+        "w": 174
+      },
+      "palette": [
+        "#4c1815",
+        "#463c28",
+        "#973723",
+        "#651311",
+        "#69422c"
+      ],
+      "provenance": null,
+      "quality": "Low-resolution master (174 px wide); its first and last pixel columns are identical, so a tiled run doubles one column at each join.",
+      "render": {
+        "frame": {
+          "atlas": {
+            "webp": [
+              {
+                "bytes": 1288,
+                "h": 64,
+                "path": "frames/plate-13-leaf-and-flower-vine-atlas-64.webp",
+                "sha256": "8445375ed988c7fba53a04f0f084e7752a91f1c9e680c13f7127e92486ed6820",
+                "w": 64
+              },
+              {
+                "bytes": 2780,
+                "h": 96,
+                "path": "frames/plate-13-leaf-and-flower-vine-atlas-96.webp",
+                "sha256": "d5e6b702d5cd49799239cc4a10277e28f1609a973057ce17f649ad63b0ee3e47",
+                "w": 96
+              },
+              {
+                "bytes": 4232,
+                "h": 128,
+                "path": "frames/plate-13-leaf-and-flower-vine-atlas-128.webp",
+                "sha256": "cc68b62f7fbf9a591826326e822af4de7c0bc2e7254680f7de271968fadb799e",
+                "w": 128
+              },
+              {
+                "bytes": 8400,
+                "h": 192,
+                "path": "frames/plate-13-leaf-and-flower-vine-atlas-192.webp",
+                "sha256": "6016d4f78d44c18bfc3344a36d44f181204254c02756895c108a142d46bb2765",
+                "w": 192
+              },
+              {
+                "bytes": 13152,
+                "h": 256,
+                "path": "frames/plate-13-leaf-and-flower-vine-atlas-256.webp",
+                "sha256": "f63329d23d2d9def1ba5dd5f1cde7de5c8c59294c588ce6209867df9ddede5a1",
+                "w": 256
+              },
+              {
+                "bytes": 14330,
+                "h": 270,
+                "path": "frames/plate-13-leaf-and-flower-vine-atlas-270.webp",
+                "sha256": "91e910c49bf8630064df7eba85cf9102f7e143aed5ef42c901538b8409f84130",
+                "w": 270
+              }
+            ]
+          },
+          "corner": "corner",
+          "slice": 17.78
+        },
+        "image": {},
+        "tile": {
+          "axis": "x",
+          "period": 1,
+          "rotated": {
+            "webp": [
+              {
+                "bytes": 620,
+                "h": 64,
+                "path": "tiles/plate-13-leaf-and-flower-vine-rotated-18.webp",
+                "sha256": "2d069d58221cc5ff53a3be7783ae2e7e12c179ead8646d5f6bf8dd0dbddea6f0",
+                "w": 18
+              },
+              {
+                "bytes": 1164,
+                "h": 96,
+                "path": "tiles/plate-13-leaf-and-flower-vine-rotated-26.webp",
+                "sha256": "b5f25aecd6df6928ddf6ec18e80378c3c1a87780fe20e7082b8fc9a07b6957ce",
+                "w": 26
+              },
+              {
+                "bytes": 1896,
+                "h": 128,
+                "path": "tiles/plate-13-leaf-and-flower-vine-rotated-35.webp",
+                "sha256": "38f97d087bb7998764ff399becb6142cc7dac0c776bfb4cfd6083652444dfa3b",
+                "w": 35
+              },
+              {
+                "bytes": 3112,
+                "h": 174,
+                "path": "tiles/plate-13-leaf-and-flower-vine-rotated-48.webp",
+                "sha256": "c7bb324a3604b52cdee3b792658565dfbfdc45d164faadb1499164459ce7f228",
+                "w": 48
+              }
+            ]
+          }
+        }
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "webp": [
+          {
+            "bytes": 634,
+            "h": 18,
+            "path": "webp/plate-13-leaf-and-flower-vine-64.webp",
+            "sha256": "5bd6f6bcf2d4bf655a11a4fa929195de1b265fae8b7a2a5781fa1a499c73aec4",
+            "w": 64
+          },
+          {
+            "bytes": 1194,
+            "h": 26,
+            "path": "webp/plate-13-leaf-and-flower-vine-96.webp",
+            "sha256": "08e6696be7555335d6a1ba8a457a90833a7b66f3970ef76117950a1e2e7f02cb",
+            "w": 96
+          },
+          {
+            "bytes": 1940,
+            "h": 35,
+            "path": "webp/plate-13-leaf-and-flower-vine-128.webp",
+            "sha256": "57161947e5e2dad20cc61a693769db71edbb02cc630ac3f7371ddbc5eeedcb19",
+            "w": 128
+          },
+          {
+            "bytes": 3132,
+            "h": 48,
+            "path": "webp/plate-13-leaf-and-flower-vine-174.webp",
+            "sha256": "d34d57bbdf1592238331ce3f022541c656d58ad8a903c1d7bae3de7025829b4b",
+            "w": 174
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "vine",
+        "leaf",
+        "flower",
+        "scroll",
+        "bud"
+      ],
+      "thumbhash": "T2kCCoJXBptDqKWIdIArWa8=",
+      "title": "Red and green leaf vine",
+      "transparent": false,
+      "type": "border",
+      "usage_notes": [
+        "Repeats along its width; the build's rotated ladder gives the vertical use.",
+        "The frame atlas composes it with the corner component for border-image use."
+      ],
+      "width": 174
+    },
+    "plate-14-cross-lattice": {
+      "categories": [
+        "geometric"
+      ],
+      "colors": [
+        "red",
+        "green",
+        "white"
+      ],
+      "components": {
+        "corner": {
+          "description": "Top-left mitred corner of the same thickness, the lattice turning the angle with two saltire nodes.",
+          "encoding": {
+            "avif": false,
+            "avifTopBytes": 1331,
+            "webpTopBytes": 1422
+          },
+          "master": {
+            "bytes": 5010,
+            "h": 50,
+            "path": "masters/plate-14-cross-lattice.corner.webp",
+            "sha256": "69f82398876d7235234d97873dc738dfd46a8f2bb1d50a7e09cb2f1e0056f2e2",
+            "w": 50
+          },
+          "sources": {
+            "webp": [
+              {
+                "bytes": 1422,
+                "h": 50,
+                "path": "webp/plate-14-cross-lattice.corner-50.webp",
+                "sha256": "be4f074fcc04e1bee55235ca3a827a5e5197a85b8c87ff61360c6415b8207ac9",
+                "w": 50
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "One repeat of a border strip, about twice as wide as tall. A green lattice edged in white encloses dark red cells cut at the corners, with red square nodes at the junctions holding alternately a white upright cross and a white saltire, on an opaque ground with a narrow orange-red rule along the bottom edge. Nothing is transparent.",
+      "display_width": [
+        80,
+        112
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 2076,
+        "webpTopBytes": 2562
+      },
+      "facing": "none",
+      "group": null,
+      "height": 50,
+      "master": {
+        "bytes": 10468,
+        "h": 50,
+        "path": "masters/plate-14-cross-lattice.webp",
+        "sha256": "a904dd3efdf391d85dd809c9b99fa62ac2dacb1fd6df190c208e43308962332e",
+        "w": 112
+      },
+      "palette": [
+        "#501214",
+        "#8d3321",
+        "#546148",
+        "#ac7566",
+        "#cdc2b8"
+      ],
+      "provenance": null,
+      "quality": "Low-resolution master (112 px wide); its first and last pixel columns are identical, so a tiled run doubles one column at each join.",
+      "render": {
+        "frame": {
+          "atlas": {
+            "avif": [
+              {
+                "bytes": 2635,
+                "h": 64,
+                "path": "frames/plate-14-cross-lattice-atlas-64.avif",
+                "sha256": "8c6893b1003810e4537d6c0810d40e9bcadb98676d7a39cd97180646e84ca9fd",
+                "w": 64
+              },
+              {
+                "bytes": 3474,
+                "h": 96,
+                "path": "frames/plate-14-cross-lattice-atlas-96.avif",
+                "sha256": "553fa96487b0e9675c2dc1aef3c81ef877757fcb533433453f8b4c5495b0be95",
+                "w": 96
+              },
+              {
+                "bytes": 5159,
+                "h": 128,
+                "path": "frames/plate-14-cross-lattice-atlas-128.avif",
+                "sha256": "c406ccf61ca572d096427420e67cde58644b1b51f93ea2b312d690f2267f1c79",
+                "w": 128
+              },
+              {
+                "bytes": 7985,
+                "h": 192,
+                "path": "frames/plate-14-cross-lattice-atlas-192.avif",
+                "sha256": "689c6231a4461f8345e2795793dd51d856a25d17b426f2fe1549a4a530836afe",
+                "w": 192
+              },
+              {
+                "bytes": 9608,
+                "h": 212,
+                "path": "frames/plate-14-cross-lattice-atlas-212.avif",
+                "sha256": "e2cb4e78283709732e858d6e3bb1490e05a51de526e6d829a7205c8b27257b23",
+                "w": 212
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 2318,
+                "h": 64,
+                "path": "frames/plate-14-cross-lattice-atlas-64.webp",
+                "sha256": "cd18071f3d1b25be47331933524adbb258f42539c87d8e63c2c384b7b72c92f6",
+                "w": 64
+              },
+              {
+                "bytes": 4054,
+                "h": 96,
+                "path": "frames/plate-14-cross-lattice-atlas-96.webp",
+                "sha256": "20e3cd3e2dc3a4be227e669017722d09a6f19bd0100241061a70c0ac7d70af81",
+                "w": 96
+              },
+              {
+                "bytes": 6154,
+                "h": 128,
+                "path": "frames/plate-14-cross-lattice-atlas-128.webp",
+                "sha256": "dfa73f332f35e7efcde3884b67dda4222fde7b9a1b50c968849f30cf594d50e9",
+                "w": 128
+              },
+              {
+                "bytes": 11204,
+                "h": 192,
+                "path": "frames/plate-14-cross-lattice-atlas-192.webp",
+                "sha256": "2e5ad48f6950dd970859972748a94f7fbc071b67bc804687e6420def1381f2fb",
+                "w": 192
+              },
+              {
+                "bytes": 13506,
+                "h": 212,
+                "path": "frames/plate-14-cross-lattice-atlas-212.webp",
+                "sha256": "88c168d464f525269fe4af0b46fb8f9c57f2f808e40c4599d768b006de24d787",
+                "w": 212
+              }
+            ]
+          },
+          "corner": "corner",
+          "slice": 23.58
+        },
+        "image": {},
+        "tile": {
+          "axis": "x",
+          "period": 1,
+          "rotated": {
+            "avif": [
+              {
+                "bytes": 1182,
+                "h": 64,
+                "path": "tiles/plate-14-cross-lattice-rotated-29.avif",
+                "sha256": "76ba750e2e69deed1c3836becae6a2c8dd434b8c280ed79aa3608ceb73006b7c",
+                "w": 29
+              },
+              {
+                "bytes": 1781,
+                "h": 96,
+                "path": "tiles/plate-14-cross-lattice-rotated-43.avif",
+                "sha256": "249103e069fb6e1252c44a183fad824bc08adfe69d171d561b8705b66c7f92ac",
+                "w": 43
+              },
+              {
+                "bytes": 2087,
+                "h": 112,
+                "path": "tiles/plate-14-cross-lattice-rotated-50.avif",
+                "sha256": "c7c521ad2b65ddfeb89da90e1e1b08e1c9a63e60e428eaf8edbb6f357f6fc1d6",
+                "w": 50
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 1162,
+                "h": 64,
+                "path": "tiles/plate-14-cross-lattice-rotated-29.webp",
+                "sha256": "82d4f4d6c42bd5845512dc142e38a539d4b76186ec3f550d499a038f6936efb7",
+                "w": 29
+              },
+              {
+                "bytes": 2058,
+                "h": 96,
+                "path": "tiles/plate-14-cross-lattice-rotated-43.webp",
+                "sha256": "e1dbfac0d0b099000dfc908ee7c8508bed693a69f8dd4a07b77cd3d66504a59d",
+                "w": 43
+              },
+              {
+                "bytes": 2496,
+                "h": 112,
+                "path": "tiles/plate-14-cross-lattice-rotated-50.webp",
+                "sha256": "4e604a0d2c28f3dbc0d3a6585831bf90bfdbd53f98d43527c57e440ad9891a96",
+                "w": 50
+              }
+            ]
+          }
+        }
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1189,
+            "h": 29,
+            "path": "avif/plate-14-cross-lattice-64.avif",
+            "sha256": "157b8094c0125b72e05c2f610fd32d12175ec9ec8fcaf08cbcda0f8abf9e6234",
+            "w": 64
+          },
+          {
+            "bytes": 1704,
+            "h": 43,
+            "path": "avif/plate-14-cross-lattice-96.avif",
+            "sha256": "1c814ee1be346c88bcad6420e25b60cee1e1ec7d90a9122e23c307d257cce8eb",
+            "w": 96
+          },
+          {
+            "bytes": 2076,
+            "h": 50,
+            "path": "avif/plate-14-cross-lattice-112.avif",
+            "sha256": "1b46ac026ef162be4ac1e4c0a8f513ad54bee4eefd73a61f46b19a0ebdffeb39",
+            "w": 112
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1164,
+            "h": 29,
+            "path": "webp/plate-14-cross-lattice-64.webp",
+            "sha256": "8643d3f0203143b60e6d63aaf73de9475444dfd5e2d5d15ad81e6621d051b162",
+            "w": 64
+          },
+          {
+            "bytes": 2064,
+            "h": 43,
+            "path": "webp/plate-14-cross-lattice-96.webp",
+            "sha256": "0c9829a9faf9abfd067267e35de5cd7f633480ac61f4b533dfc8a01edef7550e",
+            "w": 96
+          },
+          {
+            "bytes": 2562,
+            "h": 50,
+            "path": "webp/plate-14-cross-lattice-112.webp",
+            "sha256": "a2713ad4b29d57ed0972c3aaaad79bb98b3399af760aac8632cc98ac90b592bd",
+            "w": 112
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "lattice",
+        "cross",
+        "diamond"
+      ],
+      "thumbhash": "FlkGC4LGx0+Dh2eYY4A1A7g=",
+      "title": "Lattice with cross and saltire nodes",
+      "transparent": false,
+      "type": "border",
+      "usage_notes": [
+        "Repeats along its width; the build's rotated ladder gives the vertical use.",
+        "The frame atlas composes it with the corner component for border-image use."
+      ],
+      "width": 112
+    },
+    "plate-17-stepped-arches": {
+      "categories": [
+        "geometric"
+      ],
+      "colors": [
+        "red",
+        "gold",
+        "blue",
+        "green",
+        "white"
+      ],
+      "components": {
+        "corner": {
+          "description": "Top-left mitred corner of the same thickness, the stepped bands turning the angle around a small green leaf.",
+          "encoding": {
+            "avif": false,
+            "avifTopBytes": 1109,
+            "webpTopBytes": 1008
+          },
+          "master": {
+            "bytes": 4432,
+            "h": 50,
+            "path": "masters/plate-17-stepped-arches.corner.webp",
+            "sha256": "de0b81c2d0619db395434da6664e9c93e1a4f9d8d214a1a8441904491886c5c2",
+            "w": 50
+          },
+          "sources": {
+            "webp": [
+              {
+                "bytes": 1008,
+                "h": 50,
+                "path": "webp/plate-17-stepped-arches.corner-50.webp",
+                "sha256": "e9a9f0e90d0af732ad41cf8b958be1824938255ebf7a1b5036af0e51c0e7f047",
+                "w": 50
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "One repeat of a border strip, about twice as wide as tall. Gold, blue and green bands step up and down in interlocking stepped arches, a gold crescent over a white one hanging in the upper arch and a green ring over a white crescent standing in the lower one, on an opaque dark maroon ground with a thin gold rule along the top edge. Nothing is transparent.",
+      "display_width": [
+        80,
+        110
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 1855,
+        "webpTopBytes": 2206
+      },
+      "facing": "none",
+      "group": null,
+      "height": 50,
+      "master": {
+        "bytes": 9946,
+        "h": 50,
+        "path": "masters/plate-17-stepped-arches.webp",
+        "sha256": "501f851b3e9902b2d38902829523d1563b3cc30b324bb40c616317d693af60a8",
+        "w": 110
+      },
+      "palette": [
+        "#441417",
+        "#724b32",
+        "#474d5e",
+        "#926d5b",
+        "#d1a580"
+      ],
+      "provenance": null,
+      "quality": "Low-resolution master (110 px wide); its first and last pixel columns are identical, so a tiled run doubles one column at each join.",
+      "render": {
+        "frame": {
+          "atlas": {
+            "avif": [
+              {
+                "bytes": 2227,
+                "h": 64,
+                "path": "frames/plate-17-stepped-arches-atlas-64.avif",
+                "sha256": "5e3bf3d0f28e67200d78ce6bbfe95ea30346beda17be5890054b21f9ca5d0594",
+                "w": 64
+              },
+              {
+                "bytes": 2866,
+                "h": 96,
+                "path": "frames/plate-17-stepped-arches-atlas-96.avif",
+                "sha256": "240f5f197ff2ad22997c5d553bd1befbcee1a83ab4d925c65fcf89717ff615b1",
+                "w": 96
+              },
+              {
+                "bytes": 4258,
+                "h": 128,
+                "path": "frames/plate-17-stepped-arches-atlas-128.avif",
+                "sha256": "fc66097b42833eb510baee42053b015d3369bcc32c175c4d97fb2d56f050a5ab",
+                "w": 128
+              },
+              {
+                "bytes": 6674,
+                "h": 192,
+                "path": "frames/plate-17-stepped-arches-atlas-192.avif",
+                "sha256": "b58f39b6c308bf5172df5cb042bdaf1c91bc1b5ad448af88706ce3f76c6764f8",
+                "w": 192
+              },
+              {
+                "bytes": 8486,
+                "h": 210,
+                "path": "frames/plate-17-stepped-arches-atlas-210.avif",
+                "sha256": "c8cdc37b33b64a53c65df7f429cac30699aa7bb52f6d6da75ba5a24e2def226e",
+                "w": 210
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 1874,
+                "h": 64,
+                "path": "frames/plate-17-stepped-arches-atlas-64.webp",
+                "sha256": "9d00a0336f4dfbd4c6f95e136582020b06760a5abe9c1c40d114f3efe0b2769a",
+                "w": 64
+              },
+              {
+                "bytes": 3360,
+                "h": 96,
+                "path": "frames/plate-17-stepped-arches-atlas-96.webp",
+                "sha256": "5b878bf2731a3b6d7794e4cc1c7c20443c1e6f9d3a6791880c68d15c30157532",
+                "w": 96
+              },
+              {
+                "bytes": 5298,
+                "h": 128,
+                "path": "frames/plate-17-stepped-arches-atlas-128.webp",
+                "sha256": "db28f18953c1b6a212f4bba3e56340f5193af080983353e3958947e6533852ce",
+                "w": 128
+              },
+              {
+                "bytes": 9200,
+                "h": 192,
+                "path": "frames/plate-17-stepped-arches-atlas-192.webp",
+                "sha256": "c1b428baea5fb1bb4f2a20d974100e3e46894a059a76d832fe1d531228ed25f9",
+                "w": 192
+              },
+              {
+                "bytes": 11180,
+                "h": 210,
+                "path": "frames/plate-17-stepped-arches-atlas-210.webp",
+                "sha256": "170032b934285d88daefcdd38c7f8b746ecbaa91df44301b7f669d5d347a61e9",
+                "w": 210
+              }
+            ]
+          },
+          "corner": "corner",
+          "slice": 23.81
+        },
+        "image": {},
+        "tile": {
+          "axis": "x",
+          "period": 1,
+          "rotated": {
+            "avif": [
+              {
+                "bytes": 1108,
+                "h": 64,
+                "path": "tiles/plate-17-stepped-arches-rotated-29.avif",
+                "sha256": "f67d8e25b3d2ef8c2c200896beaecf20acbbc45673e2eed58456908f229da7e0",
+                "w": 29
+              },
+              {
+                "bytes": 1616,
+                "h": 96,
+                "path": "tiles/plate-17-stepped-arches-rotated-44.avif",
+                "sha256": "90cabe2a7962bc350eaeb9876b748309057d8ff88d22badd40720c0081d6e527",
+                "w": 44
+              },
+              {
+                "bytes": 1895,
+                "h": 110,
+                "path": "tiles/plate-17-stepped-arches-rotated-50.avif",
+                "sha256": "6a495d06931d45f0b0935fd5daa81fd39e5597196f232df0f503589cdf30cc07",
+                "w": 50
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 1016,
+                "h": 64,
+                "path": "tiles/plate-17-stepped-arches-rotated-29.webp",
+                "sha256": "dae9c343f15bda85762c5c03bf15074ee58e5effd93674b47d7b52298d0c5d06",
+                "w": 29
+              },
+              {
+                "bytes": 1788,
+                "h": 96,
+                "path": "tiles/plate-17-stepped-arches-rotated-44.webp",
+                "sha256": "6319a5215866cb6b09e59f66e9bfdcb82c53e122c035fd145a67c01388d91799",
+                "w": 44
+              },
+              {
+                "bytes": 2248,
+                "h": 110,
+                "path": "tiles/plate-17-stepped-arches-rotated-50.webp",
+                "sha256": "9c9b985de37903f46bfd68e626adff2489aae8fb602a615b687d6df0a4cbae9e",
+                "w": 50
+              }
+            ]
+          }
+        }
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1204,
+            "h": 29,
+            "path": "avif/plate-17-stepped-arches-64.avif",
+            "sha256": "be5321de0783f185db3322b7caec4e23acb8676d551809fd840326adb0916ee8",
+            "w": 64
+          },
+          {
+            "bytes": 1637,
+            "h": 44,
+            "path": "avif/plate-17-stepped-arches-96.avif",
+            "sha256": "7e859cdc816621cdf05736b2dc2ec4fa6f019950ffcdd8f7a6a58339505e9855",
+            "w": 96
+          },
+          {
+            "bytes": 1855,
+            "h": 50,
+            "path": "avif/plate-17-stepped-arches-110.avif",
+            "sha256": "bed89cee733c39ee7c349d3ca91fe86215572f7d5eba13d37447906dc9006ee5",
+            "w": 110
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1034,
+            "h": 29,
+            "path": "webp/plate-17-stepped-arches-64.webp",
+            "sha256": "49345e83d993495bcee29b78c2a28abff8759f2e7b178706c6ac7aba044ff377",
+            "w": 64
+          },
+          {
+            "bytes": 1786,
+            "h": 44,
+            "path": "webp/plate-17-stepped-arches-96.webp",
+            "sha256": "a7d8c2dcc44c06a2e1d8b60db8236c3ef02319157d7dedaab77741a73702fe53",
+            "w": 96
+          },
+          {
+            "bytes": 2206,
+            "h": 50,
+            "path": "webp/plate-17-stepped-arches-110.webp",
+            "sha256": "9fbfa38e22afde101a9f3aa7b215978e9d2eb865ead7ca759a68e5cb5c53b248",
+            "w": 110
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "meander",
+        "crescent",
+        "ring"
+      ],
+      "thumbhash": "0EgCC4RdEIrcNeiIT+z+xLo=",
+      "title": "Stepped meander with crescents",
+      "transparent": false,
+      "type": "border",
+      "usage_notes": [
+        "Repeats along its width; the build's rotated ladder gives the vertical use.",
+        "The frame atlas composes it with the corner component for border-image use."
+      ],
+      "width": 110
+    },
+    "plate-18-fan-palmettes": {
+      "categories": [
+        "botanical",
+        "geometric"
+      ],
+      "colors": [
+        "black",
+        "cream",
+        "gold",
+        "green",
+        "red"
+      ],
+      "components": {
+        "corner": {
+          "description": "Top-left mitred corner of the same thickness, fan segments turning the angle with the dotted rail on the outside.",
+          "encoding": {
+            "avif": false,
+            "avifTopBytes": 1459,
+            "webpTopBytes": 1650
+          },
+          "master": {
+            "bytes": 5762,
+            "h": 55,
+            "path": "masters/plate-18-fan-palmettes.corner.webp",
+            "sha256": "366d2aee4d10a36495a56eb6c40c621a68a66f4fc4704289800eceb4db90ee92",
+            "w": 55
+          },
+          "sources": {
+            "webp": [
+              {
+                "bytes": 1650,
+                "h": 55,
+                "path": "webp/plate-18-fan-palmettes.corner-55.webp",
+                "sha256": "8dfad79680c0778f6bc1484f36464750d8e6af22290e3b7b1a224579d036ca85",
+                "w": 55
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "One repeat of a vertical border strip, taller than wide. Scalloped fan palmettes stack one above the other, each with black and cream radiating segments below a crown of gold and green lobes, with white dots in the spandrels on both sides, on an opaque dark red ground with an orange-red rule along the left and right edges. Nothing is transparent.",
+      "display_width": [
+        40,
+        55
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 1960,
+        "webpTopBytes": 2472
+      },
+      "facing": "none",
+      "group": null,
+      "height": 91,
+      "master": {
+        "bytes": 9536,
+        "h": 91,
+        "path": "masters/plate-18-fan-palmettes.webp",
+        "sha256": "c7e268cd6654e83a668310a991253da935d8e40d1974c6aecd565f3ed324741b",
+        "w": 55
+      },
+      "palette": [
+        "#331710",
+        "#5c6347",
+        "#bc7c43",
+        "#b8a281",
+        "#d3cab8"
+      ],
+      "provenance": null,
+      "quality": "Low-resolution master (55 px wide); its first and last pixel rows are identical, so a stacked run doubles one row at each join.",
+      "render": {
+        "frame": {
+          "atlas": {
+            "avif": [
+              {
+                "bytes": 2125,
+                "h": 64,
+                "path": "frames/plate-18-fan-palmettes-atlas-64.avif",
+                "sha256": "d669899c681cf22ac930f49b66e44cd8787fe21dc194a3396641881fe0c80c5f",
+                "w": 64
+              },
+              {
+                "bytes": 3595,
+                "h": 96,
+                "path": "frames/plate-18-fan-palmettes-atlas-96.avif",
+                "sha256": "740e39fc3f473e5d76e082f862b9056d6196faf1ab13bfd804231e3f7883eaca",
+                "w": 96
+              },
+              {
+                "bytes": 5286,
+                "h": 128,
+                "path": "frames/plate-18-fan-palmettes-atlas-128.avif",
+                "sha256": "dee44436340fd91a1ed571a49cc30f1bd2e91faf16046dee3f0f3495cc3b60d6",
+                "w": 128
+              },
+              {
+                "bytes": 9084,
+                "h": 192,
+                "path": "frames/plate-18-fan-palmettes-atlas-192.avif",
+                "sha256": "05595fc62545a8e8b9c58fea4470d048703c34544e5f3f75810b9f0f888133a8",
+                "w": 192
+              },
+              {
+                "bytes": 10809,
+                "h": 201,
+                "path": "frames/plate-18-fan-palmettes-atlas-201.avif",
+                "sha256": "09ba42af59be8acb3ba5189416bd92d895b21910b5a9079d2d4da33a416b3712",
+                "w": 201
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 2336,
+                "h": 64,
+                "path": "frames/plate-18-fan-palmettes-atlas-64.webp",
+                "sha256": "93471787ee3e0372ed7fd7c531ba55168117c2d0ea5125ddd74465799af40d4a",
+                "w": 64
+              },
+              {
+                "bytes": 4508,
+                "h": 96,
+                "path": "frames/plate-18-fan-palmettes-atlas-96.webp",
+                "sha256": "89c6f6f2c73f4c239df6ba1a2ada72cd1e3ec3f6c8f1fe9448820425cb70bd75",
+                "w": 96
+              },
+              {
+                "bytes": 6914,
+                "h": 128,
+                "path": "frames/plate-18-fan-palmettes-atlas-128.webp",
+                "sha256": "ce96201265119396bebc634351f7db41fdf1d6dc8b765c73796248d2328ee3eb",
+                "w": 128
+              },
+              {
+                "bytes": 12906,
+                "h": 192,
+                "path": "frames/plate-18-fan-palmettes-atlas-192.webp",
+                "sha256": "14add6e91e4cb5f276f568792b094627e8f3eafc483c4211c4319e249a3676b6",
+                "w": 192
+              },
+              {
+                "bytes": 14334,
+                "h": 201,
+                "path": "frames/plate-18-fan-palmettes-atlas-201.webp",
+                "sha256": "e55f1712c545ecb67b6a5e1e7635586f673d4eb32b4bf131bd51537447611789",
+                "w": 201
+              }
+            ]
+          },
+          "corner": "corner",
+          "slice": 27.36
+        },
+        "image": {},
+        "tile": {
+          "axis": "y",
+          "period": 1,
+          "rotated": {
+            "avif": [
+              {
+                "bytes": 1980,
+                "h": 55,
+                "path": "tiles/plate-18-fan-palmettes-rotated-91.avif",
+                "sha256": "f0db9c1dd47231ae8c6098deab15e58e8427120ea53b2c14310b38e1cdec89e4",
+                "w": 91
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 2486,
+                "h": 55,
+                "path": "tiles/plate-18-fan-palmettes-rotated-91.webp",
+                "sha256": "ea3a2a8a71d170bffa4edc74e63b69af4e03db29fd098883a6d4292df0d1ec3e",
+                "w": 91
+              }
+            ]
+          }
+        }
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1960,
+            "h": 91,
+            "path": "avif/plate-18-fan-palmettes-55.avif",
+            "sha256": "a53368d6ff6d8f58c72018fa58ffb18b4db6a50303193dbb27bb60698d26e82d",
+            "w": 55
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2472,
+            "h": 91,
+            "path": "webp/plate-18-fan-palmettes-55.webp",
+            "sha256": "5d92d9641e2a03361472f2141ee8c862428c18cc4d9d56f7a3db6e388755b5af",
+            "w": 55
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "palmette",
+        "fan",
+        "dot"
+      ],
+      "thumbhash": "WjkGFAQHpWeXd4eoaLdmjE9vpw==",
+      "title": "Fan palmette column",
+      "transparent": false,
+      "type": "border",
+      "usage_notes": [
+        "Repeats along its height; the build's rotated ladder gives the horizontal use.",
+        "The frame atlas composes it with the corner component for border-image use."
+      ],
+      "width": 55
+    },
+    "plate-19-cream-scrolls": {
+      "categories": [
+        "scrollwork"
+      ],
+      "colors": [
+        "cream",
+        "red"
+      ],
+      "components": {
+        "corner": {
+          "description": "Top-left mitred corner of the same thickness, one cream scroll turning the angle with two cream leaf-shaped dots.",
+          "encoding": {
+            "avif": true,
+            "avifTopBytes": 1426,
+            "webpTopBytes": 1758
+          },
+          "master": {
+            "bytes": 6602,
+            "h": 55,
+            "path": "masters/plate-19-cream-scrolls.corner.webp",
+            "sha256": "f88a9ce8805e0134c3bc5a5e979ccce8588aa2d4109eac5f2dd083a8792c5512",
+            "w": 55
+          },
+          "sources": {
+            "avif": [
+              {
+                "bytes": 1426,
+                "h": 55,
+                "path": "avif/plate-19-cream-scrolls.corner-55.avif",
+                "sha256": "cfe6d34e4ea20f334db71906637875cf23b9b065b9e292fd598c3d27f8f2cc8a",
+                "w": 55
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 1758,
+                "h": 55,
+                "path": "webp/plate-19-cream-scrolls.corner-55.webp",
+                "sha256": "84a3ac572a79edf470129dbca60ff2a88be1181b00d16ace17d4ddefb2a221aa",
+                "w": 55
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "One repeat of a border strip, slightly wider than tall. Four cream spirals outlined in orange-red fill the unit in two rows, the upper pair curling outward and the lower pair inward so they read as two facing C-scrolls, on an opaque dark red ground with a row of small red squares along the top and bottom edges. Nothing is transparent.",
+      "display_width": [
+        50,
+        65
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 1659,
+        "webpTopBytes": 1952
+      },
+      "facing": "none",
+      "group": null,
+      "height": 55,
+      "master": {
+        "bytes": 7892,
+        "h": 55,
+        "path": "masters/plate-19-cream-scrolls.webp",
+        "sha256": "682658b9ca4cf1cb0c8d34f89f77002fa69dc10efc1f091f2ae1234cbeb66d33",
+        "w": 65
+      },
+      "palette": [
+        "#781a10",
+        "#aa3920",
+        "#f8e3d1",
+        "#b24d2d",
+        "#c47861"
+      ],
+      "provenance": null,
+      "quality": "Low-resolution master (65 px wide); its first and last pixel columns are identical, so a tiled run doubles one column at each join.",
+      "render": {
+        "frame": {
+          "atlas": {
+            "avif": [
+              {
+                "bytes": 2266,
+                "h": 64,
+                "path": "frames/plate-19-cream-scrolls-atlas-64.avif",
+                "sha256": "d80378bb65d1c5f31984d957e40c5bea9d19b05fe803c13aef751d043c782084",
+                "w": 64
+              },
+              {
+                "bytes": 4134,
+                "h": 96,
+                "path": "frames/plate-19-cream-scrolls-atlas-96.avif",
+                "sha256": "92f734a0e65e779e8b213a0d7901e297058f2a4afbb76f932a20546af659464a",
+                "w": 96
+              },
+              {
+                "bytes": 5869,
+                "h": 128,
+                "path": "frames/plate-19-cream-scrolls-atlas-128.avif",
+                "sha256": "384732f4ba961d005e6ef792aea0621f7260b3a0ae22d1e7a42100932bc6899b",
+                "w": 128
+              },
+              {
+                "bytes": 9355,
+                "h": 175,
+                "path": "frames/plate-19-cream-scrolls-atlas-175.avif",
+                "sha256": "6868fc7ed3563e01860f6fd21cdfc1092eb062e602a1d2d4131d0c9e9c2e0c49",
+                "w": 175
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 2618,
+                "h": 64,
+                "path": "frames/plate-19-cream-scrolls-atlas-64.webp",
+                "sha256": "6f630fa957ed38dde9c0c66535b274aa0ced0040d4b514d323888eee133ca6a2",
+                "w": 64
+              },
+              {
+                "bytes": 5202,
+                "h": 96,
+                "path": "frames/plate-19-cream-scrolls-atlas-96.webp",
+                "sha256": "95df2b25240d70be40c32fad8ed5f594769a812aa1a91f52d895d006e5a2f2f8",
+                "w": 96
+              },
+              {
+                "bytes": 8038,
+                "h": 128,
+                "path": "frames/plate-19-cream-scrolls-atlas-128.webp",
+                "sha256": "8fbaf2274dae62a172019194fa808121dbc9cf9bd7ca4879b0ee1ae915abcc1e",
+                "w": 128
+              },
+              {
+                "bytes": 13058,
+                "h": 175,
+                "path": "frames/plate-19-cream-scrolls-atlas-175.webp",
+                "sha256": "e07b01f2f13612a9b9559cac05b6884ef0e51868e75b309e1d979d7f79a2244f",
+                "w": 175
+              }
+            ]
+          },
+          "corner": "corner",
+          "slice": 31.43
+        },
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1654,
+            "h": 54,
+            "path": "avif/plate-19-cream-scrolls-64.avif",
+            "sha256": "6c32b2ec4b2a45d9602f56832f13d81031e24f5fcdd516e48fb8f89f0dca62c0",
+            "w": 64
+          },
+          {
+            "bytes": 1659,
+            "h": 55,
+            "path": "avif/plate-19-cream-scrolls-65.avif",
+            "sha256": "bf4fbf62a536d6f2fad75b5f08cb3395b94bbd166c8b3483bea0e11a64819abe",
+            "w": 65
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1826,
+            "h": 54,
+            "path": "webp/plate-19-cream-scrolls-64.webp",
+            "sha256": "3bf55401f0f4435baa8c46f06254b3e90940f2a72b01e2912fb5e9054e87df3d",
+            "w": 64
+          },
+          {
+            "bytes": 1952,
+            "h": 55,
+            "path": "webp/plate-19-cream-scrolls-65.webp",
+            "sha256": "9d81d05976fb00f25077974fe0c46a435d49ead5f0db69ffe5e294029a4e0a00",
+            "w": 65
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "spiral",
+        "scroll",
+        "dot"
+      ],
+      "thumbhash": "3pkKDoJXKKd4h4eEdoV4B6d3ioafevg=",
+      "title": "Four cream spirals on red",
+      "transparent": false,
+      "type": "border",
+      "usage_notes": [
+        "The repeat is barely longer than it is thick, so it is not declared as a tile; repeat it along its width with background-repeat.",
+        "The frame atlas composes it with the corner component for border-image use."
+      ],
+      "width": 65
+    },
+    "plate-22-petal-cross": {
+      "categories": [
+        "geometric",
+        "floral"
+      ],
+      "colors": [
+        "red",
+        "cream",
+        "orange",
+        "gold"
+      ],
+      "components": {
+        "corner": {
+          "description": "Top-left corner, the petal-cross panel alone with the orange rules turning the angle on its outer sides.",
+          "encoding": {
+            "avif": false,
+            "avifTopBytes": 1395,
+            "webpTopBytes": 1632
+          },
+          "master": {
+            "bytes": 5814,
+            "h": 55,
+            "path": "masters/plate-22-petal-cross.corner.webp",
+            "sha256": "7903e056679a0032a44718175fdf4c261c54f92b270c8d4d9d99eb1d53e19849",
+            "w": 55
+          },
+          "sources": {
+            "webp": [
+              {
+                "bytes": 1632,
+                "h": 55,
+                "path": "webp/plate-22-petal-cross.corner-55.webp",
+                "sha256": "2a30ee7d5570c4bda79ae1ce444db95f885dbf63cb12174542bf3b02ef47fb03",
+                "w": 55
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "One repeat of a border, a cream square panel holding four dark red pointed petals on the diagonals and a thin orange cross of rods with knobbed ends between them, a small cream ring at the centre; to its left a narrow dark red bar with a cream C-curl at each end and a small gold ring in the middle. Orange-red rules run along the top and bottom. The cell chains when repeated. Opaque, no transparent background.",
+      "display_width": [
+        32,
+        64
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 1489,
+        "webpTopBytes": 1842
+      },
+      "facing": "none",
+      "group": null,
+      "height": 55,
+      "master": {
+        "bytes": 6788,
+        "h": 55,
+        "path": "masters/plate-22-petal-cross.webp",
+        "sha256": "d17bacacd11905098fb589d7d5250699aeb9e458a72fe2faf150c4d910c5a2a8",
+        "w": 64
+      },
+      "palette": [
+        "#5b1515",
+        "#f9ece5",
+        "#a23f2a",
+        "#996258",
+        "#dcb7ac"
+      ],
+      "provenance": null,
+      "quality": "Low-resolution master of about 60 px with dither noise in the flat areas; do not scale up far.",
+      "related": [],
+      "render": {
+        "frame": {
+          "atlas": {
+            "avif": [
+              {
+                "bytes": 2263,
+                "h": 64,
+                "path": "frames/plate-22-petal-cross-atlas-64.avif",
+                "sha256": "7464f71f43d25705a464c93b1ccbadcef5fe2e3b12312fa58885d8844095e915",
+                "w": 64
+              },
+              {
+                "bytes": 3755,
+                "h": 96,
+                "path": "frames/plate-22-petal-cross-atlas-96.avif",
+                "sha256": "4d725fb34afe2bd1f049bc7d82801c0742a3266dab83633da60df7e7e3693b0e",
+                "w": 96
+              },
+              {
+                "bytes": 5381,
+                "h": 128,
+                "path": "frames/plate-22-petal-cross-atlas-128.avif",
+                "sha256": "82b9ad1307a72357bca2b221836121bab3e06607646db2132da6a5224e45d65c",
+                "w": 128
+              },
+              {
+                "bytes": 7981,
+                "h": 174,
+                "path": "frames/plate-22-petal-cross-atlas-174.avif",
+                "sha256": "4fc30c08b820e3728bb8eecce964f5b2435379fd9f54c0b88a86615d8e2b0775",
+                "w": 174
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 2694,
+                "h": 64,
+                "path": "frames/plate-22-petal-cross-atlas-64.webp",
+                "sha256": "e3ee8389aa977e19229ea33cf83003cf76cb284b0cde31149cdd690a93306c0c",
+                "w": 64
+              },
+              {
+                "bytes": 4772,
+                "h": 96,
+                "path": "frames/plate-22-petal-cross-atlas-96.webp",
+                "sha256": "8b045b1dc3a5875f3e6b0a27242a2ba3226ef6131dc860cf677134c63696375d",
+                "w": 96
+              },
+              {
+                "bytes": 7274,
+                "h": 128,
+                "path": "frames/plate-22-petal-cross-atlas-128.webp",
+                "sha256": "fe94fba9cfe0554abf2e26122fde4664a29c82cea23a37e4a58dedb1e987f361",
+                "w": 128
+              },
+              {
+                "bytes": 11562,
+                "h": 174,
+                "path": "frames/plate-22-petal-cross-atlas-174.webp",
+                "sha256": "2bab1b259182e0e4646ffe2c91035efea1d2d1ee4558a9f70842c4776d36e493",
+                "w": 174
+              }
+            ]
+          },
+          "corner": "corner",
+          "slice": 31.61
+        },
+        "image": {},
+        "tile": {
+          "axis": "x",
+          "period": 1,
+          "rotated": {
+            "avif": [
+              {
+                "bytes": 1511,
+                "h": 64,
+                "path": "tiles/plate-22-petal-cross-rotated-55.avif",
+                "sha256": "6e3a662e613ffa64858388958d6afe6d65f593a0fab4d1f57e92139f45c1d8d0",
+                "w": 55
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 1850,
+                "h": 64,
+                "path": "tiles/plate-22-petal-cross-rotated-55.webp",
+                "sha256": "13789ebdb782a132408085ecf52f9bfec4e73f08584a1be0fd7a35696adb8f12",
+                "w": 55
+              }
+            ]
+          }
+        }
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1489,
+            "h": 55,
+            "path": "avif/plate-22-petal-cross-64.avif",
+            "sha256": "a0eb0f1824635e32e91c8eb8bbf73c24f4902789bbd5d3eb6d5c66603d73a27d",
+            "w": 64
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1842,
+            "h": 55,
+            "path": "webp/plate-22-petal-cross-64.webp",
+            "sha256": "42bb41309d4da7e055c3c89b70f6fafdaf167b171508608f882f5fe8bdbb3ac0",
+            "w": 64
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "petal",
+        "cross",
+        "ring",
+        "rod"
+      ],
+      "thumbhash": "HGkGDoQEmmiHiIij1414V6d2eHififc=",
+      "title": "Dark petal cross border cell",
+      "transparent": false,
+      "type": "border",
+      "usage_notes": [
+        "One period of the plate border; repeat along x for a strip, the build's rotated ladder gives the vertical run.",
+        "The frame atlas puts one panel and link between two corners; use border-image with round fitting."
+      ],
+      "width": 64
+    },
+    "plate-24-gold-ring-scrolls": {
+      "categories": [
+        "geometric",
+        "floral"
+      ],
+      "colors": [
+        "red",
+        "gold",
+        "black",
+        "orange",
+        "cream"
+      ],
+      "components": {
+        "corner": {
+          "description": "Mitred top-left corner, a lobed gold cartouche with two orange discs set on the diagonal and a small fleuron in the outer angle.",
+          "encoding": {
+            "avif": false,
+            "avifTopBytes": 1214,
+            "webpTopBytes": 1364
+          },
+          "master": {
+            "bytes": 5638,
+            "h": 53,
+            "path": "masters/plate-24-gold-ring-scrolls.corner.webp",
+            "sha256": "db71dc7012a41ee93e458997122ef0eae6e09b14c8adde7a94d339d9ddfe51ef",
+            "w": 53
+          },
+          "sources": {
+            "webp": [
+              {
+                "bytes": 1364,
+                "h": 53,
+                "path": "webp/plate-24-gold-ring-scrolls.corner-53.webp",
+                "sha256": "33599f54b34b400d51df771b5272463de59416fb91a68d7160a7e97d0521e214",
+                "w": 53
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "One repeat of a border, two roundels in concentric red, cream and dark red rings, the left one with a black field and the right one with a gold field, each holding an orange disc off centre; between them a small gold ring with a gold fleuron sprouting up and another down. Dark red ground with a thin orange rule along the bottom. The roundels are cut at the sides so the chain continues when repeated. Opaque, no transparent background.",
+      "display_width": [
+        47,
+        94
+      ],
+      "encoding": {
+        "avif": false,
+        "avifTopBytes": 1899,
+        "webpTopBytes": 2230
+      },
+      "facing": "none",
+      "group": null,
+      "height": 53,
+      "master": {
+        "bytes": 9762,
+        "h": 53,
+        "path": "masters/plate-24-gold-ring-scrolls.webp",
+        "sha256": "b8eb426338695bd6568903cef9af39c5ba075b89c4340ad02f799e5c087a2787",
+        "w": 94
+      },
+      "palette": [
+        "#5d110d",
+        "#a03f22",
+        "#ac5946",
+        "#cd9156",
+        "#efdad3"
+      ],
+      "provenance": null,
+      "quality": "Low-resolution master of about 50 px high with dither noise in the flat ground; do not scale up far.",
+      "related": [],
+      "render": {
+        "frame": {
+          "atlas": {
+            "webp": [
+              {
+                "bytes": 2292,
+                "h": 64,
+                "path": "frames/plate-24-gold-ring-scrolls-atlas-64.webp",
+                "sha256": "f45227b607b317360cce673581c0851e7e8287aeb661db2ee53c5d36dcca4a8d",
+                "w": 64
+              },
+              {
+                "bytes": 4092,
+                "h": 96,
+                "path": "frames/plate-24-gold-ring-scrolls-atlas-96.webp",
+                "sha256": "4cdddac30cf9fc2c87cf0da9a78b4acb76147536883c82854148b95b2542c5eb",
+                "w": 96
+              },
+              {
+                "bytes": 6180,
+                "h": 128,
+                "path": "frames/plate-24-gold-ring-scrolls-atlas-128.webp",
+                "sha256": "4dc995f9f143201dc42d3b2f1c5d22eaa55317b7ae32a5f9c57910241e0fe35b",
+                "w": 128
+              },
+              {
+                "bytes": 11408,
+                "h": 192,
+                "path": "frames/plate-24-gold-ring-scrolls-atlas-192.webp",
+                "sha256": "e8a981f841e9cce4f1445240686228af99a2075e83cfd2e14219bcf09b709788",
+                "w": 192
+              },
+              {
+                "bytes": 12410,
+                "h": 200,
+                "path": "frames/plate-24-gold-ring-scrolls-atlas-200.webp",
+                "sha256": "be94d02a48400b8262ee005510d25559ea96e688070352e9e6022d46d51a8223",
+                "w": 200
+              }
+            ]
+          },
+          "corner": "corner",
+          "slice": 26.5
+        },
+        "image": {},
+        "tile": {
+          "axis": "x",
+          "period": 1,
+          "rotated": {
+            "webp": [
+              {
+                "bytes": 1216,
+                "h": 64,
+                "path": "tiles/plate-24-gold-ring-scrolls-rotated-36.webp",
+                "sha256": "0a93832dba6342ebb1cce71a264ba8356007f159d5cff9ea48586467593a7708",
+                "w": 36
+              },
+              {
+                "bytes": 2236,
+                "h": 94,
+                "path": "tiles/plate-24-gold-ring-scrolls-rotated-53.webp",
+                "sha256": "316247db72f10a573a29eac980811a130aa3c9b73e579548479398cbaad66b5c",
+                "w": 53
+              }
+            ]
+          }
+        }
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "webp": [
+          {
+            "bytes": 1216,
+            "h": 36,
+            "path": "webp/plate-24-gold-ring-scrolls-64.webp",
+            "sha256": "a464bedd2b7336e4a4251634cf5ebc2b940e9393989894aa6adccda192ca3a29",
+            "w": 64
+          },
+          {
+            "bytes": 2230,
+            "h": 53,
+            "path": "webp/plate-24-gold-ring-scrolls-94.webp",
+            "sha256": "4de6e677aff2e50d0995bc4f5245667355ec79d76b050e2d823a7e9943195849",
+            "w": 94
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "medallion",
+        "ring",
+        "fleuron",
+        "dot"
+      ],
+      "thumbhash": "k5kGDIJ0Smp3h4egZoZAdQEW6A==",
+      "title": "Two-roundel border cell with fleuron link",
+      "transparent": false,
+      "type": "border",
+      "usage_notes": [
+        "One period of the plate border, two roundels long; repeat along x for a strip, the build's rotated ladder gives the vertical run.",
+        "The frame atlas puts one period between two corners; use border-image with round fitting."
+      ],
+      "width": 94
+    },
+    "plate-29-red-acanthus": {
+      "categories": [
+        "botanical",
+        "scrollwork"
+      ],
+      "colors": [
+        "red",
+        "orange",
+        "tan",
+        "blue",
+        "cream"
+      ],
+      "components": {
+        "corner": {
+          "description": "Small top-left corner square with a blue flower and acanthus fronds turning the angle, cut from the same stem.",
+          "encoding": {
+            "avif": false,
+            "avifTopBytes": 1288,
+            "webpTopBytes": 1208
+          },
+          "master": {
+            "bytes": 4884,
+            "h": 52,
+            "path": "masters/plate-29-red-acanthus.corner.webp",
+            "sha256": "916ccc466e83950f6c5e14f66274e02299a77977c99e81d7da31f57c5e02cc26",
+            "w": 52
+          },
+          "sources": {
+            "webp": [
+              {
+                "bytes": 1208,
+                "h": 52,
+                "path": "webp/plate-29-red-acanthus.corner-52.webp",
+                "sha256": "ae0ba201f2397ca9b37a17c53677ab31e3ac82a92f2ee2ad0261574d6a242918",
+                "w": 52
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "A vertical border repeat, an undulating orange stem outlined in dark red winding up the strip with dark red acanthus fronds springing from it on both sides, two small blue trefoil flowers edged in orange at the bends and small cream ring beads on the stem, over a mottled tan and olive ground. Four times taller than wide; the stem crosses the top and bottom edges so the strip joins when stacked. Opaque, no transparent background.",
+      "display_width": [
+        26,
+        52
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 3440,
+        "webpTopBytes": 4522
+      },
+      "facing": "none",
+      "group": null,
+      "height": 213,
+      "master": {
+        "bytes": 19252,
+        "h": 213,
+        "path": "masters/plate-29-red-acanthus.webp",
+        "sha256": "c5d0c299d306308654260f63bffa3e56b85b47b2be2540d30b0ec168af05965b",
+        "w": 52
+      },
+      "palette": [
+        "#622522",
+        "#9b3e2c",
+        "#89775d",
+        "#66433a",
+        "#655d5f"
+      ],
+      "provenance": null,
+      "quality": "Low-resolution master, 52 px wide, with a noisy mottled ground; do not scale up far.",
+      "related": [],
+      "render": {
+        "frame": {
+          "atlas": {
+            "avif": [
+              {
+                "bytes": 1440,
+                "h": 64,
+                "path": "frames/plate-29-red-acanthus-atlas-64.avif",
+                "sha256": "9b930d331b28bc0c70e907d928be2510c02ad8a10e20502744c80cf3272d0bfd",
+                "w": 64
+              },
+              {
+                "bytes": 3077,
+                "h": 96,
+                "path": "frames/plate-29-red-acanthus-atlas-96.avif",
+                "sha256": "b8e3a0affd9edc4f4182544235ddd799b38eee2e1265e53f99c887e4806b5d62",
+                "w": 96
+              },
+              {
+                "bytes": 4329,
+                "h": 128,
+                "path": "frames/plate-29-red-acanthus-atlas-128.avif",
+                "sha256": "96c684bff444a485bad9e6632122590a10518603e73919d3738e15d6f05ad7b8",
+                "w": 128
+              },
+              {
+                "bytes": 6907,
+                "h": 192,
+                "path": "frames/plate-29-red-acanthus-atlas-192.avif",
+                "sha256": "ab7d357a835c8169e7f9f5b40c0c288b9dbd50687446a73c48b126ead0757513",
+                "w": 192
+              },
+              {
+                "bytes": 10015,
+                "h": 256,
+                "path": "frames/plate-29-red-acanthus-atlas-256.avif",
+                "sha256": "6b5f955a2179a59c9f2b003c209c96afd75911a8ce98a2338580b00aedb4a28a",
+                "w": 256
+              },
+              {
+                "bytes": 14880,
+                "h": 317,
+                "path": "frames/plate-29-red-acanthus-atlas-317.avif",
+                "sha256": "e8f46d39138c709e307ae90d313bd385ea7c36766cbb04f48c86d86e495352d7",
+                "w": 317
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 1430,
+                "h": 64,
+                "path": "frames/plate-29-red-acanthus-atlas-64.webp",
+                "sha256": "2c7e2390934e8f0ed25fba28c9e2a25fea42be7c5e6918bee7c1ccced5d66670",
+                "w": 64
+              },
+              {
+                "bytes": 2742,
+                "h": 96,
+                "path": "frames/plate-29-red-acanthus-atlas-96.webp",
+                "sha256": "e6e4efdc47ad5d5548fbf59028c1f791bd5465758af6977e7bcf35eb3b712aa5",
+                "w": 96
+              },
+              {
+                "bytes": 4946,
+                "h": 128,
+                "path": "frames/plate-29-red-acanthus-atlas-128.webp",
+                "sha256": "89430fdd84a5140e7f57de8e6ca2b39aa82aaef961edac626ef4568327e1c8d5",
+                "w": 128
+              },
+              {
+                "bytes": 8496,
+                "h": 192,
+                "path": "frames/plate-29-red-acanthus-atlas-192.webp",
+                "sha256": "d4c3fe521bb220eec4080cc549196738a38c57b4d3f877c57fcfc719c74112c3",
+                "w": 192
+              },
+              {
+                "bytes": 13794,
+                "h": 256,
+                "path": "frames/plate-29-red-acanthus-atlas-256.webp",
+                "sha256": "4043f40797f6a5aaf99dcfc7a428cdfa417d2c2ab55b13ab07cd3bd1916b0d04",
+                "w": 256
+              },
+              {
+                "bytes": 20294,
+                "h": 317,
+                "path": "frames/plate-29-red-acanthus-atlas-317.webp",
+                "sha256": "7a8209e463fbba1b864b45a48260cefaa0d551a3e1634da8fe230577ae30bcca",
+                "w": 317
+              }
+            ]
+          },
+          "corner": "corner",
+          "slice": 16.4
+        },
+        "image": {},
+        "tile": {
+          "axis": "y",
+          "period": 1,
+          "rotated": {
+            "avif": [
+              {
+                "bytes": 3448,
+                "h": 52,
+                "path": "tiles/plate-29-red-acanthus-rotated-213.avif",
+                "sha256": "9e9e23d583c10b2322cc065a59ac51cfa5e1ce9d734a1547ee83c967a0c8a5f5",
+                "w": 213
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 4516,
+                "h": 52,
+                "path": "tiles/plate-29-red-acanthus-rotated-213.webp",
+                "sha256": "5868ac512244c11eadb60408149f8830fbd82476902e44b4ab15999d090f192b",
+                "w": 213
+              }
+            ]
+          }
+        }
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3440,
+            "h": 213,
+            "path": "avif/plate-29-red-acanthus-52.avif",
+            "sha256": "7168115a0c80326bd007354c93ee9dd4766f2e2a65066bba1c0d3d022441387b",
+            "w": 52
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4522,
+            "h": 213,
+            "path": "webp/plate-29-red-acanthus-52.webp",
+            "sha256": "0c073b8ab188ce40200c5cd74048d9521e15c0ea9e82006077a477ed80a8f3c3",
+            "w": 52
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "acanthus",
+        "stem",
+        "leaf",
+        "flower"
+      ],
+      "thumbhash": "FWkGAgT2iHiMd5iXQQiIcIQ=",
+      "title": "Red acanthus stem vertical border",
+      "transparent": false,
+      "type": "border",
+      "usage_notes": [
+        "Repeats along y; the build's rotated ladder gives the horizontal run.",
+        "The frame atlas puts one full stem period between two corners; use border-image with round fitting. The corner is a small cut piece, so check the join at large sizes."
+      ],
+      "width": 52
+    },
+    "plate-30-layered-palmettes": {
+      "categories": [
+        "botanical",
+        "geometric"
+      ],
+      "colors": [
+        "red",
+        "blue",
+        "orange",
+        "gold",
+        "cream"
+      ],
+      "components": {
+        "corner": {
+          "description": "Mitred top-left corner, an olive palmette fan set on the diagonal with a blue quarter fan in the outer angle.",
+          "encoding": {
+            "avif": true,
+            "avifTopBytes": 1290,
+            "webpTopBytes": 1564
+          },
+          "master": {
+            "bytes": 5826,
+            "h": 55,
+            "path": "masters/plate-30-layered-palmettes.corner.webp",
+            "sha256": "7118f9d5d58425b936ba3fdec70ab0608d8718193c7144c468f63a4e3f4c04e1",
+            "w": 55
+          },
+          "sources": {
+            "avif": [
+              {
+                "bytes": 1290,
+                "h": 55,
+                "path": "avif/plate-30-layered-palmettes.corner-55.avif",
+                "sha256": "c135d8f153875d8c4d1b3c1e377718078196f03c3beeac6c024b9bf110a20fce",
+                "w": 55
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 1564,
+                "h": 55,
+                "path": "webp/plate-30-layered-palmettes.corner-55.webp",
+                "sha256": "c0a8da31308daa5e61bab19652e9d1d1066091d49d079ffdbea684bed33d6296",
+                "w": 55
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "A vertical border repeat, a stack of four overlapping shell-shaped palmettes with radiating ribs and a cream central tongue, their colours changing down the strip from blue to orange and dark red, to gold and blue, to olive grey, with small cream dots in the spandrels between them; orange-red rules edged in cream run down both sides. The stack continues across the top and bottom edges when repeated. Opaque, no transparent background.",
+      "display_width": [
+        28,
+        55
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 2471,
+        "webpTopBytes": 3404
+      },
+      "facing": "none",
+      "group": null,
+      "height": 135,
+      "master": {
+        "bytes": 14312,
+        "h": 135,
+        "path": "masters/plate-30-layered-palmettes.webp",
+        "sha256": "74b640093fca995cc4a44cc122723d8265e736ff6235139331e9d3c771bbe20b",
+        "w": 55
+      },
+      "palette": [
+        "#9d5236",
+        "#b4906e",
+        "#d0c6ba",
+        "#46261a",
+        "#495566"
+      ],
+      "provenance": null,
+      "quality": "Low-resolution master, 55 px wide, with dither noise in the coloured fans; do not scale up far.",
+      "related": [],
+      "render": {
+        "frame": {
+          "atlas": {
+            "avif": [
+              {
+                "bytes": 2203,
+                "h": 64,
+                "path": "frames/plate-30-layered-palmettes-atlas-64.avif",
+                "sha256": "7cdd589eddebc9cee9681e2920cdd14bf92b52c4dbea7fd5a85ccd672407cd2c",
+                "w": 64
+              },
+              {
+                "bytes": 3281,
+                "h": 96,
+                "path": "frames/plate-30-layered-palmettes-atlas-96.avif",
+                "sha256": "99714de06d532c9d0652cfd1eac06e81c25c2d62abb6b4664fbcd0bfe45b5d53",
+                "w": 96
+              },
+              {
+                "bytes": 4614,
+                "h": 128,
+                "path": "frames/plate-30-layered-palmettes-atlas-128.avif",
+                "sha256": "9d67ecab882e1dfc55e84151246288ccf4b0c7c0e089183f57b3de977721ff5b",
+                "w": 128
+              },
+              {
+                "bytes": 8068,
+                "h": 192,
+                "path": "frames/plate-30-layered-palmettes-atlas-192.avif",
+                "sha256": "b2f2ffe4f03fdff26a0895c0aa74c91f545ffd2b2a4f1a3b691c7e8d97d6c6e8",
+                "w": 192
+              },
+              {
+                "bytes": 12038,
+                "h": 245,
+                "path": "frames/plate-30-layered-palmettes-atlas-245.avif",
+                "sha256": "6be4293416481c7fec8ce3de2d8753811f5737c2f49c5a777b91a2cf724ee9ab",
+                "w": 245
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 1910,
+                "h": 64,
+                "path": "frames/plate-30-layered-palmettes-atlas-64.webp",
+                "sha256": "820c7901b581688cb8101f922084cefe52027b5f36bdd6e120cab009932f7c8b",
+                "w": 64
+              },
+              {
+                "bytes": 3730,
+                "h": 96,
+                "path": "frames/plate-30-layered-palmettes-atlas-96.webp",
+                "sha256": "1b70ebe88bb8c44f88e105d8e4ea012830e4267852b417fb4eb3701527d53792",
+                "w": 96
+              },
+              {
+                "bytes": 5852,
+                "h": 128,
+                "path": "frames/plate-30-layered-palmettes-atlas-128.webp",
+                "sha256": "00dd833d837e23265e7c46a6516a6fb2c770088425376f6c641ce335e9e858b6",
+                "w": 128
+              },
+              {
+                "bytes": 11210,
+                "h": 192,
+                "path": "frames/plate-30-layered-palmettes-atlas-192.webp",
+                "sha256": "434446f4c36594bb8ece1e97fbb9e541590acc02f673e93cf05c14d10fe906c6",
+                "w": 192
+              },
+              {
+                "bytes": 17308,
+                "h": 245,
+                "path": "frames/plate-30-layered-palmettes-atlas-245.webp",
+                "sha256": "47707cf5ed1333ef1ab668880903814cf347bf586477aa89e024ae0c2fcdce84",
+                "w": 245
+              }
+            ]
+          },
+          "corner": "corner",
+          "slice": 22.45
+        },
+        "image": {},
+        "tile": {
+          "axis": "y",
+          "period": 1,
+          "rotated": {
+            "avif": [
+              {
+                "bytes": 2518,
+                "h": 55,
+                "path": "tiles/plate-30-layered-palmettes-rotated-135.avif",
+                "sha256": "bf880bf0bf238448e7430d0f6e5a46e4224bc2454a008df730e06348e4583fa4",
+                "w": 135
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 3434,
+                "h": 55,
+                "path": "tiles/plate-30-layered-palmettes-rotated-135.webp",
+                "sha256": "74995c70aac5114184460e93230493f923998efe3639167220fe839a67298ee7",
+                "w": 135
+              }
+            ]
+          }
+        }
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 2471,
+            "h": 135,
+            "path": "avif/plate-30-layered-palmettes-55.avif",
+            "sha256": "0ad147335d6f47c234078c381c02c4e76714fb23094d9ab40e48c8043883ab4f",
+            "w": 55
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 3404,
+            "h": 135,
+            "path": "webp/plate-30-layered-palmettes-55.webp",
+            "sha256": "1a76c4a797934c2f4b068914127b5e3cc39922fd2453177da1ba3cb0d99bf3e3",
+            "w": 55
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "palmette",
+        "shell",
+        "dot"
+      ],
+      "thumbhash": "H0kGEwYIi3eXiHKGxoVwjyg=",
+      "title": "Stacked shell palmette vertical border",
+      "transparent": false,
+      "type": "border",
+      "usage_notes": [
+        "Repeats along y; the build's rotated ladder gives the horizontal run.",
+        "The frame atlas puts one stack of four palmettes between two corners; use border-image with round fitting."
+      ],
+      "width": 55
+    },
+    "plate-31-alternating-florets": {
+      "categories": [
+        "floral",
+        "geometric"
+      ],
+      "colors": [
+        "red",
+        "blue",
+        "brown",
+        "cream",
+        "orange"
+      ],
+      "components": {
+        "corner": {
+          "description": "Top-left corner, the olive leaf-cross cell on cream closing both arms.",
+          "encoding": {
+            "avif": false,
+            "avifTopBytes": 1475,
+            "webpTopBytes": 1648
+          },
+          "master": {
+            "bytes": 5454,
+            "h": 52,
+            "path": "masters/plate-31-alternating-florets.corner.webp",
+            "sha256": "9930085103993b04d119a8908f02537a1d8acdc4c9d8d0f4f63fd967b694b96e",
+            "w": 52
+          },
+          "sources": {
+            "webp": [
+              {
+                "bytes": 1648,
+                "h": 52,
+                "path": "webp/plate-31-alternating-florets.corner-52.webp",
+                "sha256": "92ca935c43a76cae5e244be33e7c707ca0c902f693b0c2ae950471b57b0f6782",
+                "w": 52
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "A border repeat of four square cells, a dark red panel with a cream floret of four C-curled petals and an orange border, a cream panel with an olive-brown four-leaf cross around a blue dot and blue drop accents, the same floret panel with a blue border, and the leaf cross again; a thin orange-red rule runs along the bottom. Nearly four times wider than tall; the cells chain when repeated. Opaque, no transparent background.",
+      "display_width": [
+        96,
+        191
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 3812,
+        "webpTopBytes": 4826
+      },
+      "facing": "none",
+      "group": null,
+      "height": 52,
+      "master": {
+        "bytes": 19240,
+        "h": 52,
+        "path": "masters/plate-31-alternating-florets.webp",
+        "sha256": "aa5a0d95f9f143f27b1b07dbd8e44e33090eae9271afc0d20b6c49c86bd8dcc6",
+        "w": 191
+      },
+      "palette": [
+        "#5e3222",
+        "#5a515a",
+        "#9f7668",
+        "#af998d",
+        "#cdcbc9"
+      ],
+      "provenance": null,
+      "quality": "Low-resolution master, 52 px high, with dither noise in the flat panels; do not scale up far.",
+      "related": [],
+      "render": {
+        "frame": {
+          "atlas": {
+            "avif": [
+              {
+                "bytes": 1585,
+                "h": 64,
+                "path": "frames/plate-31-alternating-florets-atlas-64.avif",
+                "sha256": "02a27fa278b8924e1cf641b9bedd31e35be8cda5d5c33f7abeec0f0f111f991c",
+                "w": 64
+              },
+              {
+                "bytes": 3309,
+                "h": 96,
+                "path": "frames/plate-31-alternating-florets-atlas-96.avif",
+                "sha256": "fc8bdb0f18aa893804b8f2fbda95ce4a697f7837ade60da6fdc8b84bbb72484c",
+                "w": 96
+              },
+              {
+                "bytes": 4526,
+                "h": 128,
+                "path": "frames/plate-31-alternating-florets-atlas-128.avif",
+                "sha256": "a2f3522bf63680b8145eecdfbfeab698d3f5e989f56f2dbfc4d331d340978215",
+                "w": 128
+              },
+              {
+                "bytes": 8958,
+                "h": 192,
+                "path": "frames/plate-31-alternating-florets-atlas-192.avif",
+                "sha256": "ecf4938decd8e73799b3beab9a0f9a29b59566fbcf229eec0608bb43cbd1d102",
+                "w": 192
+              },
+              {
+                "bytes": 12423,
+                "h": 256,
+                "path": "frames/plate-31-alternating-florets-atlas-256.avif",
+                "sha256": "746f8c1587c98264d613945a8253a0ec6fa311e0c46a5ee96b19bfecbe49c066",
+                "w": 256
+              },
+              {
+                "bytes": 16259,
+                "h": 295,
+                "path": "frames/plate-31-alternating-florets-atlas-295.avif",
+                "sha256": "17212aeced93553ec9e94d2c32b780a26e3e0b2f21e3bf9068be707445e9b9b1",
+                "w": 295
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 1860,
+                "h": 64,
+                "path": "frames/plate-31-alternating-florets-atlas-64.webp",
+                "sha256": "da549f594133df6e3bf9f0b965ea0da8e2b875cd234e932c8c2a95516cca0302",
+                "w": 64
+              },
+              {
+                "bytes": 3892,
+                "h": 96,
+                "path": "frames/plate-31-alternating-florets-atlas-96.webp",
+                "sha256": "defe1a9a974a2482f6ffa96facc5534a84060bb39e0295503a84e6b78638ad48",
+                "w": 96
+              },
+              {
+                "bytes": 5754,
+                "h": 128,
+                "path": "frames/plate-31-alternating-florets-atlas-128.webp",
+                "sha256": "8a885f4bcf0c95b56533e166f74818f30e0086ac6475e66898cdf2b7976912e2",
+                "w": 128
+              },
+              {
+                "bytes": 11260,
+                "h": 192,
+                "path": "frames/plate-31-alternating-florets-atlas-192.webp",
+                "sha256": "11ed8194dba07c88ddd544a2041d824f774d36768b16a51ead9f9f66ab47e02f",
+                "w": 192
+              },
+              {
+                "bytes": 17198,
+                "h": 256,
+                "path": "frames/plate-31-alternating-florets-atlas-256.webp",
+                "sha256": "9e07f68616a3367fd0662de2ef8905963905506a534eeb9bdcd945a4ea99541f",
+                "w": 256
+              },
+              {
+                "bytes": 22910,
+                "h": 295,
+                "path": "frames/plate-31-alternating-florets-atlas-295.webp",
+                "sha256": "0a56ae59af8060c7452e697a004462d17e23c37d7d82a0b206977e7d0bbe9942",
+                "w": 295
+              }
+            ]
+          },
+          "corner": "corner",
+          "slice": 17.63
+        },
+        "image": {},
+        "tile": {
+          "axis": "x",
+          "period": 1,
+          "rotated": {
+            "avif": [
+              {
+                "bytes": 961,
+                "h": 64,
+                "path": "tiles/plate-31-alternating-florets-rotated-17.avif",
+                "sha256": "42da1ad5409ee0e41eb864fd59cb90e83b8a11bb3ee5497e111c9a1d0d2ab708",
+                "w": 17
+              },
+              {
+                "bytes": 1592,
+                "h": 96,
+                "path": "tiles/plate-31-alternating-florets-rotated-26.avif",
+                "sha256": "2015187dda9aec6a6d92fa4836d24b56f3221f768a00154610e3ac17039153b5",
+                "w": 26
+              },
+              {
+                "bytes": 2304,
+                "h": 128,
+                "path": "tiles/plate-31-alternating-florets-rotated-35.avif",
+                "sha256": "31de36cd7e6a761cfd9f1ad421ec607f69992b161039fa0c4882bc626d4d86a5",
+                "w": 35
+              },
+              {
+                "bytes": 3827,
+                "h": 191,
+                "path": "tiles/plate-31-alternating-florets-rotated-52.avif",
+                "sha256": "050aa0f305e5d27f8d4ef37656933e6cac005d8daa2ac43f42f17a3799dc23e9",
+                "w": 52
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 866,
+                "h": 64,
+                "path": "tiles/plate-31-alternating-florets-rotated-17.webp",
+                "sha256": "d8fa5a6be3ee0c0f1ce83df6420e772ad3cd52282d4b1beaaff9ba8f0f1a127a",
+                "w": 17
+              },
+              {
+                "bytes": 1690,
+                "h": 96,
+                "path": "tiles/plate-31-alternating-florets-rotated-26.webp",
+                "sha256": "8952f648c1d4340ef5847192b4c5982c892b32193865fc93e6bf0e9ebd892d6a",
+                "w": 26
+              },
+              {
+                "bytes": 2680,
+                "h": 128,
+                "path": "tiles/plate-31-alternating-florets-rotated-35.webp",
+                "sha256": "d87ca2f1f2ba2c85bb6faae042515bd53f998c8514963e3f81b37180ac35ff02",
+                "w": 35
+              },
+              {
+                "bytes": 5002,
+                "h": 191,
+                "path": "tiles/plate-31-alternating-florets-rotated-52.webp",
+                "sha256": "332fa37a3600b3c43cab643bf6e2cc973046bf7c9be4d1610f4cec6d5ffb7a12",
+                "w": 52
+              }
+            ]
+          }
+        }
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1142,
+            "h": 17,
+            "path": "avif/plate-31-alternating-florets-64.avif",
+            "sha256": "19883aae8edb5d802bfc378be19f88e3b5f73c345c1919b5c56bec566dc8034b",
+            "w": 64
+          },
+          {
+            "bytes": 1668,
+            "h": 26,
+            "path": "avif/plate-31-alternating-florets-96.avif",
+            "sha256": "f4073dc3bd86b92121416ac52ffb059f6e058d1ec10ee136b884bf2e9c2d45f2",
+            "w": 96
+          },
+          {
+            "bytes": 2230,
+            "h": 35,
+            "path": "avif/plate-31-alternating-florets-128.avif",
+            "sha256": "5915d2d68673468fae6f2e3800c219fd06dc54e19221c6f485a3443b83257841",
+            "w": 128
+          },
+          {
+            "bytes": 3812,
+            "h": 52,
+            "path": "avif/plate-31-alternating-florets-191.avif",
+            "sha256": "bb989952b5107d26e2528d6c74628dc69b7ed2d6d4d4e9ca99717213128853d1",
+            "w": 191
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 764,
+            "h": 17,
+            "path": "webp/plate-31-alternating-florets-64.webp",
+            "sha256": "a6b82d9ce3555d65be3c44e96ca27c4b7267038b0310d7d75810575ecad336e3",
+            "w": 64
+          },
+          {
+            "bytes": 1642,
+            "h": 26,
+            "path": "webp/plate-31-alternating-florets-96.webp",
+            "sha256": "5b170918ca988a3e235401311bab3925f032ab507723936293c41ebf4b78288f",
+            "w": 96
+          },
+          {
+            "bytes": 2572,
+            "h": 35,
+            "path": "webp/plate-31-alternating-florets-128.webp",
+            "sha256": "c47b37014198146a0fc989a7a51c5bcc8c5acbc4b04e5423b97088c6b2decbc1",
+            "w": 128
+          },
+          {
+            "bytes": 4826,
+            "h": 52,
+            "path": "webp/plate-31-alternating-florets-191.webp",
+            "sha256": "57cd86899e23592a2bb8024695483cb4e08248428319fbb7fd7c06cef0bb6044",
+            "w": 191
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "flower",
+        "leaf",
+        "cross",
+        "dot"
+      ],
+      "thumbhash": "2TgGEoR5Z3V6hweG3oLvPPg=",
+      "title": "Floret and leaf cross border strip",
+      "transparent": false,
+      "type": "border",
+      "usage_notes": [
+        "Repeats along x; the build's rotated ladder gives the vertical run.",
+        "The frame atlas puts the four-cell period between two leaf-cross corners; use border-image with round fitting so whole cells land on each side."
+      ],
+      "width": 191
+    },
+    "plate-32-linked-ovals": {
+      "categories": [
+        "geometric"
+      ],
+      "colors": [
+        "red",
+        "blue",
+        "tan",
+        "cream",
+        "orange"
+      ],
+      "components": {
+        "corner": {
+          "description": "Mitred top-left corner, a ring of arcs turning the angle around a tan square, with a blue leaf in the outer corner.",
+          "encoding": {
+            "avif": true,
+            "avifTopBytes": 1430,
+            "webpTopBytes": 1746
+          },
+          "master": {
+            "bytes": 6058,
+            "h": 55,
+            "path": "masters/plate-32-linked-ovals.corner.webp",
+            "sha256": "5a039439f464573c505384fc8c0d2f455a45441ea47e5b333a144b043e5302dd",
+            "w": 55
+          },
+          "sources": {
+            "avif": [
+              {
+                "bytes": 1430,
+                "h": 55,
+                "path": "avif/plate-32-linked-ovals.corner-55.avif",
+                "sha256": "42010eb786d35e5bb5dfbc524d68d81f584e5d8190b7588a172b0eae519a97ae",
+                "w": 55
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 1746,
+                "h": 55,
+                "path": "webp/plate-32-linked-ovals.corner-55.webp",
+                "sha256": "bbae65833983d378ac4228ea2c923121069926d6c3fe23fc2603614d471756b7",
+                "w": 55
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "One repeat of a border, a chain of rings made of paired C-shaped arcs edged in cream, red arcs on the outer ring and blue arcs on the next, each ring holding an upright oval with a tan centre and an orange rim, and small tan squares linking the rings; dark red ground with a faint olive pattern, orange rules along the top and bottom. Two rings wide, cut through the rings at both sides so the chain continues when repeated. Opaque, no transparent background.",
+      "display_width": [
+        50,
+        100
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 2081,
+        "webpTopBytes": 2782
+      },
+      "facing": "none",
+      "group": null,
+      "height": 55,
+      "master": {
+        "bytes": 10718,
+        "h": 55,
+        "path": "masters/plate-32-linked-ovals.webp",
+        "sha256": "967a4c4cb1f0a1a9723e7b0e1f87059c4698155a8b1a6c52425e6918fa210e0c",
+        "w": 100
+      },
+      "palette": [
+        "#652f1a",
+        "#5a4543",
+        "#868279",
+        "#cb9a6a",
+        "#e2dbd1"
+      ],
+      "provenance": null,
+      "quality": "Low-resolution master, 55 px high, with dither noise in the red ground; do not scale up far.",
+      "related": [],
+      "render": {
+        "frame": {
+          "atlas": {
+            "avif": [
+              {
+                "bytes": 3007,
+                "h": 64,
+                "path": "frames/plate-32-linked-ovals-atlas-64.avif",
+                "sha256": "45f560f994b56e1c0013df7d3395cf4d0c6867fb9d4ae5de430962dfa547480a",
+                "w": 64
+              },
+              {
+                "bytes": 4190,
+                "h": 96,
+                "path": "frames/plate-32-linked-ovals-atlas-96.avif",
+                "sha256": "d1fd18ff1a278887d98d721c7cf651c53939b727074b179da779b11c7b29ccdf",
+                "w": 96
+              },
+              {
+                "bytes": 5690,
+                "h": 128,
+                "path": "frames/plate-32-linked-ovals-atlas-128.avif",
+                "sha256": "78e75b59b07f43a378aab1d1f7dfe8ba9003167f63329a63e41698cac0e85cb2",
+                "w": 128
+              },
+              {
+                "bytes": 9632,
+                "h": 192,
+                "path": "frames/plate-32-linked-ovals-atlas-192.avif",
+                "sha256": "b0961aa99ff75e6a1c4eeec5c5931b57484e22ea82cfe1572fa231ae46d26789",
+                "w": 192
+              },
+              {
+                "bytes": 11760,
+                "h": 210,
+                "path": "frames/plate-32-linked-ovals-atlas-210.avif",
+                "sha256": "b37d7e89225d265da55bbabcbcf6c95b90f71148829422b0bb4609875be61e32",
+                "w": 210
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 2462,
+                "h": 64,
+                "path": "frames/plate-32-linked-ovals-atlas-64.webp",
+                "sha256": "d2195440496bcd53c61494d50e071c133bdadca5a681f8b85079a2f597762113",
+                "w": 64
+              },
+              {
+                "bytes": 4694,
+                "h": 96,
+                "path": "frames/plate-32-linked-ovals-atlas-96.webp",
+                "sha256": "053da2ecdc0f5a16f688b342232c4302649117952c2b7b82503d6c8f3746cf15",
+                "w": 96
+              },
+              {
+                "bytes": 7072,
+                "h": 128,
+                "path": "frames/plate-32-linked-ovals-atlas-128.webp",
+                "sha256": "5b5b92ae5ba769250ca0115096ee88a1dc1a68a4869a2b2c99f4f0894596408e",
+                "w": 128
+              },
+              {
+                "bytes": 13120,
+                "h": 192,
+                "path": "frames/plate-32-linked-ovals-atlas-192.webp",
+                "sha256": "0a4a33558c494dd6025d1fe9a9e48049c8677610c1e4e3136d82edf12576f7a4",
+                "w": 192
+              },
+              {
+                "bytes": 15154,
+                "h": 210,
+                "path": "frames/plate-32-linked-ovals-atlas-210.webp",
+                "sha256": "f6e87069877dbf6d24ca6046fa81c371f3332ddc20096c8f7a8e203db8ebd2c7",
+                "w": 210
+              }
+            ]
+          },
+          "corner": "corner",
+          "slice": 26.19
+        },
+        "image": {},
+        "tile": {
+          "axis": "x",
+          "period": 1,
+          "rotated": {
+            "avif": [
+              {
+                "bytes": 1342,
+                "h": 64,
+                "path": "tiles/plate-32-linked-ovals-rotated-35.avif",
+                "sha256": "1de4a1615a0b699ee74a9cab12799659a50946a77f9eaf4d75ed8f60f1bddd88",
+                "w": 35
+              },
+              {
+                "bytes": 2031,
+                "h": 96,
+                "path": "tiles/plate-32-linked-ovals-rotated-53.avif",
+                "sha256": "e6b5fd42c7f7de7b24cfbde31a062b42320acb27df2ba5beaf9da74de852fdbc",
+                "w": 53
+              },
+              {
+                "bytes": 2128,
+                "h": 100,
+                "path": "tiles/plate-32-linked-ovals-rotated-55.avif",
+                "sha256": "da186e348762eeb271f289edf295e73e7cbfa6bf523d79ff90a55a3de1833595",
+                "w": 55
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 1366,
+                "h": 64,
+                "path": "tiles/plate-32-linked-ovals-rotated-35.webp",
+                "sha256": "11af414f6d74caaf976ab31f713747ea8d2627daf5f431acdf342df9aa0c820f",
+                "w": 35
+              },
+              {
+                "bytes": 2424,
+                "h": 96,
+                "path": "tiles/plate-32-linked-ovals-rotated-53.webp",
+                "sha256": "02673e7ca6af70270e77aa489f3729ebb3ed0ad9fd278d85e76aa90068b985e6",
+                "w": 53
+              },
+              {
+                "bytes": 2762,
+                "h": 100,
+                "path": "tiles/plate-32-linked-ovals-rotated-55.webp",
+                "sha256": "ce3ef65bd065344e8d92dfc2a7be23ec2ee817fe20a19cb950b63777d89a32d2",
+                "w": 55
+              }
+            ]
+          }
+        }
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1311,
+            "h": 35,
+            "path": "avif/plate-32-linked-ovals-64.avif",
+            "sha256": "904e7cbb619d77292555505d4402f232815f674c5174ee4455afea0caa79020e",
+            "w": 64
+          },
+          {
+            "bytes": 2030,
+            "h": 53,
+            "path": "avif/plate-32-linked-ovals-96.avif",
+            "sha256": "a8ceaf0d012331c5a7b974a8f1924929a45d9254cee7e43053e614bb74ffe619",
+            "w": 96
+          },
+          {
+            "bytes": 2081,
+            "h": 55,
+            "path": "avif/plate-32-linked-ovals-100.avif",
+            "sha256": "7f11ef246c86c90f2b920e7013cfdbf38142a762f10a11f490f7ad7b34127e50",
+            "w": 100
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 1328,
+            "h": 35,
+            "path": "webp/plate-32-linked-ovals-64.webp",
+            "sha256": "08bdb2765c6caa9d108d997252c10c3594d94994c2441c759d2a9ed8ac0feb34",
+            "w": 64
+          },
+          {
+            "bytes": 2452,
+            "h": 53,
+            "path": "webp/plate-32-linked-ovals-96.webp",
+            "sha256": "9a8042994cced5ee182b7ffd800c9f1dc1e984908c42d26853c70a5f9ec3dc06",
+            "w": 96
+          },
+          {
+            "bytes": 2782,
+            "h": 55,
+            "path": "webp/plate-32-linked-ovals-100.webp",
+            "sha256": "2ba80db6eeaddf0b0eb8d56c10ee423861ac20a06b819073937f8578dae762fa",
+            "w": 100
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "oval",
+        "ring"
+      ],
+      "thumbhash": "GUkKDIR4+Hd3h3hwd3jIcn9o+A==",
+      "title": "Linked oval border cell",
+      "transparent": false,
+      "type": "border",
+      "usage_notes": [
+        "One period of the plate border; repeat along x for a strip, the build's rotated ladder gives the vertical run.",
+        "The frame atlas puts two rings between two corners; use border-image with round fitting."
+      ],
+      "width": 100
+    },
+    "plate-33-leaf-scrolls": {
+      "categories": [
+        "scrollwork",
+        "botanical"
+      ],
+      "colors": [
+        "cream",
+        "brown",
+        "blue",
+        "red"
+      ],
+      "components": {
+        "corner": {
+          "description": "Mitred top-left corner, the volutes and curls turning the angle on cream with the red rule on the outer sides.",
+          "encoding": {
+            "avif": false,
+            "avifTopBytes": 1580,
+            "webpTopBytes": 1846
+          },
+          "master": {
+            "bytes": 5150,
+            "h": 54,
+            "path": "masters/plate-33-leaf-scrolls.corner.webp",
+            "sha256": "64bdbff0e2a55a725cfc4ca1c8feb22c16dae476c6ada3b7310dea3ce9909928",
+            "w": 54
+          },
+          "sources": {
+            "webp": [
+              {
+                "bytes": 1846,
+                "h": 54,
+                "path": "webp/plate-33-leaf-scrolls.corner-54.webp",
+                "sha256": "36235273fdada89aa33abebdc24446f1921a4df8bf0b8f24c8f0beae1d3f8dce",
+                "w": 54
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "A vertical border repeat on cream, a symmetrical pair of dark olive-brown stems that fork from the centre line into two inward volutes at the bottom and two outward curls with dark red tips higher up, small dark red dashes between them, and a blue three-lobed leaf in each upper corner; a dark red rule runs down each side. The stems continue across the top and bottom edges when repeated. Opaque, no transparent background.",
+      "display_width": [
+        27,
+        54
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 1808,
+        "webpTopBytes": 2212
+      },
+      "facing": "none",
+      "group": null,
+      "height": 71,
+      "master": {
+        "bytes": 7218,
+        "h": 71,
+        "path": "masters/plate-33-leaf-scrolls.webp",
+        "sha256": "36f1273916043f3d80c1153db76892d1c644e80aaae966d78571a4d9a8a6b66e",
+        "w": 54
+      },
+      "palette": [
+        "#e8e6dd",
+        "#35230f",
+        "#444441",
+        "#83482d",
+        "#877f73"
+      ],
+      "provenance": null,
+      "quality": "Low-resolution master, 54 px wide; the stems are one to two pixels wide and blur when scaled.",
+      "related": [],
+      "render": {
+        "frame": {
+          "atlas": {
+            "avif": [
+              {
+                "bytes": 2269,
+                "h": 64,
+                "path": "frames/plate-33-leaf-scrolls-atlas-64.avif",
+                "sha256": "f5ed9c612d07379a2ddd6a414195f1f8243bd205ca4924294808ab227a881c23",
+                "w": 64
+              },
+              {
+                "bytes": 4089,
+                "h": 96,
+                "path": "frames/plate-33-leaf-scrolls-atlas-96.avif",
+                "sha256": "76b437d6ce886d008b9a115eae4b240e31895d5c4f42f935341a2a34e416a93d",
+                "w": 96
+              },
+              {
+                "bytes": 6107,
+                "h": 128,
+                "path": "frames/plate-33-leaf-scrolls-atlas-128.avif",
+                "sha256": "7338dac68a4abc05fe5671cc9b9ba87e19018365e6c6c989b3845ade7b0c0767",
+                "w": 128
+              },
+              {
+                "bytes": 10418,
+                "h": 179,
+                "path": "frames/plate-33-leaf-scrolls-atlas-179.avif",
+                "sha256": "53d87381612c85921808eb68c6297783e442cd041d846db43fc1b39132ca102d",
+                "w": 179
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 2636,
+                "h": 64,
+                "path": "frames/plate-33-leaf-scrolls-atlas-64.webp",
+                "sha256": "bee895df72a58d2f1244e31d364f8306e82d009b907aac1ceb388140c528b475",
+                "w": 64
+              },
+              {
+                "bytes": 5110,
+                "h": 96,
+                "path": "frames/plate-33-leaf-scrolls-atlas-96.webp",
+                "sha256": "3c4a8270ed3099af1e46611ca62bbc0e0cd3b7145067f59085b1c400166bd250",
+                "w": 96
+              },
+              {
+                "bytes": 8184,
+                "h": 128,
+                "path": "frames/plate-33-leaf-scrolls-atlas-128.webp",
+                "sha256": "05248c54b9c598568a7de2a38fc6a71a35f03535dae084b848daf45b020dd622",
+                "w": 128
+              },
+              {
+                "bytes": 13888,
+                "h": 179,
+                "path": "frames/plate-33-leaf-scrolls-atlas-179.webp",
+                "sha256": "cd0265aefc4b78785b48f1bafd4b2d3bfcc2ae912a574f778c2abec5681cc2bd",
+                "w": 179
+              }
+            ]
+          },
+          "corner": "corner",
+          "slice": 30.17
+        },
+        "image": {},
+        "tile": {
+          "axis": "y",
+          "period": 1,
+          "rotated": {
+            "avif": [
+              {
+                "bytes": 1779,
+                "h": 54,
+                "path": "tiles/plate-33-leaf-scrolls-rotated-71.avif",
+                "sha256": "e9a9c73166581a8355316dc0b8e18efb63f58502772d2f8e260f1d843d12bda3",
+                "w": 71
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 2268,
+                "h": 54,
+                "path": "tiles/plate-33-leaf-scrolls-rotated-71.webp",
+                "sha256": "cdc3dca4692551b71d22cb6d59b5e64dc7e5bb1fd8f9be87ac422aad2bf3b905",
+                "w": 71
+              }
+            ]
+          }
+        }
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1808,
+            "h": 71,
+            "path": "avif/plate-33-leaf-scrolls-54.avif",
+            "sha256": "4337726e2f6169ebcbc3fcdabfcf0d333501c5f9dea6f6bddfc7a892b38c6440",
+            "w": 54
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2212,
+            "h": 71,
+            "path": "webp/plate-33-leaf-scrolls-54.webp",
+            "sha256": "e49169d4f13d7291a797db07aaae84282deb2f18e2f606d698255e9d82aafd17",
+            "w": 54
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "scroll",
+        "stem",
+        "leaf"
+      ],
+      "thumbhash": "phgKDQQ5CnqIeIhoh3Zol/JxR19X",
+      "title": "Scrolling stem vertical border",
+      "transparent": false,
+      "type": "border",
+      "usage_notes": [
+        "Repeats along y; the build's rotated ladder gives the horizontal run.",
+        "The frame atlas puts one period between two corners; use border-image with round fitting."
+      ],
+      "width": 54
+    },
+    "plate-34-nested-fans": {
+      "categories": [
+        "geometric"
+      ],
+      "colors": [
+        "cream",
+        "brown",
+        "black",
+        "red"
+      ],
+      "components": {
+        "corner": {
+          "description": "Mitred top-left corner, the nested hairlines folded on the diagonal so the ridges turn the angle.",
+          "encoding": {
+            "avif": false,
+            "avifTopBytes": 1686,
+            "webpTopBytes": 1924
+          },
+          "master": {
+            "bytes": 5306,
+            "h": 52,
+            "path": "masters/plate-34-nested-fans.corner.webp",
+            "sha256": "33c16471204e836b81bc6b10806775ea95b16db0b8c13bebd36dfde0427a669b",
+            "w": 52
+          },
+          "sources": {
+            "webp": [
+              {
+                "bytes": 1924,
+                "h": 52,
+                "path": "webp/plate-34-nested-fans.corner-52.webp",
+                "sha256": "fe81fd9dfca77b7d20fc2e6e893175be514bcf06cb2f2f191c67306a787be1db",
+                "w": 52
+              }
+            ]
+          }
+        }
+      },
+      "composition": "repeat-tile",
+      "description": "A vertical border repeat of tightly nested hairlines in dark olive, cream and dark red that bend into a column of heart-shaped loops, each loop opening downward around the one below it like fingerprint ridges, with narrower loops filling the sides; a brown-red rule runs down each side. The ridges continue across the top and bottom edges when repeated. Opaque, no transparent background.",
+      "display_width": [
+        26,
+        52
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 1927,
+        "webpTopBytes": 2334
+      },
+      "facing": "none",
+      "group": null,
+      "height": 69,
+      "master": {
+        "bytes": 6984,
+        "h": 69,
+        "path": "masters/plate-34-nested-fans.webp",
+        "sha256": "e407ee69b695de1f5ad27f27e74a51876c9b05d9406e88a32376dc6a1e494abf",
+        "w": 52
+      },
+      "palette": [
+        "#38271a",
+        "#715a4a",
+        "#f5ede3",
+        "#a38774",
+        "#c8b9ac"
+      ],
+      "provenance": null,
+      "quality": "Low-resolution master, 52 px wide; the hairlines are one pixel wide and shimmer when scaled, so keep it near master size.",
+      "related": [],
+      "render": {
+        "frame": {
+          "atlas": {
+            "avif": [
+              {
+                "bytes": 1948,
+                "h": 64,
+                "path": "frames/plate-34-nested-fans-atlas-64.avif",
+                "sha256": "9e5954f8d0350c7044a68a88e71777a75cd08cb4f124c2c9f3f64532761e12da",
+                "w": 64
+              },
+              {
+                "bytes": 4096,
+                "h": 96,
+                "path": "frames/plate-34-nested-fans-atlas-96.avif",
+                "sha256": "32c03c1e7a711ca1fdad9db7c6315e2da2812d2543e2d3f78db14ec2ff6916e6",
+                "w": 96
+              },
+              {
+                "bytes": 6746,
+                "h": 128,
+                "path": "frames/plate-34-nested-fans-atlas-128.avif",
+                "sha256": "7eebfec6c4b5461a10de05a73956af8666776f5556bd3ca0d2920918670c0a2e",
+                "w": 128
+              },
+              {
+                "bytes": 11397,
+                "h": 173,
+                "path": "frames/plate-34-nested-fans-atlas-173.avif",
+                "sha256": "a2ebedb64f25bd6f86b348fbd24b6cca799f2e35383c09849898a89b1b526402",
+                "w": 173
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 2330,
+                "h": 64,
+                "path": "frames/plate-34-nested-fans-atlas-64.webp",
+                "sha256": "00ce343a0972c82bf8f7aed6a51ad6ad689058db5c31d2c56265bba3df4ac320",
+                "w": 64
+              },
+              {
+                "bytes": 4976,
+                "h": 96,
+                "path": "frames/plate-34-nested-fans-atlas-96.webp",
+                "sha256": "b35e39b23286ee2f822279ef31f8b98022a41eb8d02d01290d61c5d3beba461e",
+                "w": 96
+              },
+              {
+                "bytes": 8996,
+                "h": 128,
+                "path": "frames/plate-34-nested-fans-atlas-128.webp",
+                "sha256": "a373a2e6694f25676b1dbd5296b0e47fbb7a5fb0ff7a4f1c209eff7edcef1f75",
+                "w": 128
+              },
+              {
+                "bytes": 14870,
+                "h": 173,
+                "path": "frames/plate-34-nested-fans-atlas-173.webp",
+                "sha256": "47bd1b01791f9df0fab57917ea5dd21bd70504a322d9feb713728f3eaef5e476",
+                "w": 173
+              }
+            ]
+          },
+          "corner": "corner",
+          "slice": 30.06
+        },
+        "image": {},
+        "tile": {
+          "axis": "y",
+          "period": 1,
+          "rotated": {
+            "avif": [
+              {
+                "bytes": 1936,
+                "h": 52,
+                "path": "tiles/plate-34-nested-fans-rotated-69.avif",
+                "sha256": "7c4ddd2a8a3ebb225a338f247ac88cf7ed90d5792324dba6f3e1e446fb76d0a2",
+                "w": 69
+              }
+            ],
+            "webp": [
+              {
+                "bytes": 2316,
+                "h": 52,
+                "path": "tiles/plate-34-nested-fans-rotated-69.webp",
+                "sha256": "cb957dc0f4fac9729389c93d46d04262b33c7839626e67d09ee60d47b141db10",
+                "w": 69
+              }
+            ]
+          }
+        }
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 1927,
+            "h": 69,
+            "path": "avif/plate-34-nested-fans-52.avif",
+            "sha256": "1fffef92fb4bd35b2b58941f40ad6d79fe8987dbf5f1cc49d9db37a5589fc1b5",
+            "w": 52
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 2334,
+            "h": 69,
+            "path": "webp/plate-34-nested-fans-52.webp",
+            "sha256": "92279ff686dd9bcbfad0583fbf969f627415ecf06e92d44452c67ddb52b6b94d",
+            "w": 52
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "loop",
+        "fan"
+      ],
+      "thumbhash": "oSgGDQKiIoeIdohYiXCJd+93x2+H",
+      "title": "Nested loop vertical border",
+      "transparent": false,
+      "type": "border",
+      "usage_notes": [
+        "Repeats along y; the build's rotated ladder gives the horizontal run.",
+        "The frame atlas puts one period between two corners; use border-image with round fitting."
+      ],
+      "width": 52
+    },
+    "plate-36-greek-key-corner": {
+      "categories": [
+        "geometric",
+        "scrollwork"
+      ],
+      "colors": [
+        "blue",
+        "green",
+        "red",
+        "gold",
+        "cream"
+      ],
+      "composition": "single-ornament",
+      "description": "An L-shaped top-left corner with two arms of equal length. The outer band is blue with a running cream and gold wave scroll; the inner band is dark olive green with a row of red Greek key cells, each a square meander; thin orange-red rules edged in cream separate the bands and close the edges, and a diagonal mitre joins the two arms at the vertex. The inside of the L is transparent.",
+      "display_width": [
+        60,
+        121
+      ],
+      "encoding": {
+        "avif": false,
+        "avifTopBytes": 3890,
+        "webpTopBytes": 4204
+      },
+      "facing": "none",
+      "group": null,
+      "height": 122,
+      "master": {
+        "bytes": 25458,
+        "h": 122,
+        "path": "masters/plate-36-greek-key-corner.webp",
+        "sha256": "8e9eef65b73f0156623ed63cf48b47edd3fbe1dfdc8ffcc6d70fca35b80ad72b",
+        "w": 121
+      },
+      "palette": [
+        "#4b4947",
+        "#482d1a",
+        "#79462d",
+        "#c6765b",
+        "#877863"
+      ],
+      "provenance": null,
+      "quality": "Low-resolution master of 121 px with dither noise in the green band; do not scale up far.",
+      "related": [],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "webp": [
+          {
+            "bytes": 1442,
+            "h": 65,
+            "path": "webp/plate-36-greek-key-corner-64.webp",
+            "sha256": "66814b2d7e29095eff2a89583504108ec01d90dbc802c52bfe1da01785eb7454",
+            "w": 64
+          },
+          {
+            "bytes": 2714,
+            "h": 97,
+            "path": "webp/plate-36-greek-key-corner-96.webp",
+            "sha256": "c8be90207578d9f05e0a8637dc65abb9343b47875660eb6a39364cdf3659d253",
+            "w": 96
+          },
+          {
+            "bytes": 4204,
+            "h": 122,
+            "path": "webp/plate-36-greek-key-corner-121.webp",
+            "sha256": "c016210ff28a338b9b05ac6ad3afa77a0d26def69be305bdef3f850b7335df29",
+            "w": 121
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "meander",
+        "scroll",
+        "rule"
+      ],
+      "thumbhash": "FDmCDQA7ye2KaI/n1gKEElBKn2Y/l3hXeQ==",
+      "title": "Greek key corner, top-left",
+      "transparent": true,
+      "type": "corner",
+      "usage_notes": [
+        "Place at the top-left of a box; flip or rotate for the other three corners, the pattern is symmetrical about the mitre.",
+        "The arms are cut square at their ends and do not repeat; it is a complete corner, not a border-image atlas."
+      ],
+      "width": 121
+    },
+    "plate-37-zigzag-ribbon-corner": {
+      "categories": [
+        "geometric",
+        "scrollwork",
+        "ribbons"
+      ],
+      "colors": [
+        "gold",
+        "red",
+        "blue",
+        "cream",
+        "tan"
+      ],
+      "composition": "single-ornament",
+      "description": "An L-shaped top-left corner with two arms of equal length. Wide gold-ochre bands run along the outside and inside of each arm; between them a dark red band carries a blue zigzag ribbon edged in cream and tan with a tan C-scroll in every triangle it leaves, and at the vertex a fan of five cream and black darts radiating out of the angle. The inside of the L is transparent.",
+      "display_width": [
+        60,
+        121
+      ],
+      "encoding": {
+        "avif": false,
+        "avifTopBytes": 3523,
+        "webpTopBytes": 3676
+      },
+      "facing": "none",
+      "group": null,
+      "height": 122,
+      "master": {
+        "bytes": 24076,
+        "h": 122,
+        "path": "masters/plate-37-zigzag-ribbon-corner.webp",
+        "sha256": "faf8bc0b3ee26527800a3cb21eb6ee8cc0f3a43fa53e6511b5b52d747a59f553",
+        "w": 121
+      },
+      "palette": [
+        "#9d4f35",
+        "#552f2f",
+        "#c29045",
+        "#bf936f",
+        "#c09050"
+      ],
+      "provenance": null,
+      "quality": "Low-resolution master of 121 px with dither noise in the flat bands; do not scale up far.",
+      "related": [],
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": true,
+      "sources": {
+        "webp": [
+          {
+            "bytes": 1450,
+            "h": 65,
+            "path": "webp/plate-37-zigzag-ribbon-corner-64.webp",
+            "sha256": "b1abd4afa1fc5e0d0e75a8fcdac5ff4f126dc9e9a1b1896ec8cfe79e6ce6094f",
+            "w": 64
+          },
+          {
+            "bytes": 2464,
+            "h": 97,
+            "path": "webp/plate-37-zigzag-ribbon-corner-96.webp",
+            "sha256": "4ddd2fed2935e50b9d634aa379a6db664465931304c4424e20d612195614a4da",
+            "w": 96
+          },
+          {
+            "bytes": 3676,
+            "h": 122,
+            "path": "webp/plate-37-zigzag-ribbon-corner-121.webp",
+            "sha256": "8cf2d14660aa0fa9df8cefbec547334813b73c265ece0ca19a586c3b706ec6d9",
+            "w": 121
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "ribbon",
+        "scroll",
+        "fan"
+      ],
+      "thumbhash": "22mGBQA7eNZneWi4+D9WdfeikGnPZ4hXdg==",
+      "title": "Zigzag ribbon corner, top-left",
+      "transparent": true,
+      "type": "corner",
+      "usage_notes": [
+        "Place at the top-left of a box; flip or rotate for the other three corners, the fan sits on the diagonal.",
+        "The arms are cut square at their ends and do not repeat; it is a complete corner, not a border-image atlas."
+      ],
+      "width": 121
+    }
+  },
+  "attribution": "adrian729",
+  "builtAt": "2026-10-30T12:56:57.223Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-numbered-plate@1.0.0/",
+  "contentHash": "sha256:84c9f253dbc860fa4711ec7a2b1559a2952be3a58c6650b00c9e08a6d75959c8",
+  "inputsHash": "sha256:917e607ff2d3861c27adc9aee2db96ad60f6711589a516e3f91f568e158c95a6",
+  "kind": "imported",
+  "license": {
+    "artwork": "CC-BY-4.0",
+    "notes": "Origin unrecorded; attribution to adrian729. Removed on any rights claim."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-numbered-plate-masters",
+  "package": "@ranx729/ducktape-assets-numbered-plate",
+  "period": "unrecorded",
+  "region": "unrecorded",
+  "schema": 1,
+  "set": "numbered-plate",
+  "style": "engraved ornament plate, vector traced",
+  "summary": "The 38 numbered ornaments cut from one supplied plate of border strips, corners and fillers (scrolls, ribbons, spirals, hearts and curls), a legacy collection whose origin was never recorded; each piece keeps its plate number in its id.",
+  "title": "Numbered plate ornaments",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}

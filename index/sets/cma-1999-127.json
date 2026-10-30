@@ -1,0 +1,253 @@
+{
+  "assets": {
+    "christ-carrying-cross-with-contacting-procession": {
+      "categories": [
+        "humans"
+      ],
+      "colors": [
+        "blue",
+        "red",
+        "gold",
+        "tan",
+        "gray"
+      ],
+      "composition": "multiple-figures",
+      "description": "Christ, barefoot in a blue robe hatched with gold and with a gold halo, walks to the right carrying a large wooden cross over his shoulder. Behind him at the left stand three haloed mourners in blue, white and yellow and a soldier in a red tunic and dark helmet who holds the cross; at the right a man in a tan tunic, red cap and white hood grasps the cross beam and a soldier in a patterned red tunic and dark helmet is seen from behind. Flat colours with gold hatching on a transparent background.",
+      "display_width": [
+        400,
+        1270
+      ],
+      "encoding": {
+        "avif": true,
+        "avifTopBytes": 216035,
+        "webpTopBytes": 376266
+      },
+      "facing": "right",
+      "group": null,
+      "height": 1201,
+      "master": {
+        "bytes": 1728794,
+        "h": 1201,
+        "path": "masters/christ-carrying-cross-with-contacting-procession.webp",
+        "sha256": "90f44768e3f7a125f5a774e0f14adc2de37d63eb8054277006ac991cf00861a0",
+        "w": 1272
+      },
+      "palette": [
+        "#404d6b",
+        "#c55c44",
+        "#d5b88c",
+        "#835b47",
+        "#807871"
+      ],
+      "provenance": {
+        "date": "c. 1410–1420",
+        "image_rights": "CC0-1.0",
+        "image_url": "https://openaccess-cdn.clevelandart.org/1999.127/1999.127_full.tif",
+        "institution": "Cleveland Museum of Art",
+        "method": "ai-assisted-extraction",
+        "object_identifier": "1999.127",
+        "object_title": "Leaf from a Book of Hours: Christ Carrying the Cross (Sext, Hours of the Cross)",
+        "record_url": "https://clevelandart.org/art/1999.127",
+        "rights_url": "https://www.clevelandart.org/open-access",
+        "source_sha256": "13ef7537ef75b004a842d531fefbf1aa807d2cee0c42f4d64223a56c32ce5824"
+      },
+      "render": {
+        "image": {}
+      },
+      "resolutionLimited": false,
+      "sources": {
+        "avif": [
+          {
+            "bytes": 3037,
+            "h": 60,
+            "path": "avif/christ-carrying-cross-with-contacting-procession-64.avif",
+            "sha256": "64a07885ad531700dffd0f319cac583d49d41d1432b968325020eeffe5ed0359",
+            "w": 64
+          },
+          {
+            "bytes": 5211,
+            "h": 91,
+            "path": "avif/christ-carrying-cross-with-contacting-procession-96.avif",
+            "sha256": "b2482e672000ef5780f3b42f19e357115550c8df6b9eed560d653a533c71667f",
+            "w": 96
+          },
+          {
+            "bytes": 7178,
+            "h": 121,
+            "path": "avif/christ-carrying-cross-with-contacting-procession-128.avif",
+            "sha256": "16b3b989c945fd232592b11c65885e58eb645424187d64c3ab688db090c30bd6",
+            "w": 128
+          },
+          {
+            "bytes": 12237,
+            "h": 181,
+            "path": "avif/christ-carrying-cross-with-contacting-procession-192.avif",
+            "sha256": "e21a460f3fc85976a745030e7cbb97faac38e26d0bb05972b8e7b7dfe7f1ecdf",
+            "w": 192
+          },
+          {
+            "bytes": 18747,
+            "h": 242,
+            "path": "avif/christ-carrying-cross-with-contacting-procession-256.avif",
+            "sha256": "e21a8f8ec742b708e1d9ada45e1b9ae0d3563e1bbe64c41ea9445c7bd88b8881",
+            "w": 256
+          },
+          {
+            "bytes": 34257,
+            "h": 363,
+            "path": "avif/christ-carrying-cross-with-contacting-procession-384.avif",
+            "sha256": "6667b128621ac2f4d808b897e718b6f12e8f045c66eba4f14b0b14101d9271e5",
+            "w": 384
+          },
+          {
+            "bytes": 53117,
+            "h": 483,
+            "path": "avif/christ-carrying-cross-with-contacting-procession-512.avif",
+            "sha256": "0b77a45673ed087fdd261444bb1cb562713cd70578e33150f3e98bdc9e1eaa10",
+            "w": 512
+          },
+          {
+            "bytes": 101403,
+            "h": 725,
+            "path": "avif/christ-carrying-cross-with-contacting-procession-768.avif",
+            "sha256": "3baa9b30c6ed62dd6a113118bfa5afd76ae054014200764b3d55fc018aa2c885",
+            "w": 768
+          },
+          {
+            "bytes": 157393,
+            "h": 967,
+            "path": "avif/christ-carrying-cross-with-contacting-procession-1024.avif",
+            "sha256": "f3e89010a02366026a2e808ea84fd7b07346d854bf212acec391f08cf7b0e92a",
+            "w": 1024
+          },
+          {
+            "bytes": 216035,
+            "h": 1201,
+            "path": "avif/christ-carrying-cross-with-contacting-procession-1272.avif",
+            "sha256": "df22244375554200572a90cc19b6038eb8ea434dee21bdb3d2aa28c706423346",
+            "w": 1272
+          }
+        ],
+        "webp": [
+          {
+            "bytes": 4098,
+            "h": 60,
+            "path": "webp/christ-carrying-cross-with-contacting-procession-64.webp",
+            "sha256": "334bd6eddd3cd52f45a2090b0d48f418cd93355258d1e1b2d5547a11f9ca28af",
+            "w": 64
+          },
+          {
+            "bytes": 7452,
+            "h": 91,
+            "path": "webp/christ-carrying-cross-with-contacting-procession-96.webp",
+            "sha256": "d89cf1d360fbb85d01d06c369fc6716eabc894c2d767944640d8e3bec66a2921",
+            "w": 96
+          },
+          {
+            "bytes": 11268,
+            "h": 121,
+            "path": "webp/christ-carrying-cross-with-contacting-procession-128.webp",
+            "sha256": "6533ef43c1dbaa9dbd8f33a15308460356074f1fb62b190f00b799351352d0cb",
+            "w": 128
+          },
+          {
+            "bytes": 20172,
+            "h": 181,
+            "path": "webp/christ-carrying-cross-with-contacting-procession-192.webp",
+            "sha256": "6840f58d59901b6b207bb9ca4c1653289aa3b78e6aca653242462b32933731b7",
+            "w": 192
+          },
+          {
+            "bytes": 30564,
+            "h": 242,
+            "path": "webp/christ-carrying-cross-with-contacting-procession-256.webp",
+            "sha256": "87225ef92d5361c36291f55f8a6ef2ecfed455df2677d567b4782b647c2e3079",
+            "w": 256
+          },
+          {
+            "bytes": 56918,
+            "h": 363,
+            "path": "webp/christ-carrying-cross-with-contacting-procession-384.webp",
+            "sha256": "ac98cca4ae470d98899888c907afe6986e5489e8f6ef6a04d13988a9ac6e2b80",
+            "w": 384
+          },
+          {
+            "bytes": 88518,
+            "h": 483,
+            "path": "webp/christ-carrying-cross-with-contacting-procession-512.webp",
+            "sha256": "d962c9432167752461547d2c8f5d821e73c43d01f6c679ddac6e68b9787b02e8",
+            "w": 512
+          },
+          {
+            "bytes": 169766,
+            "h": 725,
+            "path": "webp/christ-carrying-cross-with-contacting-procession-768.webp",
+            "sha256": "ad3a1861bf7905c702b048d038535036f0bb59ae52ab09e5a38bc5811743ba80",
+            "w": 768
+          },
+          {
+            "bytes": 271434,
+            "h": 967,
+            "path": "webp/christ-carrying-cross-with-contacting-procession-1024.webp",
+            "sha256": "ec37556db79170fa3669bd3b8b71bf9d09f051f6d3c203f50b9039dc1d22db9e",
+            "w": 1024
+          },
+          {
+            "bytes": 376266,
+            "h": 1201,
+            "path": "webp/christ-carrying-cross-with-contacting-procession-1272.webp",
+            "sha256": "f613137e4647b48533ad75f24e5ebd978251ce5c7a8ac74ca2bcbfcc87ec492c",
+            "w": 1272
+          }
+        ]
+      },
+      "status": "approved",
+      "subjects": [
+        "christ",
+        "cross",
+        "soldier",
+        "man",
+        "woman",
+        "halo",
+        "helmet",
+        "robe",
+        "cap"
+      ],
+      "thumbhash": "3kiGFYQpeI++eYdXVvOrNX9InGeWl5B4Vw==",
+      "title": "Christ carrying the cross",
+      "transparent": true,
+      "type": "illustration",
+      "usage_notes": [
+        "The figures touch and overlap, so keep the group whole; the cross beam is the widest element and the feet are the lowest."
+      ],
+      "view": "side",
+      "width": 1272
+    }
+  },
+  "attribution": "Cleveland Museum of Art 1999.127",
+  "builtAt": "2026-10-30T12:37:42.023Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-cma-1999-127@1.0.0/",
+  "contentHash": "sha256:170458aa2aaba68acdd450903500c48d02ae89f3a7475b1c5a8471105d9375ce",
+  "inputsHash": "sha256:6f4555eeb4e2d07ebdaa84aedb1abc77505091976a4a45e38d6040020314b104",
+  "kind": "historical",
+  "license": {
+    "artwork": "CC0-1.0",
+    "notes": "Extracted from Cleveland Museum of Art open access (CC0) images; see SOURCES.md."
+  },
+  "mastersPackage": "@ranx729/ducktape-assets-cma-1999-127-masters",
+  "package": "@ranx729/ducktape-assets-cma-1999-127",
+  "period": "c. 1410–1420",
+  "region": "Brittany (?), France",
+  "schema": 1,
+  "set": "cma-1999-127",
+  "style": "late Gothic illumination",
+  "summary": "A Book of Hours leaf (Hours of the Cross, Sext) painted in Brittany (?) about 1410–1420, in the Cleveland Museum of Art.",
+  "title": "Cleveland 1999.127, Christ Carrying the Cross leaf",
+  "tooling": {
+    "concurrency": 1,
+    "libvips": "8.18.7",
+    "sharp": "0.35.5",
+    "tools": "0.2.0"
+  },
+  "version": "1.0.0"
+}
