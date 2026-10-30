@@ -1,6 +1,6 @@
 # Design: importing the old artwork, and the temporary migration map
 
-Status: proposed, 2026-10-26, revised the same day after owner review. Inputs: [[Investigation/medieval-ornaments]], [[Investigation/Consumers]], [[Investigation/Current asset inventory]].
+Status: proposed, 2026-10-26, revised the same day after owner review. Done 2026-10-30: the import finished with batch 3 (run 41055622299, 50 sets, 725 assets), polyhymnia and elder-scrolls build and test against index 1.6.0, the old library's README carries the superseded notice, and `migration/` was deleted. The map survives in history: the last commit carrying it is 39a2ac9 (https://github.com/adrian729/ducktape-assets/blob/39a2ac9/migration/medieval-ornaments.json), which is the link the old README points at. Inputs: [[Investigation/medieval-ornaments]], [[Investigation/Consumers]], [[Investigation/Current asset inventory]].
 
 What this is and is not. The new library is built fresh: new repos, new ids, new metadata, new packages. Nothing from `medieval-ornaments` is inherited, wrapped or kept compatible. The only thing taken from it is the artwork itself (the lossless masters and the hand-made vectors), because there is no other copy of it, plus the old records as a starting draft that is reviewed and rewritten. The "migration map" is a separate, temporary lookup table that exists so the two existing pages can be pointed at the new ids once; it is kept apart from every package and deleted in a later release.
 
@@ -132,5 +132,5 @@ Decided 2026-10-26: the first wave imports the assets used by polyhymnia and eld
 3. Bootstrap those package names (one passkey window), first publisher run, approve.
 4. Move the two consumers and ship them. Fix whatever this exposes before continuing.
 5. Remaining waves: the rest of the designs, set by set, repos in batches of ten, one tap and one approve per batch.
-6. Mark `medieval-ornaments` as superseded in its README with a link to the migration table. Do not unpublish anything.
-7. After both consumers build against the new library, delete `migration/` in the main repo and note it in the release record.
+6. ~~Mark `medieval-ornaments` as superseded in its README with a link to the migration table. Do not unpublish anything.~~ Done 2026-10-30; the link is a commit permalink, since the directory is gone from `main`.
+7. ~~After both consumers build against the new library, delete `migration/` in the main repo and note it in the release record.~~ Done 2026-10-30, noted in `releases/README.md` rather than in a run's record, because records are written only by the publisher.

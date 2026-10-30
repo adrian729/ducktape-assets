@@ -19,7 +19,6 @@ The main repository of the Ducktape Assets library: the design vault, the JSON S
 ## How to work
 
 - Add assets in the set repository, not here: masters plus `asset.yaml`, run `tools validate && tools build --preview`, open a PR.
-- The `migration/` directory is temporary and nothing imports it. Do not reference it from any package.
 - Markdown prose is never hard-wrapped: one paragraph or list item is one physical line.
 - Tests go only in the five places named in `docs/vault/Design/Testing policy.md`.
 - Prefer deleting over adding. The old library failed by accretion.

@@ -23,7 +23,7 @@ Status: proposed, 2026-10-26. This is the top-level picture. Details live in [[R
                  ┌──────────────────────── ducktape-assets (main repo) ─────────────────────────┐
                  │ vault/ (this)   schemas/   tools/ (CLI: validate, build, plan, publish)       │
                  │ index/ (@ranx729/ducktape-assets: index.json + catalog.json + resolver)       │
-                 │ migration/   .github/workflows/publish.yml  (ONE env-gated job, all packages) │
+                 │ .github/workflows/publish.yml  (ONE env-gated job, all packages)              │
                  └───────────────┬───────────────────────────────────────────────┬──────────────┘
                                  │ scans set repos on manual dispatch             │ publishes
      ┌───────────────────────────▼──────────────┐                                ▼
@@ -52,7 +52,7 @@ Why one repo per set rather than one monorepo: the owner asked for it, each repo
 
 ### Main repository (`adrian729/ducktape-assets`)
 
-Holds this vault, the JSON Schemas, the tooling package, the set registry (`sets.yaml`: id, repo, status, licence summary), the single publishing workflow, and the index package with its generated `README.md`, `AGENTS.md`, `index.json`, `catalog.json` and per-set manifest copies, which together are the one place to look for any asset. The temporary `migration/` directory lives here too, apart from everything else, until it is deleted. It holds no artwork, ever.
+Holds this vault, the JSON Schemas, the tooling package, the set registry (`sets.yaml`: id, repo, status, licence summary), the single publishing workflow, and the index package with its generated `README.md`, `AGENTS.md`, `index.json`, `catalog.json` and per-set manifest copies, which together are the one place to look for any asset. It holds no artwork, ever. (The temporary `migration/` directory lived here, apart from everything else, until its deletion on 2026-10-30; see [[Migration]].)
 
 ### Tooling (`@ranx729/ducktape-assets-tools`, in `tools/`)
 

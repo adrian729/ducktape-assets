@@ -76,9 +76,6 @@ ducktape-assets/
 ├── docs/vault/                  # this Obsidian vault
 ├── schemas/                     # set.schema.json, asset.schema.json, manifest.schema.json, vocab/*.yaml
 ├── sets.yaml                    # registry: id, repo, status (active|frozen|archived), added date
-├── migration/                   # TEMPORARY, see Migration: old → new map and the importer's plan; not part of any package; deleted at a dated milestone
-│   ├── plan.yaml
-│   └── medieval-ornaments.json
 ├── tools/                       # @ranx729/ducktape-assets-tools (Node, sharp, svgo)
 ├── index/                       # @ranx729/ducktape-assets: resolver source + generated README.md, AGENTS.md, index.json, catalog.json, sets/<set>.json (committed so GitHub shows them)
 ├── .github/workflows/

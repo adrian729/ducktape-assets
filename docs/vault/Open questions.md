@@ -42,5 +42,5 @@ Answered on 2026-10-26: jsDelivr serves exact-version npm files with `immutable`
 - JPEG XL as a third format.
 - A React helper package.
 - ~~The reviewed metadata field model.~~ Agreed 2026-10-26, see [[Design/Metadata model]]: three-part flat layout, `period`/`region`/`style`/`quality`/`maintainer`/`display_width`/`view` added, `facing` extended, `banner` type added. Category and colour lists are revisited after the first wave.
-- When exactly to delete `migration/` (proposal: first index release after both consumers build against the new library).
+- ~~When exactly to delete `migration/` (proposal: first index release after both consumers build against the new library).~~ Deleted 2026-10-30, the day both consumers were verified against index 1.6.0; the last commit carrying the map is 39a2ac9, see [[Design/Migration]].
 - Deprecation policy for assets replaced by better extractions (new id plus `deprecated_by`; when to remove from `catalog.json`).
