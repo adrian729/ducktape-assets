@@ -85,13 +85,12 @@ const commands = {
     process.exitCode = outcome.ok ? 0 : 1;
   },
 
-  async import(argv) { const { runImport } = await import('./import.mjs'); await runImport(argv); },
   async 'new-set'(argv) { const { runNewSet } = await import('./new-set.mjs'); await runNewSet(argv); },
   async readme(argv) { const { runReadme } = await import('./readme.mjs'); await runReadme(argv); },
 };
 
 if (!command || command === '--help' || command === '-h') {
-  console.log(`usage: ducktape-assets-tools <command>\n\ncommands:\n  validate [set-repo-dir]   schemas, vocabularies, ids, masters, provenance, licence\n  build <set-repo-dir> --out <dir> [--preview] [--version x.y.z] [--previous manifest.json] [--jobs n] [--include-drafts]\n  plan [--sets a,b] [--cache dir] [--summary file] [--output plan.json]\n  publish [--plan plan.json] [--cache dir] [--record releases] [--dry-run]\n  check-cdn [--plan plan.json] [--record releases] [--retries 6] [--delay 10]\n  import medieval-ornaments --plan migration/plan.yaml --old <dir> --poly <dir> --out <dir> [--wave 1] [--sets a,b] [--dry-run]\n  new-set <id> --title ... --kind ... [--license ...] [--local <parent-dir>] [--github] [--registry sets.yaml]\n  readme <set-repo-dir> [--manifest manifest.json]\n\nplanned: bootstrap, deploy-cdn, sources (the copy command lives in the index package: npx ducktape-assets copy)`);
+  console.log(`usage: ducktape-assets-tools <command>\n\ncommands:\n  validate [set-repo-dir]   schemas, vocabularies, ids, masters, provenance, licence\n  build <set-repo-dir> --out <dir> [--preview] [--version x.y.z] [--previous manifest.json] [--jobs n] [--include-drafts]\n  plan [--sets a,b] [--cache dir] [--summary file] [--output plan.json]\n  publish [--plan plan.json] [--cache dir] [--record releases] [--dry-run]\n  check-cdn [--plan plan.json] [--record releases] [--retries 6] [--delay 10]\n  new-set <id> --title ... --kind ... [--license ...] [--local <parent-dir>] [--github] [--registry sets.yaml]\n  readme <set-repo-dir> [--manifest manifest.json]\n\nplanned: bootstrap, deploy-cdn, sources (the copy command lives in the index package: npx ducktape-assets copy)`);
 } else if (commands[command]) {
   try {
     await commands[command](args);

@@ -1,8 +1,0 @@
-{
-  "name": "importer-dry-run",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "description": "Phase 0 spike: dry-run set plan for the medieval-ornaments import. Throwaway.",
-  "scripts": { "plan": "node plan.mjs" }
-}

@@ -14,6 +14,8 @@ What this is and is not. The new library is built fresh: new repos, new ids, new
 
 ## The importer (`tools import medieval-ornaments`)
 
+Deleted on 2026-10-30 together with its test and the dry-run spike `spikes/importer-dry-run/`, once the import was complete and `migration/` gone (owner: "if they are redundant now, remove"); the last commit carrying them is e4ee6c4. What follows describes how it worked.
+
 Runs locally once, against the old repo's `images.json`, `resource-registry.json`, `resource-lock.json` and the 29 resource checkouts. For each old design it:
 
 1. Resolves the target set and new id from the **set plan** below (a YAML table checked into `migration/plan.yaml`, hand-adjustable).

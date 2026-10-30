@@ -1,6 +1,6 @@
 # Investigation: importer dry run (Phase 0)
 
-Run 2026-10-26 with `spikes/importer-dry-run/plan.mjs` (no dependencies, deterministic: two runs give the same `migration/plan.yaml`). Re-run: `cd spikes/importer-dry-run && node plan.mjs` (`--no-write` prints only). Estimation constants: lossy WebP 0.10 byte/pixel at rung size, AVIF 0.07 (counted only for masters wider than 256 px), lossless masters 0.9 byte/pixel capped at 2048 px long side; 1 MB = 10^6 bytes. The encoding benchmark (same day) replaces these constants with measured ones.
+Run 2026-10-26 with `spikes/importer-dry-run/plan.mjs` (no dependencies, deterministic: two runs give the same `migration/plan.yaml`). The spike and the plan it wrote were deleted on 2026-10-30 after the import completed (last commit carrying them: e4ee6c4); this note keeps the results. Estimation constants: lossy WebP 0.10 byte/pixel at rung size, AVIF 0.07 (counted only for masters wider than 256 px), lossless masters 0.9 byte/pixel capped at 2048 px long side; 1 MB = 10^6 bytes. The encoding benchmark (same day) replaces these constants with measured ones.
 
 ## Headline numbers
 
