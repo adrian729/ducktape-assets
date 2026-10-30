@@ -25,7 +25,7 @@ Run it in a real terminal, never through Claude Code's `!` prefix: that backgrou
 
 If `npm trust` rejects the flags, `npm help trust` shows the current syntax; the two lines are marked ADJUST in the script.
 
-Batch 3 (2026-10-29) is one sitting for 54 names, the owner's decision ("a single release"): the placeholder loop takes about five minutes and the trust loop another five, so expect the passkey prompt two or three times (each `npm trust` call asks again once the five-minute window closes). The script is the same; nothing to pass.
+Batch 3 (2026-10-29) is one sitting for 54 names, the owner's decision ("a single release"): the placeholder loop takes about five minutes and the trust loop another five, so it asked for the passkey five times because the trust loop also re-ran the 47 names that were already trusted (each `npm trust` call asks again once the five-minute window closes, and two of those redundant calls failed on an unanswered browser prompt, which stopped the dispatch although every new name was published and trusted). The script now trusts only the names it published (`--retrust` restores the old behaviour), so a batch of fifty names is one prompt per loop, two in all.
 
 ## Every publish: none
 

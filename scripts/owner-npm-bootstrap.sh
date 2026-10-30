@@ -4,14 +4,17 @@
 # assistant that backgrounds long commands (Claude Code's `!` does after 120 s), nor unattended.
 #
 #   ./scripts/owner-npm-bootstrap.sh              # bootstrap every package name the current plan needs
+#   ./scripts/owner-npm-bootstrap.sh --retrust    # also re-run `npm trust` on every existing name (after a run that stopped early)
 #   ./scripts/owner-npm-bootstrap.sh --test-stage # first: a throwaway test of staged publishing (Phase 0 unknown)
 #
 # What it does, in order:
 #   1. `npm whoami` (log in first with `npm login` if needed; sessions last 2 hours).
 #   2. For each package name not yet on the registry: publish a 0.0.0 placeholder (the first publish prompts for your
 #      passkey once; npmjs.com then offers "skip 2FA for 5 minutes", accept it so the rest of the loop runs unattended).
-#   3. For each: `npm trust github ...` binding the name to adrian729/ducktape-assets, workflow publish.yml, environment
-#      release, with publish allowed (configs created after 2026-09-03 default to stage-only without --allow-publish).
+#   3. For each name published in step 2: `npm trust github ...` binding it to adrian729/ducktape-assets, workflow
+#      publish.yml, environment release, with publish allowed (configs created after 2026-09-03 default to stage-only
+#      without --allow-publish). Each call needs 2FA, so a batch larger than one five-minute window asks again: expect one
+#      passkey prompt per loop for about fifty names.
 #   4. Triggers the publisher workflow (the trust config expires in 2 days if unused). No approval step since 2026-10-26.
 #
 # Flags of `npm trust` were taken from the npm docs on 2026-10-26; if the command rejects them, run `npm help trust` and
@@ -82,19 +85,23 @@ for n in "${missing[@]}"; do
   if (cd "$d" && script -qefc "npm publish --access public" "$log"); then :
   elif grep -q "cannot publish over" "$log"; then echo "  (placeholder already published for $n; continuing)"
   else echo; echo "publish of $n failed; nothing was dispatched. Answer the passkey prompt when it appears (the script needs a real terminal), then rerun."; exit 1; fi
-  sleep 2
 done
 
-# Trust every name, not only the new ones: a name that already exists may still lack its trust config (an earlier run
-# that stopped early, or a placeholder published by hand). npm refuses a duplicate config, which is harmless here.
+# Trust the names published in this run. Every `npm trust` call needs 2FA, and the passkey only opens a five-minute
+# window, so trusting the names that are already trusted (batch 3, 2026-10-30: 47 redundant calls on top of 54 new ones)
+# doubles the number of prompts for nothing. `--retrust` trusts every name instead, for an earlier run that stopped
+# between the publish loop and the trust loop, or a placeholder published by hand; npm refuses a duplicate config, which
+# is reported and harmless.
 trust_failed=0
-for n in "${names[@]}"; do
+to_trust=("${missing[@]}")
+[[ "${1:-}" == "--retrust" ]] && to_trust=("${names[@]}")
+echo "trust configs to create: ${#to_trust[@]}"
+for n in "${to_trust[@]}"; do
   echo "trusting $n"
   log="$PLACEHOLDER_DIR/trust-$(echo "$n" | tr '/@' '__').log"
   if script -qefc "npm trust github '$n' --repo '$REPO' --file '$WORKFLOW' --env '$ENVIRONMENT' --allow-publish --yes" "$log"; then :
   elif grep -qE "E409|already exists" "$log"; then echo "  (trust config exists already for $n)"
   else echo "  trust config NOT created for $n"; trust_failed=$((trust_failed + 1)); fi
-  sleep 2
 done
 if [[ $trust_failed -gt 0 ]]; then
   echo; echo "$trust_failed trust config(s) failed (see above); not dispatching the publisher. Fix the cause (usually: not logged in, or the passkey prompt could not be answered) and rerun."; exit 1
