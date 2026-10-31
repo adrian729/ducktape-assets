@@ -15,8 +15,8 @@
           "description": "Top-left quarter-round corner, the two stems bent through a quarter circle with one gold leaf, meeting the strip's stems at the centre of its right and bottom edges.",
           "encoding": {
             "avif": true,
-            "avifTopBytes": 19865,
-            "webpTopBytes": 33786
+            "avifTopBytes": 19789,
+            "webpTopBytes": 33746
           },
           "master": {
             "bytes": 745,
@@ -28,80 +28,80 @@
           "sources": {
             "avif": [
               {
-                "bytes": 1282,
+                "bytes": 1288,
                 "h": 64,
                 "path": "avif/gold-leaf-scroll.corner-64.avif",
-                "sha256": "ee3e1c61e9f8a9eaa38090cf5de04396386c594ba2b93fea16e6262bbc88172f",
+                "sha256": "e34eeca99c8fc5eb59bc588ff871c61791b3933eee716851b2dcc2e68080da52",
                 "w": 64
               },
               {
-                "bytes": 1654,
+                "bytes": 1660,
                 "h": 96,
                 "path": "avif/gold-leaf-scroll.corner-96.avif",
-                "sha256": "59b0a0f535edb753150cbb3996c14589471971d94be826f5e1f05c5671394fea",
+                "sha256": "2cffc4f30bfebdb83c24d9941209b15a624af44c2517856998384cba064b74ff",
                 "w": 96
               },
               {
-                "bytes": 1847,
+                "bytes": 1874,
                 "h": 128,
                 "path": "avif/gold-leaf-scroll.corner-128.avif",
-                "sha256": "6fc99c57c1bbb05631cccbccb6ab52d1dd953e0e5cbfd5e9f7a4de64b5f2b43c",
+                "sha256": "124327c771142a5125d2cab29098ec6c5c83c8422f33d6c380d1b8570b685c95",
                 "w": 128
               },
               {
-                "bytes": 2673,
+                "bytes": 2660,
                 "h": 192,
                 "path": "avif/gold-leaf-scroll.corner-192.avif",
-                "sha256": "cf952dd0e9c4a00e8bff2394e86e5f5cee4349a2d05120d9fcbb6960322a4f65",
+                "sha256": "4d4cc01598cabd651d8cbcd798c4f1fac74ab32730be1926ad3ad48bdf027a7f",
                 "w": 192
               },
               {
-                "bytes": 3420,
+                "bytes": 3416,
                 "h": 256,
                 "path": "avif/gold-leaf-scroll.corner-256.avif",
-                "sha256": "d6a120f3677dea8767e3f749893382f77d81afffc13a6b53f827ef91fba78cd2",
+                "sha256": "4a2bdc80064faf11372bd82e67bb1c8ed808550f284f6594f4abea0532fbc766",
                 "w": 256
               },
               {
-                "bytes": 5169,
+                "bytes": 5123,
                 "h": 384,
                 "path": "avif/gold-leaf-scroll.corner-384.avif",
-                "sha256": "5f6b97dcbc8338ca65d7741ec73bd765dc94e9d9fbf3f61a311e726d34c8ec11",
+                "sha256": "0c3830a109fc7a5322a7cbc033bcf939224763462487fdc37b84035e40e3fb36",
                 "w": 384
               },
               {
-                "bytes": 7184,
+                "bytes": 7176,
                 "h": 512,
                 "path": "avif/gold-leaf-scroll.corner-512.avif",
-                "sha256": "5b70f642810b6ddd5ab0369b198bb410c8aa61bc2039cdf16ff03bcc31aa5db6",
+                "sha256": "88dff7eecc3f250542e77f590d6aa9a2277d4ca10812f1891bc4219c706a116e",
                 "w": 512
               },
               {
-                "bytes": 10692,
+                "bytes": 10706,
                 "h": 768,
                 "path": "avif/gold-leaf-scroll.corner-768.avif",
-                "sha256": "4126dd9fcb44c8c02e6ad927c759b08719e46af9b99b93d7830bd6a3b89dd0b5",
+                "sha256": "3023d615f770e2c5aed76d4d50a3e80206767c6249c1d4004fdce45cd6d91d2f",
                 "w": 768
               },
               {
-                "bytes": 14606,
+                "bytes": 14501,
                 "h": 1024,
                 "path": "avif/gold-leaf-scroll.corner-1024.avif",
-                "sha256": "f2de53996dd697a170547d78edc776616576f0a520c24b86e73bde8e4de3c810",
+                "sha256": "ff7a9bf8513448d92c07a7a0ac5f49e1304714ffcb5998f32dd21bcaf27e4fbc",
                 "w": 1024
               },
               {
-                "bytes": 22032,
+                "bytes": 22079,
                 "h": 1536,
                 "path": "avif/gold-leaf-scroll.corner-1536.avif",
-                "sha256": "749299911a2bc040393c4123d8ceafa24345c0f8a934cb06008b3914d3ff0645",
+                "sha256": "dbc49d77a794a9b12f728c04791524b9991bb6268810c5f08f27f6fcb1a4935a",
                 "w": 1536
               },
               {
-                "bytes": 19865,
+                "bytes": 19789,
                 "h": 2048,
                 "path": "avif/gold-leaf-scroll.corner-2048.avif",
-                "sha256": "bcf659f7f84dacad74779b97e03c4ea65ce1bfaecb027d7b7a0f2409e95a947d",
+                "sha256": "5e738fbfbd1281cad64c0bbaef686ce9f6202166fbe3f6039eda50d0d3f5cebf",
                 "w": 2048
               }
             ],
@@ -110,77 +110,77 @@
                 "bytes": 1194,
                 "h": 64,
                 "path": "webp/gold-leaf-scroll.corner-64.webp",
-                "sha256": "c127e8bfa3a43ca4f116f6cf32bd63276fd63c19457661c67d0986d237812d9c",
+                "sha256": "5fd027091cf505c6da3827f7897e2b0262c21d3ed24de884be300a0198e9ac53",
                 "w": 64
               },
               {
-                "bytes": 1856,
+                "bytes": 1858,
                 "h": 96,
                 "path": "webp/gold-leaf-scroll.corner-96.webp",
-                "sha256": "35bd6bea9c49cd0345a6657bdb19f7c18e097822f763bd235efcc70cd827dbae",
+                "sha256": "0d12016191da56a432c7256b5033015c31ae92a322b3a0c442e81d62eecf0f7c",
                 "w": 96
               },
               {
-                "bytes": 2606,
+                "bytes": 2604,
                 "h": 128,
                 "path": "webp/gold-leaf-scroll.corner-128.webp",
-                "sha256": "7586fc277f52a53a1c2a63c65e12512eeee5ae8dfaa6fb4a4bfe06fc4338c2da",
+                "sha256": "a62ae56b15253cae9c4e9d33d36e8a98189f60c228e85b8b449ad2452d37761c",
                 "w": 128
               },
               {
-                "bytes": 4048,
+                "bytes": 4046,
                 "h": 192,
                 "path": "webp/gold-leaf-scroll.corner-192.webp",
-                "sha256": "0fa56c37156877411cf597ac97ab6098656ea22262865855e47c4fb19acadb9d",
+                "sha256": "eee8d3e69649bc26398af847a6842b83bb5d88db93b1ee575c9b1a5dd0916504",
                 "w": 192
               },
               {
-                "bytes": 5556,
+                "bytes": 5552,
                 "h": 256,
                 "path": "webp/gold-leaf-scroll.corner-256.webp",
-                "sha256": "27f4e181946b39c87f81e86f4b7cec608e6d2f80aaefe04d9654e8b4c741741c",
+                "sha256": "6e2c97a9d3c740eeca501a6a71eef82edf045f5a739ca6e84d93a1266fddeffe",
                 "w": 256
               },
               {
-                "bytes": 8544,
+                "bytes": 8556,
                 "h": 384,
                 "path": "webp/gold-leaf-scroll.corner-384.webp",
-                "sha256": "2b5481b40906f0994d7ec29e6ca0311a2c2cccec912b25176cf6e9cd173f4677",
+                "sha256": "1545d8a30dafbc8339c90dff4681eab21cadb6e3ea9a8c600d1b3804ea2a6796",
                 "w": 384
               },
               {
-                "bytes": 11826,
+                "bytes": 11828,
                 "h": 512,
                 "path": "webp/gold-leaf-scroll.corner-512.webp",
-                "sha256": "1fce994175dedb48c89dad1ba1f2be97be484e89e351d0a4bb7bf5a51ecedfe6",
+                "sha256": "70c1c7112dcd46aef6987fcaa29878ed917e023cb6bc0b749f339b070ef26d40",
                 "w": 512
               },
               {
-                "bytes": 18142,
+                "bytes": 18080,
                 "h": 768,
                 "path": "webp/gold-leaf-scroll.corner-768.webp",
-                "sha256": "bb301210ce312edeed43d77f734ffc2926bac15d00dd10972c298527df8f3d49",
+                "sha256": "6727a77c0859a91eb0637981a49c436d293457d752eca0298d06df2727ee3445",
                 "w": 768
               },
               {
-                "bytes": 24926,
+                "bytes": 24856,
                 "h": 1024,
                 "path": "webp/gold-leaf-scroll.corner-1024.webp",
-                "sha256": "8a66a1f8da53ce9222f5da7752f221bdde0a6eb842b5be13488cb161929e7fac",
+                "sha256": "5f76f6e3674283b4971c2639f685e13340b3c8c5925c9a803f3978c3d6234fcf",
                 "w": 1024
               },
               {
-                "bytes": 39038,
+                "bytes": 38980,
                 "h": 1536,
                 "path": "webp/gold-leaf-scroll.corner-1536.webp",
-                "sha256": "2d9ff13a6535acefcb35ec24b6c3502a84762a343a295337046b317d68f6e681",
+                "sha256": "77a065fecac9b43e36de24a28abd3fb23381c26801998e63a833dc0cd4e6cec9",
                 "w": 1536
               },
               {
-                "bytes": 33786,
+                "bytes": 33746,
                 "h": 2048,
                 "path": "webp/gold-leaf-scroll.corner-2048.webp",
-                "sha256": "3a6ad094e366e4db869bbadeb7ab6b2606fc9fa2303ae0a2dfda0978f0ce354e",
+                "sha256": "c20bb39225146e782e8ac53d8e419e12405e8d5bec2153f4020a9ffca5038d2e",
                 "w": 2048
               }
             ]
@@ -195,8 +195,8 @@
       ],
       "encoding": {
         "avif": true,
-        "avifTopBytes": 29291,
-        "webpTopBytes": 38330
+        "avifTopBytes": 29356,
+        "webpTopBytes": 38362
       },
       "facing": "none",
       "group": null,
@@ -221,159 +221,159 @@
           "atlas": {
             "avif": [
               {
-                "bytes": 2580,
+                "bytes": 2583,
                 "h": 64,
                 "path": "frames/gold-leaf-scroll-atlas-64.avif",
-                "sha256": "95491bfbd19450a3c4d098015fb82067187ea777e2b1ef5e0c09b7c893d6a3ee",
+                "sha256": "4679a23841b5b38bf20f22f69947103b5b0bb73f8e4158b23f112c017dec08e9",
                 "w": 64
               },
               {
-                "bytes": 4442,
+                "bytes": 4438,
                 "h": 96,
                 "path": "frames/gold-leaf-scroll-atlas-96.avif",
-                "sha256": "6fa48b8586ae6466c10b18bc1d160629df9a1311555d75af038f6145e6652136",
+                "sha256": "fd92d0dc38fc4467225df820b4b277281295afd4bcd82362d49f87bf1f612f19",
                 "w": 96
               },
               {
-                "bytes": 6269,
+                "bytes": 6261,
                 "h": 128,
                 "path": "frames/gold-leaf-scroll-atlas-128.avif",
-                "sha256": "52ef693a6f0c95ce0868bf98d085ccae9a13562c16cdb8d5404a5f94f328cccf",
+                "sha256": "bc95ba43eb897031a36b317211f78220e8428bbff3f1194489ed771ae439151c",
                 "w": 128
               },
               {
-                "bytes": 8699,
+                "bytes": 8645,
                 "h": 192,
                 "path": "frames/gold-leaf-scroll-atlas-192.avif",
-                "sha256": "51b21c624b0f76c256a4bfd11d0ce84e0d12348624a01abcf2c733b1234e4ba0",
+                "sha256": "f4a5b55bd5e022524cca399a77aea75262cd66799a34b7088ae5f7815e8ce7fb",
                 "w": 192
               },
               {
-                "bytes": 12748,
+                "bytes": 12709,
                 "h": 256,
                 "path": "frames/gold-leaf-scroll-atlas-256.avif",
-                "sha256": "c9a315a479b7b812cea95f8bc8591727f2b48cb308b6ff116f0fce62d7e079c5",
+                "sha256": "c7cc933c7a6b37e1a85113fa2d9b96c5717787d094da3bcfbeb70907729ebb7b",
                 "w": 256
               },
               {
-                "bytes": 21137,
+                "bytes": 21194,
                 "h": 384,
                 "path": "frames/gold-leaf-scroll-atlas-384.avif",
-                "sha256": "3ec3069ae063cc4d58245d6c782ea1e8faba4aea67fa00a2af2ac572beccec8c",
+                "sha256": "9e2096c913e6a5c8538914bc5a10d0b01555a7149ce9b420c9f9d84215eb598f",
                 "w": 384
               },
               {
-                "bytes": 29184,
+                "bytes": 29116,
                 "h": 512,
                 "path": "frames/gold-leaf-scroll-atlas-512.avif",
-                "sha256": "2fe3198488b10c2caf01243f32d019330bb9fe20e5bed9c61ff888c6df5c9c08",
+                "sha256": "380526dd67a8dfa26779254bfc2720de77f9be8ced25fab7dfeb9b9b0c6925e0",
                 "w": 512
               },
               {
-                "bytes": 42662,
+                "bytes": 42747,
                 "h": 768,
                 "path": "frames/gold-leaf-scroll-atlas-768.avif",
-                "sha256": "5cf41752c02974a5a7b67c7118df1200df84a523a405bee849be672b4c55db90",
+                "sha256": "6e13daecd841e3f72664391eb237eb0d574400c620e76b5fef8597c8e3f66d11",
                 "w": 768
               },
               {
-                "bytes": 58507,
+                "bytes": 58500,
                 "h": 1024,
                 "path": "frames/gold-leaf-scroll-atlas-1024.avif",
-                "sha256": "34a11d90f20b1d6df70b56a8f8110e3eeb4c6e0ab6c4d8a89dc1af50a6114bde",
+                "sha256": "5e411cfe62af0d01c4237c16f24fd9acca943c3ffb72eb754d802fbc46be512b",
                 "w": 1024
               },
               {
-                "bytes": 84585,
+                "bytes": 84705,
                 "h": 1536,
                 "path": "frames/gold-leaf-scroll-atlas-1536.avif",
-                "sha256": "8651985a7e4736a983e9a2130e654b97bea53d1bdea44c3691217b8f602d545b",
+                "sha256": "45d4c6f3a9c846982a114fb8c269e4cb60894d19c3d3c954f9012dbd5c77536c",
                 "w": 1536
               },
               {
-                "bytes": 128817,
+                "bytes": 128795,
                 "h": 2048,
                 "path": "frames/gold-leaf-scroll-atlas-2048.avif",
-                "sha256": "7769cfb75aa975bc8ceb1e594af8918eac566caff51e4003d98df133abf76f0e",
+                "sha256": "afc48471733e37a86e6d3f0e1359e569b0c01474e4e3e4570b3c186bcf411d8e",
                 "w": 2048
               }
             ],
             "webp": [
               {
-                "bytes": 3114,
+                "bytes": 3116,
                 "h": 64,
                 "path": "frames/gold-leaf-scroll-atlas-64.webp",
-                "sha256": "6692fa41e1d3b110126ac009b67f3306b2a327f27a1eec1fa9b156dfadbd3b7e",
+                "sha256": "19b6c693d0d5d9d345768b795b2526a4715faad82c9b181b13b5abafb5b42c87",
                 "w": 64
               },
               {
-                "bytes": 5620,
+                "bytes": 5622,
                 "h": 96,
                 "path": "frames/gold-leaf-scroll-atlas-96.webp",
-                "sha256": "9ed48ab4a20488209868ffae955e29f00510461c0728a5d0343673e818fa3552",
+                "sha256": "badf4d91263ca912b60fc8469f3a056189581879a62cc453225a637ba662c59d",
                 "w": 96
               },
               {
-                "bytes": 8158,
+                "bytes": 8162,
                 "h": 128,
                 "path": "frames/gold-leaf-scroll-atlas-128.webp",
-                "sha256": "949ffac2bf2bd1f15c6894cf6de747f0b9404677f816f3d9301e9e98e3844fa7",
+                "sha256": "6487eb585fe86014e92cf21a479b975e77dde0d7295c51898d57f05840e625ff",
                 "w": 128
               },
               {
-                "bytes": 12732,
+                "bytes": 12750,
                 "h": 192,
                 "path": "frames/gold-leaf-scroll-atlas-192.webp",
-                "sha256": "9a2936ce58765b41e353b0ec8754b1a1997f8a6feb29b9610e47053df967a449",
+                "sha256": "16f8caf22cdb2cbe00df1e95a51748ce65181f473f806f888d5f4959ee1d2dae",
                 "w": 192
               },
               {
-                "bytes": 18510,
+                "bytes": 18484,
                 "h": 256,
                 "path": "frames/gold-leaf-scroll-atlas-256.webp",
-                "sha256": "9c7fc93d1053ddcd789211d3af4323225f3d5c8b1dda3362085805fee6f728e5",
+                "sha256": "bc31d96e60d4f6c7ab5ba6b90d88d9e7c95bccbacc4999ab393c115db77a502e",
                 "w": 256
               },
               {
-                "bytes": 30558,
+                "bytes": 30570,
                 "h": 384,
                 "path": "frames/gold-leaf-scroll-atlas-384.webp",
-                "sha256": "2656ba331b7e24b37fb76cbf62a2ab188f7df9cc7a58f841933057713d6f7548",
+                "sha256": "cf11d7f304bc0f70655cfeb72e4fe45abc11acaccd671eb0946eb7de15da8135",
                 "w": 384
               },
               {
-                "bytes": 44302,
+                "bytes": 44314,
                 "h": 512,
                 "path": "frames/gold-leaf-scroll-atlas-512.webp",
-                "sha256": "d2d0be348768f6fe3be44eb1f58f5c9e1412eea1c8c4f4a297950d2bfac9fd44",
+                "sha256": "45e214540bfce7663d1b821f1702caebaba84e5ed9ababffca23f7e283b1f0df",
                 "w": 512
               },
               {
-                "bytes": 72886,
+                "bytes": 72906,
                 "h": 768,
                 "path": "frames/gold-leaf-scroll-atlas-768.webp",
-                "sha256": "3118d7b592584be56bbd60d5825b6d58318e728466ad76fc3b5a28d2494e0a21",
+                "sha256": "e67e2389b8462b64ae0293f16c2bfe0447898e05c586cfcd5d7bf211cf241bd2",
                 "w": 768
               },
               {
-                "bytes": 100686,
+                "bytes": 100626,
                 "h": 1024,
                 "path": "frames/gold-leaf-scroll-atlas-1024.webp",
-                "sha256": "b6a87f1c5b647b6c36f312fa9c363bc9e4ff01ce67013eaf4c4f54c3d4927624",
+                "sha256": "539fa0ef48725ec7ae33139c94fe60188c055dad59a40fb3871cb062b479d499",
                 "w": 1024
               },
               {
-                "bytes": 166206,
+                "bytes": 166266,
                 "h": 1536,
                 "path": "frames/gold-leaf-scroll-atlas-1536.webp",
-                "sha256": "1f7b22d60161eb01242b7816b3cd070b79eeab1e55fee58e23209d275223d470",
+                "sha256": "d978e71dd325ab129eeed0fa349fcb1ef586ee5c25174c9a28d72dd296c61b9d",
                 "w": 1536
               },
               {
-                "bytes": 269772,
+                "bytes": 269708,
                 "h": 2048,
                 "path": "frames/gold-leaf-scroll-atlas-2048.webp",
-                "sha256": "4383751bf83e375a9dd4b28f439db584ef3e0cceb78a4866cc588fcf8b0de424",
+                "sha256": "5f37cfaf0af7f4df7c631510ec816f740664bef34e0b8bab4b7f72c4f3b8f56c",
                 "w": 2048
               }
             ]
@@ -388,10 +388,10 @@
           "rotated": {
             "avif": [
               {
-                "bytes": 1461,
+                "bytes": 1465,
                 "h": 64,
                 "path": "tiles/gold-leaf-scroll-rotated-24.avif",
-                "sha256": "06c0a6f1fd1058d463f47934ad383b072ae7ce664204b47372a22052b7bedbf8",
+                "sha256": "44a9e73f13c7176caea3c00c2823dc2e1804d6dd812c6ff57074365e90099295",
                 "w": 24
               },
               {
@@ -402,66 +402,66 @@
                 "w": 36
               },
               {
-                "bytes": 2837,
+                "bytes": 2838,
                 "h": 128,
                 "path": "tiles/gold-leaf-scroll-rotated-48.avif",
-                "sha256": "55132776bd2788f6a96172c058e243878486e304a879ecccb3a3e5056ba59027",
+                "sha256": "45e5cb585ce0c1248ed9a589ec8c510e587516d725f4effda910ab2d1bd94975",
                 "w": 48
               },
               {
-                "bytes": 3998,
+                "bytes": 3984,
                 "h": 192,
                 "path": "tiles/gold-leaf-scroll-rotated-72.avif",
-                "sha256": "97a4418df5714008efa93b4d0f7589892ac81fe9b2b36e2f830970e8084f25f1",
+                "sha256": "9721b916d1634a4610936fcd5d064d30fb5b07abda68f465630914ae1332e987",
                 "w": 72
               },
               {
-                "bytes": 5530,
+                "bytes": 5532,
                 "h": 256,
                 "path": "tiles/gold-leaf-scroll-rotated-96.avif",
-                "sha256": "1aa9bdaa267a634e62249d166acaef0e8a05684d1faf201a952f2fd6f5b64064",
+                "sha256": "4474bea74fce3c023604987cf87e8f6a736ae38d31dfdbdea3028a5058c2dd47",
                 "w": 96
               },
               {
-                "bytes": 7895,
+                "bytes": 7912,
                 "h": 384,
                 "path": "tiles/gold-leaf-scroll-rotated-144.avif",
-                "sha256": "7bf4fd8efb2b1bc4482aa20a33bc3b40c664dbb880302f6ec2d5f36298c35d84",
+                "sha256": "10d3442b8fac534ca951f110b3f776578b50d4b4362a4d02b4b7e61098ea5a81",
                 "w": 144
               },
               {
-                "bytes": 10665,
+                "bytes": 10642,
                 "h": 512,
                 "path": "tiles/gold-leaf-scroll-rotated-192.avif",
-                "sha256": "d4dfbf954e661907f386cc60cd79f169bd5453f23d25c80b36b985b6e49da30c",
+                "sha256": "211fcb2b2238fa1ca51c9cd5361a85aa42e6acaef483a29a4710d6ff69696214",
                 "w": 192
               },
               {
-                "bytes": 17452,
+                "bytes": 17531,
                 "h": 768,
                 "path": "tiles/gold-leaf-scroll-rotated-288.avif",
-                "sha256": "c2f7897b56f3acf6e0e171acf22c2237531e2065f1e73db8e481aa0471bb8fe5",
+                "sha256": "893022aa6556ee1ea42adadb9474449882bf7ab6d623230beeb9c7871f24fa5d",
                 "w": 288
               },
               {
-                "bytes": 22499,
+                "bytes": 22561,
                 "h": 1024,
                 "path": "tiles/gold-leaf-scroll-rotated-384.avif",
-                "sha256": "783037c613000c71c25608fe3f5505dd55b28bcde2fe189fc382657506fabd94",
+                "sha256": "21bc00d143f56698776b9d4ebc7d64f53437ecbc2afe9c1668152e86767dc6ce",
                 "w": 384
               },
               {
-                "bytes": 36103,
+                "bytes": 36144,
                 "h": 1536,
                 "path": "tiles/gold-leaf-scroll-rotated-576.avif",
-                "sha256": "87a5b4959ebc79aa280e517ace125f1eac4d54bc2ffe631130425c5e139ae2df",
+                "sha256": "c63f0a5bf224c0b27d9b68b21c7adc33637f98dedc76e68de3c8daae00b71456",
                 "w": 576
               },
               {
-                "bytes": 27146,
+                "bytes": 27156,
                 "h": 2048,
                 "path": "tiles/gold-leaf-scroll-rotated-768.avif",
-                "sha256": "ecf7e037129b5b60429c2533e137c64635c3349891b73d0143531ce4c58731ef",
+                "sha256": "4191fe7fc3a987fec4122c057a6c37af2027a5371f13e501e8aad8d3fbfbba7e",
                 "w": 768
               }
             ],
@@ -470,77 +470,77 @@
                 "bytes": 1608,
                 "h": 64,
                 "path": "tiles/gold-leaf-scroll-rotated-24.webp",
-                "sha256": "d8b59270c5188d4904cf11b575c4025098057b16e8464ab158c14dc39b04b8d9",
+                "sha256": "0cfa6091f5be1144dba7a68b239231386a7f28cb82d01a052ef7eeb3bc70416a",
                 "w": 24
               },
               {
-                "bytes": 2484,
+                "bytes": 2482,
                 "h": 96,
                 "path": "tiles/gold-leaf-scroll-rotated-36.webp",
-                "sha256": "e9d090260e4f4a96210a52db8c61db1cbbfe5f1932e952a6f9bab2d864488bcc",
+                "sha256": "a303d6782de7bf4601185e8fbae58e92a855c2736c203b421245f90568513d84",
                 "w": 36
               },
               {
-                "bytes": 3242,
+                "bytes": 3240,
                 "h": 128,
                 "path": "tiles/gold-leaf-scroll-rotated-48.webp",
-                "sha256": "61daa99c085b6786e5ce5ceba694ab956dcff9ed06b9d8e8628a6c046a971b3d",
+                "sha256": "93526678ea6a41d5d935087e17bdc85c660b86f66ad5bd6d3b000c2329116ad6",
                 "w": 48
               },
               {
-                "bytes": 5662,
+                "bytes": 5672,
                 "h": 192,
                 "path": "tiles/gold-leaf-scroll-rotated-72.webp",
-                "sha256": "28f2497c964076683e4a543ec6500c786c1c434bc13a2182ee6feb7768c62abc",
+                "sha256": "6bd8728a2bf74735d011baa1bc8d16f2d08dc7f19ffb26a28bd39b611001e7b3",
                 "w": 72
               },
               {
-                "bytes": 7344,
+                "bytes": 7342,
                 "h": 256,
                 "path": "tiles/gold-leaf-scroll-rotated-96.webp",
-                "sha256": "442d3bfb47811aa4ba78eed50c60a89bb3ac6b3336681d41279ca4a63f3826f4",
+                "sha256": "958ccb87b363a36fa177b8cf68c45a3aa5189973dc5116c98eac5dfb6144c7bf",
                 "w": 96
               },
               {
-                "bytes": 12826,
+                "bytes": 12836,
                 "h": 384,
                 "path": "tiles/gold-leaf-scroll-rotated-144.webp",
-                "sha256": "d90aa77bb413968cf667dce639e8ca39ceff98e34461982cb1f4bce4cc499fc6",
+                "sha256": "353b79123b524ace08a458da416cb31524382d095c0cc5e2e11e39a0f2ca6ae7",
                 "w": 144
               },
               {
-                "bytes": 16338,
+                "bytes": 16328,
                 "h": 512,
                 "path": "tiles/gold-leaf-scroll-rotated-192.webp",
-                "sha256": "71ff5d1331c5122641ac705d030b87f146bdcb58c70fe6b6439d4d575cac297c",
+                "sha256": "8563769a099194ca09c6055a7697487547c1189c704d9fcc04d8a0cb9b5ed90b",
                 "w": 192
               },
               {
-                "bytes": 24650,
+                "bytes": 24674,
                 "h": 768,
                 "path": "tiles/gold-leaf-scroll-rotated-288.webp",
-                "sha256": "3f45b488a7cbafb93468ee3d9e8a4f4353a276426c5b6e000ad2c29acf8d9c72",
+                "sha256": "ca15c11e00f841b23a161b31b514c6daee9f9cf1151bafcddba559380a5a9d75",
                 "w": 288
               },
               {
-                "bytes": 34106,
+                "bytes": 34192,
                 "h": 1024,
                 "path": "tiles/gold-leaf-scroll-rotated-384.webp",
-                "sha256": "cd742b372badd98c1d94f5a3271d5c36aefd715ee58478bca581df162c720dca",
+                "sha256": "98a9492273cb4a20668c5017c4b44df3a1b865bfc1c958b9f38d8c386c5e19d3",
                 "w": 384
               },
               {
-                "bytes": 54616,
+                "bytes": 54632,
                 "h": 1536,
                 "path": "tiles/gold-leaf-scroll-rotated-576.webp",
-                "sha256": "b217dc7efa0c46667e725ae7b5b89a121eee1bbe95e8ab1ab4420df36b218953",
+                "sha256": "3112af8251bfab2d9c2d28074cb1a83dafde9b59ceece5319dade496e4c72f35",
                 "w": 576
               },
               {
-                "bytes": 42122,
+                "bytes": 42106,
                 "h": 2048,
                 "path": "tiles/gold-leaf-scroll-rotated-768.webp",
-                "sha256": "feaee76dbbe3a717b6a1915558b4869c95e0e70fc954eb6a2dc41fb8d29aec33",
+                "sha256": "43571743ecf265deea458460fab96289d5536b203f5d46dc35d8687c5d6026b6",
                 "w": 768
               }
             ]
@@ -554,85 +554,85 @@
             "bytes": 1476,
             "h": 24,
             "path": "avif/gold-leaf-scroll-64.avif",
-            "sha256": "3eba484dfc04a4eb046c2b1a9f96f5d1c2573094da923799a45622814f2234b1",
+            "sha256": "2709eca430c7d8dbf28797f6f0fd03660b40c33c07c5bbe97caeb2b931965ab8",
             "w": 64
           },
           {
-            "bytes": 2214,
+            "bytes": 2215,
             "h": 36,
             "path": "avif/gold-leaf-scroll-96.avif",
-            "sha256": "8b5f9b85f43ee5e387fec72d5c2745aec9ebbc1fcd32ec4e9691fbb3d0f867c4",
+            "sha256": "8b94ea7bad1967bb9cc034fb2eca6ddfdfdc3c09491eaf5aa0bfedc05ac47013",
             "w": 96
           },
           {
             "bytes": 2970,
             "h": 48,
             "path": "avif/gold-leaf-scroll-128.avif",
-            "sha256": "98e08ec9339369337f5f9c2f8d12bb8d5d51c44d743eacbd2cedad9c7003d095",
+            "sha256": "a56ca9d698606e0bf2ebf4b9ec321617276920a3e039aa38fcd9f7c9e00de52f",
             "w": 128
           },
           {
-            "bytes": 4094,
+            "bytes": 4092,
             "h": 72,
             "path": "avif/gold-leaf-scroll-192.avif",
-            "sha256": "f5a5aee974063633d8c32f61ee0e97e4efba0b10543e5e31083e15bf18d40895",
+            "sha256": "27c714310da2fab92319e194c7b6e97e82c3050d03a70219db9c1a85b08dc0c5",
             "w": 192
           },
           {
-            "bytes": 5348,
+            "bytes": 5477,
             "h": 96,
             "path": "avif/gold-leaf-scroll-256.avif",
-            "sha256": "7986ee69dd110792103cef81a250558ab38eef9931aa4ed6afbb7dd7b17e46d9",
+            "sha256": "3aec8e131c2afcfcd75fe2486fe8d48a04cb1faf90349dc3156532785a32dcad",
             "w": 256
           },
           {
-            "bytes": 9019,
+            "bytes": 9007,
             "h": 144,
             "path": "avif/gold-leaf-scroll-384.avif",
-            "sha256": "8d46bc68cd93880a322d0398b20c1d058fc039955a1caf1d2c874f58b604ea1e",
+            "sha256": "69c2e338021fd0adbb7b9a5607c9dde90cf21c803bb3b939db508b5f6bc452f0",
             "w": 384
           },
           {
-            "bytes": 12345,
+            "bytes": 12407,
             "h": 192,
             "path": "avif/gold-leaf-scroll-512.avif",
-            "sha256": "725bc046bfb55e2798093617500e60e31e255ff6a79671311cb46fa651071d34",
+            "sha256": "2d48923a7f99abdfe415cba284ffbc7e069bcdc85ea69b9188e3cd94b20e66cc",
             "w": 512
           },
           {
-            "bytes": 17841,
+            "bytes": 17770,
             "h": 288,
             "path": "avif/gold-leaf-scroll-768.avif",
-            "sha256": "3a89b391ef8263e1b5b0c672833f2114ac8b6ea2a393b634e5b41362e791d073",
+            "sha256": "8132448a5c016e7140507ce1ac099cd171c980c1dad7afd5c78aa9da0fece971",
             "w": 768
           },
           {
-            "bytes": 23589,
+            "bytes": 23583,
             "h": 384,
             "path": "avif/gold-leaf-scroll-1024.avif",
-            "sha256": "f794845aa62dfc4bce4625d0f8910117769fe6d21e350eb044a76974c1e4e4e5",
+            "sha256": "a48a98e91d1bf5ef1e7034f2d78f0318a9381277c226c73180b9e8c52d444661",
             "w": 1024
           },
           {
-            "bytes": 37263,
+            "bytes": 37330,
             "h": 576,
             "path": "avif/gold-leaf-scroll-1536.avif",
-            "sha256": "09ab89098d56e74dfef561df187925aeea081648db5b8b85845b6c894195e9ad",
+            "sha256": "9dd9249fe59725cda489c1f4044c8f2d0f4aa202121cbf64d44e8a39d5433bb0",
             "w": 1536
           },
           {
-            "bytes": 29291,
+            "bytes": 29356,
             "h": 768,
             "path": "avif/gold-leaf-scroll-2048.avif",
-            "sha256": "43534b7970c973781cb3892fae5dec9422f9204adc1b152bbf2fb3ed54eb84a6",
+            "sha256": "51daff8c49e4bf6f07f3dbfdc398a6a87e2344005bd75a36016be5440fd3c672",
             "w": 2048
           }
         ],
         "svg": {
-          "bytes": 4243,
+          "bytes": 2766,
           "h": 96,
           "path": "svg/gold-leaf-scroll.svg",
-          "sha256": "3e4e38cb1e27280b01cc51bfd8838159ed33dd8717c620b953ff3e8b1fd8a528",
+          "sha256": "58ea7c0a63c3cdfdc27739094815d590d36a09131f77deefae2bea6ce297b17e",
           "w": 256
         },
         "webp": [
@@ -640,77 +640,77 @@
             "bytes": 1602,
             "h": 24,
             "path": "webp/gold-leaf-scroll-64.webp",
-            "sha256": "45d5661993f5d5d7cd23c61f88833089203f59dcc6da7d6d0eb39cebbeb0177b",
+            "sha256": "caa30249b9c6da059e21a9b81f2b9d1236bd10022518d94aea09e6357828c2d6",
             "w": 64
           },
           {
             "bytes": 2574,
             "h": 36,
             "path": "webp/gold-leaf-scroll-96.webp",
-            "sha256": "644b7739ec2bdb6d9dc59e2d010fd19f85480130e4606ccf70daf88e907ad227",
+            "sha256": "2b17a5a1c73a4d0ba49bc372e237dd2ab66ef77e07dc3d5ae4fd60f53d79bec4",
             "w": 96
           },
           {
             "bytes": 3234,
             "h": 48,
             "path": "webp/gold-leaf-scroll-128.webp",
-            "sha256": "937a235572e08c1799f033153937853ba156d017aae08dc8db6ed364c6f66dd3",
+            "sha256": "8dbc8a8459ae7cb37ebb8a1d440973f38361f4458c4385235b050c9a162d1bd7",
             "w": 128
           },
           {
-            "bytes": 5448,
+            "bytes": 5444,
             "h": 72,
             "path": "webp/gold-leaf-scroll-192.webp",
-            "sha256": "dc223b859a7ca2158225598ff53d03a8fc4edc1060d0271ceae9486c0d20c92b",
+            "sha256": "a79c5e21f3b16f567646d6605b2f95ade8665f8678ada0e85b6fe30e0125e9bd",
             "w": 192
           },
           {
-            "bytes": 6312,
+            "bytes": 6320,
             "h": 96,
             "path": "webp/gold-leaf-scroll-256.webp",
-            "sha256": "393871c994bb511b735e94a84ca2edfb8c467a2fa3140cf118ecd8a2657cf076",
+            "sha256": "3dd35e95f80424553a169a713b140d70af49f49f3a1e824712b7fa0de94e2777",
             "w": 256
           },
           {
-            "bytes": 10352,
+            "bytes": 10348,
             "h": 144,
             "path": "webp/gold-leaf-scroll-384.webp",
-            "sha256": "0121d204a03d9304e502c627d7cbf594404505cc5e226e01f0f934095ffd41a1",
+            "sha256": "f26ad58aa221ecfa80f98262433f8fb7c45179be9f7514bab3ad931dc8edfb48",
             "w": 384
           },
           {
-            "bytes": 13202,
+            "bytes": 13196,
             "h": 192,
             "path": "webp/gold-leaf-scroll-512.webp",
-            "sha256": "02b628f41e73b9058ff607e04a46570181c2bcb90653c8dde26a74a02dccfd5d",
+            "sha256": "2823ed15bfba5c1f0ee9bec07cbf6c8c0433e4a0354372ae97fdf261d6c14a04",
             "w": 512
           },
           {
-            "bytes": 20730,
+            "bytes": 20720,
             "h": 288,
             "path": "webp/gold-leaf-scroll-768.webp",
-            "sha256": "b79c66c360466412f9b84cd5f2e6ca471c215d91a61c3348d49517c375626f77",
+            "sha256": "7ca9406bb38f0c5971abfc9af73ab893e7cb37eef55c04ae22d5a3ead6af781a",
             "w": 768
           },
           {
-            "bytes": 29534,
+            "bytes": 29590,
             "h": 384,
             "path": "webp/gold-leaf-scroll-1024.webp",
-            "sha256": "1033a402205e19823b94483add17f55b6bd446c9df052322e040a440f88096fc",
+            "sha256": "c421c3e8a95274cfa702231660823a12a5e5061312f55f64272dd79c01043ca2",
             "w": 1024
           },
           {
-            "bytes": 47146,
+            "bytes": 47148,
             "h": 576,
             "path": "webp/gold-leaf-scroll-1536.webp",
-            "sha256": "f711c0289290e20fda81b3f79db8b5b998494ad7a37f93813b7a2aa4f4eadd41",
+            "sha256": "5849cc00a5889bd63302ad34f7216082067c2ccafd670f87b5e8a28da0ed5c92",
             "w": 1536
           },
           {
-            "bytes": 38330,
+            "bytes": 38362,
             "h": 768,
             "path": "webp/gold-leaf-scroll-2048.webp",
-            "sha256": "d310d4eb7d639f4710c51954b8fff059cc8a48cb2a04ba20a366c05b865d04c3",
+            "sha256": "2695ccb50025bc0e6b55b742e94529e01f13730d1374aff9e0b447432547c94d",
             "w": 2048
           }
         ]
@@ -746,8 +746,8 @@
           "description": "Top-left quarter-round corner, the stem bent through a quarter circle with one small gold quatrefoil without red dots, meeting the strip's stem at the centre of its right and bottom edges.",
           "encoding": {
             "avif": true,
-            "avifTopBytes": 16728,
-            "webpTopBytes": 31384
+            "avifTopBytes": 16679,
+            "webpTopBytes": 31336
           },
           "master": {
             "bytes": 1188,
@@ -759,159 +759,159 @@
           "sources": {
             "avif": [
               {
-                "bytes": 1162,
+                "bytes": 1161,
                 "h": 64,
                 "path": "avif/gold-quatrefoil-vine.corner-64.avif",
-                "sha256": "98fe38a36a98987d41bae090497ccd0233a33652b8a04d722d2cee3a946f3ee5",
+                "sha256": "2fac6b2d973944da1d3ffb0e89aa753665b3daa3d3fd4d572a343247c142764c",
                 "w": 64
               },
               {
-                "bytes": 1572,
+                "bytes": 1583,
                 "h": 96,
                 "path": "avif/gold-quatrefoil-vine.corner-96.avif",
-                "sha256": "f9fd848924ca37b5881b7d378bfacbaf76f142fa2b7dc1da4c6b5fadaaa30d7c",
+                "sha256": "ae8001f6d9ce1289e4c32658ce06f8766a285060f6d0b91f2a25af7285ca0ac5",
                 "w": 96
               },
               {
-                "bytes": 1634,
+                "bytes": 1675,
                 "h": 128,
                 "path": "avif/gold-quatrefoil-vine.corner-128.avif",
-                "sha256": "4cb6fe0f5294ca5f460f6cd5e9c810ee4b5995cc67337032ddea374d4f27de9b",
+                "sha256": "a87ac17b1e12b1f4d9be2352db2b66442789d7076ee7a367c1dd4f7d863d3006",
                 "w": 128
               },
               {
-                "bytes": 2504,
+                "bytes": 2503,
                 "h": 192,
                 "path": "avif/gold-quatrefoil-vine.corner-192.avif",
-                "sha256": "7943059ac503c6951612e0c026739b5186321727b5e2bf8ceaa4d013d849dbf7",
+                "sha256": "b9a127e93d8e845af341fe2c8c1f59986d2e6d04560ca2efda4ea580acc7c359",
                 "w": 192
               },
               {
-                "bytes": 2992,
+                "bytes": 2995,
                 "h": 256,
                 "path": "avif/gold-quatrefoil-vine.corner-256.avif",
-                "sha256": "c8645a403feaa58ab39d5eac69f68b9c2a533a575a889b60c4b0de13cd62f886",
+                "sha256": "338f7d74bb70741786c59758937368e7fdcced5530c4b1c3a6b9145d4e29f1d5",
                 "w": 256
               },
               {
-                "bytes": 4451,
+                "bytes": 4450,
                 "h": 384,
                 "path": "avif/gold-quatrefoil-vine.corner-384.avif",
-                "sha256": "6518c6f384a4018451d737fc5d9cd1d30af8d11d18091128b409f63ee0c723a5",
+                "sha256": "1a68db14da6cfbeb8327e0e47659a20ef88936d0febf533fb99b9597372b3b4f",
                 "w": 384
               },
               {
-                "bytes": 5901,
+                "bytes": 5917,
                 "h": 512,
                 "path": "avif/gold-quatrefoil-vine.corner-512.avif",
-                "sha256": "de28d660da481277fefac0416a0cc5cd1cf41042fbac6f2cebf3cba5290d5a59",
+                "sha256": "409aaa442299a6b0cd63956baf51577acc15dc4edc97a7c314db48ace638cc68",
                 "w": 512
               },
               {
-                "bytes": 8652,
+                "bytes": 8634,
                 "h": 768,
                 "path": "avif/gold-quatrefoil-vine.corner-768.avif",
-                "sha256": "a1f7d6220a90c317fab1787aa9316e0eebab22fb09cfa8fb0f0abdde877e3cb9",
+                "sha256": "7c75c7b9c3147f2702180a31ad76f204c648714aa8039eceb3ea2804613d76fc",
                 "w": 768
               },
               {
-                "bytes": 11190,
+                "bytes": 11197,
                 "h": 1024,
                 "path": "avif/gold-quatrefoil-vine.corner-1024.avif",
-                "sha256": "70322b72f0f625d76dad0f7e1bdf1f4a1f1fcb1291f1de7cf8a4e95e1646b49b",
+                "sha256": "f23d1b1795418e1a78c0733782616adbe1a00462431b978e4b0d09957c95cee6",
                 "w": 1024
               },
               {
-                "bytes": 16831,
+                "bytes": 16859,
                 "h": 1536,
                 "path": "avif/gold-quatrefoil-vine.corner-1536.avif",
-                "sha256": "b4b0691c142aef1b38d38ca37ea4f734909c4f7b3e8dd8da78984b6dcc8ed6b5",
+                "sha256": "24e9a716d6d1cdb3baa907a8f80d45a0a479a9942ab528d4507d3ed4777dca35",
                 "w": 1536
               },
               {
-                "bytes": 16728,
+                "bytes": 16679,
                 "h": 2048,
                 "path": "avif/gold-quatrefoil-vine.corner-2048.avif",
-                "sha256": "79cb3bdfe46a82f0ea3bd44754dd0cdc6f9e99e04b0070d61e784a899d440840",
+                "sha256": "27eb488e0c916bfb994ce7027d90c0ba3763600c774c98decf8b004809d667ec",
                 "w": 2048
               }
             ],
             "webp": [
               {
-                "bytes": 1082,
+                "bytes": 1076,
                 "h": 64,
                 "path": "webp/gold-quatrefoil-vine.corner-64.webp",
-                "sha256": "644ea359a78300604c1d05a0125817792e91472b06e12ad6141b7f033b657e72",
+                "sha256": "c1eea47fc17a1d8093de25e1ee6b01fc5fbf134ffedf48671f4839b28b51495c",
                 "w": 64
               },
               {
-                "bytes": 1680,
+                "bytes": 1684,
                 "h": 96,
                 "path": "webp/gold-quatrefoil-vine.corner-96.webp",
-                "sha256": "d59338657bd1c15c16ea8ae858cce86591c8464bb124031890bb0b8d1b40ef67",
+                "sha256": "c25abb52461ffd134d1b32865d6fe1593464f71cc287ad9dfaf99e6f061c253e",
                 "w": 96
               },
               {
-                "bytes": 2220,
+                "bytes": 2228,
                 "h": 128,
                 "path": "webp/gold-quatrefoil-vine.corner-128.webp",
-                "sha256": "7ff54e3f0ac7651ab81ce261e55e7840bea5e07c744e6e5a7413bda987c56375",
+                "sha256": "2ca03ba848edea16f8845fe10ecca5fd8a0d4ad8f38b570a968aed402e2263f7",
                 "w": 128
               },
               {
-                "bytes": 3410,
+                "bytes": 3412,
                 "h": 192,
                 "path": "webp/gold-quatrefoil-vine.corner-192.webp",
-                "sha256": "a06d1841bf00fd2479a37b630cc5bbec6aefa05842bc1218851d2c6631f54b0b",
+                "sha256": "b7d85b82cbdd3ffcb190fa4e3033b4ba5ae0b8b5b7dc7f64f1db50f3413923be",
                 "w": 192
               },
               {
                 "bytes": 4550,
                 "h": 256,
                 "path": "webp/gold-quatrefoil-vine.corner-256.webp",
-                "sha256": "9b95e1f7ce4c4e68273a8891895b95370e0129c7995460513121e57dfe58cbce",
+                "sha256": "8a0914a1aff72ef4ae232b5f61a5870bf938843df28e3d9e0e6c88dec555f040",
                 "w": 256
               },
               {
-                "bytes": 7122,
+                "bytes": 7130,
                 "h": 384,
                 "path": "webp/gold-quatrefoil-vine.corner-384.webp",
-                "sha256": "3ae3b31914ddd81f014a6762da2e11c9976201c00f411efa864ee836ddf63cc4",
+                "sha256": "ddb717828d7d1833036bf4cf3e97666b703bd633134bdc6f5f468e5964f382da",
                 "w": 384
               },
               {
-                "bytes": 9752,
+                "bytes": 9768,
                 "h": 512,
                 "path": "webp/gold-quatrefoil-vine.corner-512.webp",
-                "sha256": "9589d78ff710d5379d71bc44cbab3a199cbb790a8cfb934f5307bd79be2ef294",
+                "sha256": "af57a5d2479cfd1ca221a4ae1d2f6ab3392b110f7b0c48b300e815f7bba5fdfb",
                 "w": 512
               },
               {
-                "bytes": 14992,
+                "bytes": 14964,
                 "h": 768,
                 "path": "webp/gold-quatrefoil-vine.corner-768.webp",
-                "sha256": "c23e5f704c4fe2713fec80026a44265cc720f0ef2705e5865d3cdd7834c20518",
+                "sha256": "bc5f26367384e661bfe29ad2c277afd23f18c197c1c7746d8c35f6aa28910ead",
                 "w": 768
               },
               {
-                "bytes": 20518,
+                "bytes": 20500,
                 "h": 1024,
                 "path": "webp/gold-quatrefoil-vine.corner-1024.webp",
-                "sha256": "332552b96690abadfc625b4d3c9fcc8509246f71b8251b21e01862d7ab9904df",
+                "sha256": "60f7f51422c847df597664c52cd7d2470af664c97e8adb2caab09efec4ba2cc0",
                 "w": 1024
               },
               {
-                "bytes": 32350,
+                "bytes": 32300,
                 "h": 1536,
                 "path": "webp/gold-quatrefoil-vine.corner-1536.webp",
-                "sha256": "c3a197e1904a1f935b083bb0bbcce8e9505819f505ff1cee45fe9019704ed2c8",
+                "sha256": "7dabddb23abd07c101b03ad12d4b4d7799c7a3600b24ef9f964483bec47ff145",
                 "w": 1536
               },
               {
-                "bytes": 31384,
+                "bytes": 31336,
                 "h": 2048,
                 "path": "webp/gold-quatrefoil-vine.corner-2048.webp",
-                "sha256": "5f0a446cfd4a0af35a683ff9ad4513281ab51398b37ea394c5921b7221117ce5",
+                "sha256": "8687e8fdd0193ebe353a662ac0844bf1a2f7f2a42674a02e910abaf15ab0f992",
                 "w": 2048
               }
             ]
@@ -926,8 +926,8 @@
       ],
       "encoding": {
         "avif": true,
-        "avifTopBytes": 30586,
-        "webpTopBytes": 47244
+        "avifTopBytes": 30731,
+        "webpTopBytes": 47260
       },
       "facing": "none",
       "group": null,
@@ -952,159 +952,159 @@
           "atlas": {
             "avif": [
               {
-                "bytes": 2446,
+                "bytes": 2451,
                 "h": 64,
                 "path": "frames/gold-quatrefoil-vine-atlas-64.avif",
-                "sha256": "72aad7419746d38ac426e895517fde4e4156e1b04984e6b5d22445a2d8a32a74",
+                "sha256": "3b2c47e052f4a04acc568131e8028b26e025683f0b7643965ebcae04d6428889",
                 "w": 64
               },
               {
-                "bytes": 4694,
+                "bytes": 4697,
                 "h": 96,
                 "path": "frames/gold-quatrefoil-vine-atlas-96.avif",
-                "sha256": "84fbbaff777d21cafc6149a9d8085b3c8a7c81bb0e1f041674de2ff5c30ae771",
+                "sha256": "5d0e1e57f9998adbee42b7bb269aff554b8dc2bba9c8f7e9bb4e007f3d469703",
                 "w": 96
               },
               {
-                "bytes": 5374,
+                "bytes": 5371,
                 "h": 128,
                 "path": "frames/gold-quatrefoil-vine-atlas-128.avif",
-                "sha256": "2823e7c710ccf3d1067dd1ebcd423a48c7a2804fa554c5f2b3b467eb70135e7a",
+                "sha256": "27024be4a66ba6b6d51200224408be79c419be5ca7d3fdbe3b3679a28677849e",
                 "w": 128
               },
               {
-                "bytes": 9557,
+                "bytes": 9591,
                 "h": 192,
                 "path": "frames/gold-quatrefoil-vine-atlas-192.avif",
-                "sha256": "63638494deb9de1639fd99488547da10516fbf9508f5bbfc6aa93b8cb2f547ad",
+                "sha256": "ea6ad0fc387fcea5fb6584f80532a30463be1cf306c2382edb6601480ffdd29d",
                 "w": 192
               },
               {
-                "bytes": 12868,
+                "bytes": 12687,
                 "h": 256,
                 "path": "frames/gold-quatrefoil-vine-atlas-256.avif",
-                "sha256": "163188aa62fc420b574dde49bbbfeb3aedd8114e35ebbcf3d753ab6d1cb8a987",
+                "sha256": "d705ffa27010e5c5f65e745310b3ededdd4518ab7a7956e323945771ef31b1e5",
                 "w": 256
               },
               {
-                "bytes": 20198,
+                "bytes": 20216,
                 "h": 384,
                 "path": "frames/gold-quatrefoil-vine-atlas-384.avif",
-                "sha256": "10d99076c1c9f2a6dda582c62d22a402489458957c7c22a8c62bfba270b26ac3",
+                "sha256": "097111cd441f7e822a09c123c7db911946beb5172d20eaaa8eb59329937da822",
                 "w": 384
               },
               {
-                "bytes": 27522,
+                "bytes": 27586,
                 "h": 512,
                 "path": "frames/gold-quatrefoil-vine-atlas-512.avif",
-                "sha256": "261503ea0cc8c75e470d8b9fd70247f29e6854c9c613dbb8da3b243f52227cfa",
+                "sha256": "4b0491b9111d7f2b5dd823192d76f7be192f74edeb8420c2312094a36036b7a9",
                 "w": 512
               },
               {
-                "bytes": 39313,
+                "bytes": 39344,
                 "h": 768,
                 "path": "frames/gold-quatrefoil-vine-atlas-768.avif",
-                "sha256": "e9355612b0191d85f5700483180e32b717dfa55d01e77ac389fc47a5ae61ea38",
+                "sha256": "cdc7ab7fd99f97a0ff1e89e9ac31824511d640c06331b08237333fc1d6171795",
                 "w": 768
               },
               {
-                "bytes": 49956,
+                "bytes": 49965,
                 "h": 1024,
                 "path": "frames/gold-quatrefoil-vine-atlas-1024.avif",
-                "sha256": "eb53d65036d4088fba38d742346af46a8cff7aaad1cf66e1ea481b048f0a1a55",
+                "sha256": "04d30300912bcbe0cc58bd24fd2ae6b9e6affc0fd0e4f46d2e54496e5ff5eb46",
                 "w": 1024
               },
               {
-                "bytes": 70399,
+                "bytes": 70440,
                 "h": 1536,
                 "path": "frames/gold-quatrefoil-vine-atlas-1536.avif",
-                "sha256": "f23539c042341ca7390e1c433c1b0f73d84bbd0fe3e77a5a8c17e82e1ecc8585",
+                "sha256": "f47159dd279614a0b52b636c50943df3b086897971c08626f7033053f3eeb2a1",
                 "w": 1536
               },
               {
-                "bytes": 95001,
+                "bytes": 94743,
                 "h": 2048,
                 "path": "frames/gold-quatrefoil-vine-atlas-2048.avif",
-                "sha256": "1c4cf072993a738dc34b14dd5c1df190da130db09fd2360d4e4b9f1c14cf90ef",
+                "sha256": "d6fcce653ef7a8f3504e67a28a9378351787d15abfc1cf517484bcc47f0a4fbb",
                 "w": 2048
               }
             ],
             "webp": [
               {
-                "bytes": 3042,
+                "bytes": 3054,
                 "h": 64,
                 "path": "frames/gold-quatrefoil-vine-atlas-64.webp",
-                "sha256": "eb350687933a75070a92d0e66c783d244242a9424ab3b3fd53d9d5a27a2d0f55",
+                "sha256": "c6b004bbf6092bd005621233b8586e224bf46c84338f40dd8e92fee29d3a819c",
                 "w": 64
               },
               {
-                "bytes": 5194,
+                "bytes": 5196,
                 "h": 96,
                 "path": "frames/gold-quatrefoil-vine-atlas-96.webp",
-                "sha256": "6d0871fd0b5009c789df41159157061d432339ebc20736d98207c7d91a7b61c0",
+                "sha256": "dff9d2af350075d48505af24c87e7508064ea01d86a5c9e826a6c9a4061f4b25",
                 "w": 96
               },
               {
-                "bytes": 7646,
+                "bytes": 7648,
                 "h": 128,
                 "path": "frames/gold-quatrefoil-vine-atlas-128.webp",
-                "sha256": "e0823fb63faba73e8db70ef0755d5148c784dd51587e6b09294dd11ee5050822",
+                "sha256": "a5ae72b9cf8535f8017c49e1e4d793ec718df2e3655b56f341e3e974d74aa7d8",
                 "w": 128
               },
               {
-                "bytes": 11984,
+                "bytes": 11982,
                 "h": 192,
                 "path": "frames/gold-quatrefoil-vine-atlas-192.webp",
-                "sha256": "84a2c2895208f13c464fe021d0ada0f56b4cbb0b33bb97d913cc8d27ecdec384",
+                "sha256": "00801865203c7a13458570abf3582e661d50ff883e54992c6866756246b3ca21",
                 "w": 192
               },
               {
-                "bytes": 17264,
+                "bytes": 17240,
                 "h": 256,
                 "path": "frames/gold-quatrefoil-vine-atlas-256.webp",
-                "sha256": "650a0f097c7dae3257972ae478e7e43320d17ee4ac94d231375404a64d45a5a1",
+                "sha256": "2780c2ebf0e74252bb2548b7f246ee20ccc85c2a2d9402da638bfb43ee8c3f17",
                 "w": 256
               },
               {
-                "bytes": 27728,
+                "bytes": 27812,
                 "h": 384,
                 "path": "frames/gold-quatrefoil-vine-atlas-384.webp",
-                "sha256": "4dfd7697e0828523f5b25f9eb55dc92bf32826850caa9c4ba6fd091fbf294544",
+                "sha256": "795c41dc4b68adb0104ad5acf174ff8beeca20931a7ffeb63d77cde825520452",
                 "w": 384
               },
               {
-                "bytes": 39166,
+                "bytes": 39096,
                 "h": 512,
                 "path": "frames/gold-quatrefoil-vine-atlas-512.webp",
-                "sha256": "bd45294f313b5ad8f3c7c1dbb4c0c808d5886ede29b980fcc4f3cbba78e090a4",
+                "sha256": "f0d05b73a8a088505611d9b86b8b65595ad45dfb68044872ced49e3e67a229db",
                 "w": 512
               },
               {
-                "bytes": 62568,
+                "bytes": 62574,
                 "h": 768,
                 "path": "frames/gold-quatrefoil-vine-atlas-768.webp",
-                "sha256": "7f876f5a8a0c0ec2a2a895e9586cc8e9cfe57f6fb7f37d48bf11e50ae6a8d663",
+                "sha256": "239ec2017c8044bf4f090ca6af766ae36bfbfea68be25fa0c93a667f16e3011e",
                 "w": 768
               },
               {
-                "bytes": 88788,
+                "bytes": 88798,
                 "h": 1024,
                 "path": "frames/gold-quatrefoil-vine-atlas-1024.webp",
-                "sha256": "f9cffdd6fb791944fb34e91147ebaaec356f178f3d351cbed5aee5bb604b733f",
+                "sha256": "435c5cef6c6ab32dfc9b13f27f39e2c06d94065aae18dedbc63931ed2b4c72b2",
                 "w": 1024
               },
               {
-                "bytes": 142964,
+                "bytes": 142998,
                 "h": 1536,
                 "path": "frames/gold-quatrefoil-vine-atlas-1536.webp",
-                "sha256": "934748c5dfea45e0200b4ac074849086914f8562c171806fc7205dd5d732d85d",
+                "sha256": "178b794dedc5b1c77738824bbd6f820751ed9948dbe62361c5a29ef474742fc6",
                 "w": 1536
               },
               {
-                "bytes": 212964,
+                "bytes": 213018,
                 "h": 2048,
                 "path": "frames/gold-quatrefoil-vine-atlas-2048.webp",
-                "sha256": "7105f886755b1131d2006b2a8f53dbaf5f173066e5c098cb50dfa3731cf537ee",
+                "sha256": "2aa4756e92cc0842464562c9f2d10207fdf2e7755588c480b503538412f1bdf6",
                 "w": 2048
               }
             ]
@@ -1119,159 +1119,159 @@
           "rotated": {
             "avif": [
               {
-                "bytes": 1519,
+                "bytes": 1523,
                 "h": 64,
                 "path": "tiles/gold-quatrefoil-vine-rotated-24.avif",
-                "sha256": "5c4dae34e2dbc7671d4e2e2e34b3af800d201c59926de32342cce9d8c4c5ec70",
+                "sha256": "378ebf106b71b84815dfac6716dffb079efd8dcf0bb4a4654856d605e40d4db3",
                 "w": 24
               },
               {
-                "bytes": 2222,
+                "bytes": 2226,
                 "h": 96,
                 "path": "tiles/gold-quatrefoil-vine-rotated-36.avif",
-                "sha256": "56d025ff140427a470ae96d6991c83bf13f8b578da7b36c3feb23079b83151b8",
+                "sha256": "c1f0c25ab6c374747753477b25c95dab5b4aa2f356a25831e1bc37de828acbfc",
                 "w": 36
               },
               {
-                "bytes": 3141,
+                "bytes": 3136,
                 "h": 128,
                 "path": "tiles/gold-quatrefoil-vine-rotated-48.avif",
-                "sha256": "947b052d03dfd928393caa769f7b3b08c4d62e82e8a1fc74efd5c9da5c3016f2",
+                "sha256": "a442658362318e3067cee6322ee3ff15943e5388f7bd913f22b4ed7aab717f94",
                 "w": 48
               },
               {
-                "bytes": 4050,
+                "bytes": 4070,
                 "h": 192,
                 "path": "tiles/gold-quatrefoil-vine-rotated-72.avif",
-                "sha256": "94ad7613b46acdcc99728ec98617f75befe53d6c9be6a662d0789081c21603d9",
+                "sha256": "224d2d2da905c7c2083cc9f576c5a4de0c10b4bc2fcd4655b4544bd999eaddda",
                 "w": 72
               },
               {
-                "bytes": 5567,
+                "bytes": 5530,
                 "h": 256,
                 "path": "tiles/gold-quatrefoil-vine-rotated-96.avif",
-                "sha256": "82552f50919b7d5e7f904cbcadb0e36b15fe40fc97d907b27e42045f8a0f7e0d",
+                "sha256": "76c4fcab992e4bf978281dd7763bc77a1d7e4e762e421acdd80e391f8df9fa5a",
                 "w": 96
               },
               {
-                "bytes": 8085,
+                "bytes": 8061,
                 "h": 384,
                 "path": "tiles/gold-quatrefoil-vine-rotated-144.avif",
-                "sha256": "ef35ce806d6f5f2095a9b9e81bb7f145d5b6b32819aaeeaf0bedeedcdbf7a7a1",
+                "sha256": "d6b585a44f805831fe037ef0b906e4e69a20c95be41e5fc8f004423ec023311e",
                 "w": 144
               },
               {
-                "bytes": 10194,
+                "bytes": 10189,
                 "h": 512,
                 "path": "tiles/gold-quatrefoil-vine-rotated-192.avif",
-                "sha256": "a0a77466050424eb71ec4f41089d78a2dd37d64a75750ee8621895bf0ed84227",
+                "sha256": "4238a3b6d2c9fd87b9e512bd0e1287d1d01b3379bd7f5c71c9daf93ac327324d",
                 "w": 192
               },
               {
-                "bytes": 16498,
+                "bytes": 16462,
                 "h": 768,
                 "path": "tiles/gold-quatrefoil-vine-rotated-288.avif",
-                "sha256": "81a8bea93c2b7861fbed39c8ffe9e7678e2d859647e282a2e85ccaa40533feb6",
+                "sha256": "76f76e77634fe455b3a6590a237e5dbb954e2abaf147e08e6b79928acf9de842",
                 "w": 288
               },
               {
-                "bytes": 20879,
+                "bytes": 21026,
                 "h": 1024,
                 "path": "tiles/gold-quatrefoil-vine-rotated-384.avif",
-                "sha256": "e83b70a6251ca50564b2047522ed459ebe683cbb892e877744efadf1e67425df",
+                "sha256": "7eb50d8bc9b98366da335584c1a2c0f7d4bb274272ceba9bcd25db878934579e",
                 "w": 384
               },
               {
-                "bytes": 29734,
+                "bytes": 29763,
                 "h": 1536,
                 "path": "tiles/gold-quatrefoil-vine-rotated-576.avif",
-                "sha256": "f29fe2fbdd9508d5548d29f61e576616c8331baa94f7d89a9151a6c457ba4cef",
+                "sha256": "e64ae19b6fa3613473e2da49a85714c7cbf8f8dbff695cd8d22e9814dc7003e6",
                 "w": 576
               },
               {
-                "bytes": 30580,
+                "bytes": 30376,
                 "h": 2048,
                 "path": "tiles/gold-quatrefoil-vine-rotated-768.avif",
-                "sha256": "bee19691cff9d1b961a6789f17121b0e97c8505e56a3639b93811bbe2f965cea",
+                "sha256": "48ddda3988a3563c6a8fcabc226ad88022c93bb4166dd7b67adb689fc280cf90",
                 "w": 768
               }
             ],
             "webp": [
               {
-                "bytes": 1396,
+                "bytes": 1398,
                 "h": 64,
                 "path": "tiles/gold-quatrefoil-vine-rotated-24.webp",
-                "sha256": "1898213083689dbd132e7830cfa8a2001ce950413e84d2c055a499f649e1e6c4",
+                "sha256": "a0d1e708521e9f36ca043ced8c266e44cfa7145b0a415955dd0d78a742248f08",
                 "w": 24
               },
               {
                 "bytes": 2226,
                 "h": 96,
                 "path": "tiles/gold-quatrefoil-vine-rotated-36.webp",
-                "sha256": "e9c7efb05ffed0f54946e4c37d751428b0cfa7dfcf5a03f6ea3618d3dbc0f6ac",
+                "sha256": "3af1735dc678fe4a71b505d77a2001812e94663019a319cd96ac3f37e7493d76",
                 "w": 36
               },
               {
-                "bytes": 2966,
+                "bytes": 2970,
                 "h": 128,
                 "path": "tiles/gold-quatrefoil-vine-rotated-48.webp",
-                "sha256": "0f6285165f43cfaf28e02a4933e6baf3632fddb3716814240e620a3f6dbc3c4b",
+                "sha256": "3b2db164e377f62b5d716becdc7c42c2e1763f69a2680b84730c888b8b6f8cf9",
                 "w": 48
               },
               {
-                "bytes": 4946,
+                "bytes": 4968,
                 "h": 192,
                 "path": "tiles/gold-quatrefoil-vine-rotated-72.webp",
-                "sha256": "e817f34a66a1a355cebd99291215d7e6efc328d80e82b9609c92c5c75118be79",
+                "sha256": "d31b5b969d6deac3c5249b86ec785f6fea9867d66cc0707c4fcd60a6a3796e15",
                 "w": 72
               },
               {
-                "bytes": 6566,
+                "bytes": 6556,
                 "h": 256,
                 "path": "tiles/gold-quatrefoil-vine-rotated-96.webp",
-                "sha256": "e2959c58150ad7c178cef6227fb63105d3bc0a831365f29ed626dffdcc1097cb",
+                "sha256": "dd4a27f9c60b40aa718f4aa0b8075be64d20597fe9d149d0e13949013cbf7488",
                 "w": 96
               },
               {
-                "bytes": 11090,
+                "bytes": 11086,
                 "h": 384,
                 "path": "tiles/gold-quatrefoil-vine-rotated-144.webp",
-                "sha256": "2768ff5a603c21b4a5e1109230bdd4798816ccb2974f305afe5f0856ccda1536",
+                "sha256": "74692068e025faaf33d1b249a7565016dabe5d894c90e941abc964fad65d9c4c",
                 "w": 144
               },
               {
-                "bytes": 15676,
+                "bytes": 15684,
                 "h": 512,
                 "path": "tiles/gold-quatrefoil-vine-rotated-192.webp",
-                "sha256": "d0071fe7d3f7ccb31cdab73d2d908fc942998919e8825c138f0cba7f4f8f72fa",
+                "sha256": "289a3499948c41a9491748b860e8fb0ed1976fd3aa5bdd0ff59dbe0d8db451b1",
                 "w": 192
               },
               {
-                "bytes": 23652,
+                "bytes": 23610,
                 "h": 768,
                 "path": "tiles/gold-quatrefoil-vine-rotated-288.webp",
-                "sha256": "bd5a03f67ef55d5f6719d7da3dc134c767c5213f08f4446824cfff2dd4008ba1",
+                "sha256": "53cbaa956bb9fcb527af06d862def40af978839f46c8ddf1805dd65719cf1ca6",
                 "w": 288
               },
               {
-                "bytes": 32070,
+                "bytes": 32040,
                 "h": 1024,
                 "path": "tiles/gold-quatrefoil-vine-rotated-384.webp",
-                "sha256": "97a59756c189c99485b753ad87df7c0809242d61707a81e65d9bfa1b04fddbd7",
+                "sha256": "7e0fade9c40094218b10cb446cb1d59e2f3977ce9009c6cd53a3d30336ce437e",
                 "w": 384
               },
               {
-                "bytes": 51980,
+                "bytes": 51926,
                 "h": 1536,
                 "path": "tiles/gold-quatrefoil-vine-rotated-576.webp",
-                "sha256": "96afcbb3be8809a1de7f75f662007327a65908e185e2ce61fdb85e0baa009a13",
+                "sha256": "1dfb2f2640deb8d3ff3959ab91ae7a3bb26ebd15e6f2a28fd16978a69a1c26bc",
                 "w": 576
               },
               {
-                "bytes": 48356,
+                "bytes": 48352,
                 "h": 2048,
                 "path": "tiles/gold-quatrefoil-vine-rotated-768.webp",
-                "sha256": "520c1e3a9a471581eb1ceec703713030e713b811bc9d6ba579b708ae147a327b",
+                "sha256": "695d91e370f5a6924afaca7ba07703fd00241d53256bb89280dfb3ebef1f91c1",
                 "w": 768
               }
             ]
@@ -1285,163 +1285,163 @@
             "bytes": 1531,
             "h": 24,
             "path": "avif/gold-quatrefoil-vine-64.avif",
-            "sha256": "358d83c77bea9d6a3ef0bad08c173fe3fc713b427e717952dccecfe7f1e0f8ef",
+            "sha256": "4a2582bf0de6cea70016ea83080ef4f56c1aa1791af48dfcc1dbdd04ce90239f",
             "w": 64
           },
           {
-            "bytes": 2152,
+            "bytes": 2142,
             "h": 36,
             "path": "avif/gold-quatrefoil-vine-96.avif",
-            "sha256": "288512bf613c2d3c501ee790240538f7295f4b7c2d59c25f1fe782bfc384c4ca",
+            "sha256": "83f41bd28a3547edf90d3a58143f4f3eed3153bf3705bee3455036f0e0bd8163",
             "w": 96
           },
           {
-            "bytes": 3069,
+            "bytes": 3121,
             "h": 48,
             "path": "avif/gold-quatrefoil-vine-128.avif",
-            "sha256": "20168a3197aa55a852cb5cf46f9554ab9581ff0d9e3bb92c5a9d18fcde1b544f",
+            "sha256": "12242d93a6611fbaad54f87d19974ca86f143e4d990d16866d916f21e7fc729d",
             "w": 128
           },
           {
-            "bytes": 3603,
+            "bytes": 3598,
             "h": 72,
             "path": "avif/gold-quatrefoil-vine-192.avif",
-            "sha256": "24198b797e150b54e1f3a435338933529cff423cd6248647f7351726c620ad7b",
+            "sha256": "3e22824de1762dbfe6d09ca8fef13ad309cf43d8bfc245b738eaf238c1975270",
             "w": 192
           },
           {
-            "bytes": 5541,
+            "bytes": 5556,
             "h": 96,
             "path": "avif/gold-quatrefoil-vine-256.avif",
-            "sha256": "362c944e487a10d4d1cb7f229b124b0b937c86e76823c347c1967bbf534d9dc9",
+            "sha256": "04bf061628a20e701bb3a4bb02cb86f7d7bee2a556c4decbb4f4ecdfcda6cdf0",
             "w": 256
           },
           {
-            "bytes": 8524,
+            "bytes": 8540,
             "h": 144,
             "path": "avif/gold-quatrefoil-vine-384.avif",
-            "sha256": "7cbc27461c1f1a47988b3d01dcae7f25492d0989f14509562d69334d60d6be33",
+            "sha256": "a43b718b67038017be2455d033f72d12b9601a9d8b92600a8f8a37e30c9209ec",
             "w": 384
           },
           {
-            "bytes": 11240,
+            "bytes": 11229,
             "h": 192,
             "path": "avif/gold-quatrefoil-vine-512.avif",
-            "sha256": "ea76ab7539cfaf3380e83a3f12bbc9d9d22b514d5f1466139f384e61f2c59780",
+            "sha256": "fa7cb1d0ab90720a2389739d598851af1882f43475bc615bb0afc54573d808fa",
             "w": 512
           },
           {
-            "bytes": 16620,
+            "bytes": 16671,
             "h": 288,
             "path": "avif/gold-quatrefoil-vine-768.avif",
-            "sha256": "811cfbbb5d72cd90042a148d1c0c9fcd2f3f8321d9549e3618b76e0b07a6c335",
+            "sha256": "f632301092c7980585123394f93a2136a9f4e4f0226b27f9d5a876b12ea0b3ac",
             "w": 768
           },
           {
-            "bytes": 21083,
+            "bytes": 21039,
             "h": 384,
             "path": "avif/gold-quatrefoil-vine-1024.avif",
-            "sha256": "33fa2e61556f5b0d470a8d2a7625158148fa1e5ea57482c4a4119b78651b21c7",
+            "sha256": "117cb31d0be36192d2edae6d6a2cee3f05b305ca99a40ce3cb290c98450d7338",
             "w": 1024
           },
           {
-            "bytes": 29914,
+            "bytes": 29736,
             "h": 576,
             "path": "avif/gold-quatrefoil-vine-1536.avif",
-            "sha256": "7c2a3a475e76064e900cb293eeb747781ba858f8b486cf652240f4649fa64d77",
+            "sha256": "de455044dae6a263b91f1e05c53754ad13bfbc66ebeb1761b4ce947d180f40ba",
             "w": 1536
           },
           {
-            "bytes": 30586,
+            "bytes": 30731,
             "h": 768,
             "path": "avif/gold-quatrefoil-vine-2048.avif",
-            "sha256": "1b99a25580d44ce68ef397bd8aed6d9a88726c81804919dbea45d45f420cc09c",
+            "sha256": "36fe05350d76d50d236348ae38fb7848b4339f847b56f81e9cfbe162d8e2db19",
             "w": 2048
           }
         ],
         "svg": {
-          "bytes": 10175,
+          "bytes": 8676,
           "h": 96,
           "path": "svg/gold-quatrefoil-vine.svg",
-          "sha256": "26b584a093dd74cb63a2067cdf0e5f982f352882233edc510f8f103193dd5766",
+          "sha256": "55879da36d26ad2bbe1061381524c1ad70d43ae2af78caa6fdf9a5dc67bd6bb3",
           "w": 256
         },
         "webp": [
           {
-            "bytes": 1332,
+            "bytes": 1334,
             "h": 24,
             "path": "webp/gold-quatrefoil-vine-64.webp",
-            "sha256": "8260b539b53c44260ad05e424ff835c1a9bff92a9fad36ff9017ca275aa150b0",
+            "sha256": "f566d0b8c3f7b5c43fa9240ab6e778f79612794da2d12248ac18dcabe8eff1cd",
             "w": 64
           },
           {
-            "bytes": 2292,
+            "bytes": 2290,
             "h": 36,
             "path": "webp/gold-quatrefoil-vine-96.webp",
-            "sha256": "5a0d09d2520b55af5e85b2bb1256c893faf6470ca021e2c316171096456548ad",
+            "sha256": "6f9a3ee7f7de463339115e920abb14bb2770199f352d1d0c577b1b12bff34bf7",
             "w": 96
           },
           {
-            "bytes": 2830,
+            "bytes": 2814,
             "h": 48,
             "path": "webp/gold-quatrefoil-vine-128.webp",
-            "sha256": "a055b12c22c29a6e0b9b8be1550839b071f1261dcf72b817237dd0948cae9933",
+            "sha256": "2e258b9dc8bef47528396ed6d01b2703eb40e07cd2c0922834d913b9347cdba0",
             "w": 128
           },
           {
-            "bytes": 4948,
+            "bytes": 4952,
             "h": 72,
             "path": "webp/gold-quatrefoil-vine-192.webp",
-            "sha256": "750e768ee832516532daa789da790dbd8b56965611f9be6259cb7e3bcc346a7e",
+            "sha256": "032bae00a153e55df804d4c6a5a66c6870e007d2fc533a1ebc23d8bb4fb82277",
             "w": 192
           },
           {
-            "bytes": 6058,
+            "bytes": 6070,
             "h": 96,
             "path": "webp/gold-quatrefoil-vine-256.webp",
-            "sha256": "8ba55693b034f7d5514c1331573e193a57b21435b3a8a39cfa2e84df18ae71fc",
+            "sha256": "2c62f2c5b9860fe7415e0e88017feec680aa36ff7cf8ff9d3853e7c972310729",
             "w": 256
           },
           {
-            "bytes": 9656,
+            "bytes": 9644,
             "h": 144,
             "path": "webp/gold-quatrefoil-vine-384.webp",
-            "sha256": "97b88bd252d769465af35dcfa338037d300de5051200312ae78215ee962affce",
+            "sha256": "ab094994672533f55f868ed3411cbc2c3f947953235e1bd970a2d253f865ec8a",
             "w": 384
           },
           {
-            "bytes": 13760,
+            "bytes": 13748,
             "h": 192,
             "path": "webp/gold-quatrefoil-vine-512.webp",
-            "sha256": "1b369527a5a2a3cb171364884b1ff41114e5c70da82eab14d1efec74c8c24e62",
+            "sha256": "7627947e2556436935471ecc3b484efc0a6c4cbd59dcfadef7d9e2e4e6670a97",
             "w": 512
           },
           {
-            "bytes": 21830,
+            "bytes": 21900,
             "h": 288,
             "path": "webp/gold-quatrefoil-vine-768.webp",
-            "sha256": "33a059ff37b75026bea0ea5779ddf2f6fecba8e167b4b78e52908e5500f82770",
+            "sha256": "5c3a8cbc0d982620704e6e7da7e47ea7c44c3d69048ba44101470876ec5ca5d9",
             "w": 768
           },
           {
-            "bytes": 29922,
+            "bytes": 29912,
             "h": 384,
             "path": "webp/gold-quatrefoil-vine-1024.webp",
-            "sha256": "89d25461c5947b3b6e03b94532c6bcf0e1c0931ae5587e9f51c32ac4f8428404",
+            "sha256": "40e3acc1e449b27cd89c83e475a75c9d07b0b13bc06ba36883713adde38a9536",
             "w": 1024
           },
           {
-            "bytes": 47978,
+            "bytes": 48020,
             "h": 576,
             "path": "webp/gold-quatrefoil-vine-1536.webp",
-            "sha256": "fe82f67e484375fbecb10a1cdbbdae014883cc92ff0bee500ac355ef068f0e14",
+            "sha256": "53256ca13dc9c07f337ce77a8d3dedb9491f11c9912a2cafe724fef50a216b3b",
             "w": 1536
           },
           {
-            "bytes": 47244,
+            "bytes": 47260,
             "h": 768,
             "path": "webp/gold-quatrefoil-vine-2048.webp",
-            "sha256": "2b975e1c47c35d842ab0006d77b43e4f0e6c660503a260944013e95d9a1b7e1e",
+            "sha256": "402529e918315a6ef6c095fed6b354b3f5231737b711039362acaf01571b3abb",
             "w": 2048
           }
         ]
@@ -2091,10 +2091,10 @@
           }
         ],
         "svg": {
-          "bytes": 2962,
+          "bytes": 2132,
           "h": 96,
           "path": "svg/gold-wave-ribbon.svg",
-          "sha256": "b31463ecd9cde79b0c2c23ed1534bf20fac7634f8391a98717486cb4c71d0a15",
+          "sha256": "39fd94ecfa2a1d3a9e3a53f30fd3f2b76f02bce1db079f25e77a620f4b7be9ff",
           "w": 256
         },
         "webp": [
@@ -2819,10 +2819,10 @@
           }
         ],
         "svg": {
-          "bytes": 7697,
+          "bytes": 6360,
           "h": 96,
           "path": "svg/red-berry-vine.svg",
-          "sha256": "dbd5f1da53dd7b7162d65b33282917bc44e659529b9ea570693d64e39099d3ed",
+          "sha256": "e5dc2edb5ce11f07cf2a3f8fe0cc36adbd40599c49c43be441c1ae3f49849d13",
           "w": 256
         },
         "webp": [
@@ -2936,8 +2936,8 @@
           "description": "Top-left quarter-round corner, the stem bent through a quarter circle with one small red rosette, meeting the strip's stem at the centre of its right and bottom edges.",
           "encoding": {
             "avif": true,
-            "avifTopBytes": 16574,
-            "webpTopBytes": 31264
+            "avifTopBytes": 16460,
+            "webpTopBytes": 31366
           },
           "master": {
             "bytes": 1584,
@@ -2949,159 +2949,159 @@
           "sources": {
             "avif": [
               {
-                "bytes": 1227,
+                "bytes": 1237,
                 "h": 64,
                 "path": "avif/red-rosette-vine.corner-64.avif",
-                "sha256": "51b9f414606e2ce133fd655d86585887b889ff3cd83e73c9327b4dcc67cb18d4",
+                "sha256": "b8ffe2da3736e21f3d55dbf409705accf42b464df9299510dc8e16e282c2e556",
                 "w": 64
               },
               {
-                "bytes": 1619,
+                "bytes": 1615,
                 "h": 96,
                 "path": "avif/red-rosette-vine.corner-96.avif",
-                "sha256": "2a544a830045aa7ba6fd914f0958e63e9b59aff5cbb30fb7efb8e59ac5243d38",
+                "sha256": "4aa59ece7ac9530bdb711b96b3987ff9a36846009cf5012204680813b148456f",
                 "w": 96
               },
               {
-                "bytes": 1797,
+                "bytes": 1817,
                 "h": 128,
                 "path": "avif/red-rosette-vine.corner-128.avif",
-                "sha256": "ad6fcd66cb38d681e1382109147e2b82fbf598f4243fee4a68fc3ae774bb1536",
+                "sha256": "7401d2880f89838a72111257360ea7e380404fc3262d9ee4950efe039af018cd",
                 "w": 128
               },
               {
-                "bytes": 2525,
+                "bytes": 2511,
                 "h": 192,
                 "path": "avif/red-rosette-vine.corner-192.avif",
-                "sha256": "9c758eefcbece586e37142762b5310678286e10bc50615ebb18689ea1ea1112d",
+                "sha256": "85601eead43bbb87aa7618aeedd8a6e89bfc3e21669aceb287a4f55a830abd4e",
                 "w": 192
               },
               {
-                "bytes": 3316,
+                "bytes": 3327,
                 "h": 256,
                 "path": "avif/red-rosette-vine.corner-256.avif",
-                "sha256": "5efac1ae64ba32d40cf454a89fdbc3d8f0b1993563e7df7ca3d8c8da79506d03",
+                "sha256": "d30d517c96d7918da3375a6f31648ff0beb956dcf738c375e853962f827ed559",
                 "w": 256
               },
               {
-                "bytes": 4551,
+                "bytes": 4567,
                 "h": 384,
                 "path": "avif/red-rosette-vine.corner-384.avif",
-                "sha256": "69dc23f6382d6d239a15573ad1f25ef855eb1294523f8ab67c5feccfd232cc2a",
+                "sha256": "8ed26de6c1c0666ae76563e794b39c0286b9094eea3904c29ea533fb74991d0b",
                 "w": 384
               },
               {
-                "bytes": 5680,
+                "bytes": 5724,
                 "h": 512,
                 "path": "avif/red-rosette-vine.corner-512.avif",
-                "sha256": "c64cad8e18fcab015b047506f0e5a65273505287be0699293ad4d3386907c73a",
+                "sha256": "4b8be4a07bb4f8029306edd79be320534a05e02e21f60fe6fbb19fffe3a4b19d",
                 "w": 512
               },
               {
-                "bytes": 8435,
+                "bytes": 8391,
                 "h": 768,
                 "path": "avif/red-rosette-vine.corner-768.avif",
-                "sha256": "e9a01667d80aece9b114742230d31cd2fe902c1e93a85f823b62bb3cdcdecbfd",
+                "sha256": "74a1fa2b0366dc797c3238511a844e1eb03a5198ef633b89f4b4079c3887d2d1",
                 "w": 768
               },
               {
-                "bytes": 11006,
+                "bytes": 10929,
                 "h": 1024,
                 "path": "avif/red-rosette-vine.corner-1024.avif",
-                "sha256": "f5d370416d4eb861ffaa6d64a58f254dd3688362de7c44e9d0c3e7953a0ec879",
+                "sha256": "191edf461e9abe88c1433d8f372f5c4c513d9859e4304c0a9d872154e39fa0e9",
                 "w": 1024
               },
               {
-                "bytes": 16372,
+                "bytes": 16316,
                 "h": 1536,
                 "path": "avif/red-rosette-vine.corner-1536.avif",
-                "sha256": "c63c9ff96e11d96caafbf0bfc6c44824422a4bb2c11a884a6314af86f675af3e",
+                "sha256": "2d51de1304768f5886376b2dfdf3fdf7a708dcd322f7390304d398aef94c5722",
                 "w": 1536
               },
               {
-                "bytes": 16574,
+                "bytes": 16460,
                 "h": 2048,
                 "path": "avif/red-rosette-vine.corner-2048.avif",
-                "sha256": "c35227151bf6ed25aded7a0de463f115b9ee147d1a1fe6422debec0fe2057938",
+                "sha256": "72f0d3110da09914808f3fad3e4aa6fafc9b721fc047ed9a8d1971d10bccc6a9",
                 "w": 2048
               }
             ],
             "webp": [
               {
-                "bytes": 988,
+                "bytes": 990,
                 "h": 64,
                 "path": "webp/red-rosette-vine.corner-64.webp",
-                "sha256": "2fb4333110ee30fe685787b35da05b1e4f655beffc6304fc7b101ac6829deab7",
+                "sha256": "0cfccc3d2b738e39ccb37d67696cfd3fe89b6f5aa5146db8669cd6b623d4fd92",
                 "w": 64
               },
               {
-                "bytes": 1566,
+                "bytes": 1562,
                 "h": 96,
                 "path": "webp/red-rosette-vine.corner-96.webp",
-                "sha256": "0804f60cf1dced75cc83f6fe0d6f17caf53df387948da1c52fdf753f91dab781",
+                "sha256": "535d598e98deb22a1599ecb5830a760850b735a4148a3377d9e6ef5129cf92cf",
                 "w": 96
               },
               {
-                "bytes": 2158,
+                "bytes": 2164,
                 "h": 128,
                 "path": "webp/red-rosette-vine.corner-128.webp",
-                "sha256": "31588935ab5bef58577ac6f86c616c800ab71b47bf5679a8f3dc6224e69ac424",
+                "sha256": "98b44a867cc30704c83f8c92c68f7cb3ba1874d366c1b4ccf1dd06da002be173",
                 "w": 128
               },
               {
-                "bytes": 3342,
+                "bytes": 3344,
                 "h": 192,
                 "path": "webp/red-rosette-vine.corner-192.webp",
-                "sha256": "1e50604631a2aeb9a6a0f1e3a9d2368fc14493b6eae40d1017a441e4e6e89b4c",
+                "sha256": "dac3587ea800c9f0c6fbe59b59314cab6a5a32ea8033ec3a2c1f70f16d91bda1",
                 "w": 192
               },
               {
-                "bytes": 4510,
+                "bytes": 4528,
                 "h": 256,
                 "path": "webp/red-rosette-vine.corner-256.webp",
-                "sha256": "34557bed20253791b834f394372e1cf8fc519a5371fd0f66199c29f692e86af6",
+                "sha256": "ad0004ea11738c8914023e92aa92acb21bb3c311556969f57eee999262709801",
                 "w": 256
               },
               {
-                "bytes": 6974,
+                "bytes": 6992,
                 "h": 384,
                 "path": "webp/red-rosette-vine.corner-384.webp",
-                "sha256": "03e150bd9956f5733e750a3d252efc524c565b86cd6e9e2c03c7c8b633ab4f14",
+                "sha256": "2e3f53de94ff00860b649ef4e25b979cb894627ff5e4d43dbee7bf27d0fc4d59",
                 "w": 384
               },
               {
-                "bytes": 9544,
+                "bytes": 9538,
                 "h": 512,
                 "path": "webp/red-rosette-vine.corner-512.webp",
-                "sha256": "2396ed9a4e156595f5c6ff3a7ca6fa03016ef522cd842c6389f01d96936d21fd",
+                "sha256": "4f970a5f81e1fe05ffa38a31fe5cf9f030e4a19173f8a7b5fb4b2acaf72af489",
                 "w": 512
               },
               {
-                "bytes": 14688,
+                "bytes": 14724,
                 "h": 768,
                 "path": "webp/red-rosette-vine.corner-768.webp",
-                "sha256": "13be25a5344a4d0e04ac77fb915c869050edefe3f074b0fa914a1327bfe67af8",
+                "sha256": "85e758df9bcf77e5d1568b9f2d27e5de37027c060b0d88df2be4873a42125d99",
                 "w": 768
               },
               {
-                "bytes": 20308,
+                "bytes": 20292,
                 "h": 1024,
                 "path": "webp/red-rosette-vine.corner-1024.webp",
-                "sha256": "19cc55105729290bc598a30076d52f17fc94de89357fc2917d7f842c15782880",
+                "sha256": "383d4af5ceb2c9e92d3d0c06139f1dc957a0c04ea609267f5e588945119928c2",
                 "w": 1024
               },
               {
-                "bytes": 32034,
+                "bytes": 32020,
                 "h": 1536,
                 "path": "webp/red-rosette-vine.corner-1536.webp",
-                "sha256": "6308f405eebcf3f5be1c21b455d4992ef82b30582b829d08064355e68e38ca1b",
+                "sha256": "e44db14009bf0a1e3ada23e888e7b26a8984ca8a5167f5a6a1a8789848821d64",
                 "w": 1536
               },
               {
-                "bytes": 31264,
+                "bytes": 31366,
                 "h": 2048,
                 "path": "webp/red-rosette-vine.corner-2048.webp",
-                "sha256": "c4e87f5bcadccf177ff64557745b7402a9666336a7d3baa5931c9df361912213",
+                "sha256": "cb305f393463de7e1c117cb7e812e6e2e5fd2c5c60025fcd4b002e4927cc87f1",
                 "w": 2048
               }
             ]
@@ -3116,8 +3116,8 @@
       ],
       "encoding": {
         "avif": true,
-        "avifTopBytes": 35656,
-        "webpTopBytes": 50312
+        "avifTopBytes": 35697,
+        "webpTopBytes": 50310
       },
       "facing": "none",
       "group": null,
@@ -3145,156 +3145,156 @@
                 "bytes": 2668,
                 "h": 64,
                 "path": "frames/red-rosette-vine-atlas-64.avif",
-                "sha256": "75e1dd24be19ee8355eabe530a4360bede2e21ae56c5de86ee2f6383b18604b8",
+                "sha256": "863db1409e0efb958788bb8195e31b5fa27adca85532ef1aa3e6dd4ffcf8b71c",
                 "w": 64
               },
               {
-                "bytes": 5401,
+                "bytes": 5431,
                 "h": 96,
                 "path": "frames/red-rosette-vine-atlas-96.avif",
-                "sha256": "50cffe21a5c9f69fc2ec85e4df5af47da7ab5077b1c7de0bf202bb7f82ac64de",
+                "sha256": "0a04610d91433d2e7c79274b7871c68918da9d0f60ad166fc28bf9179748e5ea",
                 "w": 96
               },
               {
-                "bytes": 6968,
+                "bytes": 6998,
                 "h": 128,
                 "path": "frames/red-rosette-vine-atlas-128.avif",
-                "sha256": "4b89c357d14f07fa1f86a6710397f899da063cdc27ca3f3bf760829cb2a5354d",
+                "sha256": "57315d06cb19d0e860baf86f9846ea35e67d1797be5876d4558d0619aaf6fa3c",
                 "w": 128
               },
               {
                 "bytes": 11466,
                 "h": 192,
                 "path": "frames/red-rosette-vine-atlas-192.avif",
-                "sha256": "e84b593744198a7740ec42b8d51742d8d5209e70ee04ddcdc9a00b3b2382eaa6",
+                "sha256": "20505070410d7810f3f9aefd630cf8c561c3e8835ca10e59651fad63c8c4c4b2",
                 "w": 192
               },
               {
-                "bytes": 15559,
+                "bytes": 15634,
                 "h": 256,
                 "path": "frames/red-rosette-vine-atlas-256.avif",
-                "sha256": "5b3e2ee62933cc12ec21b63134a79f12d618574f3e534df8df8551314b49425c",
+                "sha256": "7d7bb3e9e1141dd702a0d8818e6c923ac701966314e9c8189cc0be5ee2bacb94",
                 "w": 256
               },
               {
-                "bytes": 24214,
+                "bytes": 24168,
                 "h": 384,
                 "path": "frames/red-rosette-vine-atlas-384.avif",
-                "sha256": "c81efcab4031f8ffe2c94b0b5ae71b992e50b24415ad1f3c45b710d0fe6ee7d0",
+                "sha256": "b7d52034a13aa1da6558ea4d24a77300a89c194d4fd92d7ced1dc55a983b18a0",
                 "w": 384
               },
               {
-                "bytes": 29424,
+                "bytes": 29598,
                 "h": 512,
                 "path": "frames/red-rosette-vine-atlas-512.avif",
-                "sha256": "d44b53a5ae66f829e706c4d69d530f4be413bb2667f4c8174aadc223c8ac1850",
+                "sha256": "0903262349483cc280bf9dda6b8c535d03a0eecd0d7243612ed67e53a9cc537b",
                 "w": 512
               },
               {
-                "bytes": 43823,
+                "bytes": 43611,
                 "h": 768,
                 "path": "frames/red-rosette-vine-atlas-768.avif",
-                "sha256": "a4f32b65765febc658a6b4ae719b845e40ff275208ef514ee88cdb5a50a2299e",
+                "sha256": "f98e3a43b0ca30e6f167217895e02f01f4e6e479ac451dbc8fdeefbeeae158ed",
                 "w": 768
               },
               {
-                "bytes": 56620,
+                "bytes": 56691,
                 "h": 1024,
                 "path": "frames/red-rosette-vine-atlas-1024.avif",
-                "sha256": "ee70442e17d44e1030d408ff1fe7f1d61c434c795be7c43cefda49a6b03ed0d2",
+                "sha256": "65791d651223ac56773bd06c5eacaa187a9bfe66f2eeca8098d8cdd01a0a3daa",
                 "w": 1024
               },
               {
-                "bytes": 77405,
+                "bytes": 77313,
                 "h": 1536,
                 "path": "frames/red-rosette-vine-atlas-1536.avif",
-                "sha256": "a30875e726d481fe4ed2e1b668768c141f7dccc8aeded607016f6d5d346bb498",
+                "sha256": "85d06f7de487a965c4935205dda2ded3ac41a09e9bc10f4b5030c19e49a6a53d",
                 "w": 1536
               },
               {
-                "bytes": 104210,
+                "bytes": 103998,
                 "h": 2048,
                 "path": "frames/red-rosette-vine-atlas-2048.avif",
-                "sha256": "8e0a8a5757d5abe1cae6c228ae1788da5b57c340bf309e105951f13c628bd48c",
+                "sha256": "c7093a25a51fe3a1ab011414ee0b80a58ac7898d507c7dd3ac4b46f0a235f916",
                 "w": 2048
               }
             ],
             "webp": [
               {
-                "bytes": 3152,
+                "bytes": 3150,
                 "h": 64,
                 "path": "frames/red-rosette-vine-atlas-64.webp",
-                "sha256": "e45fd8254243e145586fe1cdc8060cd8898a982290a399ec5a75b6c921033f24",
+                "sha256": "af7795ba9322e34aefefdea0202a372c1bfd048a9f3fc8e6a54f16d6f54210f7",
                 "w": 64
               },
               {
-                "bytes": 5662,
+                "bytes": 5656,
                 "h": 96,
                 "path": "frames/red-rosette-vine-atlas-96.webp",
-                "sha256": "e63a846976c4bb645ac6e62e92311a7fd7bad8803971abe69317fc3e3fe32b61",
+                "sha256": "bcf84a6ee9275afa6fa35520304e461523e44ed2c5552b3f9bc418ac328ea79b",
                 "w": 96
               },
               {
-                "bytes": 8202,
+                "bytes": 8194,
                 "h": 128,
                 "path": "frames/red-rosette-vine-atlas-128.webp",
-                "sha256": "8fa291d90c01ed3f637b1bacc482a38ed0dfc5fc1176bd997aa96f86e39973c7",
+                "sha256": "6a58667821a3d198e1f5cc877f57117c632df80919420119720e1c486263c108",
                 "w": 128
               },
               {
-                "bytes": 13308,
+                "bytes": 13340,
                 "h": 192,
                 "path": "frames/red-rosette-vine-atlas-192.webp",
-                "sha256": "9fc3be29fd8c1af86fe2755d37b4397ecc8ff968e007bade8d24ba86f4cf5105",
+                "sha256": "a577a12be9a987fe386eb6b31ad2460a12b21b909fc1b82f29de312d827fbb03",
                 "w": 192
               },
               {
-                "bytes": 18598,
+                "bytes": 18566,
                 "h": 256,
                 "path": "frames/red-rosette-vine-atlas-256.webp",
-                "sha256": "5556b25d241d945af30dfbaef6f3663160962923804d189fcb7b602cf790d707",
+                "sha256": "f7ac1ed37793dfbb37f0608575ebe2277c0072a7b41b6f2ba5a9a2b763340797",
                 "w": 256
               },
               {
-                "bytes": 30430,
+                "bytes": 30280,
                 "h": 384,
                 "path": "frames/red-rosette-vine-atlas-384.webp",
-                "sha256": "ccbef9cbefd8eae0d01d931080bb882295cd4ab7cef734e5cb55a99b931ae6c2",
+                "sha256": "b467ac41480d4c2b672477cfd1cc022ba501a59ac12b0bf81c5dbc50414d607d",
                 "w": 384
               },
               {
-                "bytes": 43470,
+                "bytes": 43476,
                 "h": 512,
                 "path": "frames/red-rosette-vine-atlas-512.webp",
-                "sha256": "dd555354ef713488c166865181eb5f5eb6ebbe63e4e5607202f68e6a40be1c19",
+                "sha256": "bfb16d87d57f1cda4ff2de5ceee127b54f544a99095ce72916452d02c64400ce",
                 "w": 512
               },
               {
-                "bytes": 69684,
+                "bytes": 69728,
                 "h": 768,
                 "path": "frames/red-rosette-vine-atlas-768.webp",
-                "sha256": "b91a1721b3fdf0d786495e134fbe1ed0107df3fbcd26d1fd1168cf0ca4a05678",
+                "sha256": "675992ca9986767cce3045b02b05df8b790a15b295f46ab215d4ee2fbf264c62",
                 "w": 768
               },
               {
-                "bytes": 98816,
+                "bytes": 98846,
                 "h": 1024,
                 "path": "frames/red-rosette-vine-atlas-1024.webp",
-                "sha256": "2f71513efa32b7ebf84238161b9070513228850d25cd9102d82fa458a6a5aa78",
+                "sha256": "88037cc0f6678239b15012147175ecc9b288c720199fac761092f700afd49ca2",
                 "w": 1024
               },
               {
-                "bytes": 160790,
+                "bytes": 160872,
                 "h": 1536,
                 "path": "frames/red-rosette-vine-atlas-1536.webp",
-                "sha256": "e49ceb8a07f9c1b804ddaa08a4a0da3e389090029a2306cc39a6340cb24aeb2a",
+                "sha256": "d1c18387ed8380896f98c98b954630f45e0649a9a5df80ea1819912bf55886b7",
                 "w": 1536
               },
               {
-                "bytes": 238466,
+                "bytes": 238238,
                 "h": 2048,
                 "path": "frames/red-rosette-vine-atlas-2048.webp",
-                "sha256": "458a6d9d7d5d4c0c6e6451e6ac312355fb3b04841a39bb74d0498d44c21a05d8",
+                "sha256": "e301ff800a9ac6b07b3960fe348bf4ba7a203d864683270f23404fa821809ae2",
                 "w": 2048
               }
             ]
@@ -3309,80 +3309,80 @@
           "rotated": {
             "avif": [
               {
-                "bytes": 1647,
+                "bytes": 1643,
                 "h": 64,
                 "path": "tiles/red-rosette-vine-rotated-24.avif",
-                "sha256": "35806676ddedddda1d213d120c9aa02ace152260c3d018009e29ccc5fae59b61",
+                "sha256": "ced0c44277485261928b8939021bd68468160db3d4b513634ee3f3dd2b745bb0",
                 "w": 24
               },
               {
-                "bytes": 2537,
+                "bytes": 2556,
                 "h": 96,
                 "path": "tiles/red-rosette-vine-rotated-36.avif",
-                "sha256": "0fd87b579b2787ab9910de5772d8c37737f139275c19da2e9442e5f2b28fb586",
+                "sha256": "14805d7e33cc5983d7e362baf3a30ae6adce5f24fc1c9c717ebe770e39d38ef4",
                 "w": 36
               },
               {
-                "bytes": 3483,
+                "bytes": 3477,
                 "h": 128,
                 "path": "tiles/red-rosette-vine-rotated-48.avif",
-                "sha256": "8fde251478d03e23567dfea0b32cf892ae05d1030a91147f44536737b5b2fff7",
+                "sha256": "be80a54bb5a5bcc65cf3bac690bd614283cc34fb51761a6f4d5c0ae009e578ae",
                 "w": 48
               },
               {
-                "bytes": 4826,
+                "bytes": 4813,
                 "h": 192,
                 "path": "tiles/red-rosette-vine-rotated-72.avif",
-                "sha256": "ffc0eaf20ad0ed462099556b2e28d47a2a88c1bd00f633b5f6af7c439383dd85",
+                "sha256": "9274ecdfc2ef641f7f27954d89c76556759640cbc5b64deebcf4fdd1ee6f23e7",
                 "w": 72
               },
               {
-                "bytes": 6522,
+                "bytes": 6576,
                 "h": 256,
                 "path": "tiles/red-rosette-vine-rotated-96.avif",
-                "sha256": "fb3fa747809f56d9017cbc945afa4860ddb61f295867e08569d4387bc1ad3154",
+                "sha256": "f5cb50d866dfce45bd70e8e1d0ad128723e83a84c129117b2f48dc042d8e0c3e",
                 "w": 96
               },
               {
-                "bytes": 9399,
+                "bytes": 9502,
                 "h": 384,
                 "path": "tiles/red-rosette-vine-rotated-144.avif",
-                "sha256": "6817bff112e463c56311b21186bb0b9b3c2ad8c97f4192e743ed17cecf71667f",
+                "sha256": "19007ba6af4dcbde8aef7e3540b71b013bd4cbf57a6a70e22eb9feb3e873af35",
                 "w": 144
               },
               {
-                "bytes": 12356,
+                "bytes": 12158,
                 "h": 512,
                 "path": "tiles/red-rosette-vine-rotated-192.avif",
-                "sha256": "666a619f50beedd58bc4a5e14a9d177587f6d27717633e27103db5e99121d710",
+                "sha256": "dc730fd131a604febe8a8cc0882e5a1de5dcc16132d48d9db9fce4ccd60c1f4a",
                 "w": 192
               },
               {
-                "bytes": 18379,
+                "bytes": 18270,
                 "h": 768,
                 "path": "tiles/red-rosette-vine-rotated-288.avif",
-                "sha256": "3e54e2fc317950e36865a3abd96ca0cb26f8c91bf8dbb359362758e37c7140cb",
+                "sha256": "43e72fe8bf074898f28712d15971d8364acf7f8cac1e9e8c4e1e95bfb9256e47",
                 "w": 288
               },
               {
-                "bytes": 24359,
+                "bytes": 24310,
                 "h": 1024,
                 "path": "tiles/red-rosette-vine-rotated-384.avif",
-                "sha256": "8c71b0ce0e04030f4176eda1fb588486530efab200b0fbd7297cc9129cb6f505",
+                "sha256": "6dd2564e846973eb2f68b235300f6f719e86d3eeee110bc601a9fcc0e88301ca",
                 "w": 384
               },
               {
-                "bytes": 35492,
+                "bytes": 33186,
                 "h": 1536,
                 "path": "tiles/red-rosette-vine-rotated-576.avif",
-                "sha256": "b9818c76e44ad570246557d6f79c1b9fb4ecbd19884593210da40315f87e90e8",
+                "sha256": "974e3c640ec96394702036b8d4b8cb58c050f119bc96ebbcfb93a1f523998f63",
                 "w": 576
               },
               {
-                "bytes": 34669,
+                "bytes": 34696,
                 "h": 2048,
                 "path": "tiles/red-rosette-vine-rotated-768.avif",
-                "sha256": "fad955130b3a30f50fada41b61175c13aa115f3a0b14073c2b038f116600df61",
+                "sha256": "65191f47689f343de3aa4d9d24745ad39fa8e90d8165f864b64eb4ebfd4ef6f9",
                 "w": 768
               }
             ],
@@ -3391,77 +3391,77 @@
                 "bytes": 1736,
                 "h": 64,
                 "path": "tiles/red-rosette-vine-rotated-24.webp",
-                "sha256": "e196ce4afd71885fda2e3f9ff919471056ad2c49f1d17dff42978e812d040770",
+                "sha256": "77e1ee361aeac0454b646b5cfb0458dc67017eaa7b76d5ac5df53a17afb185e4",
                 "w": 24
               },
               {
-                "bytes": 2550,
+                "bytes": 2554,
                 "h": 96,
                 "path": "tiles/red-rosette-vine-rotated-36.webp",
-                "sha256": "5618bb90647a2526d316b29c56e3d9d4a213a7368da4261880d00d0198b99e9c",
+                "sha256": "910e4682e618392a03ff16a7327ba613f07dfd88e90004405ae7a869a91f31af",
                 "w": 36
               },
               {
-                "bytes": 3724,
+                "bytes": 3734,
                 "h": 128,
                 "path": "tiles/red-rosette-vine-rotated-48.webp",
-                "sha256": "ea54ff31749f7475526ed8dfc9f8b494e4c1d6aa87c9964726076c005ca6d20e",
+                "sha256": "e287638f43239a640090f157bd5291c154817f86f078d664ac73a48875274b1a",
                 "w": 48
               },
               {
-                "bytes": 5746,
+                "bytes": 5736,
                 "h": 192,
                 "path": "tiles/red-rosette-vine-rotated-72.webp",
-                "sha256": "c5bf8298b638c3b96cf0969de45a31ddf255e3d4b31bd510ef9cd4e2ef7d3bd2",
+                "sha256": "dc1d706873e351de6d1f7b3ca9190b3c61f8c35869f29f488c6a50b6ae3be5f7",
                 "w": 72
               },
               {
-                "bytes": 7672,
+                "bytes": 7650,
                 "h": 256,
                 "path": "tiles/red-rosette-vine-rotated-96.webp",
-                "sha256": "8144a820bb14783f438b93c35a47342f7ed9e97041fa37f261a9e11bde1d538e",
+                "sha256": "898c999948b9b7eda6b214aba873b9237e89ad9aa86bd69ad8d6936da385f576",
                 "w": 96
               },
               {
-                "bytes": 12974,
+                "bytes": 13008,
                 "h": 384,
                 "path": "tiles/red-rosette-vine-rotated-144.webp",
-                "sha256": "2f74c5e8ef631dfc8c8f738388edb87abf4c5ee2b3855e8ad0ff4c8976b75bd9",
+                "sha256": "e5f33a4da9100339778c128ff52706f8fe9de228ceaac38f3d60dc36922e0d1d",
                 "w": 144
               },
               {
-                "bytes": 18248,
+                "bytes": 18250,
                 "h": 512,
                 "path": "tiles/red-rosette-vine-rotated-192.webp",
-                "sha256": "7622498e635658edcea8536378b7c944ea422039d243157f7d8f05ad1c4a6c61",
+                "sha256": "46d82bd075c49443f13f7090da97c53bb30fb148a2983b1a729096b14687db87",
                 "w": 192
               },
               {
-                "bytes": 28264,
+                "bytes": 28298,
                 "h": 768,
                 "path": "tiles/red-rosette-vine-rotated-288.webp",
-                "sha256": "69a8d95c5095054b7f1779ed1978511fb242ec88db9ee2128a0d7dba6b4b8635",
+                "sha256": "ee02146a1136c8924c3fe15a0d8f8c60634f7c02d25f31758091498d23b9c19d",
                 "w": 288
               },
               {
-                "bytes": 37888,
+                "bytes": 37902,
                 "h": 1024,
                 "path": "tiles/red-rosette-vine-rotated-384.webp",
-                "sha256": "a90267cc57014c6bcdde4d7fc2d7e7a2fb2c0cf5a98f9d56ceb1ce4ede7da9eb",
+                "sha256": "cb500982135c742898b855a5527d320850225adaad2f99f4b5b449c8c617401a",
                 "w": 384
               },
               {
-                "bytes": 59568,
+                "bytes": 59558,
                 "h": 1536,
                 "path": "tiles/red-rosette-vine-rotated-576.webp",
-                "sha256": "f18b4157c36d8d7351c950fe360065d112885e47656eca60e7ecb3b5b3db6700",
+                "sha256": "6d33fc05c453a30fc4b91fd609d61a44313f5157a0b94e0411e79bb15329dec7",
                 "w": 576
               },
               {
-                "bytes": 52060,
+                "bytes": 52072,
                 "h": 2048,
                 "path": "tiles/red-rosette-vine-rotated-768.webp",
-                "sha256": "8d559698a7f35ba7f5f5215fbe5be8f5faf6cb865fbca65b6966b5bceba0340f",
+                "sha256": "6ffda48c351a0793804c04d0a6234d383a46cb4d167c05c0c33a6e392cf23783",
                 "w": 768
               }
             ]
@@ -3472,88 +3472,88 @@
       "sources": {
         "avif": [
           {
-            "bytes": 1654,
+            "bytes": 1655,
             "h": 24,
             "path": "avif/red-rosette-vine-64.avif",
-            "sha256": "96142195686bd7bf51b6e06d66150eab3dc451c846e2959af08252acbe761e76",
+            "sha256": "cfc0e24b4393cbd826ec95c1282ac1e171b83a9983e481e2afdb0b2a3f21bfb9",
             "w": 64
           },
           {
-            "bytes": 2237,
+            "bytes": 2220,
             "h": 36,
             "path": "avif/red-rosette-vine-96.avif",
-            "sha256": "ed913704e25c86c39a69b1363d29d2373795b2e91d9d0414a8a5d2bed9080c1e",
+            "sha256": "0e70b62dbf907eb462e25aa8de967f7626ed3c623047d9e625c8560307a957f1",
             "w": 96
           },
           {
-            "bytes": 3572,
+            "bytes": 3553,
             "h": 48,
             "path": "avif/red-rosette-vine-128.avif",
-            "sha256": "f4e819d140c8277f64e6468fe6e22864edde5ea5124f8249b3366025adf797da",
+            "sha256": "b852f59cff799b427248cbb1bef247198199f504a8894fbeb5274026c78b942f",
             "w": 128
           },
           {
-            "bytes": 4849,
+            "bytes": 4830,
             "h": 72,
             "path": "avif/red-rosette-vine-192.avif",
-            "sha256": "5c09fc605b8cb4309b61444192b60b826451cc0fa6db97c7d730e9b0cfd32026",
+            "sha256": "6fcdeb5cc419b0fc44cc584d35161d7e15a0cab4fbd948f0cf8a78e24fe152f5",
             "w": 192
           },
           {
-            "bytes": 6556,
+            "bytes": 6574,
             "h": 96,
             "path": "avif/red-rosette-vine-256.avif",
-            "sha256": "21fe1b3b5b9f3081067c3fb4a7eb54cdd83bcda93c4c4bf4326f65a97a6cef31",
+            "sha256": "5946eee85ef90384433d96264dea0b0c589ad7ab990ad4a3ba28fc8615db3167",
             "w": 256
           },
           {
-            "bytes": 10046,
+            "bytes": 10030,
             "h": 144,
             "path": "avif/red-rosette-vine-384.avif",
-            "sha256": "29a88823bc87b4309fcb8863b328f7a20a621e6c1df3175c2e6b4aeef55579ed",
+            "sha256": "d6a659942b6fbff6b637a0aecec1e561a063c554410284689780cb3c4f0bedce",
             "w": 384
           },
           {
-            "bytes": 13661,
+            "bytes": 13558,
             "h": 192,
             "path": "avif/red-rosette-vine-512.avif",
-            "sha256": "13f4159046aafd205b182e0b224cf9ac9241fe8b98a658194ccc1b3b16c5a504",
+            "sha256": "c4bff13c2ae011016d1f7cd791160fdb4081d62649d89a07ea438a00bcfc0e05",
             "w": 512
           },
           {
-            "bytes": 19047,
+            "bytes": 19007,
             "h": 288,
             "path": "avif/red-rosette-vine-768.avif",
-            "sha256": "44a234699bd6c8ad531057c1f31e7d5b1a9ac9434029b1f767a6c2cdb3afc72d",
+            "sha256": "96b3d0a66b2ce2148732c8e58557b2b0ca305321fe6937f2221db3eab1851633",
             "w": 768
           },
           {
-            "bytes": 25172,
+            "bytes": 25359,
             "h": 384,
             "path": "avif/red-rosette-vine-1024.avif",
-            "sha256": "4269f18e2a6784ca1f028910934005bfb010fc36059b1f80bfc21af70139374f",
+            "sha256": "09026e08e483a2bac928ce93cd92e784311830d168532d137ac5ae16f3f8888e",
             "w": 1024
           },
           {
-            "bytes": 34197,
+            "bytes": 34150,
             "h": 576,
             "path": "avif/red-rosette-vine-1536.avif",
-            "sha256": "50fdd73728fe68326f7dd036b12dd47eb3eb97ee754efc042d59c0130b9bdd2d",
+            "sha256": "79af8e24afa58a2bd94a75b940044553e3a260c220c121b73cbb82964783e9b6",
             "w": 1536
           },
           {
-            "bytes": 35656,
+            "bytes": 35697,
             "h": 768,
             "path": "avif/red-rosette-vine-2048.avif",
-            "sha256": "3a648ca31988667c7469faa6b591e60eca0f7764a2c4d9c6d2aa082d39205d0d",
+            "sha256": "f1cf37221351e41ff2a4be71aa35e7fda32bb70f1410de73177d37b078e61509",
             "w": 2048
           }
         ],
         "svg": {
-          "bytes": 13222,
+          "bytes": 10528,
           "h": 96,
           "path": "svg/red-rosette-vine.svg",
-          "sha256": "6bed3fef838d507578f195dfc713c8f464992a80ccaf218e2c82bfc7ac718226",
+          "sha256": "e5ac2a6f876847be94bcb1ad25a4e718a2a76c3a88f59bc525dab427f505b74c",
           "w": 256
         },
         "webp": [
@@ -3561,77 +3561,77 @@
             "bytes": 1626,
             "h": 24,
             "path": "webp/red-rosette-vine-64.webp",
-            "sha256": "d181919674ac4ba9856cb6f6e44b9ec36e863f2fe9e88aef19c4b0ec15724d12",
+            "sha256": "0e8c7717059cddbb4063ac1a7aeeba73c3136e747a015565af77e6b862b8613a",
             "w": 64
           },
           {
-            "bytes": 2554,
+            "bytes": 2550,
             "h": 36,
             "path": "webp/red-rosette-vine-96.webp",
-            "sha256": "471859b1180584cbd6ad4bc962006b64c9b6e2a5a734ba0ecc461da2f25e223b",
+            "sha256": "8ce1940d1ff9f9df986c8bd862ca0fee420478ee7b2685f61ac24c1fdbce9e53",
             "w": 96
           },
           {
-            "bytes": 3422,
+            "bytes": 3426,
             "h": 48,
             "path": "webp/red-rosette-vine-128.webp",
-            "sha256": "4f6a28633d2eb1153e8010795ff8968e0062c53402dc4cca2c7fda7d049450c3",
+            "sha256": "fcf38e1385c1a228267f206cb880ea565bd88efe9c1bb2d8cca502993ebcdbe1",
             "w": 128
           },
           {
-            "bytes": 5574,
+            "bytes": 5580,
             "h": 72,
             "path": "webp/red-rosette-vine-192.webp",
-            "sha256": "f782883b11500510e42cf7d0464b7b4fe7dd28b4e265ec852f2ed3e5ec0fd4ac",
+            "sha256": "c49dfbc35a137e93199215ed1e19c7c4b6217141f9ccd6572ddd302e5a8f6cb7",
             "w": 192
           },
           {
-            "bytes": 6960,
+            "bytes": 6922,
             "h": 96,
             "path": "webp/red-rosette-vine-256.webp",
-            "sha256": "531b182c2d6a388adae06ee8d9cd3dba91c0e783be442daeae28a76ff3285d0d",
+            "sha256": "4218561af6f4dc5357e2b9b348585ef3e0983bcb38ca9c8cb5b641e0bdb9bb29",
             "w": 256
           },
           {
-            "bytes": 11652,
+            "bytes": 11664,
             "h": 144,
             "path": "webp/red-rosette-vine-384.webp",
-            "sha256": "12e940ec2ea40fa03a13d62db54122c29529edb634f12fd8632ee811f5ef9bab",
+            "sha256": "de386ac4a9b2c340660a337f1df0e3e51a0df5ae1d021b24eeea683881065038",
             "w": 384
           },
           {
-            "bytes": 16158,
+            "bytes": 16156,
             "h": 192,
             "path": "webp/red-rosette-vine-512.webp",
-            "sha256": "b86dc21078d01ba37c4b74fc868ba5cf317a1c6293a2ef4e9aced1cf7d9e428c",
+            "sha256": "0c8e80a8d66441a31d564b14da360a09339b26ad34e84ab7451bc6fff0e77745",
             "w": 512
           },
           {
-            "bytes": 25324,
+            "bytes": 25378,
             "h": 288,
             "path": "webp/red-rosette-vine-768.webp",
-            "sha256": "41a21218c8d810bcccfb431d3a9462d3f18d5175490dad106e07c08144455a16",
+            "sha256": "52d1511bf6ba5e3f017f81434fdf3daf2ffecfb52e49c602162dd77cb06c3c47",
             "w": 768
           },
           {
-            "bytes": 34252,
+            "bytes": 34254,
             "h": 384,
             "path": "webp/red-rosette-vine-1024.webp",
-            "sha256": "be34434137fe40c352d3fb72e10b586e9c7b832220674c27d8f01320a0829f9f",
+            "sha256": "fb833171dbf863699e5daefb0a9d6a94d8966914748b9b67c9194c37004c039c",
             "w": 1024
           },
           {
-            "bytes": 55072,
+            "bytes": 55240,
             "h": 576,
             "path": "webp/red-rosette-vine-1536.webp",
-            "sha256": "b4d4ffa69056ceb3fb3f44bc8f54a3c92355b79a2d1ea0fdd11677f26ab58b3f",
+            "sha256": "9ddacf5a57cf4908dfc8beccc16d9fd257e96580cea13de2892f24d42cb08746",
             "w": 1536
           },
           {
-            "bytes": 50312,
+            "bytes": 50310,
             "h": 768,
             "path": "webp/red-rosette-vine-2048.webp",
-            "sha256": "2119e7735920b6f29a95b80cb2e2d8eef4ca0d1471a1304f67fd41c6456060d7",
+            "sha256": "04044952541b824a2b1423989e74f8e6cc9f7dd441339ca303990a3d5340dd8c",
             "w": 2048
           }
         ]
@@ -3669,8 +3669,8 @@
           "description": "Top-left quarter-round corner, the stem bent through a quarter circle with one larger red trefoil, meeting the strip's stem at the centre of its right and bottom edges.",
           "encoding": {
             "avif": true,
-            "avifTopBytes": 15905,
-            "webpTopBytes": 30022
+            "avifTopBytes": 15770,
+            "webpTopBytes": 29988
           },
           "master": {
             "bytes": 1184,
@@ -3682,159 +3682,159 @@
           "sources": {
             "avif": [
               {
-                "bytes": 1156,
+                "bytes": 1158,
                 "h": 64,
                 "path": "avif/red-trefoil-vine.corner-64.avif",
-                "sha256": "aff2d94df26adaf6ca1abf5c913c21a819a50e7d84fad982febb743cf156bb77",
+                "sha256": "284a3f50a61954aebc9046f59db0e1f28af5de6c6bb7bfa4a4f9172b9ca760e9",
                 "w": 64
               },
               {
-                "bytes": 1591,
+                "bytes": 1575,
                 "h": 96,
                 "path": "avif/red-trefoil-vine.corner-96.avif",
-                "sha256": "2979939fdec67f7411af72e6971e507775e3dae7b3f6f431104dbc44a0b90fb8",
+                "sha256": "32b2ec5ca9c651fc749182c49e2adad1d2351aa05c2129763a9b7344b895ee73",
                 "w": 96
               },
               {
-                "bytes": 1812,
+                "bytes": 1811,
                 "h": 128,
                 "path": "avif/red-trefoil-vine.corner-128.avif",
-                "sha256": "938a5e7b65fcb67423f99e0b5fc6b6da1143d8c4d10206f423a2eeea63756967",
+                "sha256": "d54dd30df2739c01265773053ef684c4fa167d8c62827951e05a30ec36325148",
                 "w": 128
               },
               {
-                "bytes": 2445,
+                "bytes": 2389,
                 "h": 192,
                 "path": "avif/red-trefoil-vine.corner-192.avif",
-                "sha256": "9ec3b678879f8b762b8f043015adfe79bb0964e92c22973b578005e09e3d23cd",
+                "sha256": "3b6fb9b743d8a48699b69421f3a453ce6f4811067166c47e319f146724a83101",
                 "w": 192
               },
               {
-                "bytes": 3067,
+                "bytes": 3076,
                 "h": 256,
                 "path": "avif/red-trefoil-vine.corner-256.avif",
-                "sha256": "c003727439224347b55c90c2b44356dc42287d45a3cf6ad3ccc5e23ea8f4b630",
+                "sha256": "4e6048a491a2fd44bb5c9682c4f7630b5c6551bc3ea1d56dd62c4dd8c7b4c009",
                 "w": 256
               },
               {
-                "bytes": 4457,
+                "bytes": 4450,
                 "h": 384,
                 "path": "avif/red-trefoil-vine.corner-384.avif",
-                "sha256": "30ebddd33ecc69879363c0329b1f7bda0620e99c3cb531604a84a5c5f462cf80",
+                "sha256": "8f9329d16f69e5bddedefd50865ed9b5664fb397f04921c9067aed4cb50edf16",
                 "w": 384
               },
               {
-                "bytes": 5746,
+                "bytes": 5802,
                 "h": 512,
                 "path": "avif/red-trefoil-vine.corner-512.avif",
-                "sha256": "6cb66c4d0cb16e227bd987e02065820d4d53e01f70a962a96fab82df200acef4",
+                "sha256": "19ec5c70eb3566a3bfb01dcc9164f1909536ed099abb62cddb63e3612a8ecc26",
                 "w": 512
               },
               {
-                "bytes": 8324,
+                "bytes": 8314,
                 "h": 768,
                 "path": "avif/red-trefoil-vine.corner-768.avif",
-                "sha256": "485e99ba970c52ecdac2705f42d56f289a6d993109a02d970cca6e81c58333bb",
+                "sha256": "d36056bb9850b202377ef253bfb4f288314436dfaee1784e2cec7146e2ade2f4",
                 "w": 768
               },
               {
-                "bytes": 10776,
+                "bytes": 10773,
                 "h": 1024,
                 "path": "avif/red-trefoil-vine.corner-1024.avif",
-                "sha256": "f30240beda2bc474aef29dfd9ac874029871986caa63e87e872c431dfbe3011b",
+                "sha256": "a4c3fe237148a6325a5a7189a3506fcd65399dfd40515e5fe44785eda2c34108",
                 "w": 1024
               },
               {
-                "bytes": 16251,
+                "bytes": 16216,
                 "h": 1536,
                 "path": "avif/red-trefoil-vine.corner-1536.avif",
-                "sha256": "0264ecc57075a786d45ec1cad0dcb3f265e634eaca288f1c0a82aee80ae6344c",
+                "sha256": "be34c79d8f4cad41259feff4d955ab2de3540606cd3bcdbb3baf207fc688d186",
                 "w": 1536
               },
               {
-                "bytes": 15905,
+                "bytes": 15770,
                 "h": 2048,
                 "path": "avif/red-trefoil-vine.corner-2048.avif",
-                "sha256": "0bbf048156207e910ef97623dd49f32e7d746277e11e2902418bbc347a098b4c",
+                "sha256": "42c1ae1aebedcc9ab9df0bdaa87b61c5531df5d91542a94a7b37b12913491e29",
                 "w": 2048
               }
             ],
             "webp": [
               {
-                "bytes": 976,
+                "bytes": 972,
                 "h": 64,
                 "path": "webp/red-trefoil-vine.corner-64.webp",
-                "sha256": "586b6a7f346abcd381506fee78be1d36bc5b476d8147e7cca118157d2fedbdb0",
+                "sha256": "7ed3e60feb96675cda85279ef25af24c5f754055a6b037dae11564b394cafe7f",
                 "w": 64
               },
               {
-                "bytes": 1566,
+                "bytes": 1574,
                 "h": 96,
                 "path": "webp/red-trefoil-vine.corner-96.webp",
-                "sha256": "bdd332255c1bac8e5c442ef4739306ca0811ffacca995b45f8e1256e85ba7a4b",
+                "sha256": "1edb4e55ba57d02248d4f093b62598e5436e414bb696011664e712dcbf726083",
                 "w": 96
               },
               {
-                "bytes": 2054,
+                "bytes": 2060,
                 "h": 128,
                 "path": "webp/red-trefoil-vine.corner-128.webp",
-                "sha256": "c5ff80d05e44289ea1b602d5038ee8da09fb2beaa6b3fdb4807d51b36b4d22b2",
+                "sha256": "08efab6ebc073ccb8732ec7297ad617d8a98b655eb5044a42b355e42485b5f83",
                 "w": 128
               },
               {
-                "bytes": 3180,
+                "bytes": 3172,
                 "h": 192,
                 "path": "webp/red-trefoil-vine.corner-192.webp",
-                "sha256": "57b603dd984bf72e4e176ea125b80d3fc764fc75576f4e912b7dec701175241a",
+                "sha256": "6ca74f4c7282d619bd581c73b223fb5ccf85ff5e5c7915fb2a1648e54ad777db",
                 "w": 192
               },
               {
-                "bytes": 4286,
+                "bytes": 4280,
                 "h": 256,
                 "path": "webp/red-trefoil-vine.corner-256.webp",
-                "sha256": "e676310a92e1a660378a1572c1633b4dd181acd357256c4ad6af93555519e6eb",
+                "sha256": "89f4fddec6dc0bfea5fe78bb9f8455b60b495862aaaf4428e89566fb905fc961",
                 "w": 256
               },
               {
-                "bytes": 6792,
+                "bytes": 6798,
                 "h": 384,
                 "path": "webp/red-trefoil-vine.corner-384.webp",
-                "sha256": "f87aea965ff31ae043089df913c3ba3afb58e96836c66716170e55e95c850cef",
+                "sha256": "9a26b868ff26d7530b1a3490be6fa1426500149b6996034518e04afa86b44b96",
                 "w": 384
               },
               {
                 "bytes": 9394,
                 "h": 512,
                 "path": "webp/red-trefoil-vine.corner-512.webp",
-                "sha256": "5ec8edf7bbdc7ef198981ab157aff323853f16abcd1eee9b7e67d39aae9e5561",
+                "sha256": "e4a1766bc3d4e71489d709dff5e089de8857d436f724ee2bfc8ebcb45a4ee6f8",
                 "w": 512
               },
               {
-                "bytes": 14438,
+                "bytes": 14428,
                 "h": 768,
                 "path": "webp/red-trefoil-vine.corner-768.webp",
-                "sha256": "0e1ffd315643ad0d631e6e25d85a7edcf10823ddb8797b0937cd284fe0278cd5",
+                "sha256": "6880009ae131024e0fbb5d401a8865e4b91ac87f8e69f0b2ea8ecf97f6b48e93",
                 "w": 768
               },
               {
-                "bytes": 19858,
+                "bytes": 19804,
                 "h": 1024,
                 "path": "webp/red-trefoil-vine.corner-1024.webp",
-                "sha256": "99004a9eb062a98dfbc0599c8aecce6ead333422a1db74f47bfdba9cb214f1fa",
+                "sha256": "be1dce1e26d8d7cc7a8d0620c0a49b7243cb06213cdca8ae5d5f114ff68d8c90",
                 "w": 1024
               },
               {
-                "bytes": 31222,
+                "bytes": 31196,
                 "h": 1536,
                 "path": "webp/red-trefoil-vine.corner-1536.webp",
-                "sha256": "b2086315196f20e54ade545279026b2824582688a26cda8d49c6cfd77ac94afd",
+                "sha256": "cf9db949ffe4c0669d7f2cd921e9638dd3e4720b42a4a22b080f3c3b9e526dce",
                 "w": 1536
               },
               {
-                "bytes": 30022,
+                "bytes": 29988,
                 "h": 2048,
                 "path": "webp/red-trefoil-vine.corner-2048.webp",
-                "sha256": "09af292ff7082891566ae4055533b06f93f302a89224c6c206eb237d47199fef",
+                "sha256": "27075ae4f0b35deb2a2a0027596d3d137ab431043fb84cb11cd8361f27cd2fc2",
                 "w": 2048
               }
             ]
@@ -3849,8 +3849,8 @@
       ],
       "encoding": {
         "avif": true,
-        "avifTopBytes": 33990,
-        "webpTopBytes": 46822
+        "avifTopBytes": 34006,
+        "webpTopBytes": 46794
       },
       "facing": "none",
       "group": null,
@@ -3878,156 +3878,156 @@
                 "bytes": 2458,
                 "h": 64,
                 "path": "frames/red-trefoil-vine-atlas-64.avif",
-                "sha256": "d5ca65839ce693430db687f8b3740613e7b569ae104dc559a1f09fcf0e002850",
+                "sha256": "ccc8a6146729c8581538767eb4d579bf04e4d6dd00c95da2ac0fd45c5ed76275",
                 "w": 64
               },
               {
-                "bytes": 5050,
+                "bytes": 5065,
                 "h": 96,
                 "path": "frames/red-trefoil-vine-atlas-96.avif",
-                "sha256": "ab945be6ac6808e95886785fb2d5b38cffaaa6b8c2212cf72daf9fdd16079d22",
+                "sha256": "f943845a4772c8e73a288c3be3dd52f305bbfa0d6f4a401fe11c3db25b44a2f0",
                 "w": 96
               },
               {
-                "bytes": 7149,
+                "bytes": 7081,
                 "h": 128,
                 "path": "frames/red-trefoil-vine-atlas-128.avif",
-                "sha256": "e6114804117e0476c0d08af3cf723b449c024b576799e47db682b33c8bfed521",
+                "sha256": "7c116ef6355a2ea6387f39b7a9650791db1e0d683a5acb8265fb57191497606d",
                 "w": 128
               },
               {
-                "bytes": 10816,
+                "bytes": 10885,
                 "h": 192,
                 "path": "frames/red-trefoil-vine-atlas-192.avif",
-                "sha256": "1087a5433a71dad379700791a869c1acf26a1a26ce1f097a06fe5c6fd7bb9a74",
+                "sha256": "cf532a74b6eede6d2d1e211940fd61115a46dd79d0175b2b360213c188598f11",
                 "w": 192
               },
               {
-                "bytes": 14817,
+                "bytes": 14852,
                 "h": 256,
                 "path": "frames/red-trefoil-vine-atlas-256.avif",
-                "sha256": "2ecf218614f729c73d4c1e38771e04a1b8e572d1c87e704b210c15c54743e7fb",
+                "sha256": "453ca4929c681f633062f23ff3d616472089d05226447232410174a728f76abb",
                 "w": 256
               },
               {
-                "bytes": 23503,
+                "bytes": 23400,
                 "h": 384,
                 "path": "frames/red-trefoil-vine-atlas-384.avif",
-                "sha256": "1958af37aebf0d416cf3b30f831b43d79a7a333001cb88bfb31bfef501bc1bb7",
+                "sha256": "675bf02a74997f7621d4634928c8b2f6bc7ccee802ba45ec0465ad715df767c5",
                 "w": 384
               },
               {
-                "bytes": 32290,
+                "bytes": 32332,
                 "h": 512,
                 "path": "frames/red-trefoil-vine-atlas-512.avif",
-                "sha256": "7bc6d65a6dc702a8ff5307078900d7d7512544617eb2ddfb6fda9d2cb5944fbb",
+                "sha256": "4399eb4752d51a400006e8bc17f2ee6a3da39eefdbf5fc8eec5246521f621c40",
                 "w": 512
               },
               {
-                "bytes": 44821,
+                "bytes": 44880,
                 "h": 768,
                 "path": "frames/red-trefoil-vine-atlas-768.avif",
-                "sha256": "4a90c108b91704c97cf2d6b4f06e4502752671a7c1a8b48e037028da59b69c82",
+                "sha256": "7b7ae871e3a5c9cb335a145f05b9edac3c35f0580ad47f90aebd537ff8d57bf6",
                 "w": 768
               },
               {
-                "bytes": 63966,
+                "bytes": 63920,
                 "h": 1024,
                 "path": "frames/red-trefoil-vine-atlas-1024.avif",
-                "sha256": "a93223a77769e738c09c8c9d6e8e06af78bb3919ea865dc502eea9501c5f25a9",
+                "sha256": "d271ecd985d47ab70f6f11b346d0674d53514c50529caa9c960226cd637592d5",
                 "w": 1024
               },
               {
-                "bytes": 80846,
+                "bytes": 80861,
                 "h": 1536,
                 "path": "frames/red-trefoil-vine-atlas-1536.avif",
-                "sha256": "50d68a63193cb7af27bc6edd40ee0661dcf094941db861c81859c770484e1f6f",
+                "sha256": "9c657318c1614902b058007b3bcc152e2d078aafa96944ad50d8ad1600f3a2df",
                 "w": 1536
               },
               {
-                "bytes": 106308,
+                "bytes": 106250,
                 "h": 2048,
                 "path": "frames/red-trefoil-vine-atlas-2048.avif",
-                "sha256": "e61ada30aeceba1e04f849c8de43e40ee60b3c707f9d6b3c3516d52de6859fd3",
+                "sha256": "a59be690732fc9436ebbd39ea1e588b6b01b126e092509038b75efc20e3a0c56",
                 "w": 2048
               }
             ],
             "webp": [
               {
-                "bytes": 2804,
+                "bytes": 2810,
                 "h": 64,
                 "path": "frames/red-trefoil-vine-atlas-64.webp",
-                "sha256": "6e0704851748f1203f8b6118104733749164736c332ab4be2f62f93076ce0aed",
+                "sha256": "7bb70f9cea6409bfa1b4004844e9657319a37aadc6ccb4f43c5fe1b2ff61c577",
                 "w": 64
               },
               {
                 "bytes": 4862,
                 "h": 96,
                 "path": "frames/red-trefoil-vine-atlas-96.webp",
-                "sha256": "bdbf22eef78ebad7f31649f5288d56901c92e816fc31e38069c06fa504350a14",
+                "sha256": "cb9b111f5563a78f6a1cb499c0549b95f7704e0bf44f363b359f140a2a925fad",
                 "w": 96
               },
               {
-                "bytes": 7426,
+                "bytes": 7424,
                 "h": 128,
                 "path": "frames/red-trefoil-vine-atlas-128.webp",
-                "sha256": "103d26b5fabfd879b6f72a4b095bb3d5cfc4b610f42968bd91830b1cb9a47a69",
+                "sha256": "2ad9030dbc7771337cd703e06b138b03afdde5b7079291a759acab6a3a7a91e5",
                 "w": 128
               },
               {
-                "bytes": 12316,
+                "bytes": 12312,
                 "h": 192,
                 "path": "frames/red-trefoil-vine-atlas-192.webp",
-                "sha256": "ee84278790c9e48db3ca64a80f7c4443fff9d8db0dfa0341f04d52e0fa70d1e7",
+                "sha256": "52fe27c54b5891763a28670c73435f4d70e2f99549c7fed2f3b55cc6861dd2a3",
                 "w": 192
               },
               {
-                "bytes": 17780,
+                "bytes": 17796,
                 "h": 256,
                 "path": "frames/red-trefoil-vine-atlas-256.webp",
-                "sha256": "fc0db8a743e593a20a6fa448fda8c72232c0a2dcdbad258c6a174ac95db8b615",
+                "sha256": "0c414ef8c00c2b0088bf3ae113fae5636011b58a996abef55632faf6cfe46bd4",
                 "w": 256
               },
               {
-                "bytes": 29270,
+                "bytes": 29236,
                 "h": 384,
                 "path": "frames/red-trefoil-vine-atlas-384.webp",
-                "sha256": "0cd9f302b73e302456ba9e1a3c72a56a8833213e76e4703614b18e893dc1de31",
+                "sha256": "3770b3ae00877fa9b3e273bd5e77fb8b72c665bf55d20928c3d6da4e233a9bbf",
                 "w": 384
               },
               {
-                "bytes": 42124,
+                "bytes": 42140,
                 "h": 512,
                 "path": "frames/red-trefoil-vine-atlas-512.webp",
-                "sha256": "a08cbb5e99611e54d55b48b73ecf83b383ace0cde68a78c4f7f089eeaf12daad",
+                "sha256": "48b6147bc30836f07cb2ef16b639540e6d1ea61a7857b9173c7fe877fa67c1f0",
                 "w": 512
               },
               {
-                "bytes": 67806,
+                "bytes": 67840,
                 "h": 768,
                 "path": "frames/red-trefoil-vine-atlas-768.webp",
-                "sha256": "5669f4317f7df8c7a0a6f7ba98c2455570465a6ec3822771f5799ea1c40ec35b",
+                "sha256": "9f9df782e03bb8f16e2ff9b937d86aaa0b735b518ecde9fee0ea3bc85860edec",
                 "w": 768
               },
               {
-                "bytes": 96992,
+                "bytes": 96982,
                 "h": 1024,
                 "path": "frames/red-trefoil-vine-atlas-1024.webp",
-                "sha256": "cfb58b81cc743b23f225984e759cc44cf9acbb74c151ed9ef86f20914d588177",
+                "sha256": "b960436446209e140cbbc706ffbff035eac474116033a988036da38743acbfd6",
                 "w": 1024
               },
               {
-                "bytes": 158440,
+                "bytes": 158522,
                 "h": 1536,
                 "path": "frames/red-trefoil-vine-atlas-1536.webp",
-                "sha256": "71cf0cc1117ddc20ab044730b26184d83c92e5f89099e0f99f52f08874fa27d9",
+                "sha256": "f13493b52c0b8edf776fac815a2c069d1cd1614d0ee7a562091e7c913dd1eee7",
                 "w": 1536
               },
               {
-                "bytes": 239708,
+                "bytes": 240058,
                 "h": 2048,
                 "path": "frames/red-trefoil-vine-atlas-2048.webp",
-                "sha256": "afbed3b4cb653d429aa53c213e3cc1e5814cf44e2a2d331edb8548179bbc78dd",
+                "sha256": "be21f6b05ebdd8eb9a1ecd626bc775498cbb09ee2f73e99c87f6d7c7acdcc765",
                 "w": 2048
               }
             ]
@@ -4045,156 +4045,156 @@
                 "bytes": 1574,
                 "h": 64,
                 "path": "tiles/red-trefoil-vine-rotated-24.avif",
-                "sha256": "50fb9e12629b1ad2e496cbded41f2586d46cfaa16a8ab7103767c1ba2daf26ed",
+                "sha256": "8a8bc5e9306f98112ee5b7832c1c7f46ead986dadea516eb1084e132fe3c390b",
                 "w": 24
               },
               {
-                "bytes": 2223,
+                "bytes": 2215,
                 "h": 96,
                 "path": "tiles/red-trefoil-vine-rotated-36.avif",
-                "sha256": "b7226b9fa2b8bacf4e0c7f728683f7f5c2ca396c68e570bd388ab35776011b23",
+                "sha256": "5fb5cfebb951d4858543e16e62c19f13aa539875935764bba7fbbb25c8e90f6c",
                 "w": 36
               },
               {
-                "bytes": 3387,
+                "bytes": 3392,
                 "h": 128,
                 "path": "tiles/red-trefoil-vine-rotated-48.avif",
-                "sha256": "6d858da77870896c2f641422c64591b72f3239d14c5b54aecb70866b4feb39d9",
+                "sha256": "404fff67eab98d251e53e8656608180fe9533a9d8fdda9652bb55f507ca3d419",
                 "w": 48
               },
               {
-                "bytes": 4657,
+                "bytes": 4653,
                 "h": 192,
                 "path": "tiles/red-trefoil-vine-rotated-72.avif",
-                "sha256": "9a2653b6914c9a94f6b38778726a7a7a46d36716e2b1c59fd2730813d467d936",
+                "sha256": "3f2805c03ce9cb37799bfa1886a1804f7aed9f4919d75f5c1eabb1ac8c0abd53",
                 "w": 72
               },
               {
-                "bytes": 6384,
+                "bytes": 6387,
                 "h": 256,
                 "path": "tiles/red-trefoil-vine-rotated-96.avif",
-                "sha256": "6208018b23e9d618b9192e729867ec9996727f141616a817a6f32b5d5b4dcf16",
+                "sha256": "08e49277037003ef99980c4912cbdf345e30eae1d5f74394e1f3c2a08446b664",
                 "w": 96
               },
               {
-                "bytes": 9683,
+                "bytes": 9707,
                 "h": 384,
                 "path": "tiles/red-trefoil-vine-rotated-144.avif",
-                "sha256": "f8a8c975d2fd327fb43450f2cde32fafbac0305d3291909e1891b4c42af9b864",
+                "sha256": "a2408618e45f9a4946b84b0062102d24c963b1edaab06d8cd7674382507a7676",
                 "w": 144
               },
               {
-                "bytes": 12647,
+                "bytes": 12595,
                 "h": 512,
                 "path": "tiles/red-trefoil-vine-rotated-192.avif",
-                "sha256": "d0d74aa12383840fe17b812dbc1d470e30b96a4e17e933d2d3409b14a6e6a388",
+                "sha256": "fb086d70342ce7bc5fe40b35217335191e5b130fb9a5ab2dbb987c0cc7798e62",
                 "w": 192
               },
               {
-                "bytes": 19498,
+                "bytes": 19343,
                 "h": 768,
                 "path": "tiles/red-trefoil-vine-rotated-288.avif",
-                "sha256": "9c2e4b102ec23d84b3cbe6e7027258cb50cc1fbb8bfab69142d86abdc9a6bc3d",
+                "sha256": "38801417acd4f2351b761b1a5406dc58f3a6808bd364c95a6ec8e1909ad7933c",
                 "w": 288
               },
               {
-                "bytes": 24937,
+                "bytes": 25039,
                 "h": 1024,
                 "path": "tiles/red-trefoil-vine-rotated-384.avif",
-                "sha256": "257b6f3f7733e42606fb6554ea020c9d89792b03d925971891ceb84c88a131e3",
+                "sha256": "12ef06cb6329b4cbd254308093ab39d26687b86a7c1e639ee9f715bb32ece809",
                 "w": 384
               },
               {
-                "bytes": 35628,
+                "bytes": 35668,
                 "h": 1536,
                 "path": "tiles/red-trefoil-vine-rotated-576.avif",
-                "sha256": "643005ec396cdcf0cb8f0c0c7901ad4e4eaf6c9e4d3d022c2e1dcbbd47078bf3",
+                "sha256": "45bac385351f7dc3bc82e2d8966c623d7b8414b6bfdad250bb52a19e8300aa02",
                 "w": 576
               },
               {
-                "bytes": 33466,
+                "bytes": 33385,
                 "h": 2048,
                 "path": "tiles/red-trefoil-vine-rotated-768.avif",
-                "sha256": "5a8585731c34b81ad5ddb7315824fa344301c447a80db63957a102a4fbebba31",
+                "sha256": "8541782f47d6d9dc2c4266521daad3cf9eefe14751dbf6d0615e51db234e774d",
                 "w": 768
               }
             ],
             "webp": [
               {
-                "bytes": 1474,
+                "bytes": 1472,
                 "h": 64,
                 "path": "tiles/red-trefoil-vine-rotated-24.webp",
-                "sha256": "8fbbd8a7d12a119fd7e9f4d9f65d85d0219f2660d809c99ead55cc6a1b75a1e5",
+                "sha256": "cc5deea3853a02d63b3712afa6aa1159c1e6a02a509893056a47b4d1cdf75000",
                 "w": 24
               },
               {
-                "bytes": 2322,
+                "bytes": 2320,
                 "h": 96,
                 "path": "tiles/red-trefoil-vine-rotated-36.webp",
-                "sha256": "ade930e591a48099a4ec7b66cf9885b85b847cc6db6b042a471a042c53f73dfe",
+                "sha256": "8f8b9fb3c0fdaa0981abf4fa13c5c74f82eb38d5499a11b340e29d7958e1e946",
                 "w": 36
               },
               {
-                "bytes": 3258,
+                "bytes": 3256,
                 "h": 128,
                 "path": "tiles/red-trefoil-vine-rotated-48.webp",
-                "sha256": "fed176189fb5160dd54e6e368c27bc7d1629038e5a2b62364600be6f59893142",
+                "sha256": "b941035ea94731950e205923fc5c2511c3473149123550158d26a26b23ff0161",
                 "w": 48
               },
               {
-                "bytes": 5450,
+                "bytes": 5442,
                 "h": 192,
                 "path": "tiles/red-trefoil-vine-rotated-72.webp",
-                "sha256": "49e699925a80511225841b73a4bfc8df17b9a0f2c1d3ee3caf6c52afd1474d85",
+                "sha256": "b5a22f8431d67402cf54f8a52b022f820af665bcb42d7e8002601b50274fe954",
                 "w": 72
               },
               {
-                "bytes": 7510,
+                "bytes": 7518,
                 "h": 256,
                 "path": "tiles/red-trefoil-vine-rotated-96.webp",
-                "sha256": "8ef7d3e33aa7e011e8f446c94efa964dabec760d51a2e58b02d8a1b8aa9f5994",
+                "sha256": "3edeac70a87e2a7e69b186af2c559f3c70b91f988ec7c2abcc94c98c21d6c0ef",
                 "w": 96
               },
               {
-                "bytes": 12524,
+                "bytes": 12536,
                 "h": 384,
                 "path": "tiles/red-trefoil-vine-rotated-144.webp",
-                "sha256": "ef399946e9903b2235c0d0dda919a5689ec0d0419d532b6f11a61a2efdd64c7d",
+                "sha256": "ec16a0ee6b4efa15782ed42e7baa812d9aef5d95588360c0052eea018b455476",
                 "w": 144
               },
               {
-                "bytes": 17792,
+                "bytes": 17778,
                 "h": 512,
                 "path": "tiles/red-trefoil-vine-rotated-192.webp",
-                "sha256": "77585121ff5dabab6d7181c6231ff900bac098b4d5d6de8845e6d4c8e0a95c49",
+                "sha256": "c18a389be3bbddd7efce74e1a54785c2b2928fb6e5ace678d328c1a0fd1cccec",
                 "w": 192
               },
               {
-                "bytes": 27514,
+                "bytes": 27510,
                 "h": 768,
                 "path": "tiles/red-trefoil-vine-rotated-288.webp",
-                "sha256": "446c1e76be08cb219715f202ce04198f4814286482953a399b71de77815cd078",
+                "sha256": "9cf9c52c13d195cd2a19fa506a89b450d07b3b4cd9d9134effc12070d15486c7",
                 "w": 288
               },
               {
-                "bytes": 37580,
+                "bytes": 37600,
                 "h": 1024,
                 "path": "tiles/red-trefoil-vine-rotated-384.webp",
-                "sha256": "ef574eae87b3d21480095792ecd80f0ffd2eb7fd63367dcb6460a16ad38334d3",
+                "sha256": "a38b14e9bed30232caee37c6964e07725e7f7e035b71df4e078945eb8c0235dc",
                 "w": 384
               },
               {
-                "bytes": 58500,
+                "bytes": 58518,
                 "h": 1536,
                 "path": "tiles/red-trefoil-vine-rotated-576.webp",
-                "sha256": "25c41ff3195521df29991909b8a6a3d20ea52bdc1816e56921438342ecb00bf0",
+                "sha256": "da756c1a2d5c0b93a553625bc9d6eb779664b40f9301b965f01101ae2d4aa956",
                 "w": 576
               },
               {
-                "bytes": 48424,
+                "bytes": 48470,
                 "h": 2048,
                 "path": "tiles/red-trefoil-vine-rotated-768.webp",
-                "sha256": "7036b9d737c99e9df81e5c678362885c39f03c9da9c6196392dec8299bbe49a2",
+                "sha256": "14ba9aa59da171eb0903f111fe81b939144847e574ea4c979ff1fe2e4cbc84ff",
                 "w": 768
               }
             ]
@@ -4205,166 +4205,166 @@
       "sources": {
         "avif": [
           {
-            "bytes": 1607,
+            "bytes": 1605,
             "h": 24,
             "path": "avif/red-trefoil-vine-64.avif",
-            "sha256": "4715edfa3fe66088c049183cbb79de487ee23f9167d87a3bd548ba9d89d6d325",
+            "sha256": "5ac3fa8ad31c81043678b5f2fca199195bedba4f1db697b2dff2b007dbc7de04",
             "w": 64
           },
           {
-            "bytes": 2471,
+            "bytes": 2472,
             "h": 36,
             "path": "avif/red-trefoil-vine-96.avif",
-            "sha256": "a5b17967d54ef0cea299c14711552a252feee72edae69a9037ede3ba99db0e36",
+            "sha256": "4b8f781114c21f151e756080b932b3725415fb5bb5bc2af0044ca871c31b1439",
             "w": 96
           },
           {
-            "bytes": 3363,
+            "bytes": 3360,
             "h": 48,
             "path": "avif/red-trefoil-vine-128.avif",
-            "sha256": "f68c45eedeb539437df3c3b9a27d1b0481f6fd3a080fd77951ccb545838e805d",
+            "sha256": "ae04691a80519b9f00847b8b1ba2f6683fa3f09a774c2186dab09fca70bd47be",
             "w": 128
           },
           {
-            "bytes": 4618,
+            "bytes": 4576,
             "h": 72,
             "path": "avif/red-trefoil-vine-192.avif",
-            "sha256": "edccb44f20c7d8c028aaaeb6e9fd9067ab110a5baa613c0f181d8dad4d1d366e",
+            "sha256": "928ee529860c0ccb24db17ce71f9d4b1c0f085c01946176271f7dab4a27d192a",
             "w": 192
           },
           {
-            "bytes": 6522,
+            "bytes": 6508,
             "h": 96,
             "path": "avif/red-trefoil-vine-256.avif",
-            "sha256": "86d7014c51f7b82fb21ea74d3cd19e7dd2169b71ec159df811395f9984b05a13",
+            "sha256": "9ae0d84040448b36aa5f8ea29d64dcaa6249e1c0e88fb2eb01d968e8c4280fe4",
             "w": 256
           },
           {
-            "bytes": 10181,
+            "bytes": 10091,
             "h": 144,
             "path": "avif/red-trefoil-vine-384.avif",
-            "sha256": "0c1668b4c7463466b49a0e9396e36429b0c4719a4acf51f5dfb0a83286d8059f",
+            "sha256": "673dc480063571083d1524044cb971ea656a4bfbec380acabed16b8d01386b8c",
             "w": 384
           },
           {
-            "bytes": 14015,
+            "bytes": 13992,
             "h": 192,
             "path": "avif/red-trefoil-vine-512.avif",
-            "sha256": "cc2ffc3011feece426433daee6626375eaeeaeb99510820271da7231df2a97aa",
+            "sha256": "74f41efaad71b94d879bce3c439d00ba44129ae8a262fb8caf1b3145e27d97a2",
             "w": 512
           },
           {
-            "bytes": 19246,
+            "bytes": 19260,
             "h": 288,
             "path": "avif/red-trefoil-vine-768.avif",
-            "sha256": "c6a5ed46335923d40ba11dd9844d5bdf290943977388e446176fe03d6821b051",
+            "sha256": "eae31c7601c2db00e21006cdd4450a4ce55263dc40b50ed3e1af5ee40f7a2740",
             "w": 768
           },
           {
-            "bytes": 25459,
+            "bytes": 25498,
             "h": 384,
             "path": "avif/red-trefoil-vine-1024.avif",
-            "sha256": "d48c88ab3c8f62de19d556a08d1474596dc4ad8c4e3029d2c31eb6e5a9494d42",
+            "sha256": "13d4dd905b1c63f612deb80ebbee42f63f383459de81d58485132c1114336778",
             "w": 1024
           },
           {
-            "bytes": 36450,
+            "bytes": 36442,
             "h": 576,
             "path": "avif/red-trefoil-vine-1536.avif",
-            "sha256": "b3f4c49656d4942ab374b4171f4a5bc7fdc4b1d937fe83b8a4459f19cc3c7baf",
+            "sha256": "92c6384c318cd7a263bf290c14397cd3371aee67eb0156712ae35304a1f340f5",
             "w": 1536
           },
           {
-            "bytes": 33990,
+            "bytes": 34006,
             "h": 768,
             "path": "avif/red-trefoil-vine-2048.avif",
-            "sha256": "e8565bfeb8133dc1067b5bb67d8a490347ef18343340e981467b8b5c25af77b8",
+            "sha256": "196e8cf4e26cc58f123f900dd76bc66364ec64b3b6f42190f75f9c8b0c390e07",
             "w": 2048
           }
         ],
         "svg": {
-          "bytes": 16138,
+          "bytes": 13671,
           "h": 96,
           "path": "svg/red-trefoil-vine.svg",
-          "sha256": "bc319485d9b8529742bb1267e57a30c90e08d9c9b80599d93f12d2a3bc9978ba",
+          "sha256": "70193cb01e1e37feb944f4c48c37102c2862bde9dece42cd1d98c7bb46da75a9",
           "w": 256
         },
         "webp": [
           {
-            "bytes": 1446,
+            "bytes": 1454,
             "h": 24,
             "path": "webp/red-trefoil-vine-64.webp",
-            "sha256": "eb8356676efe67648e850b6fcf16756cf39c0a2e46bd55829f5c2dd56ca31870",
+            "sha256": "869df10ff4aa9cc661c6c2014014767dac790f06cf158d9b88a7c463d86e915e",
             "w": 64
           },
           {
             "bytes": 2296,
             "h": 36,
             "path": "webp/red-trefoil-vine-96.webp",
-            "sha256": "619d4b2a3dc21f8aca7b5ac652587194908c13a8e8a0c5af2bc795746e7380a0",
+            "sha256": "81a78b46c73f09ed5566a469237f1584c439985d6252f2e3c07fbd832b9dfcd9",
             "w": 96
           },
           {
-            "bytes": 3154,
+            "bytes": 3152,
             "h": 48,
             "path": "webp/red-trefoil-vine-128.webp",
-            "sha256": "44983c41ccb3a823d315a2344fb70b336630958c9aa50a7f3a721bb9e3fd239f",
+            "sha256": "7263f325c009438748135249b81d4f2cda3a52f5bd1821ed46cc5e88d2185f80",
             "w": 128
           },
           {
-            "bytes": 5390,
+            "bytes": 5382,
             "h": 72,
             "path": "webp/red-trefoil-vine-192.webp",
-            "sha256": "53cf35d4532e149a61ed0f4b74fee6bf468adfac4646178570c19b3eb61c287f",
+            "sha256": "a3016852dc38b17fd3e8a9641978f254196eee7059abbed5c9e7860faeb4438f",
             "w": 192
           },
           {
-            "bytes": 6796,
+            "bytes": 6788,
             "h": 96,
             "path": "webp/red-trefoil-vine-256.webp",
-            "sha256": "80488b65ff2e78fe5b5a60c42468c9cc23605c7efbd1e551507f53709fbcd51e",
+            "sha256": "a241ade8dde2de66f83a7d9d4921908966d458e3d19fb6756a5eb90329e7eacd",
             "w": 256
           },
           {
-            "bytes": 11112,
+            "bytes": 11098,
             "h": 144,
             "path": "webp/red-trefoil-vine-384.webp",
-            "sha256": "b27cc38e660d0386792a808f1d1195de02e46003ed2dbea0353909d112f285bf",
+            "sha256": "a0b3bbfc999216041fae62f69a5d40ae81273594e07ea98635cc64658e595177",
             "w": 384
           },
           {
-            "bytes": 15424,
+            "bytes": 15358,
             "h": 192,
             "path": "webp/red-trefoil-vine-512.webp",
-            "sha256": "746503607cd199b2691dba759646e1c7538e2550f3da1e4c9be7d956c94de2d7",
+            "sha256": "4981826ddedec8286ee90c25cdcce4bf394b42f5bb3f9631d26de71547f5fefa",
             "w": 512
           },
           {
-            "bytes": 25092,
+            "bytes": 25212,
             "h": 288,
             "path": "webp/red-trefoil-vine-768.webp",
-            "sha256": "6d31ccc52fe5f0b2c7522758311d3ac183390134e95562201067522c81ae05be",
+            "sha256": "254091f4edb2961f0e24ef7986ef13ff0d6e65256eda8062622d6bfe0705b17e",
             "w": 768
           },
           {
-            "bytes": 34798,
+            "bytes": 34766,
             "h": 384,
             "path": "webp/red-trefoil-vine-1024.webp",
-            "sha256": "871c15d278ff5e92a24cf4052961d0449cf51bf910b5e781d8af91534e213aa6",
+            "sha256": "0e332e3617add58c4384bc6b487748bf5d9ae975ae2f889f1af990308aa76309",
             "w": 1024
           },
           {
-            "bytes": 57704,
+            "bytes": 57712,
             "h": 576,
             "path": "webp/red-trefoil-vine-1536.webp",
-            "sha256": "fe4176486e21a4c5ef3f736882d5d4113b288e436c01ac6e90f181ee745437c6",
+            "sha256": "24db4d45ddf1d36b6a97e59f9e1d9e7cfa78999dda87d6cb2b2f5b41247c9792",
             "w": 1536
           },
           {
-            "bytes": 46822,
+            "bytes": 46794,
             "h": 768,
             "path": "webp/red-trefoil-vine-2048.webp",
-            "sha256": "3f7480818f2595eb20b9a90323836103987daea4f2846872802c203e283893e6",
+            "sha256": "3b0e2fa233263a7d6e0ac5c2bdd699858056c62443cd3c4e91d9c29dbd1ef3e2",
             "w": 2048
           }
         ]
@@ -4387,10 +4387,10 @@
     }
   },
   "attribution": "adrian729",
-  "builtAt": "2026-10-30T12:47:54.001Z",
-  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-floral-vector-borders@1.0.0/",
-  "contentHash": "sha256:1856b134f66b765d02f9333246e9cbccdc9bb8d15a5e7534265ee47211ffa879",
-  "inputsHash": "sha256:fbc91a2581557f86170197555b44a34b10ad95b549983ee0106db0323909758e",
+  "builtAt": "2026-10-31T21:27:08.060Z",
+  "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-floral-vector-borders@1.0.1/",
+  "contentHash": "sha256:104cf8afa96725320ce8bdd3c5984a0a4d915ed21a9698590291aed898552766",
+  "inputsHash": "sha256:2f9fedc56abb96eac9fcf7da95a559be8c37242ad84b24d75b47e729a89488b5",
   "kind": "imported",
   "license": {
     "artwork": "CC-BY-4.0",
@@ -4409,7 +4409,8 @@
     "concurrency": 1,
     "libvips": "8.18.7",
     "sharp": "0.35.5",
+    "svgo": "4.1.0",
     "tools": "0.2.0"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }

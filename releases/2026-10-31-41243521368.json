@@ -1,0 +1,184 @@
+{
+  "schema": 1,
+  "runId": "41243521368",
+  "dryRun": false,
+  "actor": "adrian729",
+  "startedAt": "2026-10-31T21:30:33.591Z",
+  "finishedAt": "2026-10-31T21:30:49.217Z",
+  "planGeneratedAt": "2026-10-31T21:26:47.998Z",
+  "packages": [
+    {
+      "name": "@ranx729/ducktape-assets-floral-vector-borders",
+      "version": "1.0.1",
+      "set": "floral-vector-borders",
+      "kind": "delivery",
+      "inputsHash": "sha256:2f9fedc56abb96eac9fcf7da95a559be8c37242ad84b24d75b47e729a89488b5",
+      "contentHash": "sha256:104cf8afa96725320ce8bdd3c5984a0a4d915ed21a9698590291aed898552766",
+      "bytes": 10627994,
+      "result": "published",
+      "at": "2026-10-31T21:30:39.722Z"
+    },
+    {
+      "name": "@ranx729/ducktape-assets-floral-vector-borders-masters",
+      "version": "1.0.1",
+      "set": "floral-vector-borders",
+      "kind": "masters",
+      "inputsHash": "sha256:2f9fedc56abb96eac9fcf7da95a559be8c37242ad84b24d75b47e729a89488b5",
+      "contentHash": "sha256:104cf8afa96725320ce8bdd3c5984a0a4d915ed21a9698590291aed898552766",
+      "bytes": 60609,
+      "result": "published",
+      "at": "2026-10-31T21:30:43.967Z"
+    },
+    {
+      "name": "@ranx729/ducktape-assets",
+      "version": "1.7.0",
+      "set": null,
+      "kind": "index",
+      "inputsHash": "sha256:14b4f5139a9dc8c45b3b965c36973d9e66c0ef6f3619d05575612df6de475004",
+      "contentHash": "sha256:9013af953940d3b70a2e5cccf585e220ac2206b79ca57b7f1dc0336d8770742a",
+      "bytes": null,
+      "result": "published",
+      "at": "2026-10-31T21:30:49.216Z"
+    }
+  ],
+  "sets": [
+    {
+      "set": "floral-vector-borders",
+      "current": "1.0.0",
+      "next": "1.0.1",
+      "bump": "patch",
+      "commit": "b49e1ba7dfe378a29ac7bacf6f2820a2cc1b1130",
+      "inputsHash": "sha256:2f9fedc56abb96eac9fcf7da95a559be8c37242ad84b24d75b47e729a89488b5",
+      "contentHash": "sha256:104cf8afa96725320ce8bdd3c5984a0a4d915ed21a9698590291aed898552766",
+      "added": 0,
+      "changed": 0,
+      "removed": 0
+    }
+  ],
+  "index": {
+    "name": "@ranx729/ducktape-assets",
+    "version": "1.7.0",
+    "previous": "1.6.0",
+    "pins": {
+      "illuminated-acanthus": "2.0.2",
+      "medieval-cutouts": "1.0.2",
+      "walters-w102": "1.0.2",
+      "hopfer-prints": "1.0.0",
+      "schongauer-prints": "1.0.0",
+      "solis-prints": "1.0.0",
+      "fuchs-1542-herbal": "1.0.0",
+      "gessner-historiae-animalium": "1.0.0",
+      "mkg-de-bry-alphabet": "1.0.0",
+      "met-356741": "1.0.0",
+      "cma-1950-154": "1.0.0",
+      "cma-1963-256": "1.0.0",
+      "getty-ms20": "1.0.0",
+      "aldegrever-prints": "1.0.0",
+      "beham-prints": "1.0.0",
+      "meckenem-prints": "1.0.0",
+      "zoan-andrea-prints": "1.0.0",
+      "della-bella-prints": "1.0.0",
+      "lucas-van-leyden-prints": "1.0.0",
+      "christollien-prints": "1.0.0",
+      "giancarli-prints": "1.0.0",
+      "master-w-with-the-key-prints": "1.0.0",
+      "authored-ornaments": "1.0.0",
+      "cma-1524-psalter": "1.0.0",
+      "walters-w82": "1.0.0",
+      "met-livre-nouveau-de-fleurs": "1.0.0",
+      "openn-lewis-e-m": "1.0.0",
+      "numbered-plate": "1.0.0",
+      "walters-w171": "1.0.0",
+      "supplied-sheets": "1.0.0",
+      "walters-w73": "1.0.0",
+      "met-schoen-modelbuch": "1.0.0",
+      "met-latomus-lace": "1.0.0",
+      "shaggy-bestiary": "1.0.0",
+      "cma-2014-22": "1.0.0",
+      "du-cerceau-prints": "1.0.0",
+      "cma-2005-206": "1.0.0",
+      "walters-w88": "1.0.0",
+      "walters-w186": "1.0.0",
+      "walters-w7": "1.0.0",
+      "cma-2011-53": "1.0.0",
+      "cma-2006-13": "1.0.0",
+      "floral-vector-borders": "1.0.1",
+      "walters-w148": "1.0.0",
+      "cma-2003-171": "1.0.0",
+      "cma-2011-65": "1.0.0",
+      "cma-1953-24": "1.0.0",
+      "cma-1999-127": "1.0.0",
+      "fitzwilliam-ms1-2005": "1.0.0",
+      "cma-2001-79": "1.0.0"
+    },
+    "inputsHash": "sha256:14b4f5139a9dc8c45b3b965c36973d9e66c0ef6f3619d05575612df6de475004",
+    "contentHash": "sha256:9013af953940d3b70a2e5cccf585e220ac2206b79ca57b7f1dc0336d8770742a",
+    "result": "published",
+    "at": "2026-10-31T21:30:49.216Z"
+  },
+  "error": null,
+  "cdn": {
+    "checkedAt": "2026-10-31T21:34:21.915Z",
+    "ok": true,
+    "level": null,
+    "results": [
+      {
+        "name": "@ranx729/ducktape-assets-floral-vector-borders",
+        "version": "1.0.1",
+        "kind": "delivery",
+        "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-floral-vector-borders@1.0.1/manifest.json",
+        "attempts": 4,
+        "http": 200,
+        "result": "ok",
+        "detail": ""
+      },
+      {
+        "name": "@ranx729/ducktape-assets-floral-vector-borders-masters",
+        "version": "1.0.1",
+        "kind": "masters",
+        "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-floral-vector-borders-masters@1.0.1/package.json",
+        "attempts": 5,
+        "http": 200,
+        "result": "ok",
+        "detail": ""
+      },
+      {
+        "name": "@ranx729/ducktape-assets",
+        "version": "1.7.0",
+        "kind": "index",
+        "url": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets@1.7.0/package.json",
+        "attempts": 8,
+        "http": 200,
+        "result": "ok",
+        "detail": ""
+      }
+    ]
+  },
+  "archive": {
+    "tag": "run-41243521368",
+    "url": "https://github.com/adrian729/ducktape-assets/releases/tag/run-41243521368",
+    "assets": [
+      {
+        "name": "@ranx729/ducktape-assets-floral-vector-borders",
+        "version": "1.0.1",
+        "file": "ranx729-ducktape-assets-floral-vector-borders-1.0.1.tgz",
+        "bytes": 10392070,
+        "sha256": "sha256:1b943f72f24295183c3c8756a4d1937561a3e537c79b5d6cf17446c499c48e1f"
+      },
+      {
+        "name": "@ranx729/ducktape-assets-floral-vector-borders-masters",
+        "version": "1.0.1",
+        "file": "ranx729-ducktape-assets-floral-vector-borders-masters-1.0.1.tgz",
+        "bytes": 33996,
+        "sha256": "sha256:519b1159494063bf7305c99f0c20f25801b19f5cfcb73ac560e61bbfefb5f78e"
+      },
+      {
+        "name": "@ranx729/ducktape-assets",
+        "version": "1.7.0",
+        "file": "ranx729-ducktape-assets-1.7.0.tgz",
+        "bytes": 1475697,
+        "sha256": "sha256:29ac5fbfe04a77450b34fd018456db97327b6389a227f205161b197ff64abfd9"
+      }
+    ]
+  }
+}

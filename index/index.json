@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-30T13:24:04.857Z",
+  "generatedAt": "2026-10-31T21:30:44.024Z",
   "sets": {
     "aldegrever-prints": {
       "version": "1.0.0",
@@ -288,18 +288,18 @@
       "status": "active"
     },
     "floral-vector-borders": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "package": "@ranx729/ducktape-assets-floral-vector-borders",
       "parts": [],
       "mastersPackage": "@ranx729/ducktape-assets-floral-vector-borders-masters",
       "mastersParts": [],
-      "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-floral-vector-borders@1.0.0/",
-      "mastersCdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-floral-vector-borders-masters@1.0.0/",
+      "cdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-floral-vector-borders@1.0.1/",
+      "mastersCdn": "https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-floral-vector-borders-masters@1.0.1/",
       "assets": 6,
       "license": {
         "artwork": "CC-BY-4.0"
       },
-      "contentHash": "sha256:1856b134f66b765d02f9333246e9cbccdc9bb8d15a5e7534265ee47211ffa879",
+      "contentHash": "sha256:104cf8afa96725320ce8bdd3c5984a0a4d915ed21a9698590291aed898552766",
       "status": "active"
     },
     "fuchs-1542-herbal": {
